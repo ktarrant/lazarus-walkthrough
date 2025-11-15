@@ -77,6 +77,30 @@ impl Type {
     pub const fn as_index(self) -> usize {
         self as usize
     }
+
+    pub fn from_api_name(name: &str) -> Option<Self> {
+        match name {
+            "normal" => Some(Type::Normal),
+            "fire" => Some(Type::Fire),
+            "water" => Some(Type::Water),
+            "electric" => Some(Type::Electric),
+            "grass" => Some(Type::Grass),
+            "ice" => Some(Type::Ice),
+            "fighting" => Some(Type::Fighting),
+            "poison" => Some(Type::Poison),
+            "ground" => Some(Type::Ground),
+            "flying" => Some(Type::Flying),
+            "psychic" => Some(Type::Psychic),
+            "bug" => Some(Type::Bug),
+            "rock" => Some(Type::Rock),
+            "ghost" => Some(Type::Ghost),
+            "dragon" => Some(Type::Dragon),
+            "dark" => Some(Type::Dark),
+            "steel" => Some(Type::Steel),
+            "fairy" => Some(Type::Fairy),
+            _ => None,
+        }
+    }
 }
 
 pub const ORDERED_TYPES: [Type; TYPE_COUNT] = [
@@ -222,13 +246,17 @@ pub fn colored_table() -> String {
     output
 }
 
-fn format_multiplier(value: f32) -> &'static str {
-    if (value - 2.0).abs() < f32::EPSILON {
+pub fn format_multiplier(value: f32) -> &'static str {
+    if (value - 4.0).abs() < f32::EPSILON {
+        "4"
+    } else if (value - 2.0).abs() < f32::EPSILON {
         "2"
     } else if (value - 1.0).abs() < f32::EPSILON {
         "1"
     } else if (value - 0.5).abs() < f32::EPSILON {
         "0.5"
+    } else if (value - 0.25).abs() < f32::EPSILON {
+        "0.25"
     } else if value.abs() < f32::EPSILON {
         "0"
     } else {

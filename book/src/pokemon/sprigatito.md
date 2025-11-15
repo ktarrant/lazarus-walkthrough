@@ -6,6 +6,21 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 - Overgrow
 - Protean *(Hidden)*
 
+**Type Matchups**
+
+*Resists / Immune to*
+- Water (0.5×)
+- Electric (0.5×)
+- Grass (0.5×)
+- Ground (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Ice (2×)
+- Poison (2×)
+- Flying (2×)
+- Bug (2×)
+
 **Base Stats**
 
 | Stat | Value |

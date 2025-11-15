@@ -6,6 +6,21 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 - Blaze
 - Unaware *(Hidden)*
 
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Grass (0.5×)
+- Ice (0.5×)
+- Bug (0.5×)
+- Steel (0.5×)
+- Fairy (0.5×)
+
+*Weak to*
+- Water (2×)
+- Ground (2×)
+- Rock (2×)
+
 **Base Stats**
 
 | Stat | Value |

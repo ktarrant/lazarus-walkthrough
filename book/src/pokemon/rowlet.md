@@ -6,6 +6,21 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 - Overgrow
 - Long Reach *(Hidden)*
 
+**Type Matchups**
+
+*Resists / Immune to*
+- Water (0.5×)
+- Grass (0.25×)
+- Fighting (0.5×)
+- Ground (0×)
+
+*Weak to*
+- Fire (2×)
+- Ice (4×)
+- Poison (2×)
+- Flying (2×)
+- Rock (2×)
+
 **Base Stats**
 
 | Stat | Value |

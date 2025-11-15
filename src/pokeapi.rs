@@ -1,3 +1,4 @@
+use crate::type_chart;
 use anyhow::{Context, Result, anyhow, bail};
 use serde::Deserialize;
 use std::fmt::Write;
@@ -142,6 +143,7 @@ pub struct PokemonCard {
     flavor_text: Option<String>,
     evolution_paths: Vec<String>,
     moves: Vec<MoveLine>,
+    type_matchups: TypeMatchups,
 }
 
 impl PokemonCard {
@@ -158,6 +160,12 @@ impl PokemonCard {
             display
         };
         let types = extract_types(&pokemon);
+        let type_elements: Vec<type_chart::Type> = pokemon
+            .types
+            .iter()
+            .filter_map(|slot| type_chart::Type::from_api_name(&slot.type_info.name))
+            .collect();
+        let type_matchups = summarize_type_matchups(&type_elements);
         let abilities = extract_abilities(&pokemon);
         let (stats, total) = extract_stats(&pokemon);
         let moves = extract_moves(&pokemon);
@@ -182,6 +190,7 @@ impl PokemonCard {
             flavor_text,
             evolution_paths,
             moves,
+            type_matchups,
         })
     }
 
@@ -214,6 +223,22 @@ impl PokemonCard {
                     writeln!(&mut buf, "- {} *(Hidden)*", ability.name).unwrap();
                 } else {
                     writeln!(&mut buf, "- {}", ability.name).unwrap();
+                }
+            }
+        }
+
+        if self.type_matchups.has_data() {
+            buf.push_str("\n**Type Matchups**\n");
+            if !self.type_matchups.strong_against.is_empty() {
+                buf.push_str("\n*Resists / Immune to*\n");
+                for entry in &self.type_matchups.strong_against {
+                    writeln!(&mut buf, "- {}", entry).unwrap();
+                }
+            }
+            if !self.type_matchups.weak_against.is_empty() {
+                buf.push_str("\n*Weak to*\n");
+                for entry in &self.type_matchups.weak_against {
+                    writeln!(&mut buf, "- {}", entry).unwrap();
                 }
             }
         }
@@ -268,6 +293,18 @@ struct MoveLine {
     name: String,
     level: u32,
     version: String,
+}
+
+#[derive(Debug, Clone, Default)]
+struct TypeMatchups {
+    strong_against: Vec<String>,
+    weak_against: Vec<String>,
+}
+
+impl TypeMatchups {
+    fn has_data(&self) -> bool {
+        !(self.strong_against.is_empty() && self.weak_against.is_empty())
+    }
 }
 
 fn display_name(slug: &str) -> String {
@@ -369,6 +406,39 @@ fn extract_moves(pokemon: &Pokemon) -> Vec<MoveLine> {
     candidates.retain(|entry| seen.insert(entry.name.clone()));
     candidates.truncate(6);
     candidates
+}
+
+fn summarize_type_matchups(types: &[type_chart::Type]) -> TypeMatchups {
+    if types.is_empty() {
+        return TypeMatchups::default();
+    }
+
+    let mut strong = Vec::new();
+    let mut weak = Vec::new();
+    for attack in type_chart::ORDERED_TYPES.iter() {
+        let mut multiplier = 1.0;
+        for pokemon_type in types {
+            multiplier *= type_chart::multiplier(*attack, *pokemon_type);
+        }
+        if (multiplier - 1.0).abs() < f32::EPSILON {
+            continue;
+        }
+        let label = format!(
+            "{} ({}×)",
+            attack.name(),
+            type_chart::format_multiplier(multiplier)
+        );
+        if multiplier < 1.0 {
+            strong.push(label);
+        } else if multiplier > 1.0 {
+            weak.push(label);
+        }
+    }
+
+    TypeMatchups {
+        strong_against: strong,
+        weak_against: weak,
+    }
 }
 
 fn pick_flavor_text(species: &PokemonSpecies) -> Option<String> {

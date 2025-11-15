@@ -6,6 +6,18 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 - Torrent
 - Liquid Voice *(Hidden)*
 
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Water (0.5×)
+- Ice (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Electric (2×)
+- Grass (2×)
+
 **Base Stats**
 
 | Stat | Value |
