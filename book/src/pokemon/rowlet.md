@@ -2,6 +2,8 @@
 _Grass Quill Pokémon_ • Types: Grass / Flying
 Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Overgrow
 - Long Reach *(Hidden)*
@@ -21,6 +23,10 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 - Flying (2×)
 - Rock (2×)
 
+**Evolution Paths**
+- Rowlet → Dartrix (Lv 17) → Decidueye (Lv 34)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -40,9 +46,8 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 - Tackle (Lv 1, Sun Moon)
 - Astonish (Lv 6, Sword Shield)
 - Peck (Lv 8, Sun Moon)
-
-**Evolution Paths**
-- Rowlet → Dartrix (Lv 17) → Decidueye (Lv 34)
+</div>
+</div>
 
 **Flavor Text**
 > At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.

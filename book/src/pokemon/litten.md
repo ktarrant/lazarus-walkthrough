@@ -2,6 +2,8 @@
 _Fire Cat Pokémon_ • Types: Fire
 Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Blaze
 - Intimidate *(Hidden)*
@@ -21,6 +23,10 @@ Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 - Ground (2×)
 - Rock (2×)
 
+**Evolution Paths**
+- Litten → Torracat (Lv 17) → Incineroar (Lv 34)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -40,9 +46,8 @@ Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 - Lick (Lv 6, Sword Shield)
 - Roar (Lv 9, Sword Shield)
 - Leer (Lv 11, Sun Moon)
-
-**Evolution Paths**
-- Litten → Torracat (Lv 17) → Incineroar (Lv 34)
+</div>
+</div>
 
 **Flavor Text**
 > It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.

@@ -216,59 +216,76 @@ impl PokemonCard {
         }
         writeln!(&mut buf, "{}", stat_line).unwrap();
 
+        let mut left_column = String::new();
+        let mut right_column = String::new();
+
         if !self.abilities.is_empty() {
-            buf.push_str("\n**Abilities**\n");
+            left_column.push_str("**Abilities**\n");
             for ability in &self.abilities {
                 if ability.is_hidden {
-                    writeln!(&mut buf, "- {} *(Hidden)*", ability.name).unwrap();
+                    writeln!(&mut left_column, "- {} *(Hidden)*", ability.name).unwrap();
                 } else {
-                    writeln!(&mut buf, "- {}", ability.name).unwrap();
+                    writeln!(&mut left_column, "- {}", ability.name).unwrap();
                 }
             }
+            left_column.push('\n');
         }
 
         if self.type_matchups.has_data() {
-            buf.push_str("\n**Type Matchups**\n");
+            left_column.push_str("**Type Matchups**\n");
             if !self.type_matchups.strong_against.is_empty() {
-                buf.push_str("\n*Resists / Immune to*\n");
+                left_column.push_str("\n*Resists / Immune to*\n");
                 for entry in &self.type_matchups.strong_against {
-                    writeln!(&mut buf, "- {}", entry).unwrap();
+                    writeln!(&mut left_column, "- {}", entry).unwrap();
                 }
             }
             if !self.type_matchups.weak_against.is_empty() {
-                buf.push_str("\n*Weak to*\n");
+                left_column.push_str("\n*Weak to*\n");
                 for entry in &self.type_matchups.weak_against {
-                    writeln!(&mut buf, "- {}", entry).unwrap();
+                    writeln!(&mut left_column, "- {}", entry).unwrap();
                 }
             }
+            left_column.push('\n');
         }
 
         if !self.stats.is_empty() {
-            buf.push_str("\n**Base Stats**\n\n| Stat | Value |\n| --- | --- |\n");
+            right_column.push_str("**Base Stats**\n\n| Stat | Value |\n| --- | --- |\n");
             for stat in &self.stats {
-                writeln!(&mut buf, "| {} | {} |", stat.name, stat.value).unwrap();
+                writeln!(&mut right_column, "| {} | {} |", stat.name, stat.value).unwrap();
             }
-            writeln!(&mut buf, "| Total | {} |\n", self.stats_total).unwrap();
+            writeln!(&mut right_column, "| Total | {} |\n", self.stats_total).unwrap();
         }
 
         if !self.moves.is_empty() {
-            buf.push_str("**Notable Level-Up Moves**\n");
+            right_column.push_str("**Notable Level-Up Moves**\n");
             for mv in &self.moves {
-                writeln!(&mut buf, "- {} (Lv {}, {})", mv.name, mv.level, mv.version).unwrap();
+                writeln!(
+                    &mut right_column,
+                    "- {} (Lv {}, {})",
+                    mv.name, mv.level, mv.version
+                )
+                .unwrap();
             }
-            buf.push('\n');
+            right_column.push('\n');
         }
 
         if !self.evolution_paths.is_empty() {
-            buf.push_str("**Evolution Paths**\n");
+            left_column.push_str("**Evolution Paths**\n");
             for path in &self.evolution_paths {
-                writeln!(&mut buf, "- {}", path).unwrap();
+                writeln!(&mut left_column, "- {}", path).unwrap();
             }
-            buf.push('\n');
+            left_column.push('\n');
         }
 
+        buf.push_str("\n<div class=\"pokemon-card\">\n");
+        buf.push_str("<div class=\"card-column\">\n");
+        buf.push_str(left_column.trim());
+        buf.push_str("\n</div>\n<div class=\"card-column\">\n");
+        buf.push_str(right_column.trim());
+        buf.push_str("\n</div>\n</div>\n");
+
         if let Some(text) = &self.flavor_text {
-            buf.push_str("**Flavor Text**\n");
+            buf.push_str("\n**Flavor Text**\n");
             writeln!(&mut buf, "> {}", text).unwrap();
         }
 

@@ -2,6 +2,8 @@
 _Spiny Nut Pokémon_ • Types: Grass
 Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Overgrow
 - Bulletproof *(Hidden)*
@@ -21,6 +23,10 @@ Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 - Flying (2×)
 - Bug (2×)
 
+**Evolution Paths**
+- Chespin → Quilladin (Lv 16) → Chesnaught (Lv 36)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -40,9 +46,8 @@ Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 - Rollout (Lv 8, X Y)
 - Bite (Lv 11, X Y)
 - Leech Seed (Lv 15, X Y)
-
-**Evolution Paths**
-- Chespin → Quilladin (Lv 16) → Chesnaught (Lv 36)
+</div>
+</div>
 
 **Flavor Text**
 > The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.

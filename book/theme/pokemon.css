@@ -1,0 +1,14 @@
+.pokemon-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.pokemon-card .card-column {
+    flex: 1 1 260px;
+}
+
+.pokemon-card .card-column table {
+    width: 100%;
+}

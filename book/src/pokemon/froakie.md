@@ -2,6 +2,8 @@
 _Bubble Frog Pokémon_ • Types: Water
 Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Torrent
 - Protean *(Hidden)*
@@ -18,6 +20,10 @@ Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 - Electric (2×)
 - Grass (2×)
 
+**Evolution Paths**
+- Froakie → Frogadier (Lv 16) → Greninja (Lv 36)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -37,9 +43,8 @@ Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 - Water Gun (Lv 5, Scarlet Violet)
 - Quick Attack (Lv 8, X Y)
 - Lick (Lv 10, X Y)
-
-**Evolution Paths**
-- Froakie → Frogadier (Lv 16) → Greninja (Lv 36)
+</div>
+</div>
 
 **Flavor Text**
 > It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.

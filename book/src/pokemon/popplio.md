@@ -2,6 +2,8 @@
 _Sea Lion Pokémon_ • Types: Water
 Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Torrent
 - Liquid Voice *(Hidden)*
@@ -18,6 +20,10 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 - Electric (2×)
 - Grass (2×)
 
+**Evolution Paths**
+- Popplio → Brionne (Lv 17) → Primarina (Lv 34)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -37,9 +43,8 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 - Disarming Voice (Lv 6, Sword Shield)
 - Aqua Jet (Lv 9, Sword Shield)
 - Baby Doll Eyes (Lv 11, Sun Moon)
-
-**Evolution Paths**
-- Popplio → Brionne (Lv 17) → Primarina (Lv 34)
+</div>
+</div>
 
 **Flavor Text**
 > It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.

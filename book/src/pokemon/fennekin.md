@@ -2,6 +2,8 @@
 _Fox Pokémon_ • Types: Fire
 Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Blaze
 - Magician *(Hidden)*
@@ -21,6 +23,10 @@ Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 - Ground (2×)
 - Rock (2×)
 
+**Evolution Paths**
+- Fennekin → Braixen (Lv 16) → Delphox (Lv 36)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -40,9 +46,8 @@ Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 - Howl (Lv 11, X Y)
 - Flame Charge (Lv 14, X Y)
 - Psybeam (Lv 17, X Y)
-
-**Evolution Paths**
-- Fennekin → Braixen (Lv 16) → Delphox (Lv 36)
+</div>
+</div>
 
 **Flavor Text**
 > Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.

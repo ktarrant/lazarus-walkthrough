@@ -2,6 +2,8 @@
 _Fire Croc Pokémon_ • Types: Fire
 Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Blaze
 - Unaware *(Hidden)*
@@ -21,6 +23,10 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 - Ground (2×)
 - Rock (2×)
 
+**Evolution Paths**
+- Fuecoco → Crocalor (Lv 16) → Skeledirge (Lv 36)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -40,9 +46,8 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 - Round (Lv 7, Scarlet Violet)
 - Bite (Lv 12, Scarlet Violet)
 - Incinerate (Lv 15, Scarlet Violet)
-
-**Evolution Paths**
-- Fuecoco → Crocalor (Lv 16) → Skeledirge (Lv 36)
+</div>
+</div>
 
 **Flavor Text**
 > Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro.

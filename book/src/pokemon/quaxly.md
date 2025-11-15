@@ -2,6 +2,8 @@
 _Duckling Pokémon_ • Types: Water
 Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Torrent
 - Moxie *(Hidden)*
@@ -18,6 +20,10 @@ Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 - Electric (2×)
 - Grass (2×)
 
+**Evolution Paths**
+- Quaxly → Quaxwell (Lv 16) → Quaquaval (Lv 36)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -37,9 +43,8 @@ Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 - Work Up (Lv 7, Scarlet Violet)
 - Wing Attack (Lv 10, Scarlet Violet)
 - Aqua Jet (Lv 13, Scarlet Violet)
-
-**Evolution Paths**
-- Quaxly → Quaxwell (Lv 16) → Quaquaval (Lv 36)
+</div>
+</div>
 
 **Flavor Text**
 > Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things.

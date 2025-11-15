@@ -3,3 +3,6 @@ authors = ["ktarrant"]
 language = "en"
 src = "src"
 title = "Pokemon Walkthrough"
+
+[output.html]
+additional-css = ["theme/pokemon.css"]

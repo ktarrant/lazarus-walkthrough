@@ -2,6 +2,8 @@
 _Grass Cat Pokémon_ • Types: Grass
 Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 
+<div class="pokemon-card">
+<div class="card-column">
 **Abilities**
 - Overgrow
 - Protean *(Hidden)*
@@ -21,6 +23,10 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 - Flying (2×)
 - Bug (2×)
 
+**Evolution Paths**
+- Sprigatito → Floragato (Lv 16) → Meowscarada (Lv 36)
+</div>
+<div class="card-column">
 **Base Stats**
 
 | Stat | Value |
@@ -40,9 +46,8 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 - Bite (Lv 7, Scarlet Violet)
 - Hone Claws (Lv 10, Scarlet Violet)
 - Magical Leaf (Lv 13, Scarlet Violet)
-
-**Evolution Paths**
-- Sprigatito → Floragato (Lv 16) → Meowscarada (Lv 36)
+</div>
+</div>
 
 **Flavor Text**
 > The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
