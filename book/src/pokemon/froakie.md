@@ -1,4 +1,6 @@
 ## Froakie (#656)
+<details class="pokemon-card-container" open>
+<summary>Froakie overview</summary>
 _Bubble Frog Pokémon_ • Types: Water
 Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 
@@ -48,3 +50,4 @@ Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 
 **Flavor Text**
 > It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.
+</details>

@@ -197,6 +197,9 @@ impl PokemonCard {
     pub fn render_markdown(&self) -> String {
         let mut buf = String::new();
         writeln!(&mut buf, "## {} (#{:03})", self.name, self.id).unwrap();
+        buf.push_str("<details class=\"pokemon-card-container\" open>\n");
+        writeln!(&mut buf, "<summary>{} overview</summary>", self.name).unwrap();
+
         if let Some(genus) = &self.genus {
             if !self.types.is_empty() {
                 writeln!(&mut buf, "_{}_ • Types: {}", genus, self.types.join(" / ")).unwrap();
@@ -289,6 +292,7 @@ impl PokemonCard {
             writeln!(&mut buf, "> {}", text).unwrap();
         }
 
+        buf.push_str("</details>\n");
         buf
     }
 }

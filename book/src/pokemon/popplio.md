@@ -1,4 +1,6 @@
 ## Popplio (#728)
+<details class="pokemon-card-container" open>
+<summary>Popplio overview</summary>
 _Sea Lion Pokémon_ • Types: Water
 Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 
@@ -48,3 +50,4 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 
 **Flavor Text**
 > It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.
+</details>

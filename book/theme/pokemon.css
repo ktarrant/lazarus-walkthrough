@@ -12,3 +12,18 @@
 .pokemon-card .card-column table {
     width: 100%;
 }
+
+.pokemon-card-container {
+    border: 1px solid #3a3f4b;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    margin: 1rem 0 2rem;
+    background: #1e222a;
+    color: inherit;
+}
+
+.pokemon-card-container summary {
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}

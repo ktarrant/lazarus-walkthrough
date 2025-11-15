@@ -1,4 +1,6 @@
 ## Rowlet (#722)
+<details class="pokemon-card-container" open>
+<summary>Rowlet overview</summary>
 _Grass Quill Pokémon_ • Types: Grass / Flying
 Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 
@@ -51,3 +53,4 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 
 **Flavor Text**
 > At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.
+</details>

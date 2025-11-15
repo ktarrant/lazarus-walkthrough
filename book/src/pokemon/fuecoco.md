@@ -1,4 +1,6 @@
 ## Fuecoco (#909)
+<details class="pokemon-card-container" open>
+<summary>Fuecoco overview</summary>
 _Fire Croc Pokémon_ • Types: Fire
 Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 
@@ -51,3 +53,4 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 
 **Flavor Text**
 > Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro.
+</details>

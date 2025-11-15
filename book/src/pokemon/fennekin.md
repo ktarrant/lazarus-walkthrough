@@ -1,4 +1,6 @@
 ## Fennekin (#653)
+<details class="pokemon-card-container" open>
+<summary>Fennekin overview</summary>
 _Fox Pokémon_ • Types: Fire
 Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 
@@ -51,3 +53,4 @@ Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 
 **Flavor Text**
 > Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.
+</details>

@@ -1,4 +1,6 @@
 ## Chespin (#650)
+<details class="pokemon-card-container" open>
+<summary>Chespin overview</summary>
 _Spiny Nut Pokémon_ • Types: Grass
 Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 
@@ -51,3 +53,4 @@ Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 
 **Flavor Text**
 > The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.
+</details>

@@ -1,4 +1,6 @@
 ## Sprigatito (#906)
+<details class="pokemon-card-container" open>
+<summary>Sprigatito overview</summary>
 _Grass Cat Pokémon_ • Types: Grass
 Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 
@@ -51,3 +53,4 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 
 **Flavor Text**
 > The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
+</details>

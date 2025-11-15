@@ -1,4 +1,6 @@
 ## Litten (#725)
+<details class="pokemon-card-container" open>
+<summary>Litten overview</summary>
 _Fire Cat Pokémon_ • Types: Fire
 Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 
@@ -51,3 +53,4 @@ Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 
 **Flavor Text**
 > It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.
+</details>

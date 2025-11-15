@@ -1,4 +1,6 @@
 ## Quaxly (#912)
+<details class="pokemon-card-container" open>
+<summary>Quaxly overview</summary>
 _Duckling Pokémon_ • Types: Water
 Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 
@@ -48,3 +50,4 @@ Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 
 **Flavor Text**
 > Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things.
+</details>
