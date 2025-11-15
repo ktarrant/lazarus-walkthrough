@@ -9,11 +9,6 @@ material pulled from the repository notes, including the full list of Lazarus
 starter options: Popplio, Rowlet, Froakie, Chespin, Litten, Quaxly, Fennekin,
 Sprigatito, and Fuecoco.
 
-We also cache the entire PokeAPI dataset locally (see `pokemon-cards.md`) so any
-chapter can drop in a fully generated Pokémon card for quick reference on a
-species’ abilities, moves, evolutions, and stats without copying values by hand.
-
-Wild encounter information is transcribed from the PDF `Pokemon Lazarus
-Documentation - Encounters.pdf` into structured JSON (see `encounters.md`). That
-data powers reusable tables so every route reference stays consistent with the
-original documentation.
+The walkthrough includes reusable Pokémon cards and encounter tables so future
+chapters can focus on story beats, team-building tips, and battle strategies
+without repeating raw data.
