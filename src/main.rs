@@ -6,5 +6,5 @@ fn main() {
     println!("This table is generated from the structured data in `src/type_chart.rs`.");
     println!("Run `cargo run > book/src/type-matchups.md` whenever the source data changes.");
     println!();
-    print!("{}", type_chart::markdown_table());
+    print!("{}", type_chart::colored_table());
 }

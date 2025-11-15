@@ -51,6 +51,29 @@ impl Type {
         }
     }
 
+    pub fn short_name(self) -> &'static str {
+        match self {
+            Type::Normal => "Nor",
+            Type::Fire => "Fir",
+            Type::Water => "Wat",
+            Type::Electric => "Ele",
+            Type::Grass => "Gra",
+            Type::Ice => "Ice",
+            Type::Fighting => "Fig",
+            Type::Poison => "Poi",
+            Type::Ground => "Gro",
+            Type::Flying => "Fly",
+            Type::Psychic => "Psy",
+            Type::Bug => "Bug",
+            Type::Rock => "Roc",
+            Type::Ghost => "Gho",
+            Type::Dragon => "Dra",
+            Type::Dark => "Dar",
+            Type::Steel => "Ste",
+            Type::Fairy => "Fai",
+        }
+    }
+
     pub const fn as_index(self) -> usize {
         self as usize
     }
@@ -156,36 +179,46 @@ pub fn multiplier(attacking: Type, defending: Type) -> f32 {
     EFFECTIVENESS[attacking.as_index()][defending.as_index()]
 }
 
-pub fn markdown_table() -> String {
+pub fn colored_table() -> String {
     let mut output = String::new();
-    output.push('|');
-    output.push_str(" Att \\ Def |");
+    output.push_str(r#"<table class="type-chart">"#);
+    output.push('\n');
+    output.push_str("<thead><tr><th>Att \\ Def</th>");
     for def in ORDERED_TYPES.iter() {
-        output.push(' ');
-        output.push_str(def.name());
-        output.push_str(" |");
+        write!(
+            &mut output,
+            r#"<th><abbr title="{full}">{short}</abbr></th>"#,
+            full = def.name(),
+            short = def.short_name()
+        )
+        .expect("writing header");
     }
-    output.push('\n');
-
-    output.push('|');
-    output.push_str(" --- |");
-    for _ in ORDERED_TYPES.iter() {
-        output.push_str(" --- |");
-    }
-    output.push('\n');
+    output.push_str("</tr></thead>\n<tbody>\n");
 
     for atk in ORDERED_TYPES.iter() {
-        output.push('|');
-        output.push(' ');
-        output.push_str(atk.name());
-        output.push_str(" |");
+        write!(
+            &mut output,
+            r#"<tr><th scope="row"><abbr title="{full}">{short}</abbr></th>"#,
+            full = atk.name(),
+            short = atk.short_name()
+        )
+        .expect("writing row header");
         for def in ORDERED_TYPES.iter() {
             let value = multiplier(*atk, *def);
-            write!(&mut output, " {} |", format_multiplier(value)).expect("formatting to succeed");
+            let display = format_multiplier(value);
+            let color = color_for_multiplier(value);
+            write!(
+                &mut output,
+                r#"<td style="background-color:{color};text-align:center;font-weight:500">{display}×</td>"#,
+                color = color,
+                display = display
+            )
+            .expect("writing cell");
         }
-        output.push('\n');
+        output.push_str("</tr>\n");
     }
 
+    output.push_str("</tbody>\n</table>\n");
     output
 }
 
@@ -200,5 +233,19 @@ fn format_multiplier(value: f32) -> &'static str {
         "0"
     } else {
         "?"
+    }
+}
+
+fn color_for_multiplier(value: f32) -> &'static str {
+    if (value - 2.0).abs() < f32::EPSILON {
+        "#c8f7c5"
+    } else if (value - 1.0).abs() < f32::EPSILON {
+        "#ffffff"
+    } else if (value - 0.5).abs() < f32::EPSILON {
+        "#ffe6b3"
+    } else if value.abs() < f32::EPSILON {
+        "#e0e0e0"
+    } else {
+        "#f5f5f5"
     }
 }
