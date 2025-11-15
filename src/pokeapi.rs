@@ -15,11 +15,34 @@ impl Repository {
         Self { root: root.into() }
     }
 
-    pub fn build_card(&self, identifier: &str) -> Result<PokemonCard> {
+    pub fn build_card_deck(&self, identifier: &str) -> Result<PokemonCardDeck> {
         let species = self.load_species(identifier)?;
         let pokemon = self.load_pokemon(species.id)?;
-        let evolution_paths = self.load_evolution_paths(&species)?;
-        PokemonCard::from_records(pokemon, species, evolution_paths)
+        if let Some(chain) = self.load_evolution_chain(&species)? {
+            let evolution_paths = render_paths(&chain);
+            let mut cards = Vec::new();
+            let mut active_idx = 0;
+            for (idx, species_id) in collect_chain_species(&chain).iter().enumerate() {
+                let species_data = self.read_species_file(*species_id)?;
+                let pokemon_data = self.load_pokemon(species_data.id)?;
+                if species_data.id == species.id {
+                    active_idx = idx;
+                }
+                let card =
+                    PokemonCard::from_records(pokemon_data, species_data, evolution_paths.clone())?;
+                cards.push(card);
+            }
+            Ok(PokemonCardDeck {
+                cards,
+                active_index: active_idx,
+            })
+        } else {
+            let card = PokemonCard::from_records(pokemon, species, Vec::new())?;
+            Ok(PokemonCardDeck {
+                cards: vec![card],
+                active_index: 0,
+            })
+        }
     }
 
     fn load_species(&self, identifier: &str) -> Result<PokemonSpecies> {
@@ -71,13 +94,13 @@ impl Repository {
         read_json(&path).with_context(|| format!("reading species data from {}", path.display()))
     }
 
-    fn load_evolution_paths(&self, species: &PokemonSpecies) -> Result<Vec<String>> {
+    fn load_evolution_chain(&self, species: &PokemonSpecies) -> Result<Option<EvolutionChain>> {
         let Some(url) = species
             .evolution_chain
             .as_ref()
             .map(|link| link.url.as_str())
         else {
-            return Ok(Vec::new());
+            return Ok(None);
         };
         let id = extract_id_from_url(url)?;
         let path = self
@@ -88,7 +111,7 @@ impl Repository {
 
         let chain: EvolutionChain = read_json(&path)
             .with_context(|| format!("reading evolution chain {}", path.display()))?;
-        Ok(render_paths(&chain))
+        Ok(Some(chain))
     }
 }
 
@@ -144,6 +167,11 @@ pub struct PokemonCard {
     evolution_paths: Vec<String>,
     moves: Vec<MoveLine>,
     type_matchups: TypeMatchups,
+}
+
+pub struct PokemonCardDeck {
+    cards: Vec<PokemonCard>,
+    active_index: usize,
 }
 
 impl PokemonCard {
@@ -294,6 +322,80 @@ impl PokemonCard {
 
         buf.push_str("</details>\n");
         buf
+    }
+}
+
+impl PokemonCardDeck {
+    pub fn render_markdown(&self) -> String {
+        if self.cards.is_empty() {
+            return String::new();
+        }
+        if self.cards.len() == 1 {
+            return self.cards[0].render_markdown();
+        }
+
+        let active_card = &self.cards[self.active_index];
+        let slug = slugify(&active_card.name);
+        let group_name = format!("pokemon-tabs-{}-{}", slug, active_card.id);
+        let radio_name = format!("{}-group", group_name);
+        let mut output = String::new();
+        writeln!(
+            &mut output,
+            r#"<div class="pokemon-tabs" id="{group}">"#,
+            group = group_name
+        )
+        .unwrap();
+
+        for (idx, card) in self.cards.iter().enumerate() {
+            let tab_id = format!("{}-tab-{}", group_name, idx);
+            let checked = if idx == self.active_index {
+                " checked"
+            } else {
+                ""
+            };
+            writeln!(
+                &mut output,
+                r#"<input type="radio" name="{name}" id="{tab}"{checked}>"#,
+                name = radio_name,
+                tab = tab_id,
+                checked = checked
+            )
+            .unwrap();
+            writeln!(
+                &mut output,
+                r#"<label for="{tab}">{name}</label>"#,
+                tab = tab_id,
+                name = card.name
+            )
+            .unwrap();
+        }
+
+        output.push_str("<div class=\"pokemon-tab-panels\">\n");
+        for (idx, card) in self.cards.iter().enumerate() {
+            let panel_id = format!("{}-panel-{}", group_name, idx);
+            writeln!(
+                &mut output,
+                r#"<div class="pokemon-tab-panel" id="{panel}">"#,
+                panel = panel_id
+            )
+            .unwrap();
+            output.push_str(&card.render_markdown());
+            output.push_str("</div>\n");
+        }
+        output.push_str("</div>\n</div>\n<style>\n");
+        for idx in 0..self.cards.len() {
+            let tab_id = format!("{}-tab-{}", group_name, idx);
+            let panel_id = format!("{}-panel-{}", group_name, idx);
+            writeln!(
+                &mut output,
+                "#{tab}:checked ~ .pokemon-tab-panels #{panel} {{ display: block; }}",
+                tab = tab_id,
+                panel = panel_id
+            )
+            .unwrap();
+        }
+        output.push_str("</style>\n");
+        output
     }
 }
 
@@ -504,6 +606,21 @@ fn render_paths(chain: &EvolutionChain) -> Vec<String> {
     let root = vec![display_name(&chain.chain.species.name)];
     build_paths(&chain.chain, root, &mut paths);
     paths
+}
+
+fn collect_chain_species(chain: &EvolutionChain) -> Vec<u32> {
+    fn visit(link: &ChainLink, out: &mut Vec<u32>) {
+        if let Ok(id) = extract_id_from_url(&link.species.url) {
+            out.push(id);
+        }
+        for child in &link.evolves_to {
+            visit(child, out);
+        }
+    }
+
+    let mut ids = Vec::new();
+    visit(&chain.chain, &mut ids);
+    ids
 }
 
 fn build_paths(link: &ChainLink, prefix: Vec<String>, output: &mut Vec<String>) {

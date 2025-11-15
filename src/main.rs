@@ -50,7 +50,7 @@ fn render_type_chart() {
 
 fn render_pokemon_card(data_dir: PathBuf, identifier: String) -> Result<()> {
     let repo = pokeapi::Repository::new(data_dir);
-    let card = repo.build_card(&identifier)?;
-    print!("{}", card.render_markdown());
+    let deck = repo.build_card_deck(&identifier)?;
+    print!("{}", deck.render_markdown());
     Ok(())
 }
