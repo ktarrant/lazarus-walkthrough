@@ -5,3 +5,13 @@ step-by-step guide through the core story beats, optional quests, and team
 building strategies for multiple regions. For now we are laying the groundwork
 for the guide and documenting useful reference material pulled from the
 repository notes.
+
+![Type Chart](./images/typechart.png "Type Chart (Gen 6+)")
+
+Use the type chart above whenever a gym or Totem battle is coming up. The image
+is sourced from the `notes.md` file in the repository so updates there will
+automatically flow into the guide when the book is rebuilt.
+
+We also cache the entire PokeAPI dataset locally (see `pokemon-cards.md`) so any
+chapter can drop in a fully generated Pokémon card for quick reference on a
+species’ abilities, moves, evolutions, and stats without copying values by hand.
