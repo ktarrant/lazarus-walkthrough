@@ -1,6 +1,6 @@
 use anyhow::{Context, Result, anyhow};
 use serde::Deserialize;
-use std::collections::BTreeMap;
+use std::collections::{BTreeMap, BTreeSet};
 use std::fs;
 use std::path::PathBuf;
 
@@ -20,7 +20,7 @@ pub struct EncounterSection {
     pub table: Vec<EncounterEntry>,
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct EncounterEntry {
     pub pokemon: String,
     pub levels: Option<String>,
@@ -102,116 +102,124 @@ impl EncounterArea {
             buf.push_str(&format!("_Source: {}_\n\n", source));
         }
         if let Some(notes) = &self.notes {
-            if !notes.is_empty() {
-                buf.push_str(&format!("{notes}\n\n"));
+            if !notes.trim().is_empty() {
+                buf.push_str(notes);
+                buf.push_str("\n\n");
             }
         }
-        for section in &self.sections {
-            buf.push_str(&format!("#### {} (`{}`)\n\n", section.name, section.method));
-            let show_levels = section.table.iter().any(|e| e.levels.is_some());
-            let show_rate = section.table.iter().any(|e| e.rate.is_some());
-            let show_notes = section.table.iter().any(|e| {
-                e.notes
-                    .as_ref()
-                    .map(|n| !n.trim().is_empty())
-                    .unwrap_or(false)
-            });
 
-            let mut headers = vec!["Pokémon".to_string()];
-            if show_levels {
-                headers.push("Levels".to_string());
-            }
-            if show_rate {
-                headers.push("Rate".to_string());
-            }
-            if show_notes {
-                headers.push("Notes".to_string());
-            }
+        let columns = self.collect_columns();
+        let species_map = self.collect_species_map();
 
-            buf.push_str("| ");
-            buf.push_str(&headers.join(" | "));
-            buf.push_str(" |\n| ");
-            buf.push_str(
-                &headers
-                    .iter()
-                    .map(|_| "---")
-                    .collect::<Vec<_>>()
-                    .join(" | "),
-            );
-            buf.push_str(" |\n");
+        if columns.is_empty() || species_map.is_empty() {
+            buf.push_str("_No encounters recorded._\n");
+            return buf;
+        }
 
-            for entry in &section.table {
-                let mut row = vec![entry.pokemon.clone()];
-                if show_levels {
-                    row.push(entry.levels.clone().unwrap_or_else(|| "—".to_string()));
-                }
-                if show_rate {
-                    row.push(entry.rate.clone().unwrap_or_else(|| "—".to_string()));
-                }
-                if show_notes {
-                    row.push(entry.notes.clone().unwrap_or_else(|| "—".to_string()));
-                }
-                buf.push_str("| ");
-                buf.push_str(&row.join(" | "));
-                buf.push_str(" |\n");
+        buf.push_str("| Pokémon |");
+        for col in &columns {
+            buf.push(' ');
+            buf.push_str(&col.label);
+            buf.push_str(" |");
+        }
+        buf.push('\n');
+        buf.push_str("| --- |");
+        for _ in &columns {
+            buf.push_str(" --- |");
+        }
+        buf.push('\n');
+
+        for (species, methods) in species_map {
+            buf.push_str(&format!("| {} |", species));
+            for col in &columns {
+                let cell = methods
+                    .get(&col.slug)
+                    .map(|entry| {
+                        entry
+                            .rate
+                            .clone()
+                            .or_else(|| {
+                                entry.levels.as_ref().map(|levels| format!("Lv {}", levels))
+                            })
+                            .or_else(|| entry.notes.clone())
+                            .unwrap_or_else(|| "✓".to_string())
+                    })
+                    .unwrap_or_else(|| "—".to_string());
+                buf.push_str(&format!(" {} |", cell));
             }
             buf.push('\n');
         }
+        buf.push('\n');
         buf
+    }
+
+    fn collect_species_map(&self) -> BTreeMap<String, BTreeMap<String, EncounterEntry>> {
+        let mut map: BTreeMap<String, BTreeMap<String, EncounterEntry>> = BTreeMap::new();
+        for section in &self.sections {
+            for entry in &section.table {
+                map.entry(entry.pokemon.clone())
+                    .or_default()
+                    .insert(section.method.clone(), entry.clone());
+            }
+        }
+        map
+    }
+
+    fn collect_columns(&self) -> Vec<TableColumn> {
+        let mut columns = Vec::new();
+        let mut seen = BTreeSet::new();
+        for (slug, label) in METHOD_ORDER.iter() {
+            if self.sections.iter().any(|sec| sec.method == *slug) {
+                columns.push(TableColumn {
+                    slug: slug.to_string(),
+                    label: (*label).to_string(),
+                });
+                seen.insert(slug.to_string());
+            }
+        }
+        for section in &self.sections {
+            if seen.contains(&section.method) {
+                continue;
+            }
+            seen.insert(section.method.clone());
+            columns.push(TableColumn {
+                slug: section.method.clone(),
+                label: section.name.clone(),
+            });
+        }
+        columns
     }
 }
 
 fn build_area(raw: RawLocation, source: Option<String>) -> EncounterArea {
     let id = slugify(&raw.name);
     let mut sections = Vec::new();
-    for (method, _) in METHOD_ORDER.iter() {
-        if let Some(raw_entries) = raw.methods.get(*method) {
-            if raw_entries.is_empty() {
-                continue;
-            }
-            let table = raw_entries
-                .iter()
-                .map(|entry| EncounterEntry {
-                    pokemon: entry.pokemon.clone(),
-                    levels: entry.levels.clone(),
-                    rate: entry.rate.map(|r| format_rate(r)),
-                    notes: entry.notes.clone(),
-                })
-                .collect::<Vec<_>>();
+    let mut seen = BTreeSet::new();
+
+    for (method, label) in METHOD_ORDER.iter() {
+        if let Some(entries) = raw.methods.get(*method) {
+            let table = build_entries(entries);
             if table.is_empty() {
                 continue;
             }
             sections.push(EncounterSection {
-                name: method_label(method),
+                name: (*label).to_string(),
                 method: method.to_string(),
                 table,
             });
+            seen.insert(method.to_string());
         }
     }
 
-    // Include any unexpected methods to avoid losing data.
     for (method, entries) in raw.methods.iter() {
-        if METHOD_ORDER
-            .iter()
-            .any(|(known, _)| *known == method.as_str())
-        {
+        if seen.contains(method) {
             continue;
         }
-        if entries.is_empty() {
-            continue;
-        }
-        let table = entries
-            .iter()
-            .map(|entry| EncounterEntry {
-                pokemon: entry.pokemon.clone(),
-                levels: entry.levels.clone(),
-                rate: entry.rate.map(|r| format_rate(r)),
-                notes: entry.notes.clone(),
-            })
-            .collect::<Vec<_>>();
+        let table = build_entries(entries);
         if table.is_empty() {
             continue;
         }
+        seen.insert(method.clone());
         sections.push(EncounterSection {
             name: method_label(method),
             method: method.clone(),
@@ -226,6 +234,24 @@ fn build_area(raw: RawLocation, source: Option<String>) -> EncounterArea {
         notes: raw.notes,
         sections,
     }
+}
+
+fn build_entries(entries: &[RawEntry]) -> Vec<EncounterEntry> {
+    entries
+        .iter()
+        .map(|entry| EncounterEntry {
+            pokemon: entry.pokemon.clone(),
+            levels: entry.levels.clone(),
+            rate: entry.rate.map(format_rate),
+            notes: entry.notes.clone(),
+        })
+        .collect()
+}
+
+#[derive(Debug)]
+struct TableColumn {
+    slug: String,
+    label: String,
 }
 
 const METHOD_ORDER: [(&str, &str); 9] = [
@@ -243,7 +269,7 @@ const METHOD_ORDER: [(&str, &str); 9] = [
 fn method_label(method: &str) -> String {
     METHOD_ORDER
         .iter()
-        .find(|(key, _)| *key == method)
+        .find(|(slug, _)| *slug == method)
         .map(|(_, label)| label.to_string())
         .unwrap_or_else(|| method.replace('_', " ").to_title_case())
 }
@@ -270,22 +296,22 @@ fn slugify(input: &str) -> String {
     slug.trim_matches('-').to_string()
 }
 
-trait TitleCase {
+trait ToTitleCase {
     fn to_title_case(&self) -> String;
 }
 
-impl TitleCase for String {
+impl ToTitleCase for String {
     fn to_title_case(&self) -> String {
         self.as_str().to_title_case()
     }
 }
 
-impl TitleCase for &str {
+impl ToTitleCase for &str {
     fn to_title_case(&self) -> String {
         let mut result = String::new();
         let mut capitalize = true;
         for ch in self.chars() {
-            if ch.is_whitespace() || ch == '_' {
+            if ch.is_whitespace() || ch == '_' || ch == '-' {
                 result.push(' ');
                 capitalize = true;
             } else if capitalize {
