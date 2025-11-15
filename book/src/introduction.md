@@ -12,3 +12,8 @@ Sprigatito, and Fuecoco.
 We also cache the entire PokeAPI dataset locally (see `pokemon-cards.md`) so any
 chapter can drop in a fully generated Pokémon card for quick reference on a
 species’ abilities, moves, evolutions, and stats without copying values by hand.
+
+Wild encounter information is transcribed from the PDF `Pokemon Lazarus
+Documentation - Encounters.pdf` into structured JSON (see `encounters.md`). That
+data powers reusable tables so every route reference stays consistent with the
+original documentation.

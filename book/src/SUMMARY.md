@@ -13,3 +13,5 @@
   - [Fennekin](./pokemon/fennekin.md)
   - [Sprigatito](./pokemon/sprigatito.md)
   - [Fuecoco](./pokemon/fuecoco.md)
+- [Encounter Tables](./encounters.md)
+  - [Bronze Fields (North)](./encounters/bronze-fields-north.md)
