@@ -1,10 +1,13 @@
 # Introduction
 
-Welcome to the Pokémon walkthrough project! This mdBook will eventually hold a
-step-by-step guide through the core story beats, optional quests, and team
-building strategies for multiple regions. For now we are laying the groundwork
-for the guide and documenting useful reference material pulled from the
-repository notes.
+Welcome to the Pokémon walkthrough project! This guide focuses on the ROM hack
+**Pokémon Lazarus**, beginning in Acrisia City and chronicling the journey to
+Jusmail Town and beyond. Expect detailed notes on every mandatory battle,
+sidequest, and team-building milestone designed specifically for Lazarus. For
+now we are laying the groundwork for the guide and documenting useful reference
+material pulled from the repository notes, including the full list of Lazarus
+starter options: Popplio, Rowlet, Froakie, Chespin, Litten, Quaxly, Fennekin,
+Sprigatito, and Fuecoco.
 
 We also cache the entire PokeAPI dataset locally (see `pokemon-cards.md`) so any
 chapter can drop in a fully generated Pokémon card for quick reference on a

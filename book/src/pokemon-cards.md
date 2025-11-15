@@ -20,14 +20,29 @@ git so the repository stays light.
 ## 2. Generate a card
 
 ```sh
-cargo run -- pokemon-card bulbasaur > book/src/pokemon/bulbasaur.md
+cargo run -- pokemon-card sprigatito > book/src/pokemon/sprigatito.md
 ```
 
-Replace `bulbasaur` with either a National Dex number or any canonical Pokémon
-name. Use `POKEAPI_DATA_DIR=/custom/path cargo run -- pokemon-card eevee` if the
+Replace `sprigatito` with either a National Dex number or any canonical Pokémon
+name. Use `POKEAPI_DATA_DIR=/custom/path cargo run -- pokemon-card popplio` if the
 dataset lives somewhere else on your machine.
 
 ## 3. Reference the card in the book
 
 Each generated file is a standalone Markdown fragment, so just link to the page
 in `SUMMARY.md` or embed its contents inside another chapter.
+
+To embed the card inline within a walkthrough chapter, use mdBook’s include
+directive:
+
+```
+{{#include ./pokemon/bulbasaur.md}}
+```
+
+When `mdbook build` runs, the include expands to the rendered card exactly where
+you placed it in the narrative.
+
+For Pokémon Lazarus specifically, repeat the generation step for whichever
+starter you pick in Acrisia City (Popplio, Rowlet, Froakie, Chespin, Litten,
+Quaxly, Fennekin, Sprigatito, or Fuecoco) so the Chapter 1 walkthrough can pull
+in the matching data-driven card.
