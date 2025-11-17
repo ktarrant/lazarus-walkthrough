@@ -29,6 +29,15 @@ Use the location slug (lowercase with dashes) or the exact display name to
 render other areas. The `encounters-all` helper iterates every location found in
 `data/encounters/encounters.json` and writes one Markdown file per area.
 
+## Generating Pokémon cards for encounter species
+
+Tables link each species name to a generated card. To refresh all cards based on
+the current encounters dataset:
+
+```
+cargo run -- pokemon-cards-all --out-dir book/src/pokemon
+```
+
 Once a snippet is generated, include it in the relevant chapter with:
 
 ```

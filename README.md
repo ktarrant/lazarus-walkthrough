@@ -66,7 +66,11 @@ Regenerate the file whenever `src/type_chart.rs` changes.
    ```sh
    cargo run -- encounters-all --out-dir book/src/encounters
    ```
-3. Include the snippet in chapters via `{{#include ./encounters/bronze-fields-north.md}}`.
+3. Generate Pokémon cards for every species found in the encounters data:
+   ```sh
+   cargo run -- pokemon-cards-all --out-dir book/src/pokemon
+   ```
+4. Include the snippet in chapters via `{{#include ./encounters/bronze-fields-north.md}}`. Encounter tables now link each species name to its generated card.
 
 ### mdBook preview
 

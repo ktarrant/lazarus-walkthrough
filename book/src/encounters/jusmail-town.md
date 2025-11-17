@@ -5,19 +5,19 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| Alolan Vulpix | — | 4% |
-| Bounsweet | 10% | — |
-| Cutiefly | 20% | — |
-| Eevee | 10% | 10% |
-| Growlithe | 4% | — |
-| Hisuian Growlithe | 4% | — |
-| Hisuian Voltorb | — | 10% |
-| Oricorio Baile | 2% | 2% |
-| Pikipek | 20% | — |
-| Ralts | — | 10% |
-| Skiddo | 10% | 10% |
-| Voltorb | — | 10% |
-| Vulpix | — | 4% |
-| Woobat | — | 20% |
-| Wurmple | 20% | 20% |
+| [Alolan Vulpix](../pokemon/alolan-vulpix.md) | — | 4% |
+| [Bounsweet](../pokemon/bounsweet.md) | 10% | — |
+| [Cutiefly](../pokemon/cutiefly.md) | 20% | — |
+| [Eevee](../pokemon/eevee.md) | 10% | 10% |
+| [Growlithe](../pokemon/growlithe.md) | 4% | — |
+| [Hisuian Growlithe](../pokemon/hisuian-growlithe.md) | 4% | — |
+| [Hisuian Voltorb](../pokemon/hisuian-voltorb.md) | — | 10% |
+| [Oricorio Baile](../pokemon/oricorio-baile.md) | 2% | 2% |
+| [Pikipek](../pokemon/pikipek.md) | 20% | — |
+| [Ralts](../pokemon/ralts.md) | — | 10% |
+| [Skiddo](../pokemon/skiddo.md) | 10% | 10% |
+| [Voltorb](../pokemon/voltorb.md) | — | 10% |
+| [Vulpix](../pokemon/vulpix.md) | — | 4% |
+| [Woobat](../pokemon/woobat.md) | — | 20% |
+| [Wurmple](../pokemon/wurmple.md) | 20% | 20% |
 

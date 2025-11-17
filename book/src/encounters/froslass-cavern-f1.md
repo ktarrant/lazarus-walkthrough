@@ -5,11 +5,11 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) |
 | --- | --- |
-| Amaura | 2% |
-| Hisuian Sneasel | 20% |
-| Seel | 10% |
-| Sneasel | 20% |
-| Snorunt | 30% |
-| Spheal | 10% |
-| Swinub | 8% |
+| [Amaura](../pokemon/amaura.md) | 2% |
+| [Hisuian Sneasel](../pokemon/hisuian-sneasel.md) | 20% |
+| [Seel](../pokemon/seel.md) | 10% |
+| [Sneasel](../pokemon/sneasel.md) | 20% |
+| [Snorunt](../pokemon/snorunt.md) | 30% |
+| [Spheal](../pokemon/spheal.md) | 10% |
+| [Swinub](../pokemon/swinub.md) | 8% |
 

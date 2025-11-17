@@ -1,0 +1,130 @@
+<div class="pokemon-tabs" id="pokemon-tabs-lycanroc-745">
+<input type="radio" name="pokemon-tabs-lycanroc-745-group" id="pokemon-tabs-lycanroc-745-tab-0">
+<label for="pokemon-tabs-lycanroc-745-tab-0">Rockruff</label>
+<input type="radio" name="pokemon-tabs-lycanroc-745-group" id="pokemon-tabs-lycanroc-745-tab-1" checked>
+<label for="pokemon-tabs-lycanroc-745-tab-1">Lycanroc</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-745-panel-0">
+## Rockruff (#744)
+<details class="pokemon-card-container" open>
+<summary>Rockruff overview</summary>
+_Puppy Pokémon_ • Types: Rock
+Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Keen Eye
+- Vital Spirit
+- Steadfast *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Fire (0.5×)
+- Poison (0.5×)
+- Flying (0.5×)
+
+*Weak to*
+- Water (2×)
+- Grass (2×)
+- Fighting (2×)
+- Ground (2×)
+- Steel (2×)
+
+**Evolution Paths**
+- Rockruff → Lycanroc (Lv 25)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | 45 |
+| Attack | 65 |
+| Defense | 40 |
+| Sp. Atk | 30 |
+| Sp. Def | 40 |
+| Speed | 60 |
+| Total | 280 |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1, Sun Moon)
+- Tackle (Lv 1, Sun Moon)
+- Sand Attack (Lv 4, Sun Moon)
+- Bite (Lv 7, Sun Moon)
+- Double Team (Lv 8, Sword Shield)
+- Howl (Lv 12, Sun Moon)
+</div>
+</div>
+
+**Flavor Text**
+> This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-745-panel-1">
+## Lycanroc (#745)
+<details class="pokemon-card-container" open>
+<summary>Lycanroc overview</summary>
+_Wolf Pokémon_ • Types: Rock
+Height: 0.8 m · Weight: 25.0 kg · Base EXP: 170
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Keen Eye
+- Sand Rush
+- Steadfast *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Fire (0.5×)
+- Poison (0.5×)
+- Flying (0.5×)
+
+*Weak to*
+- Water (2×)
+- Grass (2×)
+- Fighting (2×)
+- Ground (2×)
+- Steel (2×)
+
+**Evolution Paths**
+- Rockruff → Lycanroc (Lv 25)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | 75 |
+| Attack | 115 |
+| Defense | 65 |
+| Sp. Atk | 55 |
+| Sp. Def | 65 |
+| Speed | 112 |
+| Total | 487 |
+
+**Notable Level-Up Moves**
+- Accelerock (Lv 1, Sun Moon)
+- Bite (Lv 1, Sun Moon)
+- Double Team (Lv 1, Sword Shield)
+- Leer (Lv 1, Sun Moon)
+- Quick Attack (Lv 1, Sun Moon)
+- Quick Guard (Lv 1, Sun Moon)
+</div>
+</div>
+
+**Flavor Text**
+> This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-lycanroc-745-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-745-panel-0 { display: block; }
+#pokemon-tabs-lycanroc-745-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-745-panel-1 { display: block; }
+</style>

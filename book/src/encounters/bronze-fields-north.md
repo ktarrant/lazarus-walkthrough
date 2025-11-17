@@ -5,16 +5,16 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| Bellsprout | 5% | — |
-| Cubone | 5% | 5% |
-| Ducklett | 5% | 5% |
-| Grubbin | 10% | 10% |
-| Hoothoot | — | 20% |
-| Hoppip | 10% | 10% |
-| Lillipup | 20% | 20% |
-| Murkrow | — | 5% |
-| Nincada | 20% | — |
-| Paras | — | 20% |
-| Phanpy | 5% | 5% |
-| Pikipek | 20% | — |
+| [Bellsprout](../pokemon/bellsprout.md) | 5% | — |
+| [Cubone](../pokemon/cubone.md) | 5% | 5% |
+| [Ducklett](../pokemon/ducklett.md) | 5% | 5% |
+| [Grubbin](../pokemon/grubbin.md) | 10% | 10% |
+| [Hoothoot](../pokemon/hoothoot.md) | — | 20% |
+| [Hoppip](../pokemon/hoppip.md) | 10% | 10% |
+| [Lillipup](../pokemon/lillipup.md) | 20% | 20% |
+| [Murkrow](../pokemon/murkrow.md) | — | 5% |
+| [Nincada](../pokemon/nincada.md) | 20% | — |
+| [Paras](../pokemon/paras.md) | — | 20% |
+| [Phanpy](../pokemon/phanpy.md) | 5% | 5% |
+| [Pikipek](../pokemon/pikipek.md) | 20% | — |
 
