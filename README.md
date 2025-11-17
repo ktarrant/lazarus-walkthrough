@@ -73,6 +73,8 @@ Regenerate the file whenever `src/type_chart.rs` changes.
 4. Include the snippet in chapters via `{{#include ./encounters/bronze-fields-north.md}}`. Encounter tables now link each species name to its generated card.
 
 ### mdBook preview
+Due to a limitation in mdbook-autosummary, an empty SUMMARY.md should be created
+before running build or serve.
 
 ```sh
 mdbook serve --open
