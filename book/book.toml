@@ -6,3 +6,6 @@ title = "Pokemon Walkthrough"
 
 [output.html]
 additional-css = ["theme/pokemon.css"]
+
+[preprocessor.autosummary]
+command = "mdbook-autosummary"

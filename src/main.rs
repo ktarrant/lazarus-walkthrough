@@ -86,6 +86,7 @@ fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathB
     let repo = pokeapi::Repository::new(data_dir);
     let species = encounters::list_species(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
+    let mut index_entries = Vec::new();
     for name in species {
         let mut deck = None;
         for candidate in candidate_identifiers(&name) {
@@ -98,6 +99,7 @@ fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathB
             let slug = encounters::slugify(&name);
             let path = out_dir.join(format!("{slug}.md"));
             std::fs::write(path, deck.render_markdown())?;
+            index_entries.push((slug, name));
         } else {
             eprintln!("Failed to generate card for {}; writing placeholder", name);
             let slug = encounters::slugify(&name);
@@ -109,8 +111,10 @@ fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathB
                     name
                 ),
             )?;
+            index_entries.push((slug, name));
         }
     }
+    write_index(&out_dir, "Pokémon Cards", &index_entries)?;
     Ok(())
 }
 
@@ -177,6 +181,18 @@ fn candidate_identifiers(name: &str) -> Vec<String> {
     ids
 }
 
+fn write_index(out_dir: &PathBuf, title: &str, entries: &[(String, String)]) -> Result<()> {
+    let mut sorted = entries.to_vec();
+    sorted.sort_by(|a, b| a.0.cmp(&b.0));
+    let mut buf = String::new();
+    buf.push_str(&format!("# {title}\n\n"));
+    for (slug, name) in sorted {
+        buf.push_str(&format!("- [{name}](./{slug}.md)\n"));
+    }
+    std::fs::write(out_dir.join("index.md"), buf)?;
+    Ok(())
+}
+
 fn render_encounters(manifest: PathBuf, area_id: String) -> Result<()> {
     let area = encounters::EncounterArea::from_manifest(manifest, &area_id)?;
     print!("{}", area.render_markdown());
@@ -186,11 +202,14 @@ fn render_encounters(manifest: PathBuf, area_id: String) -> Result<()> {
 fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
     let names = encounters::list_locations(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
+    let mut index_entries = Vec::new();
     for name in names {
         let area = encounters::EncounterArea::from_manifest(manifest.clone(), &name)?;
         let slug = encounters::slugify(&area.name);
         let path = out_dir.join(format!("{slug}.md"));
         std::fs::write(&path, area.render_markdown())?;
+        index_entries.push((slug, area.name));
     }
+    write_index(&out_dir, "Encounter Tables", &index_entries)?;
     Ok(())
 }

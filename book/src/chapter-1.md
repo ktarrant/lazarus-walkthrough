@@ -1,6 +1,6 @@
 # Chapter 1 – Acrisia City
 
-## Acrisia City
+## Acrisia City & Bronze Fields
 
 You begin in Acrisia City, awakened by the Professor’s urgent call for a new
 Pokédex initiative across the Lazarus region.

@@ -18,7 +18,8 @@ reference sections in sync with upstream sources.
 - Rust toolchain (1.76+ recommended) for building the helper CLI.
 - [uv](https://github.com/astral-sh/uv) for running the Python parser without
   polluting the global environment.
-- `mdbook` for local previews (`cargo install mdbook`).
+- `mdbook` and the `mdbook-autosummary` preprocessor for local previews
+  (`cargo install mdbook mdbook-autosummary`).
 
 ## Commands & workflows
 
@@ -55,8 +56,7 @@ Regenerate the file whenever `src/type_chart.rs` changes.
    cd parsers
    uv run python convert_lazarus_encounters.py \
      "../Pokemon Lazarus Documentation - Encounters.pdf" \
-     --json ../data/encounters/encounters.json \
-     --csv ../data/encounters/encounters.csv
+     --out ../data/encounters/encounters.json
    ```
 2. Generate Markdown for a single location (slug or full name):
    ```sh
@@ -77,6 +77,10 @@ Regenerate the file whenever `src/type_chart.rs` changes.
 ```sh
 mdbook serve --open
 ```
+
+The `mdbook-autosummary` preprocessor keeps `SUMMARY.md` in sync with `book/src`
+automatically during builds. Index files under `book/src/encounters/` and
+`book/src/pokemon/` are produced by the helper CLI to support this workflow.
 
 ## Conventions
 
