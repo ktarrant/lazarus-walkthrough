@@ -15,8 +15,22 @@ import json
 import argparse
 from pathlib import Path
 import pprint
+import re
 
 import pdfplumber  # type: ignore
+
+species_re = re.compile(r'^\s*(.*?)\s*\(([\d.]+%)\)\s*$')
+
+def get_header_from_ridx(headers: dict, ridx: int) -> str:
+    header_names = list(headers.keys())
+    header_ridx = list(headers.values())
+    if ridx > header_ridx[-1]:
+        return header_names[-1]
+    for start_ridx, end_ridx, header in zip(header_ridx[1:-1], header_ridx[2:], header_names[1:-1]):
+        if ridx >= start_ridx and ridx < end_ridx:
+            return header
+    # No match, must be before first header
+    return None
 
 def main():
     ap = argparse.ArgumentParser()
@@ -35,10 +49,9 @@ def main():
             for tidx, table in enumerate(tables, start=1):
                 # Normalize and skip fully empty rows
                 cleaned = [[(c or "").strip() for c in row] for row in table]
-                cleaned = [row for row in cleaned if any(cell for cell in row)]
                 for r_idx, row in enumerate(cleaned, start=1):
                     for c_idx, cell in enumerate(row, start=1):
-                        key = c_idx + pidx * 16
+                        key = c_idx - 1 + (pidx - 1) * 16
                         try:
                             column = combined_table[key]
                         except KeyError:
@@ -47,8 +60,47 @@ def main():
                         column[r_idx] = cell
                         combined_table[key] = column
 
+    headers = {
+        header[:-1]: rowid
+        for (rowid, header) in combined_table[0].items()
+        if header
+    }
+    cur_location = None
+    encounters = {}
+    for c_idx in combined_table.keys():
+        if c_idx == 0: continue
+        location = combined_table[c_idx][headers["Location"]]
+        if location:
+            cur_location = location
+            encounters[location] = {}
+            for row_idx in combined_table[c_idx]:
+                header = get_header_from_ridx(headers, row_idx)
+                if not header: continue
+                cell = combined_table[c_idx][row_idx]
+                cell_match = species_re.match(cell)
+                if not cell_match: continue
+                try:
+                    enc_cat = encounters[location][header]
+                except KeyError:
+                    enc_cat = []
+                    encounters[location][header] = enc_cat
+                entry = {"Pokemon": cell_match.group(1), "Rate": cell_match.group(2)}
+                if header == "Fishing":
+                    # Add the ridx to the entry for reference later
+                    entry["ridx"] = row_idx
+                enc_cat.append(entry)
+
+        elif cur_location:
+            try:
+                fishing = encounters[cur_location]["Fishing"]
+            except KeyError:
+                continue
+            for entry in fishing:
+                rod_type = combined_table[c_idx][entry.pop("ridx")]
+                entry["Rod"] = rod_type
+
     with open(out_file, "w") as fobj:
-        json.dump(combined_table, fobj)
+        json.dump(encounters, fobj)
 
 if __name__ == "__main__":
     main()
