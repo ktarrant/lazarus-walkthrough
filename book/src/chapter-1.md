@@ -1,4 +1,4 @@
-# Chapter 1 – Acrisia City to Jusmail Town
+# Chapter 1 – Acrisia City
 
 ## Acrisia City
 
