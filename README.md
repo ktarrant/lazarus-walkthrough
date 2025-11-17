@@ -58,9 +58,13 @@ Regenerate the file whenever `src/type_chart.rs` changes.
      --json ../data/encounters/encounters.json \
      --csv ../data/encounters/encounters.csv
    ```
-2. Generate Markdown for a location (slug or full name):
+2. Generate Markdown for a single location (slug or full name):
    ```sh
    cargo run -- encounters bronze-fields-north > book/src/encounters/bronze-fields-north.md
+   ```
+   Or generate Markdown for every location in the manifest:
+   ```sh
+   cargo run -- encounters-all --out-dir book/src/encounters
    ```
 3. Include the snippet in chapters via `{{#include ./encounters/bronze-fields-north.md}}`.
 

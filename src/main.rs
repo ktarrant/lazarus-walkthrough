@@ -36,6 +36,12 @@ enum Command {
     PokemonCard { identifier: String },
     /// Render encounter tables for an area defined under data/encounters
     Encounters { area_id: String },
+    /// Render encounter tables for all areas in the manifest
+    EncountersAll {
+        /// Output directory for generated Markdown files
+        #[arg(long, default_value = "book/src/encounters")]
+        out_dir: PathBuf,
+    },
 }
 
 fn main() -> Result<()> {
@@ -44,6 +50,7 @@ fn main() -> Result<()> {
         Command::TypeChart => render_type_chart(),
         Command::PokemonCard { identifier } => render_pokemon_card(cli.data_dir, identifier)?,
         Command::Encounters { area_id } => render_encounters(cli.encounters_json, area_id)?,
+        Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
     }
     Ok(())
 }
@@ -69,5 +76,17 @@ fn render_pokemon_card(data_dir: PathBuf, identifier: String) -> Result<()> {
 fn render_encounters(manifest: PathBuf, area_id: String) -> Result<()> {
     let area = encounters::EncounterArea::from_manifest(manifest, &area_id)?;
     print!("{}", area.render_markdown());
+    Ok(())
+}
+
+fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
+    let names = encounters::list_locations(&manifest)?;
+    std::fs::create_dir_all(&out_dir)?;
+    for name in names {
+        let area = encounters::EncounterArea::from_manifest(manifest.clone(), &name)?;
+        let slug = encounters::slugify(&area.name);
+        let path = out_dir.join(format!("{slug}.md"));
+        std::fs::write(&path, area.render_markdown())?;
+    }
     Ok(())
 }

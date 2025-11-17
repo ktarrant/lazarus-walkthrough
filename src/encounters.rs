@@ -319,7 +319,7 @@ fn format_rate(rate: f32) -> String {
     }
 }
 
-fn slugify(input: &str) -> String {
+pub fn slugify(input: &str) -> String {
     let mut slug = String::new();
     for ch in input.chars() {
         if ch.is_ascii_alphanumeric() {
@@ -331,6 +331,25 @@ fn slugify(input: &str) -> String {
         }
     }
     slug.trim_matches('-').to_string()
+}
+
+pub fn list_locations(path: &PathBuf) -> Result<Vec<String>> {
+    let file = fs::File::open(path)
+        .with_context(|| format!("opening encounter manifest {}", path.display()))?;
+    let value: Value =
+        serde_json::from_reader(file).with_context(|| format!("decoding {}", path.display()))?;
+
+    if value.get("locations").is_some() {
+        let manifest: EncounterManifest = serde_json::from_value(value)?;
+        return Ok(manifest.locations.into_iter().map(|l| l.name).collect());
+    }
+
+    let obj = value
+        .as_object()
+        .ok_or_else(|| anyhow!("encounter manifest root must be an object"))?;
+    let mut names: Vec<String> = obj.keys().cloned().collect();
+    names.sort();
+    Ok(names)
 }
 
 fn parse_new_format_methods(value: &Value) -> Result<BTreeMap<String, Vec<EncounterEntry>>> {
