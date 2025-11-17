@@ -1,7 +1,7 @@
 <!-- area-id: bronze-fields-north -->
 ### Bronze Fields (North)
 
-_Source: PDF extracted table_
+_Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |

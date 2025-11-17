@@ -1,5 +1,6 @@
 use anyhow::{Context, Result, anyhow};
 use serde::Deserialize;
+use serde_json::Value;
 use std::collections::{BTreeMap, BTreeSet};
 use std::fs;
 use std::path::PathBuf;
@@ -65,33 +66,60 @@ impl EncounterArea {
         let path = path.into();
         let file = fs::File::open(&path)
             .with_context(|| format!("opening encounter manifest {}", path.display()))?;
-        let manifest: EncounterManifest = serde_json::from_reader(file)
+        let value: Value = serde_json::from_reader(file)
             .with_context(|| format!("decoding encounter manifest {}", path.display()))?;
 
+        if value.get("locations").is_some() {
+            // legacy manifest
+            let manifest: EncounterManifest = serde_json::from_value(value)?;
+            let query_slug = slugify(id_or_name);
+            let (loc, meta_source) = manifest
+                .locations
+                .into_iter()
+                .find(|loc| {
+                    slugify(&loc.name) == query_slug || loc.name.eq_ignore_ascii_case(id_or_name)
+                })
+                .map(|loc| {
+                    let source = manifest
+                        .meta
+                        .as_ref()
+                        .and_then(|m| m.source.clone())
+                        .unwrap_or_else(|| {
+                            "Pokemon Lazarus Documentation - Encounters.pdf".to_string()
+                        });
+                    let generated = manifest.meta.as_ref().and_then(|m| m.generated_at.clone());
+                    let label = generated
+                        .map(|stamp| format!("{source} (generated {stamp})", source = source))
+                        .unwrap_or(source);
+                    (loc, Some(label))
+                })
+                .ok_or_else(|| anyhow!("no encounter data found for '{id_or_name}'"))?;
+
+            return Ok(build_area_from_methods(
+                loc.name,
+                build_methods_from_raw(&loc.methods),
+                loc.notes,
+                meta_source,
+            ));
+        }
+
+        // new manifest keyed by location name
+        let obj = value
+            .as_object()
+            .ok_or_else(|| anyhow!("encounter manifest root must be an object"))?;
         let query_slug = slugify(id_or_name);
-        let (loc, meta_source) = manifest
-            .locations
-            .into_iter()
-            .find(|loc| {
-                slugify(&loc.name) == query_slug || loc.name.eq_ignore_ascii_case(id_or_name)
-            })
-            .map(|loc| {
-                let source = manifest
-                    .meta
-                    .as_ref()
-                    .and_then(|m| m.source.clone())
-                    .unwrap_or_else(|| {
-                        "Pokemon Lazarus Documentation - Encounters.pdf".to_string()
-                    });
-                let generated = manifest.meta.as_ref().and_then(|m| m.generated_at.clone());
-                let label = generated
-                    .map(|stamp| format!("{source} (generated {stamp})", source = source))
-                    .unwrap_or(source);
-                (loc, Some(label))
-            })
+        let (loc_name, loc_value) = obj
+            .iter()
+            .find(|(name, _)| slugify(name) == query_slug || name.eq_ignore_ascii_case(id_or_name))
             .ok_or_else(|| anyhow!("no encounter data found for '{id_or_name}'"))?;
 
-        Ok(build_area(loc, meta_source))
+        let methods = parse_new_format_methods(loc_value)?;
+        Ok(build_area_from_methods(
+            loc_name.clone(),
+            methods,
+            None,
+            Some("Pokemon Lazarus Encounters PDF".to_string()),
+        ))
     }
 
     pub fn render_markdown(&self) -> String {
@@ -191,61 +219,70 @@ impl EncounterArea {
     }
 }
 
-fn build_area(raw: RawLocation, source: Option<String>) -> EncounterArea {
-    let id = slugify(&raw.name);
+fn build_area_from_methods(
+    name: String,
+    methods: BTreeMap<String, Vec<EncounterEntry>>,
+    notes: Option<String>,
+    source: Option<String>,
+) -> EncounterArea {
+    let id = slugify(&name);
     let mut sections = Vec::new();
     let mut seen = BTreeSet::new();
 
     for (method, label) in METHOD_ORDER.iter() {
-        if let Some(entries) = raw.methods.get(*method) {
-            let table = build_entries(entries);
-            if table.is_empty() {
+        if let Some(entries) = methods.get(*method) {
+            if entries.is_empty() {
                 continue;
             }
             sections.push(EncounterSection {
                 name: (*label).to_string(),
                 method: method.to_string(),
-                table,
+                table: entries.clone(),
             });
             seen.insert(method.to_string());
         }
     }
 
-    for (method, entries) in raw.methods.iter() {
-        if seen.contains(method) {
-            continue;
-        }
-        let table = build_entries(entries);
-        if table.is_empty() {
+    for (method, entries) in methods.iter() {
+        if seen.contains(method) || entries.is_empty() {
             continue;
         }
         seen.insert(method.clone());
         sections.push(EncounterSection {
             name: method_label(method),
             method: method.clone(),
-            table,
+            table: entries.clone(),
         });
     }
 
     EncounterArea {
         id,
-        name: raw.name,
+        name,
         source,
-        notes: raw.notes,
+        notes,
         sections,
     }
 }
 
-fn build_entries(entries: &[RawEntry]) -> Vec<EncounterEntry> {
-    entries
-        .iter()
-        .map(|entry| EncounterEntry {
-            pokemon: entry.pokemon.clone(),
-            levels: entry.levels.clone(),
-            rate: entry.rate.map(format_rate),
-            notes: entry.notes.clone(),
-        })
-        .collect()
+fn build_methods_from_raw(
+    methods: &BTreeMap<String, Vec<RawEntry>>,
+) -> BTreeMap<String, Vec<EncounterEntry>> {
+    let mut out: BTreeMap<String, Vec<EncounterEntry>> = BTreeMap::new();
+    for (method, entries) in methods {
+        out.insert(
+            method.clone(),
+            entries
+                .iter()
+                .map(|entry| EncounterEntry {
+                    pokemon: entry.pokemon.clone(),
+                    levels: entry.levels.clone(),
+                    rate: entry.rate.map(format_rate),
+                    notes: entry.notes.clone(),
+                })
+                .collect(),
+        );
+    }
+    out
 }
 
 #[derive(Debug)]
@@ -294,6 +331,79 @@ fn slugify(input: &str) -> String {
         }
     }
     slug.trim_matches('-').to_string()
+}
+
+fn parse_new_format_methods(value: &Value) -> Result<BTreeMap<String, Vec<EncounterEntry>>> {
+    let mut out: BTreeMap<String, Vec<EncounterEntry>> = BTreeMap::new();
+    let methods = value
+        .as_object()
+        .ok_or_else(|| anyhow!("location entry must be an object"))?;
+    for (label, entries_val) in methods.iter() {
+        let slug = method_slug(label);
+        if slug.is_empty() {
+            continue;
+        }
+        let arr = entries_val
+            .as_array()
+            .ok_or_else(|| anyhow!("method entries must be arrays"))?;
+        for entry_val in arr {
+            let mut bucket = slug.clone();
+            let obj = entry_val
+                .as_object()
+                .ok_or_else(|| anyhow!("encounter entry must be an object"))?;
+            let pokemon = obj
+                .get("Pokemon")
+                .and_then(|v| v.as_str())
+                .ok_or_else(|| anyhow!("encounter entry missing Pokemon"))?
+                .trim()
+                .to_string();
+            let rate = obj
+                .get("Rate")
+                .and_then(|v| v.as_str())
+                .map(|s| s.trim().to_string());
+            let rod = obj
+                .get("Rod")
+                .and_then(|v| v.as_str())
+                .map(|s| s.to_lowercase());
+            if slug == "fishing" {
+                if let Some(r) = rod {
+                    if r.contains("old rod") {
+                        bucket = "old_rod".to_string();
+                    } else if r.contains("good rod") {
+                        bucket = "good_rod".to_string();
+                    } else if r.contains("super rod") {
+                        bucket = "super_rod".to_string();
+                    } else {
+                        bucket = "fishing".to_string();
+                    }
+                }
+            }
+            out.entry(bucket.clone()).or_default().push(EncounterEntry {
+                pokemon,
+                levels: None,
+                rate,
+                notes: None,
+            });
+        }
+    }
+    Ok(out)
+}
+
+fn method_slug(label: &str) -> String {
+    let lower = label.to_lowercase();
+    if lower.contains("land encounters (day") {
+        "grass_day".to_string()
+    } else if lower.contains("land encounters (night") {
+        "grass_night".to_string()
+    } else if lower.starts_with("fishing") {
+        "fishing".to_string()
+    } else if lower.starts_with("surf") {
+        "surf".to_string()
+    } else if lower.starts_with("underwater") {
+        "underwater".to_string()
+    } else {
+        String::new()
+    }
 }
 
 trait ToTitleCase {
