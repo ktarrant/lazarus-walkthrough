@@ -8,8 +8,7 @@
 ## Remoraid (#223)
 <details class="pokemon-card-container" open>
 <summary>Remoraid overview</summary>
-_Jet Pokémon_ • Types: Water
-Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
+_Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -60,21 +59,23 @@ Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 65 |
-| Defense | 35 |
-| Sp. Atk | 65 |
-| Sp. Def | 35 |
-| Speed | 65 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Legends Arceus)
-- Helping Hand (Lv 1, Sword Shield)
-- Water Gun (Lv 1, Gold Silver)
-- Water Pulse (Lv 4, Sword Shield)
-- Acid Spray (Lv 6, Legends Arceus)
-- Lock On (Lv 6, Diamond Pearl)
+- Water Gun (Lv 1)
+- Lock On (Lv 11)
+- Aurora Beam (Lv 22)
+- Bubble Beam (Lv 22)
+- Psybeam (Lv 22)
+- Focus Energy (Lv 33)
+- Ice Beam (Lv 44)
+- Hyper Beam (Lv 55)
 </div>
 </div>
 
@@ -86,8 +87,7 @@ Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
 ## Octillery (#224)
 <details class="pokemon-card-container" open>
 <summary>Octillery overview</summary>
-_Jet Pokémon_ • Types: Water
-Height: 0.9 m · Weight: 28.5 kg · Base EXP: 168
+_Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -121,21 +121,24 @@ Height: 0.9 m · Weight: 28.5 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 105 |
-| Defense | 75 |
-| Sp. Atk | 105 |
-| Sp. Def | 75 |
-| Speed | 45 |
-| Total | 480 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-high">105</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 
 **Notable Level-Up Moves**
-- Aurora Beam (Lv 1, Diamond Pearl)
-- Bubble (Lv 1, Legends Arceus)
-- Constrict (Lv 1, Diamond Pearl)
-- Focus Energy (Lv 1, Sword Shield)
-- Gunk Shot (Lv 1, Diamond Pearl)
-- Helping Hand (Lv 1, Sword Shield)
+- Water Gun (Lv 1)
+- Constrict (Lv 11)
+- Aurora Beam (Lv 22)
+- Bubble Beam (Lv 22)
+- Psybeam (Lv 22)
+- Octazooka (Lv 25)
+- Focus Energy (Lv 38)
+- Ice Beam (Lv 54)
+- Hyper Beam (Lv 70)
 </div>
 </div>
 

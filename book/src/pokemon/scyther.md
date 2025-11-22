@@ -10,8 +10,7 @@
 ## Scyther (#123)
 <details class="pokemon-card-container" open>
 <summary>Scyther overview</summary>
-_Mantis Pokémon_ • Types: Bug / Flying
-Height: 1.5 m · Weight: 56.0 kg · Base EXP: 100
+_Mantis Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 100
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -54,21 +53,26 @@ Height: 1.5 m · Weight: 56.0 kg · Base EXP: 100
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 110 |
-| Defense | 80 |
-| Sp. Atk | 55 |
-| Sp. Def | 80 |
-| Speed | 105 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">105</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Quick Attack (Lv 1, Red Blue)
-- Vacuum Wave (Lv 1, Platinum)
-- Focus Energy (Lv 4, Lets Go Pikachu Lets Go Eevee)
-- Fury Cutter (Lv 4, Sword Shield)
-- Silver Wind (Lv 6, Legends Arceus)
+- Leer (Lv 1)
+- Quick Attack (Lv 1)
+- Focus Energy (Lv 6)
+- Pursuit (Lv 11)
+- False Swipe (Lv 16)
+- Agility (Lv 21)
+- Wing Attack (Lv 26)
+- Slash (Lv 31)
+- Swords Dance (Lv 36)
+- Double Team (Lv 41)
+- Fury Cutter (Lv 46)
 </div>
 </div>
 
@@ -80,8 +84,7 @@ Height: 1.5 m · Weight: 56.0 kg · Base EXP: 100
 ## Scizor (#212)
 <details class="pokemon-card-container" open>
 <summary>Scizor overview</summary>
-_Pincer Pokémon_ • Types: Bug / Steel
-Height: 1.8 m · Weight: 118.0 kg · Base EXP: 175
+_Pincer Pokémon_ • Types: Bug / Steel • Egg Groups: Bug • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -115,21 +118,26 @@ Height: 1.8 m · Weight: 118.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 130 |
-| Defense | 100 |
-| Sp. Atk | 55 |
-| Sp. Def | 80 |
-| Speed | 65 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Sword Shield)
-- Air Slash (Lv 1, Sword Shield)
-- Bullet Punch (Lv 1, Platinum)
-- False Swipe (Lv 1, Sword Shield)
-- Feint (Lv 1, X Y)
-- Fury Cutter (Lv 1, Sword Shield)
+- Leer (Lv 1)
+- Quick Attack (Lv 1)
+- Focus Energy (Lv 6)
+- Pursuit (Lv 11)
+- False Swipe (Lv 16)
+- Agility (Lv 21)
+- Metal Claw (Lv 26)
+- Slash (Lv 31)
+- Swords Dance (Lv 36)
+- Double Team (Lv 41)
+- Fury Cutter (Lv 46)
 </div>
 </div>
 
@@ -141,8 +149,7 @@ Height: 1.8 m · Weight: 118.0 kg · Base EXP: 175
 ## Kleavor (#900)
 <details class="pokemon-card-container" open>
 <summary>Kleavor overview</summary>
-_Axe Pokémon_ • Types: Bug / Rock
-Height: 1.8 m · Weight: 89.0 kg · Base EXP: 175
+_Axe Pokémon_ • Types: Bug / Rock • Egg Groups: Bug • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -171,21 +178,13 @@ Height: 1.8 m · Weight: 89.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 135 |
-| Defense | 95 |
-| Sp. Atk | 45 |
-| Sp. Def | 70 |
-| Speed | 85 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Scarlet Violet)
-- Quick Attack (Lv 1, Legends Arceus)
-- Fury Cutter (Lv 4, Scarlet Violet)
-- Silver Wind (Lv 6, Legends Arceus)
-- False Swipe (Lv 8, Scarlet Violet)
-- Aerial Ace (Lv 11, Legends Arceus)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">135</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

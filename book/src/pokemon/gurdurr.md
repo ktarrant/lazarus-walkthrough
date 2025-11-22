@@ -10,8 +10,7 @@
 ## Timburr (#532)
 <details class="pokemon-card-container" open>
 <summary>Timburr overview</summary>
-_Muscular Pokémon_ • Types: Fighting
-Height: 0.6 m · Weight: 12.5 kg · Base EXP: 61
+_Muscular Pokémon_ • Types: Fighting • Egg Groups: Humanshape • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,13 @@ Height: 0.6 m · Weight: 12.5 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 80 |
-| Defense | 55 |
-| Sp. Atk | 25 |
-| Sp. Def | 35 |
-| Speed | 35 |
-| Total | 305 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Pound (Lv 1, Black White)
-- Focus Energy (Lv 4, Black White)
-- Low Kick (Lv 4, Sword Shield)
-- Bide (Lv 8, Black White)
-- Rock Throw (Lv 8, Sword Shield)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 </div>
 </div>
 
@@ -73,8 +64,7 @@ Height: 0.6 m · Weight: 12.5 kg · Base EXP: 61
 ## Gurdurr (#533)
 <details class="pokemon-card-container" open>
 <summary>Gurdurr overview</summary>
-_Muscular Pokémon_ • Types: Fighting
-Height: 1.2 m · Weight: 40.0 kg · Base EXP: 142
+_Muscular Pokémon_ • Types: Fighting • Egg Groups: Humanshape • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,21 +96,13 @@ Height: 1.2 m · Weight: 40.0 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 105 |
-| Defense | 85 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 40 |
-| Total | 405 |
-
-**Notable Level-Up Moves**
-- Bide (Lv 1, Black White)
-- Focus Energy (Lv 1, Black White)
-- Leer (Lv 1, Black White)
-- Low Kick (Lv 1, Sword Shield)
-- Pound (Lv 1, Black White)
-- Rock Throw (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 </div>
 </div>
 
@@ -132,8 +114,7 @@ Height: 1.2 m · Weight: 40.0 kg · Base EXP: 142
 ## Conkeldurr (#534)
 <details class="pokemon-card-container" open>
 <summary>Conkeldurr overview</summary>
-_Muscular Pokémon_ • Types: Fighting
-Height: 1.4 m · Weight: 87.0 kg · Base EXP: 227
+_Muscular Pokémon_ • Types: Fighting • Egg Groups: Humanshape • Base EXP: 227
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,21 +143,13 @@ Height: 1.4 m · Weight: 87.0 kg · Base EXP: 227
 
 | Stat | Value |
 | --- | --- |
-| HP | 105 |
-| Attack | 140 |
-| Defense | 95 |
-| Sp. Atk | 55 |
-| Sp. Def | 65 |
-| Speed | 45 |
-| Total | 505 |
-
-**Notable Level-Up Moves**
-- Bide (Lv 1, Black White)
-- Focus Energy (Lv 1, Black White)
-- Leer (Lv 1, Black White)
-- Low Kick (Lv 1, Sword Shield)
-- Pound (Lv 1, Black White)
-- Rock Throw (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">105</span> |
+| Attack | <span class="stat-value stat-high">140</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
 </div>
 </div>
 

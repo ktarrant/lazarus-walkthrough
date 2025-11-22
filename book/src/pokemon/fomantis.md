@@ -8,8 +8,7 @@
 ## Fomantis (#753)
 <details class="pokemon-card-container" open>
 <summary>Fomantis overview</summary>
-_Sickle Grass Pokémon_ • Types: Grass
-Height: 0.3 m · Weight: 1.5 kg · Base EXP: 50
+_Sickle Grass Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 50
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,13 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 50
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 55 |
-| Defense | 35 |
-| Sp. Atk | 50 |
-| Sp. Def | 35 |
-| Speed | 35 |
-| Total | 250 |
-
-**Notable Level-Up Moves**
-- Fury Cutter (Lv 1, Sun Moon)
-- Leafage (Lv 1, Sword Shield)
-- Growth (Lv 5, Sword Shield)
-- Ingrain (Lv 10, Sword Shield)
-- Razor Leaf (Lv 10, Sun Moon)
-- Sweet Scent (Lv 20, Sword Shield)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">250</span> |
 </div>
 </div>
 
@@ -74,8 +65,7 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 50
 ## Lurantis (#754)
 <details class="pokemon-card-container" open>
 <summary>Lurantis overview</summary>
-_Bloom Sickle Pokémon_ • Types: Grass
-Height: 0.9 m · Weight: 18.5 kg · Base EXP: 168
+_Bloom Sickle Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,21 +102,13 @@ Height: 0.9 m · Weight: 18.5 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 105 |
-| Defense | 90 |
-| Sp. Atk | 80 |
-| Sp. Def | 90 |
-| Speed | 45 |
-| Total | 480 |
-
-**Notable Level-Up Moves**
-- Dual Chop (Lv 1, Sword Shield)
-- Fury Cutter (Lv 1, Sun Moon)
-- Growth (Lv 1, Sun Moon)
-- Ingrain (Lv 1, Sword Shield)
-- Leafage (Lv 1, Sun Moon)
-- Night Slash (Lv 1, Ultra Sun Ultra Moon)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 </div>
 </div>
 

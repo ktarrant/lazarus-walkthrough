@@ -12,8 +12,7 @@
 ## Ralts (#280)
 <details class="pokemon-card-container" open>
 <summary>Ralts overview</summary>
-_Feeling Pokémon_ • Types: Psychic / Fairy
-Height: 0.4 m · Weight: 6.6 kg · Base EXP: 40
+_Feeling Pokémon_ • Types: Psychic / Fairy • Egg Groups: Humanshape / Indeterminate • Base EXP: 40
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,25 @@ Height: 0.4 m · Weight: 6.6 kg · Base EXP: 40
 
 | Stat | Value |
 | --- | --- |
-| HP | 28 |
-| Attack | 25 |
-| Defense | 25 |
-| Sp. Atk | 45 |
-| Sp. Def | 35 |
-| Speed | 40 |
-| Total | 198 |
+| HP | <span class="stat-value stat-low">28</span> |
+| Attack | <span class="stat-value stat-low">25</span> |
+| Defense | <span class="stat-value stat-low">25</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">198</span> |
 
 **Notable Level-Up Moves**
-- Confusion (Lv 1, Legends Arceus)
-- Disarming Voice (Lv 1, Sword Shield)
-- Growl (Lv 1, Ruby Sapphire)
-- Double Team (Lv 3, Sword Shield)
-- Teleport (Lv 6, Legends Arceus)
-- Hypnosis (Lv 9, Sword Shield)
+- Growl (Lv 1)
+- Confusion (Lv 6)
+- Double Team (Lv 11)
+- Teleport (Lv 16)
+- Calm Mind (Lv 21)
+- Psychic (Lv 26)
+- Imprison (Lv 31)
+- Future Sight (Lv 36)
+- Hypnosis (Lv 41)
+- Dream Eater (Lv 46)
 </div>
 </div>
 
@@ -74,8 +77,7 @@ Height: 0.4 m · Weight: 6.6 kg · Base EXP: 40
 ## Kirlia (#281)
 <details class="pokemon-card-container" open>
 <summary>Kirlia overview</summary>
-_Emotion Pokémon_ • Types: Psychic / Fairy
-Height: 0.8 m · Weight: 20.2 kg · Base EXP: 97
+_Emotion Pokémon_ • Types: Psychic / Fairy • Egg Groups: Humanshape / Indeterminate • Base EXP: 97
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,21 +114,28 @@ Height: 0.8 m · Weight: 20.2 kg · Base EXP: 97
 
 | Stat | Value |
 | --- | --- |
-| HP | 38 |
-| Attack | 35 |
-| Defense | 35 |
-| Sp. Atk | 65 |
-| Sp. Def | 55 |
-| Speed | 50 |
-| Total | 278 |
+| HP | <span class="stat-value stat-low">38</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">278</span> |
 
 **Notable Level-Up Moves**
-- Confusion (Lv 1, Ruby Sapphire)
-- Disarming Voice (Lv 1, Sword Shield)
-- Double Team (Lv 1, Ruby Sapphire)
-- Growl (Lv 1, Ruby Sapphire)
-- Magical Leaf (Lv 1, Firered Leafgreen)
-- Teleport (Lv 1, Ruby Sapphire)
+- Confusion (Lv 1)
+- Double Team (Lv 1)
+- Growl (Lv 1)
+- Teleport (Lv 1)
+- Confusion (Lv 6)
+- Double Team (Lv 11)
+- Teleport (Lv 16)
+- Calm Mind (Lv 21)
+- Psychic (Lv 26)
+- Imprison (Lv 33)
+- Future Sight (Lv 40)
+- Hypnosis (Lv 47)
+- Dream Eater (Lv 54)
 </div>
 </div>
 
@@ -138,8 +147,7 @@ Height: 0.8 m · Weight: 20.2 kg · Base EXP: 97
 ## Gardevoir (#282)
 <details class="pokemon-card-container" open>
 <summary>Gardevoir overview</summary>
-_Embrace Pokémon_ • Types: Psychic / Fairy
-Height: 1.6 m · Weight: 48.4 kg · Base EXP: 233
+_Embrace Pokémon_ • Types: Psychic / Fairy • Egg Groups: Humanshape / Indeterminate • Base EXP: 233
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -169,21 +177,28 @@ Height: 1.6 m · Weight: 48.4 kg · Base EXP: 233
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 65 |
-| Defense | 65 |
-| Sp. Atk | 125 |
-| Sp. Def | 115 |
-| Speed | 80 |
-| Total | 518 |
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">125</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">518</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Sword Shield)
-- Confusion (Lv 1, Ruby Sapphire)
-- Dazzling Gleam (Lv 1, Sword Shield)
-- Disarming Voice (Lv 1, Sword Shield)
-- Double Team (Lv 1, Ruby Sapphire)
-- Growl (Lv 1, Ruby Sapphire)
+- Confusion (Lv 1)
+- Double Team (Lv 1)
+- Growl (Lv 1)
+- Teleport (Lv 1)
+- Confusion (Lv 6)
+- Double Team (Lv 11)
+- Teleport (Lv 16)
+- Calm Mind (Lv 21)
+- Psychic (Lv 26)
+- Imprison (Lv 33)
+- Future Sight (Lv 42)
+- Hypnosis (Lv 51)
+- Dream Eater (Lv 60)
 </div>
 </div>
 
@@ -195,8 +210,7 @@ Height: 1.6 m · Weight: 48.4 kg · Base EXP: 233
 ## Gallade (#475)
 <details class="pokemon-card-container" open>
 <summary>Gallade overview</summary>
-_Blade Pokémon_ • Types: Psychic / Fighting
-Height: 1.6 m · Weight: 52.0 kg · Base EXP: 233
+_Blade Pokémon_ • Types: Psychic / Fighting • Egg Groups: Humanshape / Indeterminate • Base EXP: 233
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -225,21 +239,13 @@ Height: 1.6 m · Weight: 52.0 kg · Base EXP: 233
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 125 |
-| Defense | 65 |
-| Sp. Atk | 65 |
-| Sp. Def | 115 |
-| Speed | 80 |
-| Total | 518 |
-
-**Notable Level-Up Moves**
-- Aqua Cutter (Lv 1, Scarlet Violet)
-- Calm Mind (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Close Combat (Lv 1, X Y)
-- Confusion (Lv 1, Diamond Pearl)
-- Disarming Voice (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">518</span> |
 </div>
 </div>
 

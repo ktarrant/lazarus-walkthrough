@@ -8,8 +8,7 @@
 ## Vullaby (#629)
 <details class="pokemon-card-container" open>
 <summary>Vullaby overview</summary>
-_Diapered Pokémon_ • Types: Dark / Flying
-Height: 0.5 m · Weight: 9.0 kg · Base EXP: 74
+_Diapered Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP: 74
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,13 @@ Height: 0.5 m · Weight: 9.0 kg · Base EXP: 74
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 55 |
-| Defense | 75 |
-| Sp. Atk | 45 |
-| Sp. Def | 65 |
-| Speed | 60 |
-| Total | 370 |
-
-**Notable Level-Up Moves**
-- Gust (Lv 1, Black White)
-- Leer (Lv 1, Black White)
-- Fury Attack (Lv 5, Black White)
-- Flatter (Lv 6, Sword Shield)
-- Pluck (Lv 10, Black White)
-- Nasty Plot (Lv 14, Black White)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">370</span> |
 </div>
 </div>
 
@@ -74,8 +65,7 @@ Height: 0.5 m · Weight: 9.0 kg · Base EXP: 74
 ## Mandibuzz (#630)
 <details class="pokemon-card-container" open>
 <summary>Mandibuzz overview</summary>
-_Bone Vulture Pokémon_ • Types: Dark / Flying
-Height: 1.2 m · Weight: 39.5 kg · Base EXP: 179
+_Bone Vulture Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -107,21 +97,13 @@ Height: 1.2 m · Weight: 39.5 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 65 |
-| Defense | 105 |
-| Sp. Atk | 55 |
-| Sp. Def | 95 |
-| Speed | 80 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Bone Rush (Lv 1, X Y)
-- Brave Bird (Lv 1, X Y)
-- Flatter (Lv 1, Sword Shield)
-- Fury Attack (Lv 1, Black White)
-- Gust (Lv 1, Black White)
-- Leer (Lv 1, Black White)
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

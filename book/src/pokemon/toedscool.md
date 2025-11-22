@@ -8,8 +8,7 @@
 ## Toedscool (#948)
 <details class="pokemon-card-container" open>
 <summary>Toedscool overview</summary>
-_Woodear Pokémon_ • Types: Ground / Grass
-Height: 0.9 m · Weight: 33.0 kg · Base EXP: 67
+_Woodear Pokémon_ • Types: Ground / Grass • Egg Groups: Plant • Base EXP: 67
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.9 m · Weight: 33.0 kg · Base EXP: 67
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 40 |
-| Defense | 35 |
-| Sp. Atk | 50 |
-| Sp. Def | 100 |
-| Speed | 70 |
-| Total | 335 |
-
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1, Scarlet Violet)
-- Wrap (Lv 1, Scarlet Violet)
-- Absorb (Lv 4, Scarlet Violet)
-- Poison Powder (Lv 8, Scarlet Violet)
-- Stun Spore (Lv 8, Scarlet Violet)
-- Supersonic (Lv 12, Scarlet Violet)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">335</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.9 m · Weight: 33.0 kg · Base EXP: 67
 ## Toedscruel (#949)
 <details class="pokemon-card-container" open>
 <summary>Toedscruel overview</summary>
-_Woodear Pokémon_ • Types: Ground / Grass
-Height: 1.9 m · Weight: 58.0 kg · Base EXP: 180
+_Woodear Pokémon_ • Types: Ground / Grass • Egg Groups: Plant • Base EXP: 180
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 1.9 m · Weight: 58.0 kg · Base EXP: 180
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 70 |
-| Defense | 65 |
-| Sp. Atk | 80 |
-| Sp. Def | 120 |
-| Speed | 100 |
-| Total | 515 |
-
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1, Scarlet Violet)
-- Reflect Type (Lv 1, Scarlet Violet)
-- Wrap (Lv 1, Scarlet Violet)
-- Absorb (Lv 4, Scarlet Violet)
-- Poison Powder (Lv 8, Scarlet Violet)
-- Stun Spore (Lv 8, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-high">120</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">515</span> |
 </div>
 </div>
 

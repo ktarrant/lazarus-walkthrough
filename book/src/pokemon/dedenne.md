@@ -1,8 +1,7 @@
 ## Dedenne (#702)
 <details class="pokemon-card-container" open>
 <summary>Dedenne overview</summary>
-_Antenna Pokémon_ • Types: Electric / Fairy
-Height: 0.2 m · Weight: 2.2 kg · Base EXP: 151
+_Antenna Pokémon_ • Types: Electric / Fairy • Egg Groups: Ground / Fairy • Base EXP: 151
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,13 @@ Height: 0.2 m · Weight: 2.2 kg · Base EXP: 151
 
 | Stat | Value |
 | --- | --- |
-| HP | 67 |
-| Attack | 58 |
-| Defense | 57 |
-| Sp. Atk | 81 |
-| Sp. Def | 67 |
-| Speed | 101 |
-| Total | 431 |
-
-**Notable Level-Up Moves**
-- Nuzzle (Lv 1, Sword Shield)
-- Tackle (Lv 1, X Y)
-- Tail Whip (Lv 1, X Y)
-- Thunder Shock (Lv 7, X Y)
-- Charge (Lv 10, Sword Shield)
-- Charm (Lv 14, X Y)
+| HP | <span class="stat-value stat-mid">67</span> |
+| Attack | <span class="stat-value stat-mid">58</span> |
+| Defense | <span class="stat-value stat-mid">57</span> |
+| Sp. Atk | <span class="stat-value stat-mid">81</span> |
+| Sp. Def | <span class="stat-value stat-mid">67</span> |
+| Speed | <span class="stat-value stat-high">101</span> |
+| Total | <span class="stat-value stat-mid">431</span> |
 </div>
 </div>
 

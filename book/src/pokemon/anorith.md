@@ -8,8 +8,7 @@
 ## Anorith (#347)
 <details class="pokemon-card-container" open>
 <summary>Anorith overview</summary>
-_Old Shrimp Pokémon_ • Types: Rock / Bug
-Height: 0.7 m · Weight: 12.5 kg · Base EXP: 71
+_Old Shrimp Pokémon_ • Types: Rock / Bug • Egg Groups: Water3 • Base EXP: 71
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -41,21 +40,25 @@ Height: 0.7 m · Weight: 12.5 kg · Base EXP: 71
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 95 |
-| Defense | 50 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 75 |
-| Total | 355 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
-- Fury Cutter (Lv 1, Sword Shield)
-- Harden (Lv 1, Diamond Pearl)
-- Scratch (Lv 1, Ruby Sapphire)
-- Mud Sport (Lv 4, Omega Ruby Alpha Sapphire)
-- Water Gun (Lv 4, Sword Shield)
-- Smack Down (Lv 8, Sword Shield)
+- Scratch (Lv 1)
+- Harden (Lv 7)
+- Mud Sport (Lv 13)
+- Water Gun (Lv 19)
+- Metal Claw (Lv 25)
+- Protect (Lv 31)
+- Ancient Power (Lv 37)
+- Fury Cutter (Lv 43)
+- Slash (Lv 49)
+- Rock Blast (Lv 55)
 </div>
 </div>
 
@@ -67,8 +70,7 @@ Height: 0.7 m · Weight: 12.5 kg · Base EXP: 71
 ## Armaldo (#348)
 <details class="pokemon-card-container" open>
 <summary>Armaldo overview</summary>
-_Plate Pokémon_ • Types: Rock / Bug
-Height: 1.5 m · Weight: 68.2 kg · Base EXP: 173
+_Plate Pokémon_ • Types: Rock / Bug • Egg Groups: Water3 • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -95,21 +97,28 @@ Height: 1.5 m · Weight: 68.2 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 125 |
-| Defense | 100 |
-| Sp. Atk | 70 |
-| Sp. Def | 80 |
-| Speed | 45 |
-| Total | 495 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 
 **Notable Level-Up Moves**
-- Crush Claw (Lv 1, X Y)
-- Fury Cutter (Lv 1, Sword Shield)
-- Harden (Lv 1, Ruby Sapphire)
-- Mud Sport (Lv 1, Ruby Sapphire)
-- Scratch (Lv 1, Ruby Sapphire)
-- Smack Down (Lv 1, Sword Shield)
+- Harden (Lv 1)
+- Mud Sport (Lv 1)
+- Scratch (Lv 1)
+- Water Gun (Lv 1)
+- Harden (Lv 7)
+- Mud Sport (Lv 13)
+- Water Gun (Lv 19)
+- Metal Claw (Lv 25)
+- Protect (Lv 31)
+- Ancient Power (Lv 37)
+- Fury Cutter (Lv 46)
+- Slash (Lv 55)
+- Rock Blast (Lv 64)
 </div>
 </div>
 

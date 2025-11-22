@@ -8,8 +8,7 @@
 ## Aipom (#190)
 <details class="pokemon-card-container" open>
 <summary>Aipom overview</summary>
-_Long Tail Pokémon_ • Types: Normal
-Height: 0.8 m · Weight: 11.5 kg · Base EXP: 72
+_Long Tail Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 72
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -38,21 +37,25 @@ Height: 0.8 m · Weight: 11.5 kg · Base EXP: 72
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 70 |
-| Defense | 55 |
-| Sp. Atk | 40 |
-| Sp. Def | 55 |
-| Speed | 85 |
-| Total | 360 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">360</span> |
 
 **Notable Level-Up Moves**
-- Quick Attack (Lv 1, Legends Arceus)
-- Scratch (Lv 1, Gold Silver)
-- Tail Whip (Lv 1, Gold Silver)
-- Sand Attack (Lv 4, Diamond Pearl)
-- Nasty Plot (Lv 6, Legends Arceus)
-- Astonish (Lv 8, Diamond Pearl)
+- Scratch (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 6)
+- Astonish (Lv 13)
+- Baton Pass (Lv 18)
+- Tickle (Lv 25)
+- Fury Swipes (Lv 31)
+- Swift (Lv 38)
+- Screech (Lv 43)
+- Agility (Lv 50)
 </div>
 </div>
 
@@ -64,8 +67,7 @@ Height: 0.8 m · Weight: 11.5 kg · Base EXP: 72
 ## Ambipom (#424)
 <details class="pokemon-card-container" open>
 <summary>Ambipom overview</summary>
-_Long Tail Pokémon_ • Types: Normal
-Height: 1.2 m · Weight: 20.3 kg · Base EXP: 169
+_Long Tail Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 169
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -90,21 +92,13 @@ Height: 1.2 m · Weight: 20.3 kg · Base EXP: 169
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 100 |
-| Defense | 66 |
-| Sp. Atk | 60 |
-| Sp. Def | 66 |
-| Speed | 115 |
-| Total | 482 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Diamond Pearl)
-- Dual Chop (Lv 1, Sun Moon)
-- Quick Attack (Lv 1, Legends Arceus)
-- Sand Attack (Lv 1, Diamond Pearl)
-- Scratch (Lv 1, Diamond Pearl)
-- Tail Whip (Lv 1, Diamond Pearl)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">66</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">66</span> |
+| Speed | <span class="stat-value stat-high">115</span> |
+| Total | <span class="stat-value stat-mid">482</span> |
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Gothita (#574)
 <details class="pokemon-card-container" open>
 <summary>Gothita overview</summary>
-_Fixation Pokémon_ • Types: Psychic
-Height: 0.4 m · Weight: 5.8 kg · Base EXP: 58
+_Fixation Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.4 m · Weight: 5.8 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 30 |
-| Defense | 50 |
-| Sp. Atk | 55 |
-| Sp. Def | 65 |
-| Speed | 45 |
-| Total | 290 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Sword Shield)
-- Pound (Lv 1, Black White)
-- Play Nice (Lv 4, Sword Shield)
-- Tickle (Lv 7, Black White)
-- Fake Tears (Lv 10, Black White)
-- Psybeam (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.4 m · Weight: 5.8 kg · Base EXP: 58
 ## Gothorita (#575)
 <details class="pokemon-card-container" open>
 <summary>Gothorita overview</summary>
-_Manipulate Pokémon_ • Types: Psychic
-Height: 0.7 m · Weight: 18.0 kg · Base EXP: 137
+_Manipulate Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 137
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,21 +90,13 @@ Height: 0.7 m · Weight: 18.0 kg · Base EXP: 137
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 45 |
-| Defense | 70 |
-| Sp. Atk | 75 |
-| Sp. Def | 85 |
-| Speed | 55 |
-| Total | 390 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Black White)
-- Fake Tears (Lv 1, Black White)
-- Play Nice (Lv 1, X Y)
-- Pound (Lv 1, Black White)
-- Tickle (Lv 1, Black White)
-- Psybeam (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">390</span> |
 </div>
 </div>
 
@@ -126,8 +108,7 @@ Height: 0.7 m · Weight: 18.0 kg · Base EXP: 137
 ## Gothitelle (#576)
 <details class="pokemon-card-container" open>
 <summary>Gothitelle overview</summary>
-_Astral Body Pokémon_ • Types: Psychic
-Height: 1.5 m · Weight: 44.0 kg · Base EXP: 221
+_Astral Body Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 221
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -158,21 +139,13 @@ Height: 1.5 m · Weight: 44.0 kg · Base EXP: 221
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 55 |
-| Defense | 95 |
-| Sp. Atk | 95 |
-| Sp. Def | 110 |
-| Speed | 65 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Black White)
-- Fake Tears (Lv 1, Black White)
-- Play Nice (Lv 1, X Y)
-- Pound (Lv 1, Black White)
-- Tickle (Lv 1, Black White)
-- Psybeam (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

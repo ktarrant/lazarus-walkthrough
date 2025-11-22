@@ -1,8 +1,7 @@
 ## Heracross (#214)
 <details class="pokemon-card-container" open>
 <summary>Heracross overview</summary>
-_Single Horn Pokémon_ • Types: Bug / Fighting
-Height: 1.5 m · Weight: 54.0 kg · Base EXP: 175
+_Single Horn Pokémon_ • Types: Bug / Fighting • Egg Groups: Bug • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,25 @@ Height: 1.5 m · Weight: 54.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 125 |
-| Defense | 75 |
-| Sp. Atk | 40 |
-| Sp. Def | 95 |
-| Speed | 85 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Arm Thrust (Lv 1, X Y)
-- Bullet Seed (Lv 1, X Y)
-- Endure (Lv 1, Diamond Pearl)
-- Horn Attack (Lv 1, Diamond Pearl)
-- Leer (Lv 1, Gold Silver)
-- Night Slash (Lv 1, Diamond Pearl)
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Horn Attack (Lv 6)
+- Endure (Lv 11)
+- Fury Attack (Lv 17)
+- Brick Break (Lv 23)
+- Counter (Lv 30)
+- Take Down (Lv 37)
+- Reversal (Lv 45)
+- Megahorn (Lv 53)
 </div>
 </div>
 

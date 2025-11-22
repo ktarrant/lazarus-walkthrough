@@ -10,8 +10,7 @@
 ## Froakie (#656)
 <details class="pokemon-card-container" open>
 <summary>Froakie overview</summary>
-_Bubble Frog Pokémon_ • Types: Water
-Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
+_Bubble Frog Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 63
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 
 | Stat | Value |
 | --- | --- |
-| HP | 41 |
-| Attack | 56 |
-| Defense | 40 |
-| Sp. Atk | 62 |
-| Sp. Def | 44 |
-| Speed | 71 |
-| Total | 314 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, X Y)
-- Pound (Lv 1, X Y)
-- Bubble (Lv 5, X Y)
-- Water Gun (Lv 5, Scarlet Violet)
-- Quick Attack (Lv 8, X Y)
-- Lick (Lv 10, X Y)
+| HP | <span class="stat-value stat-low">41</span> |
+| Attack | <span class="stat-value stat-mid">56</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">62</span> |
+| Sp. Def | <span class="stat-value stat-low">44</span> |
+| Speed | <span class="stat-value stat-mid">71</span> |
+| Total | <span class="stat-value stat-mid">314</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 ## Frogadier (#657)
 <details class="pokemon-card-container" open>
 <summary>Frogadier overview</summary>
-_Bubble Frog Pokémon_ • Types: Water
-Height: 0.6 m · Weight: 10.9 kg · Base EXP: 142
+_Bubble Frog Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +87,13 @@ Height: 0.6 m · Weight: 10.9 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 54 |
-| Attack | 63 |
-| Defense | 52 |
-| Sp. Atk | 83 |
-| Sp. Def | 56 |
-| Speed | 97 |
-| Total | 405 |
-
-**Notable Level-Up Moves**
-- Bubble (Lv 1, Sun Moon)
-- Growl (Lv 1, X Y)
-- Pound (Lv 1, X Y)
-- Water Gun (Lv 1, Scarlet Violet)
-- Quick Attack (Lv 8, X Y)
-- Lick (Lv 10, X Y)
+| HP | <span class="stat-value stat-mid">54</span> |
+| Attack | <span class="stat-value stat-mid">63</span> |
+| Defense | <span class="stat-value stat-mid">52</span> |
+| Sp. Atk | <span class="stat-value stat-mid">83</span> |
+| Sp. Def | <span class="stat-value stat-mid">56</span> |
+| Speed | <span class="stat-value stat-high">97</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 </div>
 </div>
 
@@ -123,8 +105,7 @@ Height: 0.6 m · Weight: 10.9 kg · Base EXP: 142
 ## Greninja (#658)
 <details class="pokemon-card-container" open>
 <summary>Greninja overview</summary>
-_Ninja Pokémon_ • Types: Water / Dark
-Height: 1.5 m · Weight: 40.0 kg · Base EXP: 239
+_Ninja Pokémon_ • Types: Water / Dark • Egg Groups: Water1 • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -158,21 +139,13 @@ Height: 1.5 m · Weight: 40.0 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 72 |
-| Attack | 95 |
-| Defense | 67 |
-| Sp. Atk | 103 |
-| Sp. Def | 71 |
-| Speed | 122 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Bubble (Lv 1, Sun Moon)
-- Growl (Lv 1, X Y)
-- Haze (Lv 1, Sun Moon)
-- Mat Block (Lv 1, X Y)
-- Night Slash (Lv 1, X Y)
-- Pound (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">72</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">67</span> |
+| Sp. Atk | <span class="stat-value stat-high">103</span> |
+| Sp. Def | <span class="stat-value stat-mid">71</span> |
+| Speed | <span class="stat-value stat-high">122</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

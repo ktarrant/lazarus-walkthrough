@@ -1,8 +1,7 @@
 ## Oranguru (#765)
 <details class="pokemon-card-container" open>
 <summary>Oranguru overview</summary>
-_Sage Pokémon_ • Types: Normal / Psychic
-Height: 1.5 m · Weight: 76.0 kg · Base EXP: 172
+_Sage Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -34,21 +33,13 @@ Height: 1.5 m · Weight: 76.0 kg · Base EXP: 172
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 60 |
-| Defense | 80 |
-| Sp. Atk | 90 |
-| Sp. Def | 110 |
-| Speed | 60 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Sun Moon)
-- Taunt (Lv 1, Sword Shield)
-- After You (Lv 4, Sun Moon)
-- Calm Mind (Lv 10, Sword Shield)
-- Quash (Lv 11, Sun Moon)
-- Stored Power (Lv 15, Sun Moon)
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

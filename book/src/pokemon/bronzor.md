@@ -8,8 +8,7 @@
 ## Bronzor (#436)
 <details class="pokemon-card-container" open>
 <summary>Bronzor overview</summary>
-_Bronze Pokémon_ • Types: Steel / Psychic
-Height: 0.5 m · Weight: 60.5 kg · Base EXP: 60
+_Bronze Pokémon_ • Types: Steel / Psychic • Egg Groups: Mineral • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -51,21 +50,13 @@ Height: 0.5 m · Weight: 60.5 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 57 |
-| Attack | 24 |
-| Defense | 86 |
-| Sp. Atk | 24 |
-| Sp. Def | 86 |
-| Speed | 23 |
-| Total | 300 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Diamond Pearl)
-- Tackle (Lv 1, Diamond Pearl)
-- Confuse Ray (Lv 4, Sword Shield)
-- Hypnosis (Lv 5, Black 2 White 2)
-- Payback (Lv 8, Sword Shield)
-- Imprison (Lv 9, Black 2 White 2)
+| HP | <span class="stat-value stat-mid">57</span> |
+| Attack | <span class="stat-value stat-low">24</span> |
+| Defense | <span class="stat-value stat-mid">86</span> |
+| Sp. Atk | <span class="stat-value stat-low">24</span> |
+| Sp. Def | <span class="stat-value stat-mid">86</span> |
+| Speed | <span class="stat-value stat-low">23</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 </div>
 </div>
 
@@ -77,8 +68,7 @@ Height: 0.5 m · Weight: 60.5 kg · Base EXP: 60
 ## Bronzong (#437)
 <details class="pokemon-card-container" open>
 <summary>Bronzong overview</summary>
-_Bronze Bell Pokémon_ • Types: Steel / Psychic
-Height: 1.3 m · Weight: 187.0 kg · Base EXP: 175
+_Bronze Bell Pokémon_ • Types: Steel / Psychic • Egg Groups: Mineral • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -115,21 +105,13 @@ Height: 1.3 m · Weight: 187.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 67 |
-| Attack | 89 |
-| Defense | 116 |
-| Sp. Atk | 79 |
-| Sp. Def | 116 |
-| Speed | 33 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Block (Lv 1, Sun Moon)
-- Confuse Ray (Lv 1, Sword Shield)
-- Confusion (Lv 1, Diamond Pearl)
-- Hypnosis (Lv 1, Diamond Pearl)
-- Imprison (Lv 1, Diamond Pearl)
-- Payback (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">67</span> |
+| Attack | <span class="stat-value stat-mid">89</span> |
+| Defense | <span class="stat-value stat-high">116</span> |
+| Sp. Atk | <span class="stat-value stat-mid">79</span> |
+| Sp. Def | <span class="stat-value stat-high">116</span> |
+| Speed | <span class="stat-value stat-low">33</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

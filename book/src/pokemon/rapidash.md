@@ -8,8 +8,7 @@
 ## Ponyta (#077)
 <details class="pokemon-card-container" open>
 <summary>Ponyta overview</summary>
-_Fire Horse Pokémon_ • Types: Fire
-Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
+_Fire Horse Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 82
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,25 @@ Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 85 |
-| Defense | 55 |
-| Sp. Atk | 65 |
-| Sp. Def | 65 |
-| Speed | 90 |
-| Total | 410 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Red Blue)
-- Growl (Lv 1, Platinum)
-- Quick Attack (Lv 1, Firered Leafgreen)
-- Tackle (Lv 1, Gold Silver)
-- Tail Whip (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Double Hit (Lv 9, Legends Arceus)
+- Tackle (Lv 1)
+- Growl (Lv 5)
+- Tail Whip (Lv 9)
+- Ember (Lv 14)
+- Stomp (Lv 19)
+- Fire Spin (Lv 25)
+- Take Down (Lv 31)
+- Agility (Lv 38)
+- Bounce (Lv 45)
+- Fire Blast (Lv 53)
 </div>
 </div>
 
@@ -72,8 +75,7 @@ Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
 ## Rapidash (#078)
 <details class="pokemon-card-container" open>
 <summary>Rapidash overview</summary>
-_Fire Horse Pokémon_ • Types: Fire
-Height: 1.7 m · Weight: 95.0 kg · Base EXP: 175
+_Fire Horse Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +110,29 @@ Height: 1.7 m · Weight: 95.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 100 |
-| Defense | 70 |
-| Sp. Atk | 80 |
-| Sp. Def | 80 |
-| Speed | 105 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">105</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Red Blue)
-- Fury Attack (Lv 1, Sun Moon)
-- Growl (Lv 1, Red Blue)
-- Horn Drill (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Hypnosis (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Megahorn (Lv 1, Diamond Pearl)
+- Ember (Lv 1)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Growl (Lv 5)
+- Tail Whip (Lv 9)
+- Ember (Lv 14)
+- Stomp (Lv 19)
+- Fire Spin (Lv 25)
+- Take Down (Lv 31)
+- Agility (Lv 38)
+- Fury Attack (Lv 40)
+- Bounce (Lv 50)
+- Fire Blast (Lv 63)
 </div>
 </div>
 

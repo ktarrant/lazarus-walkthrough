@@ -10,8 +10,7 @@
 ## Sneasel (#215)
 <details class="pokemon-card-container" open>
 <summary>Sneasel overview</summary>
-_Sharp Claw Pokémon_ • Types: Dark / Ice
-Height: 0.9 m · Weight: 28.0 kg · Base EXP: 86
+_Sharp Claw Pokémon_ • Types: Dark / Ice • Egg Groups: Ground • Base EXP: 86
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,27 @@ Height: 0.9 m · Weight: 28.0 kg · Base EXP: 86
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 95 |
-| Defense | 55 |
-| Sp. Atk | 35 |
-| Sp. Def | 75 |
-| Speed | 115 |
-| Total | 430 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">115</span> |
+| Total | <span class="stat-value stat-mid">430</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Quick Attack (Lv 1, Legends Arceus)
-- Scratch (Lv 1, Gold Silver)
-- Taunt (Lv 1, Ruby Sapphire)
-- Ice Shard (Lv 6, Legends Arceus)
-- Feint Attack (Lv 10, Black 2 White 2)
+- Leer (Lv 1)
+- Scratch (Lv 1)
+- Taunt (Lv 1)
+- Quick Attack (Lv 8)
+- Screech (Lv 15)
+- Feint Attack (Lv 22)
+- Fury Swipes (Lv 29)
+- Agility (Lv 36)
+- Icy Wind (Lv 43)
+- Slash (Lv 50)
+- Beat Up (Lv 57)
+- Metal Claw (Lv 64)
 </div>
 </div>
 
@@ -74,8 +79,7 @@ Height: 0.9 m · Weight: 28.0 kg · Base EXP: 86
 ## Weavile (#461)
 <details class="pokemon-card-container" open>
 <summary>Weavile overview</summary>
-_Sharp Claw Pokémon_ • Types: Dark / Ice
-Height: 1.1 m · Weight: 34.0 kg · Base EXP: 179
+_Sharp Claw Pokémon_ • Types: Dark / Ice • Egg Groups: Ground • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +112,13 @@ Height: 1.1 m · Weight: 34.0 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 120 |
-| Defense | 65 |
-| Sp. Atk | 45 |
-| Sp. Def | 85 |
-| Speed | 125 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Agility (Lv 1, Sword Shield)
-- Assurance (Lv 1, Diamond Pearl)
-- Beat Up (Lv 1, Sword Shield)
-- Embargo (Lv 1, Diamond Pearl)
-- Ice Shard (Lv 1, Sword Shield)
-- Leer (Lv 1, Diamond Pearl)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-high">125</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 
@@ -134,8 +130,7 @@ Height: 1.1 m · Weight: 34.0 kg · Base EXP: 179
 ## Sneasler (#903)
 <details class="pokemon-card-container" open>
 <summary>Sneasler overview</summary>
-_Free Climb Pokémon_ • Types: Fighting / Poison
-Height: 1.3 m · Weight: 43.0 kg · Base EXP: 102
+_Free Climb Pokémon_ • Types: Fighting / Poison • Egg Groups: Ground • Base EXP: 102
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -168,21 +163,13 @@ Height: 1.3 m · Weight: 43.0 kg · Base EXP: 102
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 130 |
-| Defense | 60 |
-| Sp. Atk | 40 |
-| Sp. Def | 80 |
-| Speed | 120 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Fling (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Quick Attack (Lv 1, Legends Arceus)
-- Rock Smash (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Taunt (Lv 6, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">120</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

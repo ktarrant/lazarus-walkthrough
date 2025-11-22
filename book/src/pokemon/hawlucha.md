@@ -1,8 +1,7 @@
 ## Hawlucha (#701)
 <details class="pokemon-card-container" open>
 <summary>Hawlucha overview</summary>
-_Wrestling Pokémon_ • Types: Fighting / Flying
-Height: 0.8 m · Weight: 21.5 kg · Base EXP: 175
+_Wrestling Pokémon_ • Types: Fighting / Flying • Egg Groups: Flying / Humanshape • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.8 m · Weight: 21.5 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 92 |
-| Defense | 75 |
-| Sp. Atk | 74 |
-| Sp. Def | 63 |
-| Speed | 118 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Detect (Lv 1, X Y)
-- Hone Claws (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Karate Chop (Lv 4, X Y)
-- Wing Attack (Lv 4, Sword Shield)
-- Aerial Ace (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-high">92</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">74</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-high">118</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

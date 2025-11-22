@@ -10,8 +10,7 @@
 ## Litwick (#607)
 <details class="pokemon-card-container" open>
 <summary>Litwick overview</summary>
-_Candle Pokémon_ • Types: Ghost / Fire
-Height: 0.3 m · Weight: 3.1 kg · Base EXP: 55
+_Candle Pokémon_ • Types: Ghost / Fire • Egg Groups: Indeterminate • Base EXP: 55
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -51,21 +50,13 @@ Height: 0.3 m · Weight: 3.1 kg · Base EXP: 55
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 30 |
-| Defense | 55 |
-| Sp. Atk | 65 |
-| Sp. Def | 55 |
-| Speed | 20 |
-| Total | 275 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Black White)
-- Ember (Lv 1, Black White)
-- Smog (Lv 1, Sword Shield)
-- Minimize (Lv 3, Black White)
-- Fire Spin (Lv 7, Black White)
-- Confuse Ray (Lv 10, Black White)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">275</span> |
 </div>
 </div>
 
@@ -77,8 +68,7 @@ Height: 0.3 m · Weight: 3.1 kg · Base EXP: 55
 ## Lampent (#608)
 <details class="pokemon-card-container" open>
 <summary>Lampent overview</summary>
-_Lamp Pokémon_ • Types: Ghost / Fire
-Height: 0.6 m · Weight: 13.0 kg · Base EXP: 130
+_Lamp Pokémon_ • Types: Ghost / Fire • Egg Groups: Indeterminate • Base EXP: 130
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -119,21 +109,13 @@ Height: 0.6 m · Weight: 13.0 kg · Base EXP: 130
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 40 |
-| Defense | 60 |
-| Sp. Atk | 95 |
-| Sp. Def | 60 |
-| Speed | 55 |
-| Total | 370 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Black White)
-- Ember (Lv 1, Black White)
-- Minimize (Lv 1, Black White)
-- Smog (Lv 1, Black White)
-- Fire Spin (Lv 7, Black White)
-- Confuse Ray (Lv 10, Black White)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">370</span> |
 </div>
 </div>
 
@@ -145,8 +127,7 @@ Height: 0.6 m · Weight: 13.0 kg · Base EXP: 130
 ## Chandelure (#609)
 <details class="pokemon-card-container" open>
 <summary>Chandelure overview</summary>
-_Luring Pokémon_ • Types: Ghost / Fire
-Height: 1.0 m · Weight: 34.3 kg · Base EXP: 234
+_Luring Pokémon_ • Types: Ghost / Fire • Egg Groups: Indeterminate • Base EXP: 234
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -183,21 +164,13 @@ Height: 1.0 m · Weight: 34.3 kg · Base EXP: 234
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 55 |
-| Defense | 90 |
-| Sp. Atk | 145 |
-| Sp. Def | 90 |
-| Speed | 80 |
-| Total | 520 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Confuse Ray (Lv 1, Black White)
-- Curse (Lv 1, Sword Shield)
-- Ember (Lv 1, Sword Shield)
-- Fire Spin (Lv 1, Sword Shield)
-- Flame Burst (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-high">145</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 </div>
 </div>
 

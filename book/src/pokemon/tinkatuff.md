@@ -10,8 +10,7 @@
 ## Tinkatink (#957)
 <details class="pokemon-card-container" open>
 <summary>Tinkatink overview</summary>
-_Metalsmith Pokémon_ • Types: Fairy / Steel
-Height: 0.4 m · Weight: 8.9 kg · Base EXP: 59
+_Metalsmith Pokémon_ • Types: Fairy / Steel • Egg Groups: Fairy • Base EXP: 59
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -51,21 +50,13 @@ Height: 0.4 m · Weight: 8.9 kg · Base EXP: 59
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 45 |
-| Defense | 45 |
-| Sp. Atk | 35 |
-| Sp. Def | 64 |
-| Speed | 58 |
-| Total | 297 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Fairy Wind (Lv 1, Scarlet Violet)
-- Baby Doll Eyes (Lv 5, Scarlet Violet)
-- Metal Claw (Lv 8, Scarlet Violet)
-- Covet (Lv 11, Scarlet Violet)
-- Rock Smash (Lv 14, Scarlet Violet)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">64</span> |
+| Speed | <span class="stat-value stat-mid">58</span> |
+| Total | <span class="stat-value stat-low">297</span> |
 </div>
 </div>
 
@@ -77,8 +68,7 @@ Height: 0.4 m · Weight: 8.9 kg · Base EXP: 59
 ## Tinkatuff (#958)
 <details class="pokemon-card-container" open>
 <summary>Tinkatuff overview</summary>
-_Hammer Pokémon_ • Types: Fairy / Steel
-Height: 0.7 m · Weight: 59.1 kg · Base EXP: 133
+_Hammer Pokémon_ • Types: Fairy / Steel • Egg Groups: Fairy • Base EXP: 133
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -119,21 +109,13 @@ Height: 0.7 m · Weight: 59.1 kg · Base EXP: 133
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 55 |
-| Defense | 55 |
-| Sp. Atk | 45 |
-| Sp. Def | 82 |
-| Speed | 78 |
-| Total | 380 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Fairy Wind (Lv 1, Scarlet Violet)
-- Baby Doll Eyes (Lv 5, Scarlet Violet)
-- Metal Claw (Lv 8, Scarlet Violet)
-- Covet (Lv 11, Scarlet Violet)
-- Rock Smash (Lv 14, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">82</span> |
+| Speed | <span class="stat-value stat-mid">78</span> |
+| Total | <span class="stat-value stat-mid">380</span> |
 </div>
 </div>
 
@@ -145,8 +127,7 @@ Height: 0.7 m · Weight: 59.1 kg · Base EXP: 133
 ## Tinkaton (#959)
 <details class="pokemon-card-container" open>
 <summary>Tinkaton overview</summary>
-_Hammer Pokémon_ • Types: Fairy / Steel
-Height: 0.7 m · Weight: 112.8 kg · Base EXP: 253
+_Hammer Pokémon_ • Types: Fairy / Steel • Egg Groups: Fairy • Base EXP: 253
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -182,21 +163,13 @@ Height: 0.7 m · Weight: 112.8 kg · Base EXP: 253
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 75 |
-| Defense | 77 |
-| Sp. Atk | 70 |
-| Sp. Def | 105 |
-| Speed | 94 |
-| Total | 506 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Fairy Wind (Lv 1, Scarlet Violet)
-- Baby Doll Eyes (Lv 5, Scarlet Violet)
-- Metal Claw (Lv 8, Scarlet Violet)
-- Covet (Lv 11, Scarlet Violet)
-- Rock Smash (Lv 14, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">77</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-high">105</span> |
+| Speed | <span class="stat-value stat-high">94</span> |
+| Total | <span class="stat-value stat-mid">506</span> |
 </div>
 </div>
 

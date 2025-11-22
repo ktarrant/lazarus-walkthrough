@@ -1,8 +1,7 @@
 ## Torkoal (#324)
 <details class="pokemon-card-container" open>
 <summary>Torkoal overview</summary>
-_Coal Pokémon_ • Types: Fire
-Height: 0.5 m · Weight: 80.4 kg · Base EXP: 165
+_Coal Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 165
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -38,21 +37,27 @@ Height: 0.5 m · Weight: 80.4 kg · Base EXP: 165
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 85 |
-| Defense | 140 |
-| Sp. Atk | 85 |
-| Sp. Def | 70 |
-| Speed | 20 |
-| Total | 470 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-high">140</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-mid">470</span> |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Ruby Sapphire)
-- Flail (Lv 1, X Y)
-- Heat Wave (Lv 1, X Y)
-- Inferno (Lv 1, X Y)
-- Protect (Lv 1, X Y)
-- Shell Smash (Lv 1, X Y)
+- Ember (Lv 1)
+- Smog (Lv 4)
+- Curse (Lv 7)
+- Smokescreen (Lv 14)
+- Fire Spin (Lv 17)
+- Body Slam (Lv 20)
+- Protect (Lv 27)
+- Flamethrower (Lv 30)
+- Iron Defense (Lv 33)
+- Amnesia (Lv 40)
+- Flail (Lv 43)
+- Heat Wave (Lv 46)
 </div>
 </div>
 

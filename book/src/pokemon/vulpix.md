@@ -8,8 +8,7 @@
 ## Vulpix (#037)
 <details class="pokemon-card-container" open>
 <summary>Vulpix overview</summary>
-_Fox Pokémon_ • Types: Fire
-Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
+_Fox Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,26 @@ Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 38 |
-| Attack | 41 |
-| Defense | 40 |
-| Sp. Atk | 50 |
-| Sp. Def | 65 |
-| Speed | 65 |
-| Total | 299 |
+| HP | <span class="stat-value stat-low">38</span> |
+| Attack | <span class="stat-value stat-low">41</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-low">299</span> |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Red Blue)
-- Tackle (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Tail Whip (Lv 1, Red Blue)
-- Disable (Lv 4, Sword Shield)
-- Quick Attack (Lv 5, Legends Arceus)
-- Roar (Lv 7, Diamond Pearl)
+- Ember (Lv 1)
+- Tail Whip (Lv 5)
+- Roar (Lv 9)
+- Quick Attack (Lv 13)
+- Will O Wisp (Lv 17)
+- Confuse Ray (Lv 21)
+- Imprison (Lv 25)
+- Flamethrower (Lv 29)
+- Safeguard (Lv 33)
+- Grudge (Lv 37)
+- Fire Spin (Lv 41)
 </div>
 </div>
 
@@ -69,8 +73,7 @@ Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
 ## Ninetales (#038)
 <details class="pokemon-card-container" open>
 <summary>Ninetales overview</summary>
-_Fox Pokémon_ • Types: Fire
-Height: 1.1 m · Weight: 19.9 kg · Base EXP: 177
+_Fox Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +104,20 @@ Height: 1.1 m · Weight: 19.9 kg · Base EXP: 177
 
 | Stat | Value |
 | --- | --- |
-| HP | 73 |
-| Attack | 76 |
-| Defense | 75 |
-| Sp. Atk | 81 |
-| Sp. Def | 100 |
-| Speed | 100 |
-| Total | 505 |
+| HP | <span class="stat-value stat-mid">73</span> |
+| Attack | <span class="stat-value stat-mid">76</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">81</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
 
 **Notable Level-Up Moves**
-- Confuse Ray (Lv 1, Gold Silver)
-- Disable (Lv 1, Sword Shield)
-- Ember (Lv 1, Red Blue)
-- Extrasensory (Lv 1, Sword Shield)
-- Fire Blast (Lv 1, Sword Shield)
-- Fire Spin (Lv 1, Sword Shield)
+- Confuse Ray (Lv 1)
+- Ember (Lv 1)
+- Quick Attack (Lv 1)
+- Safeguard (Lv 1)
+- Fire Spin (Lv 45)
 </div>
 </div>
 

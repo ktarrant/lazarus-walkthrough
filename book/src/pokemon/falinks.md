@@ -1,8 +1,7 @@
 ## Falinks (#870)
 <details class="pokemon-card-container" open>
 <summary>Falinks overview</summary>
-_Formation Pokémon_ • Types: Fighting
-Height: 3.0 m · Weight: 62.0 kg · Base EXP: 165
+_Formation Pokémon_ • Types: Fighting • Egg Groups: Fairy / Mineral • Base EXP: 165
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -34,21 +33,13 @@ Height: 3.0 m · Weight: 62.0 kg · Base EXP: 165
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 100 |
-| Defense | 100 |
-| Sp. Atk | 70 |
-| Sp. Def | 60 |
-| Speed | 75 |
-| Total | 470 |
-
-**Notable Level-Up Moves**
-- Protect (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sword Shield)
-- Rock Smash (Lv 5, Sword Shield)
-- Focus Energy (Lv 10, Sword Shield)
-- Headbutt (Lv 15, Sword Shield)
-- Bulk Up (Lv 20, Sword Shield)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">470</span> |
 </div>
 </div>
 

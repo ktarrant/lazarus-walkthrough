@@ -8,8 +8,7 @@
 ## Finneon (#456)
 <details class="pokemon-card-container" open>
 <summary>Finneon overview</summary>
-_Wing Fish Pokémon_ • Types: Water
-Height: 0.4 m · Weight: 7.0 kg · Base EXP: 66
+_Wing Fish Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -65,21 +64,13 @@ Height: 0.4 m · Weight: 7.0 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 49 |
-| Attack | 49 |
-| Defense | 56 |
-| Sp. Atk | 49 |
-| Sp. Def | 61 |
-| Speed | 66 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Bubble (Lv 1, Legends Arceus)
-- Pound (Lv 1, Diamond Pearl)
-- Gust (Lv 6, Legends Arceus)
-- Water Gun (Lv 6, Diamond Pearl)
-- Attract (Lv 10, Diamond Pearl)
-- Water Pulse (Lv 11, Legends Arceus)
+| HP | <span class="stat-value stat-low">49</span> |
+| Attack | <span class="stat-value stat-low">49</span> |
+| Defense | <span class="stat-value stat-mid">56</span> |
+| Sp. Atk | <span class="stat-value stat-low">49</span> |
+| Sp. Def | <span class="stat-value stat-mid">61</span> |
+| Speed | <span class="stat-value stat-mid">66</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -91,8 +82,7 @@ Height: 0.4 m · Weight: 7.0 kg · Base EXP: 66
 ## Lumineon (#457)
 <details class="pokemon-card-container" open>
 <summary>Lumineon overview</summary>
-_Neon Pokémon_ • Types: Water
-Height: 1.2 m · Weight: 24.0 kg · Base EXP: 161
+_Neon Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 161
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -126,21 +116,13 @@ Height: 1.2 m · Weight: 24.0 kg · Base EXP: 161
 
 | Stat | Value |
 | --- | --- |
-| HP | 69 |
-| Attack | 69 |
-| Defense | 76 |
-| Sp. Atk | 69 |
-| Sp. Def | 86 |
-| Speed | 91 |
-| Total | 460 |
-
-**Notable Level-Up Moves**
-- Attract (Lv 1, Diamond Pearl)
-- Bubble (Lv 1, Legends Arceus)
-- Gust (Lv 1, X Y)
-- Pound (Lv 1, Diamond Pearl)
-- Soak (Lv 1, X Y)
-- Water Gun (Lv 1, Diamond Pearl)
+| HP | <span class="stat-value stat-mid">69</span> |
+| Attack | <span class="stat-value stat-mid">69</span> |
+| Defense | <span class="stat-value stat-mid">76</span> |
+| Sp. Atk | <span class="stat-value stat-mid">69</span> |
+| Sp. Def | <span class="stat-value stat-mid">86</span> |
+| Speed | <span class="stat-value stat-high">91</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 </div>
 </div>
 

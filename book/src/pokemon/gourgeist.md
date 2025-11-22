@@ -8,8 +8,7 @@
 ## Pumpkaboo Average (#710)
 <details class="pokemon-card-container" open>
 <summary>Pumpkaboo Average overview</summary>
-_Pumpkin Pokémon_ • Types: Ghost / Grass
-Height: 0.4 m · Weight: 5.0 kg · Base EXP: 67
+_Pumpkin Pokémon_ • Types: Ghost / Grass • Egg Groups: Indeterminate • Base EXP: 67
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.4 m · Weight: 5.0 kg · Base EXP: 67
 
 | Stat | Value |
 | --- | --- |
-| HP | 49 |
-| Attack | 66 |
-| Defense | 70 |
-| Sp. Atk | 44 |
-| Sp. Def | 55 |
-| Speed | 51 |
-| Total | 335 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, X Y)
-- Confuse Ray (Lv 1, X Y)
-- Trick (Lv 1, X Y)
-- Trick Or Treat (Lv 1, Sword Shield)
-- Scary Face (Lv 4, X Y)
-- Shadow Sneak (Lv 4, Sword Shield)
+| HP | <span class="stat-value stat-low">49</span> |
+| Attack | <span class="stat-value stat-mid">66</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-low">44</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">51</span> |
+| Total | <span class="stat-value stat-mid">335</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.4 m · Weight: 5.0 kg · Base EXP: 67
 ## Gourgeist Average (#711)
 <details class="pokemon-card-container" open>
 <summary>Gourgeist Average overview</summary>
-_Pumpkin Pokémon_ • Types: Ghost / Grass
-Height: 0.9 m · Weight: 12.5 kg · Base EXP: 173
+_Pumpkin Pokémon_ • Types: Ghost / Grass • Egg Groups: Indeterminate • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 0.9 m · Weight: 12.5 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 90 |
-| Defense | 122 |
-| Sp. Atk | 58 |
-| Sp. Def | 75 |
-| Speed | 84 |
-| Total | 494 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, X Y)
-- Confuse Ray (Lv 1, X Y)
-- Explosion (Lv 1, X Y)
-- Moonblast (Lv 1, Sword Shield)
-- Phantom Force (Lv 1, X Y)
-- Scary Face (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">122</span> |
+| Sp. Atk | <span class="stat-value stat-mid">58</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">84</span> |
+| Total | <span class="stat-value stat-mid">494</span> |
 </div>
 </div>
 

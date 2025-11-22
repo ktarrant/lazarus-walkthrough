@@ -1,8 +1,7 @@
 ## Cyclizar (#967)
 <details class="pokemon-card-container" open>
 <summary>Cyclizar overview</summary>
-_Mount Pokémon_ • Types: Dragon / Normal
-Height: 1.6 m · Weight: 63.0 kg · Base EXP: 175
+_Mount Pokémon_ • Types: Dragon / Normal • Egg Groups: Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,13 @@ Height: 1.6 m · Weight: 63.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 95 |
-| Defense | 65 |
-| Sp. Atk | 85 |
-| Sp. Def | 65 |
-| Speed | 121 |
-| Total | 501 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Rapid Spin (Lv 7, Scarlet Violet)
-- Taunt (Lv 11, Scarlet Violet)
-- Breaking Swipe (Lv 14, Scarlet Violet)
-- Quick Attack (Lv 18, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">121</span> |
+| Total | <span class="stat-value stat-mid">501</span> |
 </div>
 </div>
 

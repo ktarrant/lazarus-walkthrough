@@ -8,8 +8,7 @@
 ## Yanma (#193)
 <details class="pokemon-card-container" open>
 <summary>Yanma overview</summary>
-_Clear Wing Pokémon_ • Types: Bug / Flying
-Height: 1.2 m · Weight: 38.0 kg · Base EXP: 78
+_Clear Wing Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 78
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,25 @@ Height: 1.2 m · Weight: 38.0 kg · Base EXP: 78
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 65 |
-| Defense | 45 |
-| Sp. Atk | 75 |
-| Sp. Def | 45 |
-| Speed | 95 |
-| Total | 390 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">390</span> |
 
 **Notable Level-Up Moves**
-- Foresight (Lv 1, Gold Silver)
-- Gust (Lv 1, Brilliant Diamond And Shining Pearl)
-- Quick Attack (Lv 1, Legends Arceus)
-- Tackle (Lv 1, Gold Silver)
-- Double Team (Lv 11, Diamond Pearl)
-- Silver Wind (Lv 11, Legends Arceus)
+- Foresight (Lv 1)
+- Tackle (Lv 1)
+- Quick Attack (Lv 7)
+- Double Team (Lv 13)
+- Sonic Boom (Lv 19)
+- Detect (Lv 25)
+- Supersonic (Lv 31)
+- Uproar (Lv 37)
+- Wing Attack (Lv 43)
+- Screech (Lv 49)
 </div>
 </div>
 
@@ -74,8 +77,7 @@ Height: 1.2 m · Weight: 38.0 kg · Base EXP: 78
 ## Yanmega (#469)
 <details class="pokemon-card-container" open>
 <summary>Yanmega overview</summary>
-_Ogre Darner Pokémon_ • Types: Bug / Flying
-Height: 1.9 m · Weight: 51.5 kg · Base EXP: 180
+_Ogre Darner Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 180
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,21 +114,13 @@ Height: 1.9 m · Weight: 51.5 kg · Base EXP: 180
 
 | Stat | Value |
 | --- | --- |
-| HP | 86 |
-| Attack | 76 |
-| Defense | 86 |
-| Sp. Atk | 116 |
-| Sp. Def | 56 |
-| Speed | 95 |
-| Total | 515 |
-
-**Notable Level-Up Moves**
-- Air Slash (Lv 1, X Y)
-- Bug Bite (Lv 1, Diamond Pearl)
-- Bug Buzz (Lv 1, X Y)
-- Double Team (Lv 1, Diamond Pearl)
-- Foresight (Lv 1, Diamond Pearl)
-- Gust (Lv 1, Brilliant Diamond And Shining Pearl)
+| HP | <span class="stat-value stat-mid">86</span> |
+| Attack | <span class="stat-value stat-mid">76</span> |
+| Defense | <span class="stat-value stat-mid">86</span> |
+| Sp. Atk | <span class="stat-value stat-high">116</span> |
+| Sp. Def | <span class="stat-value stat-mid">56</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">515</span> |
 </div>
 </div>
 

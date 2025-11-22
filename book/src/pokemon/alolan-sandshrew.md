@@ -8,8 +8,7 @@
 ## Sandshrew Alola (#10101)
 <details class="pokemon-card-container" open>
 <summary>Sandshrew Alola overview</summary>
-_Mouse Pokémon_ • Types: Ice / Steel
-Height: 0.7 m · Weight: 40.0 kg · Base EXP: 60
+_Mouse Pokémon_ • Types: Ice / Steel • Egg Groups: Ground • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.7 m · Weight: 40.0 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 75 |
-| Defense | 90 |
-| Sp. Atk | 10 |
-| Sp. Def | 35 |
-| Speed | 40 |
-| Total | 300 |
-
-**Notable Level-Up Moves**
-- Defense Curl (Lv 1, Sun Moon)
-- Scratch (Lv 1, Sun Moon)
-- Bide (Lv 3, Sun Moon)
-- Mist (Lv 3, Sword Shield)
-- Powder Snow (Lv 5, Sun Moon)
-- Ice Ball (Lv 7, Sun Moon)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-low">10</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.7 m · Weight: 40.0 kg · Base EXP: 60
 ## Sandslash Alola (#10102)
 <details class="pokemon-card-container" open>
 <summary>Sandslash Alola overview</summary>
-_Mouse Pokémon_ • Types: Ice / Steel
-Height: 1.2 m · Weight: 55.0 kg · Base EXP: 158
+_Mouse Pokémon_ • Types: Ice / Steel • Egg Groups: Ground • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -107,21 +97,13 @@ Height: 1.2 m · Weight: 55.0 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 100 |
-| Defense | 120 |
-| Sp. Atk | 25 |
-| Sp. Def | 65 |
-| Speed | 65 |
-| Total | 450 |
-
-**Notable Level-Up Moves**
-- Bide (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Blizzard (Lv 1, Sword Shield)
-- Counter (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Defense Curl (Lv 1, Sun Moon)
-- Fury Cutter (Lv 1, Sword Shield)
-- Fury Swipes (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-high">120</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">450</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Skiddo (#672)
 <details class="pokemon-card-container" open>
 <summary>Skiddo overview</summary>
-_Mount Pokémon_ • Types: Grass
-Height: 0.9 m · Weight: 31.0 kg · Base EXP: 70
+_Mount Pokémon_ • Types: Grass • Egg Groups: Ground • Base EXP: 70
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.9 m · Weight: 31.0 kg · Base EXP: 70
 
 | Stat | Value |
 | --- | --- |
-| HP | 66 |
-| Attack | 65 |
-| Defense | 48 |
-| Sp. Atk | 62 |
-| Sp. Def | 57 |
-| Speed | 52 |
-| Total | 350 |
-
-**Notable Level-Up Moves**
-- Growth (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Vine Whip (Lv 7, X Y)
-- Tail Whip (Lv 9, X Y)
-- Leech Seed (Lv 12, X Y)
-- Razor Leaf (Lv 13, X Y)
+| HP | <span class="stat-value stat-mid">66</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">48</span> |
+| Sp. Atk | <span class="stat-value stat-mid">62</span> |
+| Sp. Def | <span class="stat-value stat-mid">57</span> |
+| Speed | <span class="stat-value stat-mid">52</span> |
+| Total | <span class="stat-value stat-mid">350</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.9 m · Weight: 31.0 kg · Base EXP: 70
 ## Gogoat (#673)
 <details class="pokemon-card-container" open>
 <summary>Gogoat overview</summary>
-_Mount Pokémon_ • Types: Grass
-Height: 1.7 m · Weight: 91.0 kg · Base EXP: 186
+_Mount Pokémon_ • Types: Grass • Egg Groups: Ground • Base EXP: 186
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +99,13 @@ Height: 1.7 m · Weight: 91.0 kg · Base EXP: 186
 
 | Stat | Value |
 | --- | --- |
-| HP | 123 |
-| Attack | 100 |
-| Defense | 62 |
-| Sp. Atk | 97 |
-| Sp. Def | 81 |
-| Speed | 68 |
-| Total | 531 |
-
-**Notable Level-Up Moves**
-- Aerial Ace (Lv 1, X Y)
-- Earthquake (Lv 1, Sun Moon)
-- Growth (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Tail Whip (Lv 1, Sun Moon)
-- Vine Whip (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">123</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">62</span> |
+| Sp. Atk | <span class="stat-value stat-high">97</span> |
+| Sp. Def | <span class="stat-value stat-mid">81</span> |
+| Speed | <span class="stat-value stat-mid">68</span> |
+| Total | <span class="stat-value stat-mid">531</span> |
 </div>
 </div>
 

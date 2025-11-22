@@ -10,8 +10,7 @@
 ## Hoppip (#187)
 <details class="pokemon-card-container" open>
 <summary>Hoppip overview</summary>
-_Cottonweed Pokémon_ • Types: Grass / Flying
-Height: 0.4 m · Weight: 0.5 kg · Base EXP: 50
+_Cottonweed Pokémon_ • Types: Grass / Flying • Egg Groups: Fairy / Plant • Base EXP: 50
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,25 @@ Height: 0.4 m · Weight: 0.5 kg · Base EXP: 50
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 35 |
-| Defense | 40 |
-| Sp. Atk | 35 |
-| Sp. Def | 55 |
-| Speed | 50 |
-| Total | 250 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">250</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Ultra Sun Ultra Moon)
-- Splash (Lv 1, Gold Silver)
-- Synthesis (Lv 1, Gold Silver)
-- Tackle (Lv 1, Scarlet Violet)
-- Tail Whip (Lv 4, Scarlet Violet)
-- Fairy Wind (Lv 8, Scarlet Violet)
+- Splash (Lv 1)
+- Synthesis (Lv 5)
+- Tail Whip (Lv 5)
+- Tackle (Lv 10)
+- Poison Powder (Lv 13)
+- Stun Spore (Lv 15)
+- Sleep Powder (Lv 17)
+- Leech Seed (Lv 20)
+- Cotton Spore (Lv 25)
+- Mega Drain (Lv 30)
 </div>
 </div>
 
@@ -74,8 +77,7 @@ Height: 0.4 m · Weight: 0.5 kg · Base EXP: 50
 ## Skiploom (#188)
 <details class="pokemon-card-container" open>
 <summary>Skiploom overview</summary>
-_Cottonweed Pokémon_ • Types: Grass / Flying
-Height: 0.6 m · Weight: 1.0 kg · Base EXP: 119
+_Cottonweed Pokémon_ • Types: Grass / Flying • Egg Groups: Fairy / Plant • Base EXP: 119
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,21 +114,28 @@ Height: 0.6 m · Weight: 1.0 kg · Base EXP: 119
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 45 |
-| Defense | 50 |
-| Sp. Atk | 45 |
-| Sp. Def | 65 |
-| Speed | 80 |
-| Total | 340 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">340</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Ultra Sun Ultra Moon)
-- Splash (Lv 1, Gold Silver)
-- Synthesis (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Tail Whip (Lv 1, Gold Silver)
-- Fairy Wind (Lv 10, X Y)
+- Splash (Lv 1)
+- Synthesis (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Synthesis (Lv 5)
+- Tail Whip (Lv 5)
+- Tackle (Lv 10)
+- Poison Powder (Lv 13)
+- Stun Spore (Lv 15)
+- Sleep Powder (Lv 17)
+- Leech Seed (Lv 22)
+- Cotton Spore (Lv 29)
+- Mega Drain (Lv 36)
 </div>
 </div>
 
@@ -138,8 +147,7 @@ Height: 0.6 m · Weight: 1.0 kg · Base EXP: 119
 ## Jumpluff (#189)
 <details class="pokemon-card-container" open>
 <summary>Jumpluff overview</summary>
-_Cottonweed Pokémon_ • Types: Grass / Flying
-Height: 0.8 m · Weight: 3.0 kg · Base EXP: 207
+_Cottonweed Pokémon_ • Types: Grass / Flying • Egg Groups: Fairy / Plant • Base EXP: 207
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -171,21 +179,28 @@ Height: 0.8 m · Weight: 3.0 kg · Base EXP: 207
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 55 |
-| Defense | 70 |
-| Sp. Atk | 55 |
-| Sp. Def | 95 |
-| Speed | 110 |
-| Total | 460 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Ultra Sun Ultra Moon)
-- Splash (Lv 1, Gold Silver)
-- Synthesis (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Tail Whip (Lv 1, Gold Silver)
-- Fairy Wind (Lv 10, X Y)
+- Splash (Lv 1)
+- Synthesis (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Synthesis (Lv 5)
+- Tail Whip (Lv 5)
+- Tackle (Lv 10)
+- Poison Powder (Lv 13)
+- Stun Spore (Lv 15)
+- Sleep Powder (Lv 17)
+- Leech Seed (Lv 22)
+- Cotton Spore (Lv 33)
+- Mega Drain (Lv 44)
 </div>
 </div>
 

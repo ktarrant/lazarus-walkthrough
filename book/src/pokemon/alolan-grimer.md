@@ -8,8 +8,7 @@
 ## Grimer Alola (#10112)
 <details class="pokemon-card-container" open>
 <summary>Grimer Alola overview</summary>
-_Sludge Pokémon_ • Types: Poison / Dark
-Height: 0.7 m · Weight: 42.0 kg · Base EXP: 65
+_Sludge Pokémon_ • Types: Poison / Dark • Egg Groups: Indeterminate • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.7 m · Weight: 42.0 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 80 |
-| Defense | 50 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 25 |
-| Total | 325 |
-
-**Notable Level-Up Moves**
-- Poison Gas (Lv 1, Sun Moon)
-- Pound (Lv 1, Sun Moon)
-- Harden (Lv 4, Sun Moon)
-- Bite (Lv 7, Sun Moon)
-- Disable (Lv 12, Sun Moon)
-- Minimize (Lv 12, Lets Go Pikachu Lets Go Eevee)
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">25</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.7 m · Weight: 42.0 kg · Base EXP: 65
 ## Muk Alola (#10113)
 <details class="pokemon-card-container" open>
 <summary>Muk Alola overview</summary>
-_Sludge Pokémon_ • Types: Poison / Dark
-Height: 1.0 m · Weight: 52.0 kg · Base EXP: 175
+_Sludge Pokémon_ • Types: Poison / Dark • Egg Groups: Indeterminate • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +91,13 @@ Height: 1.0 m · Weight: 52.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 105 |
-| Attack | 105 |
-| Defense | 75 |
-| Sp. Atk | 65 |
-| Sp. Def | 100 |
-| Speed | 50 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Sun Moon)
-- Harden (Lv 1, Sun Moon)
-- Haze (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Minimize (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Moonblast (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Poison Gas (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">105</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

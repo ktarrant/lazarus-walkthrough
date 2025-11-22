@@ -8,8 +8,7 @@
 ## Wimpod (#767)
 <details class="pokemon-card-container" open>
 <summary>Wimpod overview</summary>
-_Turn Tail Pokémon_ • Types: Bug / Water
-Height: 0.5 m · Weight: 12.0 kg · Base EXP: 46
+_Turn Tail Pokémon_ • Types: Bug / Water • Egg Groups: Bug / Water3 • Base EXP: 46
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,18 +47,13 @@ Height: 0.5 m · Weight: 12.0 kg · Base EXP: 46
 
 | Stat | Value |
 | --- | --- |
-| HP | 25 |
-| Attack | 35 |
-| Defense | 40 |
-| Sp. Atk | 20 |
-| Sp. Def | 30 |
-| Speed | 80 |
-| Total | 230 |
-
-**Notable Level-Up Moves**
-- Defense Curl (Lv 1, Sword Shield)
-- Sand Attack (Lv 1, Sun Moon)
-- Struggle Bug (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-low">25</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">20</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-low">230</span> |
 </div>
 </div>
 
@@ -71,8 +65,7 @@ Height: 0.5 m · Weight: 12.0 kg · Base EXP: 46
 ## Golisopod (#768)
 <details class="pokemon-card-container" open>
 <summary>Golisopod overview</summary>
-_Hard Scale Pokémon_ • Types: Bug / Water
-Height: 2.0 m · Weight: 108.0 kg · Base EXP: 186
+_Hard Scale Pokémon_ • Types: Bug / Water • Egg Groups: Bug / Water3 • Base EXP: 186
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +94,13 @@ Height: 2.0 m · Weight: 108.0 kg · Base EXP: 186
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 125 |
-| Defense | 140 |
-| Sp. Atk | 60 |
-| Sp. Def | 90 |
-| Speed | 40 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Defense Curl (Lv 1, Sword Shield)
-- First Impression (Lv 1, Sun Moon)
-- Fury Cutter (Lv 1, Sun Moon)
-- Rock Smash (Lv 1, Sun Moon)
-- Sand Attack (Lv 1, Sun Moon)
-- Spite (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-high">140</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

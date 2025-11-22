@@ -8,8 +8,7 @@
 ## Corsola (#222)
 <details class="pokemon-card-container" open>
 <summary>Corsola overview</summary>
-_Coral Pokémon_ • Types: Water / Rock
-Height: 0.6 m · Weight: 5.0 kg · Base EXP: 144
+_Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,25 @@ Height: 0.6 m · Weight: 5.0 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 55 |
-| Defense | 95 |
-| Sp. Atk | 65 |
-| Sp. Def | 95 |
-| Speed | 35 |
-| Total | 410 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Omega Ruby Alpha Sapphire)
-- Tackle (Lv 1, Gold Silver)
-- Bubble (Lv 4, Omega Ruby Alpha Sapphire)
-- Water Gun (Lv 5, Sword Shield)
-- Recover (Lv 8, Omega Ruby Alpha Sapphire)
-- Aqua Ring (Lv 10, Sword Shield)
+- Tackle (Lv 1)
+- Harden (Lv 6)
+- Bubble (Lv 12)
+- Recover (Lv 17)
+- Refresh (Lv 17)
+- Bubble Beam (Lv 23)
+- Spike Cannon (Lv 28)
+- Rock Blast (Lv 34)
+- Mirror Coat (Lv 39)
+- Ancient Power (Lv 45)
 </div>
 </div>
 
@@ -75,8 +78,7 @@ Height: 0.6 m · Weight: 5.0 kg · Base EXP: 144
 ## Cursola (#864)
 <details class="pokemon-card-container" open>
 <summary>Cursola overview</summary>
-_Coral Pokémon_ • Types: Ghost
-Height: 1.0 m · Weight: 0.4 kg · Base EXP: 179
+_Coral Pokémon_ • Types: Ghost • Egg Groups: Water1 / Water3 • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +106,13 @@ Height: 1.0 m · Weight: 0.4 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 95 |
-| Defense | 50 |
-| Sp. Atk | 145 |
-| Sp. Def | 130 |
-| Speed | 30 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Disable (Lv 1, Sword Shield)
-- Harden (Lv 1, Sword Shield)
-- Perish Song (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sword Shield)
-- Spite (Lv 15, Sword Shield)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-high">145</span> |
+| Sp. Def | <span class="stat-value stat-high">130</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

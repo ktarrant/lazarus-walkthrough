@@ -67,3 +67,28 @@
 .pokemon-tab-panel {
     display: none;
 }
+
+.stat-value {
+    display: inline-block;
+    min-width: 2.75rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    text-align: right;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+}
+
+.stat-low {
+    background: #3c1f1f;
+    color: #ff9d9d;
+}
+
+.stat-mid {
+    background: #3c351f;
+    color: #ffe29a;
+}
+
+.stat-high {
+    background: #1f3c26;
+    color: #92f5c1;
+}

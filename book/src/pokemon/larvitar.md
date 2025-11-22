@@ -10,8 +10,7 @@
 ## Larvitar (#246)
 <details class="pokemon-card-container" open>
 <summary>Larvitar overview</summary>
-_Rock Skin Pokémon_ • Types: Rock / Ground
-Height: 0.6 m · Weight: 72.0 kg · Base EXP: 60
+_Rock Skin Pokémon_ • Types: Rock / Ground • Egg Groups: Monster • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,25 @@ Height: 0.6 m · Weight: 72.0 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 64 |
-| Defense | 50 |
-| Sp. Atk | 45 |
-| Sp. Def | 50 |
-| Speed | 41 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">64</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">41</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1, Gold Silver)
-- Leer (Lv 1, Gold Silver)
-- Tackle (Lv 1, Sword Shield)
-- Rock Throw (Lv 3, Sword Shield)
-- Sandstorm (Lv 5, Diamond Pearl)
-- Payback (Lv 6, Sword Shield)
+- Bite (Lv 1)
+- Leer (Lv 1)
+- Sandstorm (Lv 8)
+- Screech (Lv 15)
+- Rock Slide (Lv 22)
+- Thrash (Lv 29)
+- Scary Face (Lv 36)
+- Crunch (Lv 43)
+- Earthquake (Lv 50)
+- Hyper Beam (Lv 57)
 </div>
 </div>
 
@@ -75,8 +78,7 @@ Height: 0.6 m · Weight: 72.0 kg · Base EXP: 60
 ## Pupitar (#247)
 <details class="pokemon-card-container" open>
 <summary>Pupitar overview</summary>
-_Hard Shell Pokémon_ • Types: Rock / Ground
-Height: 1.2 m · Weight: 152.0 kg · Base EXP: 144
+_Hard Shell Pokémon_ • Types: Rock / Ground • Egg Groups: Monster • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +111,27 @@ Height: 1.2 m · Weight: 152.0 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 84 |
-| Defense | 70 |
-| Sp. Atk | 65 |
-| Sp. Def | 70 |
-| Speed | 51 |
-| Total | 410 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">84</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">51</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1, Gold Silver)
-- Iron Defense (Lv 1, Sword Shield)
-- Leer (Lv 1, Gold Silver)
-- Payback (Lv 1, Sword Shield)
-- Rock Throw (Lv 1, Sword Shield)
-- Sandstorm (Lv 1, Gold Silver)
+- Bite (Lv 1)
+- Leer (Lv 1)
+- Sandstorm (Lv 1)
+- Screech (Lv 1)
+- Sandstorm (Lv 8)
+- Screech (Lv 15)
+- Rock Slide (Lv 22)
+- Thrash (Lv 29)
+- Scary Face (Lv 38)
+- Crunch (Lv 47)
+- Earthquake (Lv 56)
+- Hyper Beam (Lv 65)
 </div>
 </div>
 
@@ -135,8 +143,7 @@ Height: 1.2 m · Weight: 152.0 kg · Base EXP: 144
 ## Tyranitar (#248)
 <details class="pokemon-card-container" open>
 <summary>Tyranitar overview</summary>
-_Armor Pokémon_ • Types: Rock / Dark
-Height: 2.0 m · Weight: 202.0 kg · Base EXP: 270
+_Armor Pokémon_ • Types: Rock / Dark • Egg Groups: Monster • Base EXP: 270
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -172,21 +179,27 @@ Height: 2.0 m · Weight: 202.0 kg · Base EXP: 270
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 134 |
-| Defense | 110 |
-| Sp. Atk | 95 |
-| Sp. Def | 100 |
-| Speed | 61 |
-| Total | 600 |
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">134</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">61</span> |
+| Total | <span class="stat-value stat-high">600</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1, Gold Silver)
-- Dark Pulse (Lv 1, Scarlet Violet)
-- Fire Fang (Lv 1, Diamond Pearl)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Iron Defense (Lv 1, Sword Shield)
-- Leer (Lv 1, Gold Silver)
+- Bite (Lv 1)
+- Leer (Lv 1)
+- Sandstorm (Lv 1)
+- Screech (Lv 1)
+- Sandstorm (Lv 8)
+- Screech (Lv 15)
+- Rock Slide (Lv 22)
+- Thrash (Lv 29)
+- Scary Face (Lv 38)
+- Crunch (Lv 47)
+- Earthquake (Lv 61)
+- Hyper Beam (Lv 75)
 </div>
 </div>
 

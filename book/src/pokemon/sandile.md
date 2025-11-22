@@ -10,8 +10,7 @@
 ## Sandile (#551)
 <details class="pokemon-card-container" open>
 <summary>Sandile overview</summary>
-_Desert Croc Pokémon_ • Types: Ground / Dark
-Height: 0.7 m · Weight: 15.2 kg · Base EXP: 58
+_Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -51,21 +50,13 @@ Height: 0.7 m · Weight: 15.2 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 72 |
-| Defense | 35 |
-| Sp. Atk | 35 |
-| Sp. Def | 35 |
-| Speed | 65 |
-| Total | 292 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Power Trip (Lv 1, Sword Shield)
-- Rage (Lv 1, Black White)
-- Sand Attack (Lv 3, Sword Shield)
-- Bite (Lv 4, Black White)
-- Hone Claws (Lv 6, Sword Shield)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">72</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-low">292</span> |
 </div>
 </div>
 
@@ -77,8 +68,7 @@ Height: 0.7 m · Weight: 15.2 kg · Base EXP: 58
 ## Krokorok (#552)
 <details class="pokemon-card-container" open>
 <summary>Krokorok overview</summary>
-_Desert Croc Pokémon_ • Types: Ground / Dark
-Height: 1.0 m · Weight: 33.4 kg · Base EXP: 123
+_Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base EXP: 123
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -116,21 +106,13 @@ Height: 1.0 m · Weight: 33.4 kg · Base EXP: 123
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 82 |
-| Defense | 45 |
-| Sp. Atk | 45 |
-| Sp. Def | 45 |
-| Speed | 74 |
-| Total | 351 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Black White)
-- Hone Claws (Lv 1, Sword Shield)
-- Leer (Lv 1, Black White)
-- Power Trip (Lv 1, Sword Shield)
-- Rage (Lv 1, Black White)
-- Sand Attack (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">82</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">74</span> |
+| Total | <span class="stat-value stat-mid">351</span> |
 </div>
 </div>
 
@@ -142,8 +124,7 @@ Height: 1.0 m · Weight: 33.4 kg · Base EXP: 123
 ## Krookodile (#553)
 <details class="pokemon-card-container" open>
 <summary>Krookodile overview</summary>
-_Intimidation Pokémon_ • Types: Ground / Dark
-Height: 1.5 m · Weight: 96.3 kg · Base EXP: 234
+_Intimidation Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base EXP: 234
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -178,21 +159,13 @@ Height: 1.5 m · Weight: 96.3 kg · Base EXP: 234
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 117 |
-| Defense | 80 |
-| Sp. Atk | 65 |
-| Sp. Def | 70 |
-| Speed | 92 |
-| Total | 519 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Black White)
-- Hone Claws (Lv 1, Sword Shield)
-- Leer (Lv 1, Black White)
-- Outrage (Lv 1, X Y)
-- Power Trip (Lv 1, Sun Moon)
-- Rage (Lv 1, Black White)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-high">117</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">92</span> |
+| Total | <span class="stat-value stat-mid">519</span> |
 </div>
 </div>
 

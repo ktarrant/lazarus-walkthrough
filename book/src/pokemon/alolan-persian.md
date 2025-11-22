@@ -10,8 +10,7 @@
 ## Meowth Alola (#10107)
 <details class="pokemon-card-container" open>
 <summary>Meowth Alola overview</summary>
-_Scratch Cat Pokémon_ • Types: Dark
-Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
+_Scratch Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 35 |
-| Defense | 35 |
-| Sp. Atk | 50 |
-| Sp. Def | 40 |
-| Speed | 90 |
-| Total | 290 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Fake Out (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Growl (Lv 1, Sun Moon)
-- Scratch (Lv 1, Sun Moon)
-- Feint (Lv 4, Sword Shield)
-- Taunt (Lv 9, Lets Go Pikachu Lets Go Eevee)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 ## Persian Alola (#10108)
 <details class="pokemon-card-container" open>
 <summary>Persian Alola overview</summary>
-_Classy Cat Pokémon_ • Types: Dark
-Height: 1.1 m · Weight: 33.0 kg · Base EXP: 154
+_Classy Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 1.1 m · Weight: 33.0 kg · Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 60 |
-| Defense | 60 |
-| Sp. Atk | 75 |
-| Sp. Def | 65 |
-| Speed | 115 |
-| Total | 440 |
-
-**Notable Level-Up Moves**
-- Amnesia (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 1, Sun Moon)
-- Fake Out (Lv 1, Sun Moon)
-- Feint (Lv 1, Sword Shield)
-- Growl (Lv 1, Sun Moon)
-- Hypnosis (Lv 1, Lets Go Pikachu Lets Go Eevee)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">115</span> |
+| Total | <span class="stat-value stat-mid">440</span> |
 </div>
 </div>
 
@@ -131,8 +113,7 @@ Height: 1.1 m · Weight: 33.0 kg · Base EXP: 154
 ## Perrserker (#863)
 <details class="pokemon-card-container" open>
 <summary>Perrserker overview</summary>
-_Viking Pokémon_ • Types: Steel
-Height: 0.8 m · Weight: 28.0 kg · Base EXP: 154
+_Viking Pokémon_ • Types: Steel • Egg Groups: Ground • Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -176,21 +157,13 @@ Height: 0.8 m · Weight: 28.0 kg · Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 110 |
-| Defense | 100 |
-| Sp. Atk | 50 |
-| Sp. Def | 60 |
-| Speed | 50 |
-| Total | 440 |
-
-**Notable Level-Up Moves**
-- Fake Out (Lv 1, Sword Shield)
-- Growl (Lv 1, Sword Shield)
-- Hone Claws (Lv 1, Sword Shield)
-- Iron Defense (Lv 1, Sword Shield)
-- Iron Head (Lv 1, Sword Shield)
-- Metal Burst (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">440</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Natu (#177)
 <details class="pokemon-card-container" open>
 <summary>Natu overview</summary>
-_Tiny Bird Pokémon_ • Types: Psychic / Flying
-Height: 0.2 m · Weight: 2.0 kg · Base EXP: 64
+_Tiny Bird Pokémon_ • Types: Psychic / Flying • Egg Groups: Flying • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,23 @@ Height: 0.2 m · Weight: 2.0 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 50 |
-| Defense | 45 |
-| Sp. Atk | 70 |
-| Sp. Def | 45 |
-| Speed | 70 |
-| Total | 320 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Peck (Lv 1, Gold Silver)
-- Stored Power (Lv 5, Sword Shield)
-- Night Shade (Lv 6, Diamond Pearl)
-- Teleport (Lv 9, Diamond Pearl)
-- Lucky Chant (Lv 12, Diamond Pearl)
+- Leer (Lv 1)
+- Peck (Lv 1)
+- Night Shade (Lv 10)
+- Teleport (Lv 20)
+- Future Sight (Lv 30)
+- Wish (Lv 30)
+- Confuse Ray (Lv 40)
+- Psychic (Lv 50)
 </div>
 </div>
 
@@ -75,8 +76,7 @@ Height: 0.2 m · Weight: 2.0 kg · Base EXP: 64
 ## Xatu (#178)
 <details class="pokemon-card-container" open>
 <summary>Xatu overview</summary>
-_Mystic Pokémon_ • Types: Psychic / Flying
-Height: 1.5 m · Weight: 15.0 kg · Base EXP: 165
+_Mystic Pokémon_ • Types: Psychic / Flying • Egg Groups: Flying • Base EXP: 165
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -111,21 +111,23 @@ Height: 1.5 m · Weight: 15.0 kg · Base EXP: 165
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 75 |
-| Defense | 70 |
-| Sp. Atk | 95 |
-| Sp. Def | 70 |
-| Speed | 95 |
-| Total | 470 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">470</span> |
 
 **Notable Level-Up Moves**
-- Air Slash (Lv 1, Sun Moon)
-- Leer (Lv 1, Gold Silver)
-- Night Shade (Lv 1, Gold Silver)
-- Peck (Lv 1, Gold Silver)
-- Stored Power (Lv 1, Sword Shield)
-- Tailwind (Lv 1, Omega Ruby Alpha Sapphire)
+- Leer (Lv 1)
+- Peck (Lv 1)
+- Night Shade (Lv 10)
+- Teleport (Lv 20)
+- Future Sight (Lv 35)
+- Wish (Lv 35)
+- Confuse Ray (Lv 50)
+- Psychic (Lv 65)
 </div>
 </div>
 

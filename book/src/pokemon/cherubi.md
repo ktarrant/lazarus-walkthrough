@@ -8,8 +8,7 @@
 ## Cherubi (#420)
 <details class="pokemon-card-container" open>
 <summary>Cherubi overview</summary>
-_Cherry Pokémon_ • Types: Grass
-Height: 0.4 m · Weight: 3.3 kg · Base EXP: 55
+_Cherry Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 55
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.4 m · Weight: 3.3 kg · Base EXP: 55
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 35 |
-| Defense | 45 |
-| Sp. Atk | 62 |
-| Sp. Def | 53 |
-| Speed | 35 |
-| Total | 275 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Legends Arceus)
-- Morning Sun (Lv 1, Black White)
-- Tackle (Lv 1, Diamond Pearl)
-- Leafage (Lv 5, Sword Shield)
-- Growth (Lv 7, Diamond Pearl)
-- Stun Spore (Lv 9, Legends Arceus)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">62</span> |
+| Sp. Def | <span class="stat-value stat-mid">53</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">275</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.4 m · Weight: 3.3 kg · Base EXP: 55
 ## Cherrim (#421)
 <details class="pokemon-card-container" open>
 <summary>Cherrim overview</summary>
-_Blossom Pokémon_ • Types: Grass
-Height: 0.5 m · Weight: 9.3 kg · Base EXP: 158
+_Blossom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 0.5 m · Weight: 9.3 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 60 |
-| Defense | 70 |
-| Sp. Atk | 87 |
-| Sp. Def | 78 |
-| Speed | 85 |
-| Total | 450 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Legends Arceus)
-- Flower Shield (Lv 1, Sword Shield)
-- Growth (Lv 1, Diamond Pearl)
-- Leafage (Lv 1, Sword Shield)
-- Leech Seed (Lv 1, Sun Moon)
-- Morning Sun (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">87</span> |
+| Sp. Def | <span class="stat-value stat-mid">78</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">450</span> |
 </div>
 </div>
 

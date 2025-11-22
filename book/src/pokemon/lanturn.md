@@ -8,8 +8,7 @@
 ## Chinchou (#170)
 <details class="pokemon-card-container" open>
 <summary>Chinchou overview</summary>
-_Angler Pokémon_ • Types: Water / Electric
-Height: 0.5 m · Weight: 12.0 kg · Base EXP: 66
+_Angler Pokémon_ • Types: Water / Electric • Egg Groups: Water2 • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,25 @@ Height: 0.5 m · Weight: 12.0 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 38 |
-| Defense | 38 |
-| Sp. Atk | 56 |
-| Sp. Def | 56 |
-| Speed | 67 |
-| Total | 330 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-low">38</span> |
+| Defense | <span class="stat-value stat-low">38</span> |
+| Sp. Atk | <span class="stat-value stat-mid">56</span> |
+| Sp. Def | <span class="stat-value stat-mid">56</span> |
+| Speed | <span class="stat-value stat-mid">67</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Gold Silver)
-- Supersonic (Lv 1, Diamond Pearl)
-- Thunder Wave (Lv 1, Gold Silver)
-- Water Gun (Lv 1, X Y)
-- Electro Ball (Lv 4, Sword Shield)
-- Flail (Lv 9, Diamond Pearl)
+- Bubble (Lv 1)
+- Thunder Wave (Lv 1)
+- Supersonic (Lv 5)
+- Flail (Lv 13)
+- Water Gun (Lv 17)
+- Spark (Lv 25)
+- Confuse Ray (Lv 29)
+- Take Down (Lv 37)
+- Hydro Pump (Lv 41)
+- Charge (Lv 49)
 </div>
 </div>
 
@@ -73,8 +76,7 @@ Height: 0.5 m · Weight: 12.0 kg · Base EXP: 66
 ## Lanturn (#171)
 <details class="pokemon-card-container" open>
 <summary>Lanturn overview</summary>
-_Light Pokémon_ • Types: Water / Electric
-Height: 1.2 m · Weight: 22.5 kg · Base EXP: 161
+_Light Pokémon_ • Types: Water / Electric • Egg Groups: Water2 • Base EXP: 161
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -110,21 +112,26 @@ Height: 1.2 m · Weight: 22.5 kg · Base EXP: 161
 
 | Stat | Value |
 | --- | --- |
-| HP | 125 |
-| Attack | 58 |
-| Defense | 58 |
-| Sp. Atk | 76 |
-| Sp. Def | 76 |
-| Speed | 67 |
-| Total | 460 |
+| HP | <span class="stat-value stat-high">125</span> |
+| Attack | <span class="stat-value stat-mid">58</span> |
+| Defense | <span class="stat-value stat-mid">58</span> |
+| Sp. Atk | <span class="stat-value stat-mid">76</span> |
+| Sp. Def | <span class="stat-value stat-mid">76</span> |
+| Speed | <span class="stat-value stat-mid">67</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Gold Silver)
-- Eerie Impulse (Lv 1, X Y)
-- Electro Ball (Lv 1, Omega Ruby Alpha Sapphire)
-- Spit Up (Lv 1, Sun Moon)
-- Spotlight (Lv 1, Ultra Sun Ultra Moon)
-- Stockpile (Lv 1, Sun Moon)
+- Bubble (Lv 1)
+- Supersonic (Lv 1)
+- Thunder Wave (Lv 1)
+- Supersonic (Lv 5)
+- Flail (Lv 13)
+- Water Gun (Lv 17)
+- Spark (Lv 25)
+- Confuse Ray (Lv 32)
+- Take Down (Lv 43)
+- Hydro Pump (Lv 50)
+- Charge (Lv 61)
 </div>
 </div>
 

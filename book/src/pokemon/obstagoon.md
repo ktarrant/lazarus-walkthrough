@@ -10,8 +10,7 @@
 ## Zigzagoon (#263)
 <details class="pokemon-card-container" open>
 <summary>Zigzagoon overview</summary>
-_Tiny Raccoon Pokémon_ • Types: Normal
-Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
+_Tiny Raccoon Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,27 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 38 |
-| Attack | 30 |
-| Defense | 41 |
-| Sp. Atk | 30 |
-| Sp. Def | 41 |
-| Speed | 60 |
-| Total | 240 |
+| HP | <span class="stat-value stat-low">38</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">41</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">41</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">240</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Ruby Sapphire)
-- Sand Attack (Lv 3, Sword Shield)
-- Tail Whip (Lv 5, Ruby Sapphire)
-- Covet (Lv 9, Sword Shield)
-- Headbutt (Lv 9, Ruby Sapphire)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 5)
+- Headbutt (Lv 9)
+- Sand Attack (Lv 13)
+- Odor Sleuth (Lv 17)
+- Mud Sport (Lv 21)
+- Pin Missile (Lv 25)
+- Covet (Lv 29)
+- Flail (Lv 33)
+- Rest (Lv 37)
+- Belly Drum (Lv 41)
 </div>
 </div>
 
@@ -66,8 +71,7 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 ## Linoone (#264)
 <details class="pokemon-card-container" open>
 <summary>Linoone overview</summary>
-_Rushing Pokémon_ • Types: Normal
-Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
+_Rushing Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -96,21 +100,29 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 70 |
-| Defense | 61 |
-| Sp. Atk | 50 |
-| Sp. Def | 61 |
-| Speed | 100 |
-| Total | 420 |
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">61</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">61</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 
 **Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1, Sword Shield)
-- Growl (Lv 1, Ruby Sapphire)
-- Headbutt (Lv 1, Ruby Sapphire)
-- Pin Missile (Lv 1, Sword Shield)
-- Play Rough (Lv 1, X Y)
-- Rototiller (Lv 1, X Y)
+- Growl (Lv 1)
+- Headbutt (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Tail Whip (Lv 5)
+- Headbutt (Lv 9)
+- Sand Attack (Lv 13)
+- Odor Sleuth (Lv 17)
+- Mud Sport (Lv 23)
+- Fury Swipes (Lv 29)
+- Covet (Lv 35)
+- Slash (Lv 41)
+- Rest (Lv 47)
+- Belly Drum (Lv 53)
 </div>
 </div>
 
@@ -122,8 +134,7 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 ## Obstagoon (#862)
 <details class="pokemon-card-container" open>
 <summary>Obstagoon overview</summary>
-_Blocking Pokémon_ • Types: Dark / Normal
-Height: 1.6 m · Weight: 46.0 kg · Base EXP: 260
+_Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP: 260
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -156,21 +167,13 @@ Height: 1.6 m · Weight: 46.0 kg · Base EXP: 260
 
 | Stat | Value |
 | --- | --- |
-| HP | 93 |
-| Attack | 90 |
-| Defense | 101 |
-| Sp. Atk | 60 |
-| Sp. Def | 81 |
-| Speed | 95 |
-| Total | 520 |
-
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1, Sword Shield)
-- Cross Chop (Lv 1, Sword Shield)
-- Leer (Lv 1, Sword Shield)
-- Lick (Lv 1, Sword Shield)
-- Night Slash (Lv 1, Sword Shield)
-- Obstruct (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">93</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">101</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">81</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 </div>
 </div>
 

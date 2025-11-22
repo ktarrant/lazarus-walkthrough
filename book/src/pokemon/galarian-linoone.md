@@ -10,8 +10,7 @@
 ## Zigzagoon Galar (#10174)
 <details class="pokemon-card-container" open>
 <summary>Zigzagoon Galar overview</summary>
-_Tiny Raccoon Pokémon_ • Types: Dark / Normal
-Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
+_Tiny Raccoon Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 38 |
-| Attack | 30 |
-| Defense | 41 |
-| Sp. Atk | 30 |
-| Sp. Def | 41 |
-| Speed | 60 |
-| Total | 240 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sword Shield)
-- Sand Attack (Lv 3, Sword Shield)
-- Lick (Lv 6, Sword Shield)
-- Snarl (Lv 9, Sword Shield)
-- Headbutt (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-low">38</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">41</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">41</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">240</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 ## Linoone Galar (#10175)
 <details class="pokemon-card-container" open>
 <summary>Linoone Galar overview</summary>
-_Rushing Pokémon_ • Types: Dark / Normal
-Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
+_Rushing Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 70 |
-| Defense | 61 |
-| Sp. Atk | 50 |
-| Sp. Def | 61 |
-| Speed | 100 |
-| Total | 420 |
-
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1, Sword Shield)
-- Leer (Lv 1, Sword Shield)
-- Lick (Lv 1, Sword Shield)
-- Night Slash (Lv 1, Sword Shield)
-- Pin Missile (Lv 1, Sword Shield)
-- Sand Attack (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">61</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">61</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 </div>
 </div>
 
@@ -131,8 +113,7 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 ## Obstagoon (#862)
 <details class="pokemon-card-container" open>
 <summary>Obstagoon overview</summary>
-_Blocking Pokémon_ • Types: Dark / Normal
-Height: 1.6 m · Weight: 46.0 kg · Base EXP: 260
+_Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP: 260
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -165,21 +146,13 @@ Height: 1.6 m · Weight: 46.0 kg · Base EXP: 260
 
 | Stat | Value |
 | --- | --- |
-| HP | 93 |
-| Attack | 90 |
-| Defense | 101 |
-| Sp. Atk | 60 |
-| Sp. Def | 81 |
-| Speed | 95 |
-| Total | 520 |
-
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1, Sword Shield)
-- Cross Chop (Lv 1, Sword Shield)
-- Leer (Lv 1, Sword Shield)
-- Lick (Lv 1, Sword Shield)
-- Night Slash (Lv 1, Sword Shield)
-- Obstruct (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">93</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">101</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">81</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 </div>
 </div>
 

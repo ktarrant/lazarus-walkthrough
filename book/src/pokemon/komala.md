@@ -1,8 +1,7 @@
 ## Komala (#775)
 <details class="pokemon-card-container" open>
 <summary>Komala overview</summary>
-_Drowsing Pokémon_ • Types: Normal
-Height: 0.4 m · Weight: 19.9 kg · Base EXP: 168
+_Drowsing Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -30,21 +29,13 @@ Height: 0.4 m · Weight: 19.9 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 115 |
-| Defense | 65 |
-| Sp. Atk | 75 |
-| Sp. Def | 95 |
-| Speed | 65 |
-| Total | 480 |
-
-**Notable Level-Up Moves**
-- Defense Curl (Lv 1, Sun Moon)
-- Rollout (Lv 1, Sun Moon)
-- Spit Up (Lv 6, Sun Moon)
-- Stockpile (Lv 6, Sun Moon)
-- Swallow (Lv 6, Sun Moon)
-- Rapid Spin (Lv 11, Sun Moon)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Cufant (#878)
 <details class="pokemon-card-container" open>
 <summary>Cufant overview</summary>
-_Copperderm Pokémon_ • Types: Steel
-Height: 1.2 m · Weight: 100.0 kg · Base EXP: 66
+_Copperderm Pokémon_ • Types: Steel • Egg Groups: Ground / Mineral • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -51,21 +50,13 @@ Height: 1.2 m · Weight: 100.0 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 72 |
-| Attack | 80 |
-| Defense | 49 |
-| Sp. Atk | 40 |
-| Sp. Def | 49 |
-| Speed | 40 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sword Shield)
-- Rollout (Lv 5, Sword Shield)
-- Rock Smash (Lv 10, Sword Shield)
-- Bulldoze (Lv 15, Sword Shield)
-- Stomp (Lv 20, Sword Shield)
+| HP | <span class="stat-value stat-mid">72</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-low">49</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">49</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -77,8 +68,7 @@ Height: 1.2 m · Weight: 100.0 kg · Base EXP: 66
 ## Copperajah (#879)
 <details class="pokemon-card-container" open>
 <summary>Copperajah overview</summary>
-_Copperderm Pokémon_ • Types: Steel
-Height: 3.0 m · Weight: 650.0 kg · Base EXP: 175
+_Copperderm Pokémon_ • Types: Steel • Egg Groups: Ground / Mineral • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -114,21 +104,13 @@ Height: 3.0 m · Weight: 650.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 122 |
-| Attack | 130 |
-| Defense | 69 |
-| Sp. Atk | 80 |
-| Sp. Def | 69 |
-| Speed | 30 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Sword Shield)
-- Heavy Slam (Lv 1, Sword Shield)
-- Rock Smash (Lv 1, Sword Shield)
-- Rollout (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sword Shield)
-- Bulldoze (Lv 15, Sword Shield)
+| HP | <span class="stat-value stat-high">122</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">69</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">69</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

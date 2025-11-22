@@ -1,8 +1,7 @@
 ## Bruxish (#779)
 <details class="pokemon-card-container" open>
 <summary>Bruxish overview</summary>
-_Gnash Teeth Pokémon_ • Types: Water / Psychic
-Height: 0.9 m · Weight: 19.0 kg · Base EXP: 166
+_Gnash Teeth Pokémon_ • Types: Water / Psychic • Egg Groups: Water2 • Base EXP: 166
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.9 m · Weight: 19.0 kg · Base EXP: 166
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 105 |
-| Defense | 70 |
-| Sp. Atk | 70 |
-| Sp. Def | 70 |
-| Speed | 92 |
-| Total | 475 |
-
-**Notable Level-Up Moves**
-- Water Gun (Lv 1, Sun Moon)
-- Astonish (Lv 4, Sun Moon)
-- Confusion (Lv 9, Sun Moon)
-- Bite (Lv 12, Sun Moon)
-- Aqua Jet (Lv 17, Sun Moon)
-- Disable (Lv 20, Sun Moon)
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">92</span> |
+| Total | <span class="stat-value stat-mid">475</span> |
 </div>
 </div>
 

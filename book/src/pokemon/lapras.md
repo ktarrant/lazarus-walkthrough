@@ -1,8 +1,7 @@
 ## Lapras (#131)
 <details class="pokemon-card-container" open>
 <summary>Lapras overview</summary>
-_Transport Pokémon_ • Types: Water / Ice
-Height: 2.5 m · Weight: 220.0 kg · Base EXP: 187
+_Transport Pokémon_ • Types: Water / Ice • Egg Groups: Monster / Water1 • Base EXP: 187
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -36,21 +35,27 @@ Height: 2.5 m · Weight: 220.0 kg · Base EXP: 187
 
 | Stat | Value |
 | --- | --- |
-| HP | 130 |
-| Attack | 85 |
-| Defense | 80 |
-| Sp. Atk | 85 |
-| Sp. Def | 95 |
-| Speed | 60 |
-| Total | 535 |
+| HP | <span class="stat-value stat-high">130</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Red Blue)
-- Sing (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Red Blue)
-- Mist (Lv 4, Diamond Pearl)
-- Confuse Ray (Lv 7, Diamond Pearl)
-- Ice Shard (Lv 10, Diamond Pearl)
+- Growl (Lv 1)
+- Sing (Lv 1)
+- Water Gun (Lv 1)
+- Mist (Lv 7)
+- Body Slam (Lv 13)
+- Confuse Ray (Lv 19)
+- Perish Song (Lv 25)
+- Ice Beam (Lv 31)
+- Rain Dance (Lv 37)
+- Safeguard (Lv 43)
+- Hydro Pump (Lv 49)
+- Sheer Cold (Lv 55)
 </div>
 </div>
 

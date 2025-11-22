@@ -12,8 +12,7 @@
 ## Poliwag (#060)
 <details class="pokemon-card-container" open>
 <summary>Poliwag overview</summary>
-_Tadpole Pokémon_ • Types: Water
-Height: 0.6 m · Weight: 12.4 kg · Base EXP: 60
+_Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -55,21 +54,23 @@ Height: 0.6 m · Weight: 12.4 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 50 |
-| Defense | 40 |
-| Sp. Atk | 40 |
-| Sp. Def | 40 |
-| Speed | 90 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Red Blue)
-- Hypnosis (Lv 1, Sword Shield)
-- Water Gun (Lv 1, Sword Shield)
-- Water Sport (Lv 1, Diamond Pearl)
-- Pound (Lv 4, Lets Go Pikachu Lets Go Eevee)
-- Mud Shot (Lv 12, Sword Shield)
+- Bubble (Lv 1)
+- Hypnosis (Lv 7)
+- Water Gun (Lv 13)
+- Double Slap (Lv 19)
+- Rain Dance (Lv 25)
+- Body Slam (Lv 31)
+- Belly Drum (Lv 37)
+- Hydro Pump (Lv 43)
 </div>
 </div>
 
@@ -81,8 +82,7 @@ Height: 0.6 m · Weight: 12.4 kg · Base EXP: 60
 ## Poliwhirl (#061)
 <details class="pokemon-card-container" open>
 <summary>Poliwhirl overview</summary>
-_Tadpole Pokémon_ • Types: Water
-Height: 1.0 m · Weight: 20.0 kg · Base EXP: 135
+_Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 135
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -117,21 +117,25 @@ Height: 1.0 m · Weight: 20.0 kg · Base EXP: 135
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 65 |
-| Defense | 65 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 90 |
-| Total | 385 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-mid">385</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Red Blue)
-- Hypnosis (Lv 1, Red Blue)
-- Mud Shot (Lv 1, Sword Shield)
-- Pound (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Water Gun (Lv 1, Red Blue)
-- Water Sport (Lv 1, Diamond Pearl)
+- Bubble (Lv 1)
+- Hypnosis (Lv 1)
+- Water Gun (Lv 1)
+- Hypnosis (Lv 7)
+- Water Gun (Lv 13)
+- Double Slap (Lv 19)
+- Rain Dance (Lv 27)
+- Body Slam (Lv 35)
+- Belly Drum (Lv 43)
+- Hydro Pump (Lv 51)
 </div>
 </div>
 
@@ -143,8 +147,7 @@ Height: 1.0 m · Weight: 20.0 kg · Base EXP: 135
 ## Poliwrath (#062)
 <details class="pokemon-card-container" open>
 <summary>Poliwrath overview</summary>
-_Tadpole Pokémon_ • Types: Water / Fighting
-Height: 1.3 m · Weight: 54.0 kg · Base EXP: 230
+_Tadpole Pokémon_ • Types: Water / Fighting • Egg Groups: Water1 • Base EXP: 230
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -180,21 +183,21 @@ Height: 1.3 m · Weight: 54.0 kg · Base EXP: 230
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 95 |
-| Defense | 95 |
-| Sp. Atk | 70 |
-| Sp. Def | 90 |
-| Speed | 70 |
-| Total | 510 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 
 **Notable Level-Up Moves**
-- Belly Drum (Lv 1, Sword Shield)
-- Body Slam (Lv 1, Red Blue)
-- Bubble (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bubble Beam (Lv 1, Diamond Pearl)
-- Bulk Up (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Circle Throw (Lv 1, X Y)
+- Double Slap (Lv 1)
+- Hypnosis (Lv 1)
+- Submission (Lv 1)
+- Water Gun (Lv 1)
+- Submission (Lv 35)
+- Mind Reader (Lv 51)
 </div>
 </div>
 
@@ -206,8 +209,7 @@ Height: 1.3 m · Weight: 54.0 kg · Base EXP: 230
 ## Politoed (#186)
 <details class="pokemon-card-container" open>
 <summary>Politoed overview</summary>
-_Frog Pokémon_ • Types: Water
-Height: 1.1 m · Weight: 33.9 kg · Base EXP: 225
+_Frog Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 225
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -237,21 +239,21 @@ Height: 1.1 m · Weight: 33.9 kg · Base EXP: 225
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 75 |
-| Defense | 75 |
-| Sp. Atk | 90 |
-| Sp. Def | 100 |
-| Speed | 70 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Belly Drum (Lv 1, Sword Shield)
-- Body Slam (Lv 1, Sword Shield)
-- Bounce (Lv 1, Sword Shield)
-- Bubble Beam (Lv 1, Diamond Pearl)
-- Double Edge (Lv 1, Sword Shield)
-- Double Slap (Lv 1, Gold Silver)
+- Double Slap (Lv 1)
+- Hypnosis (Lv 1)
+- Perish Song (Lv 1)
+- Water Gun (Lv 1)
+- Perish Song (Lv 35)
+- Swagger (Lv 51)
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Amaura (#698)
 <details class="pokemon-card-container" open>
 <summary>Amaura overview</summary>
-_Tundra Pokémon_ • Types: Rock / Ice
-Height: 1.3 m · Weight: 25.2 kg · Base EXP: 72
+_Tundra Pokémon_ • Types: Rock / Ice • Egg Groups: Monster • Base EXP: 72
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 1.3 m · Weight: 25.2 kg · Base EXP: 72
 
 | Stat | Value |
 | --- | --- |
-| HP | 77 |
-| Attack | 59 |
-| Defense | 50 |
-| Sp. Atk | 67 |
-| Sp. Def | 63 |
-| Speed | 46 |
-| Total | 362 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, X Y)
-- Powder Snow (Lv 1, X Y)
-- Encore (Lv 4, Sword Shield)
-- Thunder Wave (Lv 5, X Y)
-- Ancient Power (Lv 8, Sword Shield)
-- Rock Throw (Lv 10, X Y)
+| HP | <span class="stat-value stat-mid">77</span> |
+| Attack | <span class="stat-value stat-mid">59</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">67</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-low">46</span> |
+| Total | <span class="stat-value stat-mid">362</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 1.3 m · Weight: 25.2 kg · Base EXP: 72
 ## Aurorus (#699)
 <details class="pokemon-card-container" open>
 <summary>Aurorus overview</summary>
-_Tundra Pokémon_ • Types: Rock / Ice
-Height: 2.7 m · Weight: 225.0 kg · Base EXP: 104
+_Tundra Pokémon_ • Types: Rock / Ice • Egg Groups: Monster • Base EXP: 104
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 2.7 m · Weight: 225.0 kg · Base EXP: 104
 
 | Stat | Value |
 | --- | --- |
-| HP | 123 |
-| Attack | 77 |
-| Defense | 72 |
-| Sp. Atk | 99 |
-| Sp. Def | 92 |
-| Speed | 58 |
-| Total | 521 |
-
-**Notable Level-Up Moves**
-- Ancient Power (Lv 1, Sword Shield)
-- Encore (Lv 1, Sword Shield)
-- Freeze Dry (Lv 1, X Y)
-- Growl (Lv 1, X Y)
-- Powder Snow (Lv 1, X Y)
-- Rock Throw (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">123</span> |
+| Attack | <span class="stat-value stat-mid">77</span> |
+| Defense | <span class="stat-value stat-mid">72</span> |
+| Sp. Atk | <span class="stat-value stat-high">99</span> |
+| Sp. Def | <span class="stat-value stat-high">92</span> |
+| Speed | <span class="stat-value stat-mid">58</span> |
+| Total | <span class="stat-value stat-mid">521</span> |
 </div>
 </div>
 

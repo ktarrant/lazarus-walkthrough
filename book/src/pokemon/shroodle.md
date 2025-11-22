@@ -8,8 +8,7 @@
 ## Shroodle (#944)
 <details class="pokemon-card-container" open>
 <summary>Shroodle overview</summary>
-_Toxic Mouse Pokémon_ • Types: Poison / Normal
-Height: 0.2 m · Weight: 0.7 kg · Base EXP: 58
+_Toxic Mouse Pokémon_ • Types: Poison / Normal • Egg Groups: Ground • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.2 m · Weight: 0.7 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 65 |
-| Defense | 35 |
-| Sp. Atk | 40 |
-| Sp. Def | 35 |
-| Speed | 75 |
-| Total | 290 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Acid Spray (Lv 5, Scarlet Violet)
-- Bite (Lv 8, Scarlet Violet)
-- Fury Swipes (Lv 8, Scarlet Violet)
-- Switcheroo (Lv 11, Scarlet Violet)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.2 m · Weight: 0.7 kg · Base EXP: 58
 ## Grafaiai (#945)
 <details class="pokemon-card-container" open>
 <summary>Grafaiai overview</summary>
-_Toxic Monkey Pokémon_ • Types: Poison / Normal
-Height: 0.7 m · Weight: 27.2 kg · Base EXP: 170
+_Toxic Monkey Pokémon_ • Types: Poison / Normal • Egg Groups: Ground • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 0.7 m · Weight: 27.2 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 63 |
-| Attack | 95 |
-| Defense | 65 |
-| Sp. Atk | 80 |
-| Sp. Def | 72 |
-| Speed | 110 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Acid Spray (Lv 5, Scarlet Violet)
-- Fury Swipes (Lv 8, Scarlet Violet)
-- Switcheroo (Lv 11, Scarlet Violet)
-- Poison Fang (Lv 14, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">63</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">72</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Togepi (#175)
 <details class="pokemon-card-container" open>
 <summary>Togepi overview</summary>
-_Spike Ball Pokémon_ • Types: Fairy
-Height: 0.3 m · Weight: 1.5 kg · Base EXP: 49
+_Spike Ball Pokémon_ • Types: Fairy • Egg Groups: No Eggs • Base EXP: 49
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,25 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 49
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 20 |
-| Defense | 65 |
-| Sp. Atk | 40 |
-| Sp. Def | 65 |
-| Speed | 20 |
-| Total | 245 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-low">20</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">245</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Gold Silver)
-- Growl (Lv 1, Gold Silver)
-- Pound (Lv 1, Sword Shield)
-- Tackle (Lv 1, Legends Arceus)
-- Metronome (Lv 4, Firered Leafgreen)
-- Sweet Kiss (Lv 4, Sword Shield)
+- Charm (Lv 1)
+- Growl (Lv 1)
+- Metronome (Lv 6)
+- Sweet Kiss (Lv 11)
+- Yawn (Lv 16)
+- Encore (Lv 21)
+- Follow Me (Lv 26)
+- Wish (Lv 31)
+- Safeguard (Lv 36)
+- Double Edge (Lv 41)
 </div>
 </div>
 
@@ -71,8 +74,7 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 49
 ## Togetic (#176)
 <details class="pokemon-card-container" open>
 <summary>Togetic overview</summary>
-_Happiness Pokémon_ • Types: Fairy / Flying
-Height: 0.6 m · Weight: 3.2 kg · Base EXP: 142
+_Happiness Pokémon_ • Types: Fairy / Flying • Egg Groups: Flying / Fairy • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +111,25 @@ Height: 0.6 m · Weight: 3.2 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 40 |
-| Defense | 85 |
-| Sp. Atk | 80 |
-| Sp. Def | 105 |
-| Speed | 40 |
-| Total | 405 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-high">105</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Gold Silver)
-- Fairy Wind (Lv 1, Sword Shield)
-- Growl (Lv 1, Gold Silver)
-- Life Dew (Lv 1, Sword Shield)
-- Magical Leaf (Lv 1, Firered Leafgreen)
-- Metronome (Lv 1, Firered Leafgreen)
+- Charm (Lv 1)
+- Growl (Lv 1)
+- Metronome (Lv 6)
+- Sweet Kiss (Lv 11)
+- Yawn (Lv 16)
+- Encore (Lv 21)
+- Follow Me (Lv 26)
+- Wish (Lv 31)
+- Safeguard (Lv 36)
+- Double Edge (Lv 41)
 </div>
 </div>
 
@@ -135,8 +141,7 @@ Height: 0.6 m · Weight: 3.2 kg · Base EXP: 142
 ## Togekiss (#468)
 <details class="pokemon-card-container" open>
 <summary>Togekiss overview</summary>
-_Jubilee Pokémon_ • Types: Fairy / Flying
-Height: 1.5 m · Weight: 38.0 kg · Base EXP: 245
+_Jubilee Pokémon_ • Types: Fairy / Flying • Egg Groups: Flying / Fairy • Base EXP: 245
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -170,21 +175,13 @@ Height: 1.5 m · Weight: 38.0 kg · Base EXP: 245
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 50 |
-| Defense | 95 |
-| Sp. Atk | 120 |
-| Sp. Def | 115 |
-| Speed | 80 |
-| Total | 545 |
-
-**Notable Level-Up Moves**
-- After You (Lv 1, X Y)
-- Air Slash (Lv 1, Diamond Pearl)
-- Ancient Power (Lv 1, Sword Shield)
-- Aura Sphere (Lv 1, Diamond Pearl)
-- Baton Pass (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-high">120</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">545</span> |
 </div>
 </div>
 

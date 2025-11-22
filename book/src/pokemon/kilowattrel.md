@@ -8,8 +8,7 @@
 ## Wattrel (#940)
 <details class="pokemon-card-container" open>
 <summary>Wattrel overview</summary>
-_Storm Petrel Pokémon_ • Types: Electric / Flying
-Height: 0.4 m · Weight: 3.6 kg · Base EXP: 56
+_Storm Petrel Pokémon_ • Types: Electric / Flying • Egg Groups: Water1 / Flying • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.4 m · Weight: 3.6 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 40 |
-| Defense | 35 |
-| Sp. Atk | 55 |
-| Sp. Def | 40 |
-| Speed | 70 |
-| Total | 280 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Peck (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 4, Scarlet Violet)
-- Quick Attack (Lv 7, Scarlet Violet)
-- Pluck (Lv 11, Scarlet Violet)
-- Spark (Lv 15, Scarlet Violet)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-low">280</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.4 m · Weight: 3.6 kg · Base EXP: 56
 ## Kilowattrel (#941)
 <details class="pokemon-card-container" open>
 <summary>Kilowattrel overview</summary>
-_Frigatebird Pokémon_ • Types: Electric / Flying
-Height: 1.4 m · Weight: 38.6 kg · Base EXP: 172
+_Frigatebird Pokémon_ • Types: Electric / Flying • Egg Groups: Water1 / Flying • Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +98,13 @@ Height: 1.4 m · Weight: 38.6 kg · Base EXP: 172
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 70 |
-| Defense | 60 |
-| Sp. Atk | 105 |
-| Sp. Def | 60 |
-| Speed | 125 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Peck (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 4, Scarlet Violet)
-- Quick Attack (Lv 7, Scarlet Violet)
-- Pluck (Lv 11, Scarlet Violet)
-- Spark (Lv 15, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">105</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">125</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

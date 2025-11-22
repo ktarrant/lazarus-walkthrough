@@ -1,8 +1,7 @@
 ## Pachirisu (#417)
 <details class="pokemon-card-container" open>
 <summary>Pachirisu overview</summary>
-_EleSquirrel Pokémon_ • Types: Electric
-Height: 0.4 m · Weight: 3.9 kg · Base EXP: 142
+_EleSquirrel Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -34,21 +33,13 @@ Height: 0.4 m · Weight: 3.9 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 45 |
-| Defense | 70 |
-| Sp. Atk | 45 |
-| Sp. Def | 90 |
-| Speed | 95 |
-| Total | 405 |
-
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1, Brilliant Diamond And Shining Pearl)
-- Bide (Lv 1, Diamond Pearl)
-- Growl (Lv 1, Diamond Pearl)
-- Quick Attack (Lv 1, Legends Arceus)
-- Thunder Shock (Lv 1, Scarlet Violet)
-- Bite (Lv 9, Legends Arceus)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 </div>
 </div>
 

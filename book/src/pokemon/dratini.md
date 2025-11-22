@@ -10,8 +10,7 @@
 ## Dratini (#147)
 <details class="pokemon-card-container" open>
 <summary>Dratini overview</summary>
-_Dragon Pokémon_ • Types: Dragon
-Height: 1.8 m · Weight: 3.3 kg · Base EXP: 60
+_Dragon Pokémon_ • Types: Dragon • Egg Groups: Water1 / Dragon • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,25 @@ Height: 1.8 m · Weight: 3.3 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 41 |
-| Attack | 64 |
-| Defense | 45 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 50 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">41</span> |
+| Attack | <span class="stat-value stat-mid">64</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Red Blue)
-- Wrap (Lv 1, Red Blue)
-- Thunder Wave (Lv 5, Diamond Pearl)
-- Twister (Lv 5, Sword Shield)
-- Dragon Rage (Lv 14, Lets Go Pikachu Lets Go Eevee)
-- Dragon Tail (Lv 15, Sword Shield)
+- Leer (Lv 1)
+- Wrap (Lv 1)
+- Thunder Wave (Lv 8)
+- Twister (Lv 15)
+- Dragon Rage (Lv 22)
+- Slam (Lv 29)
+- Agility (Lv 36)
+- Safeguard (Lv 43)
+- Outrage (Lv 50)
+- Hyper Beam (Lv 57)
 </div>
 </div>
 
@@ -73,8 +76,7 @@ Height: 1.8 m · Weight: 3.3 kg · Base EXP: 60
 ## Dragonair (#148)
 <details class="pokemon-card-container" open>
 <summary>Dragonair overview</summary>
-_Dragon Pokémon_ • Types: Dragon
-Height: 4.0 m · Weight: 16.5 kg · Base EXP: 147
+_Dragon Pokémon_ • Types: Dragon • Egg Groups: Water1 / Dragon • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +110,27 @@ Height: 4.0 m · Weight: 16.5 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 61 |
-| Attack | 84 |
-| Defense | 65 |
-| Sp. Atk | 70 |
-| Sp. Def | 70 |
-| Speed | 70 |
-| Total | 420 |
+| HP | <span class="stat-value stat-mid">61</span> |
+| Attack | <span class="stat-value stat-mid">84</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 
 **Notable Level-Up Moves**
-- Dragon Rage (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Leer (Lv 1, Red Blue)
-- Thunder Wave (Lv 1, Red Blue)
-- Twister (Lv 1, Gold Silver)
-- Wrap (Lv 1, Red Blue)
-- Dragon Tail (Lv 15, Sword Shield)
+- Leer (Lv 1)
+- Thunder Wave (Lv 1)
+- Twister (Lv 1)
+- Wrap (Lv 1)
+- Thunder Wave (Lv 8)
+- Twister (Lv 15)
+- Dragon Rage (Lv 22)
+- Slam (Lv 29)
+- Agility (Lv 38)
+- Safeguard (Lv 47)
+- Outrage (Lv 56)
+- Hyper Beam (Lv 65)
 </div>
 </div>
 
@@ -134,8 +142,7 @@ Height: 4.0 m · Weight: 16.5 kg · Base EXP: 147
 ## Dragonite (#149)
 <details class="pokemon-card-container" open>
 <summary>Dragonite overview</summary>
-_Dragon Pokémon_ • Types: Dragon / Flying
-Height: 2.2 m · Weight: 210.0 kg · Base EXP: 270
+_Dragon Pokémon_ • Types: Dragon / Flying • Egg Groups: Water1 / Dragon • Base EXP: 270
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -167,21 +174,28 @@ Height: 2.2 m · Weight: 210.0 kg · Base EXP: 270
 
 | Stat | Value |
 | --- | --- |
-| HP | 91 |
-| Attack | 134 |
-| Defense | 95 |
-| Sp. Atk | 100 |
-| Sp. Def | 100 |
-| Speed | 80 |
-| Total | 600 |
+| HP | <span class="stat-value stat-high">91</span> |
+| Attack | <span class="stat-value stat-high">134</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-high">600</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Red Blue)
-- Aqua Jet (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Dragon Rage (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Extreme Speed (Lv 1, Sword Shield)
-- Fire Punch (Lv 1, Diamond Pearl)
-- Hurricane (Lv 1, X Y)
+- Leer (Lv 1)
+- Thunder Wave (Lv 1)
+- Twister (Lv 1)
+- Wrap (Lv 1)
+- Thunder Wave (Lv 8)
+- Twister (Lv 15)
+- Dragon Rage (Lv 22)
+- Slam (Lv 29)
+- Agility (Lv 38)
+- Safeguard (Lv 47)
+- Wing Attack (Lv 55)
+- Outrage (Lv 61)
+- Hyper Beam (Lv 75)
 </div>
 </div>
 

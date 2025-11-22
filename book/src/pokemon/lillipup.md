@@ -10,8 +10,7 @@
 ## Lillipup (#506)
 <details class="pokemon-card-container" open>
 <summary>Lillipup overview</summary>
-_Puppy Pokémon_ • Types: Normal
-Height: 0.4 m · Weight: 4.1 kg · Base EXP: 55
+_Puppy Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 55
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 55
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 60 |
-| Defense | 45 |
-| Sp. Atk | 25 |
-| Sp. Def | 45 |
-| Speed | 55 |
-| Total | 275 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Tackle (Lv 1, Black White)
-- Work Up (Lv 4, Sword Shield)
-- Odor Sleuth (Lv 5, Black White)
-- Bite (Lv 8, Black White)
-- Baby Doll Eyes (Lv 10, X Y)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-low">275</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 55
 ## Herdier (#507)
 <details class="pokemon-card-container" open>
 <summary>Herdier overview</summary>
-_Loyal Dog Pokémon_ • Types: Normal
-Height: 0.9 m · Weight: 14.7 kg · Base EXP: 130
+_Loyal Dog Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 130
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -95,21 +85,13 @@ Height: 0.9 m · Weight: 14.7 kg · Base EXP: 130
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 80 |
-| Defense | 65 |
-| Sp. Atk | 35 |
-| Sp. Def | 65 |
-| Speed | 60 |
-| Total | 370 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Black White)
-- Leer (Lv 1, Black White)
-- Odor Sleuth (Lv 1, Black White)
-- Tackle (Lv 1, Black White)
-- Work Up (Lv 1, Sword Shield)
-- Helping Hand (Lv 12, Black White)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">370</span> |
 </div>
 </div>
 
@@ -121,8 +103,7 @@ Height: 0.9 m · Weight: 14.7 kg · Base EXP: 130
 ## Stoutland (#508)
 <details class="pokemon-card-container" open>
 <summary>Stoutland overview</summary>
-_Big-Hearted Pokémon_ • Types: Normal
-Height: 1.2 m · Weight: 61.0 kg · Base EXP: 225
+_Big-Hearted Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 225
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -147,21 +128,13 @@ Height: 1.2 m · Weight: 61.0 kg · Base EXP: 225
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 110 |
-| Defense | 90 |
-| Sp. Atk | 45 |
-| Sp. Def | 90 |
-| Speed | 80 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Black White)
-- Fire Fang (Lv 1, Black White)
-- Ice Fang (Lv 1, Black White)
-- Leer (Lv 1, Black White)
-- Odor Sleuth (Lv 1, Black White)
-- Tackle (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

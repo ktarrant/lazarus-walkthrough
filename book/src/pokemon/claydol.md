@@ -8,8 +8,7 @@
 ## Baltoy (#343)
 <details class="pokemon-card-container" open>
 <summary>Baltoy overview</summary>
-_Clay Doll Pokémon_ • Types: Ground / Psychic
-Height: 0.5 m · Weight: 21.5 kg · Base EXP: 60
+_Clay Doll Pokémon_ • Types: Ground / Psychic • Egg Groups: Mineral • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,26 @@ Height: 0.5 m · Weight: 21.5 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 40 |
-| Defense | 55 |
-| Sp. Atk | 40 |
-| Sp. Def | 70 |
-| Speed | 55 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Confusion (Lv 1, Ruby Sapphire)
-- Harden (Lv 1, Black 2 White 2)
-- Mud Slap (Lv 1, Sword Shield)
-- Rapid Spin (Lv 3, Sword Shield)
-- Rock Tomb (Lv 9, Sword Shield)
-- Heal Block (Lv 10, Omega Ruby Alpha Sapphire)
+- Confusion (Lv 1)
+- Harden (Lv 3)
+- Rapid Spin (Lv 5)
+- Mud Slap (Lv 7)
+- Psybeam (Lv 11)
+- Rock Tomb (Lv 15)
+- Self Destruct (Lv 19)
+- Ancient Power (Lv 25)
+- Sandstorm (Lv 31)
+- Cosmic Power (Lv 37)
+- Explosion (Lv 45)
 </div>
 </div>
 
@@ -74,8 +78,7 @@ Height: 0.5 m · Weight: 21.5 kg · Base EXP: 60
 ## Claydol (#344)
 <details class="pokemon-card-container" open>
 <summary>Claydol overview</summary>
-_Clay Doll Pokémon_ • Types: Ground / Psychic
-Height: 1.5 m · Weight: 108.0 kg · Base EXP: 175
+_Clay Doll Pokémon_ • Types: Ground / Psychic • Egg Groups: Mineral • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -110,21 +113,30 @@ Height: 1.5 m · Weight: 108.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 70 |
-| Defense | 105 |
-| Sp. Atk | 70 |
-| Sp. Def | 120 |
-| Speed | 75 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-high">120</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Confusion (Lv 1, Ruby Sapphire)
-- Harden (Lv 1, Ruby Sapphire)
-- Hyper Beam (Lv 1, Sun Moon)
-- Mud Slap (Lv 1, Sword Shield)
-- Rapid Spin (Lv 1, Ruby Sapphire)
-- Teleport (Lv 1, Ruby Sapphire)
+- Confusion (Lv 1)
+- Harden (Lv 1)
+- Rapid Spin (Lv 1)
+- Teleport (Lv 1)
+- Harden (Lv 3)
+- Rapid Spin (Lv 5)
+- Mud Slap (Lv 7)
+- Psybeam (Lv 11)
+- Rock Tomb (Lv 15)
+- Self Destruct (Lv 19)
+- Ancient Power (Lv 25)
+- Sandstorm (Lv 31)
+- Hyper Beam (Lv 36)
+- Cosmic Power (Lv 42)
+- Explosion (Lv 55)
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Goomy (#704)
 <details class="pokemon-card-container" open>
 <summary>Goomy overview</summary>
-_Soft Tissue Pokémon_ • Types: Dragon
-Height: 0.3 m · Weight: 2.8 kg · Base EXP: 60
+_Soft Tissue Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -52,21 +51,13 @@ Height: 0.3 m · Weight: 2.8 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 50 |
-| Defense | 35 |
-| Sp. Atk | 55 |
-| Sp. Def | 75 |
-| Speed | 40 |
-| Total | 300 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Sword Shield)
-- Bubble (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Water Gun (Lv 5, Sword Shield)
-- Acid Spray (Lv 6, Legends Arceus)
-- Protect (Lv 9, X Y)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 </div>
 </div>
 
@@ -78,8 +69,7 @@ Height: 0.3 m · Weight: 2.8 kg · Base EXP: 60
 ## Sliggoo (#705)
 <details class="pokemon-card-container" open>
 <summary>Sliggoo overview</summary>
-_Soft Tissue Pokémon_ • Types: Dragon
-Height: 0.8 m · Weight: 17.5 kg · Base EXP: 158
+_Soft Tissue Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +99,13 @@ Height: 0.8 m · Weight: 17.5 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 75 |
-| Defense | 53 |
-| Sp. Atk | 83 |
-| Sp. Def | 113 |
-| Speed | 60 |
-| Total | 452 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Acid Armor (Lv 1, Scarlet Violet)
-- Acid Spray (Lv 1, Sword Shield)
-- Bubble (Lv 1, X Y)
-- Dragon Breath (Lv 1, Sword Shield)
-- Tackle (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">53</span> |
+| Sp. Atk | <span class="stat-value stat-mid">83</span> |
+| Sp. Def | <span class="stat-value stat-high">113</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">452</span> |
 </div>
 </div>
 
@@ -135,8 +117,7 @@ Height: 0.8 m · Weight: 17.5 kg · Base EXP: 158
 ## Goodra (#706)
 <details class="pokemon-card-container" open>
 <summary>Goodra overview</summary>
-_Dragon Pokémon_ • Types: Dragon
-Height: 2.0 m · Weight: 150.5 kg · Base EXP: 270
+_Dragon Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 270
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -166,21 +147,13 @@ Height: 2.0 m · Weight: 150.5 kg · Base EXP: 270
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 100 |
-| Defense | 70 |
-| Sp. Atk | 110 |
-| Sp. Def | 150 |
-| Speed | 80 |
-| Total | 600 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Acid Spray (Lv 1, Sword Shield)
-- Aqua Tail (Lv 1, Sun Moon)
-- Bubble (Lv 1, X Y)
-- Dragon Breath (Lv 1, Sword Shield)
-- Feint (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-high">150</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-high">600</span> |
 </div>
 </div>
 

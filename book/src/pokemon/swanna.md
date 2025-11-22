@@ -8,8 +8,7 @@
 ## Ducklett (#580)
 <details class="pokemon-card-container" open>
 <summary>Ducklett overview</summary>
-_Water Bird Pokémon_ • Types: Water / Flying
-Height: 0.5 m · Weight: 5.5 kg · Base EXP: 61
+_Water Bird Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 62 |
-| Attack | 44 |
-| Defense | 50 |
-| Sp. Atk | 44 |
-| Sp. Def | 50 |
-| Speed | 55 |
-| Total | 305 |
-
-**Notable Level-Up Moves**
-- Water Gun (Lv 1, Black White)
-- Water Sport (Lv 3, Black White)
-- Defog (Lv 6, Black White)
-- Wing Attack (Lv 9, Black White)
-- Water Pulse (Lv 13, Black White)
-- Aerial Ace (Lv 15, Black White)
+| HP | <span class="stat-value stat-mid">62</span> |
+| Attack | <span class="stat-value stat-low">44</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">44</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 61
 ## Swanna (#581)
 <details class="pokemon-card-container" open>
 <summary>Swanna overview</summary>
-_White Bird Pokémon_ • Types: Water / Flying
-Height: 1.3 m · Weight: 24.2 kg · Base EXP: 166
+_White Bird Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying • Base EXP: 166
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +98,13 @@ Height: 1.3 m · Weight: 24.2 kg · Base EXP: 166
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 87 |
-| Defense | 63 |
-| Sp. Atk | 87 |
-| Sp. Def | 63 |
-| Speed | 98 |
-| Total | 473 |
-
-**Notable Level-Up Moves**
-- Defog (Lv 1, Black White)
-- Water Gun (Lv 1, Black White)
-- Water Sport (Lv 1, Black White)
-- Wing Attack (Lv 1, Black White)
-- Water Pulse (Lv 13, Black White)
-- Aerial Ace (Lv 15, Black White)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">87</span> |
+| Defense | <span class="stat-value stat-mid">63</span> |
+| Sp. Atk | <span class="stat-value stat-mid">87</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-high">98</span> |
+| Total | <span class="stat-value stat-mid">473</span> |
 </div>
 </div>
 

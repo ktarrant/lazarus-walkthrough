@@ -8,8 +8,7 @@
 ## Sandshrew (#027)
 <details class="pokemon-card-container" open>
 <summary>Sandshrew overview</summary>
-_Mouse Pokémon_ • Types: Ground
-Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
+_Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,24 @@ Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 75 |
-| Defense | 85 |
-| Sp. Atk | 20 |
-| Sp. Def | 30 |
-| Speed | 40 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-low">20</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Defense Curl (Lv 1, Black 2 White 2)
-- Scratch (Lv 1, Red Blue)
-- Poison Sting (Lv 3, Sword Shield)
-- Sand Attack (Lv 3, Black 2 White 2)
-- Rollout (Lv 7, Black 2 White 2)
-- Rapid Spin (Lv 9, Black 2 White 2)
+- Scratch (Lv 1)
+- Defense Curl (Lv 6)
+- Sand Attack (Lv 11)
+- Poison Sting (Lv 17)
+- Slash (Lv 23)
+- Swift (Lv 30)
+- Fury Swipes (Lv 37)
+- Sand Tomb (Lv 45)
+- Sandstorm (Lv 53)
 </div>
 </div>
 
@@ -69,8 +71,7 @@ Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
 ## Sandslash (#028)
 <details class="pokemon-card-container" open>
 <summary>Sandslash overview</summary>
-_Mouse Pokémon_ • Types: Ground
-Height: 1.0 m · Weight: 29.5 kg · Base EXP: 158
+_Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +99,26 @@ Height: 1.0 m · Weight: 29.5 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 100 |
-| Defense | 110 |
-| Sp. Atk | 45 |
-| Sp. Def | 55 |
-| Speed | 65 |
-| Total | 450 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">450</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Brilliant Diamond And Shining Pearl)
-- Counter (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Crush Claw (Lv 1, Sun Moon)
-- Defense Curl (Lv 1, Gold Silver)
-- Poison Sting (Lv 1, Black 2 White 2)
-- Sand Attack (Lv 1, Red Blue)
+- Defense Curl (Lv 1)
+- Sand Attack (Lv 1)
+- Scratch (Lv 1)
+- Defense Curl (Lv 6)
+- Sand Attack (Lv 11)
+- Poison Sting (Lv 17)
+- Slash (Lv 24)
+- Swift (Lv 33)
+- Fury Swipes (Lv 42)
+- Sand Tomb (Lv 52)
+- Sandstorm (Lv 62)
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Jangmo O (#782)
 <details class="pokemon-card-container" open>
 <summary>Jangmo O overview</summary>
-_Scaly Pokémon_ • Types: Dragon
-Height: 0.6 m · Weight: 29.7 kg · Base EXP: 60
+_Scaly Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,13 @@ Height: 0.6 m · Weight: 29.7 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 55 |
-| Defense | 65 |
-| Sp. Atk | 45 |
-| Sp. Def | 45 |
-| Speed | 45 |
-| Total | 300 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sun Moon)
-- Protect (Lv 4, Sword Shield)
-- Dragon Tail (Lv 8, Sword Shield)
-- Bide (Lv 9, Sun Moon)
-- Scary Face (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 </div>
 </div>
 
@@ -73,8 +64,7 @@ Height: 0.6 m · Weight: 29.7 kg · Base EXP: 60
 ## Hakamo O (#783)
 <details class="pokemon-card-container" open>
 <summary>Hakamo O overview</summary>
-_Scaly Pokémon_ • Types: Dragon / Fighting
-Height: 1.2 m · Weight: 47.0 kg · Base EXP: 147
+_Scaly Pokémon_ • Types: Dragon / Fighting • Egg Groups: Dragon • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +99,13 @@ Height: 1.2 m · Weight: 47.0 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 75 |
-| Defense | 90 |
-| Sp. Atk | 65 |
-| Sp. Def | 70 |
-| Speed | 65 |
-| Total | 420 |
-
-**Notable Level-Up Moves**
-- Autotomize (Lv 1, Sun Moon)
-- Bide (Lv 1, Sun Moon)
-- Dragon Tail (Lv 1, Sword Shield)
-- Leer (Lv 1, Sun Moon)
-- Protect (Lv 1, Sun Moon)
-- Sky Uppercut (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 </div>
 </div>
 
@@ -135,8 +117,7 @@ Height: 1.2 m · Weight: 47.0 kg · Base EXP: 147
 ## Kommo O (#784)
 <details class="pokemon-card-container" open>
 <summary>Kommo O overview</summary>
-_Scaly Pokémon_ • Types: Dragon / Fighting
-Height: 1.6 m · Weight: 78.2 kg · Base EXP: 270
+_Scaly Pokémon_ • Types: Dragon / Fighting • Egg Groups: Dragon • Base EXP: 270
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -171,21 +152,13 @@ Height: 1.6 m · Weight: 78.2 kg · Base EXP: 270
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 110 |
-| Defense | 125 |
-| Sp. Atk | 100 |
-| Sp. Def | 105 |
-| Speed | 85 |
-| Total | 600 |
-
-**Notable Level-Up Moves**
-- Autotomize (Lv 1, Sun Moon)
-- Belly Drum (Lv 1, Sun Moon)
-- Bide (Lv 1, Sun Moon)
-- Clanging Scales (Lv 1, Sun Moon)
-- Dragon Tail (Lv 1, Sword Shield)
-- Leer (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-high">125</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-high">105</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-high">600</span> |
 </div>
 </div>
 

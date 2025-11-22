@@ -10,8 +10,7 @@
 ## Dreepy (#885)
 <details class="pokemon-card-container" open>
 <summary>Dreepy overview</summary>
-_Lingering Pokémon_ • Types: Dragon / Ghost
-Height: 0.5 m · Weight: 2.0 kg · Base EXP: 54
+_Lingering Pokémon_ • Types: Dragon / Ghost • Egg Groups: Indeterminate / Dragon • Base EXP: 54
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -54,19 +53,13 @@ Height: 0.5 m · Weight: 2.0 kg · Base EXP: 54
 
 | Stat | Value |
 | --- | --- |
-| HP | 28 |
-| Attack | 60 |
-| Defense | 30 |
-| Sp. Atk | 40 |
-| Sp. Def | 30 |
-| Speed | 82 |
-| Total | 270 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Infestation (Lv 1, Sword Shield)
-- Quick Attack (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-low">28</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-mid">82</span> |
+| Total | <span class="stat-value stat-low">270</span> |
 </div>
 </div>
 
@@ -78,8 +71,7 @@ Height: 0.5 m · Weight: 2.0 kg · Base EXP: 54
 ## Drakloak (#886)
 <details class="pokemon-card-container" open>
 <summary>Drakloak overview</summary>
-_Caretaker Pokémon_ • Types: Dragon / Ghost
-Height: 1.4 m · Weight: 11.0 kg · Base EXP: 144
+_Caretaker Pokémon_ • Types: Dragon / Ghost • Egg Groups: Indeterminate / Dragon • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -118,21 +110,13 @@ Height: 1.4 m · Weight: 11.0 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 80 |
-| Defense | 50 |
-| Sp. Atk | 60 |
-| Sp. Def | 50 |
-| Speed | 102 |
-| Total | 410 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Dragon Pulse (Lv 1, Sword Shield)
-- Infestation (Lv 1, Sword Shield)
-- Quick Attack (Lv 1, Sword Shield)
-- Lock On (Lv 6, Sword Shield)
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-high">102</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 </div>
 </div>
 
@@ -144,8 +128,7 @@ Height: 1.4 m · Weight: 11.0 kg · Base EXP: 144
 ## Dragapult (#887)
 <details class="pokemon-card-container" open>
 <summary>Dragapult overview</summary>
-_Stealth Pokémon_ • Types: Dragon / Ghost
-Height: 3.0 m · Weight: 50.0 kg · Base EXP: 300
+_Stealth Pokémon_ • Types: Dragon / Ghost • Egg Groups: Indeterminate / Dragon • Base EXP: 300
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -181,21 +164,13 @@ Height: 3.0 m · Weight: 50.0 kg · Base EXP: 300
 
 | Stat | Value |
 | --- | --- |
-| HP | 88 |
-| Attack | 120 |
-| Defense | 75 |
-| Sp. Atk | 100 |
-| Sp. Def | 75 |
-| Speed | 142 |
-| Total | 600 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Dragon Breath (Lv 1, Sword Shield)
-- Dragon Darts (Lv 1, Sword Shield)
-- Infestation (Lv 1, Sword Shield)
-- Quick Attack (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">88</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">142</span> |
+| Total | <span class="stat-value stat-high">600</span> |
 </div>
 </div>
 

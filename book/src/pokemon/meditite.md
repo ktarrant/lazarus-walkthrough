@@ -8,8 +8,7 @@
 ## Meditite (#307)
 <details class="pokemon-card-container" open>
 <summary>Meditite overview</summary>
-_Meditate Pokémon_ • Types: Fighting / Psychic
-Height: 0.6 m · Weight: 11.2 kg · Base EXP: 56
+_Meditate Pokémon_ • Types: Fighting / Psychic • Egg Groups: Humanshape • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,26 @@ Height: 0.6 m · Weight: 11.2 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 40 |
-| Defense | 55 |
-| Sp. Atk | 40 |
-| Sp. Def | 55 |
-| Speed | 60 |
-| Total | 280 |
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">280</span> |
 
 **Notable Level-Up Moves**
-- Bide (Lv 1, Ruby Sapphire)
-- Confusion (Lv 1, Scarlet Violet)
-- Pound (Lv 1, Brilliant Diamond And Shining Pearl)
-- Work Up (Lv 1, Scarlet Violet)
-- Low Kick (Lv 4, Brilliant Diamond And Shining Pearl)
-- Meditate (Lv 4, Ruby Sapphire)
+- Bide (Lv 1)
+- Meditate (Lv 4)
+- Confusion (Lv 9)
+- Detect (Lv 12)
+- Hidden Power (Lv 18)
+- Mind Reader (Lv 22)
+- Calm Mind (Lv 28)
+- High Jump Kick (Lv 32)
+- Psych Up (Lv 38)
+- Reversal (Lv 42)
+- Recover (Lv 48)
 </div>
 </div>
 
@@ -70,8 +74,7 @@ Height: 0.6 m · Weight: 11.2 kg · Base EXP: 56
 ## Medicham (#308)
 <details class="pokemon-card-container" open>
 <summary>Medicham overview</summary>
-_Meditate Pokémon_ • Types: Fighting / Psychic
-Height: 1.3 m · Weight: 31.5 kg · Base EXP: 144
+_Meditate Pokémon_ • Types: Fighting / Psychic • Egg Groups: Humanshape • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +101,32 @@ Height: 1.3 m · Weight: 31.5 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 60 |
-| Defense | 75 |
-| Sp. Atk | 60 |
-| Sp. Def | 75 |
-| Speed | 80 |
-| Total | 410 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Bide (Lv 1, Ruby Sapphire)
-- Confusion (Lv 1, Ruby Sapphire)
-- Detect (Lv 1, Ruby Sapphire)
-- Fire Punch (Lv 1, Ruby Sapphire)
-- Ice Punch (Lv 1, Ruby Sapphire)
-- Meditate (Lv 1, Ruby Sapphire)
+- Bide (Lv 1)
+- Confusion (Lv 1)
+- Detect (Lv 1)
+- Fire Punch (Lv 1)
+- Ice Punch (Lv 1)
+- Meditate (Lv 1)
+- Thunder Punch (Lv 1)
+- Meditate (Lv 4)
+- Confusion (Lv 9)
+- Detect (Lv 12)
+- Hidden Power (Lv 18)
+- Mind Reader (Lv 22)
+- Calm Mind (Lv 28)
+- High Jump Kick (Lv 32)
+- Psych Up (Lv 40)
+- Reversal (Lv 46)
+- Recover (Lv 54)
 </div>
 </div>
 

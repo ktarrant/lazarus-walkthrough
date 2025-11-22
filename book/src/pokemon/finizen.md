@@ -8,8 +8,7 @@
 ## Finizen (#963)
 <details class="pokemon-card-container" open>
 <summary>Finizen overview</summary>
-_Dolphin Pokémon_ • Types: Water
-Height: 1.3 m · Weight: 60.2 kg · Base EXP: 63
+_Dolphin Pokémon_ • Types: Water • Egg Groups: Ground / Water2 • Base EXP: 63
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,13 @@ Height: 1.3 m · Weight: 60.2 kg · Base EXP: 63
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 45 |
-| Defense | 40 |
-| Sp. Atk | 45 |
-| Sp. Def | 40 |
-| Speed | 75 |
-| Total | 315 |
-
-**Notable Level-Up Moves**
-- Supersonic (Lv 1, Scarlet Violet)
-- Water Gun (Lv 1, Scarlet Violet)
-- Astonish (Lv 7, Scarlet Violet)
-- Focus Energy (Lv 10, Scarlet Violet)
-- Aqua Jet (Lv 13, Scarlet Violet)
-- Double Hit (Lv 17, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">315</span> |
 </div>
 </div>
 
@@ -73,8 +64,7 @@ Height: 1.3 m · Weight: 60.2 kg · Base EXP: 63
 ## Palafin Zero (#964)
 <details class="pokemon-card-container" open>
 <summary>Palafin Zero overview</summary>
-_Dolphin Pokémon_ • Types: Water
-Height: 1.3 m · Weight: 60.2 kg · Base EXP: 160
+_Dolphin Pokémon_ • Types: Water • Egg Groups: Ground / Water2 • Base EXP: 160
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +92,13 @@ Height: 1.3 m · Weight: 60.2 kg · Base EXP: 160
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 70 |
-| Defense | 72 |
-| Sp. Atk | 53 |
-| Sp. Def | 62 |
-| Speed | 100 |
-| Total | 457 |
-
-**Notable Level-Up Moves**
-- Jet Punch (Lv 1, Scarlet Violet)
-- Supersonic (Lv 1, Scarlet Violet)
-- Water Gun (Lv 1, Scarlet Violet)
-- Astonish (Lv 7, Scarlet Violet)
-- Focus Energy (Lv 10, Scarlet Violet)
-- Aqua Jet (Lv 13, Scarlet Violet)
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">72</span> |
+| Sp. Atk | <span class="stat-value stat-mid">53</span> |
+| Sp. Def | <span class="stat-value stat-mid">62</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">457</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Swablu (#333)
 <details class="pokemon-card-container" open>
 <summary>Swablu overview</summary>
-_Cotton Bird Pokémon_ • Types: Normal / Flying
-Height: 0.4 m · Weight: 1.2 kg · Base EXP: 62
+_Cotton Bird Pokémon_ • Types: Normal / Flying • Egg Groups: Flying / Dragon • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,26 @@ Height: 0.4 m · Weight: 1.2 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 40 |
-| Defense | 60 |
-| Sp. Atk | 40 |
-| Sp. Def | 75 |
-| Speed | 50 |
-| Total | 310 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Ruby Sapphire)
-- Peck (Lv 1, Ruby Sapphire)
-- Astonish (Lv 3, Omega Ruby Alpha Sapphire)
-- Disarming Voice (Lv 4, Sword Shield)
-- Sing (Lv 5, Omega Ruby Alpha Sapphire)
-- Fury Attack (Lv 7, Omega Ruby Alpha Sapphire)
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Astonish (Lv 8)
+- Sing (Lv 11)
+- Fury Attack (Lv 18)
+- Safeguard (Lv 21)
+- Mist (Lv 28)
+- Take Down (Lv 31)
+- Mirror Move (Lv 38)
+- Refresh (Lv 41)
+- Perish Song (Lv 48)
 </div>
 </div>
 
@@ -70,8 +74,7 @@ Height: 0.4 m · Weight: 1.2 kg · Base EXP: 62
 ## Altaria (#334)
 <details class="pokemon-card-container" open>
 <summary>Altaria overview</summary>
-_Humming Pokémon_ • Types: Dragon / Flying
-Height: 1.1 m · Weight: 20.6 kg · Base EXP: 172
+_Humming Pokémon_ • Types: Dragon / Flying • Egg Groups: Flying / Dragon • Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +111,30 @@ Height: 1.1 m · Weight: 20.6 kg · Base EXP: 172
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 70 |
-| Defense | 90 |
-| Sp. Atk | 70 |
-| Sp. Def | 105 |
-| Speed | 80 |
-| Total | 490 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-high">105</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Ruby Sapphire)
-- Disarming Voice (Lv 1, Sword Shield)
-- Dragon Breath (Lv 1, Sun Moon)
-- Dragon Pulse (Lv 1, Sword Shield)
-- Growl (Lv 1, Ruby Sapphire)
-- Hurricane (Lv 1, Brilliant Diamond And Shining Pearl)
+- Astonish (Lv 1)
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Sing (Lv 1)
+- Astonish (Lv 8)
+- Sing (Lv 11)
+- Fury Attack (Lv 18)
+- Safeguard (Lv 21)
+- Mist (Lv 28)
+- Take Down (Lv 31)
+- Dragon Breath (Lv 35)
+- Dragon Dance (Lv 40)
+- Refresh (Lv 45)
+- Perish Song (Lv 54)
+- Sky Attack (Lv 59)
 </div>
 </div>
 

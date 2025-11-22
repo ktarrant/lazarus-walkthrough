@@ -8,8 +8,7 @@
 ## Salandit (#757)
 <details class="pokemon-card-container" open>
 <summary>Salandit overview</summary>
-_Toxic Lizard Pokémon_ • Types: Poison / Fire
-Height: 0.6 m · Weight: 4.8 kg · Base EXP: 64
+_Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Dragon • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,13 @@ Height: 0.6 m · Weight: 4.8 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 48 |
-| Attack | 44 |
-| Defense | 40 |
-| Sp. Atk | 71 |
-| Sp. Def | 40 |
-| Speed | 77 |
-| Total | 320 |
-
-**Notable Level-Up Moves**
-- Poison Gas (Lv 1, Sun Moon)
-- Scratch (Lv 1, Sun Moon)
-- Ember (Lv 5, Sun Moon)
-- Smog (Lv 5, Sword Shield)
-- Sweet Scent (Lv 8, Sun Moon)
-- Dragon Rage (Lv 13, Sun Moon)
+| HP | <span class="stat-value stat-low">48</span> |
+| Attack | <span class="stat-value stat-low">44</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">71</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">77</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 </div>
 </div>
 
@@ -75,8 +66,7 @@ Height: 0.6 m · Weight: 4.8 kg · Base EXP: 64
 ## Salazzle (#758)
 <details class="pokemon-card-container" open>
 <summary>Salazzle overview</summary>
-_Toxic Lizard Pokémon_ • Types: Poison / Fire
-Height: 1.2 m · Weight: 22.2 kg · Base EXP: 168
+_Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Dragon • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -110,21 +100,13 @@ Height: 1.2 m · Weight: 22.2 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 64 |
-| Defense | 60 |
-| Sp. Atk | 111 |
-| Sp. Def | 60 |
-| Speed | 117 |
-| Total | 480 |
-
-**Notable Level-Up Moves**
-- Captivate (Lv 1, Sun Moon)
-- Disable (Lv 1, Sun Moon)
-- Ember (Lv 1, Sun Moon)
-- Encore (Lv 1, Sun Moon)
-- Endeavor (Lv 1, Sword Shield)
-- Fire Lash (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">64</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">111</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">117</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 </div>
 </div>
 

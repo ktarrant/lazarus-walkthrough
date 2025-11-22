@@ -8,8 +8,7 @@
 ## Numel (#322)
 <details class="pokemon-card-container" open>
 <summary>Numel overview</summary>
-_Numb Pokémon_ • Types: Fire / Ground
-Height: 0.7 m · Weight: 24.0 kg · Base EXP: 61
+_Numb Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,25 @@ Height: 0.7 m · Weight: 24.0 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 60 |
-| Defense | 40 |
-| Sp. Atk | 65 |
-| Sp. Def | 45 |
-| Speed | 35 |
-| Total | 305 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Ruby Sapphire)
-- Ember (Lv 5, Diamond Pearl)
-- Focus Energy (Lv 8, Omega Ruby Alpha Sapphire)
-- Magnitude (Lv 8, Black 2 White 2)
-- Bulldoze (Lv 12, Brilliant Diamond And Shining Pearl)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Ember (Lv 11)
+- Magnitude (Lv 19)
+- Focus Energy (Lv 25)
+- Take Down (Lv 29)
+- Amnesia (Lv 31)
+- Earthquake (Lv 35)
+- Flamethrower (Lv 41)
+- Double Edge (Lv 49)
 </div>
 </div>
 
@@ -69,8 +72,7 @@ Height: 0.7 m · Weight: 24.0 kg · Base EXP: 61
 ## Camerupt (#323)
 <details class="pokemon-card-container" open>
 <summary>Camerupt overview</summary>
-_Eruption Pokémon_ • Types: Fire / Ground
-Height: 1.9 m · Weight: 220.0 kg · Base EXP: 161
+_Eruption Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 161
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +103,28 @@ Height: 1.9 m · Weight: 220.0 kg · Base EXP: 161
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 100 |
-| Defense | 70 |
-| Sp. Atk | 105 |
-| Sp. Def | 75 |
-| Speed | 40 |
-| Total | 460 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">105</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 
 **Notable Level-Up Moves**
-- Double Edge (Lv 1, Brilliant Diamond And Shining Pearl)
-- Ember (Lv 1, Ruby Sapphire)
-- Eruption (Lv 1, X Y)
-- Fissure (Lv 1, X Y)
-- Flamethrower (Lv 1, Brilliant Diamond And Shining Pearl)
-- Focus Energy (Lv 1, Omega Ruby Alpha Sapphire)
+- Ember (Lv 1)
+- Growl (Lv 1)
+- Magnitude (Lv 1)
+- Tackle (Lv 1)
+- Ember (Lv 11)
+- Magnitude (Lv 19)
+- Focus Energy (Lv 25)
+- Take Down (Lv 29)
+- Amnesia (Lv 31)
+- Rock Slide (Lv 33)
+- Earthquake (Lv 37)
+- Eruption (Lv 45)
+- Fissure (Lv 55)
 </div>
 </div>
 

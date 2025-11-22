@@ -8,8 +8,7 @@
 ## Scraggy (#559)
 <details class="pokemon-card-container" open>
 <summary>Scraggy overview</summary>
-_Shedding Pokémon_ • Types: Dark / Fighting
-Height: 0.6 m · Weight: 11.8 kg · Base EXP: 70
+_Shedding Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon • Base EXP: 70
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.6 m · Weight: 11.8 kg · Base EXP: 70
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 75 |
-| Defense | 70 |
-| Sp. Atk | 35 |
-| Sp. Def | 70 |
-| Speed | 48 |
-| Total | 348 |
-
-**Notable Level-Up Moves**
-- Headbutt (Lv 1, Sun Moon)
-- Leer (Lv 1, Black White)
-- Low Kick (Lv 1, Black White)
-- Payback (Lv 4, Sword Shield)
-- Sand Attack (Lv 5, Black White)
-- Feint Attack (Lv 9, Black White)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-low">48</span> |
+| Total | <span class="stat-value stat-mid">348</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.6 m · Weight: 11.8 kg · Base EXP: 70
 ## Scrafty (#560)
 <details class="pokemon-card-container" open>
 <summary>Scrafty overview</summary>
-_Hoodlum Pokémon_ • Types: Dark / Fighting
-Height: 1.1 m · Weight: 30.0 kg · Base EXP: 171
+_Hoodlum Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon • Base EXP: 171
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 1.1 m · Weight: 30.0 kg · Base EXP: 171
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 90 |
-| Defense | 115 |
-| Sp. Atk | 45 |
-| Sp. Def | 115 |
-| Speed | 58 |
-| Total | 488 |
-
-**Notable Level-Up Moves**
-- Feint Attack (Lv 1, Black White)
-- Headbutt (Lv 1, Sun Moon)
-- Leer (Lv 1, Black White)
-- Low Kick (Lv 1, Black White)
-- Payback (Lv 1, Sword Shield)
-- Sand Attack (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">115</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">58</span> |
+| Total | <span class="stat-value stat-mid">488</span> |
 </div>
 </div>
 

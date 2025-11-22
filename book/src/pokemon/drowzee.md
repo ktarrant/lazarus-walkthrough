@@ -8,8 +8,7 @@
 ## Drowzee (#096)
 <details class="pokemon-card-container" open>
 <summary>Drowzee overview</summary>
-_Hypnosis Pokémon_ • Types: Psychic
-Height: 1.0 m · Weight: 32.4 kg · Base EXP: 66
+_Hypnosis Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,25 @@ Height: 1.0 m · Weight: 32.4 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 48 |
-| Defense | 45 |
-| Sp. Atk | 43 |
-| Sp. Def | 90 |
-| Speed | 42 |
-| Total | 328 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">48</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">43</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-low">42</span> |
+| Total | <span class="stat-value stat-mid">328</span> |
 
 **Notable Level-Up Moves**
-- Hypnosis (Lv 1, Red Blue)
-- Pound (Lv 1, Red Blue)
-- Disable (Lv 4, Lets Go Pikachu Lets Go Eevee)
-- Confusion (Lv 9, Diamond Pearl)
-- Headbutt (Lv 13, Black White)
-- Poison Gas (Lv 13, Lets Go Pikachu Lets Go Eevee)
+- Hypnosis (Lv 1)
+- Pound (Lv 1)
+- Disable (Lv 10)
+- Confusion (Lv 18)
+- Headbutt (Lv 25)
+- Poison Gas (Lv 31)
+- Meditate (Lv 36)
+- Psychic (Lv 40)
+- Psych Up (Lv 43)
+- Future Sight (Lv 45)
 </div>
 </div>
 
@@ -68,8 +71,7 @@ Height: 1.0 m · Weight: 32.4 kg · Base EXP: 66
 ## Hypno (#097)
 <details class="pokemon-card-container" open>
 <summary>Hypno overview</summary>
-_Hypnosis Pokémon_ • Types: Psychic
-Height: 1.6 m · Weight: 75.6 kg · Base EXP: 169
+_Hypnosis Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 169
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +99,27 @@ Height: 1.6 m · Weight: 75.6 kg · Base EXP: 169
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 73 |
-| Defense | 70 |
-| Sp. Atk | 73 |
-| Sp. Def | 115 |
-| Speed | 67 |
-| Total | 483 |
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-mid">73</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">73</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">67</span> |
+| Total | <span class="stat-value stat-mid">483</span> |
 
 **Notable Level-Up Moves**
-- Barrier (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Confusion (Lv 1, Red Blue)
-- Disable (Lv 1, Red Blue)
-- Future Sight (Lv 1, X Y)
-- Hypnosis (Lv 1, Red Blue)
-- Nasty Plot (Lv 1, X Y)
+- Confusion (Lv 1)
+- Disable (Lv 1)
+- Hypnosis (Lv 1)
+- Pound (Lv 1)
+- Disable (Lv 10)
+- Confusion (Lv 18)
+- Headbutt (Lv 25)
+- Poison Gas (Lv 33)
+- Meditate (Lv 40)
+- Psychic (Lv 49)
+- Psych Up (Lv 55)
+- Future Sight (Lv 60)
 </div>
 </div>
 

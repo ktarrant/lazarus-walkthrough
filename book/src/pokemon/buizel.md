@@ -8,8 +8,7 @@
 ## Buizel (#418)
 <details class="pokemon-card-container" open>
 <summary>Buizel overview</summary>
-_Sea Weasel Pokémon_ • Types: Water
-Height: 0.7 m · Weight: 29.5 kg · Base EXP: 66
+_Sea Weasel Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,13 @@ Height: 0.7 m · Weight: 29.5 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 65 |
-| Defense | 35 |
-| Sp. Atk | 60 |
-| Sp. Def | 30 |
-| Speed | 85 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Diamond Pearl)
-- Quick Attack (Lv 1, Legends Arceus)
-- Sonic Boom (Lv 1, Diamond Pearl)
-- Tackle (Lv 1, Brilliant Diamond And Shining Pearl)
-- Water Sport (Lv 1, Diamond Pearl)
-- Aqua Jet (Lv 6, Legends Arceus)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -73,8 +64,7 @@ Height: 0.7 m · Weight: 29.5 kg · Base EXP: 66
 ## Floatzel (#419)
 <details class="pokemon-card-container" open>
 <summary>Floatzel overview</summary>
-_Sea Weasel Pokémon_ • Types: Water
-Height: 1.1 m · Weight: 33.5 kg · Base EXP: 173
+_Sea Weasel Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +92,13 @@ Height: 1.1 m · Weight: 33.5 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 105 |
-| Defense | 55 |
-| Sp. Atk | 85 |
-| Sp. Def | 50 |
-| Speed | 115 |
-| Total | 495 |
-
-**Notable Level-Up Moves**
-- Crunch (Lv 1, Black 2 White 2)
-- Growl (Lv 1, Diamond Pearl)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Quick Attack (Lv 1, Diamond Pearl)
-- Soak (Lv 1, Scarlet Violet)
-- Sonic Boom (Lv 1, Diamond Pearl)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-high">115</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 </div>
 </div>
 

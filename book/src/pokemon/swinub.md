@@ -10,8 +10,7 @@
 ## Swinub (#220)
 <details class="pokemon-card-container" open>
 <summary>Swinub overview</summary>
-_Pig Pokémon_ • Types: Ice / Ground
-Height: 0.4 m · Weight: 6.5 kg · Base EXP: 50
+_Pig Pokémon_ • Types: Ice / Ground • Egg Groups: Ground • Base EXP: 50
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,23 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 50
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 50 |
-| Defense | 40 |
-| Sp. Atk | 30 |
-| Sp. Def | 30 |
-| Speed | 50 |
-| Total | 250 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">250</span> |
 
 **Notable Level-Up Moves**
-- Mud Slap (Lv 1, Sword Shield)
-- Odor Sleuth (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Gold Silver)
-- Mud Sport (Lv 4, Diamond Pearl)
-- Powder Snow (Lv 5, Sword Shield)
-- Ice Shard (Lv 6, Legends Arceus)
+- Odor Sleuth (Lv 1)
+- Tackle (Lv 1)
+- Powder Snow (Lv 10)
+- Endure (Lv 19)
+- Take Down (Lv 28)
+- Mist (Lv 37)
+- Blizzard (Lv 46)
+- Amnesia (Lv 55)
 </div>
 </div>
 
@@ -72,8 +73,7 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 50
 ## Piloswine (#221)
 <details class="pokemon-card-container" open>
 <summary>Piloswine overview</summary>
-_Swine Pokémon_ • Types: Ice / Ground
-Height: 1.1 m · Weight: 55.8 kg · Base EXP: 158
+_Swine Pokémon_ • Types: Ice / Ground • Egg Groups: Ground • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +103,26 @@ Height: 1.1 m · Weight: 55.8 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 100 |
-| Defense | 80 |
-| Sp. Atk | 60 |
-| Sp. Def | 60 |
-| Speed | 50 |
-| Total | 450 |
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">450</span> |
 
 **Notable Level-Up Moves**
-- Ancient Power (Lv 1, Diamond Pearl)
-- Endure (Lv 1, Gold Silver)
-- Flail (Lv 1, Sword Shield)
-- Fury Attack (Lv 1, Sun Moon)
-- Horn Attack (Lv 1, Gold Silver)
-- Ice Fang (Lv 1, Sword Shield)
+- Endure (Lv 1)
+- Horn Attack (Lv 1)
+- Odor Sleuth (Lv 1)
+- Powder Snow (Lv 1)
+- Powder Snow (Lv 10)
+- Endure (Lv 19)
+- Take Down (Lv 28)
+- Fury Attack (Lv 33)
+- Mist (Lv 42)
+- Blizzard (Lv 56)
+- Amnesia (Lv 70)
 </div>
 </div>
 
@@ -129,8 +134,7 @@ Height: 1.1 m · Weight: 55.8 kg · Base EXP: 158
 ## Mamoswine (#473)
 <details class="pokemon-card-container" open>
 <summary>Mamoswine overview</summary>
-_Twin Tusk Pokémon_ • Types: Ice / Ground
-Height: 2.5 m · Weight: 291.0 kg · Base EXP: 239
+_Twin Tusk Pokémon_ • Types: Ice / Ground • Egg Groups: Ground • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -160,21 +164,13 @@ Height: 2.5 m · Weight: 291.0 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 130 |
-| Defense | 80 |
-| Sp. Atk | 70 |
-| Sp. Def | 60 |
-| Speed | 80 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Ancient Power (Lv 1, Diamond Pearl)
-- Double Hit (Lv 1, Sword Shield)
-- Flail (Lv 1, Sword Shield)
-- Fury Attack (Lv 1, Sun Moon)
-- Ice Fang (Lv 1, Sword Shield)
-- Mud Slap (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

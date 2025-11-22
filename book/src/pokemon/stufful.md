@@ -8,8 +8,7 @@
 ## Stufful (#759)
 <details class="pokemon-card-container" open>
 <summary>Stufful overview</summary>
-_Flailing Pokémon_ • Types: Normal / Fighting
-Height: 0.5 m · Weight: 6.8 kg · Base EXP: 68
+_Flailing Pokémon_ • Types: Normal / Fighting • Egg Groups: Ground • Base EXP: 68
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.5 m · Weight: 6.8 kg · Base EXP: 68
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 75 |
-| Defense | 50 |
-| Sp. Atk | 45 |
-| Sp. Def | 50 |
-| Speed | 50 |
-| Total | 340 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Sun Moon)
-- Tackle (Lv 1, Sun Moon)
-- Baby Doll Eyes (Lv 4, Sword Shield)
-- Bide (Lv 5, Sun Moon)
-- Payback (Lv 8, Sword Shield)
-- Brutal Swing (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">340</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.5 m · Weight: 6.8 kg · Base EXP: 68
 ## Bewear (#760)
 <details class="pokemon-card-container" open>
 <summary>Bewear overview</summary>
-_Strong Arm Pokémon_ • Types: Normal / Fighting
-Height: 2.1 m · Weight: 135.0 kg · Base EXP: 175
+_Strong Arm Pokémon_ • Types: Normal / Fighting • Egg Groups: Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,21 +96,13 @@ Height: 2.1 m · Weight: 135.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 120 |
-| Attack | 125 |
-| Defense | 80 |
-| Sp. Atk | 55 |
-| Sp. Def | 60 |
-| Speed | 60 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1, Sword Shield)
-- Bind (Lv 1, Ultra Sun Ultra Moon)
-- Leer (Lv 1, Sun Moon)
-- Payback (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sun Moon)
-- Bide (Lv 5, Sun Moon)
+| HP | <span class="stat-value stat-high">120</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

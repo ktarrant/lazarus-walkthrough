@@ -8,8 +8,7 @@
 ## Skorupi (#451)
 <details class="pokemon-card-container" open>
 <summary>Skorupi overview</summary>
-_Scorpion Pokémon_ • Types: Poison / Bug
-Height: 0.8 m · Weight: 12.0 kg · Base EXP: 66
+_Scorpion Pokémon_ • Types: Poison / Bug • Egg Groups: Bug / Water3 • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.8 m · Weight: 12.0 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 50 |
-| Defense | 90 |
-| Sp. Atk | 30 |
-| Sp. Def | 55 |
-| Speed | 65 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Diamond Pearl)
-- Leer (Lv 1, Platinum)
-- Poison Sting (Lv 1, Diamond Pearl)
-- Hone Claws (Lv 3, Sword Shield)
-- Knock Off (Lv 5, Black 2 White 2)
-- Fell Stinger (Lv 6, Sword Shield)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.8 m · Weight: 12.0 kg · Base EXP: 66
 ## Drapion (#452)
 <details class="pokemon-card-container" open>
 <summary>Drapion overview</summary>
-_Ogre Scorpion Pokémon_ • Types: Poison / Dark
-Height: 1.3 m · Weight: 61.5 kg · Base EXP: 175
+_Ogre Scorpion Pokémon_ • Types: Poison / Dark • Egg Groups: Bug / Water3 • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 1.3 m · Weight: 61.5 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 90 |
-| Defense | 110 |
-| Sp. Atk | 60 |
-| Sp. Def | 75 |
-| Speed | 95 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Diamond Pearl)
-- Fell Stinger (Lv 1, Sword Shield)
-- Fire Fang (Lv 1, Diamond Pearl)
-- Hone Claws (Lv 1, Sword Shield)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Knock Off (Lv 1, Platinum)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

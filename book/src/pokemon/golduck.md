@@ -8,8 +8,7 @@
 ## Psyduck (#054)
 <details class="pokemon-card-container" open>
 <summary>Psyduck overview</summary>
-_Duck Pokémon_ • Types: Water
-Height: 0.8 m · Weight: 19.6 kg · Base EXP: 64
+_Duck Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -52,21 +51,24 @@ Height: 0.8 m · Weight: 19.6 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 52 |
-| Defense | 48 |
-| Sp. Atk | 65 |
-| Sp. Def | 50 |
-| Speed | 55 |
-| Total | 320 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">52</span> |
+| Defense | <span class="stat-value stat-low">48</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Legends Arceus)
-- Scratch (Lv 1, Red Blue)
-- Tail Whip (Lv 1, Sword Shield)
-- Water Sport (Lv 1, Ruby Sapphire)
-- Water Gun (Lv 3, Sword Shield)
-- Confusion (Lv 6, Sword Shield)
+- Scratch (Lv 1)
+- Water Sport (Lv 1)
+- Tail Whip (Lv 5)
+- Disable (Lv 10)
+- Confusion (Lv 16)
+- Screech (Lv 23)
+- Psych Up (Lv 31)
+- Fury Swipes (Lv 40)
+- Hydro Pump (Lv 50)
 </div>
 </div>
 
@@ -78,8 +80,7 @@ Height: 0.8 m · Weight: 19.6 kg · Base EXP: 64
 ## Golduck (#055)
 <details class="pokemon-card-container" open>
 <summary>Golduck overview</summary>
-_Duck Pokémon_ • Types: Water
-Height: 1.7 m · Weight: 76.6 kg · Base EXP: 175
+_Duck Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -115,21 +116,26 @@ Height: 1.7 m · Weight: 76.6 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 82 |
-| Defense | 78 |
-| Sp. Atk | 95 |
-| Sp. Def | 80 |
-| Speed | 85 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">82</span> |
+| Defense | <span class="stat-value stat-mid">78</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Aqua Jet (Lv 1, Platinum)
-- Bubble (Lv 1, Legends Arceus)
-- Confusion (Lv 1, Gold Silver)
-- Disable (Lv 1, Red Blue)
-- Encore (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Me First (Lv 1, Sun Moon)
+- Disable (Lv 1)
+- Scratch (Lv 1)
+- Tail Whip (Lv 1)
+- Water Sport (Lv 1)
+- Tail Whip (Lv 5)
+- Disable (Lv 10)
+- Confusion (Lv 16)
+- Screech (Lv 23)
+- Psych Up (Lv 31)
+- Fury Swipes (Lv 44)
+- Hydro Pump (Lv 58)
 </div>
 </div>
 

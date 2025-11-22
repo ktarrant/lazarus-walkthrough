@@ -10,8 +10,7 @@
 ## Bounsweet (#761)
 <details class="pokemon-card-container" open>
 <summary>Bounsweet overview</summary>
-_Fruit Pokémon_ • Types: Grass
-Height: 0.3 m · Weight: 3.2 kg · Base EXP: 42
+_Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 42
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,13 @@ Height: 0.3 m · Weight: 3.2 kg · Base EXP: 42
 
 | Stat | Value |
 | --- | --- |
-| HP | 42 |
-| Attack | 30 |
-| Defense | 38 |
-| Sp. Atk | 30 |
-| Sp. Def | 38 |
-| Speed | 32 |
-| Total | 210 |
-
-**Notable Level-Up Moves**
-- Splash (Lv 1, Sun Moon)
-- Play Nice (Lv 4, Sword Shield)
-- Rapid Spin (Lv 8, Sword Shield)
-- Razor Leaf (Lv 12, Sword Shield)
-- Sweet Scent (Lv 16, Sword Shield)
-- Magical Leaf (Lv 20, Sword Shield)
+| HP | <span class="stat-value stat-low">42</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">38</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">38</span> |
+| Speed | <span class="stat-value stat-low">32</span> |
+| Total | <span class="stat-value stat-low">210</span> |
 </div>
 </div>
 
@@ -73,8 +64,7 @@ Height: 0.3 m · Weight: 3.2 kg · Base EXP: 42
 ## Steenee (#762)
 <details class="pokemon-card-container" open>
 <summary>Steenee overview</summary>
-_Fruit Pokémon_ • Types: Grass
-Height: 0.7 m · Weight: 8.2 kg · Base EXP: 102
+_Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 102
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,21 +102,13 @@ Height: 0.7 m · Weight: 8.2 kg · Base EXP: 102
 
 | Stat | Value |
 | --- | --- |
-| HP | 52 |
-| Attack | 40 |
-| Defense | 48 |
-| Sp. Atk | 40 |
-| Sp. Def | 48 |
-| Speed | 62 |
-| Total | 290 |
-
-**Notable Level-Up Moves**
-- Double Slap (Lv 1, Sun Moon)
-- Flail (Lv 1, Sword Shield)
-- Play Nice (Lv 1, Sun Moon)
-- Rapid Spin (Lv 1, Sun Moon)
-- Razor Leaf (Lv 1, Sun Moon)
-- Splash (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">52</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">48</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">48</span> |
+| Speed | <span class="stat-value stat-mid">62</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 </div>
 </div>
 
@@ -138,8 +120,7 @@ Height: 0.7 m · Weight: 8.2 kg · Base EXP: 102
 ## Tsareena (#763)
 <details class="pokemon-card-container" open>
 <summary>Tsareena overview</summary>
-_Fruit Pokémon_ • Types: Grass
-Height: 1.2 m · Weight: 21.4 kg · Base EXP: 230
+_Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 230
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -171,21 +152,13 @@ Height: 1.2 m · Weight: 21.4 kg · Base EXP: 230
 
 | Stat | Value |
 | --- | --- |
-| HP | 72 |
-| Attack | 120 |
-| Defense | 98 |
-| Sp. Atk | 50 |
-| Sp. Def | 98 |
-| Speed | 72 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Double Slap (Lv 1, Sun Moon)
-- Flail (Lv 1, Sword Shield)
-- Play Nice (Lv 1, Sword Shield)
-- Power Whip (Lv 1, Sword Shield)
-- Punishment (Lv 1, Ultra Sun Ultra Moon)
-- Rapid Spin (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">72</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-high">98</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-high">98</span> |
+| Speed | <span class="stat-value stat-mid">72</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

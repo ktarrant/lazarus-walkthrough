@@ -10,8 +10,7 @@
 ## Sprigatito (#906)
 <details class="pokemon-card-container" open>
 <summary>Sprigatito overview</summary>
-_Grass Cat Pokémon_ • Types: Grass
-Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
+_Grass Cat Pokémon_ • Types: Grass • Egg Groups: Ground / Plant • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 61 |
-| Defense | 54 |
-| Sp. Atk | 45 |
-| Sp. Def | 45 |
-| Speed | 65 |
-| Total | 310 |
-
-**Notable Level-Up Moves**
-- Leafage (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Tail Whip (Lv 1, Scarlet Violet)
-- Bite (Lv 7, Scarlet Violet)
-- Hone Claws (Lv 10, Scarlet Violet)
-- Magical Leaf (Lv 13, Scarlet Violet)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">61</span> |
+| Defense | <span class="stat-value stat-mid">54</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 ## Floragato (#907)
 <details class="pokemon-card-container" open>
 <summary>Floragato overview</summary>
-_Grass Cat Pokémon_ • Types: Grass
-Height: 0.9 m · Weight: 12.2 kg · Base EXP: 144
+_Grass Cat Pokémon_ • Types: Grass • Egg Groups: Ground / Plant • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +93,13 @@ Height: 0.9 m · Weight: 12.2 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 61 |
-| Attack | 80 |
-| Defense | 63 |
-| Sp. Atk | 60 |
-| Sp. Def | 63 |
-| Speed | 83 |
-| Total | 410 |
-
-**Notable Level-Up Moves**
-- Leafage (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Tail Whip (Lv 1, Scarlet Violet)
-- Bite (Lv 7, Scarlet Violet)
-- Hone Claws (Lv 10, Scarlet Violet)
-- Magical Leaf (Lv 13, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">61</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">63</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-mid">83</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 </div>
 </div>
 
@@ -129,8 +111,7 @@ Height: 0.9 m · Weight: 12.2 kg · Base EXP: 144
 ## Meowscarada (#908)
 <details class="pokemon-card-container" open>
 <summary>Meowscarada overview</summary>
-_Magician Pokémon_ • Types: Grass / Dark
-Height: 1.5 m · Weight: 31.2 kg · Base EXP: 265
+_Magician Pokémon_ • Types: Grass / Dark • Egg Groups: Ground / Plant • Base EXP: 265
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -166,21 +147,13 @@ Height: 1.5 m · Weight: 31.2 kg · Base EXP: 265
 
 | Stat | Value |
 | --- | --- |
-| HP | 76 |
-| Attack | 110 |
-| Defense | 70 |
-| Sp. Atk | 81 |
-| Sp. Def | 70 |
-| Speed | 123 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Leafage (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Tail Whip (Lv 1, Scarlet Violet)
-- Bite (Lv 7, Scarlet Violet)
-- Hone Claws (Lv 10, Scarlet Violet)
-- Magical Leaf (Lv 13, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">76</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">81</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">123</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

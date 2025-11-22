@@ -1,8 +1,7 @@
 ## Comfey (#764)
 <details class="pokemon-card-container" open>
 <summary>Comfey overview</summary>
-_Posy Picker Pokémon_ • Types: Fairy
-Height: 0.1 m · Weight: 0.3 kg · Base EXP: 170
+_Posy Picker Pokémon_ • Types: Fairy • Egg Groups: Plant • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -38,21 +37,13 @@ Height: 0.1 m · Weight: 0.3 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 51 |
-| Attack | 52 |
-| Defense | 90 |
-| Sp. Atk | 82 |
-| Sp. Def | 110 |
-| Speed | 100 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Flower Shield (Lv 1, Sun Moon)
-- Growth (Lv 1, Sword Shield)
-- Helping Hand (Lv 1, Sun Moon)
-- Vine Whip (Lv 1, Sun Moon)
-- Wrap (Lv 1, Sword Shield)
-- Leech Seed (Lv 4, Sun Moon)
+| HP | <span class="stat-value stat-mid">51</span> |
+| Attack | <span class="stat-value stat-mid">52</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">82</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 

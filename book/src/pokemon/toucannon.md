@@ -10,8 +10,7 @@
 ## Pikipek (#731)
 <details class="pokemon-card-container" open>
 <summary>Pikipek overview</summary>
-_Woodpecker Pokémon_ • Types: Normal / Flying
-Height: 0.3 m · Weight: 1.2 kg · Base EXP: 53
+_Woodpecker Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 53
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.3 m · Weight: 1.2 kg · Base EXP: 53
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 75 |
-| Defense | 30 |
-| Sp. Atk | 30 |
-| Sp. Def | 30 |
-| Speed | 65 |
-| Total | 265 |
-
-**Notable Level-Up Moves**
-- Peck (Lv 1, Sun Moon)
-- Growl (Lv 3, Sun Moon)
-- Echoed Voice (Lv 7, Sun Moon)
-- Rock Smash (Lv 9, Sun Moon)
-- Supersonic (Lv 13, Sun Moon)
-- Pluck (Lv 15, Sun Moon)
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-low">265</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.3 m · Weight: 1.2 kg · Base EXP: 53
 ## Trumbeak (#732)
 <details class="pokemon-card-container" open>
 <summary>Trumbeak overview</summary>
-_Bugle Beak Pokémon_ • Types: Normal / Flying
-Height: 0.6 m · Weight: 14.8 kg · Base EXP: 124
+_Bugle Beak Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 124
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +99,13 @@ Height: 0.6 m · Weight: 14.8 kg · Base EXP: 124
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 85 |
-| Defense | 50 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 75 |
-| Total | 355 |
-
-**Notable Level-Up Moves**
-- Echoed Voice (Lv 1, Sun Moon)
-- Growl (Lv 1, Sun Moon)
-- Peck (Lv 1, Sun Moon)
-- Rock Blast (Lv 1, Sun Moon)
-- Rock Smash (Lv 1, Sun Moon)
-- Supersonic (Lv 13, Sun Moon)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">355</span> |
 </div>
 </div>
 
@@ -135,8 +117,7 @@ Height: 0.6 m · Weight: 14.8 kg · Base EXP: 124
 ## Toucannon (#733)
 <details class="pokemon-card-container" open>
 <summary>Toucannon overview</summary>
-_Cannon Pokémon_ • Types: Normal / Flying
-Height: 1.1 m · Weight: 26.0 kg · Base EXP: 218
+_Cannon Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 218
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -169,21 +150,13 @@ Height: 1.1 m · Weight: 26.0 kg · Base EXP: 218
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 120 |
-| Defense | 75 |
-| Sp. Atk | 75 |
-| Sp. Def | 75 |
-| Speed | 60 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Beak Blast (Lv 1, Sun Moon)
-- Echoed Voice (Lv 1, Sun Moon)
-- Growl (Lv 1, Sun Moon)
-- Peck (Lv 1, Sun Moon)
-- Rock Blast (Lv 1, Sun Moon)
-- Rock Smash (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 

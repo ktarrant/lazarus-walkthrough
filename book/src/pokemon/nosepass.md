@@ -8,8 +8,7 @@
 ## Nosepass (#299)
 <details class="pokemon-card-container" open>
 <summary>Nosepass overview</summary>
-_Compass Pokémon_ • Types: Rock
-Height: 1.0 m · Weight: 97.0 kg · Base EXP: 75
+_Compass Pokémon_ • Types: Rock • Egg Groups: Mineral • Base EXP: 75
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,25 @@ Height: 1.0 m · Weight: 97.0 kg · Base EXP: 75
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 45 |
-| Defense | 135 |
-| Sp. Atk | 45 |
-| Sp. Def | 90 |
-| Speed | 30 |
-| Total | 375 |
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-high">135</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">375</span> |
 
 **Notable Level-Up Moves**
-- Tackle (Lv 1, Ruby Sapphire)
-- Harden (Lv 4, Black 2 White 2)
-- Thunder Wave (Lv 6, Legends Arceus)
-- Block (Lv 7, Omega Ruby Alpha Sapphire)
-- Rock Throw (Lv 10, Omega Ruby Alpha Sapphire)
-- Spark (Lv 11, Legends Arceus)
+- Tackle (Lv 1)
+- Harden (Lv 7)
+- Rock Throw (Lv 13)
+- Block (Lv 16)
+- Thunder Wave (Lv 22)
+- Rock Slide (Lv 28)
+- Sandstorm (Lv 31)
+- Rest (Lv 37)
+- Zap Cannon (Lv 43)
+- Lock On (Lv 46)
 </div>
 </div>
 
@@ -72,8 +75,7 @@ Height: 1.0 m · Weight: 97.0 kg · Base EXP: 75
 ## Probopass (#476)
 <details class="pokemon-card-container" open>
 <summary>Probopass overview</summary>
-_Compass Pokémon_ • Types: Rock / Steel
-Height: 1.4 m · Weight: 340.0 kg · Base EXP: 184
+_Compass Pokémon_ • Types: Rock / Steel • Egg Groups: Mineral • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +110,13 @@ Height: 1.4 m · Weight: 340.0 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 55 |
-| Defense | 145 |
-| Sp. Atk | 75 |
-| Sp. Def | 150 |
-| Speed | 40 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Block (Lv 1, Diamond Pearl)
-- Gravity (Lv 1, Diamond Pearl)
-- Harden (Lv 1, Brilliant Diamond And Shining Pearl)
-- Iron Defense (Lv 1, Diamond Pearl)
-- Magnet Bomb (Lv 1, Diamond Pearl)
-- Magnet Rise (Lv 1, Diamond Pearl)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-high">145</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-high">150</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 

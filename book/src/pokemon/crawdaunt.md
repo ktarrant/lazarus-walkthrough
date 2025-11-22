@@ -8,8 +8,7 @@
 ## Corphish (#341)
 <details class="pokemon-card-container" open>
 <summary>Corphish overview</summary>
-_Ruffian Pokémon_ • Types: Water
-Height: 0.6 m · Weight: 11.5 kg · Base EXP: 62
+_Ruffian Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,26 @@ Height: 0.6 m · Weight: 11.5 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 43 |
-| Attack | 80 |
-| Defense | 65 |
-| Sp. Atk | 50 |
-| Sp. Def | 35 |
-| Speed | 35 |
-| Total | 308 |
+| HP | <span class="stat-value stat-low">43</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">308</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Ruby Sapphire)
-- Harden (Lv 1, Sword Shield)
-- Water Gun (Lv 1, Sword Shield)
-- Leer (Lv 4, Sword Shield)
-- Vice Grip (Lv 7, Omega Ruby Alpha Sapphire)
-- Taunt (Lv 8, Sword Shield)
+- Bubble (Lv 1)
+- Harden (Lv 7)
+- Vice Grip (Lv 10)
+- Leer (Lv 13)
+- Bubble Beam (Lv 20)
+- Protect (Lv 23)
+- Knock Off (Lv 26)
+- Taunt (Lv 32)
+- Crabhammer (Lv 35)
+- Swords Dance (Lv 38)
+- Guillotine (Lv 44)
 </div>
 </div>
 
@@ -71,8 +75,7 @@ Height: 0.6 m · Weight: 11.5 kg · Base EXP: 62
 ## Crawdaunt (#342)
 <details class="pokemon-card-container" open>
 <summary>Crawdaunt overview</summary>
-_Rogue Pokémon_ • Types: Water / Dark
-Height: 1.1 m · Weight: 32.8 kg · Base EXP: 164
+_Rogue Pokémon_ • Types: Water / Dark • Egg Groups: Water1 / Water3 • Base EXP: 164
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -111,21 +114,29 @@ Height: 1.1 m · Weight: 32.8 kg · Base EXP: 164
 
 | Stat | Value |
 | --- | --- |
-| HP | 63 |
-| Attack | 120 |
-| Defense | 85 |
-| Sp. Atk | 90 |
-| Sp. Def | 55 |
-| Speed | 55 |
-| Total | 468 |
+| HP | <span class="stat-value stat-mid">63</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">468</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1, Ruby Sapphire)
-- Guillotine (Lv 1, X Y)
-- Harden (Lv 1, Ruby Sapphire)
-- Leer (Lv 1, Ruby Sapphire)
-- Swift (Lv 1, Sun Moon)
-- Taunt (Lv 1, Sword Shield)
+- Bubble (Lv 1)
+- Harden (Lv 1)
+- Leer (Lv 1)
+- Vice Grip (Lv 1)
+- Harden (Lv 7)
+- Vice Grip (Lv 10)
+- Leer (Lv 13)
+- Bubble Beam (Lv 20)
+- Protect (Lv 23)
+- Knock Off (Lv 26)
+- Taunt (Lv 34)
+- Crabhammer (Lv 39)
+- Swords Dance (Lv 44)
+- Guillotine (Lv 52)
 </div>
 </div>
 

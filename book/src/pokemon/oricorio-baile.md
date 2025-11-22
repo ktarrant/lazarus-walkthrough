@@ -1,8 +1,7 @@
 ## Oricorio Baile (#741)
 <details class="pokemon-card-container" open>
 <summary>Oricorio Baile overview</summary>
-_Dancing Pokémon_ • Types: Fire / Flying
-Height: 0.6 m · Weight: 3.4 kg · Base EXP: 167
+_Dancing Pokémon_ • Types: Fire / Flying • Egg Groups: Flying • Base EXP: 167
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,13 @@ Height: 0.6 m · Weight: 3.4 kg · Base EXP: 167
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 70 |
-| Defense | 70 |
-| Sp. Atk | 98 |
-| Sp. Def | 70 |
-| Speed | 93 |
-| Total | 476 |
-
-**Notable Level-Up Moves**
-- Pound (Lv 1, Sun Moon)
-- Growl (Lv 4, Sun Moon)
-- Peck (Lv 6, Sun Moon)
-- Helping Hand (Lv 10, Sun Moon)
-- Air Cutter (Lv 13, Sun Moon)
-- Baton Pass (Lv 16, Sun Moon)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">98</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">93</span> |
+| Total | <span class="stat-value stat-mid">476</span> |
 </div>
 </div>
 

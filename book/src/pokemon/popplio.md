@@ -10,8 +10,7 @@
 ## Popplio (#728)
 <details class="pokemon-card-container" open>
 <summary>Popplio overview</summary>
-_Sea Lion Pokémon_ • Types: Water
-Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
+_Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 54 |
-| Defense | 54 |
-| Sp. Atk | 66 |
-| Sp. Def | 56 |
-| Speed | 40 |
-| Total | 320 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Sword Shield)
-- Pound (Lv 1, Sun Moon)
-- Water Gun (Lv 1, Sun Moon)
-- Disarming Voice (Lv 6, Sword Shield)
-- Aqua Jet (Lv 9, Sword Shield)
-- Baby Doll Eyes (Lv 11, Sun Moon)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">54</span> |
+| Defense | <span class="stat-value stat-mid">54</span> |
+| Sp. Atk | <span class="stat-value stat-mid">66</span> |
+| Sp. Def | <span class="stat-value stat-mid">56</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 ## Brionne (#729)
 <details class="pokemon-card-container" open>
 <summary>Brionne overview</summary>
-_Pop Star Pokémon_ • Types: Water
-Height: 0.6 m · Weight: 17.5 kg · Base EXP: 147
+_Pop Star Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +87,13 @@ Height: 0.6 m · Weight: 17.5 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 69 |
-| Defense | 69 |
-| Sp. Atk | 91 |
-| Sp. Def | 81 |
-| Speed | 50 |
-| Total | 420 |
-
-**Notable Level-Up Moves**
-- Disarming Voice (Lv 1, Sun Moon)
-- Growl (Lv 1, Sun Moon)
-- Pound (Lv 1, Sun Moon)
-- Water Gun (Lv 1, Sun Moon)
-- Aqua Jet (Lv 9, Sword Shield)
-- Baby Doll Eyes (Lv 11, Sun Moon)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">69</span> |
+| Defense | <span class="stat-value stat-mid">69</span> |
+| Sp. Atk | <span class="stat-value stat-high">91</span> |
+| Sp. Def | <span class="stat-value stat-mid">81</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 </div>
 </div>
 
@@ -123,8 +105,7 @@ Height: 0.6 m · Weight: 17.5 kg · Base EXP: 147
 ## Primarina (#730)
 <details class="pokemon-card-container" open>
 <summary>Primarina overview</summary>
-_Soloist Pokémon_ • Types: Water / Fairy
-Height: 1.8 m · Weight: 44.0 kg · Base EXP: 239
+_Soloist Pokémon_ • Types: Water / Fairy • Egg Groups: Water1 / Ground • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -156,21 +137,13 @@ Height: 1.8 m · Weight: 44.0 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 74 |
-| Defense | 74 |
-| Sp. Atk | 126 |
-| Sp. Def | 116 |
-| Speed | 60 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Disarming Voice (Lv 1, Sun Moon)
-- Growl (Lv 1, Sun Moon)
-- Pound (Lv 1, Sun Moon)
-- Sparkling Aria (Lv 1, Sun Moon)
-- Water Gun (Lv 1, Sun Moon)
-- Aqua Jet (Lv 9, Sword Shield)
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">74</span> |
+| Defense | <span class="stat-value stat-mid">74</span> |
+| Sp. Atk | <span class="stat-value stat-high">126</span> |
+| Sp. Def | <span class="stat-value stat-high">116</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

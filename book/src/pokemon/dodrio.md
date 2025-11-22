@@ -8,8 +8,7 @@
 ## Doduo (#084)
 <details class="pokemon-card-container" open>
 <summary>Doduo overview</summary>
-_Twin Bird Pokémon_ • Types: Normal / Flying
-Height: 1.4 m · Weight: 39.2 kg · Base EXP: 62
+_Twin Bird Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,24 @@ Height: 1.4 m · Weight: 39.2 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 85 |
-| Defense | 45 |
-| Sp. Atk | 35 |
-| Sp. Def | 35 |
-| Speed | 75 |
-| Total | 310 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Gold Silver)
-- Peck (Lv 1, Red Blue)
-- Quick Attack (Lv 5, Diamond Pearl)
-- Leer (Lv 8, Brilliant Diamond And Shining Pearl)
-- Rage (Lv 8, Sun Moon)
-- Fury Attack (Lv 9, Scarlet Violet)
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Pursuit (Lv 9)
+- Fury Attack (Lv 13)
+- Tri Attack (Lv 21)
+- Rage (Lv 25)
+- Uproar (Lv 33)
+- Drill Peck (Lv 37)
+- Agility (Lv 45)
 </div>
 </div>
 
@@ -72,8 +74,7 @@ Height: 1.4 m · Weight: 39.2 kg · Base EXP: 62
 ## Dodrio (#085)
 <details class="pokemon-card-container" open>
 <summary>Dodrio overview</summary>
-_Triple Bird Pokémon_ • Types: Normal / Flying
-Height: 1.8 m · Weight: 85.2 kg · Base EXP: 165
+_Triple Bird Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 165
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +109,26 @@ Height: 1.8 m · Weight: 85.2 kg · Base EXP: 165
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 110 |
-| Defense | 70 |
-| Sp. Atk | 60 |
-| Sp. Def | 60 |
-| Speed | 110 |
-| Total | 470 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">470</span> |
 
 **Notable Level-Up Moves**
-- Fury Attack (Lv 1, Red Blue)
-- Growl (Lv 1, Red Blue)
-- Mirror Move (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Peck (Lv 1, Red Blue)
-- Pluck (Lv 1, Diamond Pearl)
-- Pursuit (Lv 1, Gold Silver)
+- Fury Attack (Lv 1)
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Pursuit (Lv 1)
+- Pursuit (Lv 9)
+- Fury Attack (Lv 13)
+- Tri Attack (Lv 21)
+- Rage (Lv 25)
+- Uproar (Lv 38)
+- Drill Peck (Lv 47)
+- Agility (Lv 60)
 </div>
 </div>
 

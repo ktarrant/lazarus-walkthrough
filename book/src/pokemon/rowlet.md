@@ -10,8 +10,7 @@
 ## Rowlet (#722)
 <details class="pokemon-card-container" open>
 <summary>Rowlet overview</summary>
-_Grass Quill Pokémon_ • Types: Grass / Flying
-Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
+_Grass Quill Pokémon_ • Types: Grass / Flying • Egg Groups: Flying • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 68 |
-| Attack | 55 |
-| Defense | 55 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 42 |
-| Total | 320 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Sword Shield)
-- Gust (Lv 1, Legends Arceus)
-- Leafage (Lv 1, Sun Moon)
-- Tackle (Lv 1, Sun Moon)
-- Astonish (Lv 6, Sword Shield)
-- Peck (Lv 8, Sun Moon)
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">42</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 ## Dartrix (#723)
 <details class="pokemon-card-container" open>
 <summary>Dartrix overview</summary>
-_Blade Quill Pokémon_ • Types: Grass / Flying
-Height: 0.7 m · Weight: 16.0 kg · Base EXP: 147
+_Blade Quill Pokémon_ • Types: Grass / Flying • Egg Groups: Flying • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +93,13 @@ Height: 0.7 m · Weight: 16.0 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 75 |
-| Defense | 75 |
-| Sp. Atk | 70 |
-| Sp. Def | 70 |
-| Speed | 52 |
-| Total | 420 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Growl (Lv 1, Sun Moon)
-- Gust (Lv 1, Legends Arceus)
-- Leafage (Lv 1, Sun Moon)
-- Peck (Lv 1, Sun Moon)
-- Tackle (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">52</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 </div>
 </div>
 
@@ -129,8 +111,7 @@ Height: 0.7 m · Weight: 16.0 kg · Base EXP: 147
 ## Decidueye (#724)
 <details class="pokemon-card-container" open>
 <summary>Decidueye overview</summary>
-_Arrow Quill Pokémon_ • Types: Grass / Ghost
-Height: 1.6 m · Weight: 36.6 kg · Base EXP: 239
+_Arrow Quill Pokémon_ • Types: Grass / Ghost • Egg Groups: Flying • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -163,21 +144,13 @@ Height: 1.6 m · Weight: 36.6 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 107 |
-| Defense | 75 |
-| Sp. Atk | 100 |
-| Sp. Def | 100 |
-| Speed | 70 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Growl (Lv 1, Sun Moon)
-- Leaf Storm (Lv 1, Ultra Sun Ultra Moon)
-- Leafage (Lv 1, Sun Moon)
-- Peck (Lv 1, Sun Moon)
-- Phantom Force (Lv 1, Ultra Sun Ultra Moon)
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-high">107</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

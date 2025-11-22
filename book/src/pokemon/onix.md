@@ -8,8 +8,7 @@
 ## Onix (#095)
 <details class="pokemon-card-container" open>
 <summary>Onix overview</summary>
-_Rock Snake Pokémon_ • Types: Rock / Ground
-Height: 8.8 m · Weight: 210.0 kg · Base EXP: 77
+_Rock Snake Pokémon_ • Types: Rock / Ground • Egg Groups: Mineral • Base EXP: 77
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,26 @@ Height: 8.8 m · Weight: 210.0 kg · Base EXP: 77
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 45 |
-| Defense | 160 |
-| Sp. Atk | 30 |
-| Sp. Def | 45 |
-| Speed | 70 |
-| Total | 385 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-high">160</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">385</span> |
 
 **Notable Level-Up Moves**
-- Bind (Lv 1, Diamond Pearl)
-- Harden (Lv 1, Diamond Pearl)
-- Mud Sport (Lv 1, Diamond Pearl)
-- Rock Throw (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Rollout (Lv 1, Legends Arceus)
-- Screech (Lv 1, Red Blue)
+- Screech (Lv 1)
+- Tackle (Lv 1)
+- Bind (Lv 9)
+- Rock Throw (Lv 13)
+- Harden (Lv 21)
+- Rage (Lv 25)
+- Sandstorm (Lv 33)
+- Slam (Lv 37)
+- Iron Tail (Lv 45)
+- Sand Tomb (Lv 49)
+- Double Edge (Lv 57)
 </div>
 </div>
 
@@ -75,8 +79,7 @@ Height: 8.8 m · Weight: 210.0 kg · Base EXP: 77
 ## Steelix (#208)
 <details class="pokemon-card-container" open>
 <summary>Steelix overview</summary>
-_Iron Snake Pokémon_ • Types: Steel / Ground
-Height: 9.2 m · Weight: 400.0 kg · Base EXP: 179
+_Iron Snake Pokémon_ • Types: Steel / Ground • Egg Groups: Mineral • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -113,21 +116,26 @@ Height: 9.2 m · Weight: 400.0 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 85 |
-| Defense | 200 |
-| Sp. Atk | 55 |
-| Sp. Def | 65 |
-| Speed | 30 |
-| Total | 510 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-high">200</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 
 **Notable Level-Up Moves**
-- Bind (Lv 1, Diamond Pearl)
-- Crunch (Lv 1, Sword Shield)
-- Fire Fang (Lv 1, Diamond Pearl)
-- Harden (Lv 1, Diamond Pearl)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Mud Sport (Lv 1, Diamond Pearl)
+- Screech (Lv 1)
+- Tackle (Lv 1)
+- Bind (Lv 9)
+- Rock Throw (Lv 13)
+- Harden (Lv 21)
+- Rage (Lv 25)
+- Sandstorm (Lv 33)
+- Slam (Lv 37)
+- Iron Tail (Lv 45)
+- Crunch (Lv 49)
+- Double Edge (Lv 57)
 </div>
 </div>
 

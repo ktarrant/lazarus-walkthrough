@@ -1,8 +1,7 @@
 ## Kecleon (#352)
 <details class="pokemon-card-container" open>
 <summary>Kecleon overview</summary>
-_Color Swap Pokémon_ • Types: Normal
-Height: 1.0 m · Weight: 22.0 kg · Base EXP: 154
+_Color Swap Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -31,21 +30,28 @@ Height: 1.0 m · Weight: 22.0 kg · Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 90 |
-| Defense | 70 |
-| Sp. Atk | 60 |
-| Sp. Def | 120 |
-| Speed | 40 |
-| Total | 440 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-high">120</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">440</span> |
 
 **Notable Level-Up Moves**
-- Ancient Power (Lv 1, X Y)
-- Astonish (Lv 1, Ruby Sapphire)
-- Lick (Lv 1, Ruby Sapphire)
-- Scratch (Lv 1, Ruby Sapphire)
-- Synchronoise (Lv 1, X Y)
-- Tail Whip (Lv 1, Ruby Sapphire)
+- Astonish (Lv 1)
+- Lick (Lv 1)
+- Scratch (Lv 1)
+- Tail Whip (Lv 1)
+- Thief (Lv 1)
+- Bind (Lv 4)
+- Feint Attack (Lv 7)
+- Fury Swipes (Lv 12)
+- Psybeam (Lv 17)
+- Screech (Lv 24)
+- Slash (Lv 31)
+- Substitute (Lv 40)
+- Ancient Power (Lv 49)
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Cutiefly (#742)
 <details class="pokemon-card-container" open>
 <summary>Cutiefly overview</summary>
-_Bee Fly Pokémon_ • Types: Bug / Fairy
-Height: 0.1 m · Weight: 0.2 kg · Base EXP: 61
+_Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,13 @@ Height: 0.1 m · Weight: 0.2 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 45 |
-| Defense | 40 |
-| Sp. Atk | 55 |
-| Sp. Def | 40 |
-| Speed | 84 |
-| Total | 304 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Fairy Wind (Lv 1, Sword Shield)
-- Stun Spore (Lv 6, Sword Shield)
-- Struggle Bug (Lv 10, Sun Moon)
-- Sweet Scent (Lv 12, Sword Shield)
-- Silver Wind (Lv 13, Sun Moon)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">84</span> |
+| Total | <span class="stat-value stat-low">304</span> |
 </div>
 </div>
 
@@ -74,8 +65,7 @@ Height: 0.1 m · Weight: 0.2 kg · Base EXP: 61
 ## Ribombee (#743)
 <details class="pokemon-card-container" open>
 <summary>Ribombee overview</summary>
-_Bee Fly Pokémon_ • Types: Bug / Fairy
-Height: 0.2 m · Weight: 0.5 kg · Base EXP: 162
+_Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base EXP: 162
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -113,21 +103,13 @@ Height: 0.2 m · Weight: 0.5 kg · Base EXP: 162
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 55 |
-| Defense | 60 |
-| Sp. Atk | 95 |
-| Sp. Def | 70 |
-| Speed | 124 |
-| Total | 464 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Covet (Lv 1, Sword Shield)
-- Fairy Wind (Lv 1, Sun Moon)
-- Pollen Puff (Lv 1, Sun Moon)
-- Struggle Bug (Lv 1, Sun Moon)
-- Stun Spore (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">124</span> |
+| Total | <span class="stat-value stat-mid">464</span> |
 </div>
 </div>
 

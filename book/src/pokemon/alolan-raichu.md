@@ -10,8 +10,7 @@
 ## Pichu (#172)
 <details class="pokemon-card-container" open>
 <summary>Pichu overview</summary>
-_Tiny Mouse Pokémon_ • Types: Electric
-Height: 0.3 m · Weight: 2.0 kg · Base EXP: 41
+_Tiny Mouse Pokémon_ • Types: Electric • Egg Groups: No Eggs • Base EXP: 41
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,20 @@ Height: 0.3 m · Weight: 2.0 kg · Base EXP: 41
 
 | Stat | Value |
 | --- | --- |
-| HP | 20 |
-| Attack | 40 |
-| Defense | 15 |
-| Sp. Atk | 35 |
-| Sp. Def | 35 |
-| Speed | 60 |
-| Total | 205 |
+| HP | <span class="stat-value stat-low">20</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">15</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">205</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Gold Silver)
-- Tail Whip (Lv 1, Sword Shield)
-- Thunder Shock (Lv 1, Gold Silver)
-- Play Nice (Lv 4, Sword Shield)
-- Quick Attack (Lv 5, Legends Arceus)
-- Sweet Kiss (Lv 8, Sword Shield)
+- Charm (Lv 1)
+- Thunder Shock (Lv 1)
+- Tail Whip (Lv 6)
+- Thunder Wave (Lv 8)
+- Sweet Kiss (Lv 11)
 </div>
 </div>
 
@@ -69,8 +67,7 @@ Height: 0.3 m · Weight: 2.0 kg · Base EXP: 41
 ## Pikachu (#025)
 <details class="pokemon-card-container" open>
 <summary>Pikachu overview</summary>
-_Mouse Pokémon_ • Types: Electric
-Height: 0.4 m · Weight: 6.0 kg · Base EXP: 112
+_Mouse Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Base EXP: 112
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +98,26 @@ Height: 0.4 m · Weight: 6.0 kg · Base EXP: 112
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 55 |
-| Defense | 40 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 90 |
-| Total | 320 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Sword Shield)
-- Growl (Lv 1, Red Blue)
-- Nasty Plot (Lv 1, Sword Shield)
-- Nuzzle (Lv 1, Sword Shield)
-- Play Nice (Lv 1, Sword Shield)
-- Quick Attack (Lv 1, Sword Shield)
+- Growl (Lv 1)
+- Thunder Shock (Lv 1)
+- Tail Whip (Lv 6)
+- Thunder Wave (Lv 8)
+- Quick Attack (Lv 11)
+- Double Team (Lv 15)
+- Slam (Lv 20)
+- Thunderbolt (Lv 26)
+- Agility (Lv 33)
+- Thunder (Lv 41)
+- Light Screen (Lv 50)
 </div>
 </div>
 
@@ -127,8 +129,7 @@ Height: 0.4 m · Weight: 6.0 kg · Base EXP: 112
 ## Raichu Alola (#10100)
 <details class="pokemon-card-container" open>
 <summary>Raichu Alola overview</summary>
-_Mouse Pokémon_ • Types: Electric / Psychic
-Height: 0.7 m · Weight: 21.0 kg · Base EXP: 243
+_Mouse Pokémon_ • Types: Electric / Psychic • Egg Groups: Ground / Fairy • Base EXP: 243
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,21 +163,13 @@ Height: 0.7 m · Weight: 21.0 kg · Base EXP: 243
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 85 |
-| Defense | 50 |
-| Sp. Atk | 95 |
-| Sp. Def | 85 |
-| Speed | 110 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Agility (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Discharge (Lv 1, Sword Shield)
-- Double Team (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Electro Ball (Lv 1, Sword Shield)
-- Encore (Lv 1, Lets Go Pikachu Lets Go Eevee)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 

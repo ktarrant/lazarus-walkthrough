@@ -8,8 +8,7 @@
 ## Rufflet (#627)
 <details class="pokemon-card-container" open>
 <summary>Rufflet overview</summary>
-_Eaglet Pokémon_ • Types: Normal / Flying
-Height: 0.5 m · Weight: 10.5 kg · Base EXP: 70
+_Eaglet Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 70
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.5 m · Weight: 10.5 kg · Base EXP: 70
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 83 |
-| Defense | 50 |
-| Sp. Atk | 37 |
-| Sp. Def | 50 |
-| Speed | 60 |
-| Total | 350 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Peck (Lv 1, Black White)
-- Quick Attack (Lv 1, Legends Arceus)
-- Fury Attack (Lv 5, Black White)
-- Aerial Ace (Lv 6, Legends Arceus)
-- Hone Claws (Lv 6, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">83</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">37</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">350</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.5 m · Weight: 10.5 kg · Base EXP: 70
 ## Braviary (#628)
 <details class="pokemon-card-container" open>
 <summary>Braviary overview</summary>
-_Valiant Pokémon_ • Types: Normal / Flying
-Height: 1.5 m · Weight: 41.0 kg · Base EXP: 179
+_Valiant Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 1.5 m · Weight: 41.0 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 123 |
-| Defense | 75 |
-| Sp. Atk | 57 |
-| Sp. Def | 75 |
-| Speed | 80 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Brave Bird (Lv 1, X Y)
-- Fury Attack (Lv 1, Black White)
-- Hone Claws (Lv 1, Sword Shield)
-- Leer (Lv 1, Black White)
-- Peck (Lv 1, Black White)
-- Sky Attack (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">123</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">57</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

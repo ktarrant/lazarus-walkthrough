@@ -8,8 +8,7 @@
 ## Phanpy (#231)
 <details class="pokemon-card-container" open>
 <summary>Phanpy overview</summary>
-_Long Nose Pokémon_ • Types: Ground
-Height: 0.5 m · Weight: 33.5 kg · Base EXP: 66
+_Long Nose Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,24 @@ Height: 0.5 m · Weight: 33.5 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 60 |
-| Defense | 60 |
-| Sp. Atk | 40 |
-| Sp. Def | 40 |
-| Speed | 40 |
-| Total | 330 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 
 **Notable Level-Up Moves**
-- Defense Curl (Lv 1, Diamond Pearl)
-- Growl (Lv 1, Gold Silver)
-- Odor Sleuth (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Gold Silver)
-- Flail (Lv 6, Diamond Pearl)
-- Rollout (Lv 10, Omega Ruby Alpha Sapphire)
+- Growl (Lv 1)
+- Odor Sleuth (Lv 1)
+- Tackle (Lv 1)
+- Defense Curl (Lv 9)
+- Flail (Lv 17)
+- Take Down (Lv 25)
+- Rollout (Lv 33)
+- Endure (Lv 41)
+- Double Edge (Lv 49)
 </div>
 </div>
 
@@ -69,8 +71,7 @@ Height: 0.5 m · Weight: 33.5 kg · Base EXP: 66
 ## Donphan (#232)
 <details class="pokemon-card-container" open>
 <summary>Donphan overview</summary>
-_Armor Pokémon_ • Types: Ground
-Height: 1.1 m · Weight: 120.0 kg · Base EXP: 175
+_Armor Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +99,24 @@ Height: 1.1 m · Weight: 120.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 120 |
-| Defense | 120 |
-| Sp. Atk | 60 |
-| Sp. Def | 60 |
-| Speed | 50 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-high">120</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Bulldoze (Lv 1, Black White)
-- Charm (Lv 1, Brilliant Diamond And Shining Pearl)
-- Defense Curl (Lv 1, Diamond Pearl)
-- Double Edge (Lv 1, Brilliant Diamond And Shining Pearl)
-- Endure (Lv 1, Brilliant Diamond And Shining Pearl)
-- Fire Fang (Lv 1, Diamond Pearl)
+- Growl (Lv 1)
+- Horn Attack (Lv 1)
+- Odor Sleuth (Lv 1)
+- Defense Curl (Lv 9)
+- Flail (Lv 17)
+- Fury Attack (Lv 25)
+- Rollout (Lv 33)
+- Rapid Spin (Lv 41)
+- Earthquake (Lv 49)
 </div>
 </div>
 

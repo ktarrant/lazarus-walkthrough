@@ -8,8 +8,7 @@
 ## Sizzlipede (#850)
 <details class="pokemon-card-container" open>
 <summary>Sizzlipede overview</summary>
-_Radiator Pokémon_ • Types: Fire / Bug
-Height: 0.7 m · Weight: 1.0 kg · Base EXP: 61
+_Radiator Pokémon_ • Types: Fire / Bug • Egg Groups: Bug • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,13 @@ Height: 0.7 m · Weight: 1.0 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 65 |
-| Defense | 45 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 45 |
-| Total | 305 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Sword Shield)
-- Smokescreen (Lv 1, Sword Shield)
-- Wrap (Lv 5, Sword Shield)
-- Bite (Lv 10, Sword Shield)
-- Flame Wheel (Lv 15, Sword Shield)
-- Bug Bite (Lv 20, Sword Shield)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 </div>
 </div>
 
@@ -73,8 +64,7 @@ Height: 0.7 m · Weight: 1.0 kg · Base EXP: 61
 ## Centiskorch (#851)
 <details class="pokemon-card-container" open>
 <summary>Centiskorch overview</summary>
-_Radiator Pokémon_ • Types: Fire / Bug
-Height: 3.0 m · Weight: 120.0 kg · Base EXP: 184
+_Radiator Pokémon_ • Types: Fire / Bug • Egg Groups: Bug • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,21 +96,13 @@ Height: 3.0 m · Weight: 120.0 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 115 |
-| Defense | 65 |
-| Sp. Atk | 90 |
-| Sp. Def | 90 |
-| Speed | 65 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Sword Shield)
-- Ember (Lv 1, Sword Shield)
-- Inferno (Lv 1, Sword Shield)
-- Smokescreen (Lv 1, Sword Shield)
-- Wrap (Lv 1, Sword Shield)
-- Flame Wheel (Lv 15, Sword Shield)
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Houndour (#228)
 <details class="pokemon-card-container" open>
 <summary>Houndour overview</summary>
-_Dark Pokémon_ • Types: Dark / Fire
-Height: 0.6 m · Weight: 10.8 kg · Base EXP: 66
+_Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,25 @@ Height: 0.6 m · Weight: 10.8 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 60 |
-| Defense | 30 |
-| Sp. Atk | 80 |
-| Sp. Def | 50 |
-| Speed | 65 |
-| Total | 330 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Gold Silver)
-- Leer (Lv 1, Gold Silver)
-- Howl (Lv 4, Diamond Pearl)
-- Roar (Lv 7, Gold Silver)
-- Smog (Lv 8, Black White)
-- Bite (Lv 16, Black White)
+- Ember (Lv 1)
+- Leer (Lv 1)
+- Howl (Lv 7)
+- Smog (Lv 13)
+- Roar (Lv 19)
+- Bite (Lv 25)
+- Odor Sleuth (Lv 31)
+- Feint Attack (Lv 37)
+- Flamethrower (Lv 43)
+- Crunch (Lv 49)
 </div>
 </div>
 
@@ -72,8 +75,7 @@ Height: 0.6 m · Weight: 10.8 kg · Base EXP: 66
 ## Houndoom (#229)
 <details class="pokemon-card-container" open>
 <summary>Houndoom overview</summary>
-_Dark Pokémon_ • Types: Dark / Fire
-Height: 1.4 m · Weight: 35.0 kg · Base EXP: 175
+_Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -111,21 +113,26 @@ Height: 1.4 m · Weight: 35.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 90 |
-| Defense | 50 |
-| Sp. Atk | 110 |
-| Sp. Def | 80 |
-| Speed | 95 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Gold Silver)
-- Howl (Lv 1, Ruby Sapphire)
-- Inferno (Lv 1, X Y)
-- Leer (Lv 1, Gold Silver)
-- Nasty Plot (Lv 1, X Y)
-- Smog (Lv 1, Diamond Pearl)
+- Ember (Lv 1)
+- Howl (Lv 1)
+- Leer (Lv 1)
+- Howl (Lv 7)
+- Smog (Lv 13)
+- Roar (Lv 19)
+- Bite (Lv 27)
+- Odor Sleuth (Lv 35)
+- Feint Attack (Lv 43)
+- Flamethrower (Lv 51)
+- Crunch (Lv 59)
 </div>
 </div>
 

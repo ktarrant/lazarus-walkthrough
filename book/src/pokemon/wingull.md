@@ -8,8 +8,7 @@
 ## Wingull (#278)
 <details class="pokemon-card-container" open>
 <summary>Wingull overview</summary>
-_Seagull Pokémon_ • Types: Water / Flying
-Height: 0.6 m · Weight: 9.5 kg · Base EXP: 54
+_Seagull Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying • Base EXP: 54
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,23 @@ Height: 0.6 m · Weight: 9.5 kg · Base EXP: 54
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 30 |
-| Defense | 30 |
-| Sp. Atk | 55 |
-| Sp. Def | 30 |
-| Speed | 85 |
-| Total | 270 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-low">270</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Ruby Sapphire)
-- Water Gun (Lv 1, Ruby Sapphire)
-- Quick Attack (Lv 5, Sword Shield)
-- Supersonic (Lv 5, Omega Ruby Alpha Sapphire)
-- Wing Attack (Lv 8, Omega Ruby Alpha Sapphire)
-- Mist (Lv 12, Omega Ruby Alpha Sapphire)
+- Growl (Lv 1)
+- Water Gun (Lv 1)
+- Supersonic (Lv 7)
+- Wing Attack (Lv 13)
+- Mist (Lv 21)
+- Quick Attack (Lv 31)
+- Pursuit (Lv 43)
+- Agility (Lv 55)
 </div>
 </div>
 
@@ -75,8 +76,7 @@ Height: 0.6 m · Weight: 9.5 kg · Base EXP: 54
 ## Pelipper (#279)
 <details class="pokemon-card-container" open>
 <summary>Pelipper overview</summary>
-_Water Bird Pokémon_ • Types: Water / Flying
-Height: 1.2 m · Weight: 28.0 kg · Base EXP: 154
+_Water Bird Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying • Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -110,21 +110,28 @@ Height: 1.2 m · Weight: 28.0 kg · Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 50 |
-| Defense | 100 |
-| Sp. Atk | 95 |
-| Sp. Def | 70 |
-| Speed | 65 |
-| Total | 440 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">440</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Sword Shield)
-- Air Slash (Lv 1, Sword Shield)
-- Growl (Lv 1, Ruby Sapphire)
-- Hurricane (Lv 1, Omega Ruby Alpha Sapphire)
-- Hydro Pump (Lv 1, X Y)
-- Protect (Lv 1, Sun Moon)
+- Growl (Lv 1)
+- Water Gun (Lv 1)
+- Water Sport (Lv 1)
+- Wing Attack (Lv 1)
+- Water Gun (Lv 3)
+- Supersonic (Lv 7)
+- Wing Attack (Lv 13)
+- Mist (Lv 21)
+- Protect (Lv 25)
+- Stockpile (Lv 33)
+- Swallow (Lv 33)
+- Spit Up (Lv 47)
+- Hydro Pump (Lv 61)
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Woobat (#527)
 <details class="pokemon-card-container" open>
 <summary>Woobat overview</summary>
-_Bat Pokémon_ • Types: Psychic / Flying
-Height: 0.4 m · Weight: 2.1 kg · Base EXP: 65
+_Bat Pokémon_ • Types: Psychic / Flying • Egg Groups: Ground / Flying • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.4 m · Weight: 2.1 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 45 |
-| Defense | 43 |
-| Sp. Atk | 55 |
-| Sp. Def | 43 |
-| Speed | 72 |
-| Total | 323 |
-
-**Notable Level-Up Moves**
-- Attract (Lv 1, Sword Shield)
-- Confusion (Lv 1, Black White)
-- Gust (Lv 1, Sword Shield)
-- Odor Sleuth (Lv 4, Black White)
-- Endeavor (Lv 10, Sword Shield)
-- Assurance (Lv 12, Black White)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">43</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">43</span> |
+| Speed | <span class="stat-value stat-mid">72</span> |
+| Total | <span class="stat-value stat-mid">323</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.4 m · Weight: 2.1 kg · Base EXP: 65
 ## Swoobat (#528)
 <details class="pokemon-card-container" open>
 <summary>Swoobat overview</summary>
-_Courting Pokémon_ • Types: Psychic / Flying
-Height: 0.9 m · Weight: 10.5 kg · Base EXP: 149
+_Courting Pokémon_ • Types: Psychic / Flying • Egg Groups: Ground / Flying • Base EXP: 149
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 0.9 m · Weight: 10.5 kg · Base EXP: 149
 
 | Stat | Value |
 | --- | --- |
-| HP | 67 |
-| Attack | 57 |
-| Defense | 55 |
-| Sp. Atk | 77 |
-| Sp. Def | 55 |
-| Speed | 114 |
-| Total | 425 |
-
-**Notable Level-Up Moves**
-- Assurance (Lv 1, Black White)
-- Attract (Lv 1, Sword Shield)
-- Confusion (Lv 1, Black White)
-- Endeavor (Lv 1, Sword Shield)
-- Gust (Lv 1, Black White)
-- Odor Sleuth (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">67</span> |
+| Attack | <span class="stat-value stat-mid">57</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-mid">77</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-high">114</span> |
+| Total | <span class="stat-value stat-mid">425</span> |
 </div>
 </div>
 

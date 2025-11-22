@@ -8,8 +8,7 @@
 ## Stantler (#234)
 <details class="pokemon-card-container" open>
 <summary>Stantler overview</summary>
-_Big Horn Pokémon_ • Types: Normal
-Height: 1.4 m · Weight: 71.2 kg · Base EXP: 163
+_Big Horn Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 163
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,24 @@ Height: 1.4 m · Weight: 71.2 kg · Base EXP: 163
 
 | Stat | Value |
 | --- | --- |
-| HP | 73 |
-| Attack | 95 |
-| Defense | 62 |
-| Sp. Atk | 85 |
-| Sp. Def | 65 |
-| Speed | 85 |
-| Total | 465 |
+| HP | <span class="stat-value stat-mid">73</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">62</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">465</span> |
 
 **Notable Level-Up Moves**
-- Me First (Lv 1, X Y)
-- Tackle (Lv 1, Gold Silver)
-- Leer (Lv 3, Diamond Pearl)
-- Confusion (Lv 5, Legends Arceus)
-- Astonish (Lv 7, Diamond Pearl)
-- Hypnosis (Lv 9, Legends Arceus)
+- Tackle (Lv 1)
+- Leer (Lv 7)
+- Astonish (Lv 13)
+- Hypnosis (Lv 19)
+- Stomp (Lv 25)
+- Sand Attack (Lv 31)
+- Take Down (Lv 37)
+- Confuse Ray (Lv 43)
+- Calm Mind (Lv 49)
 </div>
 </div>
 
@@ -65,8 +67,7 @@ Height: 1.4 m · Weight: 71.2 kg · Base EXP: 163
 ## Wyrdeer (#899)
 <details class="pokemon-card-container" open>
 <summary>Wyrdeer overview</summary>
-_Big Horn Pokémon_ • Types: Normal / Psychic
-Height: 1.8 m · Weight: 95.1 kg · Base EXP: 263
+_Big Horn Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 263
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -93,21 +94,13 @@ Height: 1.8 m · Weight: 95.1 kg · Base EXP: 263
 
 | Stat | Value |
 | --- | --- |
-| HP | 103 |
-| Attack | 105 |
-| Defense | 72 |
-| Sp. Atk | 105 |
-| Sp. Def | 75 |
-| Speed | 65 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Tackle (Lv 1, Legends Arceus)
-- Leer (Lv 3, Scarlet Violet)
-- Confusion (Lv 5, Legends Arceus)
-- Astonish (Lv 7, Scarlet Violet)
-- Hypnosis (Lv 9, Legends Arceus)
-- Stomp (Lv 13, Scarlet Violet)
+| HP | <span class="stat-value stat-high">103</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">72</span> |
+| Sp. Atk | <span class="stat-value stat-high">105</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 

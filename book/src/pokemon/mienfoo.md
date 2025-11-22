@@ -8,8 +8,7 @@
 ## Mienfoo (#619)
 <details class="pokemon-card-container" open>
 <summary>Mienfoo overview</summary>
-_Martial Arts Pokémon_ • Types: Fighting
-Height: 0.9 m · Weight: 20.0 kg · Base EXP: 70
+_Martial Arts Pokémon_ • Types: Fighting • Egg Groups: Ground / Humanshape • Base EXP: 70
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.9 m · Weight: 20.0 kg · Base EXP: 70
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 85 |
-| Defense | 50 |
-| Sp. Atk | 55 |
-| Sp. Def | 50 |
-| Speed | 65 |
-| Total | 350 |
-
-**Notable Level-Up Moves**
-- Detect (Lv 1, Sword Shield)
-- Pound (Lv 1, Black White)
-- Fake Out (Lv 5, Sword Shield)
-- Meditate (Lv 5, Black White)
-- Reversal (Lv 10, Sword Shield)
-- Fury Swipes (Lv 15, Sword Shield)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">350</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.9 m · Weight: 20.0 kg · Base EXP: 70
 ## Mienshao (#620)
 <details class="pokemon-card-container" open>
 <summary>Mienshao overview</summary>
-_Martial Arts Pokémon_ • Types: Fighting
-Height: 1.4 m · Weight: 35.5 kg · Base EXP: 179
+_Martial Arts Pokémon_ • Types: Fighting • Egg Groups: Ground / Humanshape • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +88,13 @@ Height: 1.4 m · Weight: 35.5 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 125 |
-| Defense | 60 |
-| Sp. Atk | 95 |
-| Sp. Def | 60 |
-| Speed | 105 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Aura Sphere (Lv 1, X Y)
-- Detect (Lv 1, Black White)
-- Fake Out (Lv 1, Black White)
-- Meditate (Lv 1, Black White)
-- Pound (Lv 1, Black White)
-- Quick Guard (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">105</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Helioptile (#694)
 <details class="pokemon-card-container" open>
 <summary>Helioptile overview</summary>
-_Generator Pokémon_ • Types: Electric / Normal
-Height: 0.5 m · Weight: 6.0 kg · Base EXP: 58
+_Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Dragon • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.5 m · Weight: 6.0 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 44 |
-| Attack | 38 |
-| Defense | 33 |
-| Sp. Atk | 61 |
-| Sp. Def | 43 |
-| Speed | 70 |
-| Total | 289 |
-
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1, Sword Shield)
-- Pound (Lv 1, X Y)
-- Tail Whip (Lv 1, X Y)
-- Thunder Shock (Lv 6, X Y)
-- Charge (Lv 11, X Y)
-- Quick Attack (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-low">44</span> |
+| Attack | <span class="stat-value stat-low">38</span> |
+| Defense | <span class="stat-value stat-low">33</span> |
+| Sp. Atk | <span class="stat-value stat-mid">61</span> |
+| Sp. Def | <span class="stat-value stat-low">43</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-low">289</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.5 m · Weight: 6.0 kg · Base EXP: 58
 ## Heliolisk (#695)
 <details class="pokemon-card-container" open>
 <summary>Heliolisk overview</summary>
-_Generator Pokémon_ • Types: Electric / Normal
-Height: 1.0 m · Weight: 21.0 kg · Base EXP: 168
+_Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Dragon • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,21 +90,13 @@ Height: 1.0 m · Weight: 21.0 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 62 |
-| Attack | 55 |
-| Defense | 52 |
-| Sp. Atk | 109 |
-| Sp. Def | 94 |
-| Speed | 109 |
-| Total | 481 |
-
-**Notable Level-Up Moves**
-- Bulldoze (Lv 1, Sword Shield)
-- Charge (Lv 1, X Y)
-- Discharge (Lv 1, Sword Shield)
-- Eerie Impulse (Lv 1, X Y)
-- Electrify (Lv 1, X Y)
-- Mud Slap (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">62</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">52</span> |
+| Sp. Atk | <span class="stat-value stat-high">109</span> |
+| Sp. Def | <span class="stat-value stat-high">94</span> |
+| Speed | <span class="stat-value stat-high">109</span> |
+| Total | <span class="stat-value stat-mid">481</span> |
 </div>
 </div>
 

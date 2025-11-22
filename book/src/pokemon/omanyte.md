@@ -8,8 +8,7 @@
 ## Omanyte (#138)
 <details class="pokemon-card-container" open>
 <summary>Omanyte overview</summary>
-_Spiral Pokémon_ • Types: Rock / Water
-Height: 0.4 m · Weight: 7.5 kg · Base EXP: 71
+_Spiral Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Base EXP: 71
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,25 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 71
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 40 |
-| Defense | 100 |
-| Sp. Atk | 90 |
-| Sp. Def | 55 |
-| Speed | 35 |
-| Total | 355 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
-- Bind (Lv 1, Sword Shield)
-- Constrict (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Red Blue)
-- Withdraw (Lv 1, Red Blue)
-- Rollout (Lv 5, Sword Shield)
-- Bite (Lv 7, Diamond Pearl)
+- Constrict (Lv 1)
+- Withdraw (Lv 1)
+- Bite (Lv 13)
+- Water Gun (Lv 19)
+- Mud Shot (Lv 25)
+- Leer (Lv 31)
+- Protect (Lv 37)
+- Tickle (Lv 43)
+- Ancient Power (Lv 49)
+- Hydro Pump (Lv 55)
 </div>
 </div>
 
@@ -71,8 +74,7 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 71
 ## Omastar (#139)
 <details class="pokemon-card-container" open>
 <summary>Omastar overview</summary>
-_Spiral Pokémon_ • Types: Rock / Water
-Height: 1.0 m · Weight: 35.0 kg · Base EXP: 173
+_Spiral Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +106,27 @@ Height: 1.0 m · Weight: 35.0 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 60 |
-| Defense | 125 |
-| Sp. Atk | 115 |
-| Sp. Def | 70 |
-| Speed | 55 |
-| Total | 495 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-high">125</span> |
+| Sp. Atk | <span class="stat-value stat-high">115</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 
 **Notable Level-Up Moves**
-- Bide (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bind (Lv 1, Sword Shield)
-- Bite (Lv 1, Gold Silver)
-- Constrict (Lv 1, Gold Silver)
-- Crunch (Lv 1, Sword Shield)
-- Horn Attack (Lv 1, Red Blue)
+- Bite (Lv 1)
+- Constrict (Lv 1)
+- Withdraw (Lv 1)
+- Bite (Lv 13)
+- Water Gun (Lv 19)
+- Mud Shot (Lv 25)
+- Leer (Lv 31)
+- Protect (Lv 37)
+- Spike Cannon (Lv 40)
+- Tickle (Lv 46)
+- Ancient Power (Lv 55)
+- Hydro Pump (Lv 65)
 </div>
 </div>
 

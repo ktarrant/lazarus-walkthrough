@@ -8,8 +8,7 @@
 ## Grimer (#088)
 <details class="pokemon-card-container" open>
 <summary>Grimer overview</summary>
-_Sludge Pokémon_ • Types: Poison
-Height: 0.9 m · Weight: 30.0 kg · Base EXP: 65
+_Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,25 @@ Height: 0.9 m · Weight: 30.0 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 80 |
-| Defense | 50 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 25 |
-| Total | 325 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">25</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 
 **Notable Level-Up Moves**
-- Disable (Lv 1, Red Blue)
-- Poison Gas (Lv 1, Gold Silver)
-- Pound (Lv 1, Red Blue)
-- Harden (Lv 4, Ruby Sapphire)
-- Mud Slap (Lv 7, Diamond Pearl)
-- Minimize (Lv 12, Lets Go Pikachu Lets Go Eevee)
+- Poison Gas (Lv 1)
+- Pound (Lv 1)
+- Harden (Lv 4)
+- Disable (Lv 8)
+- Sludge (Lv 13)
+- Minimize (Lv 19)
+- Screech (Lv 26)
+- Acid Armor (Lv 34)
+- Sludge Bomb (Lv 43)
+- Memento (Lv 53)
 </div>
 </div>
 
@@ -69,8 +72,7 @@ Height: 0.9 m · Weight: 30.0 kg · Base EXP: 65
 ## Muk (#089)
 <details class="pokemon-card-container" open>
 <summary>Muk overview</summary>
-_Sludge Pokémon_ • Types: Poison
-Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
+_Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +105,26 @@ Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 105 |
-| Attack | 105 |
-| Defense | 75 |
-| Sp. Atk | 65 |
-| Sp. Def | 100 |
-| Speed | 50 |
-| Total | 500 |
+| HP | <span class="stat-value stat-high">105</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Disable (Lv 1, Red Blue)
-- Harden (Lv 1, Gold Silver)
-- Haze (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Minimize (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Moonblast (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Mud Slap (Lv 1, Diamond Pearl)
+- Harden (Lv 1)
+- Poison Gas (Lv 1)
+- Pound (Lv 1)
+- Harden (Lv 4)
+- Disable (Lv 8)
+- Sludge (Lv 13)
+- Minimize (Lv 19)
+- Screech (Lv 26)
+- Acid Armor (Lv 34)
+- Sludge Bomb (Lv 47)
+- Memento (Lv 61)
 </div>
 </div>
 

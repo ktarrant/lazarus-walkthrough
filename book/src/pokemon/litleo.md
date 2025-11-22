@@ -8,8 +8,7 @@
 ## Litleo (#667)
 <details class="pokemon-card-container" open>
 <summary>Litleo overview</summary>
-_Lion Cub Pokémon_ • Types: Fire / Normal
-Height: 0.6 m · Weight: 13.5 kg · Base EXP: 74
+_Lion Cub Pokémon_ • Types: Fire / Normal • Egg Groups: Ground • Base EXP: 74
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,13 @@ Height: 0.6 m · Weight: 13.5 kg · Base EXP: 74
 
 | Stat | Value |
 | --- | --- |
-| HP | 62 |
-| Attack | 50 |
-| Defense | 58 |
-| Sp. Atk | 73 |
-| Sp. Def | 54 |
-| Speed | 72 |
-| Total | 369 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Ember (Lv 5, X Y)
-- Work Up (Lv 8, X Y)
-- Headbutt (Lv 11, X Y)
-- Noble Roar (Lv 15, X Y)
+| HP | <span class="stat-value stat-mid">62</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-mid">58</span> |
+| Sp. Atk | <span class="stat-value stat-mid">73</span> |
+| Sp. Def | <span class="stat-value stat-mid">54</span> |
+| Speed | <span class="stat-value stat-mid">72</span> |
+| Total | <span class="stat-value stat-mid">369</span> |
 </div>
 </div>
 
@@ -74,8 +65,7 @@ Height: 0.6 m · Weight: 13.5 kg · Base EXP: 74
 ## Pyroar (#668)
 <details class="pokemon-card-container" open>
 <summary>Pyroar overview</summary>
-_Royal Pokémon_ • Types: Fire / Normal
-Height: 1.5 m · Weight: 81.5 kg · Base EXP: 177
+_Royal Pokémon_ • Types: Fire / Normal • Egg Groups: Ground • Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +99,13 @@ Height: 1.5 m · Weight: 81.5 kg · Base EXP: 177
 
 | Stat | Value |
 | --- | --- |
-| HP | 86 |
-| Attack | 68 |
-| Defense | 72 |
-| Sp. Atk | 109 |
-| Sp. Def | 66 |
-| Speed | 106 |
-| Total | 507 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Sun Moon)
-- Hyper Beam (Lv 1, X Y)
-- Leer (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Work Up (Lv 1, Sun Moon)
-- Headbutt (Lv 11, X Y)
+| HP | <span class="stat-value stat-mid">86</span> |
+| Attack | <span class="stat-value stat-mid">68</span> |
+| Defense | <span class="stat-value stat-mid">72</span> |
+| Sp. Atk | <span class="stat-value stat-high">109</span> |
+| Sp. Def | <span class="stat-value stat-mid">66</span> |
+| Speed | <span class="stat-value stat-high">106</span> |
+| Total | <span class="stat-value stat-mid">507</span> |
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Murkrow (#198)
 <details class="pokemon-card-container" open>
 <summary>Murkrow overview</summary>
-_Darkness Pokémon_ • Types: Dark / Flying
-Height: 0.5 m · Weight: 2.1 kg · Base EXP: 81
+_Darkness Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP: 81
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,23 @@ Height: 0.5 m · Weight: 2.1 kg · Base EXP: 81
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 85 |
-| Defense | 42 |
-| Sp. Atk | 85 |
-| Sp. Def | 42 |
-| Speed | 91 |
-| Total | 405 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">42</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-low">42</span> |
+| Speed | <span class="stat-value stat-high">91</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Diamond Pearl)
-- Gust (Lv 1, Legends Arceus)
-- Peck (Lv 1, Gold Silver)
-- Pursuit (Lv 5, Diamond Pearl)
-- Snarl (Lv 6, Legends Arceus)
-- Haze (Lv 11, Diamond Pearl)
+- Peck (Lv 1)
+- Astonish (Lv 9)
+- Pursuit (Lv 14)
+- Haze (Lv 22)
+- Night Shade (Lv 27)
+- Feint Attack (Lv 35)
+- Taunt (Lv 40)
+- Mean Look (Lv 48)
 </div>
 </div>
 
@@ -72,8 +73,7 @@ Height: 0.5 m · Weight: 2.1 kg · Base EXP: 81
 ## Honchkrow (#430)
 <details class="pokemon-card-container" open>
 <summary>Honchkrow overview</summary>
-_Big Boss Pokémon_ • Types: Dark / Flying
-Height: 0.9 m · Weight: 27.3 kg · Base EXP: 177
+_Big Boss Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +105,13 @@ Height: 0.9 m · Weight: 27.3 kg · Base EXP: 177
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 125 |
-| Defense | 52 |
-| Sp. Atk | 105 |
-| Sp. Def | 52 |
-| Speed | 71 |
-| Total | 505 |
-
-**Notable Level-Up Moves**
-- Air Cutter (Lv 1, Brilliant Diamond And Shining Pearl)
-- Assurance (Lv 1, Brilliant Diamond And Shining Pearl)
-- Astonish (Lv 1, Diamond Pearl)
-- Gust (Lv 1, Brilliant Diamond And Shining Pearl)
-- Haze (Lv 1, Diamond Pearl)
-- Mean Look (Lv 1, Brilliant Diamond And Shining Pearl)
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">52</span> |
+| Sp. Atk | <span class="stat-value stat-high">105</span> |
+| Sp. Def | <span class="stat-value stat-mid">52</span> |
+| Speed | <span class="stat-value stat-mid">71</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
 </div>
 </div>
 

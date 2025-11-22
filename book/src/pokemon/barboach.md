@@ -8,8 +8,7 @@
 ## Barboach (#339)
 <details class="pokemon-card-container" open>
 <summary>Barboach overview</summary>
-_Whiskers Pokémon_ • Types: Water / Ground
-Height: 0.4 m · Weight: 1.9 kg · Base EXP: 58
+_Whiskers Pokémon_ • Types: Water / Ground • Egg Groups: Water2 • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,26 @@ Height: 0.4 m · Weight: 1.9 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 48 |
-| Defense | 43 |
-| Sp. Atk | 46 |
-| Sp. Def | 41 |
-| Speed | 60 |
-| Total | 288 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">48</span> |
+| Defense | <span class="stat-value stat-low">43</span> |
+| Sp. Atk | <span class="stat-value stat-low">46</span> |
+| Sp. Def | <span class="stat-value stat-low">41</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">288</span> |
 
 **Notable Level-Up Moves**
-- Mud Slap (Lv 1, Ruby Sapphire)
-- Water Gun (Lv 1, Sword Shield)
-- Mud Sport (Lv 6, Ruby Sapphire)
-- Rest (Lv 6, Sword Shield)
-- Snore (Lv 6, Sword Shield)
-- Water Pulse (Lv 6, Legends Arceus)
+- Mud Slap (Lv 1)
+- Mud Sport (Lv 6)
+- Water Sport (Lv 6)
+- Water Gun (Lv 11)
+- Magnitude (Lv 16)
+- Amnesia (Lv 21)
+- Rest (Lv 26)
+- Snore (Lv 26)
+- Earthquake (Lv 31)
+- Future Sight (Lv 36)
+- Fissure (Lv 41)
 </div>
 </div>
 
@@ -71,8 +75,7 @@ Height: 0.4 m · Weight: 1.9 kg · Base EXP: 58
 ## Whiscash (#340)
 <details class="pokemon-card-container" open>
 <summary>Whiscash overview</summary>
-_Whiskers Pokémon_ • Types: Water / Ground
-Height: 0.9 m · Weight: 23.6 kg · Base EXP: 164
+_Whiskers Pokémon_ • Types: Water / Ground • Egg Groups: Water2 • Base EXP: 164
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +107,29 @@ Height: 0.9 m · Weight: 23.6 kg · Base EXP: 164
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 78 |
-| Defense | 73 |
-| Sp. Atk | 76 |
-| Sp. Def | 71 |
-| Speed | 60 |
-| Total | 468 |
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-mid">78</span> |
+| Defense | <span class="stat-value stat-mid">73</span> |
+| Sp. Atk | <span class="stat-value stat-mid">76</span> |
+| Sp. Def | <span class="stat-value stat-mid">71</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">468</span> |
 
 **Notable Level-Up Moves**
-- Belch (Lv 1, Sun Moon)
-- Mud Slap (Lv 1, Ruby Sapphire)
-- Mud Sport (Lv 1, Ruby Sapphire)
-- Rest (Lv 1, Sword Shield)
-- Snore (Lv 1, Sword Shield)
-- Thrash (Lv 1, Sun Moon)
+- Mud Slap (Lv 1)
+- Mud Sport (Lv 1)
+- Tickle (Lv 1)
+- Water Sport (Lv 1)
+- Mud Sport (Lv 6)
+- Water Sport (Lv 6)
+- Water Gun (Lv 11)
+- Magnitude (Lv 16)
+- Amnesia (Lv 21)
+- Rest (Lv 26)
+- Snore (Lv 26)
+- Earthquake (Lv 36)
+- Future Sight (Lv 46)
+- Fissure (Lv 56)
 </div>
 </div>
 

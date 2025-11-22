@@ -14,8 +14,7 @@
 ## Wurmple (#265)
 <details class="pokemon-card-container" open>
 <summary>Wurmple overview</summary>
-_Worm Pokémon_ • Types: Bug
-Height: 0.3 m · Weight: 3.6 kg · Base EXP: 56
+_Worm Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -50,19 +49,18 @@ Height: 0.3 m · Weight: 3.6 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 45 |
-| Defense | 35 |
-| Sp. Atk | 20 |
-| Sp. Def | 30 |
-| Speed | 20 |
-| Total | 195 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">20</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">195</span> |
 
 **Notable Level-Up Moves**
-- Poison Sting (Lv 1, Legends Arceus)
-- String Shot (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Ruby Sapphire)
-- Bug Bite (Lv 15, Platinum)
+- String Shot (Lv 1)
+- Tackle (Lv 1)
+- Poison Sting (Lv 5)
 </div>
 </div>
 
@@ -74,8 +72,7 @@ Height: 0.3 m · Weight: 3.6 kg · Base EXP: 56
 ## Silcoon (#266)
 <details class="pokemon-card-container" open>
 <summary>Silcoon overview</summary>
-_Cocoon Pokémon_ • Types: Bug
-Height: 0.6 m · Weight: 10.0 kg · Base EXP: 72
+_Cocoon Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 72
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,18 +103,17 @@ Height: 0.6 m · Weight: 10.0 kg · Base EXP: 72
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 35 |
-| Defense | 55 |
-| Sp. Atk | 25 |
-| Sp. Def | 25 |
-| Speed | 15 |
-| Total | 205 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-low">15</span> |
+| Total | <span class="stat-value stat-low">205</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Ruby Sapphire)
-- Poison Sting (Lv 1, Legends Arceus)
-- Tackle (Lv 6, Legends Arceus)
+- Harden (Lv 1)
+- Harden (Lv 7)
 </div>
 </div>
 
@@ -129,8 +125,7 @@ Height: 0.6 m · Weight: 10.0 kg · Base EXP: 72
 ## Beautifly (#267)
 <details class="pokemon-card-container" open>
 <summary>Beautifly overview</summary>
-_Butterfly Pokémon_ • Types: Bug / Flying
-Height: 1.0 m · Weight: 28.4 kg · Base EXP: 178
+_Butterfly Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 178
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -166,21 +161,25 @@ Height: 1.0 m · Weight: 28.4 kg · Base EXP: 178
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 70 |
-| Defense | 50 |
-| Sp. Atk | 100 |
-| Sp. Def | 50 |
-| Speed | 65 |
-| Total | 395 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">395</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Ruby Sapphire)
-- Bug Bite (Lv 1, Brilliant Diamond And Shining Pearl)
-- Gust (Lv 1, Omega Ruby Alpha Sapphire)
-- Harden (Lv 1, Brilliant Diamond And Shining Pearl)
-- Poison Sting (Lv 1, Brilliant Diamond And Shining Pearl)
-- String Shot (Lv 1, Brilliant Diamond And Shining Pearl)
+- Absorb (Lv 1)
+- Absorb (Lv 10)
+- Gust (Lv 13)
+- Stun Spore (Lv 17)
+- Morning Sun (Lv 20)
+- Mega Drain (Lv 24)
+- Whirlwind (Lv 27)
+- Attract (Lv 31)
+- Silver Wind (Lv 34)
+- Giga Drain (Lv 38)
 </div>
 </div>
 
@@ -192,8 +191,7 @@ Height: 1.0 m · Weight: 28.4 kg · Base EXP: 178
 ## Cascoon (#268)
 <details class="pokemon-card-container" open>
 <summary>Cascoon overview</summary>
-_Cocoon Pokémon_ • Types: Bug
-Height: 0.7 m · Weight: 11.5 kg · Base EXP: 72
+_Cocoon Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 72
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -224,18 +222,17 @@ Height: 0.7 m · Weight: 11.5 kg · Base EXP: 72
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 35 |
-| Defense | 55 |
-| Sp. Atk | 25 |
-| Sp. Def | 25 |
-| Speed | 15 |
-| Total | 205 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-low">15</span> |
+| Total | <span class="stat-value stat-low">205</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Ruby Sapphire)
-- Poison Sting (Lv 1, Legends Arceus)
-- Tackle (Lv 6, Legends Arceus)
+- Harden (Lv 1)
+- Harden (Lv 7)
 </div>
 </div>
 
@@ -247,8 +244,7 @@ Height: 0.7 m · Weight: 11.5 kg · Base EXP: 72
 ## Dustox (#269)
 <details class="pokemon-card-container" open>
 <summary>Dustox overview</summary>
-_Poison Moth Pokémon_ • Types: Bug / Poison
-Height: 1.2 m · Weight: 31.6 kg · Base EXP: 173
+_Poison Moth Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -284,21 +280,25 @@ Height: 1.2 m · Weight: 31.6 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 50 |
-| Defense | 70 |
-| Sp. Atk | 50 |
-| Sp. Def | 90 |
-| Speed | 65 |
-| Total | 385 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">385</span> |
 
 **Notable Level-Up Moves**
-- Bug Bite (Lv 1, Brilliant Diamond And Shining Pearl)
-- Confusion (Lv 1, Ruby Sapphire)
-- Gust (Lv 1, Omega Ruby Alpha Sapphire)
-- Harden (Lv 1, Brilliant Diamond And Shining Pearl)
-- Poison Sting (Lv 1, Brilliant Diamond And Shining Pearl)
-- String Shot (Lv 1, Brilliant Diamond And Shining Pearl)
+- Confusion (Lv 1)
+- Confusion (Lv 10)
+- Gust (Lv 13)
+- Protect (Lv 17)
+- Moonlight (Lv 20)
+- Psybeam (Lv 24)
+- Whirlwind (Lv 27)
+- Light Screen (Lv 31)
+- Silver Wind (Lv 34)
+- Toxic (Lv 38)
 </div>
 </div>
 

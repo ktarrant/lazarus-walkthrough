@@ -1,8 +1,7 @@
 ## Mimikyu Disguised (#778)
 <details class="pokemon-card-container" open>
 <summary>Mimikyu Disguised overview</summary>
-_Disguise Pokémon_ • Types: Ghost / Fairy
-Height: 0.2 m · Weight: 0.7 kg · Base EXP: 167
+_Disguise Pokémon_ • Types: Ghost / Fairy • Egg Groups: Indeterminate • Base EXP: 167
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,21 +28,13 @@ Height: 0.2 m · Weight: 0.7 kg · Base EXP: 167
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 90 |
-| Defense | 80 |
-| Sp. Atk | 50 |
-| Sp. Def | 105 |
-| Speed | 96 |
-| Total | 476 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sun Moon)
-- Copycat (Lv 1, Sun Moon)
-- Scratch (Lv 1, Sun Moon)
-- Splash (Lv 1, Sun Moon)
-- Wood Hammer (Lv 1, Sun Moon)
-- Double Team (Lv 5, Sun Moon)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-high">105</span> |
+| Speed | <span class="stat-value stat-high">96</span> |
+| Total | <span class="stat-value stat-mid">476</span> |
 </div>
 </div>
 

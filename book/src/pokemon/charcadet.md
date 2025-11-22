@@ -10,8 +10,7 @@
 ## Charcadet (#935)
 <details class="pokemon-card-container" open>
 <summary>Charcadet overview</summary>
-_Fire Child Pokémon_ • Types: Fire
-Height: 0.6 m · Weight: 10.5 kg · Base EXP: 51
+_Fire Child Pokémon_ • Types: Fire • Egg Groups: Humanshape • Base EXP: 51
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,13 @@ Height: 0.6 m · Weight: 10.5 kg · Base EXP: 51
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 50 |
-| Defense | 40 |
-| Sp. Atk | 50 |
-| Sp. Def | 40 |
-| Speed | 35 |
-| Total | 255 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Ember (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Clear Smog (Lv 8, Scarlet Violet)
-- Fire Spin (Lv 12, Scarlet Violet)
-- Will O Wisp (Lv 16, Scarlet Violet)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">255</span> |
 </div>
 </div>
 
@@ -74,8 +65,7 @@ Height: 0.6 m · Weight: 10.5 kg · Base EXP: 51
 ## Armarouge (#936)
 <details class="pokemon-card-container" open>
 <summary>Armarouge overview</summary>
-_Fire Warrior Pokémon_ • Types: Fire / Psychic
-Height: 1.5 m · Weight: 85.0 kg · Base EXP: 263
+_Fire Warrior Pokémon_ • Types: Fire / Psychic • Egg Groups: Humanshape • Base EXP: 263
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -113,21 +103,13 @@ Height: 1.5 m · Weight: 85.0 kg · Base EXP: 263
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 60 |
-| Defense | 100 |
-| Sp. Atk | 125 |
-| Sp. Def | 80 |
-| Speed | 75 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Ember (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Mystical Fire (Lv 1, Scarlet Violet)
-- Wide Guard (Lv 1, Scarlet Violet)
-- Clear Smog (Lv 8, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-high">125</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 
@@ -139,8 +121,7 @@ Height: 1.5 m · Weight: 85.0 kg · Base EXP: 263
 ## Ceruledge (#937)
 <details class="pokemon-card-container" open>
 <summary>Ceruledge overview</summary>
-_Fire Blades Pokémon_ • Types: Fire / Ghost
-Height: 1.6 m · Weight: 62.0 kg · Base EXP: 263
+_Fire Blades Pokémon_ • Types: Fire / Ghost • Egg Groups: Humanshape • Base EXP: 263
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -180,21 +161,13 @@ Height: 1.6 m · Weight: 62.0 kg · Base EXP: 263
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 125 |
-| Defense | 80 |
-| Sp. Atk | 60 |
-| Sp. Def | 100 |
-| Speed | 85 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Ember (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Clear Smog (Lv 8, Scarlet Violet)
-- Fire Spin (Lv 12, Scarlet Violet)
-- Will O Wisp (Lv 16, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 

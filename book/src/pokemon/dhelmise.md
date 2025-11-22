@@ -1,8 +1,7 @@
 ## Dhelmise (#781)
 <details class="pokemon-card-container" open>
 <summary>Dhelmise overview</summary>
-_Sea Creeper Pokémon_ • Types: Ghost / Grass
-Height: 3.9 m · Weight: 210.0 kg · Base EXP: 181
+_Sea Creeper Pokémon_ • Types: Ghost / Grass • Egg Groups: Mineral • Base EXP: 181
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,13 @@ Height: 3.9 m · Weight: 210.0 kg · Base EXP: 181
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 131 |
-| Defense | 100 |
-| Sp. Atk | 86 |
-| Sp. Def | 90 |
-| Speed | 40 |
-| Total | 517 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Astonish (Lv 1, Sun Moon)
-- Growth (Lv 1, Sun Moon)
-- Rapid Spin (Lv 1, Sun Moon)
-- Switcheroo (Lv 1, Sun Moon)
-- Mega Drain (Lv 5, Sun Moon)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">131</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">86</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">517</span> |
 </div>
 </div>
 

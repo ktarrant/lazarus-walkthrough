@@ -10,8 +10,7 @@
 ## Snorunt (#361)
 <details class="pokemon-card-container" open>
 <summary>Snorunt overview</summary>
-_Snow Hat Pokémon_ • Types: Ice
-Height: 0.7 m · Weight: 16.8 kg · Base EXP: 60
+_Snow Hat Pokémon_ • Types: Ice • Egg Groups: Fairy / Mineral • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,26 @@ Height: 0.7 m · Weight: 16.8 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 50 |
-| Defense | 50 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 50 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Headbutt (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Ruby Sapphire)
-- Powder Snow (Lv 1, Ruby Sapphire)
-- Double Team (Lv 4, Diamond Pearl)
-- Ice Shard (Lv 6, Legends Arceus)
+- Leer (Lv 1)
+- Powder Snow (Lv 1)
+- Double Team (Lv 7)
+- Bite (Lv 10)
+- Icy Wind (Lv 16)
+- Headbutt (Lv 19)
+- Protect (Lv 25)
+- Crunch (Lv 28)
+- Ice Beam (Lv 34)
+- Hail (Lv 37)
+- Blizzard (Lv 43)
 </div>
 </div>
 
@@ -71,8 +75,7 @@ Height: 0.7 m · Weight: 16.8 kg · Base EXP: 60
 ## Glalie (#362)
 <details class="pokemon-card-container" open>
 <summary>Glalie overview</summary>
-_Face Pokémon_ • Types: Ice
-Height: 1.5 m · Weight: 256.5 kg · Base EXP: 168
+_Face Pokémon_ • Types: Ice • Egg Groups: Fairy / Mineral • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +104,29 @@ Height: 1.5 m · Weight: 256.5 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 80 |
-| Defense | 80 |
-| Sp. Atk | 80 |
-| Sp. Def | 80 |
-| Speed | 80 |
-| Total | 480 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bite (Lv 1, Ruby Sapphire)
-- Double Team (Lv 1, Ruby Sapphire)
-- Freeze Dry (Lv 1, Sun Moon)
-- Headbutt (Lv 1, Scarlet Violet)
-- Ice Ball (Lv 1, Legends Arceus)
+- Bite (Lv 1)
+- Double Team (Lv 1)
+- Leer (Lv 1)
+- Powder Snow (Lv 1)
+- Double Team (Lv 7)
+- Bite (Lv 10)
+- Icy Wind (Lv 16)
+- Headbutt (Lv 19)
+- Protect (Lv 25)
+- Crunch (Lv 28)
+- Ice Beam (Lv 34)
+- Hail (Lv 42)
+- Blizzard (Lv 53)
+- Sheer Cold (Lv 61)
 </div>
 </div>
 
@@ -127,8 +138,7 @@ Height: 1.5 m · Weight: 256.5 kg · Base EXP: 168
 ## Froslass (#478)
 <details class="pokemon-card-container" open>
 <summary>Froslass overview</summary>
-_Snow Land Pokémon_ • Types: Ice / Ghost
-Height: 1.3 m · Weight: 26.6 kg · Base EXP: 168
+_Snow Land Pokémon_ • Types: Ice / Ghost • Egg Groups: Fairy / Mineral • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -161,21 +171,13 @@ Height: 1.3 m · Weight: 26.6 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 80 |
-| Defense | 70 |
-| Sp. Atk | 80 |
-| Sp. Def | 70 |
-| Speed | 110 |
-| Total | 480 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Diamond Pearl)
-- Bite (Lv 1, Sword Shield)
-- Crunch (Lv 1, Sword Shield)
-- Destiny Bond (Lv 1, X Y)
-- Double Team (Lv 1, Diamond Pearl)
-- Headbutt (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 </div>
 </div>
 

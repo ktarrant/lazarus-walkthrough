@@ -10,8 +10,7 @@
 ## Clamperl (#366)
 <details class="pokemon-card-container" open>
 <summary>Clamperl overview</summary>
-_Bivalve Pokémon_ • Types: Water
-Height: 0.4 m · Weight: 52.5 kg · Base EXP: 69
+_Bivalve Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 69
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -60,20 +59,19 @@ Height: 0.4 m · Weight: 52.5 kg · Base EXP: 69
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 64 |
-| Defense | 85 |
-| Sp. Atk | 74 |
-| Sp. Def | 55 |
-| Speed | 32 |
-| Total | 345 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">64</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-mid">74</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">32</span> |
+| Total | <span class="stat-value stat-mid">345</span> |
 
 **Notable Level-Up Moves**
-- Clamp (Lv 1, Ruby Sapphire)
-- Iron Defense (Lv 1, Ruby Sapphire)
-- Water Gun (Lv 1, Ruby Sapphire)
-- Whirlpool (Lv 1, Ruby Sapphire)
-- Shell Smash (Lv 50, X Y)
+- Clamp (Lv 1)
+- Iron Defense (Lv 1)
+- Water Gun (Lv 1)
+- Whirlpool (Lv 1)
 </div>
 </div>
 
@@ -85,8 +83,7 @@ Height: 0.4 m · Weight: 52.5 kg · Base EXP: 69
 ## Huntail (#367)
 <details class="pokemon-card-container" open>
 <summary>Huntail overview</summary>
-_Deep Sea Pokémon_ • Types: Water
-Height: 1.7 m · Weight: 27.0 kg · Base EXP: 170
+_Deep Sea Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -118,21 +115,23 @@ Height: 1.7 m · Weight: 27.0 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 104 |
-| Defense | 105 |
-| Sp. Atk | 94 |
-| Sp. Def | 75 |
-| Speed | 52 |
-| Total | 485 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-high">104</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-high">94</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">52</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1, Omega Ruby Alpha Sapphire)
-- Iron Defense (Lv 1, Brilliant Diamond And Shining Pearl)
-- Shell Smash (Lv 1, Brilliant Diamond And Shining Pearl)
-- Water Gun (Lv 1, Brilliant Diamond And Shining Pearl)
-- Whirlpool (Lv 1, Ruby Sapphire)
-- Screech (Lv 5, Omega Ruby Alpha Sapphire)
+- Whirlpool (Lv 1)
+- Bite (Lv 8)
+- Screech (Lv 15)
+- Water Pulse (Lv 22)
+- Scary Face (Lv 29)
+- Crunch (Lv 36)
+- Baton Pass (Lv 43)
+- Hydro Pump (Lv 50)
 </div>
 </div>
 
@@ -144,8 +143,7 @@ Height: 1.7 m · Weight: 27.0 kg · Base EXP: 170
 ## Gorebyss (#368)
 <details class="pokemon-card-container" open>
 <summary>Gorebyss overview</summary>
-_South Sea Pokémon_ • Types: Water
-Height: 1.8 m · Weight: 22.6 kg · Base EXP: 170
+_South Sea Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -177,21 +175,23 @@ Height: 1.8 m · Weight: 22.6 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 84 |
-| Defense | 105 |
-| Sp. Atk | 114 |
-| Sp. Def | 75 |
-| Speed | 52 |
-| Total | 485 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">84</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-high">114</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">52</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 
 **Notable Level-Up Moves**
-- Confusion (Lv 1, Omega Ruby Alpha Sapphire)
-- Iron Defense (Lv 1, Brilliant Diamond And Shining Pearl)
-- Shell Smash (Lv 1, Brilliant Diamond And Shining Pearl)
-- Water Gun (Lv 1, Brilliant Diamond And Shining Pearl)
-- Whirlpool (Lv 1, Ruby Sapphire)
-- Rain Dance (Lv 5, Brilliant Diamond And Shining Pearl)
+- Whirlpool (Lv 1)
+- Confusion (Lv 8)
+- Agility (Lv 15)
+- Water Pulse (Lv 22)
+- Amnesia (Lv 29)
+- Psychic (Lv 36)
+- Baton Pass (Lv 43)
+- Hydro Pump (Lv 50)
 </div>
 </div>
 

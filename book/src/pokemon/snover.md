@@ -8,8 +8,7 @@
 ## Snover (#459)
 <details class="pokemon-card-container" open>
 <summary>Snover overview</summary>
-_Frost Tree Pokémon_ • Types: Grass / Ice
-Height: 1.0 m · Weight: 50.5 kg · Base EXP: 67
+_Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant • Base EXP: 67
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,13 @@ Height: 1.0 m · Weight: 50.5 kg · Base EXP: 67
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 62 |
-| Defense | 50 |
-| Sp. Atk | 62 |
-| Sp. Def | 60 |
-| Speed | 40 |
-| Total | 334 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Diamond Pearl)
-- Powder Snow (Lv 1, Diamond Pearl)
-- Leafage (Lv 5, Sword Shield)
-- Razor Leaf (Lv 5, Diamond Pearl)
-- Icy Wind (Lv 9, Diamond Pearl)
-- Mist (Lv 10, Sword Shield)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">62</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">62</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">334</span> |
 </div>
 </div>
 
@@ -74,8 +65,7 @@ Height: 1.0 m · Weight: 50.5 kg · Base EXP: 67
 ## Abomasnow (#460)
 <details class="pokemon-card-container" open>
 <summary>Abomasnow overview</summary>
-_Frost Tree Pokémon_ • Types: Grass / Ice
-Height: 2.2 m · Weight: 135.5 kg · Base EXP: 173
+_Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,21 +102,13 @@ Height: 2.2 m · Weight: 135.5 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 92 |
-| Defense | 75 |
-| Sp. Atk | 92 |
-| Sp. Def | 85 |
-| Speed | 60 |
-| Total | 494 |
-
-**Notable Level-Up Moves**
-- Aurora Veil (Lv 1, Sword Shield)
-- Ice Punch (Lv 1, Diamond Pearl)
-- Icy Wind (Lv 1, Diamond Pearl)
-- Leafage (Lv 1, Sword Shield)
-- Leer (Lv 1, Diamond Pearl)
-- Mist (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">92</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-high">92</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">494</span> |
 </div>
 </div>
 

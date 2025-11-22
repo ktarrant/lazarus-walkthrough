@@ -10,8 +10,7 @@
 ## Cyndaquil (#155)
 <details class="pokemon-card-container" open>
 <summary>Cyndaquil overview</summary>
-_Fire Mouse Pokémon_ • Types: Fire
-Height: 0.5 m · Weight: 7.9 kg · Base EXP: 62
+_Fire Mouse Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,23 @@ Height: 0.5 m · Weight: 7.9 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 39 |
-| Attack | 52 |
-| Defense | 43 |
-| Sp. Atk | 60 |
-| Sp. Def | 50 |
-| Speed | 65 |
-| Total | 309 |
+| HP | <span class="stat-value stat-low">39</span> |
+| Attack | <span class="stat-value stat-mid">52</span> |
+| Defense | <span class="stat-value stat-low">43</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">309</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Quick Attack (Lv 1, Legends Arceus)
-- Tackle (Lv 1, Gold Silver)
-- Smokescreen (Lv 4, Diamond Pearl)
-- Ember (Lv 6, Legends Arceus)
-- Rollout (Lv 11, Legends Arceus)
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Smokescreen (Lv 6)
+- Ember (Lv 12)
+- Quick Attack (Lv 19)
+- Flame Wheel (Lv 27)
+- Swift (Lv 36)
+- Flamethrower (Lv 46)
 </div>
 </div>
 
@@ -72,8 +73,7 @@ Height: 0.5 m · Weight: 7.9 kg · Base EXP: 62
 ## Quilava (#156)
 <details class="pokemon-card-container" open>
 <summary>Quilava overview</summary>
-_Volcano Pokémon_ • Types: Fire
-Height: 0.9 m · Weight: 19.0 kg · Base EXP: 142
+_Volcano Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +104,24 @@ Height: 0.9 m · Weight: 19.0 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 58 |
-| Attack | 64 |
-| Defense | 58 |
-| Sp. Atk | 80 |
-| Sp. Def | 65 |
-| Speed | 80 |
-| Total | 405 |
+| HP | <span class="stat-value stat-mid">58</span> |
+| Attack | <span class="stat-value stat-mid">64</span> |
+| Defense | <span class="stat-value stat-mid">58</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Quick Attack (Lv 1, Legends Arceus)
-- Smokescreen (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Ember (Lv 6, Legends Arceus)
-- Rollout (Lv 11, Legends Arceus)
+- Leer (Lv 1)
+- Smokescreen (Lv 1)
+- Tackle (Lv 1)
+- Smokescreen (Lv 6)
+- Ember (Lv 12)
+- Quick Attack (Lv 21)
+- Flame Wheel (Lv 31)
+- Swift (Lv 42)
+- Flamethrower (Lv 54)
 </div>
 </div>
 
@@ -130,8 +133,7 @@ Height: 0.9 m · Weight: 19.0 kg · Base EXP: 142
 ## Typhlosion (#157)
 <details class="pokemon-card-container" open>
 <summary>Typhlosion overview</summary>
-_Volcano Pokémon_ • Types: Fire
-Height: 1.7 m · Weight: 79.5 kg · Base EXP: 240
+_Volcano Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 240
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,21 +164,25 @@ Height: 1.7 m · Weight: 79.5 kg · Base EXP: 240
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 84 |
-| Defense | 78 |
-| Sp. Atk | 109 |
-| Sp. Def | 85 |
-| Speed | 100 |
-| Total | 534 |
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-mid">84</span> |
+| Defense | <span class="stat-value stat-mid">78</span> |
+| Sp. Atk | <span class="stat-value stat-high">109</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">534</span> |
 
 **Notable Level-Up Moves**
-- Double Edge (Lv 1, X Y)
-- Ember (Lv 1, Gold Silver)
-- Eruption (Lv 1, X Y)
-- Gyro Ball (Lv 1, Diamond Pearl)
-- Leer (Lv 1, Gold Silver)
-- Smokescreen (Lv 1, Gold Silver)
+- Ember (Lv 1)
+- Leer (Lv 1)
+- Smokescreen (Lv 1)
+- Tackle (Lv 1)
+- Smokescreen (Lv 6)
+- Ember (Lv 12)
+- Quick Attack (Lv 21)
+- Flame Wheel (Lv 31)
+- Swift (Lv 45)
+- Flamethrower (Lv 60)
 </div>
 </div>
 

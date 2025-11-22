@@ -10,8 +10,7 @@
 ## Magnemite (#081)
 <details class="pokemon-card-container" open>
 <summary>Magnemite overview</summary>
-_Magnet Pokémon_ • Types: Electric / Steel
-Height: 0.3 m · Weight: 6.0 kg · Base EXP: 65
+_Magnet Pokémon_ • Types: Electric / Steel • Egg Groups: Mineral • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -55,21 +54,26 @@ Height: 0.3 m · Weight: 6.0 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 25 |
-| Attack | 35 |
-| Defense | 70 |
-| Sp. Atk | 95 |
-| Sp. Def | 55 |
-| Speed | 45 |
-| Total | 325 |
+| HP | <span class="stat-value stat-low">25</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 
 **Notable Level-Up Moves**
-- Metal Sound (Lv 1, Ruby Sapphire)
-- Supersonic (Lv 1, Sun Moon)
-- Tackle (Lv 1, Red Blue)
-- Thunder Shock (Lv 1, Sword Shield)
-- Magnet Bomb (Lv 7, Sun Moon)
-- Thunder Wave (Lv 7, Ultra Sun Ultra Moon)
+- Metal Sound (Lv 1)
+- Tackle (Lv 1)
+- Thunder Shock (Lv 6)
+- Supersonic (Lv 11)
+- Sonic Boom (Lv 16)
+- Thunder Wave (Lv 21)
+- Spark (Lv 26)
+- Lock On (Lv 32)
+- Swift (Lv 38)
+- Screech (Lv 44)
+- Zap Cannon (Lv 50)
 </div>
 </div>
 
@@ -81,8 +85,7 @@ Height: 0.3 m · Weight: 6.0 kg · Base EXP: 65
 ## Magneton (#082)
 <details class="pokemon-card-container" open>
 <summary>Magneton overview</summary>
-_Magnet Pokémon_ • Types: Electric / Steel
-Height: 1.0 m · Weight: 60.0 kg · Base EXP: 163
+_Magnet Pokémon_ • Types: Electric / Steel • Egg Groups: Mineral • Base EXP: 163
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -120,21 +123,28 @@ Height: 1.0 m · Weight: 60.0 kg · Base EXP: 163
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 60 |
-| Defense | 95 |
-| Sp. Atk | 120 |
-| Sp. Def | 70 |
-| Speed | 70 |
-| Total | 465 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-high">120</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">465</span> |
 
 **Notable Level-Up Moves**
-- Electric Terrain (Lv 1, Omega Ruby Alpha Sapphire)
-- Magnet Bomb (Lv 1, Sun Moon)
-- Metal Sound (Lv 1, Ruby Sapphire)
-- Sonic Boom (Lv 1, Red Blue)
-- Supersonic (Lv 1, Gold Silver)
-- Tackle (Lv 1, Red Blue)
+- Metal Sound (Lv 1)
+- Supersonic (Lv 1)
+- Tackle (Lv 1)
+- Thunder Shock (Lv 1)
+- Thunder Shock (Lv 6)
+- Supersonic (Lv 11)
+- Sonic Boom (Lv 16)
+- Thunder Wave (Lv 21)
+- Spark (Lv 26)
+- Lock On (Lv 35)
+- Tri Attack (Lv 44)
+- Screech (Lv 53)
+- Zap Cannon (Lv 62)
 </div>
 </div>
 
@@ -146,8 +156,7 @@ Height: 1.0 m · Weight: 60.0 kg · Base EXP: 163
 ## Magnezone (#462)
 <details class="pokemon-card-container" open>
 <summary>Magnezone overview</summary>
-_Magnet Area Pokémon_ • Types: Electric / Steel
-Height: 1.2 m · Weight: 180.0 kg · Base EXP: 241
+_Magnet Area Pokémon_ • Types: Electric / Steel • Egg Groups: Mineral • Base EXP: 241
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -185,21 +194,13 @@ Height: 1.2 m · Weight: 180.0 kg · Base EXP: 241
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 70 |
-| Defense | 115 |
-| Sp. Atk | 130 |
-| Sp. Def | 90 |
-| Speed | 60 |
-| Total | 535 |
-
-**Notable Level-Up Moves**
-- Barrier (Lv 1, Diamond Pearl)
-- Electric Terrain (Lv 1, Omega Ruby Alpha Sapphire)
-- Magnet Bomb (Lv 1, Sun Moon)
-- Magnetic Flux (Lv 1, X Y)
-- Metal Sound (Lv 1, Diamond Pearl)
-- Mirror Coat (Lv 1, Diamond Pearl)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-high">115</span> |
+| Sp. Atk | <span class="stat-value stat-high">130</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
 </div>
 </div>
 

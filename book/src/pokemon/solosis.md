@@ -10,8 +10,7 @@
 ## Solosis (#577)
 <details class="pokemon-card-container" open>
 <summary>Solosis overview</summary>
-_Cell Pokémon_ • Types: Psychic
-Height: 0.3 m · Weight: 1.0 kg · Base EXP: 58
+_Cell Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 30 |
-| Defense | 40 |
-| Sp. Atk | 105 |
-| Sp. Def | 50 |
-| Speed | 20 |
-| Total | 290 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Sword Shield)
-- Protect (Lv 1, Sword Shield)
-- Psywave (Lv 1, Black White)
-- Reflect (Lv 3, Black White)
-- Recover (Lv 4, Sword Shield)
-- Rollout (Lv 7, Black White)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-high">105</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 58
 ## Duosion (#578)
 <details class="pokemon-card-container" open>
 <summary>Duosion overview</summary>
-_Mitosis Pokémon_ • Types: Psychic
-Height: 0.6 m · Weight: 8.0 kg · Base EXP: 130
+_Mitosis Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 130
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,21 +90,13 @@ Height: 0.6 m · Weight: 8.0 kg · Base EXP: 130
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 40 |
-| Defense | 50 |
-| Sp. Atk | 125 |
-| Sp. Def | 60 |
-| Speed | 30 |
-| Total | 370 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Sword Shield)
-- Endeavor (Lv 1, Sword Shield)
-- Protect (Lv 1, Sword Shield)
-- Psywave (Lv 1, Black White)
-- Recover (Lv 1, Sword Shield)
-- Reflect (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-high">125</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">370</span> |
 </div>
 </div>
 
@@ -126,8 +108,7 @@ Height: 0.6 m · Weight: 8.0 kg · Base EXP: 130
 ## Reuniclus (#579)
 <details class="pokemon-card-container" open>
 <summary>Reuniclus overview</summary>
-_Multiplying Pokémon_ • Types: Psychic
-Height: 1.0 m · Weight: 20.1 kg · Base EXP: 221
+_Multiplying Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 221
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -158,21 +139,13 @@ Height: 1.0 m · Weight: 20.1 kg · Base EXP: 221
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 65 |
-| Defense | 75 |
-| Sp. Atk | 125 |
-| Sp. Def | 85 |
-| Speed | 30 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1, Sword Shield)
-- Dizzy Punch (Lv 1, Sun Moon)
-- Endeavor (Lv 1, Sword Shield)
-- Hammer Arm (Lv 1, Sword Shield)
-- Protect (Lv 1, Sword Shield)
-- Psywave (Lv 1, Black White)
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-high">125</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

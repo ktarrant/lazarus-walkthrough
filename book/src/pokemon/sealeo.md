@@ -10,8 +10,7 @@
 ## Spheal (#363)
 <details class="pokemon-card-container" open>
 <summary>Spheal overview</summary>
-_Clap Pokémon_ • Types: Ice / Water
-Height: 0.8 m · Weight: 39.5 kg · Base EXP: 58
+_Clap Pokémon_ • Types: Ice / Water • Egg Groups: Water1 / Ground • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -50,21 +49,27 @@ Height: 0.8 m · Weight: 39.5 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 40 |
-| Defense | 50 |
-| Sp. Atk | 55 |
-| Sp. Def | 50 |
-| Speed | 25 |
-| Total | 290 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">25</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 
 **Notable Level-Up Moves**
-- Defense Curl (Lv 1, Firered Leafgreen)
-- Growl (Lv 1, Ruby Sapphire)
-- Powder Snow (Lv 1, Ruby Sapphire)
-- Rollout (Lv 1, Sword Shield)
-- Water Gun (Lv 1, Ruby Sapphire)
-- Encore (Lv 7, Ruby Sapphire)
+- Growl (Lv 1)
+- Powder Snow (Lv 1)
+- Water Gun (Lv 1)
+- Encore (Lv 7)
+- Ice Ball (Lv 13)
+- Body Slam (Lv 19)
+- Aurora Beam (Lv 25)
+- Hail (Lv 31)
+- Rest (Lv 37)
+- Snore (Lv 37)
+- Blizzard (Lv 43)
+- Sheer Cold (Lv 49)
 </div>
 </div>
 
@@ -76,8 +81,7 @@ Height: 0.8 m · Weight: 39.5 kg · Base EXP: 58
 ## Sealeo (#364)
 <details class="pokemon-card-container" open>
 <summary>Sealeo overview</summary>
-_Ball Roll Pokémon_ • Types: Ice / Water
-Height: 1.1 m · Weight: 87.6 kg · Base EXP: 144
+_Ball Roll Pokémon_ • Types: Ice / Water • Egg Groups: Water1 / Ground • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -111,21 +115,28 @@ Height: 1.1 m · Weight: 87.6 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 60 |
-| Defense | 70 |
-| Sp. Atk | 75 |
-| Sp. Def | 70 |
-| Speed | 45 |
-| Total | 410 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Defense Curl (Lv 1, Firered Leafgreen)
-- Encore (Lv 1, Ruby Sapphire)
-- Growl (Lv 1, Ruby Sapphire)
-- Powder Snow (Lv 1, Ruby Sapphire)
-- Rollout (Lv 1, Sword Shield)
-- Swagger (Lv 1, Sun Moon)
+- Encore (Lv 1)
+- Growl (Lv 1)
+- Powder Snow (Lv 1)
+- Water Gun (Lv 1)
+- Encore (Lv 7)
+- Ice Ball (Lv 13)
+- Body Slam (Lv 19)
+- Aurora Beam (Lv 25)
+- Hail (Lv 31)
+- Rest (Lv 39)
+- Snore (Lv 39)
+- Blizzard (Lv 47)
+- Sheer Cold (Lv 55)
 </div>
 </div>
 
@@ -137,8 +148,7 @@ Height: 1.1 m · Weight: 87.6 kg · Base EXP: 144
 ## Walrein (#365)
 <details class="pokemon-card-container" open>
 <summary>Walrein overview</summary>
-_Ice Break Pokémon_ • Types: Ice / Water
-Height: 1.4 m · Weight: 150.6 kg · Base EXP: 239
+_Ice Break Pokémon_ • Types: Ice / Water • Egg Groups: Water1 / Ground • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -167,21 +177,28 @@ Height: 1.4 m · Weight: 150.6 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 80 |
-| Defense | 90 |
-| Sp. Atk | 95 |
-| Sp. Def | 90 |
-| Speed | 65 |
-| Total | 530 |
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 
 **Notable Level-Up Moves**
-- Crunch (Lv 1, Diamond Pearl)
-- Defense Curl (Lv 1, Firered Leafgreen)
-- Encore (Lv 1, Ruby Sapphire)
-- Growl (Lv 1, Ruby Sapphire)
-- Ice Fang (Lv 1, Sun Moon)
-- Powder Snow (Lv 1, Ruby Sapphire)
+- Encore (Lv 1)
+- Growl (Lv 1)
+- Powder Snow (Lv 1)
+- Water Gun (Lv 1)
+- Encore (Lv 7)
+- Ice Ball (Lv 13)
+- Body Slam (Lv 19)
+- Aurora Beam (Lv 25)
+- Hail (Lv 31)
+- Rest (Lv 39)
+- Snore (Lv 39)
+- Blizzard (Lv 50)
+- Sheer Cold (Lv 61)
 </div>
 </div>
 

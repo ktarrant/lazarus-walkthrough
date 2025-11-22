@@ -8,8 +8,7 @@
 ## Gligar (#207)
 <details class="pokemon-card-container" open>
 <summary>Gligar overview</summary>
-_Fly Scorpion Pokémon_ • Types: Ground / Flying
-Height: 1.1 m · Weight: 64.8 kg · Base EXP: 86
+_Fly Scorpion Pokémon_ • Types: Ground / Flying • Egg Groups: Bug • Base EXP: 86
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,23 @@ Height: 1.1 m · Weight: 64.8 kg · Base EXP: 86
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 75 |
-| Defense | 105 |
-| Sp. Atk | 35 |
-| Sp. Def | 65 |
-| Speed | 85 |
-| Total | 430 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">430</span> |
 
 **Notable Level-Up Moves**
-- Poison Sting (Lv 1, Gold Silver)
-- Sand Attack (Lv 4, Black 2 White 2)
-- Quick Attack (Lv 6, Legends Arceus)
-- Harden (Lv 7, Black 2 White 2)
-- Knock Off (Lv 10, Black 2 White 2)
-- Aerial Ace (Lv 11, Legends Arceus)
+- Poison Sting (Lv 1)
+- Sand Attack (Lv 6)
+- Harden (Lv 13)
+- Quick Attack (Lv 20)
+- Feint Attack (Lv 28)
+- Slash (Lv 36)
+- Screech (Lv 44)
+- Guillotine (Lv 52)
 </div>
 </div>
 
@@ -71,8 +72,7 @@ Height: 1.1 m · Weight: 64.8 kg · Base EXP: 86
 ## Gliscor (#472)
 <details class="pokemon-card-container" open>
 <summary>Gliscor overview</summary>
-_Fang Scorpion Pokémon_ • Types: Ground / Flying
-Height: 2.0 m · Weight: 42.5 kg · Base EXP: 179
+_Fang Scorpion Pokémon_ • Types: Ground / Flying • Egg Groups: Bug • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +102,13 @@ Height: 2.0 m · Weight: 42.5 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 95 |
-| Defense | 125 |
-| Sp. Atk | 45 |
-| Sp. Def | 75 |
-| Speed | 95 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Fire Fang (Lv 1, Diamond Pearl)
-- Guillotine (Lv 1, X Y)
-- Harden (Lv 1, Diamond Pearl)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Knock Off (Lv 1, Diamond Pearl)
-- Night Slash (Lv 1, Brilliant Diamond And Shining Pearl)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-high">125</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

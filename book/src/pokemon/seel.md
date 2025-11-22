@@ -8,8 +8,7 @@
 ## Seel (#086)
 <details class="pokemon-card-container" open>
 <summary>Seel overview</summary>
-_Sea Lion Pokémon_ • Types: Water
-Height: 1.1 m · Weight: 90.0 kg · Base EXP: 65
+_Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,23 @@ Height: 1.1 m · Weight: 90.0 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 45 |
-| Defense | 55 |
-| Sp. Atk | 45 |
-| Sp. Def | 70 |
-| Speed | 45 |
-| Total | 325 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 
 **Notable Level-Up Moves**
-- Headbutt (Lv 1, Red Blue)
-- Growl (Lv 3, Diamond Pearl)
-- Charm (Lv 7, Scarlet Violet)
-- Water Gun (Lv 7, Brilliant Diamond And Shining Pearl)
-- Water Sport (Lv 7, Diamond Pearl)
-- Encore (Lv 8, Lets Go Pikachu Lets Go Eevee)
+- Headbutt (Lv 1)
+- Growl (Lv 9)
+- Icy Wind (Lv 17)
+- Aurora Beam (Lv 21)
+- Rest (Lv 29)
+- Take Down (Lv 37)
+- Ice Beam (Lv 41)
+- Safeguard (Lv 49)
 </div>
 </div>
 
@@ -72,8 +73,7 @@ Height: 1.1 m · Weight: 90.0 kg · Base EXP: 65
 ## Dewgong (#087)
 <details class="pokemon-card-container" open>
 <summary>Dewgong overview</summary>
-_Sea Lion Pokémon_ • Types: Water / Ice
-Height: 1.7 m · Weight: 120.0 kg · Base EXP: 166
+_Sea Lion Pokémon_ • Types: Water / Ice • Egg Groups: Water1 / Ground • Base EXP: 166
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +102,27 @@ Height: 1.7 m · Weight: 120.0 kg · Base EXP: 166
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 70 |
-| Defense | 80 |
-| Sp. Atk | 70 |
-| Sp. Def | 95 |
-| Speed | 70 |
-| Total | 475 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">475</span> |
 
 **Notable Level-Up Moves**
-- Aqua Jet (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Aurora Beam (Lv 1, Red Blue)
-- Bubble Beam (Lv 1, Brilliant Diamond And Shining Pearl)
-- Encore (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Fake Out (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Growl (Lv 1, Red Blue)
+- Aurora Beam (Lv 1)
+- Growl (Lv 1)
+- Headbutt (Lv 1)
+- Icy Wind (Lv 1)
+- Growl (Lv 9)
+- Icy Wind (Lv 17)
+- Aurora Beam (Lv 21)
+- Rest (Lv 29)
+- Sheer Cold (Lv 34)
+- Take Down (Lv 42)
+- Ice Beam (Lv 51)
+- Safeguard (Lv 64)
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Aron (#304)
 <details class="pokemon-card-container" open>
 <summary>Aron overview</summary>
-_Iron Armor Pokémon_ • Types: Steel / Rock
-Height: 0.4 m · Weight: 60.0 kg · Base EXP: 66
+_Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -52,21 +51,27 @@ Height: 0.4 m · Weight: 60.0 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 70 |
-| Defense | 100 |
-| Sp. Atk | 40 |
-| Sp. Def | 40 |
-| Speed | 30 |
-| Total | 330 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Black 2 White 2)
-- Tackle (Lv 1, Ruby Sapphire)
-- Metal Claw (Lv 4, Sword Shield)
-- Mud Slap (Lv 4, Black 2 White 2)
-- Headbutt (Lv 7, Omega Ruby Alpha Sapphire)
-- Rock Tomb (Lv 8, Sword Shield)
+- Tackle (Lv 1)
+- Harden (Lv 4)
+- Mud Slap (Lv 7)
+- Headbutt (Lv 10)
+- Metal Claw (Lv 13)
+- Iron Defense (Lv 17)
+- Roar (Lv 21)
+- Take Down (Lv 25)
+- Iron Tail (Lv 29)
+- Protect (Lv 34)
+- Metal Sound (Lv 39)
+- Double Edge (Lv 44)
 </div>
 </div>
 
@@ -78,8 +83,7 @@ Height: 0.4 m · Weight: 60.0 kg · Base EXP: 66
 ## Lairon (#305)
 <details class="pokemon-card-container" open>
 <summary>Lairon overview</summary>
-_Iron Armor Pokémon_ • Types: Steel / Rock
-Height: 0.9 m · Weight: 120.0 kg · Base EXP: 151
+_Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base EXP: 151
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -114,21 +118,30 @@ Height: 0.9 m · Weight: 120.0 kg · Base EXP: 151
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 90 |
-| Defense | 140 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 40 |
-| Total | 430 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">140</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">430</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Ruby Sapphire)
-- Headbutt (Lv 1, Ruby Sapphire)
-- Metal Claw (Lv 1, Sword Shield)
-- Mud Slap (Lv 1, Ruby Sapphire)
-- Rock Tomb (Lv 1, Sword Shield)
-- Tackle (Lv 1, Ruby Sapphire)
+- Harden (Lv 1)
+- Headbutt (Lv 1)
+- Mud Slap (Lv 1)
+- Tackle (Lv 1)
+- Harden (Lv 4)
+- Mud Slap (Lv 7)
+- Headbutt (Lv 10)
+- Metal Claw (Lv 13)
+- Iron Defense (Lv 17)
+- Roar (Lv 21)
+- Take Down (Lv 25)
+- Iron Tail (Lv 29)
+- Protect (Lv 37)
+- Metal Sound (Lv 45)
+- Double Edge (Lv 53)
 </div>
 </div>
 
@@ -140,8 +153,7 @@ Height: 0.9 m · Weight: 120.0 kg · Base EXP: 151
 ## Aggron (#306)
 <details class="pokemon-card-container" open>
 <summary>Aggron overview</summary>
-_Iron Armor Pokémon_ • Types: Steel / Rock
-Height: 2.1 m · Weight: 360.0 kg · Base EXP: 239
+_Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -176,21 +188,30 @@ Height: 2.1 m · Weight: 360.0 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 110 |
-| Defense | 180 |
-| Sp. Atk | 60 |
-| Sp. Def | 60 |
-| Speed | 50 |
-| Total | 530 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-high">180</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Ruby Sapphire)
-- Headbutt (Lv 1, Ruby Sapphire)
-- Metal Claw (Lv 1, Sword Shield)
-- Mud Slap (Lv 1, Ruby Sapphire)
-- Rock Tomb (Lv 1, Sword Shield)
-- Tackle (Lv 1, Ruby Sapphire)
+- Harden (Lv 1)
+- Headbutt (Lv 1)
+- Mud Slap (Lv 1)
+- Tackle (Lv 1)
+- Harden (Lv 4)
+- Mud Slap (Lv 7)
+- Headbutt (Lv 10)
+- Metal Claw (Lv 13)
+- Iron Defense (Lv 17)
+- Roar (Lv 21)
+- Take Down (Lv 25)
+- Iron Tail (Lv 29)
+- Protect (Lv 37)
+- Metal Sound (Lv 50)
+- Double Edge (Lv 63)
 </div>
 </div>
 

@@ -8,8 +8,7 @@
 ## Shellder (#090)
 <details class="pokemon-card-container" open>
 <summary>Shellder overview</summary>
-_Bivalve Pokémon_ • Types: Water
-Height: 0.3 m · Weight: 4.0 kg · Base EXP: 61
+_Bivalve Pokémon_ • Types: Water • Egg Groups: Water3 • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -54,21 +53,23 @@ Height: 0.3 m · Weight: 4.0 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 65 |
-| Defense | 100 |
-| Sp. Atk | 45 |
-| Sp. Def | 25 |
-| Speed | 40 |
-| Total | 305 |
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 
 **Notable Level-Up Moves**
-- Tackle (Lv 1, Red Blue)
-- Water Gun (Lv 1, Sun Moon)
-- Withdraw (Lv 1, Red Blue)
-- Ice Shard (Lv 8, Sword Shield)
-- Icicle Spear (Lv 8, Firered Leafgreen)
-- Supersonic (Lv 8, Diamond Pearl)
+- Tackle (Lv 1)
+- Withdraw (Lv 1)
+- Supersonic (Lv 9)
+- Aurora Beam (Lv 17)
+- Protect (Lv 25)
+- Leer (Lv 33)
+- Clamp (Lv 41)
+- Ice Beam (Lv 49)
 </div>
 </div>
 
@@ -80,8 +81,7 @@ Height: 0.3 m · Weight: 4.0 kg · Base EXP: 61
 ## Cloyster (#091)
 <details class="pokemon-card-container" open>
 <summary>Cloyster overview</summary>
-_Bivalve Pokémon_ • Types: Water / Ice
-Height: 1.5 m · Weight: 132.5 kg · Base EXP: 184
+_Bivalve Pokémon_ • Types: Water / Ice • Egg Groups: Water3 • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -114,21 +114,21 @@ Height: 1.5 m · Weight: 132.5 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 95 |
-| Defense | 180 |
-| Sp. Atk | 85 |
-| Sp. Def | 45 |
-| Speed | 70 |
-| Total | 525 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-high">180</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Aurora Beam (Lv 1, Red Blue)
-- Barrier (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Clamp (Lv 1, Red Blue)
-- Hydro Pump (Lv 1, X Y)
-- Ice Beam (Lv 1, Sword Shield)
-- Ice Shard (Lv 1, Sword Shield)
+- Aurora Beam (Lv 1)
+- Protect (Lv 1)
+- Supersonic (Lv 1)
+- Withdraw (Lv 1)
+- Spikes (Lv 33)
+- Spike Cannon (Lv 41)
 </div>
 </div>
 

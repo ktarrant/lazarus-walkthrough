@@ -8,8 +8,7 @@
 ## Stunky (#434)
 <details class="pokemon-card-container" open>
 <summary>Stunky overview</summary>
-_Skunk Pokémon_ • Types: Poison / Dark
-Height: 0.4 m · Weight: 19.2 kg · Base EXP: 66
+_Skunk Pokémon_ • Types: Poison / Dark • Egg Groups: Ground • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.4 m · Weight: 19.2 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 63 |
-| Attack | 63 |
-| Defense | 47 |
-| Sp. Atk | 41 |
-| Sp. Def | 41 |
-| Speed | 74 |
-| Total | 329 |
-
-**Notable Level-Up Moves**
-- Focus Energy (Lv 1, Diamond Pearl)
-- Poison Gas (Lv 1, Sword Shield)
-- Scratch (Lv 1, Diamond Pearl)
-- Tackle (Lv 1, Legends Arceus)
-- Feint (Lv 3, Sword Shield)
-- Acid Spray (Lv 6, Legends Arceus)
+| HP | <span class="stat-value stat-mid">63</span> |
+| Attack | <span class="stat-value stat-mid">63</span> |
+| Defense | <span class="stat-value stat-low">47</span> |
+| Sp. Atk | <span class="stat-value stat-low">41</span> |
+| Sp. Def | <span class="stat-value stat-low">41</span> |
+| Speed | <span class="stat-value stat-mid">74</span> |
+| Total | <span class="stat-value stat-mid">329</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.4 m · Weight: 19.2 kg · Base EXP: 66
 ## Skuntank (#435)
 <details class="pokemon-card-container" open>
 <summary>Skuntank overview</summary>
-_Skunk Pokémon_ • Types: Poison / Dark
-Height: 1.0 m · Weight: 38.0 kg · Base EXP: 168
+_Skunk Pokémon_ • Types: Poison / Dark • Egg Groups: Ground • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +92,13 @@ Height: 1.0 m · Weight: 38.0 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 103 |
-| Attack | 93 |
-| Defense | 67 |
-| Sp. Atk | 71 |
-| Sp. Def | 61 |
-| Speed | 84 |
-| Total | 479 |
-
-**Notable Level-Up Moves**
-- Feint (Lv 1, Sword Shield)
-- Flamethrower (Lv 1, Sun Moon)
-- Focus Energy (Lv 1, Diamond Pearl)
-- Poison Gas (Lv 1, Diamond Pearl)
-- Scratch (Lv 1, Diamond Pearl)
-- Screech (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">103</span> |
+| Attack | <span class="stat-value stat-high">93</span> |
+| Defense | <span class="stat-value stat-mid">67</span> |
+| Sp. Atk | <span class="stat-value stat-mid">71</span> |
+| Sp. Def | <span class="stat-value stat-mid">61</span> |
+| Speed | <span class="stat-value stat-mid">84</span> |
+| Total | <span class="stat-value stat-mid">479</span> |
 </div>
 </div>
 

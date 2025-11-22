@@ -8,8 +8,7 @@
 ## Lileep (#345)
 <details class="pokemon-card-container" open>
 <summary>Lileep overview</summary>
-_Sea Lily Pokémon_ • Types: Rock / Grass
-Height: 1.0 m · Weight: 23.8 kg · Base EXP: 71
+_Sea Lily Pokémon_ • Types: Rock / Grass • Egg Groups: Water3 • Base EXP: 71
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,25 @@ Height: 1.0 m · Weight: 23.8 kg · Base EXP: 71
 
 | Stat | Value |
 | --- | --- |
-| HP | 66 |
-| Attack | 41 |
-| Defense | 77 |
-| Sp. Atk | 61 |
-| Sp. Def | 87 |
-| Speed | 23 |
-| Total | 355 |
+| HP | <span class="stat-value stat-mid">66</span> |
+| Attack | <span class="stat-value stat-low">41</span> |
+| Defense | <span class="stat-value stat-mid">77</span> |
+| Sp. Atk | <span class="stat-value stat-mid">61</span> |
+| Sp. Def | <span class="stat-value stat-mid">87</span> |
+| Speed | <span class="stat-value stat-low">23</span> |
+| Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Ruby Sapphire)
-- Constrict (Lv 1, Diamond Pearl)
-- Wrap (Lv 1, Sword Shield)
-- Acid (Lv 4, Sword Shield)
-- Confuse Ray (Lv 8, Sword Shield)
-- Ingrain (Lv 9, Omega Ruby Alpha Sapphire)
+- Astonish (Lv 1)
+- Constrict (Lv 8)
+- Acid (Lv 15)
+- Ingrain (Lv 22)
+- Confuse Ray (Lv 29)
+- Amnesia (Lv 36)
+- Ancient Power (Lv 43)
+- Spit Up (Lv 50)
+- Stockpile (Lv 50)
+- Swallow (Lv 50)
 </div>
 </div>
 
@@ -68,8 +71,7 @@ Height: 1.0 m · Weight: 23.8 kg · Base EXP: 71
 ## Cradily (#346)
 <details class="pokemon-card-container" open>
 <summary>Cradily overview</summary>
-_Barnacle Pokémon_ • Types: Rock / Grass
-Height: 1.5 m · Weight: 60.4 kg · Base EXP: 173
+_Barnacle Pokémon_ • Types: Rock / Grass • Egg Groups: Water3 • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +99,28 @@ Height: 1.5 m · Weight: 60.4 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 86 |
-| Attack | 81 |
-| Defense | 97 |
-| Sp. Atk | 81 |
-| Sp. Def | 107 |
-| Speed | 43 |
-| Total | 495 |
+| HP | <span class="stat-value stat-mid">86</span> |
+| Attack | <span class="stat-value stat-mid">81</span> |
+| Defense | <span class="stat-value stat-high">97</span> |
+| Sp. Atk | <span class="stat-value stat-mid">81</span> |
+| Sp. Def | <span class="stat-value stat-high">107</span> |
+| Speed | <span class="stat-value stat-low">43</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 
 **Notable Level-Up Moves**
-- Acid (Lv 1, Ruby Sapphire)
-- Astonish (Lv 1, Ruby Sapphire)
-- Confuse Ray (Lv 1, Sword Shield)
-- Constrict (Lv 1, Ruby Sapphire)
-- Ingrain (Lv 1, Ruby Sapphire)
-- Leech Seed (Lv 1, Sword Shield)
+- Acid (Lv 1)
+- Astonish (Lv 1)
+- Constrict (Lv 1)
+- Ingrain (Lv 1)
+- Constrict (Lv 8)
+- Acid (Lv 15)
+- Ingrain (Lv 22)
+- Confuse Ray (Lv 29)
+- Amnesia (Lv 36)
+- Ancient Power (Lv 48)
+- Spit Up (Lv 60)
+- Stockpile (Lv 60)
+- Swallow (Lv 60)
 </div>
 </div>
 

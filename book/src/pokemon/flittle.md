@@ -8,8 +8,7 @@
 ## Flittle (#955)
 <details class="pokemon-card-container" open>
 <summary>Flittle overview</summary>
-_Frill Pokémon_ • Types: Psychic
-Height: 0.2 m · Weight: 1.5 kg · Base EXP: 51
+_Frill Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 51
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.2 m · Weight: 1.5 kg · Base EXP: 51
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 35 |
-| Defense | 30 |
-| Sp. Atk | 55 |
-| Sp. Def | 30 |
-| Speed | 75 |
-| Total | 255 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Peck (Lv 1, Scarlet Violet)
-- Confusion (Lv 5, Scarlet Violet)
-- Baby Doll Eyes (Lv 8, Scarlet Violet)
-- Disarming Voice (Lv 11, Scarlet Violet)
-- Quick Attack (Lv 15, Scarlet Violet)
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-low">255</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.2 m · Weight: 1.5 kg · Base EXP: 51
 ## Espathra (#956)
 <details class="pokemon-card-container" open>
 <summary>Espathra overview</summary>
-_Ostrich Pokémon_ • Types: Psychic
-Height: 1.9 m · Weight: 90.0 kg · Base EXP: 168
+_Ostrich Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 168
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +92,13 @@ Height: 1.9 m · Weight: 90.0 kg · Base EXP: 168
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 60 |
-| Defense | 60 |
-| Sp. Atk | 101 |
-| Sp. Def | 60 |
-| Speed | 105 |
-| Total | 481 |
-
-**Notable Level-Up Moves**
-- Drill Peck (Lv 1, Scarlet Violet)
-- Feather Dance (Lv 1, Scarlet Violet)
-- Growl (Lv 1, Scarlet Violet)
-- Peck (Lv 1, Scarlet Violet)
-- Confusion (Lv 5, Scarlet Violet)
-- Baby Doll Eyes (Lv 8, Scarlet Violet)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">101</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">105</span> |
+| Total | <span class="stat-value stat-mid">481</span> |
 </div>
 </div>
 

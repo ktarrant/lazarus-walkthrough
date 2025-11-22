@@ -8,8 +8,7 @@
 ## Magikarp (#129)
 <details class="pokemon-card-container" open>
 <summary>Magikarp overview</summary>
-_Fish Pokémon_ • Types: Water
-Height: 0.9 m · Weight: 10.0 kg · Base EXP: 40
+_Fish Pokémon_ • Types: Water • Egg Groups: Water2 / Dragon • Base EXP: 40
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -64,18 +63,18 @@ Height: 0.9 m · Weight: 10.0 kg · Base EXP: 40
 
 | Stat | Value |
 | --- | --- |
-| HP | 20 |
-| Attack | 10 |
-| Defense | 55 |
-| Sp. Atk | 15 |
-| Sp. Def | 20 |
-| Speed | 80 |
-| Total | 200 |
+| HP | <span class="stat-value stat-low">20</span> |
+| Attack | <span class="stat-value stat-low">10</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">15</span> |
+| Sp. Def | <span class="stat-value stat-low">20</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-low">200</span> |
 
 **Notable Level-Up Moves**
-- Splash (Lv 1, Red Blue)
-- Tackle (Lv 15, Red Blue)
-- Flail (Lv 25, Sword Shield)
+- Splash (Lv 1)
+- Tackle (Lv 15)
+- Flail (Lv 30)
 </div>
 </div>
 
@@ -87,8 +86,7 @@ Height: 0.9 m · Weight: 10.0 kg · Base EXP: 40
 ## Gyarados (#130)
 <details class="pokemon-card-container" open>
 <summary>Gyarados overview</summary>
-_Atrocious Pokémon_ • Types: Water / Flying
-Height: 6.5 m · Weight: 235.0 kg · Base EXP: 189
+_Atrocious Pokémon_ • Types: Water / Flying • Egg Groups: Water2 / Dragon • Base EXP: 189
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -118,21 +116,24 @@ Height: 6.5 m · Weight: 235.0 kg · Base EXP: 189
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 125 |
-| Defense | 79 |
-| Sp. Atk | 60 |
-| Sp. Def | 100 |
-| Speed | 81 |
-| Total | 540 |
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">79</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">81</span> |
+| Total | <span class="stat-value stat-mid">540</span> |
 
 **Notable Level-Up Moves**
-- Bind (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 1, Red Blue)
-- Dragon Rage (Lv 1, Red Blue)
-- Flail (Lv 1, Sword Shield)
-- Hydro Pump (Lv 1, Red Blue)
-- Leer (Lv 1, Red Blue)
+- Thrash (Lv 1)
+- Bite (Lv 20)
+- Dragon Rage (Lv 25)
+- Leer (Lv 30)
+- Twister (Lv 35)
+- Hydro Pump (Lv 40)
+- Rain Dance (Lv 45)
+- Dragon Dance (Lv 50)
+- Hyper Beam (Lv 55)
 </div>
 </div>
 

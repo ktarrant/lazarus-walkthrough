@@ -14,8 +14,7 @@
 ## Applin (#840)
 <details class="pokemon-card-container" open>
 <summary>Applin overview</summary>
-_Apple Core Pokémon_ • Types: Grass / Dragon
-Height: 0.2 m · Weight: 0.5 kg · Base EXP: 52
+_Apple Core Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon • Base EXP: 52
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -58,17 +57,13 @@ Height: 0.2 m · Weight: 0.5 kg · Base EXP: 52
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 40 |
-| Defense | 80 |
-| Sp. Atk | 40 |
-| Sp. Def | 40 |
-| Speed | 20 |
-| Total | 260 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Withdraw (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">260</span> |
 </div>
 </div>
 
@@ -80,8 +75,7 @@ Height: 0.2 m · Weight: 0.5 kg · Base EXP: 52
 ## Flapple (#841)
 <details class="pokemon-card-container" open>
 <summary>Flapple overview</summary>
-_Apple Wing Pokémon_ • Types: Grass / Dragon
-Height: 0.3 m · Weight: 1.0 kg · Base EXP: 170
+_Apple Wing Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -120,21 +114,13 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 110 |
-| Defense | 80 |
-| Sp. Atk | 95 |
-| Sp. Def | 60 |
-| Speed | 70 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Growth (Lv 1, Sword Shield)
-- Recycle (Lv 1, Sword Shield)
-- Twister (Lv 1, Sword Shield)
-- Wing Attack (Lv 1, Sword Shield)
-- Withdraw (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 
@@ -146,8 +132,7 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 170
 ## Appletun (#842)
 <details class="pokemon-card-container" open>
 <summary>Appletun overview</summary>
-_Apple Nectar Pokémon_ • Types: Grass / Dragon
-Height: 0.4 m · Weight: 13.0 kg · Base EXP: 170
+_Apple Nectar Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -186,21 +171,13 @@ Height: 0.4 m · Weight: 13.0 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 85 |
-| Defense | 80 |
-| Sp. Atk | 100 |
-| Sp. Def | 80 |
-| Speed | 30 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Growth (Lv 1, Sword Shield)
-- Headbutt (Lv 1, Sword Shield)
-- Recycle (Lv 1, Sword Shield)
-- Sweet Scent (Lv 1, Sword Shield)
-- Withdraw (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 
@@ -212,8 +189,7 @@ Height: 0.4 m · Weight: 13.0 kg · Base EXP: 170
 ## Dipplin (#1011)
 <details class="pokemon-card-container" open>
 <summary>Dipplin overview</summary>
-_Candy Apple Pokémon_ • Types: Grass / Dragon
-Height: 0.4 m · Weight: 9.7 kg · Base EXP: 170
+_Candy Apple Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -252,21 +228,13 @@ Height: 0.4 m · Weight: 9.7 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 80 |
-| Defense | 110 |
-| Sp. Atk | 95 |
-| Sp. Def | 80 |
-| Speed | 40 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Recycle (Lv 1, Scarlet Violet)
-- Sweet Scent (Lv 1, Scarlet Violet)
-- Withdraw (Lv 1, Scarlet Violet)
-- Dragon Tail (Lv 4, Scarlet Violet)
-- Growth (Lv 8, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 
@@ -278,8 +246,7 @@ Height: 0.4 m · Weight: 9.7 kg · Base EXP: 170
 ## Hydrapple (#1019)
 <details class="pokemon-card-container" open>
 <summary>Hydrapple overview</summary>
-_Apple Hydra Pokémon_ • Types: Grass / Dragon
-Height: 1.8 m · Weight: 93.0 kg · Base EXP: 270
+_Apple Hydra Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon • Base EXP: 270
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -314,21 +281,13 @@ Height: 1.8 m · Weight: 93.0 kg · Base EXP: 270
 
 | Stat | Value |
 | --- | --- |
-| HP | 106 |
-| Attack | 80 |
-| Defense | 110 |
-| Sp. Atk | 120 |
-| Sp. Def | 80 |
-| Speed | 44 |
-| Total | 540 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Recycle (Lv 1, Scarlet Violet)
-- Sweet Scent (Lv 1, Scarlet Violet)
-- Withdraw (Lv 1, Scarlet Violet)
-- Dragon Tail (Lv 4, Scarlet Violet)
-- Growth (Lv 8, Scarlet Violet)
+| HP | <span class="stat-value stat-high">106</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-high">120</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">44</span> |
+| Total | <span class="stat-value stat-mid">540</span> |
 </div>
 </div>
 

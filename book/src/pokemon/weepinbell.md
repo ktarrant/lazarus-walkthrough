@@ -10,8 +10,7 @@
 ## Bellsprout (#069)
 <details class="pokemon-card-container" open>
 <summary>Bellsprout overview</summary>
-_Flower Pokémon_ • Types: Grass / Poison
-Height: 0.7 m · Weight: 4.0 kg · Base EXP: 60
+_Flower Pokémon_ • Types: Grass / Poison • Egg Groups: Plant • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -48,21 +47,25 @@ Height: 0.7 m · Weight: 4.0 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 75 |
-| Defense | 35 |
-| Sp. Atk | 70 |
-| Sp. Def | 30 |
-| Speed | 40 |
-| Total | 300 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Growth (Lv 1, Red Blue)
-- Vine Whip (Lv 1, Red Blue)
-- Wrap (Lv 8, Lets Go Pikachu Lets Go Eevee)
-- Acid (Lv 12, Lets Go Pikachu Lets Go Eevee)
-- Sleep Powder (Lv 13, Diamond Pearl)
-- Poison Powder (Lv 15, Red Blue)
+- Vine Whip (Lv 1)
+- Growth (Lv 6)
+- Wrap (Lv 11)
+- Sleep Powder (Lv 15)
+- Poison Powder (Lv 17)
+- Stun Spore (Lv 19)
+- Acid (Lv 23)
+- Sweet Scent (Lv 30)
+- Razor Leaf (Lv 37)
+- Slam (Lv 45)
 </div>
 </div>
 
@@ -74,8 +77,7 @@ Height: 0.7 m · Weight: 4.0 kg · Base EXP: 60
 ## Weepinbell (#070)
 <details class="pokemon-card-container" open>
 <summary>Weepinbell overview</summary>
-_Flycatcher Pokémon_ • Types: Grass / Poison
-Height: 1.0 m · Weight: 6.4 kg · Base EXP: 137
+_Flycatcher Pokémon_ • Types: Grass / Poison • Egg Groups: Plant • Base EXP: 137
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -111,21 +113,27 @@ Height: 1.0 m · Weight: 6.4 kg · Base EXP: 137
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 90 |
-| Defense | 50 |
-| Sp. Atk | 85 |
-| Sp. Def | 45 |
-| Speed | 55 |
-| Total | 390 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">390</span> |
 
 **Notable Level-Up Moves**
-- Acid (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Growth (Lv 1, Red Blue)
-- Vine Whip (Lv 1, Red Blue)
-- Wrap (Lv 1, Red Blue)
-- Sleep Powder (Lv 13, Diamond Pearl)
-- Poison Powder (Lv 15, Red Blue)
+- Growth (Lv 1)
+- Vine Whip (Lv 1)
+- Wrap (Lv 1)
+- Growth (Lv 6)
+- Wrap (Lv 11)
+- Sleep Powder (Lv 15)
+- Poison Powder (Lv 17)
+- Stun Spore (Lv 19)
+- Acid (Lv 24)
+- Sweet Scent (Lv 33)
+- Razor Leaf (Lv 42)
+- Slam (Lv 54)
 </div>
 </div>
 
@@ -137,8 +145,7 @@ Height: 1.0 m · Weight: 6.4 kg · Base EXP: 137
 ## Victreebel (#071)
 <details class="pokemon-card-container" open>
 <summary>Victreebel overview</summary>
-_Flycatcher Pokémon_ • Types: Grass / Poison
-Height: 1.7 m · Weight: 15.5 kg · Base EXP: 221
+_Flycatcher Pokémon_ • Types: Grass / Poison • Egg Groups: Plant • Base EXP: 221
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -173,21 +180,19 @@ Height: 1.7 m · Weight: 15.5 kg · Base EXP: 221
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 105 |
-| Defense | 65 |
-| Sp. Atk | 100 |
-| Sp. Def | 70 |
-| Speed | 70 |
-| Total | 490 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 
 **Notable Level-Up Moves**
-- Acid (Lv 1, Red Blue)
-- Clear Smog (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Gastro Acid (Lv 1, Brilliant Diamond And Shining Pearl)
-- Growth (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Knock Off (Lv 1, Brilliant Diamond And Shining Pearl)
-- Leaf Tornado (Lv 1, Sun Moon)
+- Razor Leaf (Lv 1)
+- Sleep Powder (Lv 1)
+- Sweet Scent (Lv 1)
+- Vine Whip (Lv 1)
 </div>
 </div>
 

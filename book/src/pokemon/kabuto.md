@@ -8,8 +8,7 @@
 ## Kabuto (#140)
 <details class="pokemon-card-container" open>
 <summary>Kabuto overview</summary>
-_Shellfish Pokémon_ • Types: Rock / Water
-Height: 0.5 m · Weight: 11.5 kg · Base EXP: 71
+_Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Base EXP: 71
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,25 @@ Height: 0.5 m · Weight: 11.5 kg · Base EXP: 71
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 80 |
-| Defense | 90 |
-| Sp. Atk | 55 |
-| Sp. Def | 45 |
-| Speed | 55 |
-| Total | 355 |
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Sword Shield)
-- Harden (Lv 1, Red Blue)
-- Scratch (Lv 1, Red Blue)
-- Sand Attack (Lv 10, Sword Shield)
-- Leer (Lv 11, Diamond Pearl)
-- Aqua Jet (Lv 15, Sword Shield)
+- Harden (Lv 1)
+- Scratch (Lv 1)
+- Absorb (Lv 13)
+- Leer (Lv 19)
+- Mud Shot (Lv 25)
+- Sand Attack (Lv 31)
+- Endure (Lv 37)
+- Metal Sound (Lv 43)
+- Mega Drain (Lv 49)
+- Ancient Power (Lv 55)
 </div>
 </div>
 
@@ -71,8 +74,7 @@ Height: 0.5 m · Weight: 11.5 kg · Base EXP: 71
 ## Kabutops (#141)
 <details class="pokemon-card-container" open>
 <summary>Kabutops overview</summary>
-_Shellfish Pokémon_ • Types: Rock / Water
-Height: 1.3 m · Weight: 40.5 kg · Base EXP: 173
+_Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +106,27 @@ Height: 1.3 m · Weight: 40.5 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 115 |
-| Defense | 105 |
-| Sp. Atk | 65 |
-| Sp. Def | 70 |
-| Speed | 80 |
-| Total | 495 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Red Blue)
-- Confuse Ray (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Feint (Lv 1, Platinum)
-- Fury Cutter (Lv 1, Firered Leafgreen)
-- Harden (Lv 1, Red Blue)
-- Leer (Lv 1, Firered Leafgreen)
+- Absorb (Lv 1)
+- Harden (Lv 1)
+- Scratch (Lv 1)
+- Absorb (Lv 13)
+- Leer (Lv 19)
+- Mud Shot (Lv 25)
+- Sand Attack (Lv 31)
+- Endure (Lv 37)
+- Slash (Lv 40)
+- Metal Sound (Lv 46)
+- Mega Drain (Lv 55)
+- Ancient Power (Lv 65)
 </div>
 </div>
 

@@ -1,8 +1,7 @@
 ## Klawf (#950)
 <details class="pokemon-card-container" open>
 <summary>Klawf overview</summary>
-_Ambush Pokémon_ • Types: Rock
-Height: 1.3 m · Weight: 79.0 kg · Base EXP: 158
+_Ambush Pokémon_ • Types: Rock • Egg Groups: Water3 • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,13 @@ Height: 1.3 m · Weight: 79.0 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 100 |
-| Defense | 115 |
-| Sp. Atk | 35 |
-| Sp. Def | 55 |
-| Speed | 75 |
-| Total | 450 |
-
-**Notable Level-Up Moves**
-- Rock Throw (Lv 1, Scarlet Violet)
-- Harden (Lv 6, Scarlet Violet)
-- Rock Smash (Lv 9, Scarlet Violet)
-- Rock Tomb (Lv 13, Scarlet Violet)
-- Metal Claw (Lv 17, Scarlet Violet)
-- Protect (Lv 21, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-high">115</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">450</span> |
 </div>
 </div>
 

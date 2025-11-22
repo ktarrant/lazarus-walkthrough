@@ -8,8 +8,7 @@
 ## Mudbray (#749)
 <details class="pokemon-card-container" open>
 <summary>Mudbray overview</summary>
-_Donkey Pokémon_ • Types: Ground
-Height: 1.0 m · Weight: 110.0 kg · Base EXP: 77
+_Donkey Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 77
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 1.0 m · Weight: 110.0 kg · Base EXP: 77
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 100 |
-| Defense | 70 |
-| Sp. Atk | 45 |
-| Sp. Def | 55 |
-| Speed | 45 |
-| Total | 385 |
-
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1, Sun Moon)
-- Rock Smash (Lv 1, Sword Shield)
-- Mud Sport (Lv 3, Sun Moon)
-- Iron Defense (Lv 4, Sword Shield)
-- Double Kick (Lv 8, Sword Shield)
-- Rototiller (Lv 8, Sun Moon)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">385</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 1.0 m · Weight: 110.0 kg · Base EXP: 77
 ## Mudsdale (#750)
 <details class="pokemon-card-container" open>
 <summary>Mudsdale overview</summary>
-_Draft Horse Pokémon_ • Types: Ground
-Height: 2.5 m · Weight: 920.0 kg · Base EXP: 175
+_Draft Horse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,21 +92,13 @@ Height: 2.5 m · Weight: 920.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 125 |
-| Defense | 100 |
-| Sp. Atk | 55 |
-| Sp. Def | 85 |
-| Speed | 35 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Bulldoze (Lv 1, Sun Moon)
-- Double Kick (Lv 1, Sword Shield)
-- Iron Defense (Lv 1, Sword Shield)
-- Mud Slap (Lv 1, Sun Moon)
-- Mud Sport (Lv 1, Sun Moon)
-- Rock Smash (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

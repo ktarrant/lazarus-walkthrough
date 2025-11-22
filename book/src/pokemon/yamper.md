@@ -8,8 +8,7 @@
 ## Yamper (#835)
 <details class="pokemon-card-container" open>
 <summary>Yamper overview</summary>
-_Puppy Pokémon_ • Types: Electric
-Height: 0.3 m · Weight: 13.5 kg · Base EXP: 54
+_Puppy Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 54
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -41,21 +40,13 @@ Height: 0.3 m · Weight: 13.5 kg · Base EXP: 54
 
 | Stat | Value |
 | --- | --- |
-| HP | 59 |
-| Attack | 45 |
-| Defense | 50 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 26 |
-| Total | 270 |
-
-**Notable Level-Up Moves**
-- Tackle (Lv 1, Sword Shield)
-- Tail Whip (Lv 1, Sword Shield)
-- Nuzzle (Lv 5, Sword Shield)
-- Bite (Lv 10, Sword Shield)
-- Roar (Lv 15, Sword Shield)
-- Spark (Lv 20, Sword Shield)
+| HP | <span class="stat-value stat-mid">59</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">26</span> |
+| Total | <span class="stat-value stat-low">270</span> |
 </div>
 </div>
 
@@ -67,8 +58,7 @@ Height: 0.3 m · Weight: 13.5 kg · Base EXP: 54
 ## Boltund (#836)
 <details class="pokemon-card-container" open>
 <summary>Boltund overview</summary>
-_Dog Pokémon_ • Types: Electric
-Height: 1.0 m · Weight: 34.0 kg · Base EXP: 172
+_Dog Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +88,13 @@ Height: 1.0 m · Weight: 34.0 kg · Base EXP: 172
 
 | Stat | Value |
 | --- | --- |
-| HP | 69 |
-| Attack | 90 |
-| Defense | 60 |
-| Sp. Atk | 90 |
-| Sp. Def | 60 |
-| Speed | 121 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Sword Shield)
-- Electrify (Lv 1, Sword Shield)
-- Nuzzle (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sword Shield)
-- Tail Whip (Lv 1, Sword Shield)
-- Roar (Lv 15, Sword Shield)
+| HP | <span class="stat-value stat-mid">69</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">121</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

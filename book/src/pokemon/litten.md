@@ -10,8 +10,7 @@
 ## Litten (#725)
 <details class="pokemon-card-container" open>
 <summary>Litten overview</summary>
-_Fire Cat Pokémon_ • Types: Fire
-Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
+_Fire Cat Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 65 |
-| Defense | 40 |
-| Sp. Atk | 60 |
-| Sp. Def | 40 |
-| Speed | 70 |
-| Total | 320 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Sun Moon)
-- Growl (Lv 1, Sword Shield)
-- Scratch (Lv 1, Sun Moon)
-- Lick (Lv 6, Sword Shield)
-- Roar (Lv 9, Sword Shield)
-- Leer (Lv 11, Sun Moon)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 ## Torracat (#726)
 <details class="pokemon-card-container" open>
 <summary>Torracat overview</summary>
-_Fire Cat Pokémon_ • Types: Fire
-Height: 0.7 m · Weight: 25.0 kg · Base EXP: 147
+_Fire Cat Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 147
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +93,13 @@ Height: 0.7 m · Weight: 25.0 kg · Base EXP: 147
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 85 |
-| Defense | 50 |
-| Sp. Atk | 80 |
-| Sp. Def | 50 |
-| Speed | 90 |
-| Total | 420 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Sun Moon)
-- Growl (Lv 1, Sun Moon)
-- Lick (Lv 1, Sun Moon)
-- Scratch (Lv 1, Sun Moon)
-- Roar (Lv 9, Sword Shield)
-- Leer (Lv 11, Sun Moon)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-mid">420</span> |
 </div>
 </div>
 
@@ -129,8 +111,7 @@ Height: 0.7 m · Weight: 25.0 kg · Base EXP: 147
 ## Incineroar (#727)
 <details class="pokemon-card-container" open>
 <summary>Incineroar overview</summary>
-_Heel Pokémon_ • Types: Fire / Dark
-Height: 1.8 m · Weight: 83.0 kg · Base EXP: 239
+_Heel Pokémon_ • Types: Fire / Dark • Egg Groups: Ground • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -163,21 +144,13 @@ Height: 1.8 m · Weight: 83.0 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 115 |
-| Defense | 90 |
-| Sp. Atk | 80 |
-| Sp. Def | 90 |
-| Speed | 60 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Bulk Up (Lv 1, Sun Moon)
-- Cross Chop (Lv 1, Sword Shield)
-- Darkest Lariat (Lv 1, Sun Moon)
-- Ember (Lv 1, Sun Moon)
-- Growl (Lv 1, Sun Moon)
-- Lick (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

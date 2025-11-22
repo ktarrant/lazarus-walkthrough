@@ -10,8 +10,7 @@
 ## Meowth (#052)
 <details class="pokemon-card-container" open>
 <summary>Meowth overview</summary>
-_Scratch Cat Pokémon_ • Types: Normal
-Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
+_Scratch Cat Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -41,21 +40,24 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 45 |
-| Defense | 35 |
-| Sp. Atk | 40 |
-| Sp. Def | 40 |
-| Speed | 90 |
-| Total | 290 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Fake Out (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Growl (Lv 1, Red Blue)
-- Scratch (Lv 1, Red Blue)
-- Feint (Lv 4, Sword Shield)
-- Taunt (Lv 9, Lets Go Pikachu Lets Go Eevee)
+- Growl (Lv 1)
+- Scratch (Lv 1)
+- Bite (Lv 11)
+- Pay Day (Lv 20)
+- Feint Attack (Lv 28)
+- Screech (Lv 35)
+- Fury Swipes (Lv 41)
+- Slash (Lv 46)
+- Fake Out (Lv 50)
 </div>
 </div>
 
@@ -67,8 +69,7 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 ## Persian (#053)
 <details class="pokemon-card-container" open>
 <summary>Persian overview</summary>
-_Classy Cat Pokémon_ • Types: Normal
-Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
+_Classy Cat Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +98,25 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 70 |
-| Defense | 60 |
-| Sp. Atk | 65 |
-| Sp. Def | 65 |
-| Speed | 115 |
-| Total | 440 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">115</span> |
+| Total | <span class="stat-value stat-mid">440</span> |
 
 **Notable Level-Up Moves**
-- Amnesia (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 1, Red Blue)
-- Fake Out (Lv 1, Diamond Pearl)
-- Feint (Lv 1, Sword Shield)
-- Growl (Lv 1, Red Blue)
-- Hypnosis (Lv 1, Lets Go Pikachu Lets Go Eevee)
+- Bite (Lv 1)
+- Growl (Lv 1)
+- Scratch (Lv 1)
+- Bite (Lv 11)
+- Pay Day (Lv 20)
+- Feint Attack (Lv 29)
+- Screech (Lv 38)
+- Fury Swipes (Lv 46)
+- Slash (Lv 53)
+- Fake Out (Lv 59)
 </div>
 </div>
 
@@ -123,8 +128,7 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
 ## Perrserker (#863)
 <details class="pokemon-card-container" open>
 <summary>Perrserker overview</summary>
-_Viking Pokémon_ • Types: Steel
-Height: 0.8 m · Weight: 28.0 kg · Base EXP: 154
+_Viking Pokémon_ • Types: Steel • Egg Groups: Ground • Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -168,21 +172,13 @@ Height: 0.8 m · Weight: 28.0 kg · Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 110 |
-| Defense | 100 |
-| Sp. Atk | 50 |
-| Sp. Def | 60 |
-| Speed | 50 |
-| Total | 440 |
-
-**Notable Level-Up Moves**
-- Fake Out (Lv 1, Sword Shield)
-- Growl (Lv 1, Sword Shield)
-- Hone Claws (Lv 1, Sword Shield)
-- Iron Defense (Lv 1, Sword Shield)
-- Iron Head (Lv 1, Sword Shield)
-- Metal Burst (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">440</span> |
 </div>
 </div>
 

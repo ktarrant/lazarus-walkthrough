@@ -10,8 +10,7 @@
 ## Fennekin (#653)
 <details class="pokemon-card-container" open>
 <summary>Fennekin overview</summary>
-_Fox Pokémon_ • Types: Fire
-Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
+_Fox Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 45 |
-| Defense | 40 |
-| Sp. Atk | 62 |
-| Sp. Def | 60 |
-| Speed | 60 |
-| Total | 307 |
-
-**Notable Level-Up Moves**
-- Scratch (Lv 1, X Y)
-- Tail Whip (Lv 1, X Y)
-- Ember (Lv 5, X Y)
-- Howl (Lv 11, X Y)
-- Flame Charge (Lv 14, X Y)
-- Psybeam (Lv 17, X Y)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">62</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">307</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 ## Braixen (#654)
 <details class="pokemon-card-container" open>
 <summary>Braixen overview</summary>
-_Fox Pokémon_ • Types: Fire
-Height: 1.0 m · Weight: 14.5 kg · Base EXP: 143
+_Fox Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 143
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +93,13 @@ Height: 1.0 m · Weight: 14.5 kg · Base EXP: 143
 
 | Stat | Value |
 | --- | --- |
-| HP | 59 |
-| Attack | 59 |
-| Defense | 58 |
-| Sp. Atk | 90 |
-| Sp. Def | 70 |
-| Speed | 73 |
-| Total | 409 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Sun Moon)
-- Scratch (Lv 1, X Y)
-- Tail Whip (Lv 1, X Y)
-- Howl (Lv 11, X Y)
-- Flame Charge (Lv 14, X Y)
-- Psybeam (Lv 18, X Y)
+| HP | <span class="stat-value stat-mid">59</span> |
+| Attack | <span class="stat-value stat-mid">59</span> |
+| Defense | <span class="stat-value stat-mid">58</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">73</span> |
+| Total | <span class="stat-value stat-mid">409</span> |
 </div>
 </div>
 
@@ -129,8 +111,7 @@ Height: 1.0 m · Weight: 14.5 kg · Base EXP: 143
 ## Delphox (#655)
 <details class="pokemon-card-container" open>
 <summary>Delphox overview</summary>
-_Fox Pokémon_ • Types: Fire / Psychic
-Height: 1.5 m · Weight: 39.0 kg · Base EXP: 240
+_Fox Pokémon_ • Types: Fire / Psychic • Egg Groups: Ground • Base EXP: 240
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -164,21 +145,13 @@ Height: 1.5 m · Weight: 39.0 kg · Base EXP: 240
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 69 |
-| Defense | 72 |
-| Sp. Atk | 114 |
-| Sp. Def | 100 |
-| Speed | 104 |
-| Total | 534 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Sun Moon)
-- Future Sight (Lv 1, X Y)
-- Howl (Lv 1, Sun Moon)
-- Mystical Fire (Lv 1, Sun Moon)
-- Role Play (Lv 1, X Y)
-- Scratch (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-mid">69</span> |
+| Defense | <span class="stat-value stat-mid">72</span> |
+| Sp. Atk | <span class="stat-value stat-high">114</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-high">104</span> |
+| Total | <span class="stat-value stat-mid">534</span> |
 </div>
 </div>
 

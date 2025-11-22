@@ -8,8 +8,7 @@
 ## Vulpix Alola (#10103)
 <details class="pokemon-card-container" open>
 <summary>Vulpix Alola overview</summary>
-_Fox Pokémon_ • Types: Ice
-Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
+_Fox Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,13 @@ Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 38 |
-| Attack | 41 |
-| Defense | 40 |
-| Sp. Atk | 50 |
-| Sp. Def | 65 |
-| Speed | 65 |
-| Total | 299 |
-
-**Notable Level-Up Moves**
-- Powder Snow (Lv 1, Sun Moon)
-- Tackle (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Tail Whip (Lv 1, Sword Shield)
-- Disable (Lv 4, Sword Shield)
-- Mist (Lv 7, Lets Go Pikachu Lets Go Eevee)
-- Roar (Lv 7, Sun Moon)
+| HP | <span class="stat-value stat-low">38</span> |
+| Attack | <span class="stat-value stat-low">41</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-low">299</span> |
 </div>
 </div>
 
@@ -66,8 +57,7 @@ Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
 ## Ninetales Alola (#10104)
 <details class="pokemon-card-container" open>
 <summary>Ninetales Alola overview</summary>
-_Fox Pokémon_ • Types: Ice / Fairy
-Height: 1.1 m · Weight: 19.9 kg · Base EXP: 177
+_Fox Pokémon_ • Types: Ice / Fairy • Egg Groups: Ground • Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +87,13 @@ Height: 1.1 m · Weight: 19.9 kg · Base EXP: 177
 
 | Stat | Value |
 | --- | --- |
-| HP | 73 |
-| Attack | 67 |
-| Defense | 75 |
-| Sp. Atk | 81 |
-| Sp. Def | 100 |
-| Speed | 109 |
-| Total | 505 |
-
-**Notable Level-Up Moves**
-- Aurora Beam (Lv 1, Sword Shield)
-- Aurora Veil (Lv 1, Sword Shield)
-- Blizzard (Lv 1, Sword Shield)
-- Confuse Ray (Lv 1, Sun Moon)
-- Dazzling Gleam (Lv 1, Sun Moon)
-- Disable (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">73</span> |
+| Attack | <span class="stat-value stat-mid">67</span> |
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">81</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-high">109</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
 </div>
 </div>
 

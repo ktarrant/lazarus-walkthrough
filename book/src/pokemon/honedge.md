@@ -10,8 +10,7 @@
 ## Honedge (#679)
 <details class="pokemon-card-container" open>
 <summary>Honedge overview</summary>
-_Sword Pokémon_ • Types: Steel / Ghost
-Height: 0.8 m · Weight: 2.0 kg · Base EXP: 65
+_Sword Pokémon_ • Types: Steel / Ghost • Egg Groups: Mineral • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -54,21 +53,13 @@ Height: 0.8 m · Weight: 2.0 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 80 |
-| Defense | 100 |
-| Sp. Atk | 35 |
-| Sp. Def | 37 |
-| Speed | 28 |
-| Total | 325 |
-
-**Notable Level-Up Moves**
-- Fury Cutter (Lv 1, Sword Shield)
-- Swords Dance (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Shadow Sneak (Lv 4, Sword Shield)
-- Autotomize (Lv 8, Sword Shield)
-- Metal Sound (Lv 8, X Y)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-low">37</span> |
+| Speed | <span class="stat-value stat-low">28</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 </div>
 </div>
 
@@ -80,8 +71,7 @@ Height: 0.8 m · Weight: 2.0 kg · Base EXP: 65
 ## Doublade (#680)
 <details class="pokemon-card-container" open>
 <summary>Doublade overview</summary>
-_Sword Pokémon_ • Types: Steel / Ghost
-Height: 0.8 m · Weight: 4.5 kg · Base EXP: 157
+_Sword Pokémon_ • Types: Steel / Ghost • Egg Groups: Mineral • Base EXP: 157
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -122,21 +112,13 @@ Height: 0.8 m · Weight: 4.5 kg · Base EXP: 157
 
 | Stat | Value |
 | --- | --- |
-| HP | 59 |
-| Attack | 110 |
-| Defense | 150 |
-| Sp. Atk | 45 |
-| Sp. Def | 49 |
-| Speed | 35 |
-| Total | 448 |
-
-**Notable Level-Up Moves**
-- Autotomize (Lv 1, Sword Shield)
-- Fury Cutter (Lv 1, Sun Moon)
-- Shadow Sneak (Lv 1, Sword Shield)
-- Swords Dance (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Metal Sound (Lv 8, X Y)
+| HP | <span class="stat-value stat-mid">59</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-high">150</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">49</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">448</span> |
 </div>
 </div>
 
@@ -148,8 +130,7 @@ Height: 0.8 m · Weight: 4.5 kg · Base EXP: 157
 ## Aegislash Shield (#681)
 <details class="pokemon-card-container" open>
 <summary>Aegislash Shield overview</summary>
-_Royal Sword Pokémon_ • Types: Steel / Ghost
-Height: 1.7 m · Weight: 53.0 kg · Base EXP: 234
+_Royal Sword Pokémon_ • Types: Steel / Ghost • Egg Groups: Mineral • Base EXP: 234
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -186,21 +167,13 @@ Height: 1.7 m · Weight: 53.0 kg · Base EXP: 234
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 50 |
-| Defense | 140 |
-| Sp. Atk | 50 |
-| Sp. Def | 140 |
-| Speed | 60 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Aerial Ace (Lv 1, X Y)
-- Autotomize (Lv 1, X Y)
-- Fury Cutter (Lv 1, X Y)
-- Head Smash (Lv 1, X Y)
-- Iron Defense (Lv 1, X Y)
-- Iron Head (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-high">140</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-high">140</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

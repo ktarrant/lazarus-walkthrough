@@ -10,8 +10,7 @@
 ## Igglybuff (#174)
 <details class="pokemon-card-container" open>
 <summary>Igglybuff overview</summary>
-_Balloon Pokémon_ • Types: Normal / Fairy
-Height: 0.3 m · Weight: 1.0 kg · Base EXP: 42
+_Balloon Pokémon_ • Types: Normal / Fairy • Egg Groups: No Eggs • Base EXP: 42
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,20 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 42
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 30 |
-| Defense | 15 |
-| Sp. Atk | 40 |
-| Sp. Def | 20 |
-| Speed | 15 |
-| Total | 210 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">15</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">20</span> |
+| Speed | <span class="stat-value stat-low">15</span> |
+| Total | <span class="stat-value stat-low">210</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Gold Silver)
-- Copycat (Lv 1, Sword Shield)
-- Pound (Lv 1, Sword Shield)
-- Sing (Lv 1, Gold Silver)
-- Defense Curl (Lv 3, Omega Ruby Alpha Sapphire)
-- Sweet Kiss (Lv 8, Sword Shield)
+- Charm (Lv 1)
+- Sing (Lv 1)
+- Defense Curl (Lv 4)
+- Pound (Lv 9)
+- Sweet Kiss (Lv 14)
 </div>
 </div>
 
@@ -69,8 +67,7 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 42
 ## Jigglypuff (#039)
 <details class="pokemon-card-container" open>
 <summary>Jigglypuff overview</summary>
-_Balloon Pokémon_ • Types: Normal / Fairy
-Height: 0.5 m · Weight: 5.5 kg · Base EXP: 95
+_Balloon Pokémon_ • Types: Normal / Fairy • Egg Groups: Fairy • Base EXP: 95
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +100,26 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 95
 
 | Stat | Value |
 | --- | --- |
-| HP | 115 |
-| Attack | 45 |
-| Defense | 20 |
-| Sp. Atk | 45 |
-| Sp. Def | 25 |
-| Speed | 20 |
-| Total | 270 |
+| HP | <span class="stat-value stat-high">115</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">20</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">270</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Defense Curl (Lv 1, Sword Shield)
-- Disable (Lv 1, Sword Shield)
-- Disarming Voice (Lv 1, Sword Shield)
-- Pound (Lv 1, Sword Shield)
+- Sing (Lv 1)
+- Defense Curl (Lv 4)
+- Pound (Lv 9)
+- Disable (Lv 14)
+- Rollout (Lv 19)
+- Double Slap (Lv 24)
+- Rest (Lv 29)
+- Body Slam (Lv 34)
+- Mimic (Lv 39)
+- Hyper Voice (Lv 44)
+- Double Edge (Lv 49)
 </div>
 </div>
 
@@ -129,8 +131,7 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 95
 ## Wigglytuff (#040)
 <details class="pokemon-card-container" open>
 <summary>Wigglytuff overview</summary>
-_Balloon Pokémon_ • Types: Normal / Fairy
-Height: 1.0 m · Weight: 12.0 kg · Base EXP: 196
+_Balloon Pokémon_ • Types: Normal / Fairy • Egg Groups: Fairy • Base EXP: 196
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,21 +163,19 @@ Height: 1.0 m · Weight: 12.0 kg · Base EXP: 196
 
 | Stat | Value |
 | --- | --- |
-| HP | 140 |
-| Attack | 70 |
-| Defense | 45 |
-| Sp. Atk | 85 |
-| Sp. Def | 50 |
-| Speed | 45 |
-| Total | 435 |
+| HP | <span class="stat-value stat-high">140</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">435</span> |
 
 **Notable Level-Up Moves**
-- Bide (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Body Slam (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Defense Curl (Lv 1, Red Blue)
+- Defense Curl (Lv 1)
+- Disable (Lv 1)
+- Double Slap (Lv 1)
+- Sing (Lv 1)
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Trapinch (#328)
 <details class="pokemon-card-container" open>
 <summary>Trapinch overview</summary>
-_Ant Pit Pokémon_ • Types: Ground
-Height: 0.7 m · Weight: 15.0 kg · Base EXP: 58
+_Ant Pit Pokémon_ • Types: Ground • Egg Groups: Bug / Dragon • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,23 @@ Height: 0.7 m · Weight: 15.0 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 100 |
-| Defense | 45 |
-| Sp. Atk | 45 |
-| Sp. Def | 45 |
-| Speed | 10 |
-| Total | 290 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">10</span> |
+| Total | <span class="stat-value stat-low">290</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bide (Lv 1, Omega Ruby Alpha Sapphire)
-- Bite (Lv 1, Ruby Sapphire)
-- Feint (Lv 1, X Y)
-- Feint Attack (Lv 1, Omega Ruby Alpha Sapphire)
-- Fissure (Lv 1, X Y)
+- Bite (Lv 1)
+- Sand Attack (Lv 9)
+- Feint Attack (Lv 17)
+- Sand Tomb (Lv 25)
+- Crunch (Lv 33)
+- Dig (Lv 41)
+- Sandstorm (Lv 49)
+- Hyper Beam (Lv 57)
 </div>
 </div>
 
@@ -72,8 +73,7 @@ Height: 0.7 m · Weight: 15.0 kg · Base EXP: 58
 ## Vibrava (#329)
 <details class="pokemon-card-container" open>
 <summary>Vibrava overview</summary>
-_Vibration Pokémon_ • Types: Ground / Dragon
-Height: 1.1 m · Weight: 15.3 kg · Base EXP: 119
+_Vibration Pokémon_ • Types: Ground / Dragon • Egg Groups: Bug / Dragon • Base EXP: 119
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +101,27 @@ Height: 1.1 m · Weight: 15.3 kg · Base EXP: 119
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 70 |
-| Defense | 50 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 70 |
-| Total | 340 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">340</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bide (Lv 1, Omega Ruby Alpha Sapphire)
-- Bite (Lv 1, Ruby Sapphire)
-- Bulldoze (Lv 1, Sword Shield)
-- Crunch (Lv 1, Sword Shield)
-- Dig (Lv 1, Sword Shield)
+- Bite (Lv 1)
+- Feint Attack (Lv 1)
+- Sand Attack (Lv 1)
+- Sand Tomb (Lv 1)
+- Sand Attack (Lv 9)
+- Feint Attack (Lv 17)
+- Sand Tomb (Lv 25)
+- Crunch (Lv 33)
+- Dragon Breath (Lv 35)
+- Screech (Lv 41)
+- Sandstorm (Lv 49)
+- Hyper Beam (Lv 57)
 </div>
 </div>
 
@@ -127,8 +133,7 @@ Height: 1.1 m · Weight: 15.3 kg · Base EXP: 119
 ## Flygon (#330)
 <details class="pokemon-card-container" open>
 <summary>Flygon overview</summary>
-_Mystic Pokémon_ • Types: Ground / Dragon
-Height: 2.0 m · Weight: 82.0 kg · Base EXP: 234
+_Mystic Pokémon_ • Types: Ground / Dragon • Egg Groups: Bug / Dragon • Base EXP: 234
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -156,21 +161,27 @@ Height: 2.0 m · Weight: 82.0 kg · Base EXP: 234
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 100 |
-| Defense | 80 |
-| Sp. Atk | 80 |
-| Sp. Def | 80 |
-| Speed | 100 |
-| Total | 520 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Bide (Lv 1, Omega Ruby Alpha Sapphire)
-- Bite (Lv 1, Ruby Sapphire)
-- Bulldoze (Lv 1, Sword Shield)
-- Crunch (Lv 1, Sword Shield)
-- Dig (Lv 1, Sword Shield)
+- Bite (Lv 1)
+- Feint Attack (Lv 1)
+- Sand Attack (Lv 1)
+- Sand Tomb (Lv 1)
+- Sand Attack (Lv 9)
+- Feint Attack (Lv 17)
+- Sand Tomb (Lv 25)
+- Crunch (Lv 33)
+- Dragon Breath (Lv 35)
+- Screech (Lv 41)
+- Sandstorm (Lv 53)
+- Hyper Beam (Lv 65)
 </div>
 </div>
 

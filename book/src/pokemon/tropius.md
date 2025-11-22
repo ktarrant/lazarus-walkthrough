@@ -1,8 +1,7 @@
 ## Tropius (#357)
 <details class="pokemon-card-container" open>
 <summary>Tropius overview</summary>
-_Fruit Pokémon_ • Types: Grass / Flying
-Height: 2.0 m · Weight: 100.0 kg · Base EXP: 161
+_Fruit Pokémon_ • Types: Grass / Flying • Egg Groups: Monster / Plant • Base EXP: 161
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,26 @@ Height: 2.0 m · Weight: 100.0 kg · Base EXP: 161
 
 | Stat | Value |
 | --- | --- |
-| HP | 99 |
-| Attack | 68 |
-| Defense | 83 |
-| Sp. Atk | 72 |
-| Sp. Def | 87 |
-| Speed | 51 |
-| Total | 460 |
+| HP | <span class="stat-value stat-high">99</span> |
+| Attack | <span class="stat-value stat-mid">68</span> |
+| Defense | <span class="stat-value stat-mid">83</span> |
+| Sp. Atk | <span class="stat-value stat-mid">72</span> |
+| Sp. Def | <span class="stat-value stat-mid">87</span> |
+| Speed | <span class="stat-value stat-mid">51</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 
 **Notable Level-Up Moves**
-- Bestow (Lv 1, X Y)
-- Growth (Lv 1, Omega Ruby Alpha Sapphire)
-- Gust (Lv 1, Ruby Sapphire)
-- Leaf Storm (Lv 1, X Y)
-- Leer (Lv 1, Ruby Sapphire)
-- Natural Gift (Lv 1, X Y)
+- Gust (Lv 1)
+- Leer (Lv 1)
+- Growth (Lv 7)
+- Razor Leaf (Lv 11)
+- Stomp (Lv 17)
+- Sweet Scent (Lv 21)
+- Whirlwind (Lv 27)
+- Magical Leaf (Lv 31)
+- Body Slam (Lv 37)
+- Solar Beam (Lv 41)
+- Synthesis (Lv 47)
 </div>
 </div>
 

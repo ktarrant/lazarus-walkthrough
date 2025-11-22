@@ -10,8 +10,7 @@
 ## Pawmi (#921)
 <details class="pokemon-card-container" open>
 <summary>Pawmi overview</summary>
-_Mouse Pokémon_ • Types: Electric
-Height: 0.3 m · Weight: 2.5 kg · Base EXP: 48
+_Mouse Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 48
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.3 m · Weight: 2.5 kg · Base EXP: 48
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 50 |
-| Defense | 20 |
-| Sp. Atk | 40 |
-| Sp. Def | 25 |
-| Speed | 60 |
-| Total | 240 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 3, Scarlet Violet)
-- Quick Attack (Lv 6, Scarlet Violet)
-- Charge (Lv 8, Scarlet Violet)
-- Nuzzle (Lv 12, Scarlet Violet)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">20</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">240</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.3 m · Weight: 2.5 kg · Base EXP: 48
 ## Pawmo (#922)
 <details class="pokemon-card-container" open>
 <summary>Pawmo overview</summary>
-_Mouse Pokémon_ • Types: Electric / Fighting
-Height: 0.4 m · Weight: 6.5 kg · Base EXP: 123
+_Mouse Pokémon_ • Types: Electric / Fighting • Egg Groups: Ground • Base EXP: 123
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 123
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 75 |
-| Defense | 40 |
-| Sp. Atk | 50 |
-| Sp. Def | 40 |
-| Speed | 85 |
-| Total | 350 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 3, Scarlet Violet)
-- Quick Attack (Lv 6, Scarlet Violet)
-- Charge (Lv 8, Scarlet Violet)
-- Nuzzle (Lv 12, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">350</span> |
 </div>
 </div>
 
@@ -130,8 +112,7 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 123
 ## Pawmot (#923)
 <details class="pokemon-card-container" open>
 <summary>Pawmot overview</summary>
-_Hands-On Pokémon_ • Types: Electric / Fighting
-Height: 0.9 m · Weight: 41.0 kg · Base EXP: 245
+_Hands-On Pokémon_ • Types: Electric / Fighting • Egg Groups: Ground • Base EXP: 245
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,21 +143,13 @@ Height: 0.9 m · Weight: 41.0 kg · Base EXP: 245
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 115 |
-| Defense | 70 |
-| Sp. Atk | 70 |
-| Sp. Def | 60 |
-| Speed | 105 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Wild Charge (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 3, Scarlet Violet)
-- Quick Attack (Lv 6, Scarlet Violet)
-- Charge (Lv 8, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">105</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

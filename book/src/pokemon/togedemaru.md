@@ -1,8 +1,7 @@
 ## Togedemaru (#777)
 <details class="pokemon-card-container" open>
 <summary>Togedemaru overview</summary>
-_Roly-Poly Pokémon_ • Types: Electric / Steel
-Height: 0.3 m · Weight: 3.3 kg · Base EXP: 152
+_Roly-Poly Pokémon_ • Types: Electric / Steel • Egg Groups: Ground / Fairy • Base EXP: 152
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.3 m · Weight: 3.3 kg · Base EXP: 152
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 98 |
-| Defense | 63 |
-| Sp. Atk | 40 |
-| Sp. Def | 73 |
-| Speed | 96 |
-| Total | 435 |
-
-**Notable Level-Up Moves**
-- Nuzzle (Lv 1, Sword Shield)
-- Tackle (Lv 1, Sun Moon)
-- Thunder Shock (Lv 1, Sun Moon)
-- Defense Curl (Lv 5, Sun Moon)
-- Rollout (Lv 9, Sun Moon)
-- Charge (Lv 10, Sword Shield)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">98</span> |
+| Defense | <span class="stat-value stat-mid">63</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">73</span> |
+| Speed | <span class="stat-value stat-high">96</span> |
+| Total | <span class="stat-value stat-mid">435</span> |
 </div>
 </div>
 

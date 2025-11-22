@@ -22,8 +22,7 @@
 ## Eevee (#133)
 <details class="pokemon-card-container" open>
 <summary>Eevee overview</summary>
-_Evolution Pokémon_ • Types: Normal
-Height: 0.3 m · Weight: 6.5 kg · Base EXP: 65
+_Evolution Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -61,21 +60,24 @@ Height: 0.3 m · Weight: 6.5 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 55 |
-| Defense | 50 |
-| Sp. Atk | 45 |
-| Sp. Def | 65 |
-| Speed | 55 |
-| Total | 325 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 
 **Notable Level-Up Moves**
-- Covet (Lv 1, Sun Moon)
-- Growl (Lv 1, X Y)
-- Helping Hand (Lv 1, Ruby Sapphire)
-- Sand Attack (Lv 1, Red Blue)
-- Tackle (Lv 1, Red Blue)
-- Tail Whip (Lv 1, Yellow)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 8)
+- Growl (Lv 16)
+- Quick Attack (Lv 23)
+- Bite (Lv 30)
+- Baton Pass (Lv 36)
+- Take Down (Lv 42)
 </div>
 </div>
 
@@ -87,8 +89,7 @@ Height: 0.3 m · Weight: 6.5 kg · Base EXP: 65
 ## Vaporeon (#134)
 <details class="pokemon-card-container" open>
 <summary>Vaporeon overview</summary>
-_Bubble Jet Pokémon_ • Types: Water
-Height: 1.0 m · Weight: 29.0 kg · Base EXP: 184
+_Bubble Jet Pokémon_ • Types: Water • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -123,21 +124,26 @@ Height: 1.0 m · Weight: 29.0 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 130 |
-| Attack | 65 |
-| Defense | 60 |
-| Sp. Atk | 110 |
-| Sp. Def | 95 |
-| Speed | 65 |
-| Total | 525 |
+| HP | <span class="stat-value stat-high">130</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Sword Shield)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 8)
+- Water Gun (Lv 16)
+- Quick Attack (Lv 23)
+- Bite (Lv 30)
+- Aurora Beam (Lv 36)
+- Haze (Lv 42)
+- Acid Armor (Lv 47)
+- Hydro Pump (Lv 52)
 </div>
 </div>
 
@@ -149,8 +155,7 @@ Height: 1.0 m · Weight: 29.0 kg · Base EXP: 184
 ## Jolteon (#135)
 <details class="pokemon-card-container" open>
 <summary>Jolteon overview</summary>
-_Lightning Pokémon_ • Types: Electric
-Height: 0.8 m · Weight: 24.5 kg · Base EXP: 184
+_Lightning Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -183,21 +188,26 @@ Height: 0.8 m · Weight: 24.5 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 65 |
-| Defense | 60 |
-| Sp. Atk | 110 |
-| Sp. Def | 95 |
-| Speed | 130 |
-| Total | 525 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-high">130</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Sword Shield)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 8)
+- Thunder Shock (Lv 16)
+- Quick Attack (Lv 23)
+- Double Kick (Lv 30)
+- Pin Missile (Lv 36)
+- Thunder Wave (Lv 42)
+- Agility (Lv 47)
+- Thunder (Lv 52)
 </div>
 </div>
 
@@ -209,8 +219,7 @@ Height: 0.8 m · Weight: 24.5 kg · Base EXP: 184
 ## Flareon (#136)
 <details class="pokemon-card-container" open>
 <summary>Flareon overview</summary>
-_Flame Pokémon_ • Types: Fire
-Height: 0.9 m · Weight: 25.0 kg · Base EXP: 184
+_Flame Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -248,21 +257,26 @@ Height: 0.9 m · Weight: 25.0 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 130 |
-| Defense | 60 |
-| Sp. Atk | 95 |
-| Sp. Def | 110 |
-| Speed | 65 |
-| Total | 525 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Sword Shield)
-- Ember (Lv 1, Red Blue)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 8)
+- Ember (Lv 16)
+- Quick Attack (Lv 23)
+- Bite (Lv 30)
+- Fire Spin (Lv 36)
+- Smog (Lv 42)
+- Leer (Lv 47)
+- Flamethrower (Lv 52)
 </div>
 </div>
 
@@ -274,8 +288,7 @@ Height: 0.9 m · Weight: 25.0 kg · Base EXP: 184
 ## Espeon (#196)
 <details class="pokemon-card-container" open>
 <summary>Espeon overview</summary>
-_Sun Pokémon_ • Types: Psychic
-Height: 0.9 m · Weight: 26.5 kg · Base EXP: 184
+_Sun Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -309,21 +322,26 @@ Height: 0.9 m · Weight: 26.5 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 65 |
-| Defense | 60 |
-| Sp. Atk | 130 |
-| Sp. Def | 95 |
-| Speed | 110 |
-| Total | 525 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">130</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Confusion (Lv 1, Sun Moon)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 8)
+- Confusion (Lv 16)
+- Quick Attack (Lv 23)
+- Swift (Lv 30)
+- Psybeam (Lv 36)
+- Psych Up (Lv 42)
+- Psychic (Lv 47)
+- Morning Sun (Lv 52)
 </div>
 </div>
 
@@ -335,8 +353,7 @@ Height: 0.9 m · Weight: 26.5 kg · Base EXP: 184
 ## Umbreon (#197)
 <details class="pokemon-card-container" open>
 <summary>Umbreon overview</summary>
-_Moonlight Pokémon_ • Types: Dark
-Height: 1.0 m · Weight: 27.0 kg · Base EXP: 184
+_Moonlight Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -371,21 +388,26 @@ Height: 1.0 m · Weight: 27.0 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 65 |
-| Defense | 110 |
-| Sp. Atk | 60 |
-| Sp. Def | 130 |
-| Speed | 65 |
-| Total | 525 |
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-high">130</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Sword Shield)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 8)
+- Pursuit (Lv 16)
+- Quick Attack (Lv 23)
+- Confuse Ray (Lv 30)
+- Feint Attack (Lv 36)
+- Mean Look (Lv 42)
+- Screech (Lv 47)
+- Moonlight (Lv 52)
 </div>
 </div>
 
@@ -397,8 +419,7 @@ Height: 1.0 m · Weight: 27.0 kg · Base EXP: 184
 ## Leafeon (#470)
 <details class="pokemon-card-container" open>
 <summary>Leafeon overview</summary>
-_Verdant Pokémon_ • Types: Grass
-Height: 1.0 m · Weight: 25.5 kg · Base EXP: 184
+_Verdant Pokémon_ • Types: Grass • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -436,21 +457,13 @@ Height: 1.0 m · Weight: 25.5 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 110 |
-| Defense | 130 |
-| Sp. Atk | 60 |
-| Sp. Def | 65 |
-| Speed | 95 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-high">130</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 
@@ -462,8 +475,7 @@ Height: 1.0 m · Weight: 25.5 kg · Base EXP: 184
 ## Glaceon (#471)
 <details class="pokemon-card-container" open>
 <summary>Glaceon overview</summary>
-_Fresh Snow Pokémon_ • Types: Ice
-Height: 0.8 m · Weight: 25.9 kg · Base EXP: 184
+_Fresh Snow Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -497,21 +509,13 @@ Height: 0.8 m · Weight: 25.9 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 60 |
-| Defense | 110 |
-| Sp. Atk | 130 |
-| Sp. Def | 95 |
-| Speed | 65 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Sword Shield)
-- Growl (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-high">130</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 
@@ -523,8 +527,7 @@ Height: 0.8 m · Weight: 25.9 kg · Base EXP: 184
 ## Sylveon (#700)
 <details class="pokemon-card-container" open>
 <summary>Sylveon overview</summary>
-_Intertwining Pokémon_ • Types: Fairy
-Height: 1.0 m · Weight: 23.5 kg · Base EXP: 184
+_Intertwining Pokémon_ • Types: Fairy • Egg Groups: Ground • Base EXP: 184
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -559,21 +562,13 @@ Height: 1.0 m · Weight: 23.5 kg · Base EXP: 184
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 65 |
-| Defense | 65 |
-| Sp. Atk | 110 |
-| Sp. Def | 130 |
-| Speed | 60 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Baton Pass (Lv 1, Sword Shield)
-- Bite (Lv 1, Sword Shield)
-- Charm (Lv 1, Sword Shield)
-- Copycat (Lv 1, Sword Shield)
-- Covet (Lv 1, Sword Shield)
-- Disarming Voice (Lv 1, X Y)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-high">130</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 

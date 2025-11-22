@@ -8,8 +8,7 @@
 ## Pancham (#674)
 <details class="pokemon-card-container" open>
 <summary>Pancham overview</summary>
-_Playful Pokémon_ • Types: Fighting
-Height: 0.6 m · Weight: 8.0 kg · Base EXP: 70
+_Playful Pokémon_ • Types: Fighting • Egg Groups: Ground / Humanshape • Base EXP: 70
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.6 m · Weight: 8.0 kg · Base EXP: 70
 
 | Stat | Value |
 | --- | --- |
-| HP | 67 |
-| Attack | 82 |
-| Defense | 62 |
-| Sp. Atk | 46 |
-| Sp. Def | 48 |
-| Speed | 43 |
-| Total | 348 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Arm Thrust (Lv 4, Sword Shield)
-- Taunt (Lv 8, Sword Shield)
-- Work Up (Lv 10, X Y)
-- Circle Throw (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-mid">67</span> |
+| Attack | <span class="stat-value stat-mid">82</span> |
+| Defense | <span class="stat-value stat-mid">62</span> |
+| Sp. Atk | <span class="stat-value stat-low">46</span> |
+| Sp. Def | <span class="stat-value stat-low">48</span> |
+| Speed | <span class="stat-value stat-low">43</span> |
+| Total | <span class="stat-value stat-mid">348</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.6 m · Weight: 8.0 kg · Base EXP: 70
 ## Pangoro (#675)
 <details class="pokemon-card-container" open>
 <summary>Pangoro overview</summary>
-_Daunting Pokémon_ • Types: Fighting / Dark
-Height: 2.1 m · Weight: 136.0 kg · Base EXP: 173
+_Daunting Pokémon_ • Types: Fighting / Dark • Egg Groups: Ground / Humanshape • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -99,21 +89,13 @@ Height: 2.1 m · Weight: 136.0 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 124 |
-| Defense | 78 |
-| Sp. Atk | 69 |
-| Sp. Def | 71 |
-| Speed | 58 |
-| Total | 495 |
-
-**Notable Level-Up Moves**
-- Arm Thrust (Lv 1, Sun Moon)
-- Bullet Punch (Lv 1, Sun Moon)
-- Entrainment (Lv 1, X Y)
-- Hammer Arm (Lv 1, X Y)
-- Leer (Lv 1, X Y)
-- Low Sweep (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-high">124</span> |
+| Defense | <span class="stat-value stat-mid">78</span> |
+| Sp. Atk | <span class="stat-value stat-mid">69</span> |
+| Sp. Def | <span class="stat-value stat-mid">71</span> |
+| Speed | <span class="stat-value stat-mid">58</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 </div>
 </div>
 

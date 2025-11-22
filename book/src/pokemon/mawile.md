@@ -1,8 +1,7 @@
 ## Mawile (#303)
 <details class="pokemon-card-container" open>
 <summary>Mawile overview</summary>
-_Deceiver Pokémon_ • Types: Steel / Fairy
-Height: 0.6 m · Weight: 11.5 kg · Base EXP: 133
+_Deceiver Pokémon_ • Types: Steel / Fairy • Egg Groups: Ground / Fairy • Base EXP: 133
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,27 @@ Height: 0.6 m · Weight: 11.5 kg · Base EXP: 133
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 85 |
-| Defense | 85 |
-| Sp. Atk | 55 |
-| Sp. Def | 55 |
-| Speed | 50 |
-| Total | 380 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">380</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Ruby Sapphire)
-- Fairy Wind (Lv 1, X Y)
-- Growl (Lv 1, X Y)
-- Iron Head (Lv 1, X Y)
-- Play Rough (Lv 1, X Y)
-- Taunt (Lv 1, X Y)
+- Astonish (Lv 1)
+- Fake Tears (Lv 6)
+- Bite (Lv 11)
+- Sweet Scent (Lv 16)
+- Vice Grip (Lv 21)
+- Feint Attack (Lv 26)
+- Baton Pass (Lv 31)
+- Crunch (Lv 36)
+- Iron Defense (Lv 41)
+- Spit Up (Lv 46)
+- Stockpile (Lv 46)
+- Swallow (Lv 46)
 </div>
 </div>
 

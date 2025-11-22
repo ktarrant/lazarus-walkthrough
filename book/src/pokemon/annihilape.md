@@ -10,8 +10,7 @@
 ## Mankey (#056)
 <details class="pokemon-card-container" open>
 <summary>Mankey overview</summary>
-_Pig Monkey Pokémon_ • Types: Fighting
-Height: 0.5 m · Weight: 28.0 kg · Base EXP: 61
+_Pig Monkey Pokémon_ • Types: Fighting • Egg Groups: Ground • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,25 @@ Height: 0.5 m · Weight: 28.0 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 80 |
-| Defense | 35 |
-| Sp. Atk | 35 |
-| Sp. Def | 45 |
-| Speed | 70 |
-| Total | 305 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 
 **Notable Level-Up Moves**
-- Covet (Lv 1, Diamond Pearl)
-- Focus Energy (Lv 1, Diamond Pearl)
-- Leer (Lv 1, Red Blue)
-- Low Kick (Lv 1, Diamond Pearl)
-- Scratch (Lv 1, Red Blue)
-- Fury Swipes (Lv 5, Sun Moon)
+- Leer (Lv 1)
+- Scratch (Lv 1)
+- Low Kick (Lv 9)
+- Karate Chop (Lv 15)
+- Fury Swipes (Lv 21)
+- Focus Energy (Lv 27)
+- Seismic Toss (Lv 33)
+- Cross Chop (Lv 39)
+- Screech (Lv 45)
+- Thrash (Lv 51)
 </div>
 </div>
 
@@ -70,8 +73,7 @@ Height: 0.5 m · Weight: 28.0 kg · Base EXP: 61
 ## Primeape (#057)
 <details class="pokemon-card-container" open>
 <summary>Primeape overview</summary>
-_Pig Monkey Pokémon_ • Types: Fighting
-Height: 1.0 m · Weight: 32.0 kg · Base EXP: 159
+_Pig Monkey Pokémon_ • Types: Fighting • Egg Groups: Ground • Base EXP: 159
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +106,28 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 159
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 105 |
-| Defense | 60 |
-| Sp. Atk | 60 |
-| Sp. Def | 70 |
-| Speed | 95 |
-| Total | 455 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">455</span> |
 
 **Notable Level-Up Moves**
-- Counter (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Covet (Lv 1, Brilliant Diamond And Shining Pearl)
-- Encore (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Final Gambit (Lv 1, X Y)
-- Fling (Lv 1, Diamond Pearl)
-- Focus Energy (Lv 1, Diamond Pearl)
+- Leer (Lv 1)
+- Low Kick (Lv 1)
+- Rage (Lv 1)
+- Scratch (Lv 1)
+- Low Kick (Lv 9)
+- Karate Chop (Lv 15)
+- Fury Swipes (Lv 21)
+- Focus Energy (Lv 27)
+- Rage (Lv 28)
+- Seismic Toss (Lv 36)
+- Cross Chop (Lv 45)
+- Screech (Lv 54)
+- Thrash (Lv 63)
 </div>
 </div>
 
@@ -130,8 +139,7 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 159
 ## Annihilape (#979)
 <details class="pokemon-card-container" open>
 <summary>Annihilape overview</summary>
-_Rage Monkey Pokémon_ • Types: Fighting / Ghost
-Height: 1.2 m · Weight: 56.0 kg · Base EXP: 268
+_Rage Monkey Pokémon_ • Types: Fighting / Ghost • Egg Groups: Ground • Base EXP: 268
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -166,21 +174,13 @@ Height: 1.2 m · Weight: 56.0 kg · Base EXP: 268
 
 | Stat | Value |
 | --- | --- |
-| HP | 110 |
-| Attack | 115 |
-| Defense | 80 |
-| Sp. Atk | 50 |
-| Sp. Def | 90 |
-| Speed | 90 |
-| Total | 535 |
-
-**Notable Level-Up Moves**
-- Counter (Lv 1, Scarlet Violet)
-- Fling (Lv 1, Scarlet Violet)
-- Focus Energy (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Scratch (Lv 1, Scarlet Violet)
-- Fury Swipes (Lv 5, Scarlet Violet)
+| HP | <span class="stat-value stat-high">110</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
 </div>
 </div>
 

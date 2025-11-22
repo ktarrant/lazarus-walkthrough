@@ -10,8 +10,7 @@
 ## Duskull (#355)
 <details class="pokemon-card-container" open>
 <summary>Duskull overview</summary>
-_Requiem Pokémon_ • Types: Ghost
-Height: 0.8 m · Weight: 15.0 kg · Base EXP: 59
+_Requiem Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 59
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,26 @@ Height: 0.8 m · Weight: 15.0 kg · Base EXP: 59
 
 | Stat | Value |
 | --- | --- |
-| HP | 20 |
-| Attack | 40 |
-| Defense | 90 |
-| Sp. Atk | 30 |
-| Sp. Def | 90 |
-| Speed | 25 |
-| Total | 295 |
+| HP | <span class="stat-value stat-low">20</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-low">25</span> |
+| Total | <span class="stat-value stat-low">295</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Legends Arceus)
-- Astonish (Lv 1, Sword Shield)
-- Leer (Lv 1, Ruby Sapphire)
-- Night Shade (Lv 1, Ruby Sapphire)
-- Disable (Lv 4, Sword Shield)
-- Shadow Sneak (Lv 6, Legends Arceus)
+- Leer (Lv 1)
+- Night Shade (Lv 1)
+- Disable (Lv 5)
+- Foresight (Lv 12)
+- Astonish (Lv 16)
+- Confuse Ray (Lv 23)
+- Pursuit (Lv 27)
+- Curse (Lv 34)
+- Will O Wisp (Lv 38)
+- Mean Look (Lv 45)
+- Future Sight (Lv 49)
 </div>
 </div>
 
@@ -70,8 +74,7 @@ Height: 0.8 m · Weight: 15.0 kg · Base EXP: 59
 ## Dusclops (#356)
 <details class="pokemon-card-container" open>
 <summary>Dusclops overview</summary>
-_Beckon Pokémon_ • Types: Ghost
-Height: 1.6 m · Weight: 30.6 kg · Base EXP: 159
+_Beckon Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 159
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +106,29 @@ Height: 1.6 m · Weight: 30.6 kg · Base EXP: 159
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 70 |
-| Defense | 130 |
-| Sp. Atk | 60 |
-| Sp. Def | 130 |
-| Speed | 25 |
-| Total | 455 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-high">130</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-high">130</span> |
+| Speed | <span class="stat-value stat-low">25</span> |
+| Total | <span class="stat-value stat-mid">455</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Legends Arceus)
-- Astonish (Lv 1, Omega Ruby Alpha Sapphire)
-- Bind (Lv 1, Ruby Sapphire)
-- Disable (Lv 1, Ruby Sapphire)
-- Fire Punch (Lv 1, Diamond Pearl)
-- Future Sight (Lv 1, Omega Ruby Alpha Sapphire)
+- Bind (Lv 1)
+- Disable (Lv 1)
+- Leer (Lv 1)
+- Night Shade (Lv 1)
+- Disable (Lv 5)
+- Foresight (Lv 12)
+- Astonish (Lv 16)
+- Confuse Ray (Lv 23)
+- Pursuit (Lv 27)
+- Curse (Lv 34)
+- Shadow Punch (Lv 37)
+- Will O Wisp (Lv 41)
+- Mean Look (Lv 51)
+- Future Sight (Lv 58)
 </div>
 </div>
 
@@ -129,8 +140,7 @@ Height: 1.6 m · Weight: 30.6 kg · Base EXP: 159
 ## Dusknoir (#477)
 <details class="pokemon-card-container" open>
 <summary>Dusknoir overview</summary>
-_Gripper Pokémon_ • Types: Ghost
-Height: 2.2 m · Weight: 106.6 kg · Base EXP: 236
+_Gripper Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 236
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -158,21 +168,13 @@ Height: 2.2 m · Weight: 106.6 kg · Base EXP: 236
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 100 |
-| Defense | 135 |
-| Sp. Atk | 65 |
-| Sp. Def | 135 |
-| Speed | 45 |
-| Total | 525 |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1, Legends Arceus)
-- Astonish (Lv 1, Omega Ruby Alpha Sapphire)
-- Bind (Lv 1, Diamond Pearl)
-- Disable (Lv 1, Diamond Pearl)
-- Fire Punch (Lv 1, Diamond Pearl)
-- Future Sight (Lv 1, Omega Ruby Alpha Sapphire)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-high">135</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">135</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 </div>
 </div>
 

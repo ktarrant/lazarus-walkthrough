@@ -8,8 +8,7 @@
 ## Zorua (#570)
 <details class="pokemon-card-container" open>
 <summary>Zorua overview</summary>
-_Tricky Fox Pokémon_ • Types: Dark
-Height: 0.7 m · Weight: 12.5 kg · Base EXP: 66
+_Tricky Fox Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,13 @@ Height: 0.7 m · Weight: 12.5 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 65 |
-| Defense | 40 |
-| Sp. Atk | 80 |
-| Sp. Def | 40 |
-| Speed | 65 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Scratch (Lv 1, Black White)
-- Torment (Lv 4, Sword Shield)
-- Pursuit (Lv 5, Black White)
-- Hone Claws (Lv 8, Sword Shield)
-- Fake Tears (Lv 9, Black White)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -65,8 +56,7 @@ Height: 0.7 m · Weight: 12.5 kg · Base EXP: 66
 ## Zoroark (#571)
 <details class="pokemon-card-container" open>
 <summary>Zoroark overview</summary>
-_Illusion Fox Pokémon_ • Types: Dark
-Height: 1.6 m · Weight: 81.1 kg · Base EXP: 179
+_Illusion Fox Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 179
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -93,21 +83,13 @@ Height: 1.6 m · Weight: 81.1 kg · Base EXP: 179
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 105 |
-| Defense | 60 |
-| Sp. Atk | 120 |
-| Sp. Def | 60 |
-| Speed | 105 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Hone Claws (Lv 1, Black White)
-- Imprison (Lv 1, X Y)
-- Leer (Lv 1, Black White)
-- Night Daze (Lv 1, X Y)
-- Night Slash (Lv 1, Sun Moon)
-- Pursuit (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">120</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">105</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

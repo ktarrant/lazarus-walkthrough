@@ -8,8 +8,7 @@
 ## Paras (#046)
 <details class="pokemon-card-container" open>
 <summary>Paras overview</summary>
-_Mushroom Pokémon_ • Types: Bug / Grass
-Height: 0.3 m · Weight: 5.4 kg · Base EXP: 57
+_Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base EXP: 57
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,24 @@ Height: 0.3 m · Weight: 5.4 kg · Base EXP: 57
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 70 |
-| Defense | 55 |
-| Sp. Atk | 45 |
-| Sp. Def | 55 |
-| Speed | 25 |
-| Total | 285 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">25</span> |
+| Total | <span class="stat-value stat-low">285</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Legends Arceus)
-- Scratch (Lv 1, Red Blue)
-- Sleep Powder (Lv 2, Lets Go Pikachu Lets Go Eevee)
-- Stun Spore (Lv 4, Lets Go Pikachu Lets Go Eevee)
-- Poison Powder (Lv 6, Diamond Pearl)
-- Leech Life (Lv 11, Diamond Pearl)
+- Scratch (Lv 1)
+- Stun Spore (Lv 7)
+- Poison Powder (Lv 13)
+- Leech Life (Lv 19)
+- Spore (Lv 25)
+- Slash (Lv 31)
+- Growth (Lv 37)
+- Giga Drain (Lv 43)
+- Aromatherapy (Lv 49)
 </div>
 </div>
 
@@ -75,8 +77,7 @@ Height: 0.3 m · Weight: 5.4 kg · Base EXP: 57
 ## Parasect (#047)
 <details class="pokemon-card-container" open>
 <summary>Parasect overview</summary>
-_Mushroom Pokémon_ • Types: Bug / Grass
-Height: 1.0 m · Weight: 29.5 kg · Base EXP: 142
+_Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -110,21 +111,26 @@ Height: 1.0 m · Weight: 29.5 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 95 |
-| Defense | 80 |
-| Sp. Atk | 60 |
-| Sp. Def | 80 |
-| Speed | 30 |
-| Total | 405 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Cross Poison (Lv 1, Diamond Pearl)
-- Leech Life (Lv 1, Red Blue)
-- Leech Seed (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Poison Powder (Lv 1, Gold Silver)
-- Scratch (Lv 1, Red Blue)
+- Poison Powder (Lv 1)
+- Scratch (Lv 1)
+- Stun Spore (Lv 1)
+- Stun Spore (Lv 7)
+- Poison Powder (Lv 13)
+- Leech Life (Lv 19)
+- Spore (Lv 27)
+- Slash (Lv 35)
+- Growth (Lv 43)
+- Giga Drain (Lv 51)
+- Aromatherapy (Lv 59)
 </div>
 </div>
 

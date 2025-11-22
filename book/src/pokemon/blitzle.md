@@ -8,8 +8,7 @@
 ## Blitzle (#522)
 <details class="pokemon-card-container" open>
 <summary>Blitzle overview</summary>
-_Electrified Pokémon_ • Types: Electric
-Height: 0.8 m · Weight: 29.8 kg · Base EXP: 59
+_Electrified Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 59
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,13 @@ Height: 0.8 m · Weight: 29.8 kg · Base EXP: 59
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 60 |
-| Defense | 32 |
-| Sp. Atk | 50 |
-| Sp. Def | 32 |
-| Speed | 76 |
-| Total | 295 |
-
-**Notable Level-Up Moves**
-- Quick Attack (Lv 1, Black White)
-- Tail Whip (Lv 4, Black White)
-- Charge (Lv 8, Black White)
-- Shock Wave (Lv 11, Black White)
-- Thunder Wave (Lv 15, Black White)
-- Flame Charge (Lv 18, Black White)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">32</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">32</span> |
+| Speed | <span class="stat-value stat-mid">76</span> |
+| Total | <span class="stat-value stat-low">295</span> |
 </div>
 </div>
 
@@ -66,8 +57,7 @@ Height: 0.8 m · Weight: 29.8 kg · Base EXP: 59
 ## Zebstrika (#523)
 <details class="pokemon-card-container" open>
 <summary>Zebstrika overview</summary>
-_Thunderbolt Pokémon_ • Types: Electric
-Height: 1.6 m · Weight: 79.5 kg · Base EXP: 174
+_Thunderbolt Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 174
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -94,21 +84,13 @@ Height: 1.6 m · Weight: 79.5 kg · Base EXP: 174
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 100 |
-| Defense | 63 |
-| Sp. Atk | 80 |
-| Sp. Def | 63 |
-| Speed | 116 |
-| Total | 497 |
-
-**Notable Level-Up Moves**
-- Charge (Lv 1, Black White)
-- Ion Deluge (Lv 1, X Y)
-- Quick Attack (Lv 1, Black White)
-- Tail Whip (Lv 1, Black White)
-- Thunder Wave (Lv 1, Black White)
-- Shock Wave (Lv 11, Black White)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-mid">63</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-high">116</span> |
+| Total | <span class="stat-value stat-mid">497</span> |
 </div>
 </div>
 

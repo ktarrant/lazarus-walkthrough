@@ -8,8 +8,7 @@
 ## Girafarig (#203)
 <details class="pokemon-card-container" open>
 <summary>Girafarig overview</summary>
-_Long Neck Pokémon_ • Types: Normal / Psychic
-Height: 1.5 m · Weight: 41.5 kg · Base EXP: 159
+_Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 159
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,25 @@ Height: 1.5 m · Weight: 41.5 kg · Base EXP: 159
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 80 |
-| Defense | 65 |
-| Sp. Atk | 90 |
-| Sp. Def | 65 |
-| Speed | 85 |
-| Total | 455 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">455</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Diamond Pearl)
-- Confusion (Lv 1, Gold Silver)
-- Growl (Lv 1, Gold Silver)
-- Guard Swap (Lv 1, Diamond Pearl)
-- Power Swap (Lv 1, Diamond Pearl)
-- Stomp (Lv 1, Gold Silver)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Astonish (Lv 7)
+- Confusion (Lv 13)
+- Stomp (Lv 19)
+- Odor Sleuth (Lv 25)
+- Agility (Lv 31)
+- Baton Pass (Lv 37)
+- Psybeam (Lv 43)
+- Crunch (Lv 49)
 </div>
 </div>
 
@@ -68,8 +71,7 @@ Height: 1.5 m · Weight: 41.5 kg · Base EXP: 159
 ## Farigiraf (#981)
 <details class="pokemon-card-container" open>
 <summary>Farigiraf overview</summary>
-_Long Neck Pokémon_ • Types: Normal / Psychic
-Height: 3.2 m · Weight: 160.0 kg · Base EXP: 260
+_Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 260
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,21 +102,13 @@ Height: 3.2 m · Weight: 160.0 kg · Base EXP: 260
 
 | Stat | Value |
 | --- | --- |
-| HP | 120 |
-| Attack | 90 |
-| Defense | 70 |
-| Sp. Atk | 110 |
-| Sp. Def | 70 |
-| Speed | 60 |
-| Total | 520 |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Growl (Lv 1, Scarlet Violet)
-- Guard Swap (Lv 1, Scarlet Violet)
-- Power Swap (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Confusion (Lv 5, Scarlet Violet)
+| HP | <span class="stat-value stat-high">120</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 </div>
 </div>
 

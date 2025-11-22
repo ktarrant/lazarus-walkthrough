@@ -8,8 +8,7 @@
 ## Munna (#517)
 <details class="pokemon-card-container" open>
 <summary>Munna overview</summary>
-_Dream Eater Pokémon_ • Types: Psychic
-Height: 0.6 m · Weight: 23.3 kg · Base EXP: 58
+_Dream Eater Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.6 m · Weight: 23.3 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 76 |
-| Attack | 25 |
-| Defense | 45 |
-| Sp. Atk | 67 |
-| Sp. Def | 55 |
-| Speed | 24 |
-| Total | 292 |
-
-**Notable Level-Up Moves**
-- Defense Curl (Lv 1, Black White)
-- Psywave (Lv 1, Black White)
-- Stored Power (Lv 1, Sword Shield)
-- Hypnosis (Lv 4, Sword Shield)
-- Lucky Chant (Lv 5, Black White)
-- Yawn (Lv 7, Black White)
+| HP | <span class="stat-value stat-mid">76</span> |
+| Attack | <span class="stat-value stat-low">25</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">67</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-low">24</span> |
+| Total | <span class="stat-value stat-low">292</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.6 m · Weight: 23.3 kg · Base EXP: 58
 ## Musharna (#518)
 <details class="pokemon-card-container" open>
 <summary>Musharna overview</summary>
-_Drowsing Pokémon_ • Types: Psychic
-Height: 1.1 m · Weight: 60.5 kg · Base EXP: 170
+_Drowsing Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -101,21 +91,13 @@ Height: 1.1 m · Weight: 60.5 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 116 |
-| Attack | 55 |
-| Defense | 85 |
-| Sp. Atk | 107 |
-| Sp. Def | 95 |
-| Speed | 29 |
-| Total | 487 |
-
-**Notable Level-Up Moves**
-- Calm Mind (Lv 1, Sword Shield)
-- Defense Curl (Lv 1, Black White)
-- Dream Eater (Lv 1, Sword Shield)
-- Future Sight (Lv 1, Sword Shield)
-- Hypnosis (Lv 1, Black White)
-- Imprison (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">116</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-high">107</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-low">29</span> |
+| Total | <span class="stat-value stat-mid">487</span> |
 </div>
 </div>
 

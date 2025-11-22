@@ -8,8 +8,7 @@
 ## Basculin Red Striped (#550)
 <details class="pokemon-card-container" open>
 <summary>Basculin Red Striped overview</summary>
-_Hostile Pokémon_ • Types: Water
-Height: 1.0 m · Weight: 18.0 kg · Base EXP: 161
+_Hostile Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 161
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -38,21 +37,13 @@ Height: 1.0 m · Weight: 18.0 kg · Base EXP: 161
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 92 |
-| Defense | 65 |
-| Sp. Atk | 80 |
-| Sp. Def | 55 |
-| Speed | 98 |
-| Total | 460 |
-
-**Notable Level-Up Moves**
-- Flail (Lv 1, X Y)
-- Tackle (Lv 1, Black White)
-- Tail Whip (Lv 1, X Y)
-- Thrash (Lv 1, X Y)
-- Water Gun (Lv 1, Black White)
-- Uproar (Lv 3, Sun Moon)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">92</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-high">98</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 </div>
 </div>
 
@@ -64,8 +55,7 @@ Height: 1.0 m · Weight: 18.0 kg · Base EXP: 161
 ## Basculegion Male (#902)
 <details class="pokemon-card-container" open>
 <summary>Basculegion Male overview</summary>
-_Big Fish Pokémon_ • Types: Water / Ghost
-Height: 3.0 m · Weight: 110.0 kg · Base EXP: 265
+_Big Fish Pokémon_ • Types: Water / Ghost • Egg Groups: Water2 • Base EXP: 265
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,21 +90,13 @@ Height: 3.0 m · Weight: 110.0 kg · Base EXP: 265
 
 | Stat | Value |
 | --- | --- |
-| HP | 120 |
-| Attack | 112 |
-| Defense | 65 |
-| Sp. Atk | 80 |
-| Sp. Def | 75 |
-| Speed | 78 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Phantom Force (Lv 1, Scarlet Violet)
-- Shadow Ball (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Legends Arceus)
-- Tail Whip (Lv 1, Scarlet Violet)
-- Water Gun (Lv 1, Scarlet Violet)
-- Aqua Jet (Lv 6, Legends Arceus)
+| HP | <span class="stat-value stat-high">120</span> |
+| Attack | <span class="stat-value stat-high">112</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">78</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

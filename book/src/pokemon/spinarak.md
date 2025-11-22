@@ -8,8 +8,7 @@
 ## Spinarak (#167)
 <details class="pokemon-card-container" open>
 <summary>Spinarak overview</summary>
-_String Spit Pokémon_ • Types: Bug / Poison
-Height: 0.5 m · Weight: 8.5 kg · Base EXP: 50
+_String Spit Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP: 50
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,25 @@ Height: 0.5 m · Weight: 8.5 kg · Base EXP: 50
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 60 |
-| Defense | 40 |
-| Sp. Atk | 40 |
-| Sp. Def | 40 |
-| Speed | 30 |
-| Total | 250 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-low">250</span> |
 
 **Notable Level-Up Moves**
-- Constrict (Lv 1, Sun Moon)
-- Poison Sting (Lv 1, Gold Silver)
-- String Shot (Lv 1, Gold Silver)
-- Absorb (Lv 5, Sun Moon)
-- Scary Face (Lv 5, Diamond Pearl)
-- Infestation (Lv 8, Sun Moon)
+- Poison Sting (Lv 1)
+- String Shot (Lv 1)
+- Scary Face (Lv 6)
+- Constrict (Lv 11)
+- Night Shade (Lv 17)
+- Leech Life (Lv 23)
+- Fury Swipes (Lv 30)
+- Spider Web (Lv 37)
+- Agility (Lv 45)
+- Psychic (Lv 53)
 </div>
 </div>
 
@@ -71,8 +74,7 @@ Height: 0.5 m · Weight: 8.5 kg · Base EXP: 50
 ## Ariados (#168)
 <details class="pokemon-card-container" open>
 <summary>Ariados overview</summary>
-_Long Leg Pokémon_ • Types: Bug / Poison
-Height: 1.1 m · Weight: 33.5 kg · Base EXP: 140
+_Long Leg Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP: 140
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -107,21 +109,27 @@ Height: 1.1 m · Weight: 33.5 kg · Base EXP: 140
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 90 |
-| Defense | 70 |
-| Sp. Atk | 60 |
-| Sp. Def | 70 |
-| Speed | 40 |
-| Total | 400 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">400</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Bug Bite (Lv 1, Diamond Pearl)
-- Constrict (Lv 1, Gold Silver)
-- Fell Stinger (Lv 1, X Y)
-- Focus Energy (Lv 1, Sun Moon)
-- Poison Sting (Lv 1, Gold Silver)
+- Constrict (Lv 1)
+- Poison Sting (Lv 1)
+- Scary Face (Lv 1)
+- String Shot (Lv 1)
+- Scary Face (Lv 6)
+- Constrict (Lv 11)
+- Night Shade (Lv 17)
+- Leech Life (Lv 25)
+- Fury Swipes (Lv 34)
+- Spider Web (Lv 43)
+- Agility (Lv 53)
+- Psychic (Lv 63)
 </div>
 </div>
 

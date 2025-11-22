@@ -8,8 +8,7 @@
 ## Crabrawler (#739)
 <details class="pokemon-card-container" open>
 <summary>Crabrawler overview</summary>
-_Boxing Pokémon_ • Types: Fighting
-Height: 0.6 m · Weight: 7.0 kg · Base EXP: 68
+_Boxing Pokémon_ • Types: Fighting • Egg Groups: Water3 • Base EXP: 68
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.6 m · Weight: 7.0 kg · Base EXP: 68
 
 | Stat | Value |
 | --- | --- |
-| HP | 47 |
-| Attack | 82 |
-| Defense | 57 |
-| Sp. Atk | 42 |
-| Sp. Def | 47 |
-| Speed | 63 |
-| Total | 338 |
-
-**Notable Level-Up Moves**
-- Bubble (Lv 1, Sun Moon)
-- Rock Smash (Lv 5, Sun Moon)
-- Leer (Lv 9, Sun Moon)
-- Bubble Beam (Lv 13, Scarlet Violet)
-- Pursuit (Lv 13, Sun Moon)
-- Protect (Lv 17, Scarlet Violet)
+| HP | <span class="stat-value stat-low">47</span> |
+| Attack | <span class="stat-value stat-mid">82</span> |
+| Defense | <span class="stat-value stat-mid">57</span> |
+| Sp. Atk | <span class="stat-value stat-low">42</span> |
+| Sp. Def | <span class="stat-value stat-low">47</span> |
+| Speed | <span class="stat-value stat-mid">63</span> |
+| Total | <span class="stat-value stat-mid">338</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.6 m · Weight: 7.0 kg · Base EXP: 68
 ## Crabominable (#740)
 <details class="pokemon-card-container" open>
 <summary>Crabominable overview</summary>
-_Woolly Crab Pokémon_ • Types: Fighting / Ice
-Height: 1.7 m · Weight: 180.0 kg · Base EXP: 167
+_Woolly Crab Pokémon_ • Types: Fighting / Ice • Egg Groups: Water3 • Base EXP: 167
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -108,21 +98,13 @@ Height: 1.7 m · Weight: 180.0 kg · Base EXP: 167
 
 | Stat | Value |
 | --- | --- |
-| HP | 97 |
-| Attack | 132 |
-| Defense | 77 |
-| Sp. Atk | 62 |
-| Sp. Def | 67 |
-| Speed | 43 |
-| Total | 478 |
-
-**Notable Level-Up Moves**
-- Bubble (Lv 1, Sun Moon)
-- Ice Punch (Lv 1, Sun Moon)
-- Leer (Lv 1, Sun Moon)
-- Protect (Lv 1, Scarlet Violet)
-- Pursuit (Lv 1, Sun Moon)
-- Rock Smash (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-high">97</span> |
+| Attack | <span class="stat-value stat-high">132</span> |
+| Defense | <span class="stat-value stat-mid">77</span> |
+| Sp. Atk | <span class="stat-value stat-mid">62</span> |
+| Sp. Def | <span class="stat-value stat-mid">67</span> |
+| Speed | <span class="stat-value stat-low">43</span> |
+| Total | <span class="stat-value stat-mid">478</span> |
 </div>
 </div>
 

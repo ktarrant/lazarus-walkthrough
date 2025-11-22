@@ -8,8 +8,7 @@
 ## Voltorb (#100)
 <details class="pokemon-card-container" open>
 <summary>Voltorb overview</summary>
-_Ball Pokémon_ • Types: Electric
-Height: 0.5 m · Weight: 10.4 kg · Base EXP: 66
+_Ball Pokémon_ • Types: Electric • Egg Groups: Mineral • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,26 @@ Height: 0.5 m · Weight: 10.4 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 30 |
-| Defense | 50 |
-| Sp. Atk | 55 |
-| Sp. Def | 55 |
-| Speed | 100 |
-| Total | 330 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 
 **Notable Level-Up Moves**
-- Charge (Lv 1, Ruby Sapphire)
-- Screech (Lv 1, Red Blue)
-- Tackle (Lv 1, Red Blue)
-- Light Screen (Lv 3, Lets Go Pikachu Lets Go Eevee)
-- Sonic Boom (Lv 4, Omega Ruby Alpha Sapphire)
-- Thunder Shock (Lv 4, Brilliant Diamond And Shining Pearl)
+- Charge (Lv 1)
+- Tackle (Lv 1)
+- Screech (Lv 8)
+- Sonic Boom (Lv 15)
+- Spark (Lv 21)
+- Self Destruct (Lv 27)
+- Rollout (Lv 32)
+- Light Screen (Lv 37)
+- Swift (Lv 42)
+- Explosion (Lv 46)
+- Mirror Coat (Lv 49)
 </div>
 </div>
 
@@ -66,8 +70,7 @@ Height: 0.5 m · Weight: 10.4 kg · Base EXP: 66
 ## Electrode (#101)
 <details class="pokemon-card-container" open>
 <summary>Electrode overview</summary>
-_Ball Pokémon_ • Types: Electric
-Height: 1.2 m · Weight: 66.6 kg · Base EXP: 172
+_Ball Pokémon_ • Types: Electric • Egg Groups: Mineral • Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -94,21 +97,28 @@ Height: 1.2 m · Weight: 66.6 kg · Base EXP: 172
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 50 |
-| Defense | 70 |
-| Sp. Atk | 80 |
-| Sp. Def | 80 |
-| Speed | 150 |
-| Total | 490 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">150</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 
 **Notable Level-Up Moves**
-- Charge (Lv 1, Ruby Sapphire)
-- Eerie Impulse (Lv 1, Sun Moon)
-- Light Screen (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Magnetic Flux (Lv 1, X Y)
-- Screech (Lv 1, Red Blue)
-- Self Destruct (Lv 1, Gold Silver)
+- Charge (Lv 1)
+- Screech (Lv 1)
+- Sonic Boom (Lv 1)
+- Tackle (Lv 1)
+- Screech (Lv 8)
+- Sonic Boom (Lv 15)
+- Spark (Lv 21)
+- Self Destruct (Lv 27)
+- Rollout (Lv 34)
+- Light Screen (Lv 41)
+- Swift (Lv 48)
+- Explosion (Lv 54)
+- Mirror Coat (Lv 59)
 </div>
 </div>
 

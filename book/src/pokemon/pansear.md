@@ -8,8 +8,7 @@
 ## Pansear (#513)
 <details class="pokemon-card-container" open>
 <summary>Pansear overview</summary>
-_High Temp Pokémon_ • Types: Fire
-Height: 0.6 m · Weight: 11.0 kg · Base EXP: 63
+_High Temp Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 63
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.6 m · Weight: 11.0 kg · Base EXP: 63
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 53 |
-| Defense | 48 |
-| Sp. Atk | 53 |
-| Sp. Def | 48 |
-| Speed | 64 |
-| Total | 316 |
-
-**Notable Level-Up Moves**
-- Play Nice (Lv 1, X Y)
-- Scratch (Lv 1, Black White)
-- Leer (Lv 4, Black White)
-- Lick (Lv 7, Black White)
-- Incinerate (Lv 10, Black White)
-- Fury Swipes (Lv 13, Black White)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">53</span> |
+| Defense | <span class="stat-value stat-low">48</span> |
+| Sp. Atk | <span class="stat-value stat-mid">53</span> |
+| Sp. Def | <span class="stat-value stat-low">48</span> |
+| Speed | <span class="stat-value stat-mid">64</span> |
+| Total | <span class="stat-value stat-mid">316</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.6 m · Weight: 11.0 kg · Base EXP: 63
 ## Simisear (#514)
 <details class="pokemon-card-container" open>
 <summary>Simisear overview</summary>
-_Ember Pokémon_ • Types: Fire
-Height: 1.0 m · Weight: 28.0 kg · Base EXP: 174
+_Ember Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 174
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -102,19 +92,13 @@ Height: 1.0 m · Weight: 28.0 kg · Base EXP: 174
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 98 |
-| Defense | 63 |
-| Sp. Atk | 98 |
-| Sp. Def | 63 |
-| Speed | 101 |
-| Total | 498 |
-
-**Notable Level-Up Moves**
-- Flame Burst (Lv 1, Black White)
-- Fury Swipes (Lv 1, Black White)
-- Leer (Lv 1, Black White)
-- Lick (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">98</span> |
+| Defense | <span class="stat-value stat-mid">63</span> |
+| Sp. Atk | <span class="stat-value stat-high">98</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-high">101</span> |
+| Total | <span class="stat-value stat-mid">498</span> |
 </div>
 </div>
 

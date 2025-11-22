@@ -8,8 +8,7 @@
 ## Skrelp (#690)
 <details class="pokemon-card-container" open>
 <summary>Skrelp overview</summary>
-_Mock Kelp Pokémon_ • Types: Poison / Water
-Height: 0.5 m · Weight: 7.3 kg · Base EXP: 64
+_Mock Kelp Pokémon_ • Types: Poison / Water • Egg Groups: Water1 / Dragon • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -54,21 +53,13 @@ Height: 0.5 m · Weight: 7.3 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 60 |
-| Defense | 60 |
-| Sp. Atk | 60 |
-| Sp. Def | 60 |
-| Speed | 30 |
-| Total | 320 |
-
-**Notable Level-Up Moves**
-- Smokescreen (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Water Gun (Lv 1, X Y)
-- Acid (Lv 5, Sword Shield)
-- Feint Attack (Lv 5, X Y)
-- Tail Whip (Lv 9, X Y)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 </div>
 </div>
 
@@ -80,8 +71,7 @@ Height: 0.5 m · Weight: 7.3 kg · Base EXP: 64
 ## Dragalge (#691)
 <details class="pokemon-card-container" open>
 <summary>Dragalge overview</summary>
-_Mock Kelp Pokémon_ • Types: Poison / Dragon
-Height: 1.8 m · Weight: 81.5 kg · Base EXP: 173
+_Mock Kelp Pokémon_ • Types: Poison / Dragon • Egg Groups: Water1 / Dragon • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -115,21 +105,13 @@ Height: 1.8 m · Weight: 81.5 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 75 |
-| Defense | 90 |
-| Sp. Atk | 97 |
-| Sp. Def | 123 |
-| Speed | 44 |
-| Total | 494 |
-
-**Notable Level-Up Moves**
-- Acid (Lv 1, Sword Shield)
-- Dragon Tail (Lv 1, X Y)
-- Feint Attack (Lv 1, Sun Moon)
-- Smokescreen (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Twister (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-high">97</span> |
+| Sp. Def | <span class="stat-value stat-high">123</span> |
+| Speed | <span class="stat-value stat-low">44</span> |
+| Total | <span class="stat-value stat-mid">494</span> |
 </div>
 </div>
 

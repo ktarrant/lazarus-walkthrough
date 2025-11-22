@@ -8,8 +8,7 @@
 ## Cubchoo (#613)
 <details class="pokemon-card-container" open>
 <summary>Cubchoo overview</summary>
-_Chill Pokémon_ • Types: Ice
-Height: 0.5 m · Weight: 8.5 kg · Base EXP: 61
+_Chill Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -41,21 +40,13 @@ Height: 0.5 m · Weight: 8.5 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 70 |
-| Defense | 40 |
-| Sp. Atk | 60 |
-| Sp. Def | 40 |
-| Speed | 40 |
-| Total | 305 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, X Y)
-- Powder Snow (Lv 1, Black White)
-- Endure (Lv 3, Sword Shield)
-- Fury Swipes (Lv 6, Sword Shield)
-- Bide (Lv 9, Black White)
-- Icy Wind (Lv 9, Sword Shield)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 </div>
 </div>
 
@@ -67,8 +58,7 @@ Height: 0.5 m · Weight: 8.5 kg · Base EXP: 61
 ## Beartic (#614)
 <details class="pokemon-card-container" open>
 <summary>Beartic overview</summary>
-_Freezing Pokémon_ • Types: Ice
-Height: 2.6 m · Weight: 260.0 kg · Base EXP: 177
+_Freezing Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -96,21 +86,13 @@ Height: 2.6 m · Weight: 260.0 kg · Base EXP: 177
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 130 |
-| Defense | 80 |
-| Sp. Atk | 70 |
-| Sp. Def | 80 |
-| Speed | 50 |
-| Total | 505 |
-
-**Notable Level-Up Moves**
-- Aqua Jet (Lv 1, Black 2 White 2)
-- Bide (Lv 1, Black White)
-- Charm (Lv 1, Sword Shield)
-- Endure (Lv 1, Sword Shield)
-- Fury Swipes (Lv 1, Sword Shield)
-- Growl (Lv 1, Black White)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
 </div>
 </div>
 

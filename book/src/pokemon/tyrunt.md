@@ -8,8 +8,7 @@
 ## Tyrunt (#696)
 <details class="pokemon-card-container" open>
 <summary>Tyrunt overview</summary>
-_Royal Heir Pokémon_ • Types: Rock / Dragon
-Height: 0.8 m · Weight: 26.0 kg · Base EXP: 72
+_Royal Heir Pokémon_ • Types: Rock / Dragon • Egg Groups: Monster / Dragon • Base EXP: 72
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.8 m · Weight: 26.0 kg · Base EXP: 72
 
 | Stat | Value |
 | --- | --- |
-| HP | 58 |
-| Attack | 89 |
-| Defense | 77 |
-| Sp. Atk | 45 |
-| Sp. Def | 45 |
-| Speed | 48 |
-| Total | 362 |
-
-**Notable Level-Up Moves**
-- Tackle (Lv 1, X Y)
-- Tail Whip (Lv 1, X Y)
-- Roar (Lv 4, Sword Shield)
-- Ancient Power (Lv 8, Sword Shield)
-- Stomp (Lv 10, X Y)
-- Bide (Lv 12, X Y)
+| HP | <span class="stat-value stat-mid">58</span> |
+| Attack | <span class="stat-value stat-mid">89</span> |
+| Defense | <span class="stat-value stat-mid">77</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">48</span> |
+| Total | <span class="stat-value stat-mid">362</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.8 m · Weight: 26.0 kg · Base EXP: 72
 ## Tyrantrum (#697)
 <details class="pokemon-card-container" open>
 <summary>Tyrantrum overview</summary>
-_Despot Pokémon_ • Types: Rock / Dragon
-Height: 2.5 m · Weight: 270.0 kg · Base EXP: 182
+_Despot Pokémon_ • Types: Rock / Dragon • Egg Groups: Monster / Dragon • Base EXP: 182
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,21 +96,13 @@ Height: 2.5 m · Weight: 270.0 kg · Base EXP: 182
 
 | Stat | Value |
 | --- | --- |
-| HP | 82 |
-| Attack | 121 |
-| Defense | 119 |
-| Sp. Atk | 69 |
-| Sp. Def | 59 |
-| Speed | 71 |
-| Total | 521 |
-
-**Notable Level-Up Moves**
-- Ancient Power (Lv 1, Sword Shield)
-- Head Smash (Lv 1, X Y)
-- Roar (Lv 1, Sun Moon)
-- Rock Slide (Lv 1, Sun Moon)
-- Stomp (Lv 1, Sun Moon)
-- Tackle (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">82</span> |
+| Attack | <span class="stat-value stat-high">121</span> |
+| Defense | <span class="stat-value stat-high">119</span> |
+| Sp. Atk | <span class="stat-value stat-mid">69</span> |
+| Sp. Def | <span class="stat-value stat-mid">59</span> |
+| Speed | <span class="stat-value stat-mid">71</span> |
+| Total | <span class="stat-value stat-mid">521</span> |
 </div>
 </div>
 

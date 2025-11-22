@@ -8,8 +8,7 @@
 ## Voltorb Hisui (#10231)
 <details class="pokemon-card-container" open>
 <summary>Voltorb Hisui overview</summary>
-_Ball Pokémon_ • Types: Electric / Grass
-Height: 0.5 m · Weight: 13.0 kg · Base EXP: 66
+_Ball Pokémon_ • Types: Electric / Grass • Egg Groups: Mineral • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.5 m · Weight: 13.0 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 30 |
-| Defense | 50 |
-| Sp. Atk | 55 |
-| Sp. Def | 55 |
-| Speed | 100 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Charge (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 1, Legends Arceus)
-- Stun Spore (Lv 6, Scarlet Violet)
-- Bullet Seed (Lv 9, Scarlet Violet)
-- Thunder Wave (Lv 9, Legends Arceus)
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.5 m · Weight: 13.0 kg · Base EXP: 66
 ## Electrode Hisui (#10232)
 <details class="pokemon-card-container" open>
 <summary>Electrode Hisui overview</summary>
-_Ball Pokémon_ • Types: Electric / Grass
-Height: 1.2 m · Weight: 71.0 kg · Base EXP: 172
+_Ball Pokémon_ • Types: Electric / Grass • Egg Groups: Mineral • Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -107,21 +97,13 @@ Height: 1.2 m · Weight: 71.0 kg · Base EXP: 172
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 50 |
-| Defense | 70 |
-| Sp. Atk | 80 |
-| Sp. Def | 80 |
-| Speed | 150 |
-| Total | 490 |
-
-**Notable Level-Up Moves**
-- Charge (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Thunder Shock (Lv 1, Legends Arceus)
-- Stun Spore (Lv 6, Scarlet Violet)
-- Bullet Seed (Lv 9, Scarlet Violet)
-- Thunder Wave (Lv 9, Legends Arceus)
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">150</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
 </div>
 </div>
 

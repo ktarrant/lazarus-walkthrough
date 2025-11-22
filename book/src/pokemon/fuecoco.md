@@ -10,8 +10,7 @@
 ## Fuecoco (#909)
 <details class="pokemon-card-container" open>
 <summary>Fuecoco overview</summary>
-_Fire Croc Pokémon_ • Types: Fire
-Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
+_Fire Croc Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 67 |
-| Attack | 45 |
-| Defense | 59 |
-| Sp. Atk | 63 |
-| Sp. Def | 40 |
-| Speed | 36 |
-| Total | 310 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Round (Lv 7, Scarlet Violet)
-- Bite (Lv 12, Scarlet Violet)
-- Incinerate (Lv 15, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">67</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-mid">59</span> |
+| Sp. Atk | <span class="stat-value stat-mid">63</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">36</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 ## Crocalor (#910)
 <details class="pokemon-card-container" open>
 <summary>Crocalor overview</summary>
-_Fire Croc Pokémon_ • Types: Fire
-Height: 1.0 m · Weight: 30.7 kg · Base EXP: 144
+_Fire Croc Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +93,13 @@ Height: 1.0 m · Weight: 30.7 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 81 |
-| Attack | 55 |
-| Defense | 78 |
-| Sp. Atk | 90 |
-| Sp. Def | 58 |
-| Speed | 49 |
-| Total | 411 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Lick (Lv 7, Scarlet Violet)
-- Round (Lv 10, Scarlet Violet)
-- Bite (Lv 12, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">81</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">78</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-mid">58</span> |
+| Speed | <span class="stat-value stat-low">49</span> |
+| Total | <span class="stat-value stat-mid">411</span> |
 </div>
 </div>
 
@@ -129,8 +111,7 @@ Height: 1.0 m · Weight: 30.7 kg · Base EXP: 144
 ## Skeledirge (#911)
 <details class="pokemon-card-container" open>
 <summary>Skeledirge overview</summary>
-_Singer Pokémon_ • Types: Fire / Ghost
-Height: 1.6 m · Weight: 326.5 kg · Base EXP: 265
+_Singer Pokémon_ • Types: Fire / Ghost • Egg Groups: Ground • Base EXP: 265
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -166,21 +147,13 @@ Height: 1.6 m · Weight: 326.5 kg · Base EXP: 265
 
 | Stat | Value |
 | --- | --- |
-| HP | 104 |
-| Attack | 75 |
-| Defense | 100 |
-| Sp. Atk | 110 |
-| Sp. Def | 75 |
-| Speed | 66 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1, Scarlet Violet)
-- Leer (Lv 1, Scarlet Violet)
-- Tackle (Lv 1, Scarlet Violet)
-- Lick (Lv 7, Scarlet Violet)
-- Round (Lv 10, Scarlet Violet)
-- Scary Face (Lv 12, Scarlet Violet)
+| HP | <span class="stat-value stat-high">104</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">66</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

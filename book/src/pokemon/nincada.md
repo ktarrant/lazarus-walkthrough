@@ -10,8 +10,7 @@
 ## Nincada (#290)
 <details class="pokemon-card-container" open>
 <summary>Nincada overview</summary>
-_Trainee Pokémon_ • Types: Bug / Ground
-Height: 0.5 m · Weight: 5.5 kg · Base EXP: 53
+_Trainee Pokémon_ • Types: Bug / Ground • Egg Groups: Bug • Base EXP: 53
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,25 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 53
 
 | Stat | Value |
 | --- | --- |
-| HP | 31 |
-| Attack | 45 |
-| Defense | 90 |
-| Sp. Atk | 30 |
-| Sp. Def | 30 |
-| Speed | 40 |
-| Total | 266 |
+| HP | <span class="stat-value stat-low">31</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">266</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1, Ruby Sapphire)
-- Sand Attack (Lv 1, Sword Shield)
-- Scratch (Lv 1, Ruby Sapphire)
-- Absorb (Lv 5, Sun Moon)
-- Leech Life (Lv 5, Ruby Sapphire)
-- False Swipe (Lv 10, Sword Shield)
+- Harden (Lv 1)
+- Scratch (Lv 1)
+- Leech Life (Lv 5)
+- Sand Attack (Lv 9)
+- Fury Swipes (Lv 14)
+- Mind Reader (Lv 19)
+- False Swipe (Lv 25)
+- Mud Slap (Lv 31)
+- Metal Claw (Lv 38)
+- Dig (Lv 45)
 </div>
 </div>
 
@@ -73,8 +76,7 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 53
 ## Ninjask (#291)
 <details class="pokemon-card-container" open>
 <summary>Ninjask overview</summary>
-_Ninja Pokémon_ • Types: Bug / Flying
-Height: 0.8 m · Weight: 12.0 kg · Base EXP: 160
+_Ninja Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 160
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -109,21 +111,30 @@ Height: 0.8 m · Weight: 12.0 kg · Base EXP: 160
 
 | Stat | Value |
 | --- | --- |
-| HP | 61 |
-| Attack | 90 |
-| Defense | 45 |
-| Sp. Atk | 50 |
-| Sp. Def | 50 |
-| Speed | 160 |
-| Total | 456 |
+| HP | <span class="stat-value stat-mid">61</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-high">160</span> |
+| Total | <span class="stat-value stat-mid">456</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Aerial Ace (Lv 1, Sword Shield)
-- Baton Pass (Lv 1, Sword Shield)
-- Bug Bite (Lv 1, Diamond Pearl)
-- Dig (Lv 1, Sword Shield)
-- Double Team (Lv 1, Sun Moon)
+- Harden (Lv 1)
+- Leech Life (Lv 1)
+- Sand Attack (Lv 1)
+- Scratch (Lv 1)
+- Leech Life (Lv 5)
+- Sand Attack (Lv 9)
+- Fury Swipes (Lv 14)
+- Mind Reader (Lv 19)
+- Double Team (Lv 20)
+- Fury Cutter (Lv 20)
+- Screech (Lv 20)
+- Swords Dance (Lv 25)
+- Slash (Lv 31)
+- Agility (Lv 38)
+- Baton Pass (Lv 45)
 </div>
 </div>
 
@@ -135,8 +146,7 @@ Height: 0.8 m · Weight: 12.0 kg · Base EXP: 160
 ## Shedinja (#292)
 <details class="pokemon-card-container" open>
 <summary>Shedinja overview</summary>
-_Shed Pokémon_ • Types: Bug / Ghost
-Height: 0.8 m · Weight: 1.2 kg · Base EXP: 83
+_Shed Pokémon_ • Types: Bug / Ghost • Egg Groups: Mineral • Base EXP: 83
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -172,21 +182,25 @@ Height: 0.8 m · Weight: 1.2 kg · Base EXP: 83
 
 | Stat | Value |
 | --- | --- |
-| HP | 1 |
-| Attack | 90 |
-| Defense | 45 |
-| Sp. Atk | 30 |
-| Sp. Def | 30 |
-| Speed | 40 |
-| Total | 236 |
+| HP | <span class="stat-value stat-low">1</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-low">236</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Sun Moon)
-- Dig (Lv 1, Sword Shield)
-- False Swipe (Lv 1, Sword Shield)
-- Grudge (Lv 1, Sword Shield)
-- Harden (Lv 1, Ruby Sapphire)
-- Metal Claw (Lv 1, Sword Shield)
+- Harden (Lv 1)
+- Scratch (Lv 1)
+- Leech Life (Lv 5)
+- Sand Attack (Lv 9)
+- Fury Swipes (Lv 14)
+- Mind Reader (Lv 19)
+- Spite (Lv 25)
+- Confuse Ray (Lv 31)
+- Shadow Ball (Lv 38)
+- Grudge (Lv 45)
 </div>
 </div>
 

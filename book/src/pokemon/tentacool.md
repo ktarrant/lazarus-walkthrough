@@ -8,8 +8,7 @@
 ## Tentacool (#072)
 <details class="pokemon-card-container" open>
 <summary>Tentacool overview</summary>
-_Jellyfish Pokémon_ • Types: Water / Poison
-Height: 0.9 m · Weight: 45.5 kg · Base EXP: 67
+_Jellyfish Pokémon_ • Types: Water / Poison • Egg Groups: Water3 • Base EXP: 67
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -64,21 +63,24 @@ Height: 0.9 m · Weight: 45.5 kg · Base EXP: 67
 
 | Stat | Value |
 | --- | --- |
-| HP | 40 |
-| Attack | 40 |
-| Defense | 35 |
-| Sp. Atk | 50 |
-| Sp. Def | 100 |
-| Speed | 70 |
-| Total | 335 |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">335</span> |
 
 **Notable Level-Up Moves**
-- Acid (Lv 1, Red Blue)
-- Poison Sting (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Sword Shield)
-- Constrict (Lv 4, Lets Go Pikachu Lets Go Eevee)
-- Supersonic (Lv 4, Omega Ruby Alpha Sapphire)
-- Bubble (Lv 6, Legends Arceus)
+- Poison Sting (Lv 1)
+- Supersonic (Lv 6)
+- Constrict (Lv 12)
+- Acid (Lv 19)
+- Bubble Beam (Lv 25)
+- Wrap (Lv 30)
+- Barrier (Lv 36)
+- Screech (Lv 43)
+- Hydro Pump (Lv 49)
 </div>
 </div>
 
@@ -90,8 +92,7 @@ Height: 0.9 m · Weight: 45.5 kg · Base EXP: 67
 ## Tentacruel (#073)
 <details class="pokemon-card-container" open>
 <summary>Tentacruel overview</summary>
-_Jellyfish Pokémon_ • Types: Water / Poison
-Height: 1.6 m · Weight: 55.0 kg · Base EXP: 180
+_Jellyfish Pokémon_ • Types: Water / Poison • Egg Groups: Water3 • Base EXP: 180
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -130,21 +131,26 @@ Height: 1.6 m · Weight: 55.0 kg · Base EXP: 180
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 70 |
-| Defense | 65 |
-| Sp. Atk | 80 |
-| Sp. Def | 120 |
-| Speed | 100 |
-| Total | 515 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-high">120</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">515</span> |
 
 **Notable Level-Up Moves**
-- Acid (Lv 1, Red Blue)
-- Constrict (Lv 1, Gold Silver)
-- Haze (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Mirror Coat (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Poison Sting (Lv 1, Gold Silver)
-- Reflect Type (Lv 1, X Y)
+- Constrict (Lv 1)
+- Poison Sting (Lv 1)
+- Supersonic (Lv 1)
+- Supersonic (Lv 6)
+- Constrict (Lv 12)
+- Acid (Lv 19)
+- Bubble Beam (Lv 25)
+- Wrap (Lv 30)
+- Barrier (Lv 38)
+- Screech (Lv 47)
+- Hydro Pump (Lv 55)
 </div>
 </div>
 

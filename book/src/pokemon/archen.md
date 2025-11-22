@@ -8,8 +8,7 @@
 ## Archen (#566)
 <details class="pokemon-card-container" open>
 <summary>Archen overview</summary>
-_First Bird Pokémon_ • Types: Rock / Flying
-Height: 0.5 m · Weight: 9.5 kg · Base EXP: 71
+_First Bird Pokémon_ • Types: Rock / Flying • Egg Groups: Flying / Water3 • Base EXP: 71
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.5 m · Weight: 9.5 kg · Base EXP: 71
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 112 |
-| Defense | 45 |
-| Sp. Atk | 74 |
-| Sp. Def | 45 |
-| Speed | 70 |
-| Total | 401 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Quick Attack (Lv 1, Black White)
-- Wing Attack (Lv 1, Black White)
-- Rock Throw (Lv 3, Sword Shield)
-- Double Team (Lv 8, Black White)
-- Dragon Breath (Lv 9, Sword Shield)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-high">112</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">74</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">401</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.5 m · Weight: 9.5 kg · Base EXP: 71
 ## Archeops (#567)
 <details class="pokemon-card-container" open>
 <summary>Archeops overview</summary>
-_First Bird Pokémon_ • Types: Rock / Flying
-Height: 1.4 m · Weight: 32.0 kg · Base EXP: 177
+_First Bird Pokémon_ • Types: Rock / Flying • Egg Groups: Flying / Water3 • Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +94,13 @@ Height: 1.4 m · Weight: 32.0 kg · Base EXP: 177
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 140 |
-| Defense | 65 |
-| Sp. Atk | 112 |
-| Sp. Def | 65 |
-| Speed | 110 |
-| Total | 567 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Black White)
-- Quick Attack (Lv 1, Black White)
-- Rock Throw (Lv 1, Black White)
-- Wing Attack (Lv 1, Black White)
-- Double Team (Lv 8, Black White)
-- Dragon Breath (Lv 9, Sword Shield)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">140</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">112</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-high">567</span> |
 </div>
 </div>
 

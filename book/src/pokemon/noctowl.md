@@ -8,8 +8,7 @@
 ## Hoothoot (#163)
 <details class="pokemon-card-container" open>
 <summary>Hoothoot overview</summary>
-_Owl Pokémon_ • Types: Normal / Flying
-Height: 0.7 m · Weight: 21.2 kg · Base EXP: 52
+_Owl Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 52
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,24 @@ Height: 0.7 m · Weight: 21.2 kg · Base EXP: 52
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 30 |
-| Defense | 30 |
-| Sp. Atk | 36 |
-| Sp. Def | 56 |
-| Speed | 50 |
-| Total | 262 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-low">36</span> |
+| Sp. Def | <span class="stat-value stat-mid">56</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">262</span> |
 
 **Notable Level-Up Moves**
-- Foresight (Lv 1, Platinum)
-- Growl (Lv 1, Gold Silver)
-- Peck (Lv 1, Sword Shield)
-- Tackle (Lv 1, Gold Silver)
-- Hypnosis (Lv 4, Sun Moon)
-- Echoed Voice (Lv 6, Sword Shield)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Foresight (Lv 6)
+- Peck (Lv 11)
+- Hypnosis (Lv 16)
+- Reflect (Lv 22)
+- Take Down (Lv 28)
+- Confusion (Lv 34)
+- Dream Eater (Lv 48)
 </div>
 </div>
 
@@ -70,8 +72,7 @@ Height: 0.7 m · Weight: 21.2 kg · Base EXP: 52
 ## Noctowl (#164)
 <details class="pokemon-card-container" open>
 <summary>Noctowl overview</summary>
-_Owl Pokémon_ • Types: Normal / Flying
-Height: 1.6 m · Weight: 40.8 kg · Base EXP: 158
+_Owl Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 158
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +106,26 @@ Height: 1.6 m · Weight: 40.8 kg · Base EXP: 158
 
 | Stat | Value |
 | --- | --- |
-| HP | 100 |
-| Attack | 50 |
-| Defense | 50 |
-| Sp. Atk | 86 |
-| Sp. Def | 96 |
-| Speed | 70 |
-| Total | 452 |
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">50</span> |
+| Sp. Atk | <span class="stat-value stat-mid">86</span> |
+| Sp. Def | <span class="stat-value stat-high">96</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">452</span> |
 
 **Notable Level-Up Moves**
-- Dream Eater (Lv 1, X Y)
-- Echoed Voice (Lv 1, Sword Shield)
-- Foresight (Lv 1, Gold Silver)
-- Growl (Lv 1, Gold Silver)
-- Hypnosis (Lv 1, Diamond Pearl)
-- Peck (Lv 1, Gold Silver)
+- Foresight (Lv 1)
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Tackle (Lv 1)
+- Foresight (Lv 6)
+- Peck (Lv 11)
+- Hypnosis (Lv 16)
+- Reflect (Lv 25)
+- Take Down (Lv 33)
+- Confusion (Lv 41)
+- Dream Eater (Lv 57)
 </div>
 </div>
 

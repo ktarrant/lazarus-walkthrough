@@ -10,8 +10,7 @@
 ## Gastly (#092)
 <details class="pokemon-card-container" open>
 <summary>Gastly overview</summary>
-_Gas Pokémon_ • Types: Ghost / Poison
-Height: 1.3 m · Weight: 0.1 kg · Base EXP: 62
+_Gas Pokémon_ • Types: Ghost / Poison • Egg Groups: Indeterminate • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,24 @@ Height: 1.3 m · Weight: 0.1 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 35 |
-| Defense | 30 |
-| Sp. Atk | 100 |
-| Sp. Def | 35 |
-| Speed | 80 |
-| Total | 310 |
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Legends Arceus)
-- Confuse Ray (Lv 1, Red Blue)
-- Hypnosis (Lv 1, Gold Silver)
-- Lick (Lv 1, Red Blue)
-- Night Shade (Lv 1, Red Blue)
-- Smog (Lv 1, Lets Go Pikachu Lets Go Eevee)
+- Hypnosis (Lv 1)
+- Lick (Lv 1)
+- Spite (Lv 8)
+- Mean Look (Lv 13)
+- Curse (Lv 16)
+- Night Shade (Lv 21)
+- Confuse Ray (Lv 28)
+- Dream Eater (Lv 33)
+- Destiny Bond (Lv 36)
 </div>
 </div>
 
@@ -72,8 +74,7 @@ Height: 1.3 m · Weight: 0.1 kg · Base EXP: 62
 ## Haunter (#093)
 <details class="pokemon-card-container" open>
 <summary>Haunter overview</summary>
-_Gas Pokémon_ • Types: Ghost / Poison
-Height: 1.6 m · Weight: 0.1 kg · Base EXP: 142
+_Gas Pokémon_ • Types: Ghost / Poison • Egg Groups: Indeterminate • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +105,26 @@ Height: 1.6 m · Weight: 0.1 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 50 |
-| Defense | 45 |
-| Sp. Atk | 115 |
-| Sp. Def | 55 |
-| Speed | 95 |
-| Total | 405 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-high">115</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Legends Arceus)
-- Confuse Ray (Lv 1, Red Blue)
-- Hypnosis (Lv 1, Gold Silver)
-- Lick (Lv 1, Red Blue)
-- Mean Look (Lv 1, Sword Shield)
-- Night Shade (Lv 1, Red Blue)
+- Hypnosis (Lv 1)
+- Lick (Lv 1)
+- Spite (Lv 1)
+- Spite (Lv 8)
+- Mean Look (Lv 13)
+- Curse (Lv 16)
+- Night Shade (Lv 21)
+- Shadow Punch (Lv 25)
+- Confuse Ray (Lv 31)
+- Dream Eater (Lv 39)
+- Destiny Bond (Lv 48)
 </div>
 </div>
 
@@ -130,8 +136,7 @@ Height: 1.6 m · Weight: 0.1 kg · Base EXP: 142
 ## Gengar (#094)
 <details class="pokemon-card-container" open>
 <summary>Gengar overview</summary>
-_Shadow Pokémon_ • Types: Ghost / Poison
-Height: 1.5 m · Weight: 40.5 kg · Base EXP: 225
+_Shadow Pokémon_ • Types: Ghost / Poison • Egg Groups: Indeterminate • Base EXP: 225
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,21 +167,26 @@ Height: 1.5 m · Weight: 40.5 kg · Base EXP: 225
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 65 |
-| Defense | 60 |
-| Sp. Atk | 130 |
-| Sp. Def | 75 |
-| Speed | 110 |
-| Total | 500 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">130</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">110</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Legends Arceus)
-- Confuse Ray (Lv 1, Red Blue)
-- Disable (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Haze (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Hypnosis (Lv 1, Gold Silver)
-- Lick (Lv 1, Red Blue)
+- Hypnosis (Lv 1)
+- Lick (Lv 1)
+- Spite (Lv 1)
+- Spite (Lv 8)
+- Mean Look (Lv 13)
+- Curse (Lv 16)
+- Night Shade (Lv 21)
+- Shadow Punch (Lv 25)
+- Confuse Ray (Lv 31)
+- Dream Eater (Lv 39)
+- Destiny Bond (Lv 48)
 </div>
 </div>
 

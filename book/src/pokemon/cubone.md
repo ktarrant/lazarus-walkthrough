@@ -8,8 +8,7 @@
 ## Cubone (#104)
 <details class="pokemon-card-container" open>
 <summary>Cubone overview</summary>
-_Lonely Pokémon_ • Types: Ground
-Height: 0.4 m · Weight: 6.5 kg · Base EXP: 64
+_Lonely Pokémon_ • Types: Ground • Egg Groups: Monster • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,27 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 50 |
-| Defense | 95 |
-| Sp. Atk | 40 |
-| Sp. Def | 50 |
-| Speed | 35 |
-| Total | 320 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">320</span> |
 
 **Notable Level-Up Moves**
-- Bone Club (Lv 1, Red Blue)
-- Growl (Lv 1, Red Blue)
-- Mud Slap (Lv 1, Sword Shield)
-- Tail Whip (Lv 2, Lets Go Pikachu Lets Go Eevee)
-- Leer (Lv 6, Lets Go Pikachu Lets Go Eevee)
-- False Swipe (Lv 8, Sword Shield)
+- Growl (Lv 1)
+- Tail Whip (Lv 5)
+- Bone Club (Lv 9)
+- Headbutt (Lv 13)
+- Leer (Lv 17)
+- Focus Energy (Lv 21)
+- Bonemerang (Lv 25)
+- Rage (Lv 29)
+- False Swipe (Lv 33)
+- Thrash (Lv 37)
+- Bone Rush (Lv 41)
+- Double Edge (Lv 45)
 </div>
 </div>
 
@@ -70,8 +75,7 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 64
 ## Marowak (#105)
 <details class="pokemon-card-container" open>
 <summary>Marowak overview</summary>
-_Bone Keeper Pokémon_ • Types: Ground
-Height: 1.0 m · Weight: 45.0 kg · Base EXP: 149
+_Bone Keeper Pokémon_ • Types: Ground • Egg Groups: Monster • Base EXP: 149
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,21 +104,30 @@ Height: 1.0 m · Weight: 45.0 kg · Base EXP: 149
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 80 |
-| Defense | 110 |
-| Sp. Atk | 50 |
-| Sp. Def | 80 |
-| Speed | 45 |
-| Total | 425 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">425</span> |
 
 **Notable Level-Up Moves**
-- Bone Club (Lv 1, Red Blue)
-- False Swipe (Lv 1, Sword Shield)
-- Focus Energy (Lv 1, Red Blue)
-- Growl (Lv 1, Red Blue)
-- Headbutt (Lv 1, Gold Silver)
-- Leer (Lv 1, Red Blue)
+- Bone Club (Lv 1)
+- Growl (Lv 1)
+- Headbutt (Lv 1)
+- Tail Whip (Lv 1)
+- Tail Whip (Lv 5)
+- Bone Club (Lv 9)
+- Headbutt (Lv 13)
+- Leer (Lv 17)
+- Focus Energy (Lv 21)
+- Bonemerang (Lv 25)
+- Rage (Lv 32)
+- False Swipe (Lv 39)
+- Thrash (Lv 46)
+- Bone Rush (Lv 53)
+- Double Edge (Lv 61)
 </div>
 </div>
 

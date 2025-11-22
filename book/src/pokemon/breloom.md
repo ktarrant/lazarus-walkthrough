@@ -8,8 +8,7 @@
 ## Shroomish (#285)
 <details class="pokemon-card-container" open>
 <summary>Shroomish overview</summary>
-_Mushroom Pokémon_ • Types: Grass
-Height: 0.4 m · Weight: 4.5 kg · Base EXP: 59
+_Mushroom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 59
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,21 +46,25 @@ Height: 0.4 m · Weight: 4.5 kg · Base EXP: 59
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 40 |
-| Defense | 60 |
-| Sp. Atk | 40 |
-| Sp. Def | 60 |
-| Speed | 35 |
-| Total | 295 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">295</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Omega Ruby Alpha Sapphire)
-- Stun Spore (Lv 5, Omega Ruby Alpha Sapphire)
-- Leech Seed (Lv 8, Omega Ruby Alpha Sapphire)
-- Mega Drain (Lv 12, Omega Ruby Alpha Sapphire)
-- Headbutt (Lv 15, Omega Ruby Alpha Sapphire)
+- Absorb (Lv 1)
+- Tackle (Lv 4)
+- Stun Spore (Lv 7)
+- Leech Seed (Lv 10)
+- Mega Drain (Lv 16)
+- Headbutt (Lv 22)
+- Poison Powder (Lv 28)
+- Growth (Lv 36)
+- Giga Drain (Lv 45)
+- Spore (Lv 54)
 </div>
 </div>
 
@@ -73,8 +76,7 @@ Height: 0.4 m · Weight: 4.5 kg · Base EXP: 59
 ## Breloom (#286)
 <details class="pokemon-card-container" open>
 <summary>Breloom overview</summary>
-_Mushroom Pokémon_ • Types: Grass / Fighting
-Height: 1.2 m · Weight: 39.2 kg · Base EXP: 161
+_Mushroom Pokémon_ • Types: Grass / Fighting • Egg Groups: Fairy / Plant • Base EXP: 161
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -114,21 +116,29 @@ Height: 1.2 m · Weight: 39.2 kg · Base EXP: 161
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 130 |
-| Defense | 80 |
-| Sp. Atk | 60 |
-| Sp. Def | 60 |
-| Speed | 70 |
-| Total | 460 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">460</span> |
 
 **Notable Level-Up Moves**
-- Absorb (Lv 1, Ruby Sapphire)
-- Giga Drain (Lv 1, Brilliant Diamond And Shining Pearl)
-- Growth (Lv 1, Brilliant Diamond And Shining Pearl)
-- Leech Seed (Lv 1, Ruby Sapphire)
-- Mach Punch (Lv 1, Sun Moon)
-- Poison Powder (Lv 1, Brilliant Diamond And Shining Pearl)
+- Absorb (Lv 1)
+- Leech Seed (Lv 1)
+- Stun Spore (Lv 1)
+- Tackle (Lv 1)
+- Tackle (Lv 4)
+- Stun Spore (Lv 7)
+- Leech Seed (Lv 10)
+- Mega Drain (Lv 16)
+- Headbutt (Lv 22)
+- Mach Punch (Lv 23)
+- Counter (Lv 28)
+- Sky Uppercut (Lv 36)
+- Mind Reader (Lv 45)
+- Dynamic Punch (Lv 54)
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Mareep (#179)
 <details class="pokemon-card-container" open>
 <summary>Mareep overview</summary>
-_Wool Pokémon_ • Types: Electric
-Height: 0.6 m · Weight: 7.8 kg · Base EXP: 56
+_Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -41,21 +40,22 @@ Height: 0.6 m · Weight: 7.8 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 40 |
-| Defense | 40 |
-| Sp. Atk | 65 |
-| Sp. Def | 45 |
-| Speed | 35 |
-| Total | 280 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">280</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Thunder Wave (Lv 4, Black 2 White 2)
-- Thunder Shock (Lv 8, Black 2 White 2)
-- Cotton Spore (Lv 11, Black 2 White 2)
-- Charge (Lv 15, Black 2 White 2)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Thunder Shock (Lv 9)
+- Thunder Wave (Lv 16)
+- Cotton Spore (Lv 23)
+- Light Screen (Lv 30)
+- Thunder (Lv 37)
 </div>
 </div>
 
@@ -67,8 +67,7 @@ Height: 0.6 m · Weight: 7.8 kg · Base EXP: 56
 ## Flaaffy (#180)
 <details class="pokemon-card-container" open>
 <summary>Flaaffy overview</summary>
-_Wool Pokémon_ • Types: Electric
-Height: 0.8 m · Weight: 13.3 kg · Base EXP: 128
+_Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EXP: 128
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +96,23 @@ Height: 0.8 m · Weight: 13.3 kg · Base EXP: 128
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 55 |
-| Defense | 55 |
-| Sp. Atk | 80 |
-| Sp. Def | 60 |
-| Speed | 45 |
-| Total | 365 |
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">365</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Thunder Shock (Lv 1, Gold Silver)
-- Thunder Wave (Lv 1, Black 2 White 2)
-- Cotton Spore (Lv 11, Black 2 White 2)
-- Charge (Lv 16, Black 2 White 2)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Thunder Shock (Lv 1)
+- Thunder Shock (Lv 9)
+- Thunder Wave (Lv 18)
+- Cotton Spore (Lv 27)
+- Light Screen (Lv 36)
+- Thunder (Lv 45)
 </div>
 </div>
 
@@ -123,8 +124,7 @@ Height: 0.8 m · Weight: 13.3 kg · Base EXP: 128
 ## Ampharos (#181)
 <details class="pokemon-card-container" open>
 <summary>Ampharos overview</summary>
-_Light Pokémon_ • Types: Electric
-Height: 1.4 m · Weight: 61.5 kg · Base EXP: 230
+_Light Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EXP: 230
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -150,21 +150,25 @@ Height: 1.4 m · Weight: 61.5 kg · Base EXP: 230
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 75 |
-| Defense | 85 |
-| Sp. Atk | 115 |
-| Sp. Def | 90 |
-| Speed | 55 |
-| Total | 510 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-high">115</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 
 **Notable Level-Up Moves**
-- Dragon Pulse (Lv 1, X Y)
-- Fire Punch (Lv 1, Diamond Pearl)
-- Growl (Lv 1, Gold Silver)
-- Ion Deluge (Lv 1, X Y)
-- Magnetic Flux (Lv 1, X Y)
-- Tackle (Lv 1, Gold Silver)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Thunder Shock (Lv 1)
+- Thunder Wave (Lv 1)
+- Thunder Shock (Lv 9)
+- Thunder Wave (Lv 18)
+- Cotton Spore (Lv 27)
+- Thunder Punch (Lv 30)
+- Light Screen (Lv 42)
+- Thunder (Lv 57)
 </div>
 </div>
 

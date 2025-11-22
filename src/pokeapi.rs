@@ -271,11 +271,10 @@ pub struct PokemonCard {
     encounter_slug: String,
     genus: Option<String>,
     types: Vec<String>,
+    egg_groups: Vec<String>,
     abilities: Vec<AbilityLine>,
     stats: Vec<StatLine>,
     stats_total: u32,
-    height_m: f32,
-    weight_kg: f32,
     base_experience: Option<u32>,
     flavor_text: Option<String>,
     evolution_paths: Vec<String>,
@@ -321,6 +320,11 @@ impl PokemonCard {
             .iter()
             .find(|g| g.language.name == "en")
             .map(|g| g.genus.clone());
+        let egg_groups = species
+            .egg_groups
+            .iter()
+            .map(|group| display_name(&group.name))
+            .collect();
 
         let encounter_slug = encounter_slug_from_name(&pokemon.name);
 
@@ -330,11 +334,10 @@ impl PokemonCard {
             encounter_slug,
             genus,
             types,
+            egg_groups,
             abilities,
             stats,
             stats_total: total,
-            height_m: pokemon.height as f32 / 10.0,
-            weight_kg: pokemon.weight as f32 / 10.0,
             base_experience: pokemon.base_experience,
             flavor_text,
             evolution_paths,
@@ -358,24 +361,22 @@ impl PokemonCard {
         buf.push_str("<details class=\"pokemon-card-container\" open>\n");
         writeln!(&mut buf, "<summary>{} overview</summary>", self.name).unwrap();
 
+        let mut overview_parts = Vec::new();
         if let Some(genus) = &self.genus {
-            if !self.types.is_empty() {
-                writeln!(&mut buf, "_{}_ • Types: {}", genus, self.types.join(" / ")).unwrap();
-            } else {
-                writeln!(&mut buf, "_{}_", genus).unwrap();
-            }
-        } else if !self.types.is_empty() {
-            writeln!(&mut buf, "Types: {}", self.types.join(" / ")).unwrap();
+            overview_parts.push(format!("_{}_", genus));
         }
-
-        let mut stat_line = format!(
-            "Height: {:.1} m · Weight: {:.1} kg",
-            self.height_m, self.weight_kg
-        );
+        if !self.types.is_empty() {
+            overview_parts.push(format!("Types: {}", self.types.join(" / ")));
+        }
+        if !self.egg_groups.is_empty() {
+            overview_parts.push(format!("Egg Groups: {}", self.egg_groups.join(" / ")));
+        }
         if let Some(exp) = self.base_experience {
-            stat_line.push_str(&format!(" · Base EXP: {}", exp));
+            overview_parts.push(format!("Base EXP: {}", exp));
         }
-        writeln!(&mut buf, "{}", stat_line).unwrap();
+        if !overview_parts.is_empty() {
+            writeln!(&mut buf, "{}", overview_parts.join(" • ")).unwrap();
+        }
 
         let mut left_column = String::new();
         let mut right_column = String::new();
@@ -412,20 +413,27 @@ impl PokemonCard {
         if !self.stats.is_empty() {
             right_column.push_str("**Base Stats**\n\n| Stat | Value |\n| --- | --- |\n");
             for stat in &self.stats {
-                writeln!(&mut right_column, "| {} | {} |", stat.name, stat.value).unwrap();
+                let class = stat_class(stat.value);
+                writeln!(
+                    &mut right_column,
+                    "| {} | <span class=\"stat-value {}\">{}</span> |",
+                    stat.name, class, stat.value
+                )
+                .unwrap();
             }
-            writeln!(&mut right_column, "| Total | {} |\n", self.stats_total).unwrap();
+            let total_class = stat_class(self.stats_total / (self.stats.len() as u32));
+            writeln!(
+                &mut right_column,
+                "| Total | <span class=\"stat-value {}\">{}</span> |\n",
+                total_class, self.stats_total
+            )
+            .unwrap();
         }
 
         if !self.moves.is_empty() {
             right_column.push_str("**Notable Level-Up Moves**\n");
             for mv in &self.moves {
-                writeln!(
-                    &mut right_column,
-                    "- {} (Lv {}, {})",
-                    mv.name, mv.level, mv.version
-                )
-                .unwrap();
+                writeln!(&mut right_column, "- {} (Lv {})", mv.name, mv.level).unwrap();
             }
             right_column.push('\n');
         }
@@ -564,7 +572,6 @@ struct StatLine {
 struct MoveLine {
     name: String,
     level: u32,
-    version: String,
 }
 
 #[derive(Debug, Clone, Default)]
@@ -576,6 +583,14 @@ struct TypeMatchups {
 impl TypeMatchups {
     fn has_data(&self) -> bool {
         !(self.strong_against.is_empty() && self.weak_against.is_empty())
+    }
+}
+
+fn stat_class(value: u32) -> &'static str {
+    match value {
+        0..=50 => "stat-low",
+        51..=90 => "stat-mid",
+        _ => "stat-high",
     }
 }
 
@@ -654,30 +669,28 @@ fn stat_display_name(slug: &str) -> String {
 }
 
 fn extract_moves(pokemon: &Pokemon) -> Vec<MoveLine> {
-    use std::collections::HashSet;
+    use std::collections::BTreeSet;
 
-    let mut candidates: Vec<MoveLine> = Vec::new();
+    // Emerald learnset acts as our canonical reference for now.
+    const TARGET_VERSION_GROUP: &str = "emerald";
+    let mut entries: BTreeSet<(u32, String)> = BTreeSet::new();
     for mv in &pokemon.moves {
+        let name = display_name(&mv.move_ref.name);
         for detail in &mv.version_group_details {
-            if detail.move_learn_method.name != "level-up" || detail.level_learned_at == 0 {
+            if detail.move_learn_method.name != "level-up"
+                || detail.level_learned_at == 0
+                || detail.version_group.name != TARGET_VERSION_GROUP
+            {
                 continue;
             }
-            candidates.push(MoveLine {
-                name: display_name(&mv.move_ref.name),
-                level: detail.level_learned_at,
-                version: display_name(&detail.version_group.name),
-            });
+            entries.insert((detail.level_learned_at, name.clone()));
         }
     }
-    if candidates.is_empty() {
-        return candidates;
-    }
 
-    candidates.sort_by(|a, b| a.level.cmp(&b.level).then(a.name.cmp(&b.name)));
-    let mut seen = HashSet::new();
-    candidates.retain(|entry| seen.insert(entry.name.clone()));
-    candidates.truncate(6);
-    candidates
+    entries
+        .into_iter()
+        .map(|(level, name)| MoveLine { name, level })
+        .collect()
 }
 
 fn summarize_type_matchups(types: &[type_chart::Type]) -> TypeMatchups {
@@ -831,8 +844,6 @@ fn describe_evolution(details: &[EvolutionDetail]) -> Option<String> {
 struct Pokemon {
     id: u32,
     name: String,
-    height: u32,
-    weight: u32,
     base_experience: Option<u32>,
     abilities: Vec<PokemonAbility>,
     stats: Vec<PokemonStat>,
@@ -883,6 +894,8 @@ struct PokemonSpecies {
     name: String,
     genera: Vec<GenusEntry>,
     flavor_text_entries: Vec<FlavorTextEntry>,
+    #[serde(default)]
+    egg_groups: Vec<NamedResource>,
     #[serde(default)]
     evolution_chain: Option<ApiResource>,
     #[serde(default)]

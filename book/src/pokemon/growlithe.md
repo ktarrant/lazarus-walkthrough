@@ -8,8 +8,7 @@
 ## Growlithe (#058)
 <details class="pokemon-card-container" open>
 <summary>Growlithe overview</summary>
-_Puppy Pokémon_ • Types: Fire
-Height: 0.7 m · Weight: 19.0 kg · Base EXP: 70
+_Puppy Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 70
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,25 @@ Height: 0.7 m · Weight: 19.0 kg · Base EXP: 70
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 70 |
-| Defense | 45 |
-| Sp. Atk | 70 |
-| Sp. Def | 50 |
-| Speed | 60 |
-| Total | 350 |
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">350</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1, Red Blue)
-- Ember (Lv 1, Sword Shield)
-- Leer (Lv 1, Sword Shield)
-- Roar (Lv 1, Red Blue)
-- Howl (Lv 4, Sword Shield)
-- Helping Hand (Lv 10, Lets Go Pikachu Lets Go Eevee)
+- Bite (Lv 1)
+- Roar (Lv 1)
+- Ember (Lv 7)
+- Leer (Lv 13)
+- Odor Sleuth (Lv 19)
+- Take Down (Lv 25)
+- Flame Wheel (Lv 31)
+- Helping Hand (Lv 37)
+- Agility (Lv 43)
+- Flamethrower (Lv 49)
 </div>
 </div>
 
@@ -71,8 +74,7 @@ Height: 0.7 m · Weight: 19.0 kg · Base EXP: 70
 ## Arcanine (#059)
 <details class="pokemon-card-container" open>
 <summary>Arcanine overview</summary>
-_Legendary Pokémon_ • Types: Fire
-Height: 1.9 m · Weight: 155.0 kg · Base EXP: 194
+_Legendary Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 194
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -104,21 +106,20 @@ Height: 1.9 m · Weight: 155.0 kg · Base EXP: 194
 
 | Stat | Value |
 | --- | --- |
-| HP | 90 |
-| Attack | 110 |
-| Defense | 80 |
-| Sp. Atk | 100 |
-| Sp. Def | 80 |
-| Speed | 95 |
-| Total | 555 |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-high">555</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Sword Shield)
-- Bite (Lv 1, Ruby Sapphire)
-- Burn Up (Lv 1, Sword Shield)
-- Crunch (Lv 1, Sword Shield)
-- Double Edge (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Ember (Lv 1, Red Blue)
+- Bite (Lv 1)
+- Ember (Lv 1)
+- Odor Sleuth (Lv 1)
+- Roar (Lv 1)
+- Extreme Speed (Lv 49)
 </div>
 </div>
 

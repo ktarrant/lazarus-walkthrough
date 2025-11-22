@@ -10,8 +10,7 @@
 ## Flabebe (#669)
 <details class="pokemon-card-container" open>
 <summary>Flabebe overview</summary>
-_Single Bloom Pokémon_ • Types: Fairy
-Height: 0.1 m · Weight: 0.1 kg · Base EXP: 61
+_Single Bloom Pokémon_ • Types: Fairy • Egg Groups: Fairy • Base EXP: 61
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -39,21 +38,13 @@ Height: 0.1 m · Weight: 0.1 kg · Base EXP: 61
 
 | Stat | Value |
 | --- | --- |
-| HP | 44 |
-| Attack | 38 |
-| Defense | 39 |
-| Sp. Atk | 61 |
-| Sp. Def | 79 |
-| Speed | 42 |
-| Total | 303 |
-
-**Notable Level-Up Moves**
-- Tackle (Lv 1, X Y)
-- Vine Whip (Lv 1, X Y)
-- Fairy Wind (Lv 6, X Y)
-- Lucky Chant (Lv 10, X Y)
-- Safeguard (Lv 10, Scarlet Violet)
-- Razor Leaf (Lv 15, X Y)
+| HP | <span class="stat-value stat-low">44</span> |
+| Attack | <span class="stat-value stat-low">38</span> |
+| Defense | <span class="stat-value stat-low">39</span> |
+| Sp. Atk | <span class="stat-value stat-mid">61</span> |
+| Sp. Def | <span class="stat-value stat-mid">79</span> |
+| Speed | <span class="stat-value stat-low">42</span> |
+| Total | <span class="stat-value stat-low">303</span> |
 </div>
 </div>
 
@@ -65,8 +56,7 @@ Height: 0.1 m · Weight: 0.1 kg · Base EXP: 61
 ## Floette (#670)
 <details class="pokemon-card-container" open>
 <summary>Floette overview</summary>
-_Single Bloom Pokémon_ • Types: Fairy
-Height: 0.2 m · Weight: 0.9 kg · Base EXP: 130
+_Single Bloom Pokémon_ • Types: Fairy • Egg Groups: Fairy • Base EXP: 130
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -99,21 +89,13 @@ Height: 0.2 m · Weight: 0.9 kg · Base EXP: 130
 
 | Stat | Value |
 | --- | --- |
-| HP | 54 |
-| Attack | 45 |
-| Defense | 47 |
-| Sp. Atk | 75 |
-| Sp. Def | 98 |
-| Speed | 52 |
-| Total | 371 |
-
-**Notable Level-Up Moves**
-- Fairy Wind (Lv 1, Sun Moon)
-- Tackle (Lv 1, X Y)
-- Vine Whip (Lv 1, X Y)
-- Lucky Chant (Lv 10, X Y)
-- Safeguard (Lv 10, Scarlet Violet)
-- Razor Leaf (Lv 15, X Y)
+| HP | <span class="stat-value stat-mid">54</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">47</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-high">98</span> |
+| Speed | <span class="stat-value stat-mid">52</span> |
+| Total | <span class="stat-value stat-mid">371</span> |
 </div>
 </div>
 
@@ -125,8 +107,7 @@ Height: 0.2 m · Weight: 0.9 kg · Base EXP: 130
 ## Florges (#671)
 <details class="pokemon-card-container" open>
 <summary>Florges overview</summary>
-_Garden Pokémon_ • Types: Fairy
-Height: 1.1 m · Weight: 10.0 kg · Base EXP: 248
+_Garden Pokémon_ • Types: Fairy • Egg Groups: Fairy • Base EXP: 248
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -157,21 +138,13 @@ Height: 1.1 m · Weight: 10.0 kg · Base EXP: 248
 
 | Stat | Value |
 | --- | --- |
-| HP | 78 |
-| Attack | 65 |
-| Defense | 68 |
-| Sp. Atk | 112 |
-| Sp. Def | 154 |
-| Speed | 75 |
-| Total | 552 |
-
-**Notable Level-Up Moves**
-- Aromatherapy (Lv 1, X Y)
-- Disarming Voice (Lv 1, X Y)
-- Flower Shield (Lv 1, X Y)
-- Grass Knot (Lv 1, X Y)
-- Grassy Terrain (Lv 1, X Y)
-- Lucky Chant (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">78</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">68</span> |
+| Sp. Atk | <span class="stat-value stat-high">112</span> |
+| Sp. Def | <span class="stat-value stat-high">154</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-high">552</span> |
 </div>
 </div>
 

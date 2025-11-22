@@ -8,8 +8,7 @@
 ## Tirtouga (#564)
 <details class="pokemon-card-container" open>
 <summary>Tirtouga overview</summary>
-_Prototurtle Pokémon_ • Types: Water / Rock
-Height: 0.7 m · Weight: 16.5 kg · Base EXP: 71
+_Prototurtle Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Base EXP: 71
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.7 m · Weight: 16.5 kg · Base EXP: 71
 
 | Stat | Value |
 | --- | --- |
-| HP | 54 |
-| Attack | 78 |
-| Defense | 103 |
-| Sp. Atk | 53 |
-| Sp. Def | 45 |
-| Speed | 22 |
-| Total | 355 |
-
-**Notable Level-Up Moves**
-- Bide (Lv 1, Black White)
-- Water Gun (Lv 1, Black White)
-- Withdraw (Lv 1, Black White)
-- Protect (Lv 3, Sword Shield)
-- Rollout (Lv 5, Black White)
-- Aqua Jet (Lv 6, Sword Shield)
+| HP | <span class="stat-value stat-mid">54</span> |
+| Attack | <span class="stat-value stat-mid">78</span> |
+| Defense | <span class="stat-value stat-high">103</span> |
+| Sp. Atk | <span class="stat-value stat-mid">53</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">22</span> |
+| Total | <span class="stat-value stat-mid">355</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.7 m · Weight: 16.5 kg · Base EXP: 71
 ## Carracosta (#565)
 <details class="pokemon-card-container" open>
 <summary>Carracosta overview</summary>
-_Prototurtle Pokémon_ • Types: Water / Rock
-Height: 1.2 m · Weight: 81.0 kg · Base EXP: 173
+_Prototurtle Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Base EXP: 173
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 1.2 m · Weight: 81.0 kg · Base EXP: 173
 
 | Stat | Value |
 | --- | --- |
-| HP | 74 |
-| Attack | 108 |
-| Defense | 133 |
-| Sp. Atk | 83 |
-| Sp. Def | 65 |
-| Speed | 32 |
-| Total | 495 |
-
-**Notable Level-Up Moves**
-- Aqua Jet (Lv 1, Sword Shield)
-- Bide (Lv 1, Black White)
-- Protect (Lv 1, Sword Shield)
-- Rollout (Lv 1, Black White)
-- Water Gun (Lv 1, Black White)
-- Withdraw (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">74</span> |
+| Attack | <span class="stat-value stat-high">108</span> |
+| Defense | <span class="stat-value stat-high">133</span> |
+| Sp. Atk | <span class="stat-value stat-mid">83</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">32</span> |
+| Total | <span class="stat-value stat-mid">495</span> |
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Grubbin (#736)
 <details class="pokemon-card-container" open>
 <summary>Grubbin overview</summary>
-_Larva Pokémon_ • Types: Bug
-Height: 0.4 m · Weight: 4.4 kg · Base EXP: 60
+_Larva Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 60
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -44,21 +43,13 @@ Height: 0.4 m · Weight: 4.4 kg · Base EXP: 60
 
 | Stat | Value |
 | --- | --- |
-| HP | 47 |
-| Attack | 62 |
-| Defense | 45 |
-| Sp. Atk | 55 |
-| Sp. Def | 45 |
-| Speed | 46 |
-| Total | 300 |
-
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1, Sword Shield)
-- Vice Grip (Lv 1, Sun Moon)
-- String Shot (Lv 4, Sun Moon)
-- Bite (Lv 10, Sun Moon)
-- Bug Bite (Lv 10, Sword Shield)
-- Spark (Lv 16, Sun Moon)
+| HP | <span class="stat-value stat-low">47</span> |
+| Attack | <span class="stat-value stat-mid">62</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">46</span> |
+| Total | <span class="stat-value stat-low">300</span> |
 </div>
 </div>
 
@@ -70,8 +61,7 @@ Height: 0.4 m · Weight: 4.4 kg · Base EXP: 60
 ## Charjabug (#737)
 <details class="pokemon-card-container" open>
 <summary>Charjabug overview</summary>
-_Battery Pokémon_ • Types: Bug / Electric
-Height: 0.5 m · Weight: 10.5 kg · Base EXP: 140
+_Battery Pokémon_ • Types: Bug / Electric • Egg Groups: Bug • Base EXP: 140
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 0.5 m · Weight: 10.5 kg · Base EXP: 140
 
 | Stat | Value |
 | --- | --- |
-| HP | 57 |
-| Attack | 82 |
-| Defense | 95 |
-| Sp. Atk | 55 |
-| Sp. Def | 75 |
-| Speed | 36 |
-| Total | 400 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Sun Moon)
-- Bug Bite (Lv 1, Sword Shield)
-- Charge (Lv 1, Sun Moon)
-- Mud Slap (Lv 1, Sun Moon)
-- String Shot (Lv 1, Sun Moon)
-- Vice Grip (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">57</span> |
+| Attack | <span class="stat-value stat-mid">82</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">36</span> |
+| Total | <span class="stat-value stat-mid">400</span> |
 </div>
 </div>
 
@@ -131,8 +113,7 @@ Height: 0.5 m · Weight: 10.5 kg · Base EXP: 140
 ## Vikavolt (#738)
 <details class="pokemon-card-container" open>
 <summary>Vikavolt overview</summary>
-_Stag Beetle Pokémon_ • Types: Bug / Electric
-Height: 1.5 m · Weight: 45.0 kg · Base EXP: 225
+_Stag Beetle Pokémon_ • Types: Bug / Electric • Egg Groups: Bug • Base EXP: 225
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -159,21 +140,13 @@ Height: 1.5 m · Weight: 45.0 kg · Base EXP: 225
 
 | Stat | Value |
 | --- | --- |
-| HP | 77 |
-| Attack | 70 |
-| Defense | 90 |
-| Sp. Atk | 145 |
-| Sp. Def | 75 |
-| Speed | 43 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Air Slash (Lv 1, Sun Moon)
-- Bite (Lv 1, Sun Moon)
-- Bug Bite (Lv 1, Sword Shield)
-- Charge (Lv 1, Sun Moon)
-- Crunch (Lv 1, Sword Shield)
-- Dig (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-mid">77</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-high">145</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">43</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

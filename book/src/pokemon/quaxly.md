@@ -10,8 +10,7 @@
 ## Quaxly (#912)
 <details class="pokemon-card-container" open>
 <summary>Quaxly overview</summary>
-_Duckling Pokémon_ • Types: Water
-Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
+_Duckling Pokémon_ • Types: Water • Egg Groups: Flying / Water1 • Base EXP: 62
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,21 +41,13 @@ Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 65 |
-| Defense | 45 |
-| Sp. Atk | 50 |
-| Sp. Def | 45 |
-| Speed | 50 |
-| Total | 310 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, Scarlet Violet)
-- Pound (Lv 1, Scarlet Violet)
-- Water Gun (Lv 1, Scarlet Violet)
-- Work Up (Lv 7, Scarlet Violet)
-- Wing Attack (Lv 10, Scarlet Violet)
-- Aqua Jet (Lv 13, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
 </div>
 </div>
 
@@ -68,8 +59,7 @@ Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 ## Quaxwell (#913)
 <details class="pokemon-card-container" open>
 <summary>Quaxwell overview</summary>
-_Practicing Pokémon_ • Types: Water
-Height: 1.2 m · Weight: 21.5 kg · Base EXP: 144
+_Practicing Pokémon_ • Types: Water • Egg Groups: Flying / Water1 • Base EXP: 144
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -97,21 +87,13 @@ Height: 1.2 m · Weight: 21.5 kg · Base EXP: 144
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 85 |
-| Defense | 65 |
-| Sp. Atk | 65 |
-| Sp. Def | 60 |
-| Speed | 65 |
-| Total | 410 |
-
-**Notable Level-Up Moves**
-- Double Hit (Lv 1, Scarlet Violet)
-- Growl (Lv 1, Scarlet Violet)
-- Pound (Lv 1, Scarlet Violet)
-- Water Gun (Lv 1, Scarlet Violet)
-- Work Up (Lv 7, Scarlet Violet)
-- Wing Attack (Lv 10, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
 </div>
 </div>
 
@@ -123,8 +105,7 @@ Height: 1.2 m · Weight: 21.5 kg · Base EXP: 144
 ## Quaquaval (#914)
 <details class="pokemon-card-container" open>
 <summary>Quaquaval overview</summary>
-_Dancer Pokémon_ • Types: Water / Fighting
-Height: 1.8 m · Weight: 61.9 kg · Base EXP: 265
+_Dancer Pokémon_ • Types: Water / Fighting • Egg Groups: Flying / Water1 • Base EXP: 265
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -158,21 +139,13 @@ Height: 1.8 m · Weight: 61.9 kg · Base EXP: 265
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 120 |
-| Defense | 80 |
-| Sp. Atk | 85 |
-| Sp. Def | 75 |
-| Speed | 85 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Double Hit (Lv 1, Scarlet Violet)
-- Growl (Lv 1, Scarlet Violet)
-- Pound (Lv 1, Scarlet Violet)
-- Water Gun (Lv 1, Scarlet Violet)
-- Work Up (Lv 7, Scarlet Violet)
-- Wing Attack (Lv 10, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">85</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

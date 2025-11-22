@@ -8,8 +8,7 @@
 ## Rockruff (#744)
 <details class="pokemon-card-container" open>
 <summary>Rockruff overview</summary>
-_Puppy Pokémon_ • Types: Rock
-Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
+_Puppy Pokémon_ • Types: Rock • Egg Groups: Ground • Base EXP: 56
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -46,21 +45,13 @@ Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 65 |
-| Defense | 40 |
-| Sp. Atk | 30 |
-| Sp. Def | 40 |
-| Speed | 60 |
-| Total | 280 |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1, Sun Moon)
-- Tackle (Lv 1, Sun Moon)
-- Sand Attack (Lv 4, Sun Moon)
-- Bite (Lv 7, Sun Moon)
-- Double Team (Lv 8, Sword Shield)
-- Howl (Lv 12, Sun Moon)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-low">30</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">280</span> |
 </div>
 </div>
 
@@ -72,8 +63,7 @@ Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
 ## Lycanroc Midday (#745)
 <details class="pokemon-card-container" open>
 <summary>Lycanroc Midday overview</summary>
-_Wolf Pokémon_ • Types: Rock
-Height: 0.8 m · Weight: 25.0 kg · Base EXP: 170
+_Wolf Pokémon_ • Types: Rock • Egg Groups: Ground • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +95,13 @@ Height: 0.8 m · Weight: 25.0 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 75 |
-| Attack | 115 |
-| Defense | 65 |
-| Sp. Atk | 55 |
-| Sp. Def | 65 |
-| Speed | 112 |
-| Total | 487 |
-
-**Notable Level-Up Moves**
-- Accelerock (Lv 1, Sun Moon)
-- Bite (Lv 1, Sun Moon)
-- Double Team (Lv 1, Sword Shield)
-- Leer (Lv 1, Sun Moon)
-- Quick Attack (Lv 1, Sun Moon)
-- Quick Guard (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">112</span> |
+| Total | <span class="stat-value stat-mid">487</span> |
 </div>
 </div>
 

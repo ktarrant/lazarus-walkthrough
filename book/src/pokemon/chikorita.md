@@ -10,8 +10,7 @@
 ## Chikorita (#152)
 <details class="pokemon-card-container" open>
 <summary>Chikorita overview</summary>
-_Leaf Pokémon_ • Types: Grass
-Height: 0.9 m · Weight: 6.4 kg · Base EXP: 64
+_Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 64
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,25 @@ Height: 0.9 m · Weight: 6.4 kg · Base EXP: 64
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 49 |
-| Defense | 65 |
-| Sp. Atk | 49 |
-| Sp. Def | 65 |
-| Speed | 45 |
-| Total | 318 |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">49</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">49</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">318</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Razor Leaf (Lv 6, Diamond Pearl)
-- Poison Powder (Lv 9, Diamond Pearl)
-- Reflect (Lv 12, Gold Silver)
-- Synthesis (Lv 12, Diamond Pearl)
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Razor Leaf (Lv 8)
+- Reflect (Lv 12)
+- Poison Powder (Lv 15)
+- Synthesis (Lv 22)
+- Body Slam (Lv 29)
+- Light Screen (Lv 36)
+- Safeguard (Lv 43)
+- Solar Beam (Lv 50)
 </div>
 </div>
 
@@ -71,8 +74,7 @@ Height: 0.9 m · Weight: 6.4 kg · Base EXP: 64
 ## Bayleef (#153)
 <details class="pokemon-card-container" open>
 <summary>Bayleef overview</summary>
-_Leaf Pokémon_ • Types: Grass
-Height: 1.2 m · Weight: 15.8 kg · Base EXP: 142
+_Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +105,27 @@ Height: 1.2 m · Weight: 15.8 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 62 |
-| Defense | 80 |
-| Sp. Atk | 63 |
-| Sp. Def | 80 |
-| Speed | 60 |
-| Total | 405 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">62</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">63</span> |
+| Sp. Def | <span class="stat-value stat-mid">80</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Gold Silver)
-- Poison Powder (Lv 1, Diamond Pearl)
-- Razor Leaf (Lv 1, Gold Silver)
-- Reflect (Lv 1, Gold Silver)
-- Tackle (Lv 1, Gold Silver)
-- Synthesis (Lv 12, Diamond Pearl)
+- Growl (Lv 1)
+- Razor Leaf (Lv 1)
+- Reflect (Lv 1)
+- Tackle (Lv 1)
+- Razor Leaf (Lv 8)
+- Reflect (Lv 12)
+- Poison Powder (Lv 15)
+- Synthesis (Lv 23)
+- Body Slam (Lv 31)
+- Light Screen (Lv 39)
+- Safeguard (Lv 47)
+- Solar Beam (Lv 55)
 </div>
 </div>
 
@@ -129,8 +137,7 @@ Height: 1.2 m · Weight: 15.8 kg · Base EXP: 142
 ## Meganium (#154)
 <details class="pokemon-card-container" open>
 <summary>Meganium overview</summary>
-_Herb Pokémon_ • Types: Grass
-Height: 1.8 m · Weight: 100.5 kg · Base EXP: 236
+_Herb Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 236
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -161,21 +168,27 @@ Height: 1.8 m · Weight: 100.5 kg · Base EXP: 236
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 82 |
-| Defense | 100 |
-| Sp. Atk | 83 |
-| Sp. Def | 100 |
-| Speed | 80 |
-| Total | 525 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">82</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">83</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Gold Silver)
-- Petal Blizzard (Lv 1, X Y)
-- Petal Dance (Lv 1, Sun Moon)
-- Poison Powder (Lv 1, Diamond Pearl)
-- Razor Leaf (Lv 1, Gold Silver)
-- Reflect (Lv 1, Gold Silver)
+- Growl (Lv 1)
+- Razor Leaf (Lv 1)
+- Reflect (Lv 1)
+- Tackle (Lv 1)
+- Razor Leaf (Lv 8)
+- Reflect (Lv 12)
+- Poison Powder (Lv 15)
+- Synthesis (Lv 23)
+- Body Slam (Lv 31)
+- Light Screen (Lv 41)
+- Safeguard (Lv 51)
+- Solar Beam (Lv 61)
 </div>
 </div>
 

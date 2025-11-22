@@ -8,8 +8,7 @@
 ## Clauncher (#692)
 <details class="pokemon-card-container" open>
 <summary>Clauncher overview</summary>
-_Water Gun Pokémon_ • Types: Water
-Height: 0.5 m · Weight: 8.3 kg · Base EXP: 66
+_Water Gun Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base EXP: 66
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,21 +48,13 @@ Height: 0.5 m · Weight: 8.3 kg · Base EXP: 66
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 53 |
-| Defense | 62 |
-| Sp. Atk | 58 |
-| Sp. Def | 63 |
-| Speed | 44 |
-| Total | 330 |
-
-**Notable Level-Up Moves**
-- Splash (Lv 1, X Y)
-- Water Gun (Lv 1, X Y)
-- Vice Grip (Lv 5, Sword Shield)
-- Water Sport (Lv 7, X Y)
-- Flail (Lv 10, Sword Shield)
-- Bubble (Lv 12, X Y)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">53</span> |
+| Defense | <span class="stat-value stat-mid">62</span> |
+| Sp. Atk | <span class="stat-value stat-mid">58</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-low">44</span> |
+| Total | <span class="stat-value stat-mid">330</span> |
 </div>
 </div>
 
@@ -75,8 +66,7 @@ Height: 0.5 m · Weight: 8.3 kg · Base EXP: 66
 ## Clawitzer (#693)
 <details class="pokemon-card-container" open>
 <summary>Clawitzer overview</summary>
-_Howitzer Pokémon_ • Types: Water
-Height: 1.3 m · Weight: 35.3 kg · Base EXP: 100
+_Howitzer Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base EXP: 100
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,21 +96,13 @@ Height: 1.3 m · Weight: 35.3 kg · Base EXP: 100
 
 | Stat | Value |
 | --- | --- |
-| HP | 71 |
-| Attack | 73 |
-| Defense | 88 |
-| Sp. Atk | 120 |
-| Sp. Def | 89 |
-| Speed | 59 |
-| Total | 500 |
-
-**Notable Level-Up Moves**
-- Aura Sphere (Lv 1, X Y)
-- Dark Pulse (Lv 1, X Y)
-- Dragon Pulse (Lv 1, X Y)
-- Flail (Lv 1, Sword Shield)
-- Heal Pulse (Lv 1, X Y)
-- Splash (Lv 1, X Y)
+| HP | <span class="stat-value stat-mid">71</span> |
+| Attack | <span class="stat-value stat-mid">73</span> |
+| Defense | <span class="stat-value stat-mid">88</span> |
+| Sp. Atk | <span class="stat-value stat-high">120</span> |
+| Sp. Def | <span class="stat-value stat-mid">89</span> |
+| Speed | <span class="stat-value stat-mid">59</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 </div>
 </div>
 

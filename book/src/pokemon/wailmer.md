@@ -8,8 +8,7 @@
 ## Wailmer (#320)
 <details class="pokemon-card-container" open>
 <summary>Wailmer overview</summary>
-_Ball Whale Pokémon_ • Types: Water
-Height: 2.0 m · Weight: 130.0 kg · Base EXP: 80
+_Ball Whale Pokémon_ • Types: Water • Egg Groups: Ground / Water2 • Base EXP: 80
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -60,21 +59,27 @@ Height: 2.0 m · Weight: 130.0 kg · Base EXP: 80
 
 | Stat | Value |
 | --- | --- |
-| HP | 130 |
-| Attack | 70 |
-| Defense | 35 |
-| Sp. Atk | 70 |
-| Sp. Def | 35 |
-| Speed | 60 |
-| Total | 400 |
+| HP | <span class="stat-value stat-high">130</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">400</span> |
 
 **Notable Level-Up Moves**
-- Splash (Lv 1, Ruby Sapphire)
-- Growl (Lv 3, Sword Shield)
-- Astonish (Lv 6, Sword Shield)
-- Water Gun (Lv 7, Diamond Pearl)
-- Rollout (Lv 10, Omega Ruby Alpha Sapphire)
-- Whirlpool (Lv 13, Omega Ruby Alpha Sapphire)
+- Splash (Lv 1)
+- Growl (Lv 5)
+- Water Gun (Lv 10)
+- Rollout (Lv 14)
+- Whirlpool (Lv 19)
+- Astonish (Lv 23)
+- Water Pulse (Lv 28)
+- Mist (Lv 32)
+- Rest (Lv 37)
+- Water Spout (Lv 41)
+- Amnesia (Lv 46)
+- Hydro Pump (Lv 50)
 </div>
 </div>
 
@@ -86,8 +91,7 @@ Height: 2.0 m · Weight: 130.0 kg · Base EXP: 80
 ## Wailord (#321)
 <details class="pokemon-card-container" open>
 <summary>Wailord overview</summary>
-_Float Whale Pokémon_ • Types: Water
-Height: 14.5 m · Weight: 398.0 kg · Base EXP: 175
+_Float Whale Pokémon_ • Types: Water • Egg Groups: Ground / Water2 • Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -116,21 +120,30 @@ Height: 14.5 m · Weight: 398.0 kg · Base EXP: 175
 
 | Stat | Value |
 | --- | --- |
-| HP | 170 |
-| Attack | 90 |
-| Defense | 45 |
-| Sp. Atk | 90 |
-| Sp. Def | 45 |
-| Speed | 60 |
-| Total | 500 |
+| HP | <span class="stat-value stat-high">170</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">90</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Sword Shield)
-- Growl (Lv 1, Ruby Sapphire)
-- Heavy Slam (Lv 1, Omega Ruby Alpha Sapphire)
-- Noble Roar (Lv 1, Sun Moon)
-- Rollout (Lv 1, Ruby Sapphire)
-- Soak (Lv 1, Sun Moon)
+- Growl (Lv 1)
+- Rollout (Lv 1)
+- Splash (Lv 1)
+- Water Gun (Lv 1)
+- Growl (Lv 5)
+- Water Gun (Lv 10)
+- Rollout (Lv 14)
+- Whirlpool (Lv 19)
+- Astonish (Lv 23)
+- Water Pulse (Lv 28)
+- Mist (Lv 32)
+- Rest (Lv 37)
+- Water Spout (Lv 44)
+- Amnesia (Lv 52)
+- Hydro Pump (Lv 59)
 </div>
 </div>
 

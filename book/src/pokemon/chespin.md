@@ -10,8 +10,7 @@
 ## Chespin (#650)
 <details class="pokemon-card-container" open>
 <summary>Chespin overview</summary>
-_Spiny Nut Pokémon_ • Types: Grass
-Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
+_Spiny Nut Pokémon_ • Types: Grass • Egg Groups: Ground • Base EXP: 63
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 
 | Stat | Value |
 | --- | --- |
-| HP | 56 |
-| Attack | 61 |
-| Defense | 65 |
-| Sp. Atk | 48 |
-| Sp. Def | 45 |
-| Speed | 38 |
-| Total | 313 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, X Y)
-- Tackle (Lv 1, X Y)
-- Vine Whip (Lv 1, Sun Moon)
-- Rollout (Lv 8, X Y)
-- Bite (Lv 11, X Y)
-- Leech Seed (Lv 15, X Y)
+| HP | <span class="stat-value stat-mid">56</span> |
+| Attack | <span class="stat-value stat-mid">61</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">48</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-low">38</span> |
+| Total | <span class="stat-value stat-mid">313</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 ## Quilladin (#651)
 <details class="pokemon-card-container" open>
 <summary>Quilladin overview</summary>
-_Spiny Armor Pokémon_ • Types: Grass
-Height: 0.7 m · Weight: 29.0 kg · Base EXP: 142
+_Spiny Armor Pokémon_ • Types: Grass • Egg Groups: Ground • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +93,13 @@ Height: 0.7 m · Weight: 29.0 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 61 |
-| Attack | 78 |
-| Defense | 95 |
-| Sp. Atk | 56 |
-| Sp. Def | 58 |
-| Speed | 57 |
-| Total | 405 |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1, X Y)
-- Needle Arm (Lv 1, Sun Moon)
-- Tackle (Lv 1, X Y)
-- Vine Whip (Lv 1, Sun Moon)
-- Rollout (Lv 8, X Y)
-- Bite (Lv 11, X Y)
+| HP | <span class="stat-value stat-mid">61</span> |
+| Attack | <span class="stat-value stat-mid">78</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-mid">56</span> |
+| Sp. Def | <span class="stat-value stat-mid">58</span> |
+| Speed | <span class="stat-value stat-mid">57</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 </div>
 </div>
 
@@ -129,8 +111,7 @@ Height: 0.7 m · Weight: 29.0 kg · Base EXP: 142
 ## Chesnaught (#652)
 <details class="pokemon-card-container" open>
 <summary>Chesnaught overview</summary>
-_Spiny Armor Pokémon_ • Types: Grass / Fighting
-Height: 1.6 m · Weight: 90.0 kg · Base EXP: 239
+_Spiny Armor Pokémon_ • Types: Grass / Fighting • Egg Groups: Ground • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -164,21 +145,13 @@ Height: 1.6 m · Weight: 90.0 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 88 |
-| Attack | 107 |
-| Defense | 122 |
-| Sp. Atk | 74 |
-| Sp. Def | 75 |
-| Speed | 64 |
-| Total | 530 |
-
-**Notable Level-Up Moves**
-- Belly Drum (Lv 1, X Y)
-- Feint (Lv 1, X Y)
-- Growl (Lv 1, X Y)
-- Hammer Arm (Lv 1, X Y)
-- Needle Arm (Lv 1, Sun Moon)
-- Rollout (Lv 1, Sun Moon)
+| HP | <span class="stat-value stat-mid">88</span> |
+| Attack | <span class="stat-value stat-high">107</span> |
+| Defense | <span class="stat-value stat-high">122</span> |
+| Sp. Atk | <span class="stat-value stat-mid">74</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">64</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 </div>
 </div>
 

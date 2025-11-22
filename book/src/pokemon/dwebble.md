@@ -8,8 +8,7 @@
 ## Dwebble (#557)
 <details class="pokemon-card-container" open>
 <summary>Dwebble overview</summary>
-_Rock Inn Pokémon_ • Types: Bug / Rock
-Height: 0.3 m · Weight: 14.5 kg · Base EXP: 65
+_Rock Inn Pokémon_ • Types: Bug / Rock • Egg Groups: Bug / Mineral • Base EXP: 65
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,13 @@ Height: 0.3 m · Weight: 14.5 kg · Base EXP: 65
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 65 |
-| Defense | 85 |
-| Sp. Atk | 35 |
-| Sp. Def | 35 |
-| Speed | 55 |
-| Total | 325 |
-
-**Notable Level-Up Moves**
-- Fury Cutter (Lv 1, Black White)
-- Sand Attack (Lv 1, Sword Shield)
-- Withdraw (Lv 4, Sword Shield)
-- Rock Blast (Lv 5, Black White)
-- Smack Down (Lv 8, Sword Shield)
-- Bug Bite (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-low">35</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">325</span> |
 </div>
 </div>
 
@@ -69,8 +60,7 @@ Height: 0.3 m · Weight: 14.5 kg · Base EXP: 65
 ## Crustle (#558)
 <details class="pokemon-card-container" open>
 <summary>Crustle overview</summary>
-_Stone Home Pokémon_ • Types: Bug / Rock
-Height: 1.4 m · Weight: 200.0 kg · Base EXP: 170
+_Stone Home Pokémon_ • Types: Bug / Rock • Egg Groups: Bug / Mineral • Base EXP: 170
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +88,13 @@ Height: 1.4 m · Weight: 200.0 kg · Base EXP: 170
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 105 |
-| Defense | 125 |
-| Sp. Atk | 65 |
-| Sp. Def | 75 |
-| Speed | 45 |
-| Total | 485 |
-
-**Notable Level-Up Moves**
-- Fury Cutter (Lv 1, Sword Shield)
-- Rock Blast (Lv 1, Black White)
-- Sand Attack (Lv 1, Black White)
-- Shell Smash (Lv 1, Black White)
-- Smack Down (Lv 1, Sword Shield)
-- Withdraw (Lv 1, Black White)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-high">125</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">485</span> |
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Wooper Paldea (#10253)
 <details class="pokemon-card-container" open>
 <summary>Wooper Paldea overview</summary>
-_Water Fish Pokémon_ • Types: Poison / Ground
-Height: 0.4 m · Weight: 11.0 kg · Base EXP: 42
+_Water Fish Pokémon_ • Types: Poison / Ground • Egg Groups: Water1 / Ground • Base EXP: 42
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -52,21 +51,13 @@ Height: 0.4 m · Weight: 11.0 kg · Base EXP: 42
 
 | Stat | Value |
 | --- | --- |
-| HP | 55 |
-| Attack | 45 |
-| Defense | 45 |
-| Sp. Atk | 25 |
-| Sp. Def | 25 |
-| Speed | 15 |
-| Total | 210 |
-
-**Notable Level-Up Moves**
-- Mud Shot (Lv 1, Scarlet Violet)
-- Tail Whip (Lv 1, Scarlet Violet)
-- Tackle (Lv 4, Scarlet Violet)
-- Poison Tail (Lv 8, Scarlet Violet)
-- Toxic Spikes (Lv 12, Scarlet Violet)
-- Slam (Lv 16, Scarlet Violet)
+| HP | <span class="stat-value stat-mid">55</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-low">15</span> |
+| Total | <span class="stat-value stat-low">210</span> |
 </div>
 </div>
 
@@ -78,8 +69,7 @@ Height: 0.4 m · Weight: 11.0 kg · Base EXP: 42
 ## Quagsire (#195)
 <details class="pokemon-card-container" open>
 <summary>Quagsire overview</summary>
-_Water Fish Pokémon_ • Types: Water / Ground
-Height: 1.4 m · Weight: 75.0 kg · Base EXP: 151
+_Water Fish Pokémon_ • Types: Water / Ground • Egg Groups: Water1 / Ground • Base EXP: 151
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -113,21 +103,25 @@ Height: 1.4 m · Weight: 75.0 kg · Base EXP: 151
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 85 |
-| Defense | 85 |
-| Sp. Atk | 65 |
-| Sp. Def | 65 |
-| Speed | 35 |
-| Total | 430 |
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-mid">430</span> |
 
 **Notable Level-Up Moves**
-- Mud Shot (Lv 1, Sword Shield)
-- Mud Sport (Lv 1, Diamond Pearl)
-- Rain Dance (Lv 1, Sword Shield)
-- Tail Whip (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Gold Silver)
-- Slam (Lv 11, Gold Silver)
+- Tail Whip (Lv 1)
+- Water Gun (Lv 1)
+- Slam (Lv 11)
+- Mud Shot (Lv 16)
+- Amnesia (Lv 23)
+- Yawn (Lv 35)
+- Earthquake (Lv 42)
+- Rain Dance (Lv 49)
+- Haze (Lv 61)
+- Mist (Lv 61)
 </div>
 </div>
 
@@ -139,8 +133,7 @@ Height: 1.4 m · Weight: 75.0 kg · Base EXP: 151
 ## Clodsire (#980)
 <details class="pokemon-card-container" open>
 <summary>Clodsire overview</summary>
-_Spiny Fish Pokémon_ • Types: Poison / Ground
-Height: 1.8 m · Weight: 223.0 kg · Base EXP: 151
+_Spiny Fish Pokémon_ • Types: Poison / Ground • Egg Groups: Water1 / Ground • Base EXP: 151
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -177,21 +170,13 @@ Height: 1.8 m · Weight: 223.0 kg · Base EXP: 151
 
 | Stat | Value |
 | --- | --- |
-| HP | 130 |
-| Attack | 75 |
-| Defense | 60 |
-| Sp. Atk | 45 |
-| Sp. Def | 100 |
-| Speed | 20 |
-| Total | 430 |
-
-**Notable Level-Up Moves**
-- Poison Sting (Lv 1, Scarlet Violet)
-- Tail Whip (Lv 1, Scarlet Violet)
-- Toxic Spikes (Lv 4, Scarlet Violet)
-- Mud Shot (Lv 8, Scarlet Violet)
-- Poison Tail (Lv 12, Scarlet Violet)
-- Slam (Lv 16, Scarlet Violet)
+| HP | <span class="stat-value stat-high">130</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-mid">430</span> |
 </div>
 </div>
 

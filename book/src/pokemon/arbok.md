@@ -8,8 +8,7 @@
 ## Ekans (#023)
 <details class="pokemon-card-container" open>
 <summary>Ekans overview</summary>
-_Snake Pokémon_ • Types: Poison
-Height: 2.0 m · Weight: 6.9 kg · Base EXP: 58
+_Snake Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP: 58
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,26 @@ Height: 2.0 m · Weight: 6.9 kg · Base EXP: 58
 
 | Stat | Value |
 | --- | --- |
-| HP | 35 |
-| Attack | 60 |
-| Defense | 44 |
-| Sp. Atk | 40 |
-| Sp. Def | 54 |
-| Speed | 55 |
-| Total | 288 |
+| HP | <span class="stat-value stat-low">35</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">44</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">54</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-low">288</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Red Blue)
-- Poison Sting (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Wrap (Lv 1, Red Blue)
-- Acid (Lv 8, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 9, Diamond Pearl)
-- Glare (Lv 12, Diamond Pearl)
+- Leer (Lv 1)
+- Wrap (Lv 1)
+- Poison Sting (Lv 8)
+- Bite (Lv 13)
+- Glare (Lv 20)
+- Screech (Lv 25)
+- Acid (Lv 32)
+- Spit Up (Lv 37)
+- Stockpile (Lv 37)
+- Swallow (Lv 37)
+- Haze (Lv 44)
 </div>
 </div>
 
@@ -71,8 +75,7 @@ Height: 2.0 m · Weight: 6.9 kg · Base EXP: 58
 ## Arbok (#024)
 <details class="pokemon-card-container" open>
 <summary>Arbok overview</summary>
-_Cobra Pokémon_ • Types: Poison
-Height: 3.5 m · Weight: 65.0 kg · Base EXP: 157
+_Cobra Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP: 157
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -105,21 +108,28 @@ Height: 3.5 m · Weight: 65.0 kg · Base EXP: 157
 
 | Stat | Value |
 | --- | --- |
-| HP | 60 |
-| Attack | 95 |
-| Defense | 69 |
-| Sp. Atk | 65 |
-| Sp. Def | 79 |
-| Speed | 80 |
-| Total | 448 |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">69</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">79</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">448</span> |
 
 **Notable Level-Up Moves**
-- Acid (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 1, Gold Silver)
-- Crunch (Lv 1, Sun Moon)
-- Fire Fang (Lv 1, Diamond Pearl)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Leer (Lv 1, Red Blue)
+- Bite (Lv 1)
+- Leer (Lv 1)
+- Poison Sting (Lv 1)
+- Wrap (Lv 1)
+- Poison Sting (Lv 8)
+- Bite (Lv 13)
+- Glare (Lv 20)
+- Screech (Lv 28)
+- Acid (Lv 38)
+- Spit Up (Lv 46)
+- Stockpile (Lv 46)
+- Swallow (Lv 46)
+- Haze (Lv 56)
 </div>
 </div>
 

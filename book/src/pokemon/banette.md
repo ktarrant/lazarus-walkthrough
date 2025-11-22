@@ -8,8 +8,7 @@
 ## Shuppet (#353)
 <details class="pokemon-card-container" open>
 <summary>Shuppet overview</summary>
-_Puppet Pokémon_ • Types: Ghost
-Height: 0.6 m · Weight: 2.3 kg · Base EXP: 59
+_Puppet Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 59
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,25 @@ Height: 0.6 m · Weight: 2.3 kg · Base EXP: 59
 
 | Stat | Value |
 | --- | --- |
-| HP | 44 |
-| Attack | 75 |
-| Defense | 35 |
-| Sp. Atk | 63 |
-| Sp. Def | 33 |
-| Speed | 45 |
-| Total | 295 |
+| HP | <span class="stat-value stat-low">44</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-mid">63</span> |
+| Sp. Def | <span class="stat-value stat-low">33</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-low">295</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1, Scarlet Violet)
-- Knock Off (Lv 1, Ruby Sapphire)
-- Screech (Lv 4, Black 2 White 2)
-- Night Shade (Lv 7, Black 2 White 2)
-- Spite (Lv 10, Black 2 White 2)
-- Curse (Lv 13, Diamond Pearl)
+- Knock Off (Lv 1)
+- Screech (Lv 8)
+- Night Shade (Lv 13)
+- Curse (Lv 20)
+- Spite (Lv 25)
+- Will O Wisp (Lv 32)
+- Feint Attack (Lv 37)
+- Shadow Ball (Lv 44)
+- Snatch (Lv 49)
+- Grudge (Lv 56)
 </div>
 </div>
 
@@ -69,8 +72,7 @@ Height: 0.6 m · Weight: 2.3 kg · Base EXP: 59
 ## Banette (#354)
 <details class="pokemon-card-container" open>
 <summary>Banette overview</summary>
-_Marionette Pokémon_ • Types: Ghost
-Height: 1.1 m · Weight: 12.5 kg · Base EXP: 159
+_Marionette Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 159
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -103,21 +105,28 @@ Height: 1.1 m · Weight: 12.5 kg · Base EXP: 159
 
 | Stat | Value |
 | --- | --- |
-| HP | 64 |
-| Attack | 115 |
-| Defense | 65 |
-| Sp. Atk | 83 |
-| Sp. Def | 63 |
-| Speed | 65 |
-| Total | 455 |
+| HP | <span class="stat-value stat-mid">64</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">83</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">455</span> |
 
 **Notable Level-Up Moves**
-- Curse (Lv 1, Ruby Sapphire)
-- Knock Off (Lv 1, Ruby Sapphire)
-- Night Shade (Lv 1, Ruby Sapphire)
-- Phantom Force (Lv 1, Omega Ruby Alpha Sapphire)
-- Screech (Lv 1, Ruby Sapphire)
-- Spite (Lv 1, Omega Ruby Alpha Sapphire)
+- Curse (Lv 1)
+- Knock Off (Lv 1)
+- Night Shade (Lv 1)
+- Screech (Lv 1)
+- Screech (Lv 8)
+- Night Shade (Lv 13)
+- Curse (Lv 20)
+- Spite (Lv 25)
+- Will O Wisp (Lv 32)
+- Feint Attack (Lv 39)
+- Shadow Ball (Lv 48)
+- Snatch (Lv 55)
+- Grudge (Lv 64)
 </div>
 </div>
 

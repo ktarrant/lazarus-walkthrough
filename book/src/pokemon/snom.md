@@ -8,8 +8,7 @@
 ## Snom (#872)
 <details class="pokemon-card-container" open>
 <summary>Snom overview</summary>
-_Worm Pokémon_ • Types: Ice / Bug
-Height: 0.3 m · Weight: 3.8 kg · Base EXP: 37
+_Worm Pokémon_ • Types: Ice / Bug • Egg Groups: Bug • Base EXP: 37
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -42,17 +41,13 @@ Height: 0.3 m · Weight: 3.8 kg · Base EXP: 37
 
 | Stat | Value |
 | --- | --- |
-| HP | 30 |
-| Attack | 25 |
-| Defense | 35 |
-| Sp. Atk | 45 |
-| Sp. Def | 30 |
-| Speed | 20 |
-| Total | 185 |
-
-**Notable Level-Up Moves**
-- Powder Snow (Lv 1, Sword Shield)
-- Struggle Bug (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-low">30</span> |
+| Attack | <span class="stat-value stat-low">25</span> |
+| Defense | <span class="stat-value stat-low">35</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-low">30</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-low">185</span> |
 </div>
 </div>
 
@@ -64,8 +59,7 @@ Height: 0.3 m · Weight: 3.8 kg · Base EXP: 37
 ## Frosmoth (#873)
 <details class="pokemon-card-container" open>
 <summary>Frosmoth overview</summary>
-_Frost Moth Pokémon_ • Types: Ice / Bug
-Height: 1.3 m · Weight: 42.0 kg · Base EXP: 166
+_Frost Moth Pokémon_ • Types: Ice / Bug • Egg Groups: Bug • Base EXP: 166
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -94,21 +88,13 @@ Height: 1.3 m · Weight: 42.0 kg · Base EXP: 166
 
 | Stat | Value |
 | --- | --- |
-| HP | 70 |
-| Attack | 65 |
-| Defense | 60 |
-| Sp. Atk | 125 |
-| Sp. Def | 90 |
-| Speed | 65 |
-| Total | 475 |
-
-**Notable Level-Up Moves**
-- Attract (Lv 1, Sword Shield)
-- Helping Hand (Lv 1, Sword Shield)
-- Icy Wind (Lv 1, Sword Shield)
-- Powder Snow (Lv 1, Sword Shield)
-- Struggle Bug (Lv 1, Sword Shield)
-- Stun Spore (Lv 4, Sword Shield)
+| HP | <span class="stat-value stat-mid">70</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">125</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">475</span> |
 </div>
 </div>
 

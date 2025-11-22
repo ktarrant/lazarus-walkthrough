@@ -10,8 +10,7 @@
 ## Impidimp (#859)
 <details class="pokemon-card-container" open>
 <summary>Impidimp overview</summary>
-_Wily Pokémon_ • Types: Dark / Fairy
-Height: 0.4 m · Weight: 5.5 kg · Base EXP: 53
+_Wily Pokémon_ • Types: Dark / Fairy • Egg Groups: Fairy / Humanshape • Base EXP: 53
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -45,21 +44,13 @@ Height: 0.4 m · Weight: 5.5 kg · Base EXP: 53
 
 | Stat | Value |
 | --- | --- |
-| HP | 45 |
-| Attack | 45 |
-| Defense | 30 |
-| Sp. Atk | 55 |
-| Sp. Def | 40 |
-| Speed | 50 |
-| Total | 265 |
-
-**Notable Level-Up Moves**
-- Confide (Lv 1, Sword Shield)
-- Fake Out (Lv 1, Sword Shield)
-- Bite (Lv 4, Sword Shield)
-- Flatter (Lv 8, Sword Shield)
-- Fake Tears (Lv 12, Sword Shield)
-- Assurance (Lv 16, Sword Shield)
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">30</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-low">265</span> |
 </div>
 </div>
 
@@ -71,8 +62,7 @@ Height: 0.4 m · Weight: 5.5 kg · Base EXP: 53
 ## Morgrem (#860)
 <details class="pokemon-card-container" open>
 <summary>Morgrem overview</summary>
-_Devious Pokémon_ • Types: Dark / Fairy
-Height: 0.8 m · Weight: 12.5 kg · Base EXP: 130
+_Devious Pokémon_ • Types: Dark / Fairy • Egg Groups: Fairy / Humanshape • Base EXP: 130
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -107,21 +97,13 @@ Height: 0.8 m · Weight: 12.5 kg · Base EXP: 130
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 60 |
-| Defense | 45 |
-| Sp. Atk | 75 |
-| Sp. Def | 55 |
-| Speed | 70 |
-| Total | 370 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Sword Shield)
-- Confide (Lv 1, Sword Shield)
-- Fake Out (Lv 1, Sword Shield)
-- False Surrender (Lv 1, Sword Shield)
-- Flatter (Lv 1, Sword Shield)
-- Fake Tears (Lv 12, Sword Shield)
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">370</span> |
 </div>
 </div>
 
@@ -133,8 +115,7 @@ Height: 0.8 m · Weight: 12.5 kg · Base EXP: 130
 ## Grimmsnarl (#861)
 <details class="pokemon-card-container" open>
 <summary>Grimmsnarl overview</summary>
-_Bulk Up Pokémon_ • Types: Dark / Fairy
-Height: 1.5 m · Weight: 61.0 kg · Base EXP: 255
+_Bulk Up Pokémon_ • Types: Dark / Fairy • Egg Groups: Fairy / Humanshape • Base EXP: 255
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -167,21 +148,13 @@ Height: 1.5 m · Weight: 61.0 kg · Base EXP: 255
 
 | Stat | Value |
 | --- | --- |
-| HP | 95 |
-| Attack | 120 |
-| Defense | 65 |
-| Sp. Atk | 95 |
-| Sp. Def | 75 |
-| Speed | 60 |
-| Total | 510 |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1, Sword Shield)
-- Bulk Up (Lv 1, Sword Shield)
-- Confide (Lv 1, Sword Shield)
-- Fake Out (Lv 1, Sword Shield)
-- False Surrender (Lv 1, Sword Shield)
-- Flatter (Lv 1, Sword Shield)
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">510</span> |
 </div>
 </div>
 

@@ -10,8 +10,7 @@
 ## Totodile (#158)
 <details class="pokemon-card-container" open>
 <summary>Totodile overview</summary>
-_Big Jaw Pokémon_ • Types: Water
-Height: 0.6 m · Weight: 9.5 kg · Base EXP: 63
+_Big Jaw Pokémon_ • Types: Water • Egg Groups: Monster / Water1 • Base EXP: 63
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -43,21 +42,24 @@ Height: 0.6 m · Weight: 9.5 kg · Base EXP: 63
 
 | Stat | Value |
 | --- | --- |
-| HP | 50 |
-| Attack | 65 |
-| Defense | 64 |
-| Sp. Atk | 44 |
-| Sp. Def | 48 |
-| Speed | 43 |
-| Total | 314 |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">64</span> |
+| Sp. Atk | <span class="stat-value stat-low">44</span> |
+| Sp. Def | <span class="stat-value stat-low">48</span> |
+| Speed | <span class="stat-value stat-low">43</span> |
+| Total | <span class="stat-value stat-mid">314</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Scratch (Lv 1, Gold Silver)
-- Water Gun (Lv 6, Diamond Pearl)
-- Rage (Lv 7, Gold Silver)
-- Mud Slap (Lv 8, Brilliant Diamond And Shining Pearl)
-- Bite (Lv 9, Scarlet Violet)
+- Leer (Lv 1)
+- Scratch (Lv 1)
+- Rage (Lv 7)
+- Water Gun (Lv 13)
+- Bite (Lv 20)
+- Scary Face (Lv 27)
+- Slash (Lv 35)
+- Screech (Lv 43)
+- Hydro Pump (Lv 52)
 </div>
 </div>
 
@@ -69,8 +71,7 @@ Height: 0.6 m · Weight: 9.5 kg · Base EXP: 63
 ## Croconaw (#159)
 <details class="pokemon-card-container" open>
 <summary>Croconaw overview</summary>
-_Big Jaw Pokémon_ • Types: Water
-Height: 1.1 m · Weight: 25.0 kg · Base EXP: 142
+_Big Jaw Pokémon_ • Types: Water • Egg Groups: Monster / Water1 • Base EXP: 142
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,21 +99,25 @@ Height: 1.1 m · Weight: 25.0 kg · Base EXP: 142
 
 | Stat | Value |
 | --- | --- |
-| HP | 65 |
-| Attack | 80 |
-| Defense | 80 |
-| Sp. Atk | 59 |
-| Sp. Def | 63 |
-| Speed | 58 |
-| Total | 405 |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-mid">59</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-mid">58</span> |
+| Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1, Gold Silver)
-- Rage (Lv 1, Gold Silver)
-- Scratch (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Diamond Pearl)
-- Mud Slap (Lv 8, Brilliant Diamond And Shining Pearl)
-- Bite (Lv 13, Diamond Pearl)
+- Leer (Lv 1)
+- Rage (Lv 1)
+- Scratch (Lv 1)
+- Rage (Lv 7)
+- Water Gun (Lv 13)
+- Bite (Lv 21)
+- Scary Face (Lv 28)
+- Slash (Lv 37)
+- Screech (Lv 45)
+- Hydro Pump (Lv 55)
 </div>
 </div>
 
@@ -124,8 +129,7 @@ Height: 1.1 m · Weight: 25.0 kg · Base EXP: 142
 ## Feraligatr (#160)
 <details class="pokemon-card-container" open>
 <summary>Feraligatr overview</summary>
-_Big Jaw Pokémon_ • Types: Water
-Height: 2.3 m · Weight: 88.8 kg · Base EXP: 239
+_Big Jaw Pokémon_ • Types: Water • Egg Groups: Monster / Water1 • Base EXP: 239
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -153,21 +157,26 @@ Height: 2.3 m · Weight: 88.8 kg · Base EXP: 239
 
 | Stat | Value |
 | --- | --- |
-| HP | 85 |
-| Attack | 105 |
-| Defense | 100 |
-| Sp. Atk | 79 |
-| Sp. Def | 83 |
-| Speed | 78 |
-| Total | 530 |
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">79</span> |
+| Sp. Def | <span class="stat-value stat-mid">83</span> |
+| Speed | <span class="stat-value stat-mid">78</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Sun Moon)
-- Leer (Lv 1, Gold Silver)
-- Mud Slap (Lv 1, Brilliant Diamond And Shining Pearl)
-- Rage (Lv 1, Gold Silver)
-- Scratch (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Gold Silver)
+- Leer (Lv 1)
+- Rage (Lv 1)
+- Scratch (Lv 1)
+- Water Gun (Lv 1)
+- Rage (Lv 7)
+- Water Gun (Lv 13)
+- Bite (Lv 21)
+- Scary Face (Lv 28)
+- Slash (Lv 38)
+- Screech (Lv 47)
+- Hydro Pump (Lv 58)
 </div>
 </div>
 

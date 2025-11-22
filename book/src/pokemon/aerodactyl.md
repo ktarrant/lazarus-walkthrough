@@ -1,8 +1,7 @@
 ## Aerodactyl (#142)
 <details class="pokemon-card-container" open>
 <summary>Aerodactyl overview</summary>
-_Fossil Pokémon_ • Types: Rock / Flying
-Height: 1.8 m · Weight: 59.0 kg · Base EXP: 180
+_Fossil Pokémon_ • Types: Rock / Flying • Egg Groups: Flying • Base EXP: 180
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -40,21 +39,23 @@ Height: 1.8 m · Weight: 59.0 kg · Base EXP: 180
 
 | Stat | Value |
 | --- | --- |
-| HP | 80 |
-| Attack | 105 |
-| Defense | 65 |
-| Sp. Atk | 60 |
-| Sp. Def | 75 |
-| Speed | 130 |
-| Total | 515 |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">105</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">130</span> |
+| Total | <span class="stat-value stat-mid">515</span> |
 
 **Notable Level-Up Moves**
-- Agility (Lv 1, Red Blue)
-- Ancient Power (Lv 1, Sword Shield)
-- Bite (Lv 1, Diamond Pearl)
-- Fire Fang (Lv 1, Diamond Pearl)
-- Ice Fang (Lv 1, Diamond Pearl)
-- Iron Head (Lv 1, X Y)
+- Wing Attack (Lv 1)
+- Agility (Lv 8)
+- Bite (Lv 15)
+- Supersonic (Lv 22)
+- Ancient Power (Lv 29)
+- Scary Face (Lv 36)
+- Take Down (Lv 43)
+- Hyper Beam (Lv 50)
 </div>
 </div>
 
