@@ -84,6 +84,22 @@ The `mdbook-autosummary` preprocessor keeps `SUMMARY.md` in sync with `book/src`
 automatically during builds. Index files under `book/src/encounters/` and
 `book/src/pokemon/` are produced by the helper CLI to support this workflow.
 
+## GitHub Pages deployment
+
+The repository includes `.github/workflows/deploy-pages.yml`, which builds the
+book with `mdbook build book` and publishes the rendered HTML via GitHub Pages.
+
+To host the walkthrough:
+
+1. Push the workflow to your default branch (`main` by default).
+2. In the GitHub UI, open **Settings → Pages** and set **Source** to
+   **GitHub Actions**.
+3. Trigger the workflow (push to `main` or use **Run workflow**). The job
+   installs `mdbook` + `mdbook-autosummary`, runs the build, uploads
+   `book/book` as the artifact, and deploys it with `actions/deploy-pages`.
+4. Once the workflow finishes, the public URL appears in the `github-pages`
+   environment summary. Configure a custom domain there if needed.
+
 ## Conventions
 
 - Never commit `data/api-data-master` or other large caches; only the JSON
