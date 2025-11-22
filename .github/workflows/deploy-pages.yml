@@ -23,6 +23,10 @@ jobs:
       - name: Install mdBook tooling
         run: |
           cargo install mdbook mdbook-autosummary
+      - name: Prepare autosummary placeholder
+        run: |
+          mkdir -p book/src
+          : > book/src/SUMMARY.md
       - name: Build book
         run: mdbook build book
       - name: Upload artifact
