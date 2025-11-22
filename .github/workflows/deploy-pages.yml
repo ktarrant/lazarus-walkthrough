@@ -27,9 +27,7 @@ jobs:
       - name: Prepare autosummary placeholder
         run: |
           mkdir -p book/src
-          if [ ! -f book/src/SUMMARY.md ]; then
-            : > book/src/SUMMARY.md
-          fi
+          : > book/src/SUMMARY.md
       - name: Build book
         run: mdbook build book
       - name: Upload artifact
