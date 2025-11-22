@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-voltorb-hisui-10231-group" id="pokemon-tabs-voltorb-hisui-10231-tab-0" checked>
 <label for="pokemon-tabs-voltorb-hisui-10231-tab-0">Voltorb Hisui</label>
 <input type="radio" name="pokemon-tabs-voltorb-hisui-10231-group" id="pokemon-tabs-voltorb-hisui-10231-tab-1">
-<label for="pokemon-tabs-voltorb-hisui-10231-tab-1">Electrode</label>
+<label for="pokemon-tabs-voltorb-hisui-10231-tab-1">Electrode Hisui</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-voltorb-hisui-10231-panel-0">
 ## Voltorb Hisui (#10231)
@@ -63,11 +63,11 @@ Height: 0.5 m · Weight: 13.0 kg · Base EXP: 66
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-voltorb-hisui-10231-panel-1">
-## Electrode (#101)
+## Electrode Hisui (#10232)
 <details class="pokemon-card-container" open>
-<summary>Electrode overview</summary>
-_Ball Pokémon_ • Types: Electric
-Height: 1.2 m · Weight: 66.6 kg · Base EXP: 172
+<summary>Electrode Hisui overview</summary>
+_Ball Pokémon_ • Types: Electric / Grass
+Height: 1.2 m · Weight: 71.0 kg · Base EXP: 172
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -79,12 +79,16 @@ Height: 1.2 m · Weight: 66.6 kg · Base EXP: 172
 **Type Matchups**
 
 *Resists / Immune to*
-- Electric (0.5×)
-- Flying (0.5×)
+- Water (0.5×)
+- Electric (0.25×)
+- Grass (0.5×)
 - Steel (0.5×)
 
 *Weak to*
-- Ground (2×)
+- Fire (2×)
+- Ice (2×)
+- Poison (2×)
+- Bug (2×)
 
 **Evolution Paths**
 - Voltorb → Electrode (Lv 30)
@@ -103,12 +107,12 @@ Height: 1.2 m · Weight: 66.6 kg · Base EXP: 172
 | Total | 490 |
 
 **Notable Level-Up Moves**
-- Charge (Lv 1, Ruby Sapphire)
-- Eerie Impulse (Lv 1, Sun Moon)
-- Light Screen (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Magnetic Flux (Lv 1, X Y)
-- Screech (Lv 1, Red Blue)
-- Self Destruct (Lv 1, Gold Silver)
+- Charge (Lv 1, Scarlet Violet)
+- Tackle (Lv 1, Scarlet Violet)
+- Thunder Shock (Lv 1, Legends Arceus)
+- Stun Spore (Lv 6, Scarlet Violet)
+- Bullet Seed (Lv 9, Scarlet Violet)
+- Thunder Wave (Lv 9, Legends Arceus)
 </div>
 </div>
 

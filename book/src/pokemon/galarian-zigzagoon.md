@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-zigzagoon-galar-10174-group" id="pokemon-tabs-zigzagoon-galar-10174-tab-0" checked>
 <label for="pokemon-tabs-zigzagoon-galar-10174-tab-0">Zigzagoon Galar</label>
 <input type="radio" name="pokemon-tabs-zigzagoon-galar-10174-group" id="pokemon-tabs-zigzagoon-galar-10174-tab-1">
-<label for="pokemon-tabs-zigzagoon-galar-10174-tab-1">Linoone</label>
+<label for="pokemon-tabs-zigzagoon-galar-10174-tab-1">Linoone Galar</label>
 <input type="radio" name="pokemon-tabs-zigzagoon-galar-10174-group" id="pokemon-tabs-zigzagoon-galar-10174-tab-2">
 <label for="pokemon-tabs-zigzagoon-galar-10174-tab-2">Obstagoon</label>
 <div class="pokemon-tab-panels">
@@ -63,10 +63,10 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-galar-10174-panel-1">
-## Linoone (#264)
+## Linoone Galar (#10175)
 <details class="pokemon-card-container" open>
-<summary>Linoone overview</summary>
-_Rushing Pokémon_ • Types: Normal
+<summary>Linoone Galar overview</summary>
+_Rushing Pokémon_ • Types: Dark / Normal
 Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 
 <div class="pokemon-card">
@@ -79,10 +79,14 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 **Type Matchups**
 
 *Resists / Immune to*
+- Psychic (0×)
 - Ghost (0×)
+- Dark (0.5×)
 
 *Weak to*
-- Fighting (2×)
+- Fighting (4×)
+- Bug (2×)
+- Fairy (2×)
 
 **Evolution Paths**
 - Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
@@ -102,11 +106,11 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 
 **Notable Level-Up Moves**
 - Baby Doll Eyes (Lv 1, Sword Shield)
-- Growl (Lv 1, Ruby Sapphire)
-- Headbutt (Lv 1, Ruby Sapphire)
+- Leer (Lv 1, Sword Shield)
+- Lick (Lv 1, Sword Shield)
+- Night Slash (Lv 1, Sword Shield)
 - Pin Missile (Lv 1, Sword Shield)
-- Play Rough (Lv 1, X Y)
-- Rototiller (Lv 1, X Y)
+- Sand Attack (Lv 1, Sword Shield)
 </div>
 </div>
 

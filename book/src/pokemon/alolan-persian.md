@@ -1,16 +1,16 @@
 <div class="pokemon-tabs" id="pokemon-tabs-persian-alola-10108">
 <input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-0">
-<label for="pokemon-tabs-persian-alola-10108-tab-0">Meowth</label>
+<label for="pokemon-tabs-persian-alola-10108-tab-0">Meowth Alola</label>
 <input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-1" checked>
 <label for="pokemon-tabs-persian-alola-10108-tab-1">Persian Alola</label>
 <input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-2">
 <label for="pokemon-tabs-persian-alola-10108-tab-2">Perrserker</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-0">
-## Meowth (#052)
+## Meowth Alola (#10107)
 <details class="pokemon-card-container" open>
-<summary>Meowth overview</summary>
-_Scratch Cat Pokémon_ • Types: Normal
+<summary>Meowth Alola overview</summary>
+_Scratch Cat Pokémon_ • Types: Dark
 Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 
 <div class="pokemon-card">
@@ -18,15 +18,19 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 **Abilities**
 - Pickup
 - Technician
-- Unnerve *(Hidden)*
+- Rattled *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Ghost (0×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
 
 *Weak to*
 - Fighting (2×)
+- Bug (2×)
+- Fairy (2×)
 
 **Evolution Paths**
 - Meowth → Persian (Lv 28)
@@ -38,9 +42,9 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 | Stat | Value |
 | --- | --- |
 | HP | 40 |
-| Attack | 45 |
+| Attack | 35 |
 | Defense | 35 |
-| Sp. Atk | 40 |
+| Sp. Atk | 50 |
 | Sp. Def | 40 |
 | Speed | 90 |
 | Total | 290 |
@@ -48,8 +52,8 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 **Notable Level-Up Moves**
 - Bite (Lv 1, Lets Go Pikachu Lets Go Eevee)
 - Fake Out (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Growl (Lv 1, Red Blue)
-- Scratch (Lv 1, Red Blue)
+- Growl (Lv 1, Sun Moon)
+- Scratch (Lv 1, Sun Moon)
 - Feint (Lv 4, Sword Shield)
 - Taunt (Lv 9, Lets Go Pikachu Lets Go Eevee)
 </div>

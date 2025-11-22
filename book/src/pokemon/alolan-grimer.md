@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-grimer-alola-10112-group" id="pokemon-tabs-grimer-alola-10112-tab-0" checked>
 <label for="pokemon-tabs-grimer-alola-10112-tab-0">Grimer Alola</label>
 <input type="radio" name="pokemon-tabs-grimer-alola-10112-group" id="pokemon-tabs-grimer-alola-10112-tab-1">
-<label for="pokemon-tabs-grimer-alola-10112-tab-1">Muk</label>
+<label for="pokemon-tabs-grimer-alola-10112-tab-1">Muk Alola</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-grimer-alola-10112-panel-0">
 ## Grimer Alola (#10112)
@@ -61,31 +61,30 @@ Height: 0.7 m · Weight: 42.0 kg · Base EXP: 65
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-grimer-alola-10112-panel-1">
-## Muk (#089)
+## Muk Alola (#10113)
 <details class="pokemon-card-container" open>
-<summary>Muk overview</summary>
-_Sludge Pokémon_ • Types: Poison
-Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
+<summary>Muk Alola overview</summary>
+_Sludge Pokémon_ • Types: Poison / Dark
+Height: 1.0 m · Weight: 52.0 kg · Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Stench
-- Sticky Hold
-- Poison Touch *(Hidden)*
+- Poison Touch
+- Gluttony
+- Power Of Alchemy *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
 - Grass (0.5×)
-- Fighting (0.5×)
 - Poison (0.5×)
-- Bug (0.5×)
-- Fairy (0.5×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
 
 *Weak to*
 - Ground (2×)
-- Psychic (2×)
 
 **Evolution Paths**
 - Grimer → Muk (Lv 38)
@@ -104,12 +103,12 @@ Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
 | Total | 500 |
 
 **Notable Level-Up Moves**
-- Disable (Lv 1, Red Blue)
-- Harden (Lv 1, Gold Silver)
+- Bite (Lv 1, Sun Moon)
+- Harden (Lv 1, Sun Moon)
 - Haze (Lv 1, Lets Go Pikachu Lets Go Eevee)
 - Minimize (Lv 1, Lets Go Pikachu Lets Go Eevee)
 - Moonblast (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Mud Slap (Lv 1, Diamond Pearl)
+- Poison Gas (Lv 1, Sun Moon)
 </div>
 </div>
 

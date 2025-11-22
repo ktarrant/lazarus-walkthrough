@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-vulpix-alola-10103-group" id="pokemon-tabs-vulpix-alola-10103-tab-0" checked>
 <label for="pokemon-tabs-vulpix-alola-10103-tab-0">Vulpix Alola</label>
 <input type="radio" name="pokemon-tabs-vulpix-alola-10103-group" id="pokemon-tabs-vulpix-alola-10103-tab-1">
-<label for="pokemon-tabs-vulpix-alola-10103-tab-1">Ninetales</label>
+<label for="pokemon-tabs-vulpix-alola-10103-tab-1">Ninetales Alola</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-vulpix-alola-10103-panel-0">
 ## Vulpix Alola (#10103)
@@ -59,32 +59,31 @@ Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vulpix-alola-10103-panel-1">
-## Ninetales (#038)
+## Ninetales Alola (#10104)
 <details class="pokemon-card-container" open>
-<summary>Ninetales overview</summary>
-_Fox Pokémon_ • Types: Fire
+<summary>Ninetales Alola overview</summary>
+_Fox Pokémon_ • Types: Ice / Fairy
 Height: 1.1 m · Weight: 19.9 kg · Base EXP: 177
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Flash Fire
-- Drought *(Hidden)*
+- Snow Cloak
+- Snow Warning *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.5×)
 - Ice (0.5×)
 - Bug (0.5×)
-- Steel (0.5×)
-- Fairy (0.5×)
+- Dragon (0×)
+- Dark (0.5×)
 
 *Weak to*
-- Water (2×)
-- Ground (2×)
+- Fire (2×)
+- Poison (2×)
 - Rock (2×)
+- Steel (4×)
 
 **Evolution Paths**
 - Vulpix → Ninetales (Use Fire Stone)
@@ -95,20 +94,20 @@ Height: 1.1 m · Weight: 19.9 kg · Base EXP: 177
 | Stat | Value |
 | --- | --- |
 | HP | 73 |
-| Attack | 76 |
+| Attack | 67 |
 | Defense | 75 |
 | Sp. Atk | 81 |
 | Sp. Def | 100 |
-| Speed | 100 |
+| Speed | 109 |
 | Total | 505 |
 
 **Notable Level-Up Moves**
-- Confuse Ray (Lv 1, Gold Silver)
+- Aurora Beam (Lv 1, Sword Shield)
+- Aurora Veil (Lv 1, Sword Shield)
+- Blizzard (Lv 1, Sword Shield)
+- Confuse Ray (Lv 1, Sun Moon)
+- Dazzling Gleam (Lv 1, Sun Moon)
 - Disable (Lv 1, Sword Shield)
-- Ember (Lv 1, Red Blue)
-- Extrasensory (Lv 1, Sword Shield)
-- Fire Blast (Lv 1, Sword Shield)
-- Fire Spin (Lv 1, Sword Shield)
 </div>
 </div>
 

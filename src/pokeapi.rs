@@ -17,9 +17,10 @@ impl Repository {
 
     pub fn build_card_deck(&self, identifier: &str) -> Result<PokemonCardDeck> {
         let slug = slugify(identifier);
-        let (base_slug, form_slug) = split_form_slug(&slug);
+        let (base_slug, form) = split_form_slug(&slug);
         let species = self.load_species(&base_slug)?;
-        let pokemon = self.load_pokemon_for_species(&species, form_slug.as_deref())?;
+        let suffix = form.as_ref().map(|f| f.suffix.as_str());
+        let pokemon = self.load_pokemon_for_species(&species, suffix)?;
         if let Some(chain) = self.load_evolution_chain(&species)? {
             let evolution_paths = render_paths(&chain);
             let mut cards = Vec::new();
@@ -27,9 +28,9 @@ impl Repository {
             for (idx, species_id) in collect_chain_species(&chain).iter().enumerate() {
                 let species_data = self.read_species_file(*species_id)?;
                 let pokemon_data = if species_data.id == species.id {
-                    self.load_pokemon_for_species(&species_data, form_slug.as_deref())?
+                    self.load_pokemon_for_species(&species_data, suffix)?
                 } else {
-                    self.load_pokemon_for_species(&species_data, None)?
+                    self.load_pokemon_for_species(&species_data, suffix)?
                 };
                 if species_data.id == species.id {
                     active_idx = idx;
@@ -94,14 +95,11 @@ impl Repository {
     fn load_pokemon_for_species(
         &self,
         species: &PokemonSpecies,
-        slug: Option<&str>,
+        suffix: Option<&str>,
     ) -> Result<Pokemon> {
-        if let Some(target) = slug {
-            if let Some(variety) = species
-                .varieties
-                .iter()
-                .find(|variety| variety.pokemon.name == target)
-            {
+        if let Some(suffix) = suffix {
+            let target = format!("{}{}", species.name, suffix);
+            if let Some(variety) = species.varieties.iter().find(|v| v.pokemon.name == target) {
                 let id = extract_id_from_url(&variety.pokemon.url)?;
                 return self.load_pokemon(id);
             }
@@ -179,15 +177,20 @@ fn slugify(input: &str) -> String {
     slug.trim_matches('-').to_string()
 }
 
-fn split_form_slug(slug: &str) -> (String, Option<String>) {
-    if let Some((base, form)) = canonical_form_slug(slug) {
-        (base, Some(form))
+struct FormSpec {
+    base: String,
+    suffix: String,
+}
+
+fn split_form_slug(slug: &str) -> (String, Option<FormSpec>) {
+    if let Some(spec) = canonical_form_spec(slug) {
+        (spec.base.clone(), Some(spec))
     } else {
         (slug.to_string(), None)
     }
 }
 
-fn canonical_form_slug(slug: &str) -> Option<(String, String)> {
+fn canonical_form_spec(slug: &str) -> Option<FormSpec> {
     const FORM_PREFIXES: [(&str, &str); 8] = [
         ("alolan-", "alola"),
         ("hisuian-", "hisui"),
@@ -204,7 +207,11 @@ fn canonical_form_slug(slug: &str) -> Option<(String, String)> {
                 .trim_start_matches(prefix)
                 .trim_matches('-')
                 .to_string();
-            return Some((base.clone(), format!("{base}-{suffix}")));
+            let suffix_str = format!("-{suffix}");
+            return Some(FormSpec {
+                base: base.clone(),
+                suffix: suffix_str.clone(),
+            });
         }
     }
 
@@ -218,13 +225,23 @@ fn canonical_form_slug(slug: &str) -> Option<(String, String)> {
     for (pattern, suffix) in FORM_SUFFIXES.iter() {
         if slug.ends_with(pattern) {
             let base = slug.trim_end_matches(pattern).trim_matches('-').to_string();
-            return Some((base.clone(), format!("{base}-{suffix}")));
+            let suffix_str = format!("-{suffix}");
+            return Some(FormSpec {
+                base: base.clone(),
+                suffix: suffix_str.clone(),
+            });
         }
     }
 
     match slug {
-        "sligoo" => Some(("sliggoo".to_string(), "sliggoo".to_string())),
-        "hisuian-sligoo" => Some(("sliggoo".to_string(), "sliggoo-hisui".to_string())),
+        "sligoo" => Some(FormSpec {
+            base: "sliggoo".to_string(),
+            suffix: String::new(),
+        }),
+        "hisuian-sligoo" => Some(FormSpec {
+            base: "sliggoo".to_string(),
+            suffix: "-hisui".to_string(),
+        }),
         _ => None,
     }
 }

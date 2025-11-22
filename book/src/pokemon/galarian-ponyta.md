@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-ponyta-galar-10162-group" id="pokemon-tabs-ponyta-galar-10162-tab-0" checked>
 <label for="pokemon-tabs-ponyta-galar-10162-tab-0">Ponyta Galar</label>
 <input type="radio" name="pokemon-tabs-ponyta-galar-10162-group" id="pokemon-tabs-ponyta-galar-10162-tab-1">
-<label for="pokemon-tabs-ponyta-galar-10162-tab-1">Rapidash</label>
+<label for="pokemon-tabs-ponyta-galar-10162-tab-1">Rapidash Galar</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-galar-10162-panel-0">
 ## Ponyta Galar (#10162)
@@ -60,33 +60,30 @@ Height: 0.8 m · Weight: 24.0 kg · Base EXP: 82
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-galar-10162-panel-1">
-## Rapidash (#078)
+## Rapidash Galar (#10163)
 <details class="pokemon-card-container" open>
-<summary>Rapidash overview</summary>
-_Fire Horse Pokémon_ • Types: Fire
-Height: 1.7 m · Weight: 95.0 kg · Base EXP: 175
+<summary>Rapidash Galar overview</summary>
+_Fire Horse Pokémon_ • Types: Psychic / Fairy
+Height: 1.7 m · Weight: 80.0 kg · Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Run Away
-- Flash Fire
-- Flame Body *(Hidden)*
+- Pastel Veil
+- Anticipation *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.5×)
-- Ice (0.5×)
-- Bug (0.5×)
-- Steel (0.5×)
-- Fairy (0.5×)
+- Fighting (0.25×)
+- Psychic (0.5×)
+- Dragon (0×)
 
 *Weak to*
-- Water (2×)
-- Ground (2×)
-- Rock (2×)
+- Poison (2×)
+- Ghost (2×)
+- Steel (2×)
 
 **Evolution Paths**
 - Ponyta → Rapidash (Lv 40)
@@ -105,12 +102,12 @@ Height: 1.7 m · Weight: 95.0 kg · Base EXP: 175
 | Total | 500 |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Red Blue)
-- Fury Attack (Lv 1, Sun Moon)
-- Growl (Lv 1, Red Blue)
-- Horn Drill (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Hypnosis (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Megahorn (Lv 1, Diamond Pearl)
+- Confusion (Lv 1, Sword Shield)
+- Growl (Lv 1, Sword Shield)
+- Megahorn (Lv 1, Sword Shield)
+- Psycho Cut (Lv 1, Sword Shield)
+- Quick Attack (Lv 1, Sword Shield)
+- Tackle (Lv 1, Sword Shield)
 </div>
 </div>
 

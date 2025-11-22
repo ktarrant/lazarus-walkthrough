@@ -1,16 +1,16 @@
 <div class="pokemon-tabs" id="pokemon-tabs-linoone-galar-10175">
 <input type="radio" name="pokemon-tabs-linoone-galar-10175-group" id="pokemon-tabs-linoone-galar-10175-tab-0">
-<label for="pokemon-tabs-linoone-galar-10175-tab-0">Zigzagoon</label>
+<label for="pokemon-tabs-linoone-galar-10175-tab-0">Zigzagoon Galar</label>
 <input type="radio" name="pokemon-tabs-linoone-galar-10175-group" id="pokemon-tabs-linoone-galar-10175-tab-1" checked>
 <label for="pokemon-tabs-linoone-galar-10175-tab-1">Linoone Galar</label>
 <input type="radio" name="pokemon-tabs-linoone-galar-10175-group" id="pokemon-tabs-linoone-galar-10175-tab-2">
 <label for="pokemon-tabs-linoone-galar-10175-tab-2">Obstagoon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-linoone-galar-10175-panel-0">
-## Zigzagoon (#263)
+## Zigzagoon Galar (#10174)
 <details class="pokemon-card-container" open>
-<summary>Zigzagoon overview</summary>
-_Tiny Raccoon Pokémon_ • Types: Normal
+<summary>Zigzagoon Galar overview</summary>
+_Tiny Raccoon Pokémon_ • Types: Dark / Normal
 Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 
 <div class="pokemon-card">
@@ -23,10 +23,14 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 **Type Matchups**
 
 *Resists / Immune to*
+- Psychic (0×)
 - Ghost (0×)
+- Dark (0.5×)
 
 *Weak to*
-- Fighting (2×)
+- Fighting (4×)
+- Bug (2×)
+- Fairy (2×)
 
 **Evolution Paths**
 - Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
@@ -45,12 +49,12 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 | Total | 240 |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Ruby Sapphire)
+- Leer (Lv 1, Sword Shield)
+- Tackle (Lv 1, Sword Shield)
 - Sand Attack (Lv 3, Sword Shield)
-- Tail Whip (Lv 5, Ruby Sapphire)
-- Covet (Lv 9, Sword Shield)
-- Headbutt (Lv 9, Ruby Sapphire)
+- Lick (Lv 6, Sword Shield)
+- Snarl (Lv 9, Sword Shield)
+- Headbutt (Lv 12, Sword Shield)
 </div>
 </div>
 

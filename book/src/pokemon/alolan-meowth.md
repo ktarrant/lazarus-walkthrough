@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-meowth-alola-10107-group" id="pokemon-tabs-meowth-alola-10107-tab-0" checked>
 <label for="pokemon-tabs-meowth-alola-10107-tab-0">Meowth Alola</label>
 <input type="radio" name="pokemon-tabs-meowth-alola-10107-group" id="pokemon-tabs-meowth-alola-10107-tab-1">
-<label for="pokemon-tabs-meowth-alola-10107-tab-1">Persian</label>
+<label for="pokemon-tabs-meowth-alola-10107-tab-1">Persian Alola</label>
 <input type="radio" name="pokemon-tabs-meowth-alola-10107-group" id="pokemon-tabs-meowth-alola-10107-tab-2">
 <label for="pokemon-tabs-meowth-alola-10107-tab-2">Perrserker</label>
 <div class="pokemon-tab-panels">
@@ -64,26 +64,30 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-meowth-alola-10107-panel-1">
-## Persian (#053)
+## Persian Alola (#10108)
 <details class="pokemon-card-container" open>
-<summary>Persian overview</summary>
-_Classy Cat Pokémon_ • Types: Normal
-Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
+<summary>Persian Alola overview</summary>
+_Classy Cat Pokémon_ • Types: Dark
+Height: 1.1 m · Weight: 33.0 kg · Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Limber
+- Fur Coat
 - Technician
-- Unnerve *(Hidden)*
+- Rattled *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Ghost (0×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
 
 *Weak to*
 - Fighting (2×)
+- Bug (2×)
+- Fairy (2×)
 
 **Evolution Paths**
 - Meowth → Persian (Lv 28)
@@ -95,19 +99,19 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
 | Stat | Value |
 | --- | --- |
 | HP | 65 |
-| Attack | 70 |
+| Attack | 60 |
 | Defense | 60 |
-| Sp. Atk | 65 |
+| Sp. Atk | 75 |
 | Sp. Def | 65 |
 | Speed | 115 |
 | Total | 440 |
 
 **Notable Level-Up Moves**
 - Amnesia (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 1, Red Blue)
-- Fake Out (Lv 1, Diamond Pearl)
+- Bite (Lv 1, Sun Moon)
+- Fake Out (Lv 1, Sun Moon)
 - Feint (Lv 1, Sword Shield)
-- Growl (Lv 1, Red Blue)
+- Growl (Lv 1, Sun Moon)
 - Hypnosis (Lv 1, Lets Go Pikachu Lets Go Eevee)
 </div>
 </div>
