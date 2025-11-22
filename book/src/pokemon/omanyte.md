@@ -35,6 +35,10 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 71
 
 **Evolution Paths**
 - Omanyte → Omastar (Lv 40)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (10%)
+- Erinys Path (West) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

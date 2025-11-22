@@ -31,6 +31,16 @@ Height: 0.7 m · Weight: 29.5 kg · Base EXP: 66
 
 **Evolution Paths**
 - Buizel → Floatzel (Lv 26)
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (5%)
+- Kalami City — Fishing (40%)
+- Kalami City — Grass (Day) (20%)
+- Kalami City — Grass (Night) (20%)
+- Riverwalk Trail (South) — Fishing (40%)
+- Riverwalk Trail (South) — Grass (Day) (20%)
+- Riverwalk Trail (South) — Grass (Night) (20%)
+- Riverwalk Trail (West) — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**

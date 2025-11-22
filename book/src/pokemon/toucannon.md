@@ -35,6 +35,11 @@ Height: 0.3 m · Weight: 1.2 kg · Base EXP: 53
 
 **Evolution Paths**
 - Pikipek → Trumbeak (Lv 14) → Toucannon (Lv 28)
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (20%)
+- Bronze Fields (North) — Grass (Day) (20%)
+- Jusmail Town — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +97,12 @@ Height: 0.6 m · Weight: 14.8 kg · Base EXP: 124
 
 **Evolution Paths**
 - Pikipek → Trumbeak (Lv 14) → Toucannon (Lv 28)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Day) (20%)
+- Kaptara Island (West) — Grass (Night) (20%)
+- Sea of Asteri (East) — Grass (Day) (10%)
+- Sea of Asteri (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -149,6 +160,9 @@ Height: 1.1 m · Weight: 26.0 kg · Base EXP: 218
 
 **Evolution Paths**
 - Pikipek → Trumbeak (Lv 14) → Toucannon (Lv 28)
+
+**Encounter Locations**
+- Wakewater Isle — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

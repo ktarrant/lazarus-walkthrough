@@ -28,6 +28,10 @@ Height: 0.5 m · Weight: 80.4 kg · Base EXP: 165
 
 **Evolution Paths**
 - Torkoal
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (2%)
+- Corrin Crossing — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

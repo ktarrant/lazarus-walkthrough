@@ -35,6 +35,13 @@ Height: 0.5 m · Weight: 9.0 kg · Base EXP: 74
 
 **Evolution Paths**
 - Vullaby → Mandibuzz (Lv 54)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (10%)
+- Acrisia Mountains — Grass (Night) (10%)
+- Bronze Fields (South) — Grass (Night) (10%)
+- Pythios Town — Grass (Night) (20%)
+- Sea of Asteri (East) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

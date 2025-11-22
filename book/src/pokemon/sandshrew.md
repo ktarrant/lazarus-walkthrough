@@ -31,6 +31,12 @@ Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
 
 **Evolution Paths**
 - Sandshrew → Sandslash (Lv 22)
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (20%)
+- Acrisia City — Grass (Night) (20%)
+- Acrisia Mountains — Grass (Day) (20%)
+- Acrisia Mountains — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

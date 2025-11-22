@@ -29,6 +29,14 @@ Height: 0.8 m · Weight: 21.5 kg · Base EXP: 175
 
 **Evolution Paths**
 - Hawlucha
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (4%)
+- Asfal Hills — Grass (Night) (4%)
+- Myrrini Island — Grass (Day) (10%)
+- Myrrini Island — Grass (Night) (10%)
+- Pollen Road — Grass (Day) (8%)
+- Pollen Road — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**

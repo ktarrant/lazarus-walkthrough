@@ -1,6 +1,8 @@
+use crate::encounters::SpeciesEncounter;
 use crate::type_chart;
 use anyhow::{Context, Result, anyhow, bail};
 use serde::Deserialize;
+use std::collections::HashMap;
 use std::fmt::Write;
 use std::fs::File;
 use std::io::BufReader;
@@ -27,11 +29,7 @@ impl Repository {
             let mut active_idx = 0;
             for (idx, species_id) in collect_chain_species(&chain).iter().enumerate() {
                 let species_data = self.read_species_file(*species_id)?;
-                let pokemon_data = if species_data.id == species.id {
-                    self.load_pokemon_for_species(&species_data, suffix)?
-                } else {
-                    self.load_pokemon_for_species(&species_data, suffix)?
-                };
+                let pokemon_data = self.load_pokemon_for_species(&species_data, suffix)?;
                 if species_data.id == species.id {
                     active_idx = idx;
                 }
@@ -177,6 +175,26 @@ fn slugify(input: &str) -> String {
     slug.trim_matches('-').to_string()
 }
 
+fn encounter_slug_from_name(name: &str) -> String {
+    let slug = slugify(name);
+    const SUFFIX_TO_PREFIX: [(&str, &str); 4] = [
+        ("-alola", "alolan"),
+        ("-hisui", "hisuian"),
+        ("-galar", "galarian"),
+        ("-paldea", "paldean"),
+    ];
+    for (suffix, prefix) in SUFFIX_TO_PREFIX {
+        if slug.ends_with(suffix) {
+            let base = slug.trim_end_matches(suffix).trim_matches('-');
+            if base.is_empty() {
+                return slug;
+            }
+            return format!("{}-{}", prefix, base);
+        }
+    }
+    slug
+}
+
 struct FormSpec {
     base: String,
     suffix: String,
@@ -250,6 +268,7 @@ fn canonical_form_spec(slug: &str) -> Option<FormSpec> {
 pub struct PokemonCard {
     id: u32,
     name: String,
+    encounter_slug: String,
     genus: Option<String>,
     types: Vec<String>,
     abilities: Vec<AbilityLine>,
@@ -303,9 +322,12 @@ impl PokemonCard {
             .find(|g| g.language.name == "en")
             .map(|g| g.genus.clone());
 
+        let encounter_slug = encounter_slug_from_name(&pokemon.name);
+
         Ok(Self {
             id: pokemon.id,
             name: resolved_name,
+            encounter_slug,
             genus,
             types,
             abilities,
@@ -321,7 +343,16 @@ impl PokemonCard {
         })
     }
 
-    pub fn render_markdown(&self) -> String {
+    fn lookup_encounters<'a>(
+        &'a self,
+        map: &'a HashMap<String, Vec<SpeciesEncounter>>,
+    ) -> &'a [SpeciesEncounter] {
+        map.get(&self.encounter_slug)
+            .map(|entries| entries.as_slice())
+            .unwrap_or(&[])
+    }
+
+    pub fn render_markdown(&self, encounters: &[SpeciesEncounter]) -> String {
         let mut buf = String::new();
         writeln!(&mut buf, "## {} (#{:03})", self.name, self.id).unwrap();
         buf.push_str("<details class=\"pokemon-card-container\" open>\n");
@@ -407,6 +438,20 @@ impl PokemonCard {
             left_column.push('\n');
         }
 
+        if !encounters.is_empty() {
+            left_column.push_str("**Encounter Locations**\n");
+            for enc in encounters {
+                let rate = enc.rate.as_deref().unwrap_or("—");
+                writeln!(
+                    &mut left_column,
+                    "- {} — {} ({})",
+                    enc.location, enc.method, rate
+                )
+                .unwrap();
+            }
+            left_column.push('\n');
+        }
+
         buf.push_str("\n<div class=\"pokemon-card\">\n");
         buf.push_str("<div class=\"card-column\">\n");
         buf.push_str(left_column.trim());
@@ -425,12 +470,16 @@ impl PokemonCard {
 }
 
 impl PokemonCardDeck {
-    pub fn render_markdown(&self) -> String {
+    pub fn render_markdown_with_encounters(
+        &self,
+        encounter_map: &HashMap<String, Vec<SpeciesEncounter>>,
+    ) -> String {
         if self.cards.is_empty() {
             return String::new();
         }
         if self.cards.len() == 1 {
-            return self.cards[0].render_markdown();
+            let entries = self.cards[0].lookup_encounters(encounter_map);
+            return self.cards[0].render_markdown(entries);
         }
 
         let active_card = &self.cards[self.active_index];
@@ -478,7 +527,8 @@ impl PokemonCardDeck {
                 panel = panel_id
             )
             .unwrap();
-            output.push_str(&card.render_markdown());
+            let entries = card.lookup_encounters(encounter_map);
+            output.push_str(&card.render_markdown(entries));
             output.push_str("</div>\n");
         }
         output.push_str("</div>\n</div>\n<style>\n");

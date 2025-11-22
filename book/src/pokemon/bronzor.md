@@ -40,6 +40,11 @@ Height: 0.5 m · Weight: 60.5 kg · Base EXP: 60
 
 **Evolution Paths**
 - Bronzor → Bronzong (Lv 33)
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Night) (10%)
+- Froslass Cavern BF1 — Grass (Day) (20%)
+- Froslass Cavern BF2 — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

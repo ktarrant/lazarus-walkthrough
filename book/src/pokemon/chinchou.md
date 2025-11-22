@@ -33,6 +33,14 @@ Height: 0.5 m · Weight: 12.0 kg · Base EXP: 66
 
 **Evolution Paths**
 - Chinchou → Lanturn (Lv 27)
+
+**Encounter Locations**
+- Fresco Isles — Fishing (15%)
+- Marmaro Island — Surfing (60%)
+- Myrrini Island — Fishing (15%)
+- Sea of Asteri (East) — Fishing (15%)
+- Sea of Asteri (West) — Fishing (15%)
+- Sea of Vulcai — Fishing (15%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +98,12 @@ Height: 1.2 m · Weight: 22.5 kg · Base EXP: 161
 
 **Evolution Paths**
 - Chinchou → Lanturn (Lv 27)
+
+**Encounter Locations**
+- Myrrini Island — Fishing (5%)
+- Sea of Asteri (East) — Fishing (5%)
+- Sea of Asteri (West) — Fishing (5%)
+- Sea of Vulcai — Fishing (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -36,6 +36,12 @@ Height: 0.7 m · Weight: 4.0 kg · Base EXP: 60
 
 **Evolution Paths**
 - Bellsprout → Weepinbell (Lv 21) → Victreebel (Use Leaf Stone)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Day) (5%)
+- Pythios Cemetery — Grass (Day) (20%)
+- Sea of Asteri (West) — Grass (Day) (10%)
+- Sea of Asteri (West) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +100,11 @@ Height: 1.0 m · Weight: 6.4 kg · Base EXP: 137
 
 **Evolution Paths**
 - Bellsprout → Weepinbell (Lv 21) → Victreebel (Use Leaf Stone)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (20%)
+- Kaptara Island (East) — Grass (Day) (10%)
+- Kaptara Island (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -152,6 +163,10 @@ Height: 1.7 m · Weight: 15.5 kg · Base EXP: 221
 
 **Evolution Paths**
 - Bellsprout → Weepinbell (Lv 21) → Victreebel (Use Leaf Stone)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (5%)
+- Wakewater Isle — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -32,6 +32,12 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 64
 
 **Evolution Paths**
 - Cubone → Marowak (Lv 28)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Day) (5%)
+- Bronze Fields (North) — Grass (Night) (5%)
+- Bronze Fields (South) — Grass (Day) (2%)
+- Bronze Fields (South) — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

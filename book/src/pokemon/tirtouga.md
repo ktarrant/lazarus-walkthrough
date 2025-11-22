@@ -35,6 +35,11 @@ Height: 0.7 m · Weight: 16.5 kg · Base EXP: 71
 
 **Evolution Paths**
 - Tirtouga → Carracosta (Lv 37)
+
+**Encounter Locations**
+- Palati City — Fishing (60%)
+- Palati City — Fishing (15%)
+- Palati City — Surfing (10%)
 </div>
 <div class="card-column">
 **Base Stats**

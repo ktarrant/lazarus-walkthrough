@@ -30,6 +30,10 @@ Height: 0.8 m · Weight: 29.8 kg · Base EXP: 59
 
 **Evolution Paths**
 - Blitzle → Zebstrika (Lv 27)
+
+**Encounter Locations**
+- Wanderer's Woods (North) — Grass (Day) (2%)
+- Wanderer's Woods (North) — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -30,6 +30,16 @@ Height: 0.9 m · Weight: 19.0 kg · Base EXP: 166
 
 **Evolution Paths**
 - Bruxish
+
+**Encounter Locations**
+- Corrin Crossing — Fishing (20%)
+- Corrin Crossing — Surfing (10%)
+- Nyx Trails — Fishing (20%)
+- Nyx Trails — Surfing (10%)
+- Port Pello — Fishing (20%)
+- Port Pello — Surfing (10%)
+- Péntepetal City — Fishing (20%)
+- Péntepetal City — Fishing (15%)
 </div>
 <div class="card-column">
 **Base Stats**

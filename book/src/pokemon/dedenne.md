@@ -27,6 +27,13 @@ Height: 0.2 m · Weight: 2.2 kg · Base EXP: 151
 
 **Evolution Paths**
 - Dedenne
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Night) (10%)
+- Asfal Hills — Grass (Night) (10%)
+- Kaptara Island (East) — Grass (Day) (4%)
+- Marmaro Island — Grass (Day) (8%)
+- Pollen Road — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

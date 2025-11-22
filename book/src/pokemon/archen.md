@@ -35,6 +35,10 @@ Height: 0.5 m · Weight: 9.5 kg · Base EXP: 71
 
 **Evolution Paths**
 - Archen → Archeops (Lv 37)
+
+**Encounter Locations**
+- Palati City — Grass (Day) (10%)
+- Palati City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

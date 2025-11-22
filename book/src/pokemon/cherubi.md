@@ -33,6 +33,10 @@ Height: 0.4 m · Weight: 3.3 kg · Base EXP: 55
 
 **Evolution Paths**
 - Cherubi → Cherrim (Lv 25)
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Day) (20%)
+- Myrrini Island — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +94,11 @@ Height: 0.5 m · Weight: 9.3 kg · Base EXP: 158
 
 **Evolution Paths**
 - Cherubi → Cherrim (Lv 25)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Day) (4%)
+- Lastlight Road — Grass (Day) (10%)
+- Port Pello — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

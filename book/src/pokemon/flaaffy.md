@@ -31,6 +31,10 @@ Height: 0.6 m · Weight: 7.8 kg · Base EXP: 56
 
 **Evolution Paths**
 - Mareep → Flaaffy (Lv 15) → Ampharos (Lv 30)
+
+**Encounter Locations**
+- Bronze Fields (South) — Grass (Day) (20%)
+- Bronze Fields (South) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -84,6 +88,9 @@ Height: 0.8 m · Weight: 13.3 kg · Base EXP: 128
 
 **Evolution Paths**
 - Mareep → Flaaffy (Lv 15) → Ampharos (Lv 30)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -36,6 +36,9 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 62
 
 **Evolution Paths**
 - Sprigatito → Floragato (Lv 16) → Meowscarada (Lv 36)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

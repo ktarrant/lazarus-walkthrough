@@ -23,6 +23,11 @@ Height: 0.4 m · Weight: 3.9 kg · Base EXP: 142
 
 **Evolution Paths**
 - Pachirisu
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (10%)
+- Pollen Road — Grass (Day) (10%)
+- Port Pello — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

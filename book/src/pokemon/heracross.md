@@ -28,6 +28,12 @@ Height: 1.5 m · Weight: 54.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Heracross
+
+**Encounter Locations**
+- Sea of Asteri (West) — Grass (Night) (4%)
+- Wanderer's Woods (North) — Grass (Day) (5%)
+- Wanderer's Woods (North) — Grass (Night) (5%)
+- Wanderer's Woods (South) — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

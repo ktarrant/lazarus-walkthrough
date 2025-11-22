@@ -38,6 +38,11 @@ Height: 8.8 m · Weight: 210.0 kg · Base EXP: 77
 
 **Evolution Paths**
 - Onix → Steelix (Hold Metal Coat)
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Day) (10%)
+- Erinys Path (East) — Grass (Night) (10%)
+- Froslass Cavern BF1 — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

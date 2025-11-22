@@ -32,6 +32,13 @@ Height: 0.9 m · Weight: 33.0 kg · Base EXP: 67
 
 **Evolution Paths**
 - Toedscool → Toedscruel (Lv 30)
+
+**Encounter Locations**
+- Kalami City — Grass (Day) (10%)
+- Kalami City — Grass (Night) (10%)
+- Palati City — Grass (Day) (10%)
+- Wanderer's Woods (North) — Grass (Day) (10%)
+- Wanderer's Woods (North) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +95,9 @@ Height: 1.9 m · Weight: 58.0 kg · Base EXP: 180
 
 **Evolution Paths**
 - Toedscool → Toedscruel (Lv 30)
+
+**Encounter Locations**
+- Palati City — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**

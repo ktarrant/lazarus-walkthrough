@@ -32,6 +32,22 @@ Height: 0.3 m · Weight: 4.0 kg · Base EXP: 61
 
 **Evolution Paths**
 - Shellder → Cloyster (Use Water Stone)
+
+**Encounter Locations**
+- Corrin Crossing — Fishing (30%)
+- Corrin Crossing — Fishing (20%)
+- Davosi Straits — Fishing (60%)
+- Erinys Path (East) — Surfing (10%)
+- Froslass Cavern BF2 — Fishing (30%)
+- Froslass Cavern BF2 — Fishing (40%)
+- Froslass Cavern BF2 — Surfing (60%)
+- Kipos Town — Fishing (70%)
+- Nyx Trails — Fishing (30%)
+- Nyx Trails — Fishing (20%)
+- Palati City — Fishing (20%)
+- Pollen Road — Fishing (60%)
+- Port Pello — Fishing (30%)
+- Port Pello — Fishing (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +104,10 @@ Height: 1.5 m · Weight: 132.5 kg · Base EXP: 184
 
 **Evolution Paths**
 - Shellder → Cloyster (Use Water Stone)
+
+**Encounter Locations**
+- Davosi Straits — Fishing (15%)
+- Pollen Road — Fishing (15%)
 </div>
 <div class="card-column">
 **Base Stats**

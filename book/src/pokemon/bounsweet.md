@@ -37,6 +37,10 @@ Height: 0.3 m · Weight: 3.2 kg · Base EXP: 42
 
 **Evolution Paths**
 - Bounsweet → Steenee (Lv 18) → Tsareena (Learn Stomp)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Day) (10%)
+- Riverwalk Trail (South) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -96,6 +100,12 @@ Height: 0.7 m · Weight: 8.2 kg · Base EXP: 102
 
 **Evolution Paths**
 - Bounsweet → Steenee (Lv 18) → Tsareena (Learn Stomp)
+
+**Encounter Locations**
+- Kipos Town — Grass (Day) (8%)
+- Myrrini Island — Grass (Day) (20%)
+- Tower of Dioxippus — Grass (Day) (10%)
+- Tower of Dioxippus — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -32,6 +32,10 @@ Height: 0.3 m · Weight: 3.8 kg · Base EXP: 37
 
 **Evolution Paths**
 - Snom → Frosmoth (Friendship 160)
+
+**Encounter Locations**
+- Froslass Cavern BF2 — Grass (Day) (5%)
+- Pythios Cemetery — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

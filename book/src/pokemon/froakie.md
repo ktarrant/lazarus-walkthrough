@@ -33,6 +33,9 @@ Height: 0.3 m · Weight: 7.0 kg · Base EXP: 63
 
 **Evolution Paths**
 - Froakie → Frogadier (Lv 16) → Greninja (Lv 36)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -28,6 +28,11 @@ Height: 2.0 m · Weight: 100.0 kg · Base EXP: 161
 
 **Evolution Paths**
 - Tropius
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (10%)
+- Port Pello — Grass (Night) (10%)
+- Riverwalk Trail (South) — Grass (Day) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

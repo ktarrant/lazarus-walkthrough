@@ -34,6 +34,15 @@ Height: 0.6 m · Weight: 9.5 kg · Base EXP: 54
 
 **Evolution Paths**
 - Wingull → Pelipper (Lv 25)
+
+**Encounter Locations**
+- Kalami City — Grass (Day) (20%)
+- Kalami City — Grass (Night) (20%)
+- Pythios Town — Grass (Day) (8%)
+- Pythios Town — Grass (Night) (8%)
+- Sea of Asteri (West) — Surfing (30%)
+- Sofos City — Grass (Day) (20%)
+- Sofos City — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +101,9 @@ Height: 1.2 m · Weight: 28.0 kg · Base EXP: 154
 
 **Evolution Paths**
 - Wingull → Pelipper (Lv 25)
+
+**Encounter Locations**
+- Wakewater Isle — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -43,6 +43,12 @@ Height: 0.3 m · Weight: 6.0 kg · Base EXP: 65
 
 **Evolution Paths**
 - Magnemite → Magneton (Lv 30) → Magnezone (Level at Mt Coronet)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (20%)
+- Corrin Crossing — Grass (Night) (20%)
+- Kipos Town — Grass (Day) (20%)
+- Kipos Town — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

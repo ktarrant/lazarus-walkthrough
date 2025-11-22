@@ -44,6 +44,14 @@ Height: 0.2 m · Weight: 0.5 kg · Base EXP: 52
 - Applin → Flapple (Use Tart Apple)
 - Applin → Appletun (Use Sweet Apple)
 - Applin → Dipplin → Hydrapple
+
+**Encounter Locations**
+- Kalami City — Grass (Day) (10%)
+- Kalami City — Grass (Night) (10%)
+- Lastlight Road — Grass (Night) (10%)
+- Tower of Dioxippus — Grass (Day) (20%)
+- Tower of Dioxippus — Grass (Night) (20%)
+- Wanderer's Woods (North) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -102,6 +110,10 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 170
 - Applin → Flapple (Use Tart Apple)
 - Applin → Appletun (Use Sweet Apple)
 - Applin → Dipplin → Hydrapple
+
+**Encounter Locations**
+- Tower of Dioxippus — Grass (Day) (4%)
+- Tower of Dioxippus — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -164,6 +176,10 @@ Height: 0.4 m · Weight: 13.0 kg · Base EXP: 170
 - Applin → Flapple (Use Tart Apple)
 - Applin → Appletun (Use Sweet Apple)
 - Applin → Dipplin → Hydrapple
+
+**Encounter Locations**
+- Tower of Dioxippus — Grass (Day) (4%)
+- Tower of Dioxippus — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -226,6 +242,10 @@ Height: 0.4 m · Weight: 9.7 kg · Base EXP: 170
 - Applin → Flapple (Use Tart Apple)
 - Applin → Appletun (Use Sweet Apple)
 - Applin → Dipplin → Hydrapple
+
+**Encounter Locations**
+- Tower of Dioxippus — Grass (Day) (2%)
+- Tower of Dioxippus — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

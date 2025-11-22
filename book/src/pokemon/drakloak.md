@@ -41,6 +41,13 @@ Height: 0.5 m · Weight: 2.0 kg · Base EXP: 54
 
 **Evolution Paths**
 - Dreepy → Drakloak (Lv 50) → Dragapult (Lv 60)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Night) (5%)
+- Riverwalk Trail (South) — Grass (Night) (2%)
+- Sea of Asteri (West) — Grass (Day) (2%)
+- Sea of Asteri (West) — Grass (Night) (2%)
+- Tower of Dioxippus — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -102,6 +109,9 @@ Height: 1.4 m · Weight: 11.0 kg · Base EXP: 144
 
 **Evolution Paths**
 - Dreepy → Drakloak (Lv 50) → Dragapult (Lv 60)
+
+**Encounter Locations**
+- Tower of Dioxippus — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

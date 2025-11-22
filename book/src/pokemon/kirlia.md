@@ -37,6 +37,11 @@ Height: 0.4 m · Weight: 6.6 kg · Base EXP: 40
 **Evolution Paths**
 - Ralts → Kirlia (Lv 20) → Gardevoir (Lv 30)
 - Ralts → Kirlia (Lv 20) → Gallade (Use Dawn Stone)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Night) (10%)
+- Wanderer's Woods (South) — Grass (Day) (10%)
+- Wanderer's Woods (South) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +99,13 @@ Height: 0.8 m · Weight: 20.2 kg · Base EXP: 97
 **Evolution Paths**
 - Ralts → Kirlia (Lv 20) → Gardevoir (Lv 30)
 - Ralts → Kirlia (Lv 20) → Gallade (Use Dawn Stone)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (8%)
+- Corrin Crossing — Grass (Night) (8%)
+- Péntepetal City — Grass (Day) (10%)
+- Péntepetal City — Grass (Night) (10%)
+- Sofos City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

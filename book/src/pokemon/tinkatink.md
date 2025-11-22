@@ -41,6 +41,10 @@ Height: 0.4 m · Weight: 8.9 kg · Base EXP: 59
 
 **Evolution Paths**
 - Tinkatink → Tinkatuff (Lv 24) → Tinkaton (Lv 38)
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (10%)
+- Marmaro Island — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -104,6 +108,11 @@ Height: 0.7 m · Weight: 59.1 kg · Base EXP: 133
 
 **Evolution Paths**
 - Tinkatink → Tinkatuff (Lv 24) → Tinkaton (Lv 38)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (10%)
+- Sea of Vulcai — Grass (Day) (20%)
+- Sea of Vulcai — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -34,6 +34,26 @@ Height: 0.4 m · Weight: 52.5 kg · Base EXP: 69
 **Evolution Paths**
 - Clamperl → Huntail (Hold Deep Sea Tooth)
 - Clamperl → Gorebyss (Hold Deep Sea Scale)
+
+**Encounter Locations**
+- Corrin Crossing — Fishing (20%)
+- Corrin Crossing — Fishing (40%)
+- Fresco Isles — Fishing (20%)
+- Fresco Isles — Fishing (40%)
+- Nyx Trails — Fishing (20%)
+- Nyx Trails — Fishing (40%)
+- Palati City — Fishing (20%)
+- Palati City — Fishing (40%)
+- Port Pello — Fishing (20%)
+- Port Pello — Fishing (40%)
+- Pythios Cemetery — Fishing (20%)
+- Péntepetal City — Fishing (40%)
+- Sea of Asteri (East) — Fishing (20%)
+- Sea of Asteri (East) — Fishing (40%)
+- Sea of Asteri (West) — Fishing (20%)
+- Sea of Asteri (West) — Fishing (40%)
+- Sea of Vulcai — Fishing (20%)
+- Sea of Vulcai — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -89,6 +109,9 @@ Height: 1.7 m · Weight: 27.0 kg · Base EXP: 170
 **Evolution Paths**
 - Clamperl → Huntail (Hold Deep Sea Tooth)
 - Clamperl → Gorebyss (Hold Deep Sea Scale)
+
+**Encounter Locations**
+- Pollen Road — Fishing (5%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -145,6 +168,9 @@ Height: 1.8 m · Weight: 22.6 kg · Base EXP: 170
 **Evolution Paths**
 - Clamperl → Huntail (Hold Deep Sea Tooth)
 - Clamperl → Gorebyss (Hold Deep Sea Scale)
+
+**Encounter Locations**
+- Davosi Straits — Fishing (5%)
 </div>
 <div class="card-column">
 **Base Stats**

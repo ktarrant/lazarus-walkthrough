@@ -34,6 +34,13 @@ Height: 0.6 m · Weight: 12.5 kg · Base EXP: 61
 
 **Evolution Paths**
 - Timburr → Gurdurr (Lv 25) → Conkeldurr (Trade)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (10%)
+- Acrisia Mountains — Grass (Night) (10%)
+- Kipos Town — Grass (Day) (10%)
+- Kipos Town — Grass (Night) (10%)
+- Palati City — Grass (Day) (4%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +97,9 @@ Height: 1.2 m · Weight: 40.0 kg · Base EXP: 142
 
 **Evolution Paths**
 - Timburr → Gurdurr (Lv 25) → Conkeldurr (Trade)
+
+**Encounter Locations**
+- Palati City — Grass (Day) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

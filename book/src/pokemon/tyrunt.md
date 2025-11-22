@@ -36,6 +36,10 @@ Height: 0.8 m · Weight: 26.0 kg · Base EXP: 72
 
 **Evolution Paths**
 - Tyrunt → Tyrantrum (Lv 39)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (2%)
+- Areios Hideout — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

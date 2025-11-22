@@ -37,6 +37,27 @@ Height: 0.9 m · Weight: 45.5 kg · Base EXP: 67
 
 **Evolution Paths**
 - Tentacool → Tentacruel (Lv 30)
+
+**Encounter Locations**
+- Fresco Isles — Fishing (30%)
+- Fresco Isles — Surfing (60%)
+- Kipos Town — Fishing (30%)
+- Kipos Town — Surfing (60%)
+- Marmaro Island — Fishing (30%)
+- Myrrini Island — Fishing (30%)
+- Palati City — Fishing (30%)
+- Palati City — Surfing (60%)
+- Péntepetal City — Fishing (30%)
+- Sea of Asteri (East) — Fishing (30%)
+- Sea of Asteri (East) — Surfing (60%)
+- Sea of Asteri (East) — Underwater (20%)
+- Sea of Asteri (West) — Fishing (30%)
+- Sea of Asteri (West) — Surfing (60%)
+- Sea of Asteri (West) — Underwater (20%)
+- Sea of Vulcai — Fishing (30%)
+- Sea of Vulcai — Surfing (60%)
+- Sofos City — Fishing (30%)
+- Sofos City — Surfing (60%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -98,6 +119,11 @@ Height: 1.6 m · Weight: 55.0 kg · Base EXP: 180
 
 **Evolution Paths**
 - Tentacool → Tentacruel (Lv 30)
+
+**Encounter Locations**
+- Corrin Crossing — Surfing (60%)
+- Nyx Trails — Surfing (60%)
+- Port Pello — Surfing (60%)
 </div>
 <div class="card-column">
 **Base Stats**

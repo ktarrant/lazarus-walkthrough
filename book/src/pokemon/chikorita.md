@@ -36,6 +36,9 @@ Height: 0.9 m · Weight: 6.4 kg · Base EXP: 64
 
 **Evolution Paths**
 - Chikorita → Bayleef (Lv 16) → Meganium (Lv 32)
+
+**Encounter Locations**
+- Wanderer's Woods (North) — Grass (Day) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -33,6 +33,11 @@ Height: 0.8 m · Weight: 15.0 kg · Base EXP: 59
 
 **Evolution Paths**
 - Duskull → Dusclops (Lv 37) → Dusknoir (Hold Reaper Cloth)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Night) (10%)
+- Pythios Cemetery — Grass (Night) (8%)
+- Wanderer's Woods (South) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +93,10 @@ Height: 1.6 m · Weight: 30.6 kg · Base EXP: 159
 
 **Evolution Paths**
 - Duskull → Dusclops (Lv 37) → Dusknoir (Hold Reaper Cloth)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (4%)
+- Nyx Trails — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

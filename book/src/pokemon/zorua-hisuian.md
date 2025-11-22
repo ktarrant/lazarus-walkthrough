@@ -30,6 +30,9 @@ Height: 0.7 m · Weight: 12.5 kg · Base EXP: 66
 
 **Evolution Paths**
 - Zorua → Zoroark (Lv 30)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

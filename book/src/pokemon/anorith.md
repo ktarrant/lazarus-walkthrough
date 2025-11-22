@@ -30,6 +30,11 @@ Height: 0.7 m · Weight: 12.5 kg · Base EXP: 71
 
 **Evolution Paths**
 - Anorith → Armaldo (Lv 40)
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (6%)
+- Marmaro Island — Grass (Night) (6%)
+- Wanderer's Woods (South) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

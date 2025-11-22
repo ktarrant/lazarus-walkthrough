@@ -21,6 +21,10 @@ Height: 1.4 m · Weight: 88.4 kg · Base EXP: 172
 
 **Evolution Paths**
 - Tauros
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (20%)
+- Kaptara Island (East) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -33,6 +33,12 @@ Height: 1.1 m · Weight: 64.8 kg · Base EXP: 86
 
 **Evolution Paths**
 - Gligar → Gliscor (Hold Razor Fang)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (10%)
+- Fresco Isles — Grass (Night) (10%)
+- Riverwalk Trail (West) — Grass (Day) (5%)
+- Riverwalk Trail (West) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

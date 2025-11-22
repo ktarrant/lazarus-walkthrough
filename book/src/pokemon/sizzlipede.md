@@ -35,6 +35,12 @@ Height: 0.7 m · Weight: 1.0 kg · Base EXP: 61
 
 **Evolution Paths**
 - Sizzlipede → Centiskorch (Lv 28)
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (10%)
+- Pythios Cemetery — Grass (Day) (10%)
+- Pythios Cemetery — Grass (Night) (10%)
+- Sea of Vulcai — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

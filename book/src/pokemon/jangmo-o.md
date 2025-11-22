@@ -35,6 +35,12 @@ Height: 0.6 m · Weight: 29.7 kg · Base EXP: 60
 
 **Evolution Paths**
 - Jangmo O → Hakamo O (Lv 35) → Kommo O (Lv 45)
+
+**Encounter Locations**
+- Riverwalk Trail (West) — Grass (Day) (2%)
+- Riverwalk Trail (West) — Grass (Night) (2%)
+- Sea of Asteri (East) — Grass (Day) (5%)
+- Sea of Asteri (East) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

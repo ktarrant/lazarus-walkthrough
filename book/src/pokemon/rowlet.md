@@ -36,6 +36,9 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 64
 
 **Evolution Paths**
 - Rowlet → Dartrix (Lv 17) → Decidueye (Lv 34)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

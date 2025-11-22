@@ -34,6 +34,11 @@ Height: 0.7 m · Weight: 16.8 kg · Base EXP: 60
 **Evolution Paths**
 - Snorunt → Glalie (Lv 42)
 - Snorunt → Froslass (Use Dawn Stone)
+
+**Encounter Locations**
+- Froslass Cavern BF1 — Grass (Day) (30%)
+- Froslass Cavern BF2 — Grass (Day) (30%)
+- Froslass Cavern F1 — Grass (Day) (30%)
 </div>
 <div class="card-column">
 **Base Stats**

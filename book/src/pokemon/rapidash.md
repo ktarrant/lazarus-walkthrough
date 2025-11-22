@@ -35,6 +35,11 @@ Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
 
 **Evolution Paths**
 - Ponyta → Rapidash (Lv 40)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Day) (10%)
+- Riverwalk Trail (West) — Grass (Day) (20%)
+- Sofos City — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +99,9 @@ Height: 1.7 m · Weight: 95.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Ponyta → Rapidash (Lv 40)
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -33,6 +33,11 @@ Height: 0.6 m · Weight: 11.8 kg · Base EXP: 70
 
 **Evolution Paths**
 - Scraggy → Scrafty (Lv 39)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (20%)
+- Fresco Isles — Grass (Night) (20%)
+- Pythios Cemetery — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +95,9 @@ Height: 1.1 m · Weight: 30.0 kg · Base EXP: 171
 
 **Evolution Paths**
 - Scraggy → Scrafty (Lv 39)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**

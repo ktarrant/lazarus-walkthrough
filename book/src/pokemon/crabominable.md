@@ -32,6 +32,13 @@ Height: 0.6 m · Weight: 7.0 kg · Base EXP: 68
 
 **Evolution Paths**
 - Crabrawler → Crabominable (Level at Mount Lanakila)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Day) (20%)
+- Sea of Asteri (East) — Grass (Night) (20%)
+- Sea of Asteri (West) — Grass (Day) (15%)
+- Sofos City — Grass (Day) (10%)
+- Sofos City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -91,6 +98,10 @@ Height: 1.7 m · Weight: 180.0 kg · Base EXP: 167
 
 **Evolution Paths**
 - Crabrawler → Crabominable (Level at Mount Lanakila)
+
+**Encounter Locations**
+- Wakewater Isle — Grass (Day) (5%)
+- Wakewater Isle — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

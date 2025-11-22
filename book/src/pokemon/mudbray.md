@@ -32,6 +32,14 @@ Height: 1.0 m · Weight: 110.0 kg · Base EXP: 77
 
 **Evolution Paths**
 - Mudbray → Mudsdale (Lv 30)
+
+**Encounter Locations**
+- Bronze Fields (South) — Grass (Day) (9%)
+- Bronze Fields (South) — Grass (Night) (9%)
+- Lastlight Road — Grass (Day) (10%)
+- Lastlight Road — Grass (Night) (10%)
+- Riverwalk Trail (West) — Grass (Day) (10%)
+- Riverwalk Trail (West) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

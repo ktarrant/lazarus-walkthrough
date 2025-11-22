@@ -34,6 +34,9 @@ Height: 0.6 m · Weight: 9.9 kg · Base EXP: 60
 
 **Evolution Paths**
 - Vulpix → Ninetales (Use Fire Stone)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

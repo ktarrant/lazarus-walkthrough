@@ -39,6 +39,10 @@ Height: 0.6 m · Weight: 72.0 kg · Base EXP: 60
 
 **Evolution Paths**
 - Larvitar → Pupitar (Lv 30) → Tyranitar (Lv 55)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (2%)
+- Fresco Isles — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

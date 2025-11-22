@@ -34,6 +34,12 @@ Height: 0.4 m · Weight: 3.6 kg · Base EXP: 56
 
 **Evolution Paths**
 - Wattrel → Kilowattrel (Lv 25)
+
+**Encounter Locations**
+- Pythios Cemetery — Grass (Day) (20%)
+- Sea of Asteri (East) — Surfing (30%)
+- Sea of Asteri (West) — Grass (Day) (15%)
+- Sea of Asteri (West) — Grass (Night) (15%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +98,10 @@ Height: 1.4 m · Weight: 38.6 kg · Base EXP: 172
 
 **Evolution Paths**
 - Wattrel → Kilowattrel (Lv 25)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Day) (5%)
+- Sea of Vulcai — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -37,6 +37,11 @@ Height: 0.6 m · Weight: 13.5 kg · Base EXP: 74
 
 **Evolution Paths**
 - Litleo → Pyroar (Lv 35)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Day) (20%)
+- Riverwalk Trail (West) — Grass (Day) (10%)
+- Riverwalk Trail (West) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

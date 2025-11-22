@@ -30,6 +30,19 @@ Height: 0.5 m · Weight: 8.3 kg · Base EXP: 66
 
 **Evolution Paths**
 - Clauncher → Clawitzer (Lv 37)
+
+**Encounter Locations**
+- Kalami City — Fishing (60%)
+- Kalami City — Surfing (60%)
+- Marmaro Island — Fishing (20%)
+- Marmaro Island — Fishing (40%)
+- Pythios Cemetery — Surfing (10%)
+- Riverwalk Trail (South) — Fishing (60%)
+- Riverwalk Trail (South) — Surfing (60%)
+- Riverwalk Trail (West) — Fishing (60%)
+- Riverwalk Trail (West) — Surfing (60%)
+- Sofos City — Fishing (20%)
+- Sofos City — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -84,6 +97,9 @@ Height: 1.3 m · Weight: 35.3 kg · Base EXP: 100
 
 **Evolution Paths**
 - Clauncher → Clawitzer (Lv 37)
+
+**Encounter Locations**
+- Riverwalk Trail (West) — Fishing (20%)
 </div>
 <div class="card-column">
 **Base Stats**

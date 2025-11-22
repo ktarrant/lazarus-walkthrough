@@ -31,6 +31,16 @@ Height: 1.3 m · Weight: 60.2 kg · Base EXP: 63
 
 **Evolution Paths**
 - Finizen → Palafin (Lv 38)
+
+**Encounter Locations**
+- Davosi Straits — Surfing (60%)
+- Erinys Path (East) — Fishing (20%)
+- Marmaro Island — Surfing (30%)
+- Myrrini Island — Surfing (10%)
+- Pollen Road — Surfing (60%)
+- Pythios Town — Fishing (20%)
+- Pythios Town — Surfing (10%)
+- Péntepetal City — Surfing (30%)
 </div>
 <div class="card-column">
 **Base Stats**

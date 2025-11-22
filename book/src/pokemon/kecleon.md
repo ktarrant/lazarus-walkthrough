@@ -20,6 +20,11 @@ Height: 1.0 m · Weight: 22.0 kg · Base EXP: 154
 
 **Evolution Paths**
 - Kecleon
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Day) (10%)
+- Sea of Vulcai — Grass (Night) (10%)
+- Tower of Dioxippus — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

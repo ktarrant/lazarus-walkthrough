@@ -35,6 +35,13 @@ Height: 1.2 m · Weight: 38.0 kg · Base EXP: 78
 
 **Evolution Paths**
 - Yanma → Yanmega (Learn Ancient Power)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (10%)
+- Kaptara Island (West) — Grass (Day) (10%)
+- Riverwalk Trail (West) — Grass (Night) (10%)
+- Tower of Dioxippus — Grass (Day) (10%)
+- Tower of Dioxippus — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +101,11 @@ Height: 1.9 m · Weight: 51.5 kg · Base EXP: 180
 
 **Evolution Paths**
 - Yanma → Yanmega (Learn Ancient Power)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (5%)
+- Pollen Road — Grass (Day) (2%)
+- Pollen Road — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

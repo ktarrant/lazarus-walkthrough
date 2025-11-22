@@ -36,6 +36,9 @@ Height: 0.4 m · Weight: 9.0 kg · Base EXP: 63
 
 **Evolution Paths**
 - Chespin → Quilladin (Lv 16) → Chesnaught (Lv 36)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

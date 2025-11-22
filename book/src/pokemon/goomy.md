@@ -35,6 +35,17 @@ Height: 0.3 m · Weight: 2.8 kg · Base EXP: 60
 
 **Evolution Paths**
 - Goomy → Sliggoo (Lv 40) → Goodra (Lv 50)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Day) (10%)
+- Kaptara Island (East) — Grass (Night) (10%)
+- Myrrini Island — Grass (Night) (10%)
+- Pythios Cemetery — Grass (Day) (5%)
+- Pythios Cemetery — Grass (Night) (5%)
+- Tower of Dioxippus — Grass (Day) (10%)
+- Tower of Dioxippus — Grass (Night) (10%)
+- Wanderer's Woods (South) — Grass (Day) (8%)
+- Wanderer's Woods (South) — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**

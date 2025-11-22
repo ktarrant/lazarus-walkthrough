@@ -24,6 +24,10 @@ Height: 3.0 m · Weight: 62.0 kg · Base EXP: 165
 
 **Evolution Paths**
 - Falinks
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Day) (10%)
+- Erinys Path (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

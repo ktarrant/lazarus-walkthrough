@@ -26,6 +26,10 @@ Height: 0.5 m · Weight: 1.9 kg · Base EXP: 144
 
 **Evolution Paths**
 - Chatot
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (6%)
+- Sea of Asteri (West) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

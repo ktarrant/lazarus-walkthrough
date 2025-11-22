@@ -33,6 +33,9 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 58
 
 **Evolution Paths**
 - Solosis → Duosion (Lv 32) → Reuniclus (Lv 41)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +91,9 @@ Height: 0.6 m · Weight: 8.0 kg · Base EXP: 130
 
 **Evolution Paths**
 - Solosis → Duosion (Lv 32) → Reuniclus (Lv 41)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Day) (8%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -143,6 +149,9 @@ Height: 1.0 m · Weight: 20.1 kg · Base EXP: 221
 
 **Evolution Paths**
 - Solosis → Duosion (Lv 32) → Reuniclus (Lv 41)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Day) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

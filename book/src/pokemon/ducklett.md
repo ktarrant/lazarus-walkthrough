@@ -34,6 +34,12 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 61
 
 **Evolution Paths**
 - Ducklett → Swanna (Lv 35)
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (10%)
+- Bronze Fields (North) — Grass (Day) (5%)
+- Bronze Fields (North) — Grass (Night) (5%)
+- Wanderer's Woods (North) — Surfing (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +98,10 @@ Height: 1.3 m · Weight: 24.2 kg · Base EXP: 166
 
 **Evolution Paths**
 - Ducklett → Swanna (Lv 35)
+
+**Encounter Locations**
+- Davosi Straits — Surfing (30%)
+- Pollen Road — Surfing (30%)
 </div>
 <div class="card-column">
 **Base Stats**

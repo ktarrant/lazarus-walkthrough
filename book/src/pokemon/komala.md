@@ -19,6 +19,11 @@ Height: 0.4 m · Weight: 19.9 kg · Base EXP: 168
 
 **Evolution Paths**
 - Komala
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (10%)
+- Wakewater Isle — Grass (Day) (4%)
+- Wakewater Isle — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

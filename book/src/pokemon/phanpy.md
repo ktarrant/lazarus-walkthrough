@@ -31,6 +31,12 @@ Height: 0.5 m · Weight: 33.5 kg · Base EXP: 66
 
 **Evolution Paths**
 - Phanpy → Donphan (Lv 25)
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (10%)
+- Acrisia City — Grass (Night) (10%)
+- Bronze Fields (North) — Grass (Day) (5%)
+- Bronze Fields (North) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

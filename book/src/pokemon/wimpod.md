@@ -32,6 +32,16 @@ Height: 0.5 m · Weight: 12.0 kg · Base EXP: 46
 
 **Evolution Paths**
 - Wimpod → Golisopod (Lv 30)
+
+**Encounter Locations**
+- Acrisia City — Fishing (30%)
+- Acrisia City — Surfing (60%)
+- Acrisia Mountains — Fishing (30%)
+- Acrisia Mountains — Surfing (60%)
+- Kalami City — Grass (Day) (10%)
+- Kalami City — Grass (Night) (10%)
+- Pythios Cemetery — Surfing (60%)
+- Wanderer's Woods (North) — Surfing (60%)
 </div>
 <div class="card-column">
 **Base Stats**

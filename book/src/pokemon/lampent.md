@@ -42,6 +42,9 @@ Height: 0.3 m · Weight: 3.1 kg · Base EXP: 55
 
 **Evolution Paths**
 - Litwick → Lampent (Lv 41) → Chandelure (Use Dusk Stone)
+
+**Encounter Locations**
+- Pythios Cemetery — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -106,6 +109,10 @@ Height: 0.6 m · Weight: 13.0 kg · Base EXP: 130
 
 **Evolution Paths**
 - Litwick → Lampent (Lv 41) → Chandelure (Use Dusk Stone)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Day) (20%)
+- Lastlight Road — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

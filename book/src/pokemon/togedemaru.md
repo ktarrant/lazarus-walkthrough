@@ -34,6 +34,12 @@ Height: 0.3 m · Weight: 3.3 kg · Base EXP: 152
 
 **Evolution Paths**
 - Togedemaru
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Night) (4%)
+- Marmaro Island — Grass (Night) (8%)
+- Pollen Road — Grass (Night) (10%)
+- Wanderer's Woods (North) — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

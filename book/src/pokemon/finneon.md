@@ -32,6 +32,33 @@ Height: 0.4 m · Weight: 7.0 kg · Base EXP: 66
 
 **Evolution Paths**
 - Finneon → Lumineon (Lv 31)
+
+**Encounter Locations**
+- Acrisia City — Fishing (40%)
+- Acrisia City — Surfing (10%)
+- Acrisia Mountains — Fishing (40%)
+- Acrisia Mountains — Surfing (10%)
+- Davosi Straits — Fishing (20%)
+- Erinys Path (East) — Fishing (40%)
+- Fresco Isles — Fishing (20%)
+- Froslass Cavern BF2 — Fishing (40%)
+- Kipos Town — Fishing (20%)
+- Kipos Town — Surfing (30%)
+- Marmaro Island — Fishing (20%)
+- Myrrini Island — Fishing (20%)
+- Pollen Road — Fishing (20%)
+- Pythios Cemetery — Fishing (60%)
+- Pythios Town — Fishing (40%)
+- Riverwalk Trail (West) — Fishing (40%)
+- Riverwalk Trail (West) — Surfing (30%)
+- Sea of Asteri (East) — Fishing (20%)
+- Sea of Asteri (East) — Underwater (20%)
+- Sea of Asteri (West) — Fishing (20%)
+- Sea of Asteri (West) — Underwater (20%)
+- Sea of Vulcai — Fishing (20%)
+- Sea of Vulcai — Underwater (20%)
+- Sofos City — Fishing (20%)
+- Wanderer's Woods (North) — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +115,11 @@ Height: 1.2 m · Weight: 24.0 kg · Base EXP: 161
 
 **Evolution Paths**
 - Finneon → Lumineon (Lv 31)
+
+**Encounter Locations**
+- Corrin Crossing — Surfing (30%)
+- Nyx Trails — Surfing (30%)
+- Port Pello — Surfing (30%)
 </div>
 <div class="card-column">
 **Base Stats**

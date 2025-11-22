@@ -1,7 +1,7 @@
 use anyhow::{Context, Result, anyhow};
 use serde::Deserialize;
 use serde_json::Value;
-use std::collections::{BTreeMap, BTreeSet, HashSet};
+use std::collections::{BTreeMap, BTreeSet, HashMap, HashSet};
 use std::fs;
 use std::path::PathBuf;
 
@@ -390,6 +390,79 @@ pub fn list_species(path: &PathBuf) -> Result<Vec<String>> {
     let mut list: Vec<String> = species_set.into_iter().collect();
     list.sort();
     Ok(list)
+}
+
+#[derive(Debug, Clone, Default)]
+pub struct SpeciesEncounter {
+    pub location: String,
+    pub method: String,
+    pub rate: Option<String>,
+}
+
+pub fn species_encounters_map(path: &PathBuf) -> Result<HashMap<String, Vec<SpeciesEncounter>>> {
+    let mut map: HashMap<String, Vec<SpeciesEncounter>> = HashMap::new();
+    let file = fs::File::open(path)
+        .with_context(|| format!("opening encounter manifest {}", path.display()))?;
+    let value: Value =
+        serde_json::from_reader(file).with_context(|| format!("decoding {}", path.display()))?;
+
+    if value.get("locations").is_some() {
+        let manifest: EncounterManifest = serde_json::from_value(value)?;
+        for loc in manifest.locations {
+            for (method, entries) in loc.methods.iter() {
+                let label = method_label(method);
+                for entry in entries {
+                    insert_species_encounter(
+                        &mut map,
+                        &entry.pokemon,
+                        &loc.name,
+                        &label,
+                        entry.rate.map(format_rate),
+                    );
+                }
+            }
+        }
+    } else if let Some(obj) = value.as_object() {
+        for (location, methods) in obj.iter() {
+            if let Some(methods_obj) = methods.as_object() {
+                for (method_name, entries_val) in methods_obj.iter() {
+                    let slug = method_slug(method_name);
+                    if slug.is_empty() {
+                        continue;
+                    }
+                    let label = method_label(&slug);
+                    if let Some(entries) = entries_val.as_array() {
+                        for entry in entries {
+                            if let Some(pokemon) = entry.get("Pokemon").and_then(|v| v.as_str()) {
+                                let rate = entry
+                                    .get("Rate")
+                                    .and_then(|v| v.as_str())
+                                    .map(|s| s.to_string());
+                                insert_species_encounter(&mut map, pokemon, location, &label, rate);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    Ok(map)
+}
+
+fn insert_species_encounter(
+    map: &mut HashMap<String, Vec<SpeciesEncounter>>,
+    pokemon: &str,
+    location: &str,
+    method_label: &str,
+    rate: Option<String>,
+) {
+    let slug = slugify(pokemon);
+    map.entry(slug).or_default().push(SpeciesEncounter {
+        location: location.to_string(),
+        method: method_label.to_string(),
+        rate,
+    });
 }
 
 fn parse_new_format_methods(value: &Value) -> Result<BTreeMap<String, Vec<EncounterEntry>>> {

@@ -34,6 +34,10 @@ Height: 0.5 m · Weight: 6.8 kg · Base EXP: 68
 
 **Evolution Paths**
 - Stufful → Bewear (Lv 27)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Day) (10%)
+- Sea of Asteri (West) — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +96,10 @@ Height: 2.1 m · Weight: 135.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Stufful → Bewear (Lv 27)
+
+**Encounter Locations**
+- Wakewater Isle — Grass (Day) (10%)
+- Wakewater Isle — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

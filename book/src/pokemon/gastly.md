@@ -36,6 +36,10 @@ Height: 1.3 m · Weight: 0.1 kg · Base EXP: 62
 
 **Evolution Paths**
 - Gastly → Haunter (Lv 25) → Gengar (Trade)
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Day) (20%)
+- Erinys Path (East) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

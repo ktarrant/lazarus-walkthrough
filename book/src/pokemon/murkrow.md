@@ -35,6 +35,11 @@ Height: 0.5 m · Weight: 2.1 kg · Base EXP: 81
 
 **Evolution Paths**
 - Murkrow → Honchkrow (Use Dusk Stone)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Night) (5%)
+- Bronze Fields (South) — Grass (Night) (20%)
+- Kalami City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

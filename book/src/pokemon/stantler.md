@@ -28,6 +28,11 @@ Height: 1.4 m · Weight: 71.2 kg · Base EXP: 163
 
 **Evolution Paths**
 - Stantler → Wyrdeer (Learn Psyshield Bash)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Night) (20%)
+- Kipos Town — Grass (Day) (5%)
+- Kipos Town — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

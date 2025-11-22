@@ -34,6 +34,9 @@ Height: 0.3 m · Weight: 1.0 kg · Base EXP: 42
 
 **Evolution Paths**
 - Igglybuff → Jigglypuff (Friendship 160) → Wigglytuff (Use Moon Stone)
+
+**Encounter Locations**
+- Kipos Town — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +93,10 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 95
 
 **Evolution Paths**
 - Igglybuff → Jigglypuff (Friendship 160) → Wigglytuff (Use Moon Stone)
+
+**Encounter Locations**
+- Myrrini Island — Grass (Day) (10%)
+- Port Pello — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -146,6 +153,9 @@ Height: 1.0 m · Weight: 12.0 kg · Base EXP: 196
 
 **Evolution Paths**
 - Igglybuff → Jigglypuff (Friendship 160) → Wigglytuff (Use Moon Stone)
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

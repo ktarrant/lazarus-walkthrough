@@ -35,6 +35,11 @@ Height: 1.0 m · Weight: 97.0 kg · Base EXP: 75
 
 **Evolution Paths**
 - Nosepass → Probopass (Level at Mt Coronet)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (10%)
+- Sofos City — Grass (Day) (5%)
+- Sofos City — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -32,6 +32,28 @@ Height: 2.0 m · Weight: 130.0 kg · Base EXP: 80
 
 **Evolution Paths**
 - Wailmer → Wailord (Lv 40)
+
+**Encounter Locations**
+- Corrin Crossing — Fishing (40%)
+- Fresco Isles — Fishing (40%)
+- Fresco Isles — Surfing (30%)
+- Kipos Town — Fishing (40%)
+- Marmaro Island — Fishing (40%)
+- Myrrini Island — Fishing (40%)
+- Nyx Trails — Fishing (40%)
+- Palati City — Fishing (40%)
+- Palati City — Surfing (30%)
+- Port Pello — Fishing (40%)
+- Sea of Asteri (East) — Fishing (40%)
+- Sea of Asteri (East) — Underwater (20%)
+- Sea of Asteri (West) — Fishing (40%)
+- Sea of Asteri (West) — Surfing (10%)
+- Sea of Asteri (West) — Underwater (20%)
+- Sea of Vulcai — Fishing (40%)
+- Sea of Vulcai — Surfing (30%)
+- Sea of Vulcai — Underwater (20%)
+- Sofos City — Fishing (40%)
+- Sofos City — Surfing (30%)
 </div>
 <div class="card-column">
 **Base Stats**

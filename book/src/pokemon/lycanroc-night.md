@@ -35,6 +35,11 @@ Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
 
 **Evolution Paths**
 - Rockruff → Lycanroc (Lv 25)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (20%)
+- Acrisia Mountains — Grass (Night) (20%)
+- Acrisia Mountains (Peak) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

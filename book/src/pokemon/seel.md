@@ -32,6 +32,14 @@ Height: 1.1 m · Weight: 90.0 kg · Base EXP: 65
 
 **Evolution Paths**
 - Seel → Dewgong (Lv 34)
+
+**Encounter Locations**
+- Erinys Path (East) — Surfing (30%)
+- Froslass Cavern BF2 — Grass (Day) (10%)
+- Froslass Cavern F1 — Grass (Day) (10%)
+- Kipos Town — Fishing (40%)
+- Pythios Town — Surfing (30%)
+- Péntepetal City — Fishing (60%)
 </div>
 <div class="card-column">
 **Base Stats**

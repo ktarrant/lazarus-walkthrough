@@ -37,6 +37,12 @@ Height: 0.3 m · Weight: 5.4 kg · Base EXP: 57
 
 **Evolution Paths**
 - Paras → Parasect (Lv 24)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Night) (20%)
+- Pythios Cemetery — Grass (Day) (10%)
+- Wanderer's Woods (South) — Grass (Day) (20%)
+- Wanderer's Woods (South) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -36,6 +36,11 @@ Height: 0.5 m · Weight: 5.5 kg · Base EXP: 53
 **Evolution Paths**
 - Nincada → Ninjask (Lv 20)
 - Nincada → Shedinja (Shed)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Day) (20%)
+- Bronze Fields (South) — Grass (Day) (10%)
+- Bronze Fields (South) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -95,6 +100,9 @@ Height: 0.8 m · Weight: 12.0 kg · Base EXP: 160
 **Evolution Paths**
 - Nincada → Ninjask (Lv 20)
 - Nincada → Shedinja (Shed)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -155,6 +163,9 @@ Height: 0.8 m · Weight: 1.2 kg · Base EXP: 83
 **Evolution Paths**
 - Nincada → Ninjask (Lv 20)
 - Nincada → Shedinja (Shed)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

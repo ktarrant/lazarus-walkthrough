@@ -54,7 +54,9 @@ fn main() -> Result<()> {
     let cli = Cli::parse();
     match cli.command {
         Command::TypeChart => render_type_chart(),
-        Command::PokemonCard { identifier } => render_pokemon_card(cli.data_dir, identifier)?,
+        Command::PokemonCard { identifier } => {
+            render_pokemon_card(cli.data_dir, cli.encounters_json.clone(), identifier)?
+        }
         Command::PokemonCardsAll { out_dir } => {
             render_all_pokemon_cards(cli.data_dir, cli.encounters_json, out_dir)?
         }
@@ -75,11 +77,12 @@ fn render_type_chart() {
     print!("{}", type_chart::colored_table());
 }
 
-fn render_pokemon_card(data_dir: PathBuf, identifier: String) -> Result<()> {
+fn render_pokemon_card(data_dir: PathBuf, manifest: PathBuf, identifier: String) -> Result<()> {
     let repo = pokeapi::Repository::new(data_dir);
+    let encounter_map = encounters::species_encounters_map(&manifest)?;
     for candidate in candidate_identifiers(&identifier) {
         if let Ok(deck) = repo.build_card_deck(&candidate) {
-            print!("{}", deck.render_markdown());
+            print!("{}", deck.render_markdown_with_encounters(&encounter_map));
             return Ok(());
         }
     }
@@ -89,6 +92,7 @@ fn render_pokemon_card(data_dir: PathBuf, identifier: String) -> Result<()> {
 fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
     let repo = pokeapi::Repository::new(data_dir);
     let species = encounters::list_species(&manifest)?;
+    let encounter_map = encounters::species_encounters_map(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
     let mut index_entries = Vec::new();
     let total = species.len();
@@ -104,7 +108,7 @@ fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathB
         if let Some(deck) = deck {
             let slug = encounters::slugify(&name);
             let path = out_dir.join(format!("{slug}.md"));
-            std::fs::write(path, deck.render_markdown())?;
+            std::fs::write(path, deck.render_markdown_with_encounters(&encounter_map))?;
             index_entries.push((slug, name));
         } else {
             eprintln!("Failed to generate card for {}; writing placeholder", name);

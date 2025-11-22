@@ -35,6 +35,11 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 50
 
 **Evolution Paths**
 - Swinub → Piloswine (Lv 33) → Mamoswine (Learn Ancient Power)
+
+**Encounter Locations**
+- Froslass Cavern BF1 — Grass (Day) (8%)
+- Froslass Cavern BF2 — Grass (Day) (13%)
+- Froslass Cavern F1 — Grass (Day) (8%)
 </div>
 <div class="card-column">
 **Base Stats**

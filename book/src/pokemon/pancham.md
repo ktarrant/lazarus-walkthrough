@@ -32,6 +32,10 @@ Height: 0.6 m · Weight: 8.0 kg · Base EXP: 70
 
 **Evolution Paths**
 - Pancham → Pangoro (Lv 32)
+
+**Encounter Locations**
+- Myrrini Island — Grass (Day) (10%)
+- Myrrini Island — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

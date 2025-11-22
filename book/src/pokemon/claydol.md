@@ -35,6 +35,13 @@ Height: 0.5 m · Weight: 21.5 kg · Base EXP: 60
 
 **Evolution Paths**
 - Baltoy → Claydol (Lv 36)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (10%)
+- Erinys Path (West) — Grass (Night) (20%)
+- Palati City — Grass (Day) (20%)
+- Palati City — Grass (Night) (20%)
+- Sofos City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +101,9 @@ Height: 1.5 m · Weight: 108.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Baltoy → Claydol (Lv 36)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

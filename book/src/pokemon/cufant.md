@@ -39,6 +39,12 @@ Height: 1.2 m · Weight: 100.0 kg · Base EXP: 66
 
 **Evolution Paths**
 - Cufant → Copperajah (Lv 34)
+
+**Encounter Locations**
+- Riverwalk Trail (South) — Grass (Day) (5%)
+- Riverwalk Trail (South) — Grass (Night) (5%)
+- Sea of Asteri (East) — Grass (Day) (10%)
+- Sea of Asteri (West) — Grass (Night) (15%)
 </div>
 <div class="card-column">
 **Base Stats**

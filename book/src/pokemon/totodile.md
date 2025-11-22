@@ -33,6 +33,10 @@ Height: 0.6 m · Weight: 9.5 kg · Base EXP: 63
 
 **Evolution Paths**
 - Totodile → Croconaw (Lv 18) → Feraligatr (Lv 30)
+
+**Encounter Locations**
+- Kalami City — Grass (Day) (4%)
+- Kalami City — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

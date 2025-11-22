@@ -34,6 +34,12 @@ Height: 0.7 m · Weight: 15.0 kg · Base EXP: 58
 
 **Evolution Paths**
 - Trapinch → Vibrava (Lv 35) → Flygon (Lv 45)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (20%)
+- Fresco Isles — Grass (Night) (20%)
+- Pythios Cemetery — Grass (Day) (10%)
+- Pythios Cemetery — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

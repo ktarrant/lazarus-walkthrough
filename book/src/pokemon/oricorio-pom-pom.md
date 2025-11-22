@@ -27,6 +27,12 @@ Height: 0.6 m · Weight: 3.4 kg · Base EXP: 167
 
 **Evolution Paths**
 - Oricorio
+
+**Encounter Locations**
+- Jusmail Town — Grass (Day) (2%)
+- Jusmail Town — Grass (Night) (2%)
+- Myrrini Island — Grass (Day) (5%)
+- Myrrini Island — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

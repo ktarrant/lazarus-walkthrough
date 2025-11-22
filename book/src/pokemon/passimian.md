@@ -24,6 +24,11 @@ Height: 2.0 m · Weight: 82.8 kg · Base EXP: 172
 
 **Evolution Paths**
 - Passimian
+
+**Encounter Locations**
+- Kalami City — Grass (Day) (2%)
+- Kaptara Island (West) — Grass (Day) (10%)
+- Wakewater Isle — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

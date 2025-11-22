@@ -34,6 +34,10 @@ Height: 0.5 m · Weight: 28.0 kg · Base EXP: 61
 
 **Evolution Paths**
 - Mankey → Primeape (Lv 28) → Annihilape (Other)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (5%)
+- Acrisia Mountains — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +94,10 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 159
 
 **Evolution Paths**
 - Mankey → Primeape (Lv 28) → Annihilape (Other)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (10%)
+- Areios Hideout — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -149,6 +157,9 @@ Height: 1.2 m · Weight: 56.0 kg · Base EXP: 268
 
 **Evolution Paths**
 - Mankey → Primeape (Lv 28) → Annihilape (Other)
+
+**Encounter Locations**
+- Wakewater Isle — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -36,6 +36,9 @@ Height: 0.4 m · Weight: 9.4 kg · Base EXP: 61
 
 **Evolution Paths**
 - Fennekin → Braixen (Lv 16) → Delphox (Lv 36)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

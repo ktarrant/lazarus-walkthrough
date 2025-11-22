@@ -32,6 +32,13 @@ Height: 0.4 m · Weight: 1.9 kg · Base EXP: 58
 
 **Evolution Paths**
 - Barboach → Whiscash (Lv 30)
+
+**Encounter Locations**
+- Kalami City — Fishing (40%)
+- Kalami City — Surfing (10%)
+- Riverwalk Trail (South) — Fishing (40%)
+- Riverwalk Trail (South) — Surfing (10%)
+- Wanderer's Woods (North) — Fishing (30%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +95,9 @@ Height: 0.9 m · Weight: 23.6 kg · Base EXP: 164
 
 **Evolution Paths**
 - Barboach → Whiscash (Lv 30)
+
+**Encounter Locations**
+- Riverwalk Trail (South) — Fishing (20%)
 </div>
 <div class="card-column">
 **Base Stats**

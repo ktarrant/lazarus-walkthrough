@@ -30,6 +30,10 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 
 **Evolution Paths**
 - Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (10%)
+- Riverwalk Trail (South) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -82,6 +86,10 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 
 **Evolution Paths**
 - Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (10%)
+- Péntepetal City — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -138,6 +146,10 @@ Height: 1.6 m · Weight: 46.0 kg · Base EXP: 260
 
 **Evolution Paths**
 - Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (10%)
+- Areios Hideout — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

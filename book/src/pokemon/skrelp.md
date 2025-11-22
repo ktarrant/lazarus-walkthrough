@@ -37,6 +37,17 @@ Height: 0.5 m · Weight: 7.3 kg · Base EXP: 64
 
 **Evolution Paths**
 - Skrelp → Dragalge (Lv 48)
+
+**Encounter Locations**
+- Kalami City — Fishing (30%)
+- Kalami City — Surfing (30%)
+- Kipos Town — Fishing (20%)
+- Myrrini Island — Fishing (20%)
+- Myrrini Island — Fishing (40%)
+- Riverwalk Trail (South) — Fishing (30%)
+- Riverwalk Trail (South) — Surfing (30%)
+- Sea of Asteri (East) — Surfing (10%)
+- Sea of Vulcai — Underwater (10%)
 </div>
 <div class="card-column">
 **Base Stats**

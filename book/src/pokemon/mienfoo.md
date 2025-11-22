@@ -32,6 +32,10 @@ Height: 0.9 m · Weight: 20.0 kg · Base EXP: 70
 
 **Evolution Paths**
 - Mienfoo → Mienshao (Lv 50)
+
+**Encounter Locations**
+- Pythios Town — Grass (Day) (10%)
+- Pythios Town — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -30,6 +30,12 @@ Height: 1.5 m · Weight: 41.5 kg · Base EXP: 159
 
 **Evolution Paths**
 - Girafarig → Farigiraf (Learn Twin Beam)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Night) (10%)
+- Palati City — Grass (Day) (10%)
+- Palati City — Grass (Night) (10%)
+- Sofos City — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -84,6 +90,10 @@ Height: 3.2 m · Weight: 160.0 kg · Base EXP: 260
 
 **Evolution Paths**
 - Girafarig → Farigiraf (Learn Twin Beam)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Night) (5%)
+- Wakewater Isle — Grass (Day) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

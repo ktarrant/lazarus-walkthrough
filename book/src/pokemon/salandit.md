@@ -37,6 +37,12 @@ Height: 0.6 m · Weight: 4.8 kg · Base EXP: 64
 
 **Evolution Paths**
 - Salandit → Salazzle (Lv 33)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (10%)
+- Areios Hideout — Grass (Night) (10%)
+- Erinys Path (East) — Grass (Night) (10%)
+- Fresco Isles — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

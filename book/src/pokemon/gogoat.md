@@ -34,6 +34,11 @@ Height: 0.9 m · Weight: 31.0 kg · Base EXP: 70
 
 **Evolution Paths**
 - Skiddo → Gogoat (Lv 32)
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Night) (10%)
+- Jusmail Town — Grass (Day) (10%)
+- Jusmail Town — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +97,12 @@ Height: 1.7 m · Weight: 91.0 kg · Base EXP: 186
 
 **Evolution Paths**
 - Skiddo → Gogoat (Lv 32)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (10%)
+- Tower of Dioxippus — Grass (Day) (5%)
+- Tower of Dioxippus — Grass (Night) (5%)
+- Wakewater Isle — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -32,6 +32,12 @@ Height: 0.4 m · Weight: 1.2 kg · Base EXP: 62
 
 **Evolution Paths**
 - Swablu → Altaria (Lv 35)
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (20%)
+- Marmaro Island — Grass (Night) (20%)
+- Sofos City — Grass (Day) (20%)
+- Tower of Dioxippus — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -91,6 +97,11 @@ Height: 1.1 m · Weight: 20.6 kg · Base EXP: 172
 
 **Evolution Paths**
 - Swablu → Altaria (Lv 35)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Day) (5%)
+- Kaptara Island (West) — Grass (Night) (5%)
+- Tower of Dioxippus — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

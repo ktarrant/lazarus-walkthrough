@@ -23,6 +23,11 @@ Height: 1.5 m · Weight: 76.0 kg · Base EXP: 172
 
 **Evolution Paths**
 - Oranguru
+
+**Encounter Locations**
+- Kalami City — Grass (Night) (2%)
+- Kaptara Island (West) — Grass (Day) (10%)
+- Wakewater Isle — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

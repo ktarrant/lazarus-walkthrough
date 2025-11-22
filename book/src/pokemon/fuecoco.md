@@ -36,6 +36,9 @@ Height: 0.4 m · Weight: 9.8 kg · Base EXP: 62
 
 **Evolution Paths**
 - Fuecoco → Crocalor (Lv 16) → Skeledirge (Lv 36)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

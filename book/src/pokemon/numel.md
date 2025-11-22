@@ -34,6 +34,9 @@ Height: 0.7 m · Weight: 24.0 kg · Base EXP: 61
 
 **Evolution Paths**
 - Numel → Camerupt (Lv 33)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

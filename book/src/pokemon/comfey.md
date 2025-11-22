@@ -25,6 +25,13 @@ Height: 0.1 m · Weight: 0.3 kg · Base EXP: 170
 
 **Evolution Paths**
 - Comfey
+
+**Encounter Locations**
+- Bronze Fields (South) — Grass (Day) (5%)
+- Pollen Road — Grass (Day) (10%)
+- Pollen Road — Grass (Night) (10%)
+- Péntepetal City — Grass (Day) (10%)
+- Sofos City — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

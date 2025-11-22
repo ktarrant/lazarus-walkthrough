@@ -35,6 +35,14 @@ Height: 0.2 m · Weight: 2.0 kg · Base EXP: 64
 
 **Evolution Paths**
 - Natu → Xatu (Lv 25)
+
+**Encounter Locations**
+- Pythios Cemetery — Grass (Day) (5%)
+- Pythios Cemetery — Grass (Night) (5%)
+- Sofos City — Grass (Night) (5%)
+- Wanderer's Woods (North) — Grass (Night) (10%)
+- Wanderer's Woods (South) — Grass (Day) (20%)
+- Wanderer's Woods (South) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +102,9 @@ Height: 1.5 m · Weight: 15.0 kg · Base EXP: 165
 
 **Evolution Paths**
 - Natu → Xatu (Lv 25)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -31,6 +31,12 @@ Height: 0.3 m · Weight: 2.0 kg · Base EXP: 41
 
 **Evolution Paths**
 - Pichu → Pikachu (Friendship 220) → Raichu (Use Thunder Stone)
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Day) (20%)
+- Acrisia Mountains (Peak) — Grass (Night) (10%)
+- Wanderer's Woods (North) — Grass (Day) (4%)
+- Wanderer's Woods (North) — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -84,6 +90,11 @@ Height: 0.4 m · Weight: 6.0 kg · Base EXP: 112
 
 **Evolution Paths**
 - Pichu → Pikachu (Friendship 220) → Raichu (Use Thunder Stone)
+
+**Encounter Locations**
+- Kipos Town — Grass (Day) (10%)
+- Kipos Town — Grass (Night) (10%)
+- Pollen Road — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -141,6 +152,10 @@ Height: 0.7 m · Weight: 21.0 kg · Base EXP: 243
 
 **Evolution Paths**
 - Pichu → Pikachu (Friendship 220) → Raichu (Use Thunder Stone)
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (8%)
+- Wakewater Isle — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

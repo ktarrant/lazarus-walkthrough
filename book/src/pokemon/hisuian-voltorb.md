@@ -34,6 +34,10 @@ Height: 0.5 m · Weight: 13.0 kg · Base EXP: 66
 
 **Evolution Paths**
 - Voltorb → Electrode (Lv 30)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Night) (10%)
+- Sea of Vulcai — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +96,11 @@ Height: 1.2 m · Weight: 71.0 kg · Base EXP: 172
 
 **Evolution Paths**
 - Voltorb → Electrode (Lv 30)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (2%)
+- Nyx Trails — Grass (Night) (2%)
+- Pollen Road — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

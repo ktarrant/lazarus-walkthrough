@@ -33,6 +33,9 @@ Height: 0.4 m · Weight: 5.8 kg · Base EXP: 58
 
 **Evolution Paths**
 - Gothita → Gothorita (Lv 32) → Gothitelle (Lv 41)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +91,9 @@ Height: 0.7 m · Weight: 18.0 kg · Base EXP: 137
 
 **Evolution Paths**
 - Gothita → Gothorita (Lv 32) → Gothitelle (Lv 41)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -143,6 +149,9 @@ Height: 1.5 m · Weight: 44.0 kg · Base EXP: 221
 
 **Evolution Paths**
 - Gothita → Gothorita (Lv 32) → Gothitelle (Lv 41)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

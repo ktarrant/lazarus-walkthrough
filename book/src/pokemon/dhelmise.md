@@ -28,6 +28,11 @@ Height: 3.9 m · Weight: 210.0 kg · Base EXP: 181
 
 **Evolution Paths**
 - Dhelmise
+
+**Encounter Locations**
+- Davosi Straits — Surfing (5%)
+- Palati City — Fishing (5%)
+- Pollen Road — Surfing (5%)
 </div>
 <div class="card-column">
 **Base Stats**

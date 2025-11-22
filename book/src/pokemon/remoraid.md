@@ -32,6 +32,28 @@ Height: 0.6 m · Weight: 12.0 kg · Base EXP: 60
 
 **Evolution Paths**
 - Remoraid → Octillery (Lv 25)
+
+**Encounter Locations**
+- Acrisia City — Fishing (40%)
+- Acrisia City — Surfing (30%)
+- Acrisia Mountains — Fishing (40%)
+- Acrisia Mountains — Surfing (30%)
+- Davosi Straits — Fishing (30%)
+- Davosi Straits — Fishing (20%)
+- Erinys Path (East) — Fishing (40%)
+- Fresco Isles — Surfing (5%)
+- Froslass Cavern BF2 — Fishing (40%)
+- Kalami City — Fishing (40%)
+- Pollen Road — Fishing (30%)
+- Pollen Road — Fishing (20%)
+- Pythios Cemetery — Surfing (30%)
+- Pythios Town — Fishing (40%)
+- Riverwalk Trail (South) — Fishing (40%)
+- Riverwalk Trail (West) — Fishing (40%)
+- Riverwalk Trail (West) — Surfing (10%)
+- Sea of Vulcai — Surfing (5%)
+- Sea of Vulcai — Underwater (20%)
+- Wanderer's Woods (North) — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +110,11 @@ Height: 0.9 m · Weight: 28.5 kg · Base EXP: 168
 
 **Evolution Paths**
 - Remoraid → Octillery (Lv 25)
+
+**Encounter Locations**
+- Davosi Straits — Fishing (40%)
+- Pollen Road — Fishing (40%)
+- Sea of Vulcai — Surfing (5%)
 </div>
 <div class="card-column">
 **Base Stats**

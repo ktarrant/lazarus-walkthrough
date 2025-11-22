@@ -32,6 +32,11 @@ Height: 0.4 m · Weight: 19.2 kg · Base EXP: 66
 
 **Evolution Paths**
 - Stunky → Skuntank (Lv 34)
+
+**Encounter Locations**
+- Asfal Hills — Grass (Night) (6%)
+- Kipos Town — Grass (Night) (20%)
+- Pythios Cemetery — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +93,9 @@ Height: 1.0 m · Weight: 38.0 kg · Base EXP: 168
 
 **Evolution Paths**
 - Stunky → Skuntank (Lv 34)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

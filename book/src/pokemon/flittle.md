@@ -31,6 +31,12 @@ Height: 0.2 m · Weight: 1.5 kg · Base EXP: 51
 
 **Evolution Paths**
 - Flittle → Espathra (Lv 35)
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Day) (20%)
+- Acrisia Mountains (Peak) — Grass (Night) (20%)
+- Pythios Town — Grass (Day) (10%)
+- Pythios Town — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -86,6 +92,10 @@ Height: 1.9 m · Weight: 90.0 kg · Base EXP: 168
 
 **Evolution Paths**
 - Flittle → Espathra (Lv 35)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Night) (10%)
+- Pollen Road — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -35,6 +35,11 @@ Height: 0.4 m · Weight: 2.1 kg · Base EXP: 65
 
 **Evolution Paths**
 - Woobat → Swoobat (Friendship 160)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (10%)
+- Acrisia Mountains — Grass (Night) (10%)
+- Jusmail Town — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

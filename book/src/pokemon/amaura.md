@@ -35,6 +35,11 @@ Height: 1.3 m · Weight: 25.2 kg · Base EXP: 72
 
 **Evolution Paths**
 - Amaura → Aurorus (Lv 39)
+
+**Encounter Locations**
+- Froslass Cavern BF1 — Grass (Day) (2%)
+- Froslass Cavern BF2 — Grass (Day) (2%)
+- Froslass Cavern F1 — Grass (Day) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -34,6 +34,16 @@ Height: 0.8 m · Weight: 39.5 kg · Base EXP: 58
 
 **Evolution Paths**
 - Spheal → Sealeo (Lv 32) → Walrein (Lv 44)
+
+**Encounter Locations**
+- Erinys Path (East) — Fishing (20%)
+- Erinys Path (East) — Surfing (60%)
+- Froslass Cavern BF1 — Grass (Day) (10%)
+- Froslass Cavern BF2 — Grass (Day) (10%)
+- Froslass Cavern BF2 — Surfing (30%)
+- Froslass Cavern F1 — Grass (Day) (10%)
+- Pythios Town — Fishing (20%)
+- Pythios Town — Surfing (60%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +100,11 @@ Height: 1.1 m · Weight: 87.6 kg · Base EXP: 144
 
 **Evolution Paths**
 - Spheal → Sealeo (Lv 32) → Walrein (Lv 44)
+
+**Encounter Locations**
+- Froslass Cavern BF2 — Surfing (9%)
+- Péntepetal City — Fishing (20%)
+- Péntepetal City — Surfing (60%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -37,6 +37,9 @@ Height: 0.6 m · Weight: 10.8 kg · Base EXP: 66
 
 **Evolution Paths**
 - Houndour → Houndoom (Lv 24)
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -98,6 +101,10 @@ Height: 1.4 m · Weight: 35.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Houndour → Houndoom (Lv 24)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (20%)
+- Areios Hideout — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

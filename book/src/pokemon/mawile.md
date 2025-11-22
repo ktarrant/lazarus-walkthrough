@@ -32,6 +32,13 @@ Height: 0.6 m · Weight: 11.5 kg · Base EXP: 133
 
 **Evolution Paths**
 - Mawile
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (5%)
+- Acrisia Mountains — Grass (Night) (5%)
+- Péntepetal City — Grass (Day) (10%)
+- Péntepetal City — Grass (Night) (10%)
+- Tower of Dioxippus — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

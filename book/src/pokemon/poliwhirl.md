@@ -37,6 +37,18 @@ Height: 0.6 m · Weight: 12.4 kg · Base EXP: 60
 **Evolution Paths**
 - Poliwag → Poliwhirl (Lv 25) → Poliwrath (Use Water Stone)
 - Poliwag → Poliwhirl (Lv 25) → Politoed (Hold Kings Rock)
+
+**Encounter Locations**
+- Acrisia City — Fishing (60%)
+- Acrisia City — Grass (Day) (10%)
+- Acrisia City — Grass (Night) (10%)
+- Acrisia Mountains — Fishing (60%)
+- Erinys Path (East) — Fishing (60%)
+- Pythios Town — Fishing (60%)
+- Riverwalk Trail (West) — Fishing (30%)
+- Wanderer's Woods (North) — Fishing (60%)
+- Wanderer's Woods (North) — Grass (Day) (5%)
+- Wanderer's Woods (North) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +106,11 @@ Height: 1.0 m · Weight: 20.0 kg · Base EXP: 135
 **Evolution Paths**
 - Poliwag → Poliwhirl (Lv 25) → Poliwrath (Use Water Stone)
 - Poliwag → Poliwhirl (Lv 25) → Politoed (Hold Kings Rock)
+
+**Encounter Locations**
+- Froslass Cavern BF2 — Fishing (60%)
+- Pythios Cemetery — Fishing (40%)
+- Péntepetal City — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -35,6 +35,10 @@ Height: 0.4 m · Weight: 5.5 kg · Base EXP: 53
 
 **Evolution Paths**
 - Impidimp → Morgrem (Lv 32) → Grimmsnarl (Lv 42)
+
+**Encounter Locations**
+- Wanderer's Woods (North) — Grass (Night) (20%)
+- Wanderer's Woods (South) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +96,11 @@ Height: 0.8 m · Weight: 12.5 kg · Base EXP: 130
 
 **Evolution Paths**
 - Impidimp → Morgrem (Lv 32) → Grimmsnarl (Lv 42)
+
+**Encounter Locations**
+- Kaptara Island (West) — Grass (Day) (10%)
+- Kaptara Island (West) — Grass (Night) (10%)
+- Port Pello — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -149,6 +158,9 @@ Height: 1.5 m · Weight: 61.0 kg · Base EXP: 255
 
 **Evolution Paths**
 - Impidimp → Morgrem (Lv 32) → Grimmsnarl (Lv 42)
+
+**Encounter Locations**
+- Port Pello — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

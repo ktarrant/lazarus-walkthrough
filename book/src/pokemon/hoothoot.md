@@ -33,6 +33,11 @@ Height: 0.7 m · Weight: 21.2 kg · Base EXP: 52
 
 **Evolution Paths**
 - Hoothoot → Noctowl (Lv 20)
+
+**Encounter Locations**
+- Acrisia City — Grass (Night) (20%)
+- Bronze Fields (North) — Grass (Night) (20%)
+- Pythios Town — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +95,10 @@ Height: 1.6 m · Weight: 40.8 kg · Base EXP: 158
 
 **Evolution Paths**
 - Hoothoot → Noctowl (Lv 20)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Night) (10%)
+- Sofos City — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

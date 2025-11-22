@@ -30,6 +30,13 @@ Height: 0.4 m · Weight: 4.1 kg · Base EXP: 55
 
 **Evolution Paths**
 - Lillipup → Herdier (Lv 16) → Stoutland (Lv 32)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Day) (20%)
+- Bronze Fields (North) — Grass (Night) (20%)
+- Bronze Fields (South) — Grass (Day) (20%)
+- Bronze Fields (South) — Grass (Night) (20%)
+- Kalami City — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -28,6 +28,12 @@ Height: 1.3 m · Weight: 79.0 kg · Base EXP: 158
 
 **Evolution Paths**
 - Klawf
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (2%)
+- Acrisia Mountains — Grass (Night) (10%)
+- Palati City — Grass (Day) (20%)
+- Palati City — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -36,6 +36,10 @@ Height: 0.5 m · Weight: 7.9 kg · Base EXP: 62
 
 **Evolution Paths**
 - Cyndaquil → Quilava (Lv 14) → Typhlosion (Lv 36)
+
+**Encounter Locations**
+- Pythios Cemetery — Grass (Day) (2%)
+- Pythios Cemetery — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

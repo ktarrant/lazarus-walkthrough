@@ -31,6 +31,10 @@ Height: 0.6 m · Weight: 13.5 kg · Base EXP: 63
 
 **Evolution Paths**
 - Panpour → Simipour (Use Water Stone)
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (5%)
+- Acrisia City — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

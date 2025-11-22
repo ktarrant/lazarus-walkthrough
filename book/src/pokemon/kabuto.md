@@ -35,6 +35,10 @@ Height: 0.5 m · Weight: 11.5 kg · Base EXP: 71
 
 **Evolution Paths**
 - Kabuto → Kabutops (Lv 40)
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Day) (10%)
+- Erinys Path (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

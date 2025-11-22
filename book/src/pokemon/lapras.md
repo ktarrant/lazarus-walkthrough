@@ -25,6 +25,11 @@ Height: 2.5 m · Weight: 220.0 kg · Base EXP: 187
 
 **Evolution Paths**
 - Lapras
+
+**Encounter Locations**
+- Froslass Cavern BF2 — Surfing (1%)
+- Péntepetal City — Fishing (5%)
+- Péntepetal City — Surfing (1%)
 </div>
 <div class="card-column">
 **Base Stats**

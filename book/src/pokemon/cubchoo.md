@@ -31,6 +31,10 @@ Height: 0.5 m · Weight: 8.5 kg · Base EXP: 61
 
 **Evolution Paths**
 - Cubchoo → Beartic (Lv 37)
+
+**Encounter Locations**
+- Froslass Cavern BF2 — Grass (Day) (10%)
+- Riverwalk Trail (West) — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -37,6 +37,11 @@ Height: 0.1 m · Weight: 0.2 kg · Base EXP: 61
 
 **Evolution Paths**
 - Cutiefly → Ribombee (Lv 25)
+
+**Encounter Locations**
+- Bronze Fields (South) — Grass (Day) (10%)
+- Jusmail Town — Grass (Day) (20%)
+- Riverwalk Trail (West) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -98,6 +103,10 @@ Height: 0.2 m · Weight: 0.5 kg · Base EXP: 162
 
 **Evolution Paths**
 - Cutiefly → Ribombee (Lv 25)
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (10%)
+- Port Pello — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

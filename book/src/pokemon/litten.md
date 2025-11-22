@@ -36,6 +36,9 @@ Height: 0.4 m · Weight: 4.3 kg · Base EXP: 64
 
 **Evolution Paths**
 - Litten → Torracat (Lv 17) → Incineroar (Lv 34)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

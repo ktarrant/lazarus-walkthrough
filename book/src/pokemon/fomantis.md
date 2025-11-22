@@ -34,6 +34,14 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 50
 
 **Evolution Paths**
 - Fomantis → Lurantis (Lv 34)
+
+**Encounter Locations**
+- Bronze Fields (South) — Grass (Day) (10%)
+- Erinys Path (East) — Grass (Night) (20%)
+- Kaptara Island (West) — Grass (Day) (20%)
+- Kaptara Island (West) — Grass (Night) (20%)
+- Sea of Asteri (West) — Grass (Day) (20%)
+- Sea of Asteri (West) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +100,12 @@ Height: 0.9 m · Weight: 18.5 kg · Base EXP: 168
 
 **Evolution Paths**
 - Fomantis → Lurantis (Lv 34)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (8%)
+- Kaptara Island (West) — Grass (Day) (5%)
+- Kaptara Island (West) — Grass (Night) (5%)
+- Nyx Trails — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

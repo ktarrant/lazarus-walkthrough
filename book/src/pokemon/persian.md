@@ -31,6 +31,10 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 **Evolution Paths**
 - Meowth → Persian (Lv 28)
 - Meowth → Perrserker (Lv 28)
+
+**Encounter Locations**
+- Kalami City — Grass (Day) (5%)
+- Pythios Town — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -84,6 +88,9 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
 **Evolution Paths**
 - Meowth → Persian (Lv 28)
 - Meowth → Perrserker (Lv 28)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -149,6 +156,12 @@ Height: 0.8 m · Weight: 28.0 kg · Base EXP: 154
 **Evolution Paths**
 - Meowth → Persian (Lv 28)
 - Meowth → Perrserker (Lv 28)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Day) (5%)
+- Kaptara Island (East) — Grass (Night) (5%)
+- Nyx Trails — Grass (Day) (10%)
+- Nyx Trails — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

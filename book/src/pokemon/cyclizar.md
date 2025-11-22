@@ -27,6 +27,12 @@ Height: 1.6 m · Weight: 63.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Cyclizar
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (4%)
+- Fresco Isles — Grass (Night) (4%)
+- Lastlight Road — Grass (Day) (5%)
+- Lastlight Road — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

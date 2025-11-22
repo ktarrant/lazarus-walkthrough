@@ -32,6 +32,13 @@ Height: 0.6 m · Weight: 11.5 kg · Base EXP: 62
 
 **Evolution Paths**
 - Corphish → Crawdaunt (Lv 30)
+
+**Encounter Locations**
+- Erinys Path (East) — Fishing (20%)
+- Pythios Town — Fishing (30%)
+- Sea of Asteri (East) — Underwater (10%)
+- Sofos City — Grass (Day) (8%)
+- Sofos City — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +101,10 @@ Height: 1.1 m · Weight: 32.8 kg · Base EXP: 164
 
 **Evolution Paths**
 - Corphish → Crawdaunt (Lv 30)
+
+**Encounter Locations**
+- Wakewater Isle — Grass (Day) (4%)
+- Wakewater Isle — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

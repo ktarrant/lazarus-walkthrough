@@ -31,6 +31,12 @@ Height: 0.6 m · Weight: 23.3 kg · Base EXP: 58
 
 **Evolution Paths**
 - Munna → Musharna (Use Moon Stone)
+
+**Encounter Locations**
+- Acrisia City — Grass (Night) (10%)
+- Corrin Crossing — Grass (Night) (20%)
+- Palati City — Grass (Night) (10%)
+- Wanderer's Woods (South) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -86,6 +92,9 @@ Height: 1.1 m · Weight: 60.5 kg · Base EXP: 170
 
 **Evolution Paths**
 - Munna → Musharna (Use Moon Stone)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

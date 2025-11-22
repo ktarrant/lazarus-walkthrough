@@ -32,6 +32,10 @@ Height: 0.7 m · Weight: 42.0 kg · Base EXP: 65
 
 **Evolution Paths**
 - Grimer → Muk (Lv 38)
+
+**Encounter Locations**
+- Acrisia City — Grass (Night) (5%)
+- Péntepetal City — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +92,9 @@ Height: 1.0 m · Weight: 52.0 kg · Base EXP: 175
 
 **Evolution Paths**
 - Grimer → Muk (Lv 38)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

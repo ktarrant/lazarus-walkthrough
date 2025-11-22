@@ -28,6 +28,10 @@ Height: 0.8 m · Weight: 11.5 kg · Base EXP: 72
 
 **Evolution Paths**
 - Aipom → Ambipom (Learn Double Hit)
+
+**Encounter Locations**
+- Wanderer's Woods (North) — Grass (Day) (20%)
+- Wanderer's Woods (South) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

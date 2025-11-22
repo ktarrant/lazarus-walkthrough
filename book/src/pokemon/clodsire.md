@@ -35,6 +35,15 @@ Height: 0.4 m · Weight: 8.5 kg · Base EXP: 42
 **Evolution Paths**
 - Wooper → Quagsire (Lv 20)
 - Wooper → Clodsire (Lv 20)
+
+**Encounter Locations**
+- Acrisia City — Fishing (40%)
+- Acrisia Mountains — Fishing (40%)
+- Riverwalk Trail (South) — Grass (Day) (20%)
+- Riverwalk Trail (South) — Grass (Night) (20%)
+- Wanderer's Woods (North) — Fishing (40%)
+- Wanderer's Woods (North) — Grass (Day) (10%)
+- Wanderer's Woods (South) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -92,6 +101,10 @@ Height: 1.4 m · Weight: 75.0 kg · Base EXP: 151
 **Evolution Paths**
 - Wooper → Quagsire (Lv 20)
 - Wooper → Clodsire (Lv 20)
+
+**Encounter Locations**
+- Kalami City — Fishing (20%)
+- Palati City — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -153,6 +166,9 @@ Height: 1.8 m · Weight: 223.0 kg · Base EXP: 151
 **Evolution Paths**
 - Wooper → Quagsire (Lv 20)
 - Wooper → Clodsire (Lv 20)
+
+**Encounter Locations**
+- Palati City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

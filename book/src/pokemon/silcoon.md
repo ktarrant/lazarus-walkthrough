@@ -38,6 +38,12 @@ Height: 0.3 m · Weight: 3.6 kg · Base EXP: 56
 **Evolution Paths**
 - Wurmple → Silcoon (Lv 7) → Beautifly (Lv 10)
 - Wurmple → Cascoon (Lv 7) → Dustox (Lv 10)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Day) (20%)
+- Jusmail Town — Grass (Night) (20%)
+- Riverwalk Trail (South) — Grass (Day) (10%)
+- Riverwalk Trail (South) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -91,6 +97,9 @@ Height: 0.6 m · Weight: 10.0 kg · Base EXP: 72
 **Evolution Paths**
 - Wurmple → Silcoon (Lv 7) → Beautifly (Lv 10)
 - Wurmple → Cascoon (Lv 7) → Dustox (Lv 10)
+
+**Encounter Locations**
+- Riverwalk Trail (South) — Grass (Day) (8%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -147,6 +156,10 @@ Height: 1.0 m · Weight: 28.4 kg · Base EXP: 178
 **Evolution Paths**
 - Wurmple → Silcoon (Lv 7) → Beautifly (Lv 10)
 - Wurmple → Cascoon (Lv 7) → Dustox (Lv 10)
+
+**Encounter Locations**
+- Kipos Town — Grass (Day) (2%)
+- Péntepetal City — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -202,6 +215,9 @@ Height: 0.7 m · Weight: 11.5 kg · Base EXP: 72
 **Evolution Paths**
 - Wurmple → Silcoon (Lv 7) → Beautifly (Lv 10)
 - Wurmple → Cascoon (Lv 7) → Dustox (Lv 10)
+
+**Encounter Locations**
+- Riverwalk Trail (South) — Grass (Night) (8%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -258,6 +274,10 @@ Height: 1.2 m · Weight: 31.6 kg · Base EXP: 173
 **Evolution Paths**
 - Wurmple → Silcoon (Lv 7) → Beautifly (Lv 10)
 - Wurmple → Cascoon (Lv 7) → Dustox (Lv 10)
+
+**Encounter Locations**
+- Kipos Town — Grass (Night) (2%)
+- Péntepetal City — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -33,6 +33,9 @@ Height: 0.5 m · Weight: 6.1 kg · Base EXP: 62
 
 **Evolution Paths**
 - Quaxly → Quaxwell (Lv 16) → Quaquaval (Lv 36)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -32,6 +32,20 @@ Height: 0.8 m · Weight: 19.6 kg · Base EXP: 64
 
 **Evolution Paths**
 - Psyduck → Golduck (Lv 33)
+
+**Encounter Locations**
+- Corrin Crossing — Fishing (60%)
+- Fresco Isles — Fishing (60%)
+- Kipos Town — Fishing (60%)
+- Marmaro Island — Fishing (60%)
+- Myrrini Island — Fishing (60%)
+- Nyx Trails — Fishing (60%)
+- Port Pello — Fishing (60%)
+- Sea of Asteri (East) — Fishing (60%)
+- Sea of Asteri (West) — Fishing (60%)
+- Sea of Vulcai — Fishing (60%)
+- Sofos City — Fishing (60%)
+- Wanderer's Woods (North) — Surfing (30%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +102,13 @@ Height: 1.7 m · Weight: 76.6 kg · Base EXP: 175
 
 **Evolution Paths**
 - Psyduck → Golduck (Lv 33)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (10%)
+- Corrin Crossing — Grass (Night) (10%)
+- Davosi Straits — Fishing (40%)
+- Kaptara Island (West) — Grass (Night) (10%)
+- Pollen Road — Fishing (40%)
 </div>
 <div class="card-column">
 **Base Stats**

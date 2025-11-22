@@ -30,6 +30,10 @@ Height: 0.5 m · Weight: 10.4 kg · Base EXP: 66
 
 **Evolution Paths**
 - Voltorb → Electrode (Lv 30)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Night) (10%)
+- Sea of Vulcai — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

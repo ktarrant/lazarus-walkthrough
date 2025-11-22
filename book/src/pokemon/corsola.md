@@ -35,6 +35,14 @@ Height: 0.6 m · Weight: 5.0 kg · Base EXP: 144
 
 **Evolution Paths**
 - Corsola → Cursola (Lv 38)
+
+**Encounter Locations**
+- Kipos Town — Fishing (15%)
+- Kipos Town — Surfing (5%)
+- Marmaro Island — Fishing (15%)
+- Marmaro Island — Surfing (5%)
+- Sofos City — Fishing (15%)
+- Sofos City — Surfing (5%)
 </div>
 <div class="card-column">
 **Base Stats**

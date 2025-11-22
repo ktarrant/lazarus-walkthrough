@@ -42,6 +42,12 @@ Height: 0.8 m · Weight: 2.0 kg · Base EXP: 65
 
 **Evolution Paths**
 - Honedge → Doublade (Lv 35) → Aegislash (Use Dusk Stone)
+
+**Encounter Locations**
+- Pythios Town — Grass (Day) (2%)
+- Pythios Town — Grass (Night) (2%)
+- Sofos City — Grass (Day) (2%)
+- Sofos City — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -106,6 +112,10 @@ Height: 0.8 m · Weight: 4.5 kg · Base EXP: 157
 
 **Evolution Paths**
 - Honedge → Doublade (Lv 35) → Aegislash (Use Dusk Stone)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Day) (2%)
+- Kaptara Island (East) — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

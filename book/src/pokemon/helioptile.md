@@ -32,6 +32,12 @@ Height: 0.5 m · Weight: 6.0 kg · Base EXP: 58
 
 **Evolution Paths**
 - Helioptile → Heliolisk (Use Sun Stone)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (5%)
+- Lastlight Road — Grass (Day) (10%)
+- Lastlight Road — Grass (Night) (10%)
+- Sofos City — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

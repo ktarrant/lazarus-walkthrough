@@ -37,6 +37,11 @@ Height: 0.4 m · Weight: 0.5 kg · Base EXP: 50
 
 **Evolution Paths**
 - Hoppip → Skiploom (Lv 18) → Jumpluff (Lv 27)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Day) (10%)
+- Bronze Fields (North) — Grass (Night) (10%)
+- Bronze Fields (South) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -96,6 +101,11 @@ Height: 0.6 m · Weight: 1.0 kg · Base EXP: 119
 
 **Evolution Paths**
 - Hoppip → Skiploom (Lv 18) → Jumpluff (Lv 27)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Day) (20%)
+- Pollen Road — Grass (Day) (20%)
+- Pollen Road — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

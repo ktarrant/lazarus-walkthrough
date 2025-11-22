@@ -35,6 +35,10 @@ Height: 0.5 m · Weight: 8.5 kg · Base EXP: 50
 
 **Evolution Paths**
 - Spinarak → Ariados (Lv 22)
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Night) (20%)
+- Erinys Path (East) — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -94,6 +98,9 @@ Height: 1.1 m · Weight: 33.5 kg · Base EXP: 140
 
 **Evolution Paths**
 - Spinarak → Ariados (Lv 22)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

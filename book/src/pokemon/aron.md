@@ -40,6 +40,12 @@ Height: 0.4 m · Weight: 60.0 kg · Base EXP: 66
 
 **Evolution Paths**
 - Aron → Lairon (Lv 32) → Aggron (Lv 42)
+
+**Encounter Locations**
+- Acrisia Mountains — Grass (Day) (8%)
+- Marmaro Island — Grass (Night) (10%)
+- Riverwalk Trail (West) — Grass (Day) (20%)
+- Riverwalk Trail (West) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

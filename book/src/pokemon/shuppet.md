@@ -32,6 +32,11 @@ Height: 0.6 m · Weight: 2.3 kg · Base EXP: 59
 
 **Evolution Paths**
 - Shuppet → Banette (Lv 37)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Night) (10%)
+- Pythios Cemetery — Grass (Day) (8%)
+- Wanderer's Woods (North) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -88,6 +93,10 @@ Height: 1.1 m · Weight: 12.5 kg · Base EXP: 159
 
 **Evolution Paths**
 - Shuppet → Banette (Lv 37)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (4%)
+- Nyx Trails — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**

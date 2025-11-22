@@ -33,6 +33,12 @@ Height: 2.0 m · Weight: 6.9 kg · Base EXP: 58
 
 **Evolution Paths**
 - Ekans → Arbok (Lv 22)
+
+**Encounter Locations**
+- Pythios Cemetery — Grass (Night) (20%)
+- Riverwalk Trail (South) — Grass (Day) (10%)
+- Riverwalk Trail (South) — Grass (Night) (10%)
+- Sea of Asteri (West) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +96,9 @@ Height: 3.5 m · Weight: 65.0 kg · Base EXP: 157
 
 **Evolution Paths**
 - Ekans → Arbok (Lv 22)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

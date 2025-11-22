@@ -33,6 +33,10 @@ Height: 0.5 m · Weight: 10.5 kg · Base EXP: 70
 
 **Evolution Paths**
 - Rufflet → Braviary (Lv 54)
+
+**Encounter Locations**
+- Pythios Town — Grass (Day) (20%)
+- Sea of Asteri (East) — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +94,10 @@ Height: 1.5 m · Weight: 41.0 kg · Base EXP: 179
 
 **Evolution Paths**
 - Rufflet → Braviary (Lv 54)
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (10%)
+- Pollen Road — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

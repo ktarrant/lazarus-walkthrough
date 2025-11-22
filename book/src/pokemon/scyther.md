@@ -38,6 +38,16 @@ Height: 1.5 m · Weight: 56.0 kg · Base EXP: 100
 **Evolution Paths**
 - Scyther → Scizor (Hold Metal Coat)
 - Scyther → Kleavor (Use Black Augurite)
+
+**Encounter Locations**
+- Sea of Asteri (West) — Grass (Day) (8%)
+- Sea of Asteri (West) — Grass (Night) (4%)
+- Sea of Vulcai — Grass (Day) (20%)
+- Sea of Vulcai — Grass (Night) (20%)
+- Wakewater Isle — Grass (Day) (5%)
+- Wakewater Isle — Grass (Night) (5%)
+- Wanderer's Woods (South) — Grass (Day) (2%)
+- Wanderer's Woods (South) — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

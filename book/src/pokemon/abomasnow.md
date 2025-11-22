@@ -36,6 +36,12 @@ Height: 1.0 m · Weight: 50.5 kg · Base EXP: 67
 
 **Evolution Paths**
 - Snover → Abomasnow (Lv 40)
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Day) (10%)
+- Acrisia Mountains (Peak) — Grass (Night) (10%)
+- Nyx Trails — Grass (Day) (20%)
+- Nyx Trails — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -96,6 +102,10 @@ Height: 2.2 m · Weight: 135.5 kg · Base EXP: 173
 
 **Evolution Paths**
 - Snover → Abomasnow (Lv 40)
+
+**Encounter Locations**
+- Nyx Trails — Grass (Day) (5%)
+- Nyx Trails — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -39,6 +39,9 @@ Height: 0.9 m · Weight: 28.0 kg · Base EXP: 86
 **Evolution Paths**
 - Sneasel → Weavile (Hold Razor Claw)
 - Sneasel → Sneasler (Hold Razor Claw)
+
+**Encounter Locations**
+- Froslass Cavern F1 — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

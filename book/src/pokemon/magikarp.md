@@ -31,6 +31,33 @@ Height: 0.9 m · Weight: 10.0 kg · Base EXP: 40
 
 **Evolution Paths**
 - Magikarp → Gyarados (Lv 20)
+
+**Encounter Locations**
+- Acrisia City — Fishing (70%)
+- Acrisia Mountains — Fishing (70%)
+- Corrin Crossing — Fishing (70%)
+- Davosi Straits — Fishing (70%)
+- Erinys Path (East) — Fishing (70%)
+- Fresco Isles — Fishing (70%)
+- Froslass Cavern BF2 — Fishing (70%)
+- Kalami City — Fishing (70%)
+- Marmaro Island — Fishing (70%)
+- Myrrini Island — Fishing (70%)
+- Nyx Trails — Fishing (70%)
+- Palati City — Fishing (70%)
+- Pollen Road — Fishing (70%)
+- Port Pello — Fishing (70%)
+- Pythios Cemetery — Fishing (70%)
+- Pythios Town — Fishing (70%)
+- Péntepetal City — Fishing (70%)
+- Riverwalk Trail (South) — Fishing (70%)
+- Riverwalk Trail (West) — Fishing (70%)
+- Sea of Asteri (East) — Fishing (70%)
+- Sea of Asteri (West) — Fishing (70%)
+- Sea of Asteri (West) — Underwater (10%)
+- Sea of Vulcai — Fishing (70%)
+- Sofos City — Fishing (70%)
+- Wanderer's Woods (North) — Fishing (70%)
 </div>
 <div class="card-column">
 **Base Stats**

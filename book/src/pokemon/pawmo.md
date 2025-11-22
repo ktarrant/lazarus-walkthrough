@@ -32,6 +32,10 @@ Height: 0.3 m · Weight: 2.5 kg · Base EXP: 48
 
 **Evolution Paths**
 - Pawmi → Pawmo (Lv 18) → Pawmot (Other)
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (15%)
+- Asfal Hills — Grass (Night) (15%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +94,10 @@ Height: 0.4 m · Weight: 6.5 kg · Base EXP: 123
 
 **Evolution Paths**
 - Pawmi → Pawmo (Lv 18) → Pawmot (Other)
+
+**Encounter Locations**
+- Palati City — Grass (Day) (10%)
+- Péntepetal City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -40,6 +40,11 @@ Height: 0.7 m · Weight: 15.2 kg · Base EXP: 58
 
 **Evolution Paths**
 - Sandile → Krokorok (Lv 29) → Krookodile (Lv 40)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (20%)
+- Riverwalk Trail (West) — Grass (Day) (5%)
+- Riverwalk Trail (West) — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -102,6 +107,9 @@ Height: 1.0 m · Weight: 33.4 kg · Base EXP: 123
 
 **Evolution Paths**
 - Sandile → Krokorok (Lv 29) → Krookodile (Lv 40)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

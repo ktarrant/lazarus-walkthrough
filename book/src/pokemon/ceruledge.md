@@ -37,6 +37,11 @@ Height: 0.6 m · Weight: 10.5 kg · Base EXP: 51
 **Evolution Paths**
 - Charcadet → Armarouge (Use Auspicious Armor)
 - Charcadet → Ceruledge (Use Malicious Armor)
+
+**Encounter Locations**
+- Sea of Asteri (East) — Grass (Day) (5%)
+- Sea of Vulcai — Grass (Day) (10%)
+- Sea of Vulcai — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -99,6 +104,9 @@ Height: 1.5 m · Weight: 85.0 kg · Base EXP: 263
 **Evolution Paths**
 - Charcadet → Armarouge (Use Auspicious Armor)
 - Charcadet → Ceruledge (Use Malicious Armor)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Day) (2%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -163,6 +171,9 @@ Height: 1.6 m · Weight: 62.0 kg · Base EXP: 263
 **Evolution Paths**
 - Charcadet → Armarouge (Use Auspicious Armor)
 - Charcadet → Ceruledge (Use Malicious Armor)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Night) (2%)
 </div>
 <div class="card-column">
 **Base Stats**

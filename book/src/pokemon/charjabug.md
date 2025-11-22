@@ -32,6 +32,12 @@ Height: 0.4 m · Weight: 4.4 kg · Base EXP: 60
 
 **Evolution Paths**
 - Grubbin → Charjabug (Lv 20) → Vikavolt (Level Up)
+
+**Encounter Locations**
+- Bronze Fields (North) — Grass (Day) (10%)
+- Bronze Fields (North) — Grass (Night) (10%)
+- Bronze Fields (South) — Grass (Day) (4%)
+- Bronze Fields (South) — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -86,6 +92,13 @@ Height: 0.5 m · Weight: 10.5 kg · Base EXP: 140
 
 **Evolution Paths**
 - Grubbin → Charjabug (Lv 20) → Vikavolt (Level Up)
+
+**Encounter Locations**
+- Kaptara Island (East) — Grass (Day) (20%)
+- Kaptara Island (East) — Grass (Night) (20%)
+- Pollen Road — Grass (Night) (10%)
+- Sea of Asteri (East) — Grass (Day) (10%)
+- Sea of Asteri (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

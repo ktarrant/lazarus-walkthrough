@@ -88,6 +88,11 @@ Height: 0.2 m · Weight: 0.9 kg · Base EXP: 130
 
 **Evolution Paths**
 - Flabebe → Floette (Lv 19) → Florges (Use Shiny Stone)
+
+**Encounter Locations**
+- Port Pello — Grass (Night) (20%)
+- Péntepetal City — Grass (Day) (20%)
+- Péntepetal City — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -143,6 +148,9 @@ Height: 1.1 m · Weight: 10.0 kg · Base EXP: 248
 
 **Evolution Paths**
 - Flabebe → Floette (Lv 19) → Florges (Use Shiny Stone)
+
+**Encounter Locations**
+- Port Pello — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**

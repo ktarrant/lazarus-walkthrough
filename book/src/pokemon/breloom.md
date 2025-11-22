@@ -35,6 +35,12 @@ Height: 0.4 m · Weight: 4.5 kg · Base EXP: 59
 
 **Evolution Paths**
 - Shroomish → Breloom (Lv 23)
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (10%)
+- Acrisia City — Grass (Night) (10%)
+- Wanderer's Woods (North) — Grass (Day) (20%)
+- Wanderer's Woods (North) — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -97,6 +103,11 @@ Height: 1.2 m · Weight: 39.2 kg · Base EXP: 161
 
 **Evolution Paths**
 - Shroomish → Breloom (Lv 23)
+
+**Encounter Locations**
+- Lastlight Road — Grass (Day) (5%)
+- Lastlight Road — Grass (Night) (5%)
+- Nyx Trails — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

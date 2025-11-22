@@ -35,6 +35,10 @@ Height: 0.7 m · Weight: 19.0 kg · Base EXP: 70
 
 **Evolution Paths**
 - Growlithe → Arcanine (Use Fire Stone)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Day) (4%)
+- Marmaro Island — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

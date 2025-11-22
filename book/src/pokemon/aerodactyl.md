@@ -30,6 +30,10 @@ Height: 1.8 m · Weight: 59.0 kg · Base EXP: 180
 
 **Evolution Paths**
 - Aerodactyl
+
+**Encounter Locations**
+- Corrin Crossing — Grass (Day) (10%)
+- Corrin Crossing — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

@@ -34,6 +34,13 @@ Height: 1.8 m · Weight: 3.3 kg · Base EXP: 60
 
 **Evolution Paths**
 - Dratini → Dragonair (Lv 30) → Dragonite (Lv 55)
+
+**Encounter Locations**
+- Fresco Isles — Fishing (5%)
+- Fresco Isles — Surfing (5%)
+- Pythios Cemetery — Fishing (20%)
+- Pythios Cemetery — Fishing (15%)
+- Péntepetal City — Surfing (9%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +97,11 @@ Height: 4.0 m · Weight: 16.5 kg · Base EXP: 147
 
 **Evolution Paths**
 - Dratini → Dragonair (Lv 30) → Dragonite (Lv 55)
+
+**Encounter Locations**
+- Davosi Straits — Surfing (5%)
+- Pollen Road — Surfing (5%)
+- Pythios Cemetery — Fishing (5%)
 </div>
 <div class="card-column">
 **Base Stats**

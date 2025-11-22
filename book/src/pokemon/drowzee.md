@@ -31,6 +31,11 @@ Height: 1.0 m · Weight: 32.4 kg · Base EXP: 66
 
 **Evolution Paths**
 - Drowzee → Hypno (Lv 26)
+
+**Encounter Locations**
+- Myrrini Island — Grass (Night) (20%)
+- Pythios Town — Grass (Day) (10%)
+- Pythios Town — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

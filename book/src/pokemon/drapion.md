@@ -35,6 +35,11 @@ Height: 0.8 m · Weight: 12.0 kg · Base EXP: 66
 
 **Evolution Paths**
 - Skorupi → Drapion (Lv 40)
+
+**Encounter Locations**
+- Erinys Path (East) — Grass (Night) (10%)
+- Fresco Isles — Grass (Day) (4%)
+- Fresco Isles — Grass (Night) (4%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -91,6 +96,9 @@ Height: 1.3 m · Weight: 61.5 kg · Base EXP: 175
 
 **Evolution Paths**
 - Skorupi → Drapion (Lv 40)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

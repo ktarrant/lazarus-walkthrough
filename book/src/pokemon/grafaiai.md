@@ -33,6 +33,11 @@ Height: 0.2 m · Weight: 0.7 kg · Base EXP: 58
 
 **Evolution Paths**
 - Shroodle → Grafaiai (Lv 28)
+
+**Encounter Locations**
+- Asfal Hills — Grass (Night) (5%)
+- Kalami City — Grass (Day) (9%)
+- Kalami City — Grass (Night) (9%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +95,9 @@ Height: 0.7 m · Weight: 27.2 kg · Base EXP: 170
 
 **Evolution Paths**
 - Shroodle → Grafaiai (Lv 28)
+
+**Encounter Locations**
+- Palati City — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

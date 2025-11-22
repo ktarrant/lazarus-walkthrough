@@ -33,6 +33,13 @@ Height: 1.4 m · Weight: 39.2 kg · Base EXP: 62
 
 **Evolution Paths**
 - Doduo → Dodrio (Lv 31)
+
+**Encounter Locations**
+- Fresco Isles — Grass (Day) (10%)
+- Fresco Isles — Grass (Night) (10%)
+- Kipos Town — Grass (Day) (5%)
+- Kipos Town — Grass (Night) (5%)
+- Pythios Town — Grass (Day) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -90,6 +97,11 @@ Height: 1.8 m · Weight: 85.2 kg · Base EXP: 165
 
 **Evolution Paths**
 - Doduo → Dodrio (Lv 31)
+
+**Encounter Locations**
+- Pollen Road — Grass (Day) (5%)
+- Wakewater Isle — Grass (Day) (10%)
+- Wakewater Isle — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

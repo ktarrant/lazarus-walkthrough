@@ -30,6 +30,14 @@ Height: 0.6 m · Weight: 11.2 kg · Base EXP: 56
 
 **Evolution Paths**
 - Meditite → Medicham (Lv 37)
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (10%)
+- Marmaro Island — Grass (Night) (10%)
+- Myrrini Island — Grass (Day) (20%)
+- Myrrini Island — Grass (Night) (20%)
+- Riverwalk Trail (West) — Grass (Day) (10%)
+- Riverwalk Trail (West) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

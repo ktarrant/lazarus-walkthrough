@@ -34,6 +34,11 @@ Height: 0.3 m · Weight: 1.5 kg · Base EXP: 49
 
 **Evolution Paths**
 - Togepi → Togetic (Friendship 160) → Togekiss (Use Shiny Stone)
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (2%)
+- Erinys Path (West) — Grass (Night) (2%)
+- Sea of Asteri (East) — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -95,6 +100,9 @@ Height: 0.6 m · Weight: 3.2 kg · Base EXP: 142
 
 **Evolution Paths**
 - Togepi → Togetic (Friendship 160) → Togekiss (Use Shiny Stone)
+
+**Encounter Locations**
+- Port Pello — Grass (Day) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

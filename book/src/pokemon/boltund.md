@@ -29,6 +29,12 @@ Height: 0.3 m · Weight: 13.5 kg · Base EXP: 54
 
 **Evolution Paths**
 - Yamper → Boltund (Lv 25)
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (10%)
+- Asfal Hills — Grass (Night) (10%)
+- Bronze Fields (South) — Grass (Night) (5%)
+- Riverwalk Trail (West) — Grass (Day) (8%)
 </div>
 <div class="card-column">
 **Base Stats**
@@ -82,6 +88,10 @@ Height: 1.0 m · Weight: 34.0 kg · Base EXP: 172
 
 **Evolution Paths**
 - Yamper → Boltund (Lv 25)
+
+**Encounter Locations**
+- Areios Hideout — Grass (Day) (10%)
+- Areios Hideout — Grass (Night) (10%)
 </div>
 <div class="card-column">
 **Base Stats**

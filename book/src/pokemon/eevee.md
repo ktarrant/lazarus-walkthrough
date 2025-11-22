@@ -49,6 +49,12 @@ Height: 0.3 m · Weight: 6.5 kg · Base EXP: 65
 - Eevee → Leafeon (Level at Eterna Forest)
 - Eevee → Glaceon (Level at Sinnoh Route 217)
 - Eevee → Sylveon (Fairy move)
+
+**Encounter Locations**
+- Jusmail Town — Grass (Day) (10%)
+- Jusmail Town — Grass (Night) (10%)
+- Kipos Town — Grass (Day) (20%)
+- Kipos Town — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

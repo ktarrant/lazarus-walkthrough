@@ -31,6 +31,12 @@ Height: 0.3 m · Weight: 14.5 kg · Base EXP: 65
 
 **Evolution Paths**
 - Dwebble → Crustle (Lv 34)
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (20%)
+- Marmaro Island — Grass (Night) (20%)
+- Pythios Town — Grass (Day) (20%)
+- Pythios Town — Grass (Night) (20%)
 </div>
 <div class="card-column">
 **Base Stats**

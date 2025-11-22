@@ -33,6 +33,9 @@ Height: 0.4 m · Weight: 7.5 kg · Base EXP: 64
 
 **Evolution Paths**
 - Popplio → Brionne (Lv 17) → Primarina (Lv 34)
+
+**Encounter Locations**
+- Sea of Vulcai — Grass (Night) (5%)
 </div>
 <div class="card-column">
 **Base Stats**
