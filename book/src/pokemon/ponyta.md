@@ -54,16 +54,19 @@ _Fire Horse Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 82
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
+- Growl (Lv 1)
 - Tackle (Lv 1)
-- Growl (Lv 5)
-- Tail Whip (Lv 9)
-- Ember (Lv 14)
-- Stomp (Lv 19)
-- Fire Spin (Lv 25)
-- Take Down (Lv 31)
-- Agility (Lv 38)
-- Bounce (Lv 45)
-- Fire Blast (Lv 53)
+- Tail Whip (Lv 5)
+- Ember (Lv 10)
+- Flame Charge (Lv 15)
+- Agility (Lv 20)
+- Flame Wheel (Lv 25)
+- Stomp (Lv 30)
+- Fire Spin (Lv 35)
+- Take Down (Lv 41)
+- Inferno (Lv 45)
+- Fire Blast (Lv 50)
+- Flare Blitz (Lv 55)
 </div>
 </div>
 
@@ -121,18 +124,21 @@ _Fire Horse Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 175
 **Notable Level-Up Moves**
 - Ember (Lv 1)
 - Growl (Lv 1)
+- Megahorn (Lv 1)
+- Poison Jab (Lv 1)
+- Quick Attack (Lv 1)
+- Smart Strike (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Growl (Lv 5)
-- Tail Whip (Lv 9)
-- Ember (Lv 14)
-- Stomp (Lv 19)
-- Fire Spin (Lv 25)
-- Take Down (Lv 31)
-- Agility (Lv 38)
-- Fury Attack (Lv 40)
-- Bounce (Lv 50)
-- Fire Blast (Lv 63)
+- Flame Charge (Lv 15)
+- Agility (Lv 20)
+- Flame Wheel (Lv 25)
+- Stomp (Lv 30)
+- Fire Spin (Lv 35)
+- Take Down (Lv 43)
+- Inferno (Lv 49)
+- Fire Blast (Lv 56)
+- Flare Blitz (Lv 63)
 </div>
 </div>
 

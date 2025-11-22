@@ -53,6 +53,21 @@ _Radiator Pokémon_ • Types: Fire / Bug • Egg Groups: Bug • Base EXP: 61
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-low">305</span> |
+
+**Notable Level-Up Moves**
+- Ember (Lv 1)
+- Smokescreen (Lv 1)
+- Wrap (Lv 5)
+- Bite (Lv 10)
+- Flame Wheel (Lv 15)
+- Bug Bite (Lv 20)
+- Coil (Lv 25)
+- Slam (Lv 30)
+- Fire Spin (Lv 35)
+- Crunch (Lv 40)
+- Fire Lash (Lv 45)
+- Lunge (Lv 50)
+- Burn Up (Lv 55)
 </div>
 </div>
 
@@ -103,6 +118,22 @@ _Radiator Pokémon_ • Types: Fire / Bug • Egg Groups: Bug • Base EXP: 184
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
+
+**Notable Level-Up Moves**
+- Bite (Lv 1)
+- Ember (Lv 1)
+- Inferno (Lv 1)
+- Smokescreen (Lv 1)
+- Wrap (Lv 1)
+- Flame Wheel (Lv 15)
+- Bug Bite (Lv 20)
+- Coil (Lv 25)
+- Slam (Lv 32)
+- Fire Spin (Lv 39)
+- Crunch (Lv 46)
+- Fire Lash (Lv 53)
+- Lunge (Lv 60)
+- Burn Up (Lv 67)
 </div>
 </div>
 

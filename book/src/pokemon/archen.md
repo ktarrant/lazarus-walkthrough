@@ -51,6 +51,25 @@ _First Bird Pokémon_ • Types: Rock / Flying • Egg Groups: Flying / Water3 �
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">401</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Quick Attack (Lv 1)
+- Rock Throw (Lv 3)
+- Wing Attack (Lv 6)
+- Dragon Breath (Lv 9)
+- Ancient Power (Lv 12)
+- Pluck (Lv 15)
+- Quick Guard (Lv 18)
+- U Turn (Lv 21)
+- Rock Slide (Lv 24)
+- Scary Face (Lv 27)
+- Crunch (Lv 30)
+- Agility (Lv 33)
+- Tailwind (Lv 36)
+- Dragon Claw (Lv 39)
+- Thrash (Lv 42)
+- Endeavor (Lv 45)
 </div>
 </div>
 
@@ -101,6 +120,25 @@ _First Bird Pokémon_ • Types: Rock / Flying • Egg Groups: Flying / Water3 �
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-high">110</span> |
 | Total | <span class="stat-value stat-high">567</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Quick Attack (Lv 1)
+- Rock Throw (Lv 1)
+- Wing Attack (Lv 1)
+- Dragon Breath (Lv 9)
+- Ancient Power (Lv 12)
+- Pluck (Lv 15)
+- Quick Guard (Lv 18)
+- U Turn (Lv 21)
+- Rock Slide (Lv 24)
+- Scary Face (Lv 27)
+- Crunch (Lv 30)
+- Agility (Lv 33)
+- Tailwind (Lv 36)
+- Dragon Claw (Lv 41)
+- Thrash (Lv 46)
+- Endeavor (Lv 51)
 </div>
 </div>
 

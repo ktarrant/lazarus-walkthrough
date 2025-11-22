@@ -40,14 +40,19 @@ _Wild Bull Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 172
 
 **Notable Level-Up Moves**
 - Tackle (Lv 1)
-- Tail Whip (Lv 4)
-- Rage (Lv 8)
-- Horn Attack (Lv 13)
-- Scary Face (Lv 19)
-- Pursuit (Lv 26)
-- Rest (Lv 34)
-- Thrash (Lv 43)
-- Take Down (Lv 53)
+- Tail Whip (Lv 1)
+- Work Up (Lv 5)
+- Payback (Lv 10)
+- Assurance (Lv 15)
+- Horn Attack (Lv 20)
+- Scary Face (Lv 25)
+- Zen Headbutt (Lv 30)
+- Take Down (Lv 35)
+- Rest (Lv 40)
+- Swagger (Lv 45)
+- Thrash (Lv 50)
+- Double Edge (Lv 55)
+- Giga Impact (Lv 60)
 </div>
 </div>
 

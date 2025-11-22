@@ -52,6 +52,22 @@ _Roly-Poly Pokémon_ • Types: Electric / Steel • Egg Groups: Ground / Fairy 
 | Sp. Def | <span class="stat-value stat-mid">73</span> |
 | Speed | <span class="stat-value stat-high">96</span> |
 | Total | <span class="stat-value stat-mid">435</span> |
+
+**Notable Level-Up Moves**
+- Nuzzle (Lv 1)
+- Tackle (Lv 1)
+- Defense Curl (Lv 5)
+- Charge (Lv 10)
+- Thunder Shock (Lv 15)
+- Fell Stinger (Lv 20)
+- Spark (Lv 25)
+- Pin Missile (Lv 30)
+- Magnet Rise (Lv 35)
+- Zing Zap (Lv 40)
+- Discharge (Lv 45)
+- Electric Terrain (Lv 50)
+- Wild Charge (Lv 55)
+- Spiky Shield (Lv 60)
 </div>
 </div>
 

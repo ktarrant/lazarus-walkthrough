@@ -55,6 +55,22 @@ _Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Drago
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-mid">77</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
+
+**Notable Level-Up Moves**
+- Poison Gas (Lv 1)
+- Scratch (Lv 1)
+- Smog (Lv 5)
+- Ember (Lv 10)
+- Poison Fang (Lv 15)
+- Sweet Scent (Lv 20)
+- Nasty Plot (Lv 25)
+- Incinerate (Lv 30)
+- Venoshock (Lv 35)
+- Dragon Pulse (Lv 40)
+- Venom Drench (Lv 45)
+- Flamethrower (Lv 50)
+- Toxic (Lv 55)
+- Endeavor (Lv 60)
 </div>
 </div>
 
@@ -107,6 +123,29 @@ _Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Drago
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-high">117</span> |
 | Total | <span class="stat-value stat-mid">480</span> |
+
+**Notable Level-Up Moves**
+- Disable (Lv 1)
+- Ember (Lv 1)
+- Encore (Lv 1)
+- Endeavor (Lv 1)
+- Fire Lash (Lv 1)
+- Knock Off (Lv 1)
+- Poison Gas (Lv 1)
+- Pound (Lv 1)
+- Scratch (Lv 1)
+- Smog (Lv 1)
+- Swagger (Lv 1)
+- Torment (Lv 1)
+- Poison Fang (Lv 15)
+- Sweet Scent (Lv 20)
+- Nasty Plot (Lv 25)
+- Incinerate (Lv 30)
+- Venoshock (Lv 37)
+- Dragon Pulse (Lv 44)
+- Venom Drench (Lv 51)
+- Flamethrower (Lv 58)
+- Toxic (Lv 65)
 </div>
 </div>
 

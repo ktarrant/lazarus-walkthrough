@@ -48,6 +48,21 @@ _Playful Pokémon_ • Types: Fighting • Egg Groups: Ground / Humanshape • B
 | Sp. Def | <span class="stat-value stat-low">48</span> |
 | Speed | <span class="stat-value stat-low">43</span> |
 | Total | <span class="stat-value stat-mid">348</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Arm Thrust (Lv 4)
+- Taunt (Lv 8)
+- Circle Throw (Lv 12)
+- Low Sweep (Lv 16)
+- Work Up (Lv 20)
+- Slash (Lv 24)
+- Vital Throw (Lv 28)
+- Crunch (Lv 33)
+- Body Slam (Lv 36)
+- Parting Shot (Lv 40)
+- Entrainment (Lv 44)
 </div>
 </div>
 
@@ -96,6 +111,24 @@ _Daunting Pokémon_ • Types: Fighting / Dark • Egg Groups: Ground / Humansha
 | Sp. Def | <span class="stat-value stat-mid">71</span> |
 | Speed | <span class="stat-value stat-mid">58</span> |
 | Total | <span class="stat-value stat-mid">495</span> |
+
+**Notable Level-Up Moves**
+- Arm Thrust (Lv 1)
+- Bullet Punch (Lv 1)
+- Leer (Lv 1)
+- Night Slash (Lv 1)
+- Tackle (Lv 1)
+- Taunt (Lv 1)
+- Circle Throw (Lv 12)
+- Low Sweep (Lv 16)
+- Work Up (Lv 20)
+- Slash (Lv 24)
+- Vital Throw (Lv 28)
+- Crunch (Lv 35)
+- Body Slam (Lv 40)
+- Parting Shot (Lv 46)
+- Entrainment (Lv 52)
+- Hammer Arm (Lv 58)
 </div>
 </div>
 

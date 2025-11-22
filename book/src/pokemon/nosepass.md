@@ -52,18 +52,6 @@ _Compass Pokémon_ • Types: Rock • Egg Groups: Mineral • Base EXP: 75
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">375</span> |
-
-**Notable Level-Up Moves**
-- Tackle (Lv 1)
-- Harden (Lv 7)
-- Rock Throw (Lv 13)
-- Block (Lv 16)
-- Thunder Wave (Lv 22)
-- Rock Slide (Lv 28)
-- Sandstorm (Lv 31)
-- Rest (Lv 37)
-- Zap Cannon (Lv 43)
-- Lock On (Lv 46)
 </div>
 </div>
 

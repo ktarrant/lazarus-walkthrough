@@ -53,17 +53,21 @@ _Ruffian Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base EXP
 | Total | <span class="stat-value stat-mid">308</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1)
-- Harden (Lv 7)
-- Vice Grip (Lv 10)
-- Leer (Lv 13)
-- Bubble Beam (Lv 20)
-- Protect (Lv 23)
-- Knock Off (Lv 26)
-- Taunt (Lv 32)
-- Crabhammer (Lv 35)
-- Swords Dance (Lv 38)
-- Guillotine (Lv 44)
+- Harden (Lv 1)
+- Water Gun (Lv 1)
+- Leer (Lv 4)
+- Taunt (Lv 8)
+- Bubble Beam (Lv 12)
+- Knock Off (Lv 16)
+- Double Hit (Lv 20)
+- Protect (Lv 24)
+- Night Slash (Lv 28)
+- Razor Shell (Lv 32)
+- Swords Dance (Lv 36)
+- Crunch (Lv 40)
+- Crabhammer (Lv 44)
+- Endeavor (Lv 48)
+- Guillotine (Lv 52)
 </div>
 </div>
 
@@ -123,20 +127,22 @@ _Rogue Pokémon_ • Types: Water / Dark • Egg Groups: Water1 / Water3 • Bas
 | Total | <span class="stat-value stat-mid">468</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1)
 - Harden (Lv 1)
 - Leer (Lv 1)
-- Vice Grip (Lv 1)
-- Harden (Lv 7)
-- Vice Grip (Lv 10)
-- Leer (Lv 13)
-- Bubble Beam (Lv 20)
-- Protect (Lv 23)
-- Knock Off (Lv 26)
-- Taunt (Lv 34)
-- Crabhammer (Lv 39)
-- Swords Dance (Lv 44)
-- Guillotine (Lv 52)
+- Swift (Lv 1)
+- Taunt (Lv 1)
+- Water Gun (Lv 1)
+- Bubble Beam (Lv 12)
+- Knock Off (Lv 16)
+- Double Hit (Lv 20)
+- Protect (Lv 24)
+- Night Slash (Lv 28)
+- Razor Shell (Lv 34)
+- Swords Dance (Lv 40)
+- Crunch (Lv 46)
+- Crabhammer (Lv 52)
+- Endeavor (Lv 58)
+- Guillotine (Lv 64)
 </div>
 </div>
 

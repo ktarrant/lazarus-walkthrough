@@ -49,6 +49,25 @@ _Skunk Pokémon_ • Types: Poison / Dark • Egg Groups: Ground • Base EXP: 6
 | Sp. Def | <span class="stat-value stat-low">41</span> |
 | Speed | <span class="stat-value stat-mid">74</span> |
 | Total | <span class="stat-value stat-mid">329</span> |
+
+**Notable Level-Up Moves**
+- Poison Gas (Lv 1)
+- Scratch (Lv 1)
+- Feint (Lv 3)
+- Smokescreen (Lv 6)
+- Acid Spray (Lv 9)
+- Fury Swipes (Lv 12)
+- Focus Energy (Lv 15)
+- Bite (Lv 18)
+- Venoshock (Lv 21)
+- Screech (Lv 24)
+- Toxic (Lv 27)
+- Sucker Punch (Lv 30)
+- Memento (Lv 33)
+- Night Slash (Lv 36)
+- Belch (Lv 39)
+- Venom Drench (Lv 42)
+- Explosion (Lv 45)
 </div>
 </div>
 
@@ -99,6 +118,26 @@ _Skunk Pokémon_ • Types: Poison / Dark • Egg Groups: Ground • Base EXP: 1
 | Sp. Def | <span class="stat-value stat-mid">61</span> |
 | Speed | <span class="stat-value stat-mid">84</span> |
 | Total | <span class="stat-value stat-mid">479</span> |
+
+**Notable Level-Up Moves**
+- Feint (Lv 1)
+- Flamethrower (Lv 1)
+- Poison Gas (Lv 1)
+- Scratch (Lv 1)
+- Smokescreen (Lv 1)
+- Acid Spray (Lv 9)
+- Fury Swipes (Lv 12)
+- Focus Energy (Lv 15)
+- Bite (Lv 18)
+- Venoshock (Lv 21)
+- Screech (Lv 24)
+- Toxic (Lv 27)
+- Sucker Punch (Lv 30)
+- Memento (Lv 33)
+- Night Slash (Lv 38)
+- Belch (Lv 43)
+- Venom Drench (Lv 48)
+- Explosion (Lv 53)
 </div>
 </div>
 

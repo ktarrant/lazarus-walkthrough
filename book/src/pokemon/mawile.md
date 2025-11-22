@@ -54,17 +54,21 @@ _Deceiver Pokémon_ • Types: Steel / Fairy • Egg Groups: Ground / Fairy • 
 
 **Notable Level-Up Moves**
 - Astonish (Lv 1)
-- Fake Tears (Lv 6)
-- Bite (Lv 11)
-- Sweet Scent (Lv 16)
-- Vice Grip (Lv 21)
-- Feint Attack (Lv 26)
-- Baton Pass (Lv 31)
-- Crunch (Lv 36)
-- Iron Defense (Lv 41)
-- Spit Up (Lv 46)
-- Stockpile (Lv 46)
-- Swallow (Lv 46)
+- Growl (Lv 1)
+- Fairy Wind (Lv 4)
+- Baton Pass (Lv 8)
+- Bite (Lv 12)
+- Spit Up (Lv 16)
+- Stockpile (Lv 16)
+- Swallow (Lv 16)
+- Sucker Punch (Lv 20)
+- Iron Defense (Lv 24)
+- Crunch (Lv 28)
+- Sweet Scent (Lv 32)
+- Iron Head (Lv 36)
+- Taunt (Lv 40)
+- Fake Tears (Lv 44)
+- Play Rough (Lv 48)
 </div>
 </div>
 

@@ -57,16 +57,19 @@ _Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Bas
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
+- Harden (Lv 1)
 - Tackle (Lv 1)
-- Harden (Lv 6)
-- Bubble (Lv 12)
-- Recover (Lv 17)
-- Refresh (Lv 17)
-- Bubble Beam (Lv 23)
-- Spike Cannon (Lv 28)
-- Rock Blast (Lv 34)
-- Mirror Coat (Lv 39)
-- Ancient Power (Lv 45)
+- Water Gun (Lv 5)
+- Aqua Ring (Lv 10)
+- Endure (Lv 15)
+- Ancient Power (Lv 20)
+- Bubble Beam (Lv 25)
+- Flail (Lv 30)
+- Life Dew (Lv 35)
+- Power Gem (Lv 40)
+- Earth Power (Lv 45)
+- Recover (Lv 50)
+- Mirror Coat (Lv 55)
 </div>
 </div>
 
@@ -113,6 +116,22 @@ _Coral Pokémon_ • Types: Ghost • Egg Groups: Water1 / Water3 • Base EXP: 
 | Sp. Def | <span class="stat-value stat-high">130</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Disable (Lv 1)
+- Harden (Lv 1)
+- Perish Song (Lv 1)
+- Tackle (Lv 1)
+- Spite (Lv 15)
+- Ancient Power (Lv 20)
+- Hex (Lv 25)
+- Curse (Lv 30)
+- Strength Sap (Lv 35)
+- Power Gem (Lv 40)
+- Night Shade (Lv 45)
+- Grudge (Lv 50)
+- Mirror Coat (Lv 55)
 </div>
 </div>
 

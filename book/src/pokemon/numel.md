@@ -49,18 +49,6 @@ _Numb Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 61
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">305</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Ember (Lv 11)
-- Magnitude (Lv 19)
-- Focus Energy (Lv 25)
-- Take Down (Lv 29)
-- Amnesia (Lv 31)
-- Earthquake (Lv 35)
-- Flamethrower (Lv 41)
-- Double Edge (Lv 49)
 </div>
 </div>
 
@@ -110,21 +98,6 @@ _Eruption Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">460</span> |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1)
-- Growl (Lv 1)
-- Magnitude (Lv 1)
-- Tackle (Lv 1)
-- Ember (Lv 11)
-- Magnitude (Lv 19)
-- Focus Energy (Lv 25)
-- Take Down (Lv 29)
-- Amnesia (Lv 31)
-- Rock Slide (Lv 33)
-- Earthquake (Lv 37)
-- Eruption (Lv 45)
-- Fissure (Lv 55)
 </div>
 </div>
 

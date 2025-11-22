@@ -51,6 +51,21 @@ _Scratch Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 58
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-mid">90</span> |
 | Total | <span class="stat-value stat-low">290</span> |
+
+**Notable Level-Up Moves**
+- Fake Out (Lv 1)
+- Growl (Lv 1)
+- Feint (Lv 4)
+- Scratch (Lv 8)
+- Pay Day (Lv 12)
+- Bite (Lv 16)
+- Taunt (Lv 20)
+- Assurance (Lv 24)
+- Fury Swipes (Lv 29)
+- Screech (Lv 32)
+- Night Slash (Lv 36)
+- Nasty Plot (Lv 40)
+- Play Rough (Lv 44)
 </div>
 </div>
 
@@ -102,6 +117,24 @@ _Classy Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 154
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-high">115</span> |
 | Total | <span class="stat-value stat-mid">440</span> |
+
+**Notable Level-Up Moves**
+- Fake Out (Lv 1)
+- Feint (Lv 1)
+- Growl (Lv 1)
+- Power Gem (Lv 1)
+- Quash (Lv 1)
+- Scratch (Lv 1)
+- Switcheroo (Lv 1)
+- Pay Day (Lv 12)
+- Bite (Lv 16)
+- Taunt (Lv 20)
+- Assurance (Lv 24)
+- Fury Swipes (Lv 31)
+- Screech (Lv 36)
+- Night Slash (Lv 42)
+- Nasty Plot (Lv 48)
+- Play Rough (Lv 54)
 </div>
 </div>
 
@@ -164,6 +197,24 @@ _Viking Pokémon_ • Types: Steel • Egg Groups: Ground • Base EXP: 154
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">440</span> |
+
+**Notable Level-Up Moves**
+- Fake Out (Lv 1)
+- Growl (Lv 1)
+- Hone Claws (Lv 1)
+- Iron Defense (Lv 1)
+- Iron Head (Lv 1)
+- Metal Burst (Lv 1)
+- Scratch (Lv 1)
+- Pay Day (Lv 12)
+- Metal Claw (Lv 16)
+- Taunt (Lv 20)
+- Swagger (Lv 24)
+- Fury Swipes (Lv 31)
+- Screech (Lv 36)
+- Slash (Lv 42)
+- Metal Sound (Lv 48)
+- Thrash (Lv 54)
 </div>
 </div>
 

@@ -63,13 +63,19 @@ _Bivalve Pokémon_ • Types: Water • Egg Groups: Water3 • Base EXP: 61
 
 **Notable Level-Up Moves**
 - Tackle (Lv 1)
-- Withdraw (Lv 1)
-- Supersonic (Lv 9)
-- Aurora Beam (Lv 17)
-- Protect (Lv 25)
-- Leer (Lv 33)
-- Clamp (Lv 41)
-- Ice Beam (Lv 49)
+- Water Gun (Lv 1)
+- Withdraw (Lv 4)
+- Ice Shard (Lv 8)
+- Leer (Lv 12)
+- Whirlpool (Lv 16)
+- Supersonic (Lv 20)
+- Aurora Beam (Lv 24)
+- Protect (Lv 28)
+- Razor Shell (Lv 32)
+- Iron Defense (Lv 36)
+- Ice Beam (Lv 40)
+- Shell Smash (Lv 44)
+- Hydro Pump (Lv 48)
 </div>
 </div>
 
@@ -124,11 +130,23 @@ _Bivalve Pokémon_ • Types: Water / Ice • Egg Groups: Water3 • Base EXP: 1
 
 **Notable Level-Up Moves**
 - Aurora Beam (Lv 1)
+- Hydro Pump (Lv 1)
+- Ice Beam (Lv 1)
+- Ice Shard (Lv 1)
+- Icicle Crash (Lv 1)
+- Icicle Spear (Lv 1)
+- Iron Defense (Lv 1)
+- Leer (Lv 1)
 - Protect (Lv 1)
+- Razor Shell (Lv 1)
+- Shell Smash (Lv 1)
+- Spikes (Lv 1)
 - Supersonic (Lv 1)
+- Tackle (Lv 1)
+- Toxic Spikes (Lv 1)
+- Water Gun (Lv 1)
+- Whirlpool (Lv 1)
 - Withdraw (Lv 1)
-- Spikes (Lv 33)
-- Spike Cannon (Lv 41)
 </div>
 </div>
 

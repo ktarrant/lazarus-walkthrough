@@ -52,6 +52,26 @@ _Scorpion Pokémon_ • Types: Poison / Bug • Egg Groups: Bug / Water3 • Bas
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Poison Sting (Lv 1)
+- Hone Claws (Lv 3)
+- Fell Stinger (Lv 6)
+- Poison Fang (Lv 9)
+- Bite (Lv 12)
+- Toxic Spikes (Lv 15)
+- Bug Bite (Lv 18)
+- Venoshock (Lv 21)
+- Knock Off (Lv 24)
+- Scary Face (Lv 27)
+- Pin Missile (Lv 30)
+- Toxic (Lv 33)
+- Night Slash (Lv 36)
+- Cross Poison (Lv 39)
+- X Scissor (Lv 42)
+- Acupressure (Lv 45)
+- Crunch (Lv 48)
 </div>
 </div>
 
@@ -102,6 +122,29 @@ _Ogre Scorpion Pokémon_ • Types: Poison / Dark • Egg Groups: Bug / Water3 �
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Fell Stinger (Lv 1)
+- Fire Fang (Lv 1)
+- Hone Claws (Lv 1)
+- Ice Fang (Lv 1)
+- Leer (Lv 1)
+- Poison Sting (Lv 1)
+- Thunder Fang (Lv 1)
+- Poison Fang (Lv 9)
+- Bite (Lv 12)
+- Toxic Spikes (Lv 15)
+- Bug Bite (Lv 18)
+- Venoshock (Lv 21)
+- Knock Off (Lv 24)
+- Scary Face (Lv 27)
+- Pin Missile (Lv 30)
+- Toxic (Lv 33)
+- Night Slash (Lv 36)
+- Cross Poison (Lv 39)
+- X Scissor (Lv 44)
+- Acupressure (Lv 49)
+- Crunch (Lv 54)
 </div>
 </div>
 

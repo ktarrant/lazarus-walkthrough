@@ -47,15 +47,6 @@ _Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EX
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">280</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Thunder Shock (Lv 9)
-- Thunder Wave (Lv 16)
-- Cotton Spore (Lv 23)
-- Light Screen (Lv 30)
-- Thunder (Lv 37)
 </div>
 </div>
 
@@ -103,16 +94,6 @@ _Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EX
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">365</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Thunder Shock (Lv 1)
-- Thunder Shock (Lv 9)
-- Thunder Wave (Lv 18)
-- Cotton Spore (Lv 27)
-- Light Screen (Lv 36)
-- Thunder (Lv 45)
 </div>
 </div>
 
@@ -157,18 +138,6 @@ _Light Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base E
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Thunder Shock (Lv 1)
-- Thunder Wave (Lv 1)
-- Thunder Shock (Lv 9)
-- Thunder Wave (Lv 18)
-- Cotton Spore (Lv 27)
-- Thunder Punch (Lv 30)
-- Light Screen (Lv 42)
-- Thunder (Lv 57)
 </div>
 </div>
 

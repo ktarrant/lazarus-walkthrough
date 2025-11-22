@@ -52,6 +52,25 @@ _Mouse Pokémon_ • Types: Ice / Steel • Egg Groups: Ground • Base EXP: 60
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-low">300</span> |
+
+**Notable Level-Up Moves**
+- Defense Curl (Lv 1)
+- Scratch (Lv 1)
+- Mist (Lv 3)
+- Powder Snow (Lv 6)
+- Rollout (Lv 9)
+- Fury Cutter (Lv 12)
+- Rapid Spin (Lv 15)
+- Metal Claw (Lv 18)
+- Swift (Lv 21)
+- Fury Swipes (Lv 24)
+- Iron Defense (Lv 27)
+- Slash (Lv 30)
+- Iron Head (Lv 33)
+- Gyro Ball (Lv 36)
+- Swords Dance (Lv 39)
+- Hail (Lv 42)
+- Blizzard (Lv 45)
 </div>
 </div>
 
@@ -104,6 +123,28 @@ _Mouse Pokémon_ • Types: Ice / Steel • Egg Groups: Ground • Base EXP: 158
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">450</span> |
+
+**Notable Level-Up Moves**
+- Blizzard (Lv 1)
+- Defense Curl (Lv 1)
+- Fury Cutter (Lv 1)
+- Fury Swipes (Lv 1)
+- Gyro Ball (Lv 1)
+- Hail (Lv 1)
+- Icicle Crash (Lv 1)
+- Icicle Spear (Lv 1)
+- Iron Defense (Lv 1)
+- Iron Head (Lv 1)
+- Metal Burst (Lv 1)
+- Metal Claw (Lv 1)
+- Mist (Lv 1)
+- Powder Snow (Lv 1)
+- Rapid Spin (Lv 1)
+- Rollout (Lv 1)
+- Scratch (Lv 1)
+- Slash (Lv 1)
+- Swift (Lv 1)
+- Swords Dance (Lv 1)
 </div>
 </div>
 

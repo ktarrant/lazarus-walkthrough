@@ -52,17 +52,19 @@ _Requiem Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 
 | Total | <span class="stat-value stat-low">295</span> |
 
 **Notable Level-Up Moves**
+- Astonish (Lv 1)
 - Leer (Lv 1)
-- Night Shade (Lv 1)
-- Disable (Lv 5)
-- Foresight (Lv 12)
-- Astonish (Lv 16)
-- Confuse Ray (Lv 23)
-- Pursuit (Lv 27)
-- Curse (Lv 34)
-- Will O Wisp (Lv 38)
-- Mean Look (Lv 45)
-- Future Sight (Lv 49)
+- Disable (Lv 4)
+- Shadow Sneak (Lv 8)
+- Confuse Ray (Lv 12)
+- Night Shade (Lv 16)
+- Payback (Lv 20)
+- Will O Wisp (Lv 24)
+- Mean Look (Lv 28)
+- Hex (Lv 32)
+- Curse (Lv 36)
+- Shadow Ball (Lv 40)
+- Future Sight (Lv 44)
 </div>
 </div>
 
@@ -115,20 +117,25 @@ _Beckon Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 1
 | Total | <span class="stat-value stat-mid">455</span> |
 
 **Notable Level-Up Moves**
+- Astonish (Lv 1)
 - Bind (Lv 1)
 - Disable (Lv 1)
+- Fire Punch (Lv 1)
+- Gravity (Lv 1)
+- Ice Punch (Lv 1)
 - Leer (Lv 1)
-- Night Shade (Lv 1)
-- Disable (Lv 5)
-- Foresight (Lv 12)
-- Astonish (Lv 16)
-- Confuse Ray (Lv 23)
-- Pursuit (Lv 27)
-- Curse (Lv 34)
-- Shadow Punch (Lv 37)
-- Will O Wisp (Lv 41)
-- Mean Look (Lv 51)
-- Future Sight (Lv 58)
+- Shadow Punch (Lv 1)
+- Shadow Sneak (Lv 1)
+- Thunder Punch (Lv 1)
+- Confuse Ray (Lv 12)
+- Night Shade (Lv 16)
+- Payback (Lv 20)
+- Will O Wisp (Lv 24)
+- Mean Look (Lv 28)
+- Hex (Lv 32)
+- Curse (Lv 36)
+- Shadow Ball (Lv 42)
+- Future Sight (Lv 48)
 </div>
 </div>
 
@@ -175,6 +182,28 @@ _Gripper Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 
 | Sp. Def | <span class="stat-value stat-high">135</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Bind (Lv 1)
+- Disable (Lv 1)
+- Fire Punch (Lv 1)
+- Gravity (Lv 1)
+- Ice Punch (Lv 1)
+- Leer (Lv 1)
+- Shadow Punch (Lv 1)
+- Shadow Sneak (Lv 1)
+- Thunder Punch (Lv 1)
+- Confuse Ray (Lv 12)
+- Night Shade (Lv 16)
+- Payback (Lv 20)
+- Will O Wisp (Lv 24)
+- Mean Look (Lv 28)
+- Hex (Lv 32)
+- Curse (Lv 36)
+- Shadow Ball (Lv 42)
+- Future Sight (Lv 48)
+- Destiny Bond (Lv 54)
 </div>
 </div>
 

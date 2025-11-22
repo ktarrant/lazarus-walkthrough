@@ -37,21 +37,6 @@ _Color Swap Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 154
 | Sp. Def | <span class="stat-value stat-high">120</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">440</span> |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
-- Lick (Lv 1)
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Thief (Lv 1)
-- Bind (Lv 4)
-- Feint Attack (Lv 7)
-- Fury Swipes (Lv 12)
-- Psybeam (Lv 17)
-- Screech (Lv 24)
-- Slash (Lv 31)
-- Substitute (Lv 40)
-- Ancient Power (Lv 49)
 </div>
 </div>
 

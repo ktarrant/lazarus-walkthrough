@@ -50,6 +50,18 @@ _Larva Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 60
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">46</span> |
 | Total | <span class="stat-value stat-low">300</span> |
+
+**Notable Level-Up Moves**
+- Mud Slap (Lv 1)
+- Vice Grip (Lv 1)
+- String Shot (Lv 5)
+- Bug Bite (Lv 10)
+- Bite (Lv 15)
+- Spark (Lv 21)
+- Sticky Web (Lv 25)
+- X Scissor (Lv 30)
+- Crunch (Lv 35)
+- Dig (Lv 40)
 </div>
 </div>
 
@@ -102,6 +114,21 @@ _Battery Pokémon_ • Types: Bug / Electric • Egg Groups: Bug • Base EXP: 1
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-low">36</span> |
 | Total | <span class="stat-value stat-mid">400</span> |
+
+**Notable Level-Up Moves**
+- Bug Bite (Lv 1)
+- Charge (Lv 1)
+- Mud Slap (Lv 1)
+- String Shot (Lv 1)
+- Vice Grip (Lv 1)
+- Bite (Lv 15)
+- Spark (Lv 23)
+- Sticky Web (Lv 29)
+- X Scissor (Lv 36)
+- Crunch (Lv 43)
+- Dig (Lv 50)
+- Iron Defense (Lv 57)
+- Discharge (Lv 64)
 </div>
 </div>
 
@@ -147,6 +174,27 @@ _Stag Beetle Pokémon_ • Types: Bug / Electric • Egg Groups: Bug • Base EX
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-low">43</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Bug Bite (Lv 1)
+- Charge (Lv 1)
+- Crunch (Lv 1)
+- Dig (Lv 1)
+- Discharge (Lv 1)
+- Iron Defense (Lv 1)
+- Mud Slap (Lv 1)
+- String Shot (Lv 1)
+- Thunderbolt (Lv 1)
+- Vice Grip (Lv 1)
+- X Scissor (Lv 1)
+- Bite (Lv 15)
+- Spark (Lv 23)
+- Sticky Web (Lv 29)
+- Bug Buzz (Lv 36)
+- Guillotine (Lv 43)
+- Fly (Lv 50)
+- Agility (Lv 57)
+- Zap Cannon (Lv 64)
 </div>
 </div>
 

@@ -53,17 +53,20 @@ _Snow Hat Pokémon_ • Types: Ice • Egg Groups: Fairy / Mineral • Base EXP:
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Leer (Lv 1)
+- Astonish (Lv 1)
 - Powder Snow (Lv 1)
-- Double Team (Lv 7)
-- Bite (Lv 10)
-- Icy Wind (Lv 16)
-- Headbutt (Lv 19)
-- Protect (Lv 25)
-- Crunch (Lv 28)
-- Ice Beam (Lv 34)
-- Hail (Lv 37)
-- Blizzard (Lv 43)
+- Leer (Lv 5)
+- Double Team (Lv 10)
+- Ice Shard (Lv 15)
+- Protect (Lv 20)
+- Icy Wind (Lv 25)
+- Frost Breath (Lv 30)
+- Bite (Lv 35)
+- Ice Fang (Lv 40)
+- Hail (Lv 45)
+- Headbutt (Lv 50)
+- Crunch (Lv 55)
+- Blizzard (Lv 60)
 </div>
 </div>
 
@@ -113,20 +116,22 @@ _Face Pokémon_ • Types: Ice • Egg Groups: Fairy / Mineral • Base EXP: 168
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1)
+- Astonish (Lv 1)
 - Double Team (Lv 1)
+- Freeze Dry (Lv 1)
 - Leer (Lv 1)
 - Powder Snow (Lv 1)
-- Double Team (Lv 7)
-- Bite (Lv 10)
-- Icy Wind (Lv 16)
-- Headbutt (Lv 19)
-- Protect (Lv 25)
-- Crunch (Lv 28)
-- Ice Beam (Lv 34)
-- Hail (Lv 42)
-- Blizzard (Lv 53)
-- Sheer Cold (Lv 61)
+- Sheer Cold (Lv 1)
+- Ice Shard (Lv 15)
+- Protect (Lv 20)
+- Icy Wind (Lv 25)
+- Frost Breath (Lv 30)
+- Bite (Lv 35)
+- Ice Fang (Lv 40)
+- Hail (Lv 47)
+- Headbutt (Lv 54)
+- Crunch (Lv 61)
+- Blizzard (Lv 68)
 </div>
 </div>
 
@@ -178,6 +183,29 @@ _Snow Land Pokémon_ • Types: Ice / Ghost • Egg Groups: Fairy / Mineral • 
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-high">110</span> |
 | Total | <span class="stat-value stat-mid">480</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Bite (Lv 1)
+- Crunch (Lv 1)
+- Destiny Bond (Lv 1)
+- Double Team (Lv 1)
+- Headbutt (Lv 1)
+- Hex (Lv 1)
+- Ice Fang (Lv 1)
+- Leer (Lv 1)
+- Powder Snow (Lv 1)
+- Protect (Lv 1)
+- Ice Shard (Lv 15)
+- Draining Kiss (Lv 20)
+- Icy Wind (Lv 25)
+- Frost Breath (Lv 30)
+- Confuse Ray (Lv 35)
+- Hail (Lv 40)
+- Will O Wisp (Lv 47)
+- Aurora Veil (Lv 54)
+- Shadow Ball (Lv 61)
+- Blizzard (Lv 68)
 </div>
 </div>
 

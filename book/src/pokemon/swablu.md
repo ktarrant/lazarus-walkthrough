@@ -54,15 +54,17 @@ _Cotton Bird Pokémon_ • Types: Normal / Flying • Egg Groups: Flying / Drago
 **Notable Level-Up Moves**
 - Growl (Lv 1)
 - Peck (Lv 1)
-- Astonish (Lv 8)
-- Sing (Lv 11)
-- Fury Attack (Lv 18)
-- Safeguard (Lv 21)
-- Mist (Lv 28)
-- Take Down (Lv 31)
-- Mirror Move (Lv 38)
-- Refresh (Lv 41)
-- Perish Song (Lv 48)
+- Disarming Voice (Lv 4)
+- Mist (Lv 8)
+- Fury Attack (Lv 12)
+- Round (Lv 16)
+- Dragon Breath (Lv 20)
+- Safeguard (Lv 24)
+- Sing (Lv 28)
+- Cotton Guard (Lv 32)
+- Take Down (Lv 36)
+- Moonblast (Lv 40)
+- Perish Song (Lv 44)
 </div>
 </div>
 
@@ -120,21 +122,22 @@ _Humming Pokémon_ • Types: Dragon / Flying • Egg Groups: Flying / Dragon �
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Notable Level-Up Moves**
-- Astonish (Lv 1)
+- Disarming Voice (Lv 1)
+- Dragon Pulse (Lv 1)
 - Growl (Lv 1)
+- Mist (Lv 1)
 - Peck (Lv 1)
-- Sing (Lv 1)
-- Astonish (Lv 8)
-- Sing (Lv 11)
-- Fury Attack (Lv 18)
-- Safeguard (Lv 21)
-- Mist (Lv 28)
-- Take Down (Lv 31)
-- Dragon Breath (Lv 35)
-- Dragon Dance (Lv 40)
-- Refresh (Lv 45)
-- Perish Song (Lv 54)
-- Sky Attack (Lv 59)
+- Pluck (Lv 1)
+- Fury Attack (Lv 12)
+- Round (Lv 16)
+- Dragon Breath (Lv 20)
+- Safeguard (Lv 24)
+- Sing (Lv 28)
+- Cotton Guard (Lv 32)
+- Take Down (Lv 38)
+- Moonblast (Lv 44)
+- Perish Song (Lv 50)
+- Sky Attack (Lv 56)
 </div>
 </div>
 

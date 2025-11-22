@@ -63,17 +63,21 @@ _Magnet Pokémon_ • Types: Electric / Steel • Egg Groups: Mineral • Base E
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Notable Level-Up Moves**
-- Metal Sound (Lv 1)
 - Tackle (Lv 1)
-- Thunder Shock (Lv 6)
-- Supersonic (Lv 11)
-- Sonic Boom (Lv 16)
-- Thunder Wave (Lv 21)
-- Spark (Lv 26)
-- Lock On (Lv 32)
-- Swift (Lv 38)
-- Screech (Lv 44)
-- Zap Cannon (Lv 50)
+- Thunder Shock (Lv 1)
+- Supersonic (Lv 4)
+- Thunder Wave (Lv 8)
+- Electro Ball (Lv 12)
+- Gyro Ball (Lv 16)
+- Spark (Lv 20)
+- Screech (Lv 24)
+- Magnet Rise (Lv 28)
+- Flash Cannon (Lv 32)
+- Discharge (Lv 36)
+- Metal Sound (Lv 40)
+- Light Screen (Lv 44)
+- Lock On (Lv 48)
+- Zap Cannon (Lv 52)
 </div>
 </div>
 
@@ -132,19 +136,23 @@ _Magnet Pokémon_ • Types: Electric / Steel • Egg Groups: Mineral • Base E
 | Total | <span class="stat-value stat-mid">465</span> |
 
 **Notable Level-Up Moves**
-- Metal Sound (Lv 1)
+- Electric Terrain (Lv 1)
 - Supersonic (Lv 1)
 - Tackle (Lv 1)
 - Thunder Shock (Lv 1)
-- Thunder Shock (Lv 6)
-- Supersonic (Lv 11)
-- Sonic Boom (Lv 16)
-- Thunder Wave (Lv 21)
-- Spark (Lv 26)
-- Lock On (Lv 35)
-- Tri Attack (Lv 44)
-- Screech (Lv 53)
-- Zap Cannon (Lv 62)
+- Thunder Wave (Lv 1)
+- Tri Attack (Lv 1)
+- Electro Ball (Lv 12)
+- Gyro Ball (Lv 16)
+- Spark (Lv 20)
+- Screech (Lv 24)
+- Magnet Rise (Lv 28)
+- Flash Cannon (Lv 34)
+- Discharge (Lv 40)
+- Metal Sound (Lv 46)
+- Light Screen (Lv 52)
+- Lock On (Lv 58)
+- Zap Cannon (Lv 64)
 </div>
 </div>
 
@@ -201,6 +209,27 @@ _Magnet Area Pokémon_ • Types: Electric / Steel • Egg Groups: Mineral • B
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">535</span> |
+
+**Notable Level-Up Moves**
+- Electric Terrain (Lv 1)
+- Magnetic Flux (Lv 1)
+- Mirror Coat (Lv 1)
+- Supersonic (Lv 1)
+- Tackle (Lv 1)
+- Thunder Shock (Lv 1)
+- Thunder Wave (Lv 1)
+- Tri Attack (Lv 1)
+- Electro Ball (Lv 12)
+- Gyro Ball (Lv 16)
+- Spark (Lv 20)
+- Screech (Lv 24)
+- Magnet Rise (Lv 28)
+- Flash Cannon (Lv 34)
+- Discharge (Lv 40)
+- Metal Sound (Lv 46)
+- Light Screen (Lv 52)
+- Lock On (Lv 58)
+- Zap Cannon (Lv 64)
 </div>
 </div>
 

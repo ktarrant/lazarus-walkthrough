@@ -60,6 +60,21 @@ _Mock Kelp Pokémon_ • Types: Poison / Water • Egg Groups: Water1 / Dragon �
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
+
+**Notable Level-Up Moves**
+- Smokescreen (Lv 1)
+- Tackle (Lv 1)
+- Acid (Lv 5)
+- Water Gun (Lv 10)
+- Tail Whip (Lv 15)
+- Double Team (Lv 20)
+- Poison Tail (Lv 25)
+- Water Pulse (Lv 30)
+- Toxic (Lv 35)
+- Dragon Pulse (Lv 40)
+- Aqua Tail (Lv 45)
+- Sludge Bomb (Lv 50)
+- Hydro Pump (Lv 55)
 </div>
 </div>
 
@@ -112,6 +127,22 @@ _Mock Kelp Pokémon_ • Types: Poison / Dragon • Egg Groups: Water1 / Dragon 
 | Sp. Def | <span class="stat-value stat-high">123</span> |
 | Speed | <span class="stat-value stat-low">44</span> |
 | Total | <span class="stat-value stat-mid">494</span> |
+
+**Notable Level-Up Moves**
+- Acid (Lv 1)
+- Smokescreen (Lv 1)
+- Tackle (Lv 1)
+- Water Gun (Lv 1)
+- Tail Whip (Lv 15)
+- Double Team (Lv 20)
+- Poison Tail (Lv 25)
+- Water Pulse (Lv 30)
+- Toxic (Lv 35)
+- Dragon Pulse (Lv 40)
+- Aqua Tail (Lv 45)
+- Sludge Bomb (Lv 52)
+- Hydro Pump (Lv 59)
+- Outrage (Lv 66)
 </div>
 </div>
 

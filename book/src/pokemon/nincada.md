@@ -55,16 +55,16 @@ _Trainee Pokémon_ • Types: Bug / Ground • Egg Groups: Bug • Base EXP: 53
 | Total | <span class="stat-value stat-low">266</span> |
 
 **Notable Level-Up Moves**
-- Harden (Lv 1)
+- Sand Attack (Lv 1)
 - Scratch (Lv 1)
-- Leech Life (Lv 5)
-- Sand Attack (Lv 9)
-- Fury Swipes (Lv 14)
-- Mind Reader (Lv 19)
-- False Swipe (Lv 25)
-- Mud Slap (Lv 31)
-- Metal Claw (Lv 38)
-- Dig (Lv 45)
+- Harden (Lv 5)
+- False Swipe (Lv 10)
+- Mud Slap (Lv 15)
+- Absorb (Lv 21)
+- Metal Claw (Lv 25)
+- Fury Swipes (Lv 30)
+- Mind Reader (Lv 35)
+- Dig (Lv 40)
 </div>
 </div>
 
@@ -120,21 +120,26 @@ _Ninja Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 160
 | Total | <span class="stat-value stat-mid">456</span> |
 
 **Notable Level-Up Moves**
+- Aerial Ace (Lv 1)
+- Baton Pass (Lv 1)
+- Dig (Lv 1)
+- Double Team (Lv 1)
+- False Swipe (Lv 1)
+- Fury Cutter (Lv 1)
 - Harden (Lv 1)
-- Leech Life (Lv 1)
+- Metal Claw (Lv 1)
+- Mud Slap (Lv 1)
 - Sand Attack (Lv 1)
 - Scratch (Lv 1)
-- Leech Life (Lv 5)
-- Sand Attack (Lv 9)
-- Fury Swipes (Lv 14)
-- Mind Reader (Lv 19)
-- Double Team (Lv 20)
-- Fury Cutter (Lv 20)
-- Screech (Lv 20)
-- Swords Dance (Lv 25)
-- Slash (Lv 31)
-- Agility (Lv 38)
-- Baton Pass (Lv 45)
+- Screech (Lv 1)
+- Agility (Lv 15)
+- Absorb (Lv 23)
+- Bug Bite (Lv 29)
+- Fury Swipes (Lv 36)
+- Mind Reader (Lv 43)
+- Slash (Lv 50)
+- Swords Dance (Lv 57)
+- X Scissor (Lv 64)
 </div>
 </div>
 
@@ -191,16 +196,23 @@ _Shed Pokémon_ • Types: Bug / Ghost • Egg Groups: Mineral • Base EXP: 83
 | Total | <span class="stat-value stat-low">236</span> |
 
 **Notable Level-Up Moves**
+- Dig (Lv 1)
+- False Swipe (Lv 1)
+- Grudge (Lv 1)
 - Harden (Lv 1)
+- Metal Claw (Lv 1)
+- Mud Slap (Lv 1)
+- Sand Attack (Lv 1)
 - Scratch (Lv 1)
-- Leech Life (Lv 5)
-- Sand Attack (Lv 9)
-- Fury Swipes (Lv 14)
-- Mind Reader (Lv 19)
-- Spite (Lv 25)
-- Confuse Ray (Lv 31)
-- Shadow Ball (Lv 38)
-- Grudge (Lv 45)
+- Shadow Claw (Lv 1)
+- Confuse Ray (Lv 15)
+- Absorb (Lv 23)
+- Shadow Sneak (Lv 29)
+- Fury Swipes (Lv 36)
+- Mind Reader (Lv 43)
+- Shadow Ball (Lv 50)
+- Spite (Lv 57)
+- Phantom Force (Lv 64)
 </div>
 </div>
 

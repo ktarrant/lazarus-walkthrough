@@ -41,6 +41,22 @@ _Teamwork Pokémon_ • Types: Fighting • Egg Groups: Ground • Base EXP: 172
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Rock Smash (Lv 5)
+- Focus Energy (Lv 10)
+- Beat Up (Lv 15)
+- Scary Face (Lv 20)
+- Take Down (Lv 25)
+- Fling (Lv 30)
+- Bulk Up (Lv 35)
+- Thrash (Lv 40)
+- Double Edge (Lv 45)
+- Close Combat (Lv 50)
+- Reversal (Lv 55)
+- Giga Impact (Lv 60)
 </div>
 </div>
 

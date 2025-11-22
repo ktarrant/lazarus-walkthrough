@@ -48,18 +48,6 @@ _Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">455</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Astonish (Lv 7)
-- Confusion (Lv 13)
-- Stomp (Lv 19)
-- Odor Sleuth (Lv 25)
-- Agility (Lv 31)
-- Baton Pass (Lv 37)
-- Psybeam (Lv 43)
-- Crunch (Lv 49)
 </div>
 </div>
 

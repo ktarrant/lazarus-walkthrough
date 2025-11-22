@@ -52,16 +52,6 @@ _Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EX
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">325</span> |
-
-**Notable Level-Up Moves**
-- Headbutt (Lv 1)
-- Growl (Lv 9)
-- Icy Wind (Lv 17)
-- Aurora Beam (Lv 21)
-- Rest (Lv 29)
-- Take Down (Lv 37)
-- Ice Beam (Lv 41)
-- Safeguard (Lv 49)
 </div>
 </div>
 
@@ -109,20 +99,6 @@ _Sea Lion Pokémon_ • Types: Water / Ice • Egg Groups: Water1 / Ground • B
 | Sp. Def | <span class="stat-value stat-high">95</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">475</span> |
-
-**Notable Level-Up Moves**
-- Aurora Beam (Lv 1)
-- Growl (Lv 1)
-- Headbutt (Lv 1)
-- Icy Wind (Lv 1)
-- Growl (Lv 9)
-- Icy Wind (Lv 17)
-- Aurora Beam (Lv 21)
-- Rest (Lv 29)
-- Sheer Cold (Lv 34)
-- Take Down (Lv 42)
-- Ice Beam (Lv 51)
-- Safeguard (Lv 64)
 </div>
 </div>
 

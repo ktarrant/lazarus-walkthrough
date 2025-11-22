@@ -51,6 +51,22 @@ _Grass Quill Pokémon_ • Types: Grass / Flying • Egg Groups: Flying • Base
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">42</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Leafage (Lv 3)
+- Astonish (Lv 6)
+- Peck (Lv 9)
+- Shadow Sneak (Lv 12)
+- Razor Leaf (Lv 15)
+- Synthesis (Lv 18)
+- Pluck (Lv 21)
+- Nasty Plot (Lv 24)
+- Sucker Punch (Lv 27)
+- Leaf Blade (Lv 30)
+- Feather Dance (Lv 33)
+- Brave Bird (Lv 36)
 </div>
 </div>
 
@@ -100,6 +116,22 @@ _Blade Quill Pokémon_ • Types: Grass / Flying • Egg Groups: Flying • Base
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-mid">52</span> |
 | Total | <span class="stat-value stat-mid">420</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Growl (Lv 1)
+- Leafage (Lv 1)
+- Tackle (Lv 1)
+- Peck (Lv 9)
+- Shadow Sneak (Lv 12)
+- Razor Leaf (Lv 15)
+- Synthesis (Lv 20)
+- Pluck (Lv 25)
+- Nasty Plot (Lv 30)
+- Sucker Punch (Lv 35)
+- Leaf Blade (Lv 40)
+- Feather Dance (Lv 45)
+- Brave Bird (Lv 50)
 </div>
 </div>
 
@@ -151,6 +183,27 @@ _Arrow Quill Pokémon_ • Types: Grass / Ghost • Egg Groups: Flying • Base 
 | Sp. Def | <span class="stat-value stat-high">100</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">530</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Growl (Lv 1)
+- Leaf Storm (Lv 1)
+- Leafage (Lv 1)
+- Phantom Force (Lv 1)
+- Spirit Shackle (Lv 1)
+- Spite (Lv 1)
+- Tackle (Lv 1)
+- U Turn (Lv 1)
+- Peck (Lv 9)
+- Shadow Sneak (Lv 12)
+- Razor Leaf (Lv 15)
+- Synthesis (Lv 20)
+- Pluck (Lv 25)
+- Nasty Plot (Lv 30)
+- Sucker Punch (Lv 37)
+- Leaf Blade (Lv 44)
+- Feather Dance (Lv 51)
+- Brave Bird (Lv 58)
 </div>
 </div>
 

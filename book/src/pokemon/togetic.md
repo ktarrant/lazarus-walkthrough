@@ -53,16 +53,21 @@ _Spike Ball Pokémon_ • Types: Fairy • Egg Groups: No Eggs • Base EXP: 49
 | Total | <span class="stat-value stat-low">245</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1)
 - Growl (Lv 1)
-- Metronome (Lv 6)
-- Sweet Kiss (Lv 11)
-- Yawn (Lv 16)
-- Encore (Lv 21)
-- Follow Me (Lv 26)
-- Wish (Lv 31)
+- Pound (Lv 1)
+- Sweet Kiss (Lv 4)
+- Life Dew (Lv 8)
+- Charm (Lv 12)
+- Ancient Power (Lv 16)
+- Yawn (Lv 20)
+- Metronome (Lv 24)
+- After You (Lv 28)
+- Double Edge (Lv 32)
 - Safeguard (Lv 36)
-- Double Edge (Lv 41)
+- Follow Me (Lv 40)
+- Baton Pass (Lv 44)
+- Last Resort (Lv 48)
+- Wish (Lv 52)
 </div>
 </div>
 
@@ -120,16 +125,22 @@ _Happiness Pokémon_ • Types: Fairy / Flying • Egg Groups: Flying / Fairy �
 | Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1)
+- Fairy Wind (Lv 1)
 - Growl (Lv 1)
-- Metronome (Lv 6)
-- Sweet Kiss (Lv 11)
-- Yawn (Lv 16)
-- Encore (Lv 21)
-- Follow Me (Lv 26)
-- Wish (Lv 31)
+- Life Dew (Lv 1)
+- Pound (Lv 1)
+- Sweet Kiss (Lv 1)
+- Charm (Lv 12)
+- Ancient Power (Lv 16)
+- Yawn (Lv 20)
+- Metronome (Lv 24)
+- After You (Lv 28)
+- Double Edge (Lv 32)
 - Safeguard (Lv 36)
-- Double Edge (Lv 41)
+- Follow Me (Lv 40)
+- Baton Pass (Lv 44)
+- Last Resort (Lv 48)
+- Wish (Lv 52)
 </div>
 </div>
 
@@ -182,6 +193,29 @@ _Jubilee Pokémon_ • Types: Fairy / Flying • Egg Groups: Flying / Fairy • 
 | Sp. Def | <span class="stat-value stat-high">115</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">545</span> |
+
+**Notable Level-Up Moves**
+- After You (Lv 1)
+- Air Slash (Lv 1)
+- Ancient Power (Lv 1)
+- Aura Sphere (Lv 1)
+- Baton Pass (Lv 1)
+- Charm (Lv 1)
+- Double Edge (Lv 1)
+- Extreme Speed (Lv 1)
+- Fairy Wind (Lv 1)
+- Follow Me (Lv 1)
+- Growl (Lv 1)
+- Last Resort (Lv 1)
+- Life Dew (Lv 1)
+- Metronome (Lv 1)
+- Pound (Lv 1)
+- Safeguard (Lv 1)
+- Sky Attack (Lv 1)
+- Sweet Kiss (Lv 1)
+- Tri Attack (Lv 1)
+- Wish (Lv 1)
+- Yawn (Lv 1)
 </div>
 </div>
 

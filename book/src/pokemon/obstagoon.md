@@ -50,16 +50,18 @@ _Tiny Raccoon Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 5
 **Notable Level-Up Moves**
 - Growl (Lv 1)
 - Tackle (Lv 1)
-- Tail Whip (Lv 5)
-- Headbutt (Lv 9)
-- Sand Attack (Lv 13)
-- Odor Sleuth (Lv 17)
-- Mud Sport (Lv 21)
-- Pin Missile (Lv 25)
-- Covet (Lv 29)
-- Flail (Lv 33)
-- Rest (Lv 37)
-- Belly Drum (Lv 41)
+- Sand Attack (Lv 3)
+- Tail Whip (Lv 6)
+- Covet (Lv 9)
+- Headbutt (Lv 12)
+- Baby Doll Eyes (Lv 15)
+- Pin Missile (Lv 18)
+- Rest (Lv 21)
+- Take Down (Lv 24)
+- Fling (Lv 27)
+- Flail (Lv 30)
+- Belly Drum (Lv 33)
+- Double Edge (Lv 36)
 </div>
 </div>
 
@@ -109,20 +111,24 @@ _Rushing Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 147
 | Total | <span class="stat-value stat-mid">420</span> |
 
 **Notable Level-Up Moves**
+- Baby Doll Eyes (Lv 1)
 - Growl (Lv 1)
-- Headbutt (Lv 1)
+- Pin Missile (Lv 1)
+- Sand Attack (Lv 1)
+- Slash (Lv 1)
+- Switcheroo (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Tail Whip (Lv 5)
-- Headbutt (Lv 9)
-- Sand Attack (Lv 13)
-- Odor Sleuth (Lv 17)
-- Mud Sport (Lv 23)
-- Fury Swipes (Lv 29)
-- Covet (Lv 35)
-- Slash (Lv 41)
-- Rest (Lv 47)
-- Belly Drum (Lv 53)
+- Covet (Lv 9)
+- Headbutt (Lv 12)
+- Hone Claws (Lv 15)
+- Fury Swipes (Lv 18)
+- Rest (Lv 23)
+- Take Down (Lv 28)
+- Fling (Lv 33)
+- Flail (Lv 38)
+- Belly Drum (Lv 43)
+- Double Edge (Lv 48)
 </div>
 </div>
 
@@ -174,6 +180,29 @@ _Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">81</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">520</span> |
+
+**Notable Level-Up Moves**
+- Baby Doll Eyes (Lv 1)
+- Cross Chop (Lv 1)
+- Leer (Lv 1)
+- Lick (Lv 1)
+- Night Slash (Lv 1)
+- Obstruct (Lv 1)
+- Pin Missile (Lv 1)
+- Sand Attack (Lv 1)
+- Submission (Lv 1)
+- Switcheroo (Lv 1)
+- Tackle (Lv 1)
+- Snarl (Lv 9)
+- Headbutt (Lv 12)
+- Hone Claws (Lv 15)
+- Fury Swipes (Lv 18)
+- Rest (Lv 23)
+- Take Down (Lv 28)
+- Scary Face (Lv 35)
+- Counter (Lv 42)
+- Taunt (Lv 49)
+- Double Edge (Lv 56)
 </div>
 </div>
 

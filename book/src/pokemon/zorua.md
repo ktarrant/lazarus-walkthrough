@@ -45,6 +45,22 @@ _Tricky Fox Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 66
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Scratch (Lv 1)
+- Torment (Lv 4)
+- Hone Claws (Lv 8)
+- Fury Swipes (Lv 12)
+- Scary Face (Lv 16)
+- Taunt (Lv 20)
+- Knock Off (Lv 24)
+- Fake Tears (Lv 28)
+- Agility (Lv 32)
+- Imprison (Lv 36)
+- Night Daze (Lv 40)
+- Nasty Plot (Lv 44)
+- Foul Play (Lv 48)
 </div>
 </div>
 
@@ -90,6 +106,24 @@ _Illusion Fox Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 179
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-high">105</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Hone Claws (Lv 1)
+- Leer (Lv 1)
+- Night Slash (Lv 1)
+- Scratch (Lv 1)
+- Torment (Lv 1)
+- U Turn (Lv 1)
+- Fury Swipes (Lv 12)
+- Scary Face (Lv 16)
+- Taunt (Lv 20)
+- Knock Off (Lv 24)
+- Fake Tears (Lv 28)
+- Agility (Lv 34)
+- Imprison (Lv 40)
+- Night Daze (Lv 46)
+- Nasty Plot (Lv 52)
+- Foul Play (Lv 58)
 </div>
 </div>
 

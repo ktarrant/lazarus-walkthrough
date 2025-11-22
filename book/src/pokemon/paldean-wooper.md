@@ -112,16 +112,19 @@ _Water Fish Pokémon_ • Types: Water / Ground • Egg Groups: Water1 / Ground 
 | Total | <span class="stat-value stat-mid">430</span> |
 
 **Notable Level-Up Moves**
+- Mud Shot (Lv 1)
+- Rain Dance (Lv 1)
 - Tail Whip (Lv 1)
 - Water Gun (Lv 1)
-- Slam (Lv 11)
-- Mud Shot (Lv 16)
-- Amnesia (Lv 23)
-- Yawn (Lv 35)
-- Earthquake (Lv 42)
-- Rain Dance (Lv 49)
-- Haze (Lv 61)
-- Mist (Lv 61)
+- Haze (Lv 12)
+- Mist (Lv 12)
+- Slam (Lv 16)
+- Yawn (Lv 23)
+- Aqua Tail (Lv 28)
+- Muddy Water (Lv 34)
+- Amnesia (Lv 40)
+- Toxic (Lv 46)
+- Earthquake (Lv 52)
 </div>
 </div>
 

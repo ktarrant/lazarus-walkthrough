@@ -53,17 +53,19 @@ _Lonely Pokémon_ • Types: Ground • Egg Groups: Monster • Base EXP: 64
 
 **Notable Level-Up Moves**
 - Growl (Lv 1)
-- Tail Whip (Lv 5)
-- Bone Club (Lv 9)
-- Headbutt (Lv 13)
-- Leer (Lv 17)
-- Focus Energy (Lv 21)
-- Bonemerang (Lv 25)
-- Rage (Lv 29)
-- False Swipe (Lv 33)
-- Thrash (Lv 37)
-- Bone Rush (Lv 41)
-- Double Edge (Lv 45)
+- Mud Slap (Lv 1)
+- Tail Whip (Lv 4)
+- False Swipe (Lv 8)
+- Headbutt (Lv 12)
+- Retaliate (Lv 16)
+- Fling (Lv 20)
+- Stomping Tantrum (Lv 24)
+- Bone Rush (Lv 29)
+- Focus Energy (Lv 32)
+- Endeavor (Lv 36)
+- Bonemerang (Lv 40)
+- Thrash (Lv 44)
+- Double Edge (Lv 48)
 </div>
 </div>
 
@@ -113,21 +115,20 @@ _Bone Keeper Pokémon_ • Types: Ground • Egg Groups: Monster • Base EXP: 1
 | Total | <span class="stat-value stat-mid">425</span> |
 
 **Notable Level-Up Moves**
-- Bone Club (Lv 1)
+- False Swipe (Lv 1)
 - Growl (Lv 1)
-- Headbutt (Lv 1)
+- Mud Slap (Lv 1)
 - Tail Whip (Lv 1)
-- Tail Whip (Lv 5)
-- Bone Club (Lv 9)
-- Headbutt (Lv 13)
-- Leer (Lv 17)
-- Focus Energy (Lv 21)
-- Bonemerang (Lv 25)
-- Rage (Lv 32)
-- False Swipe (Lv 39)
-- Thrash (Lv 46)
-- Bone Rush (Lv 53)
-- Double Edge (Lv 61)
+- Headbutt (Lv 12)
+- Retaliate (Lv 16)
+- Fling (Lv 20)
+- Stomping Tantrum (Lv 24)
+- Bone Rush (Lv 31)
+- Focus Energy (Lv 36)
+- Endeavor (Lv 42)
+- Bonemerang (Lv 48)
+- Thrash (Lv 54)
+- Double Edge (Lv 60)
 </div>
 </div>
 

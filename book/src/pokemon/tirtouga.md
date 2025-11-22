@@ -52,6 +52,25 @@ _Prototurtle Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 �
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">22</span> |
 | Total | <span class="stat-value stat-mid">355</span> |
+
+**Notable Level-Up Moves**
+- Water Gun (Lv 1)
+- Withdraw (Lv 1)
+- Protect (Lv 3)
+- Aqua Jet (Lv 6)
+- Smack Down (Lv 9)
+- Ancient Power (Lv 12)
+- Bite (Lv 15)
+- Wide Guard (Lv 18)
+- Brine (Lv 21)
+- Rock Slide (Lv 24)
+- Crunch (Lv 27)
+- Curse (Lv 30)
+- Iron Defense (Lv 33)
+- Aqua Tail (Lv 36)
+- Rain Dance (Lv 39)
+- Hydro Pump (Lv 42)
+- Shell Smash (Lv 45)
 </div>
 </div>
 
@@ -102,6 +121,25 @@ _Prototurtle Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 �
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-low">32</span> |
 | Total | <span class="stat-value stat-mid">495</span> |
+
+**Notable Level-Up Moves**
+- Aqua Jet (Lv 1)
+- Protect (Lv 1)
+- Water Gun (Lv 1)
+- Withdraw (Lv 1)
+- Smack Down (Lv 9)
+- Ancient Power (Lv 12)
+- Bite (Lv 15)
+- Wide Guard (Lv 18)
+- Brine (Lv 21)
+- Rock Slide (Lv 24)
+- Crunch (Lv 27)
+- Curse (Lv 30)
+- Iron Defense (Lv 33)
+- Aqua Tail (Lv 36)
+- Rain Dance (Lv 41)
+- Hydro Pump (Lv 46)
+- Shell Smash (Lv 51)
 </div>
 </div>
 

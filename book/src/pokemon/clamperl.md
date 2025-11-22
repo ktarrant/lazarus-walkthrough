@@ -66,12 +66,6 @@ _Bivalve Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 69
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">32</span> |
 | Total | <span class="stat-value stat-mid">345</span> |
-
-**Notable Level-Up Moves**
-- Clamp (Lv 1)
-- Iron Defense (Lv 1)
-- Water Gun (Lv 1)
-- Whirlpool (Lv 1)
 </div>
 </div>
 
@@ -122,16 +116,6 @@ _Deep Sea Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 170
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">52</span> |
 | Total | <span class="stat-value stat-mid">485</span> |
-
-**Notable Level-Up Moves**
-- Whirlpool (Lv 1)
-- Bite (Lv 8)
-- Screech (Lv 15)
-- Water Pulse (Lv 22)
-- Scary Face (Lv 29)
-- Crunch (Lv 36)
-- Baton Pass (Lv 43)
-- Hydro Pump (Lv 50)
 </div>
 </div>
 
@@ -182,16 +166,6 @@ _South Sea Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 170
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">52</span> |
 | Total | <span class="stat-value stat-mid">485</span> |
-
-**Notable Level-Up Moves**
-- Whirlpool (Lv 1)
-- Confusion (Lv 8)
-- Agility (Lv 15)
-- Water Pulse (Lv 22)
-- Amnesia (Lv 29)
-- Psychic (Lv 36)
-- Baton Pass (Lv 43)
-- Hydro Pump (Lv 50)
 </div>
 </div>
 

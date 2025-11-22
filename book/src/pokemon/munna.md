@@ -49,6 +49,23 @@ _Dream Eater Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 5
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">24</span> |
 | Total | <span class="stat-value stat-low">292</span> |
+
+**Notable Level-Up Moves**
+- Defense Curl (Lv 1)
+- Stored Power (Lv 1)
+- Hypnosis (Lv 4)
+- Psybeam (Lv 8)
+- Imprison (Lv 12)
+- Moonlight (Lv 16)
+- Magic Coat (Lv 20)
+- Zen Headbutt (Lv 24)
+- Calm Mind (Lv 28)
+- Yawn (Lv 32)
+- Psychic (Lv 36)
+- Moonblast (Lv 40)
+- Dream Eater (Lv 44)
+- Future Sight (Lv 48)
+- Wonder Room (Lv 52)
 </div>
 </div>
 
@@ -98,6 +115,24 @@ _Drowsing Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 170
 | Sp. Def | <span class="stat-value stat-high">95</span> |
 | Speed | <span class="stat-value stat-low">29</span> |
 | Total | <span class="stat-value stat-mid">487</span> |
+
+**Notable Level-Up Moves**
+- Calm Mind (Lv 1)
+- Defense Curl (Lv 1)
+- Dream Eater (Lv 1)
+- Future Sight (Lv 1)
+- Hypnosis (Lv 1)
+- Imprison (Lv 1)
+- Magic Coat (Lv 1)
+- Moonblast (Lv 1)
+- Moonlight (Lv 1)
+- Psybeam (Lv 1)
+- Psychic (Lv 1)
+- Psychic Terrain (Lv 1)
+- Stored Power (Lv 1)
+- Wonder Room (Lv 1)
+- Yawn (Lv 1)
+- Zen Headbutt (Lv 1)
 </div>
 </div>
 

@@ -45,19 +45,6 @@ _Fruit Pokémon_ • Types: Grass / Flying • Egg Groups: Monster / Plant • B
 | Sp. Def | <span class="stat-value stat-mid">87</span> |
 | Speed | <span class="stat-value stat-mid">51</span> |
 | Total | <span class="stat-value stat-mid">460</span> |
-
-**Notable Level-Up Moves**
-- Gust (Lv 1)
-- Leer (Lv 1)
-- Growth (Lv 7)
-- Razor Leaf (Lv 11)
-- Stomp (Lv 17)
-- Sweet Scent (Lv 21)
-- Whirlwind (Lv 27)
-- Magical Leaf (Lv 31)
-- Body Slam (Lv 37)
-- Solar Beam (Lv 41)
-- Synthesis (Lv 47)
 </div>
 </div>
 

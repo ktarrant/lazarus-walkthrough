@@ -55,6 +55,21 @@ _Water Gun Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base E
 | Sp. Def | <span class="stat-value stat-mid">63</span> |
 | Speed | <span class="stat-value stat-low">44</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
+
+**Notable Level-Up Moves**
+- Splash (Lv 1)
+- Water Gun (Lv 1)
+- Vice Grip (Lv 5)
+- Flail (Lv 10)
+- Aqua Jet (Lv 15)
+- Smack Down (Lv 20)
+- Hone Claws (Lv 25)
+- Water Pulse (Lv 30)
+- Swords Dance (Lv 35)
+- Aura Sphere (Lv 40)
+- Bounce (Lv 45)
+- Muddy Water (Lv 50)
+- Crabhammer (Lv 55)
 </div>
 </div>
 
@@ -103,6 +118,24 @@ _Howitzer Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base EX
 | Sp. Def | <span class="stat-value stat-mid">89</span> |
 | Speed | <span class="stat-value stat-mid">59</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Dark Pulse (Lv 1)
+- Dragon Pulse (Lv 1)
+- Flail (Lv 1)
+- Heal Pulse (Lv 1)
+- Splash (Lv 1)
+- Vice Grip (Lv 1)
+- Water Gun (Lv 1)
+- Aqua Jet (Lv 15)
+- Smack Down (Lv 20)
+- Hone Claws (Lv 25)
+- Water Pulse (Lv 30)
+- Swords Dance (Lv 35)
+- Aura Sphere (Lv 42)
+- Bounce (Lv 49)
+- Muddy Water (Lv 56)
+- Crabhammer (Lv 63)
 </div>
 </div>
 

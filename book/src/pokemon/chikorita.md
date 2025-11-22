@@ -51,18 +51,6 @@ _Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 6
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">318</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Razor Leaf (Lv 8)
-- Reflect (Lv 12)
-- Poison Powder (Lv 15)
-- Synthesis (Lv 22)
-- Body Slam (Lv 29)
-- Light Screen (Lv 36)
-- Safeguard (Lv 43)
-- Solar Beam (Lv 50)
 </div>
 </div>
 
@@ -112,20 +100,6 @@ _Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 1
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">405</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Razor Leaf (Lv 1)
-- Reflect (Lv 1)
-- Tackle (Lv 1)
-- Razor Leaf (Lv 8)
-- Reflect (Lv 12)
-- Poison Powder (Lv 15)
-- Synthesis (Lv 23)
-- Body Slam (Lv 31)
-- Light Screen (Lv 39)
-- Safeguard (Lv 47)
-- Solar Beam (Lv 55)
 </div>
 </div>
 
@@ -175,20 +149,6 @@ _Herb Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 2
 | Sp. Def | <span class="stat-value stat-high">100</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Razor Leaf (Lv 1)
-- Reflect (Lv 1)
-- Tackle (Lv 1)
-- Razor Leaf (Lv 8)
-- Reflect (Lv 12)
-- Poison Powder (Lv 15)
-- Synthesis (Lv 23)
-- Body Slam (Lv 31)
-- Light Screen (Lv 41)
-- Safeguard (Lv 51)
-- Solar Beam (Lv 61)
 </div>
 </div>
 

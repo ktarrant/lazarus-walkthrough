@@ -49,17 +49,6 @@ _Long Nose Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 66
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Odor Sleuth (Lv 1)
-- Tackle (Lv 1)
-- Defense Curl (Lv 9)
-- Flail (Lv 17)
-- Take Down (Lv 25)
-- Rollout (Lv 33)
-- Endure (Lv 41)
-- Double Edge (Lv 49)
 </div>
 </div>
 
@@ -106,17 +95,6 @@ _Armor Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 175
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Horn Attack (Lv 1)
-- Odor Sleuth (Lv 1)
-- Defense Curl (Lv 9)
-- Flail (Lv 17)
-- Fury Attack (Lv 25)
-- Rollout (Lv 33)
-- Rapid Spin (Lv 41)
-- Earthquake (Lv 49)
 </div>
 </div>
 

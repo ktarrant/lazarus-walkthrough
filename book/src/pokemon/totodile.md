@@ -49,17 +49,6 @@ _Big Jaw Pokémon_ • Types: Water • Egg Groups: Monster / Water1 • Base EX
 | Sp. Def | <span class="stat-value stat-low">48</span> |
 | Speed | <span class="stat-value stat-low">43</span> |
 | Total | <span class="stat-value stat-mid">314</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Scratch (Lv 1)
-- Rage (Lv 7)
-- Water Gun (Lv 13)
-- Bite (Lv 20)
-- Scary Face (Lv 27)
-- Slash (Lv 35)
-- Screech (Lv 43)
-- Hydro Pump (Lv 52)
 </div>
 </div>
 
@@ -106,18 +95,6 @@ _Big Jaw Pokémon_ • Types: Water • Egg Groups: Monster / Water1 • Base EX
 | Sp. Def | <span class="stat-value stat-mid">63</span> |
 | Speed | <span class="stat-value stat-mid">58</span> |
 | Total | <span class="stat-value stat-mid">405</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Rage (Lv 1)
-- Scratch (Lv 1)
-- Rage (Lv 7)
-- Water Gun (Lv 13)
-- Bite (Lv 21)
-- Scary Face (Lv 28)
-- Slash (Lv 37)
-- Screech (Lv 45)
-- Hydro Pump (Lv 55)
 </div>
 </div>
 
@@ -164,19 +141,6 @@ _Big Jaw Pokémon_ • Types: Water • Egg Groups: Monster / Water1 • Base EX
 | Sp. Def | <span class="stat-value stat-mid">83</span> |
 | Speed | <span class="stat-value stat-mid">78</span> |
 | Total | <span class="stat-value stat-mid">530</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Rage (Lv 1)
-- Scratch (Lv 1)
-- Water Gun (Lv 1)
-- Rage (Lv 7)
-- Water Gun (Lv 13)
-- Bite (Lv 21)
-- Scary Face (Lv 28)
-- Slash (Lv 38)
-- Screech (Lv 47)
-- Hydro Pump (Lv 58)
 </div>
 </div>
 

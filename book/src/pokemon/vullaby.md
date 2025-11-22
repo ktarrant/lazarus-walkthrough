@@ -54,6 +54,22 @@ _Diapered Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">370</span> |
+
+**Notable Level-Up Moves**
+- Gust (Lv 1)
+- Leer (Lv 1)
+- Flatter (Lv 6)
+- Pluck (Lv 12)
+- Tailwind (Lv 18)
+- Knock Off (Lv 24)
+- Iron Defense (Lv 30)
+- Whirlwind (Lv 36)
+- Air Slash (Lv 42)
+- Dark Pulse (Lv 48)
+- Nasty Plot (Lv 54)
+- Defog (Lv 60)
+- Attract (Lv 66)
+- Brave Bird (Lv 72)
 </div>
 </div>
 
@@ -104,6 +120,25 @@ _Bone Vulture Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base
 | Sp. Def | <span class="stat-value stat-high">95</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Bone Rush (Lv 1)
+- Flatter (Lv 1)
+- Gust (Lv 1)
+- Leer (Lv 1)
+- Pluck (Lv 1)
+- Sky Attack (Lv 1)
+- Toxic (Lv 1)
+- Tailwind (Lv 18)
+- Knock Off (Lv 24)
+- Iron Defense (Lv 30)
+- Whirlwind (Lv 36)
+- Air Slash (Lv 42)
+- Dark Pulse (Lv 48)
+- Nasty Plot (Lv 57)
+- Defog (Lv 64)
+- Attract (Lv 72)
+- Brave Bird (Lv 80)
 </div>
 </div>
 

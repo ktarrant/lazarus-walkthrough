@@ -53,16 +53,20 @@ _Spiral Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Ba
 | Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
-- Constrict (Lv 1)
+- Bind (Lv 1)
 - Withdraw (Lv 1)
-- Bite (Lv 13)
-- Water Gun (Lv 19)
+- Rollout (Lv 5)
+- Sand Attack (Lv 10)
+- Water Gun (Lv 15)
+- Leer (Lv 20)
 - Mud Shot (Lv 25)
-- Leer (Lv 31)
-- Protect (Lv 37)
-- Tickle (Lv 43)
-- Ancient Power (Lv 49)
-- Hydro Pump (Lv 55)
+- Ancient Power (Lv 30)
+- Brine (Lv 35)
+- Protect (Lv 41)
+- Rock Blast (Lv 45)
+- Surf (Lv 50)
+- Shell Smash (Lv 55)
+- Hydro Pump (Lv 60)
 </div>
 </div>
 
@@ -115,18 +119,21 @@ _Spiral Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Ba
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1)
-- Constrict (Lv 1)
+- Bind (Lv 1)
+- Crunch (Lv 1)
+- Rollout (Lv 1)
+- Sand Attack (Lv 1)
 - Withdraw (Lv 1)
-- Bite (Lv 13)
-- Water Gun (Lv 19)
+- Water Gun (Lv 15)
+- Leer (Lv 20)
 - Mud Shot (Lv 25)
-- Leer (Lv 31)
-- Protect (Lv 37)
-- Spike Cannon (Lv 40)
-- Tickle (Lv 46)
-- Ancient Power (Lv 55)
-- Hydro Pump (Lv 65)
+- Ancient Power (Lv 30)
+- Brine (Lv 35)
+- Protect (Lv 43)
+- Rock Blast (Lv 49)
+- Surf (Lv 56)
+- Shell Smash (Lv 63)
+- Hydro Pump (Lv 70)
 </div>
 </div>
 

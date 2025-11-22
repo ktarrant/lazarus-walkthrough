@@ -61,14 +61,20 @@ _Duck Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 6
 
 **Notable Level-Up Moves**
 - Scratch (Lv 1)
-- Water Sport (Lv 1)
-- Tail Whip (Lv 5)
-- Disable (Lv 10)
-- Confusion (Lv 16)
-- Screech (Lv 23)
-- Psych Up (Lv 31)
-- Fury Swipes (Lv 40)
-- Hydro Pump (Lv 50)
+- Tail Whip (Lv 1)
+- Water Gun (Lv 3)
+- Confusion (Lv 6)
+- Fury Swipes (Lv 9)
+- Water Pulse (Lv 12)
+- Disable (Lv 15)
+- Zen Headbutt (Lv 18)
+- Screech (Lv 21)
+- Aqua Tail (Lv 24)
+- Soak (Lv 27)
+- Psych Up (Lv 30)
+- Amnesia (Lv 34)
+- Hydro Pump (Lv 36)
+- Wonder Room (Lv 39)
 </div>
 </div>
 
@@ -125,17 +131,22 @@ _Duck Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 1
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Disable (Lv 1)
+- Aqua Jet (Lv 1)
+- Confusion (Lv 1)
 - Scratch (Lv 1)
 - Tail Whip (Lv 1)
-- Water Sport (Lv 1)
-- Tail Whip (Lv 5)
-- Disable (Lv 10)
-- Confusion (Lv 16)
-- Screech (Lv 23)
-- Psych Up (Lv 31)
-- Fury Swipes (Lv 44)
-- Hydro Pump (Lv 58)
+- Water Gun (Lv 1)
+- Fury Swipes (Lv 9)
+- Water Pulse (Lv 12)
+- Disable (Lv 15)
+- Zen Headbutt (Lv 18)
+- Screech (Lv 21)
+- Aqua Tail (Lv 24)
+- Soak (Lv 27)
+- Psych Up (Lv 30)
+- Amnesia (Lv 36)
+- Hydro Pump (Lv 40)
+- Wonder Room (Lv 45)
 </div>
 </div>
 

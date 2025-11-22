@@ -44,6 +44,26 @@ _Posy Picker Pokémon_ • Types: Fairy • Egg Groups: Plant • Base EXP: 170
 | Sp. Def | <span class="stat-value stat-high">110</span> |
 | Speed | <span class="stat-value stat-high">100</span> |
 | Total | <span class="stat-value stat-mid">485</span> |
+
+**Notable Level-Up Moves**
+- Growth (Lv 1)
+- Wrap (Lv 1)
+- Vine Whip (Lv 3)
+- Helping Hand (Lv 6)
+- Draining Kiss (Lv 9)
+- Flower Shield (Lv 12)
+- Magical Leaf (Lv 15)
+- Synthesis (Lv 18)
+- Leech Seed (Lv 21)
+- Grass Knot (Lv 24)
+- Sweet Kiss (Lv 27)
+- Floral Healing (Lv 30)
+- Petal Blizzard (Lv 33)
+- Aromatherapy (Lv 36)
+- Play Rough (Lv 39)
+- Sweet Scent (Lv 42)
+- Petal Dance (Lv 45)
+- Grassy Terrain (Lv 48)
 </div>
 </div>
 

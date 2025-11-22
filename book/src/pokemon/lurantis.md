@@ -54,6 +54,20 @@ _Sickle Grass Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 50
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">250</span> |
+
+**Notable Level-Up Moves**
+- Fury Cutter (Lv 1)
+- Leafage (Lv 1)
+- Growth (Lv 5)
+- Ingrain (Lv 10)
+- Razor Leaf (Lv 15)
+- Sweet Scent (Lv 20)
+- Slash (Lv 25)
+- X Scissor (Lv 30)
+- Synthesis (Lv 35)
+- Leaf Blade (Lv 40)
+- Sunny Day (Lv 45)
+- Solar Beam (Lv 50)
 </div>
 </div>
 
@@ -109,6 +123,24 @@ _Bloom Sickle Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 168
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">480</span> |
+
+**Notable Level-Up Moves**
+- Dual Chop (Lv 1)
+- Fury Cutter (Lv 1)
+- Growth (Lv 1)
+- Ingrain (Lv 1)
+- Leafage (Lv 1)
+- Night Slash (Lv 1)
+- Petal Blizzard (Lv 1)
+- Solar Beam (Lv 1)
+- Razor Leaf (Lv 15)
+- Sweet Scent (Lv 20)
+- Slash (Lv 25)
+- X Scissor (Lv 30)
+- Synthesis (Lv 37)
+- Leaf Blade (Lv 44)
+- Sunny Day (Lv 51)
+- Solar Blade (Lv 63)
 </div>
 </div>
 

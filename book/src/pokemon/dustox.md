@@ -56,11 +56,6 @@ _Worm Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 56
 | Sp. Def | <span class="stat-value stat-low">30</span> |
 | Speed | <span class="stat-value stat-low">20</span> |
 | Total | <span class="stat-value stat-low">195</span> |
-
-**Notable Level-Up Moves**
-- String Shot (Lv 1)
-- Tackle (Lv 1)
-- Poison Sting (Lv 5)
 </div>
 </div>
 
@@ -110,10 +105,6 @@ _Cocoon Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 72
 | Sp. Def | <span class="stat-value stat-low">25</span> |
 | Speed | <span class="stat-value stat-low">15</span> |
 | Total | <span class="stat-value stat-low">205</span> |
-
-**Notable Level-Up Moves**
-- Harden (Lv 1)
-- Harden (Lv 7)
 </div>
 </div>
 
@@ -168,18 +159,6 @@ _Butterfly Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 1
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">395</span> |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1)
-- Absorb (Lv 10)
-- Gust (Lv 13)
-- Stun Spore (Lv 17)
-- Morning Sun (Lv 20)
-- Mega Drain (Lv 24)
-- Whirlwind (Lv 27)
-- Attract (Lv 31)
-- Silver Wind (Lv 34)
-- Giga Drain (Lv 38)
 </div>
 </div>
 
@@ -229,10 +208,6 @@ _Cocoon Pokémon_ • Types: Bug • Egg Groups: Bug • Base EXP: 72
 | Sp. Def | <span class="stat-value stat-low">25</span> |
 | Speed | <span class="stat-value stat-low">15</span> |
 | Total | <span class="stat-value stat-low">205</span> |
-
-**Notable Level-Up Moves**
-- Harden (Lv 1)
-- Harden (Lv 7)
 </div>
 </div>
 
@@ -287,18 +262,6 @@ _Poison Moth Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">385</span> |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1)
-- Confusion (Lv 10)
-- Gust (Lv 13)
-- Protect (Lv 17)
-- Moonlight (Lv 20)
-- Psybeam (Lv 24)
-- Whirlwind (Lv 27)
-- Light Screen (Lv 31)
-- Silver Wind (Lv 34)
-- Toxic (Lv 38)
 </div>
 </div>
 

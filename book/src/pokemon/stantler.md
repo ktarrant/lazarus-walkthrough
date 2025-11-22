@@ -45,17 +45,6 @@ _Big Horn Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 163
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">465</span> |
-
-**Notable Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 7)
-- Astonish (Lv 13)
-- Hypnosis (Lv 19)
-- Stomp (Lv 25)
-- Sand Attack (Lv 31)
-- Take Down (Lv 37)
-- Confuse Ray (Lv 43)
-- Calm Mind (Lv 49)
 </div>
 </div>
 

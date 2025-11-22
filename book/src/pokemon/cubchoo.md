@@ -47,6 +47,24 @@ _Chill Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 61
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-low">305</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Powder Snow (Lv 1)
+- Endure (Lv 3)
+- Fury Swipes (Lv 6)
+- Icy Wind (Lv 9)
+- Play Nice (Lv 12)
+- Brine (Lv 15)
+- Frost Breath (Lv 18)
+- Slash (Lv 21)
+- Flail (Lv 24)
+- Charm (Lv 27)
+- Hail (Lv 30)
+- Thrash (Lv 33)
+- Rest (Lv 36)
+- Blizzard (Lv 39)
+- Sheer Cold (Lv 42)
 </div>
 </div>
 
@@ -93,6 +111,28 @@ _Freezing Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 177
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">505</span> |
+
+**Notable Level-Up Moves**
+- Aqua Jet (Lv 1)
+- Charm (Lv 1)
+- Endure (Lv 1)
+- Fury Swipes (Lv 1)
+- Growl (Lv 1)
+- Icicle Crash (Lv 1)
+- Powder Snow (Lv 1)
+- Icy Wind (Lv 9)
+- Play Nice (Lv 12)
+- Brine (Lv 15)
+- Frost Breath (Lv 18)
+- Slash (Lv 21)
+- Flail (Lv 24)
+- Swagger (Lv 27)
+- Hail (Lv 30)
+- Thrash (Lv 33)
+- Rest (Lv 36)
+- Blizzard (Lv 41)
+- Sheer Cold (Lv 46)
+- Superpower (Lv 51)
 </div>
 </div>
 

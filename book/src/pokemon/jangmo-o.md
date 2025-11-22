@@ -53,6 +53,21 @@ _Scaly Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 60
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-low">300</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Protect (Lv 4)
+- Dragon Tail (Lv 8)
+- Scary Face (Lv 12)
+- Headbutt (Lv 16)
+- Work Up (Lv 20)
+- Screech (Lv 24)
+- Iron Defense (Lv 28)
+- Dragon Claw (Lv 32)
+- Noble Roar (Lv 36)
+- Dragon Dance (Lv 40)
+- Outrage (Lv 44)
 </div>
 </div>
 
@@ -106,6 +121,23 @@ _Scaly Pokémon_ • Types: Dragon / Fighting • Egg Groups: Dragon • Base EX
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">420</span> |
+
+**Notable Level-Up Moves**
+- Autotomize (Lv 1)
+- Dragon Tail (Lv 1)
+- Leer (Lv 1)
+- Protect (Lv 1)
+- Tackle (Lv 1)
+- Scary Face (Lv 12)
+- Headbutt (Lv 16)
+- Work Up (Lv 20)
+- Screech (Lv 24)
+- Iron Defense (Lv 28)
+- Dragon Claw (Lv 32)
+- Noble Roar (Lv 38)
+- Dragon Dance (Lv 44)
+- Outrage (Lv 50)
+- Close Combat (Lv 56)
 </div>
 </div>
 
@@ -159,6 +191,27 @@ _Scaly Pokémon_ • Types: Dragon / Fighting • Egg Groups: Dragon • Base EX
 | Sp. Def | <span class="stat-value stat-high">105</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-high">600</span> |
+
+**Notable Level-Up Moves**
+- Autotomize (Lv 1)
+- Belly Drum (Lv 1)
+- Clanging Scales (Lv 1)
+- Dragon Tail (Lv 1)
+- Leer (Lv 1)
+- Protect (Lv 1)
+- Tackle (Lv 1)
+- Scary Face (Lv 12)
+- Headbutt (Lv 16)
+- Work Up (Lv 20)
+- Screech (Lv 24)
+- Iron Defense (Lv 28)
+- Dragon Claw (Lv 32)
+- Noble Roar (Lv 38)
+- Dragon Dance (Lv 44)
+- Outrage (Lv 52)
+- Close Combat (Lv 60)
+- Clangorous Soul (Lv 68)
+- Boomburst (Lv 76)
 </div>
 </div>
 

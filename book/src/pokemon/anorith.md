@@ -49,16 +49,19 @@ _Old Shrimp Pokémon_ • Types: Rock / Bug • Egg Groups: Water3 • Base EXP:
 | Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
-- Scratch (Lv 1)
-- Harden (Lv 7)
-- Mud Sport (Lv 13)
-- Water Gun (Lv 19)
-- Metal Claw (Lv 25)
-- Protect (Lv 31)
-- Ancient Power (Lv 37)
-- Fury Cutter (Lv 43)
-- Slash (Lv 49)
-- Rock Blast (Lv 55)
+- Fury Cutter (Lv 1)
+- Harden (Lv 1)
+- Water Gun (Lv 4)
+- Smack Down (Lv 8)
+- Metal Claw (Lv 12)
+- Ancient Power (Lv 16)
+- Bug Bite (Lv 20)
+- Brine (Lv 24)
+- Slash (Lv 28)
+- Crush Claw (Lv 32)
+- Rock Blast (Lv 36)
+- Protect (Lv 41)
+- X Scissor (Lv 44)
 </div>
 </div>
 
@@ -106,19 +109,19 @@ _Plate Pokémon_ • Types: Rock / Bug • Egg Groups: Water3 • Base EXP: 173
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Notable Level-Up Moves**
+- Fury Cutter (Lv 1)
 - Harden (Lv 1)
-- Mud Sport (Lv 1)
-- Scratch (Lv 1)
+- Smack Down (Lv 1)
 - Water Gun (Lv 1)
-- Harden (Lv 7)
-- Mud Sport (Lv 13)
-- Water Gun (Lv 19)
-- Metal Claw (Lv 25)
-- Protect (Lv 31)
-- Ancient Power (Lv 37)
-- Fury Cutter (Lv 46)
-- Slash (Lv 55)
-- Rock Blast (Lv 64)
+- Metal Claw (Lv 12)
+- Ancient Power (Lv 16)
+- Bug Bite (Lv 20)
+- Brine (Lv 24)
+- Slash (Lv 28)
+- Crush Claw (Lv 32)
+- Rock Blast (Lv 36)
+- Protect (Lv 43)
+- X Scissor (Lv 48)
 </div>
 </div>
 

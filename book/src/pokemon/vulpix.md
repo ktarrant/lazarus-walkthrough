@@ -52,16 +52,21 @@ _Fox Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 60
 
 **Notable Level-Up Moves**
 - Ember (Lv 1)
-- Tail Whip (Lv 5)
-- Roar (Lv 9)
-- Quick Attack (Lv 13)
-- Will O Wisp (Lv 17)
-- Confuse Ray (Lv 21)
-- Imprison (Lv 25)
-- Flamethrower (Lv 29)
-- Safeguard (Lv 33)
-- Grudge (Lv 37)
-- Fire Spin (Lv 41)
+- Tail Whip (Lv 1)
+- Disable (Lv 4)
+- Quick Attack (Lv 8)
+- Spite (Lv 12)
+- Incinerate (Lv 16)
+- Confuse Ray (Lv 20)
+- Will O Wisp (Lv 24)
+- Extrasensory (Lv 28)
+- Flamethrower (Lv 32)
+- Imprison (Lv 36)
+- Fire Spin (Lv 40)
+- Safeguard (Lv 44)
+- Inferno (Lv 48)
+- Grudge (Lv 52)
+- Fire Blast (Lv 56)
 </div>
 </div>
 
@@ -114,10 +119,22 @@ _Fox Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 177
 
 **Notable Level-Up Moves**
 - Confuse Ray (Lv 1)
+- Disable (Lv 1)
 - Ember (Lv 1)
+- Extrasensory (Lv 1)
+- Fire Blast (Lv 1)
+- Fire Spin (Lv 1)
+- Flamethrower (Lv 1)
+- Grudge (Lv 1)
+- Imprison (Lv 1)
+- Incinerate (Lv 1)
+- Inferno (Lv 1)
+- Nasty Plot (Lv 1)
 - Quick Attack (Lv 1)
 - Safeguard (Lv 1)
-- Fire Spin (Lv 45)
+- Spite (Lv 1)
+- Tail Whip (Lv 1)
+- Will O Wisp (Lv 1)
 </div>
 </div>
 

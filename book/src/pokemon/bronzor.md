@@ -57,6 +57,21 @@ _Bronze Pokémon_ • Types: Steel / Psychic • Egg Groups: Mineral • Base EX
 | Sp. Def | <span class="stat-value stat-mid">86</span> |
 | Speed | <span class="stat-value stat-low">23</span> |
 | Total | <span class="stat-value stat-low">300</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Tackle (Lv 1)
+- Confuse Ray (Lv 4)
+- Payback (Lv 8)
+- Imprison (Lv 12)
+- Gyro Ball (Lv 16)
+- Hypnosis (Lv 20)
+- Safeguard (Lv 24)
+- Extrasensory (Lv 28)
+- Heavy Slam (Lv 32)
+- Iron Defense (Lv 36)
+- Metal Sound (Lv 40)
+- Future Sight (Lv 44)
 </div>
 </div>
 
@@ -112,6 +127,25 @@ _Bronze Bell Pokémon_ • Types: Steel / Psychic • Egg Groups: Mineral • Ba
 | Sp. Def | <span class="stat-value stat-high">116</span> |
 | Speed | <span class="stat-value stat-low">33</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Block (Lv 1)
+- Confuse Ray (Lv 1)
+- Confusion (Lv 1)
+- Payback (Lv 1)
+- Sunny Day (Lv 1)
+- Tackle (Lv 1)
+- Weather Ball (Lv 1)
+- Imprison (Lv 12)
+- Gyro Ball (Lv 16)
+- Hypnosis (Lv 20)
+- Safeguard (Lv 24)
+- Extrasensory (Lv 28)
+- Heavy Slam (Lv 32)
+- Iron Defense (Lv 38)
+- Metal Sound (Lv 44)
+- Future Sight (Lv 50)
+- Rain Dance (Lv 56)
 </div>
 </div>
 

@@ -48,18 +48,6 @@ _Hypnosis Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-low">42</span> |
 | Total | <span class="stat-value stat-mid">328</span> |
-
-**Notable Level-Up Moves**
-- Hypnosis (Lv 1)
-- Pound (Lv 1)
-- Disable (Lv 10)
-- Confusion (Lv 18)
-- Headbutt (Lv 25)
-- Poison Gas (Lv 31)
-- Meditate (Lv 36)
-- Psychic (Lv 40)
-- Psych Up (Lv 43)
-- Future Sight (Lv 45)
 </div>
 </div>
 
@@ -106,20 +94,6 @@ _Hypnosis Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 
 | Sp. Def | <span class="stat-value stat-high">115</span> |
 | Speed | <span class="stat-value stat-mid">67</span> |
 | Total | <span class="stat-value stat-mid">483</span> |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1)
-- Disable (Lv 1)
-- Hypnosis (Lv 1)
-- Pound (Lv 1)
-- Disable (Lv 10)
-- Confusion (Lv 18)
-- Headbutt (Lv 25)
-- Poison Gas (Lv 33)
-- Meditate (Lv 40)
-- Psychic (Lv 49)
-- Psych Up (Lv 55)
-- Future Sight (Lv 60)
 </div>
 </div>
 

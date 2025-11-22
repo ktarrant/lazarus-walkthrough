@@ -52,6 +52,21 @@ _Donkey Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 77
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">385</span> |
+
+**Notable Level-Up Moves**
+- Mud Slap (Lv 1)
+- Rock Smash (Lv 1)
+- Iron Defense (Lv 4)
+- Double Kick (Lv 8)
+- Bulldoze (Lv 12)
+- Stomp (Lv 16)
+- Strength (Lv 20)
+- Counter (Lv 24)
+- High Horsepower (Lv 28)
+- Heavy Slam (Lv 32)
+- Earthquake (Lv 36)
+- Mega Kick (Lv 40)
+- Superpower (Lv 44)
 </div>
 </div>
 
@@ -99,6 +114,21 @@ _Draft Horse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 17
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Double Kick (Lv 1)
+- Iron Defense (Lv 1)
+- Mud Slap (Lv 1)
+- Rock Smash (Lv 1)
+- Bulldoze (Lv 12)
+- Stomp (Lv 16)
+- Strength (Lv 20)
+- Counter (Lv 24)
+- High Horsepower (Lv 28)
+- Heavy Slam (Lv 34)
+- Earthquake (Lv 40)
+- Mega Kick (Lv 46)
+- Superpower (Lv 52)
 </div>
 </div>
 

@@ -60,6 +60,12 @@ _Lingering Pokémon_ • Types: Dragon / Ghost • Egg Groups: Indeterminate / D
 | Sp. Def | <span class="stat-value stat-low">30</span> |
 | Speed | <span class="stat-value stat-mid">82</span> |
 | Total | <span class="stat-value stat-low">270</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Bite (Lv 1)
+- Infestation (Lv 1)
+- Quick Attack (Lv 1)
 </div>
 </div>
 
@@ -117,6 +123,25 @@ _Caretaker Pokémon_ • Types: Dragon / Ghost • Egg Groups: Indeterminate / D
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-high">102</span> |
 | Total | <span class="stat-value stat-mid">410</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Bite (Lv 1)
+- Dragon Pulse (Lv 1)
+- Infestation (Lv 1)
+- Quick Attack (Lv 1)
+- Lock On (Lv 6)
+- Assurance (Lv 12)
+- Hex (Lv 18)
+- Agility (Lv 24)
+- Double Hit (Lv 30)
+- U Turn (Lv 36)
+- Dragon Dance (Lv 42)
+- Phantom Force (Lv 48)
+- Take Down (Lv 54)
+- Dragon Rush (Lv 61)
+- Double Edge (Lv 66)
+- Last Resort (Lv 72)
 </div>
 </div>
 
@@ -171,6 +196,27 @@ _Stealth Pokémon_ • Types: Dragon / Ghost • Egg Groups: Indeterminate / Dra
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-high">142</span> |
 | Total | <span class="stat-value stat-high">600</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Bite (Lv 1)
+- Dragon Breath (Lv 1)
+- Dragon Darts (Lv 1)
+- Infestation (Lv 1)
+- Quick Attack (Lv 1)
+- Sucker Punch (Lv 1)
+- Lock On (Lv 6)
+- Assurance (Lv 12)
+- Hex (Lv 18)
+- Agility (Lv 24)
+- Double Hit (Lv 30)
+- U Turn (Lv 36)
+- Dragon Dance (Lv 42)
+- Phantom Force (Lv 48)
+- Take Down (Lv 54)
+- Dragon Rush (Lv 63)
+- Double Edge (Lv 70)
+- Last Resort (Lv 78)
 </div>
 </div>
 

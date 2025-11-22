@@ -49,6 +49,22 @@ _Rock Inn Pokémon_ • Types: Bug / Rock • Egg Groups: Bug / Mineral • Base
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">325</span> |
+
+**Notable Level-Up Moves**
+- Fury Cutter (Lv 1)
+- Sand Attack (Lv 1)
+- Withdraw (Lv 4)
+- Smack Down (Lv 8)
+- Bug Bite (Lv 12)
+- Flail (Lv 16)
+- Slash (Lv 20)
+- Rock Slide (Lv 24)
+- Stealth Rock (Lv 28)
+- Rock Blast (Lv 32)
+- X Scissor (Lv 36)
+- Rock Polish (Lv 40)
+- Shell Smash (Lv 44)
+- Rock Wrecker (Lv 48)
 </div>
 </div>
 
@@ -95,6 +111,22 @@ _Stone Home Pokémon_ • Types: Bug / Rock • Egg Groups: Bug / Mineral • Ba
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">485</span> |
+
+**Notable Level-Up Moves**
+- Fury Cutter (Lv 1)
+- Sand Attack (Lv 1)
+- Smack Down (Lv 1)
+- Withdraw (Lv 1)
+- Bug Bite (Lv 12)
+- Flail (Lv 16)
+- Slash (Lv 20)
+- Rock Slide (Lv 24)
+- Stealth Rock (Lv 28)
+- Rock Blast (Lv 32)
+- X Scissor (Lv 38)
+- Rock Polish (Lv 44)
+- Shell Smash (Lv 50)
+- Rock Wrecker (Lv 56)
 </div>
 </div>
 

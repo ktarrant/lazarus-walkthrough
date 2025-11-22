@@ -55,16 +55,19 @@ _Angler Pokémon_ • Types: Water / Electric • Egg Groups: Water2 • Base EX
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1)
-- Thunder Wave (Lv 1)
-- Supersonic (Lv 5)
-- Flail (Lv 13)
-- Water Gun (Lv 17)
-- Spark (Lv 25)
-- Confuse Ray (Lv 29)
-- Take Down (Lv 37)
-- Hydro Pump (Lv 41)
-- Charge (Lv 49)
+- Supersonic (Lv 1)
+- Water Gun (Lv 1)
+- Electro Ball (Lv 4)
+- Thunder Wave (Lv 8)
+- Bubble Beam (Lv 12)
+- Confuse Ray (Lv 16)
+- Spark (Lv 20)
+- Charge (Lv 24)
+- Discharge (Lv 28)
+- Aqua Ring (Lv 32)
+- Flail (Lv 36)
+- Take Down (Lv 40)
+- Hydro Pump (Lv 44)
 </div>
 </div>
 
@@ -121,17 +124,23 @@ _Light Pokémon_ • Types: Water / Electric • Egg Groups: Water2 • Base EXP
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1)
+- Eerie Impulse (Lv 1)
+- Electro Ball (Lv 1)
+- Spit Up (Lv 1)
+- Stockpile (Lv 1)
 - Supersonic (Lv 1)
+- Swallow (Lv 1)
 - Thunder Wave (Lv 1)
-- Supersonic (Lv 5)
-- Flail (Lv 13)
-- Water Gun (Lv 17)
-- Spark (Lv 25)
-- Confuse Ray (Lv 32)
-- Take Down (Lv 43)
-- Hydro Pump (Lv 50)
-- Charge (Lv 61)
+- Water Gun (Lv 1)
+- Bubble Beam (Lv 12)
+- Confuse Ray (Lv 16)
+- Spark (Lv 20)
+- Charge (Lv 24)
+- Discharge (Lv 30)
+- Aqua Ring (Lv 36)
+- Flail (Lv 42)
+- Take Down (Lv 48)
+- Hydro Pump (Lv 54)
 </div>
 </div>
 

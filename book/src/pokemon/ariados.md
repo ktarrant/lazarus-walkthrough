@@ -51,18 +51,6 @@ _String Spit Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP:
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-low">250</span> |
-
-**Notable Level-Up Moves**
-- Poison Sting (Lv 1)
-- String Shot (Lv 1)
-- Scary Face (Lv 6)
-- Constrict (Lv 11)
-- Night Shade (Lv 17)
-- Leech Life (Lv 23)
-- Fury Swipes (Lv 30)
-- Spider Web (Lv 37)
-- Agility (Lv 45)
-- Psychic (Lv 53)
 </div>
 </div>
 
@@ -116,20 +104,6 @@ _Long Leg Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP: 14
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">400</span> |
-
-**Notable Level-Up Moves**
-- Constrict (Lv 1)
-- Poison Sting (Lv 1)
-- Scary Face (Lv 1)
-- String Shot (Lv 1)
-- Scary Face (Lv 6)
-- Constrict (Lv 11)
-- Night Shade (Lv 17)
-- Leech Life (Lv 25)
-- Fury Swipes (Lv 34)
-- Spider Web (Lv 43)
-- Agility (Lv 53)
-- Psychic (Lv 63)
 </div>
 </div>
 

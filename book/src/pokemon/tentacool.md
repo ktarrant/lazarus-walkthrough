@@ -73,14 +73,19 @@ _Jellyfish Pokémon_ • Types: Water / Poison • Egg Groups: Water3 • Base E
 
 **Notable Level-Up Moves**
 - Poison Sting (Lv 1)
-- Supersonic (Lv 6)
-- Constrict (Lv 12)
-- Acid (Lv 19)
-- Bubble Beam (Lv 25)
-- Wrap (Lv 30)
-- Barrier (Lv 36)
-- Screech (Lv 43)
-- Hydro Pump (Lv 49)
+- Water Gun (Lv 1)
+- Acid (Lv 4)
+- Wrap (Lv 8)
+- Supersonic (Lv 12)
+- Water Pulse (Lv 16)
+- Screech (Lv 20)
+- Bubble Beam (Lv 24)
+- Hex (Lv 28)
+- Acid Armor (Lv 32)
+- Poison Jab (Lv 36)
+- Surf (Lv 40)
+- Sludge Wave (Lv 44)
+- Hydro Pump (Lv 48)
 </div>
 </div>
 
@@ -140,17 +145,21 @@ _Jellyfish Pokémon_ • Types: Water / Poison • Egg Groups: Water3 • Base E
 | Total | <span class="stat-value stat-mid">515</span> |
 
 **Notable Level-Up Moves**
-- Constrict (Lv 1)
+- Acid (Lv 1)
 - Poison Sting (Lv 1)
-- Supersonic (Lv 1)
-- Supersonic (Lv 6)
-- Constrict (Lv 12)
-- Acid (Lv 19)
-- Bubble Beam (Lv 25)
-- Wrap (Lv 30)
-- Barrier (Lv 38)
-- Screech (Lv 47)
-- Hydro Pump (Lv 55)
+- Reflect Type (Lv 1)
+- Water Gun (Lv 1)
+- Wrap (Lv 1)
+- Supersonic (Lv 12)
+- Water Pulse (Lv 16)
+- Screech (Lv 20)
+- Bubble Beam (Lv 24)
+- Hex (Lv 28)
+- Acid Armor (Lv 34)
+- Poison Jab (Lv 40)
+- Surf (Lv 46)
+- Sludge Wave (Lv 52)
+- Hydro Pump (Lv 58)
 </div>
 </div>
 

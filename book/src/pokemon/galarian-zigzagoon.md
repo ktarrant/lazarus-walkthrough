@@ -50,6 +50,22 @@ _Tiny Raccoon Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base
 | Sp. Def | <span class="stat-value stat-low">41</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-low">240</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Sand Attack (Lv 3)
+- Lick (Lv 6)
+- Snarl (Lv 9)
+- Headbutt (Lv 12)
+- Baby Doll Eyes (Lv 15)
+- Pin Missile (Lv 18)
+- Rest (Lv 21)
+- Take Down (Lv 24)
+- Scary Face (Lv 27)
+- Counter (Lv 30)
+- Taunt (Lv 33)
+- Double Edge (Lv 36)
 </div>
 </div>
 
@@ -102,6 +118,26 @@ _Rushing Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">61</span> |
 | Speed | <span class="stat-value stat-high">100</span> |
 | Total | <span class="stat-value stat-mid">420</span> |
+
+**Notable Level-Up Moves**
+- Baby Doll Eyes (Lv 1)
+- Leer (Lv 1)
+- Lick (Lv 1)
+- Night Slash (Lv 1)
+- Pin Missile (Lv 1)
+- Sand Attack (Lv 1)
+- Switcheroo (Lv 1)
+- Tackle (Lv 1)
+- Snarl (Lv 9)
+- Headbutt (Lv 12)
+- Hone Claws (Lv 15)
+- Fury Swipes (Lv 18)
+- Rest (Lv 23)
+- Take Down (Lv 28)
+- Scary Face (Lv 33)
+- Counter (Lv 38)
+- Taunt (Lv 43)
+- Double Edge (Lv 48)
 </div>
 </div>
 
@@ -153,6 +189,29 @@ _Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">81</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">520</span> |
+
+**Notable Level-Up Moves**
+- Baby Doll Eyes (Lv 1)
+- Cross Chop (Lv 1)
+- Leer (Lv 1)
+- Lick (Lv 1)
+- Night Slash (Lv 1)
+- Obstruct (Lv 1)
+- Pin Missile (Lv 1)
+- Sand Attack (Lv 1)
+- Submission (Lv 1)
+- Switcheroo (Lv 1)
+- Tackle (Lv 1)
+- Snarl (Lv 9)
+- Headbutt (Lv 12)
+- Hone Claws (Lv 15)
+- Fury Swipes (Lv 18)
+- Rest (Lv 23)
+- Take Down (Lv 28)
+- Scary Face (Lv 35)
+- Counter (Lv 42)
+- Taunt (Lv 49)
+- Double Edge (Lv 56)
 </div>
 </div>
 

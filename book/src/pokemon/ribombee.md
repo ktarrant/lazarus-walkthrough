@@ -54,6 +54,19 @@ _Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base E
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-mid">84</span> |
 | Total | <span class="stat-value stat-low">304</span> |
+
+**Notable Level-Up Moves**
+- Absorb (Lv 1)
+- Fairy Wind (Lv 1)
+- Stun Spore (Lv 6)
+- Sweet Scent (Lv 12)
+- Draining Kiss (Lv 18)
+- Struggle Bug (Lv 24)
+- Aromatherapy (Lv 30)
+- Switcheroo (Lv 36)
+- Dazzling Gleam (Lv 42)
+- Bug Buzz (Lv 48)
+- Quiver Dance (Lv 54)
 </div>
 </div>
 
@@ -110,6 +123,21 @@ _Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base E
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-high">124</span> |
 | Total | <span class="stat-value stat-mid">464</span> |
+
+**Notable Level-Up Moves**
+- Absorb (Lv 1)
+- Covet (Lv 1)
+- Fairy Wind (Lv 1)
+- Pollen Puff (Lv 1)
+- Stun Spore (Lv 1)
+- Sweet Scent (Lv 1)
+- Draining Kiss (Lv 18)
+- Struggle Bug (Lv 24)
+- Aromatherapy (Lv 32)
+- Switcheroo (Lv 40)
+- Dazzling Gleam (Lv 48)
+- Bug Buzz (Lv 56)
+- Quiver Dance (Lv 64)
 </div>
 </div>
 

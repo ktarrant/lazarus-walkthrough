@@ -49,6 +49,24 @@ _Wrestling Pokémon_ • Types: Fighting / Flying • Egg Groups: Flying / Human
 | Sp. Def | <span class="stat-value stat-mid">63</span> |
 | Speed | <span class="stat-value stat-high">118</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Hone Claws (Lv 1)
+- Tackle (Lv 1)
+- Wing Attack (Lv 4)
+- Detect (Lv 8)
+- Aerial Ace (Lv 12)
+- Encore (Lv 16)
+- Feather Dance (Lv 20)
+- Submission (Lv 24)
+- Bounce (Lv 28)
+- Taunt (Lv 32)
+- Roost (Lv 36)
+- Swords Dance (Lv 40)
+- Flying Press (Lv 44)
+- High Jump Kick (Lv 48)
+- Endeavor (Lv 52)
+- Sky Attack (Lv 56)
 </div>
 </div>
 

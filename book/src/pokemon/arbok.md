@@ -51,19 +51,6 @@ _Snake Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">54</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-low">288</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Wrap (Lv 1)
-- Poison Sting (Lv 8)
-- Bite (Lv 13)
-- Glare (Lv 20)
-- Screech (Lv 25)
-- Acid (Lv 32)
-- Spit Up (Lv 37)
-- Stockpile (Lv 37)
-- Swallow (Lv 37)
-- Haze (Lv 44)
 </div>
 </div>
 
@@ -115,21 +102,6 @@ _Cobra Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">79</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">448</span> |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1)
-- Leer (Lv 1)
-- Poison Sting (Lv 1)
-- Wrap (Lv 1)
-- Poison Sting (Lv 8)
-- Bite (Lv 13)
-- Glare (Lv 20)
-- Screech (Lv 28)
-- Acid (Lv 38)
-- Spit Up (Lv 46)
-- Stockpile (Lv 46)
-- Swallow (Lv 46)
-- Haze (Lv 56)
 </div>
 </div>
 

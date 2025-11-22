@@ -57,6 +57,21 @@ _Copperderm Pokémon_ • Types: Steel • Egg Groups: Ground / Mineral • Base
 | Sp. Def | <span class="stat-value stat-low">49</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Rollout (Lv 5)
+- Rock Smash (Lv 10)
+- Bulldoze (Lv 15)
+- Stomp (Lv 20)
+- Iron Defense (Lv 25)
+- Dig (Lv 30)
+- Strength (Lv 35)
+- Iron Head (Lv 40)
+- Play Rough (Lv 45)
+- High Horsepower (Lv 50)
+- Superpower (Lv 55)
 </div>
 </div>
 
@@ -111,6 +126,22 @@ _Copperderm Pokémon_ • Types: Steel • Egg Groups: Ground / Mineral • Base
 | Sp. Def | <span class="stat-value stat-mid">69</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Heavy Slam (Lv 1)
+- Rock Smash (Lv 1)
+- Rollout (Lv 1)
+- Tackle (Lv 1)
+- Bulldoze (Lv 15)
+- Stomp (Lv 20)
+- Iron Defense (Lv 25)
+- Dig (Lv 30)
+- Strength (Lv 37)
+- Iron Head (Lv 44)
+- Play Rough (Lv 51)
+- High Horsepower (Lv 58)
+- Superpower (Lv 65)
 </div>
 </div>
 

@@ -52,17 +52,6 @@ _Twin Bird Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base 
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-mid">75</span> |
 | Total | <span class="stat-value stat-mid">310</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Peck (Lv 1)
-- Pursuit (Lv 9)
-- Fury Attack (Lv 13)
-- Tri Attack (Lv 21)
-- Rage (Lv 25)
-- Uproar (Lv 33)
-- Drill Peck (Lv 37)
-- Agility (Lv 45)
 </div>
 </div>
 
@@ -116,19 +105,6 @@ _Triple Bird Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Bas
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-high">110</span> |
 | Total | <span class="stat-value stat-mid">470</span> |
-
-**Notable Level-Up Moves**
-- Fury Attack (Lv 1)
-- Growl (Lv 1)
-- Peck (Lv 1)
-- Pursuit (Lv 1)
-- Pursuit (Lv 9)
-- Fury Attack (Lv 13)
-- Tri Attack (Lv 21)
-- Rage (Lv 25)
-- Uproar (Lv 38)
-- Drill Peck (Lv 47)
-- Agility (Lv 60)
 </div>
 </div>
 

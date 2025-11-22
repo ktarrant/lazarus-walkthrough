@@ -57,16 +57,22 @@ _Rock Skin Pokémon_ • Types: Rock / Ground • Egg Groups: Monster • Base E
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1)
 - Leer (Lv 1)
-- Sandstorm (Lv 8)
-- Screech (Lv 15)
-- Rock Slide (Lv 22)
-- Thrash (Lv 29)
-- Scary Face (Lv 36)
-- Crunch (Lv 43)
-- Earthquake (Lv 50)
-- Hyper Beam (Lv 57)
+- Tackle (Lv 1)
+- Rock Throw (Lv 3)
+- Payback (Lv 6)
+- Bite (Lv 9)
+- Scary Face (Lv 12)
+- Rock Slide (Lv 15)
+- Stomping Tantrum (Lv 18)
+- Screech (Lv 21)
+- Dark Pulse (Lv 24)
+- Crunch (Lv 27)
+- Earthquake (Lv 31)
+- Stone Edge (Lv 33)
+- Thrash (Lv 36)
+- Sandstorm (Lv 39)
+- Hyper Beam (Lv 42)
 </div>
 </div>
 
@@ -120,18 +126,23 @@ _Hard Shell Pokémon_ • Types: Rock / Ground • Egg Groups: Monster • Base 
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1)
+- Iron Defense (Lv 1)
 - Leer (Lv 1)
-- Sandstorm (Lv 1)
-- Screech (Lv 1)
-- Sandstorm (Lv 8)
-- Screech (Lv 15)
-- Rock Slide (Lv 22)
-- Thrash (Lv 29)
-- Scary Face (Lv 38)
-- Crunch (Lv 47)
-- Earthquake (Lv 56)
-- Hyper Beam (Lv 65)
+- Payback (Lv 1)
+- Rock Throw (Lv 1)
+- Tackle (Lv 1)
+- Bite (Lv 9)
+- Scary Face (Lv 12)
+- Rock Slide (Lv 15)
+- Stomping Tantrum (Lv 18)
+- Screech (Lv 21)
+- Dark Pulse (Lv 24)
+- Crunch (Lv 27)
+- Earthquake (Lv 33)
+- Stone Edge (Lv 37)
+- Thrash (Lv 42)
+- Sandstorm (Lv 47)
+- Hyper Beam (Lv 52)
 </div>
 </div>
 
@@ -188,18 +199,27 @@ _Armor Pokémon_ • Types: Rock / Dark • Egg Groups: Monster • Base EXP: 27
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1)
+- Fire Fang (Lv 1)
+- Ice Fang (Lv 1)
+- Iron Defense (Lv 1)
 - Leer (Lv 1)
-- Sandstorm (Lv 1)
-- Screech (Lv 1)
-- Sandstorm (Lv 8)
-- Screech (Lv 15)
-- Rock Slide (Lv 22)
-- Thrash (Lv 29)
-- Scary Face (Lv 38)
-- Crunch (Lv 47)
-- Earthquake (Lv 61)
-- Hyper Beam (Lv 75)
+- Payback (Lv 1)
+- Rock Throw (Lv 1)
+- Tackle (Lv 1)
+- Thunder Fang (Lv 1)
+- Bite (Lv 9)
+- Scary Face (Lv 12)
+- Rock Slide (Lv 15)
+- Stomping Tantrum (Lv 18)
+- Screech (Lv 21)
+- Dark Pulse (Lv 24)
+- Crunch (Lv 27)
+- Earthquake (Lv 33)
+- Stone Edge (Lv 37)
+- Thrash (Lv 42)
+- Sandstorm (Lv 47)
+- Hyper Beam (Lv 52)
+- Giga Impact (Lv 59)
 </div>
 </div>
 

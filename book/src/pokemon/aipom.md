@@ -44,18 +44,6 @@ _Long Tail Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 72
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">360</span> |
-
-**Notable Level-Up Moves**
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 6)
-- Astonish (Lv 13)
-- Baton Pass (Lv 18)
-- Tickle (Lv 25)
-- Fury Swipes (Lv 31)
-- Swift (Lv 38)
-- Screech (Lv 43)
-- Agility (Lv 50)
 </div>
 </div>
 

@@ -58,16 +58,16 @@ _Sharp Claw Pokémon_ • Types: Dark / Ice • Egg Groups: Ground • Base EXP:
 **Notable Level-Up Moves**
 - Leer (Lv 1)
 - Scratch (Lv 1)
-- Taunt (Lv 1)
-- Quick Attack (Lv 8)
-- Screech (Lv 15)
-- Feint Attack (Lv 22)
-- Fury Swipes (Lv 29)
-- Agility (Lv 36)
-- Icy Wind (Lv 43)
-- Slash (Lv 50)
-- Beat Up (Lv 57)
-- Metal Claw (Lv 64)
+- Taunt (Lv 6)
+- Quick Attack (Lv 12)
+- Metal Claw (Lv 18)
+- Icy Wind (Lv 24)
+- Fury Swipes (Lv 30)
+- Hone Claws (Lv 36)
+- Beat Up (Lv 42)
+- Agility (Lv 48)
+- Screech (Lv 54)
+- Slash (Lv 60)
 </div>
 </div>
 
@@ -119,6 +119,27 @@ _Sharp Claw Pokémon_ • Types: Dark / Ice • Egg Groups: Ground • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-high">125</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Agility (Lv 1)
+- Assurance (Lv 1)
+- Beat Up (Lv 1)
+- Ice Shard (Lv 1)
+- Leer (Lv 1)
+- Quick Attack (Lv 1)
+- Revenge (Lv 1)
+- Scratch (Lv 1)
+- Slash (Lv 1)
+- Taunt (Lv 1)
+- Metal Claw (Lv 18)
+- Icy Wind (Lv 24)
+- Fury Swipes (Lv 30)
+- Hone Claws (Lv 36)
+- Fling (Lv 42)
+- Nasty Plot (Lv 48)
+- Screech (Lv 54)
+- Night Slash (Lv 60)
+- Dark Pulse (Lv 66)
 </div>
 </div>
 

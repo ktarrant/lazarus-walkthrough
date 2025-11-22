@@ -56,16 +56,21 @@ _Feeling Pokémon_ • Types: Psychic / Fairy • Egg Groups: Humanshape / Indet
 | Total | <span class="stat-value stat-low">198</span> |
 
 **Notable Level-Up Moves**
+- Disarming Voice (Lv 1)
 - Growl (Lv 1)
+- Double Team (Lv 3)
 - Confusion (Lv 6)
-- Double Team (Lv 11)
-- Teleport (Lv 16)
-- Calm Mind (Lv 21)
-- Psychic (Lv 26)
-- Imprison (Lv 31)
-- Future Sight (Lv 36)
-- Hypnosis (Lv 41)
-- Dream Eater (Lv 46)
+- Hypnosis (Lv 9)
+- Draining Kiss (Lv 12)
+- Teleport (Lv 15)
+- Psybeam (Lv 18)
+- Life Dew (Lv 21)
+- Charm (Lv 24)
+- Calm Mind (Lv 27)
+- Psychic (Lv 30)
+- Heal Pulse (Lv 33)
+- Dream Eater (Lv 36)
+- Future Sight (Lv 39)
 </div>
 </div>
 
@@ -124,18 +129,20 @@ _Emotion Pokémon_ • Types: Psychic / Fairy • Egg Groups: Humanshape / Indet
 
 **Notable Level-Up Moves**
 - Confusion (Lv 1)
+- Disarming Voice (Lv 1)
 - Double Team (Lv 1)
 - Growl (Lv 1)
-- Teleport (Lv 1)
-- Confusion (Lv 6)
-- Double Team (Lv 11)
-- Teleport (Lv 16)
-- Calm Mind (Lv 21)
-- Psychic (Lv 26)
-- Imprison (Lv 33)
-- Future Sight (Lv 40)
-- Hypnosis (Lv 47)
-- Dream Eater (Lv 54)
+- Hypnosis (Lv 9)
+- Draining Kiss (Lv 12)
+- Teleport (Lv 15)
+- Psybeam (Lv 18)
+- Life Dew (Lv 23)
+- Charm (Lv 28)
+- Calm Mind (Lv 33)
+- Psychic (Lv 38)
+- Heal Pulse (Lv 43)
+- Dream Eater (Lv 48)
+- Future Sight (Lv 53)
 </div>
 </div>
 
@@ -186,19 +193,26 @@ _Embrace Pokémon_ • Types: Psychic / Fairy • Egg Groups: Humanshape / Indet
 | Total | <span class="stat-value stat-mid">518</span> |
 
 **Notable Level-Up Moves**
+- Charm (Lv 1)
 - Confusion (Lv 1)
+- Dazzling Gleam (Lv 1)
+- Disarming Voice (Lv 1)
 - Double Team (Lv 1)
 - Growl (Lv 1)
-- Teleport (Lv 1)
-- Confusion (Lv 6)
-- Double Team (Lv 11)
-- Teleport (Lv 16)
-- Calm Mind (Lv 21)
-- Psychic (Lv 26)
-- Imprison (Lv 33)
-- Future Sight (Lv 42)
-- Hypnosis (Lv 51)
-- Dream Eater (Lv 60)
+- Healing Wish (Lv 1)
+- Misty Terrain (Lv 1)
+- Moonblast (Lv 1)
+- Hypnosis (Lv 9)
+- Draining Kiss (Lv 12)
+- Teleport (Lv 15)
+- Psybeam (Lv 18)
+- Life Dew (Lv 23)
+- Wish (Lv 28)
+- Calm Mind (Lv 35)
+- Psychic (Lv 42)
+- Heal Pulse (Lv 49)
+- Dream Eater (Lv 56)
+- Future Sight (Lv 63)
 </div>
 </div>
 
@@ -246,6 +260,38 @@ _Blade Pokémon_ • Types: Psychic / Fighting • Egg Groups: Humanshape / Inde
 | Sp. Def | <span class="stat-value stat-high">115</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">518</span> |
+
+**Notable Level-Up Moves**
+- Calm Mind (Lv 1)
+- Charm (Lv 1)
+- Confusion (Lv 1)
+- Disarming Voice (Lv 1)
+- Double Team (Lv 1)
+- Draining Kiss (Lv 1)
+- Dream Eater (Lv 1)
+- Fury Cutter (Lv 1)
+- Future Sight (Lv 1)
+- Growl (Lv 1)
+- Hypnosis (Lv 1)
+- Imprison (Lv 1)
+- Leer (Lv 1)
+- Life Dew (Lv 1)
+- Night Slash (Lv 1)
+- Psybeam (Lv 1)
+- Psychic (Lv 1)
+- Slash (Lv 1)
+- Helping Hand (Lv 9)
+- Feint (Lv 12)
+- Teleport (Lv 15)
+- Aerial Ace (Lv 18)
+- False Swipe (Lv 23)
+- Protect (Lv 28)
+- Swords Dance (Lv 35)
+- Psycho Cut (Lv 42)
+- Heal Pulse (Lv 49)
+- Quick Guard (Lv 56)
+- Wide Guard (Lv 56)
+- Close Combat (Lv 63)
 </div>
 </div>
 

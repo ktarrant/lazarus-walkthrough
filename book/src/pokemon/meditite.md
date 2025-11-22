@@ -50,19 +50,6 @@ _Meditate Pokémon_ • Types: Fighting / Psychic • Egg Groups: Humanshape •
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-low">280</span> |
-
-**Notable Level-Up Moves**
-- Bide (Lv 1)
-- Meditate (Lv 4)
-- Confusion (Lv 9)
-- Detect (Lv 12)
-- Hidden Power (Lv 18)
-- Mind Reader (Lv 22)
-- Calm Mind (Lv 28)
-- High Jump Kick (Lv 32)
-- Psych Up (Lv 38)
-- Reversal (Lv 42)
-- Recover (Lv 48)
 </div>
 </div>
 
@@ -108,25 +95,6 @@ _Meditate Pokémon_ • Types: Fighting / Psychic • Egg Groups: Humanshape •
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">410</span> |
-
-**Notable Level-Up Moves**
-- Bide (Lv 1)
-- Confusion (Lv 1)
-- Detect (Lv 1)
-- Fire Punch (Lv 1)
-- Ice Punch (Lv 1)
-- Meditate (Lv 1)
-- Thunder Punch (Lv 1)
-- Meditate (Lv 4)
-- Confusion (Lv 9)
-- Detect (Lv 12)
-- Hidden Power (Lv 18)
-- Mind Reader (Lv 22)
-- Calm Mind (Lv 28)
-- High Jump Kick (Lv 32)
-- Psych Up (Lv 40)
-- Reversal (Lv 46)
-- Recover (Lv 54)
 </div>
 </div>
 

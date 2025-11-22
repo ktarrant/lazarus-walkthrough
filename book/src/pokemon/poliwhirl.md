@@ -63,14 +63,17 @@ _Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 60
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1)
-- Hypnosis (Lv 7)
-- Water Gun (Lv 13)
-- Double Slap (Lv 19)
-- Rain Dance (Lv 25)
-- Body Slam (Lv 31)
-- Belly Drum (Lv 37)
-- Hydro Pump (Lv 43)
+- Hypnosis (Lv 1)
+- Water Gun (Lv 1)
+- Pound (Lv 6)
+- Mud Shot (Lv 12)
+- Bubble Beam (Lv 18)
+- Rain Dance (Lv 24)
+- Body Slam (Lv 30)
+- Earth Power (Lv 36)
+- Hydro Pump (Lv 42)
+- Belly Drum (Lv 48)
+- Double Edge (Lv 54)
 </div>
 </div>
 
@@ -126,16 +129,17 @@ _Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 135
 | Total | <span class="stat-value stat-mid">385</span> |
 
 **Notable Level-Up Moves**
-- Bubble (Lv 1)
 - Hypnosis (Lv 1)
+- Mud Shot (Lv 1)
+- Pound (Lv 1)
 - Water Gun (Lv 1)
-- Hypnosis (Lv 7)
-- Water Gun (Lv 13)
-- Double Slap (Lv 19)
-- Rain Dance (Lv 27)
-- Body Slam (Lv 35)
-- Belly Drum (Lv 43)
-- Hydro Pump (Lv 51)
+- Bubble Beam (Lv 18)
+- Rain Dance (Lv 24)
+- Body Slam (Lv 32)
+- Earth Power (Lv 40)
+- Hydro Pump (Lv 48)
+- Belly Drum (Lv 56)
+- Double Edge (Lv 66)
 </div>
 </div>
 
@@ -192,12 +196,21 @@ _Tadpole Pokémon_ • Types: Water / Fighting • Egg Groups: Water1 • Base E
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Notable Level-Up Moves**
-- Double Slap (Lv 1)
+- Belly Drum (Lv 1)
+- Body Slam (Lv 1)
+- Bubble Beam (Lv 1)
+- Circle Throw (Lv 1)
+- Double Edge (Lv 1)
+- Dynamic Punch (Lv 1)
+- Earth Power (Lv 1)
+- Hydro Pump (Lv 1)
 - Hypnosis (Lv 1)
+- Mind Reader (Lv 1)
+- Mud Shot (Lv 1)
+- Pound (Lv 1)
+- Rain Dance (Lv 1)
 - Submission (Lv 1)
 - Water Gun (Lv 1)
-- Submission (Lv 35)
-- Mind Reader (Lv 51)
 </div>
 </div>
 
@@ -248,12 +261,21 @@ _Frog Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 225
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
-- Double Slap (Lv 1)
+- Belly Drum (Lv 1)
+- Body Slam (Lv 1)
+- Bounce (Lv 1)
+- Bubble Beam (Lv 1)
+- Double Edge (Lv 1)
+- Earth Power (Lv 1)
+- Hydro Pump (Lv 1)
+- Hyper Voice (Lv 1)
 - Hypnosis (Lv 1)
+- Mud Shot (Lv 1)
 - Perish Song (Lv 1)
+- Pound (Lv 1)
+- Rain Dance (Lv 1)
+- Swagger (Lv 1)
 - Water Gun (Lv 1)
-- Perish Song (Lv 35)
-- Swagger (Lv 51)
 </div>
 </div>
 

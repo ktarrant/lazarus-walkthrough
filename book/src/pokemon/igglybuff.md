@@ -51,11 +51,14 @@ _Balloon Pokémon_ • Types: Normal / Fairy • Egg Groups: No Eggs • Base EX
 | Total | <span class="stat-value stat-low">210</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1)
+- Copycat (Lv 1)
+- Pound (Lv 1)
 - Sing (Lv 1)
 - Defense Curl (Lv 4)
-- Pound (Lv 9)
-- Sweet Kiss (Lv 14)
+- Sweet Kiss (Lv 8)
+- Disarming Voice (Lv 12)
+- Disable (Lv 16)
+- Charm (Lv 20)
 </div>
 </div>
 
@@ -109,17 +112,27 @@ _Balloon Pokémon_ • Types: Normal / Fairy • Egg Groups: Fairy • Base EXP:
 | Total | <span class="stat-value stat-low">270</span> |
 
 **Notable Level-Up Moves**
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Defense Curl (Lv 1)
+- Disable (Lv 1)
+- Disarming Voice (Lv 1)
+- Pound (Lv 1)
 - Sing (Lv 1)
-- Defense Curl (Lv 4)
-- Pound (Lv 9)
-- Disable (Lv 14)
-- Rollout (Lv 19)
-- Double Slap (Lv 24)
-- Rest (Lv 29)
-- Body Slam (Lv 34)
-- Mimic (Lv 39)
-- Hyper Voice (Lv 44)
-- Double Edge (Lv 49)
+- Sweet Kiss (Lv 1)
+- Echoed Voice (Lv 4)
+- Covet (Lv 8)
+- Spit Up (Lv 12)
+- Stockpile (Lv 12)
+- Swallow (Lv 12)
+- Round (Lv 16)
+- Rest (Lv 20)
+- Body Slam (Lv 24)
+- Mimic (Lv 28)
+- Gyro Ball (Lv 32)
+- Hyper Voice (Lv 36)
+- Play Rough (Lv 40)
+- Double Edge (Lv 44)
 </div>
 </div>
 
@@ -172,10 +185,27 @@ _Balloon Pokémon_ • Types: Normal / Fairy • Egg Groups: Fairy • Base EXP:
 | Total | <span class="stat-value stat-mid">435</span> |
 
 **Notable Level-Up Moves**
+- Body Slam (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
 - Defense Curl (Lv 1)
 - Disable (Lv 1)
-- Double Slap (Lv 1)
+- Disarming Voice (Lv 1)
+- Double Edge (Lv 1)
+- Echoed Voice (Lv 1)
+- Gyro Ball (Lv 1)
+- Hyper Voice (Lv 1)
+- Mimic (Lv 1)
+- Play Rough (Lv 1)
+- Pound (Lv 1)
+- Rest (Lv 1)
+- Round (Lv 1)
 - Sing (Lv 1)
+- Spit Up (Lv 1)
+- Stockpile (Lv 1)
+- Swallow (Lv 1)
+- Sweet Kiss (Lv 1)
 </div>
 </div>
 

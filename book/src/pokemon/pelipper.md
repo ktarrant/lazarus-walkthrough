@@ -59,12 +59,15 @@ _Seagull Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying •
 **Notable Level-Up Moves**
 - Growl (Lv 1)
 - Water Gun (Lv 1)
-- Supersonic (Lv 7)
-- Wing Attack (Lv 13)
-- Mist (Lv 21)
-- Quick Attack (Lv 31)
-- Pursuit (Lv 43)
-- Agility (Lv 55)
+- Quick Attack (Lv 5)
+- Supersonic (Lv 10)
+- Wing Attack (Lv 15)
+- Water Pulse (Lv 20)
+- Agility (Lv 26)
+- Air Slash (Lv 30)
+- Mist (Lv 35)
+- Roost (Lv 40)
+- Hurricane (Lv 45)
 </div>
 </div>
 
@@ -119,19 +122,25 @@ _Water Bird Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying 
 | Total | <span class="stat-value stat-mid">440</span> |
 
 **Notable Level-Up Moves**
+- Agility (Lv 1)
+- Air Slash (Lv 1)
 - Growl (Lv 1)
+- Protect (Lv 1)
+- Quick Attack (Lv 1)
+- Soak (Lv 1)
+- Supersonic (Lv 1)
+- Tailwind (Lv 1)
 - Water Gun (Lv 1)
-- Water Sport (Lv 1)
-- Wing Attack (Lv 1)
-- Water Gun (Lv 3)
-- Supersonic (Lv 7)
-- Wing Attack (Lv 13)
-- Mist (Lv 21)
-- Protect (Lv 25)
-- Stockpile (Lv 33)
-- Swallow (Lv 33)
-- Spit Up (Lv 47)
-- Hydro Pump (Lv 61)
+- Wing Attack (Lv 15)
+- Water Pulse (Lv 20)
+- Spit Up (Lv 28)
+- Stockpile (Lv 28)
+- Swallow (Lv 28)
+- Fling (Lv 34)
+- Mist (Lv 41)
+- Roost (Lv 48)
+- Hurricane (Lv 55)
+- Hydro Pump (Lv 62)
 </div>
 </div>
 

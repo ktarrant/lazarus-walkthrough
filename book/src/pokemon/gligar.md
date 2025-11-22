@@ -51,16 +51,6 @@ _Fly Scorpion Pokémon_ • Types: Ground / Flying • Egg Groups: Bug • Base 
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">430</span> |
-
-**Notable Level-Up Moves**
-- Poison Sting (Lv 1)
-- Sand Attack (Lv 6)
-- Harden (Lv 13)
-- Quick Attack (Lv 20)
-- Feint Attack (Lv 28)
-- Slash (Lv 36)
-- Screech (Lv 44)
-- Guillotine (Lv 52)
 </div>
 </div>
 

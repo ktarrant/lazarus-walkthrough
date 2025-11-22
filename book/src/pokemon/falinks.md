@@ -40,6 +40,22 @@ _Formation Pokémon_ • Types: Fighting • Egg Groups: Fairy / Mineral • Bas
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">75</span> |
 | Total | <span class="stat-value stat-mid">470</span> |
+
+**Notable Level-Up Moves**
+- Protect (Lv 1)
+- Tackle (Lv 1)
+- Rock Smash (Lv 5)
+- Focus Energy (Lv 10)
+- Headbutt (Lv 15)
+- Bulk Up (Lv 20)
+- Endure (Lv 25)
+- Reversal (Lv 30)
+- First Impression (Lv 35)
+- No Retreat (Lv 40)
+- Iron Defense (Lv 45)
+- Close Combat (Lv 50)
+- Megahorn (Lv 55)
+- Counter (Lv 60)
 </div>
 </div>
 

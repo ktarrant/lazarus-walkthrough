@@ -57,6 +57,24 @@ _Candle Pokémon_ • Types: Ghost / Fire • Egg Groups: Indeterminate • Base
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">20</span> |
 | Total | <span class="stat-value stat-low">275</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Smog (Lv 1)
+- Ember (Lv 4)
+- Minimize (Lv 8)
+- Confuse Ray (Lv 12)
+- Hex (Lv 16)
+- Will O Wisp (Lv 20)
+- Fire Spin (Lv 24)
+- Night Shade (Lv 28)
+- Curse (Lv 32)
+- Shadow Ball (Lv 36)
+- Inferno (Lv 40)
+- Imprison (Lv 44)
+- Pain Split (Lv 48)
+- Overheat (Lv 52)
+- Memento (Lv 56)
 </div>
 </div>
 
@@ -116,6 +134,24 @@ _Lamp Pokémon_ • Types: Ghost / Fire • Egg Groups: Indeterminate • Base E
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">370</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Ember (Lv 1)
+- Minimize (Lv 1)
+- Smog (Lv 1)
+- Confuse Ray (Lv 12)
+- Hex (Lv 16)
+- Will O Wisp (Lv 20)
+- Fire Spin (Lv 24)
+- Night Shade (Lv 28)
+- Curse (Lv 32)
+- Shadow Ball (Lv 36)
+- Inferno (Lv 40)
+- Imprison (Lv 46)
+- Pain Split (Lv 52)
+- Overheat (Lv 58)
+- Memento (Lv 64)
 </div>
 </div>
 
@@ -171,6 +207,24 @@ _Luring Pokémon_ • Types: Ghost / Fire • Egg Groups: Indeterminate • Base
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">520</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Confuse Ray (Lv 1)
+- Curse (Lv 1)
+- Ember (Lv 1)
+- Fire Spin (Lv 1)
+- Hex (Lv 1)
+- Imprison (Lv 1)
+- Inferno (Lv 1)
+- Memento (Lv 1)
+- Minimize (Lv 1)
+- Night Shade (Lv 1)
+- Overheat (Lv 1)
+- Pain Split (Lv 1)
+- Shadow Ball (Lv 1)
+- Smog (Lv 1)
+- Will O Wisp (Lv 1)
 </div>
 </div>
 

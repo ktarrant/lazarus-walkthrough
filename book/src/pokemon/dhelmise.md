@@ -45,6 +45,26 @@ _Sea Creeper Pokémon_ • Types: Ghost / Grass • Egg Groups: Mineral • Base
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">517</span> |
+
+**Notable Level-Up Moves**
+- Absorb (Lv 1)
+- Rapid Spin (Lv 1)
+- Astonish (Lv 4)
+- Wrap (Lv 8)
+- Mega Drain (Lv 12)
+- Growth (Lv 16)
+- Gyro Ball (Lv 20)
+- Switcheroo (Lv 24)
+- Giga Drain (Lv 28)
+- Whirlpool (Lv 32)
+- Heavy Slam (Lv 36)
+- Slam (Lv 40)
+- Shadow Ball (Lv 44)
+- Metal Sound (Lv 48)
+- Anchor Shot (Lv 52)
+- Energy Ball (Lv 56)
+- Phantom Force (Lv 60)
+- Power Whip (Lv 64)
 </div>
 </div>
 

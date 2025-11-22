@@ -54,15 +54,20 @@ _Gas Pokémon_ • Types: Ghost / Poison • Egg Groups: Indeterminate • Base 
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Notable Level-Up Moves**
-- Hypnosis (Lv 1)
+- Confuse Ray (Lv 1)
 - Lick (Lv 1)
-- Spite (Lv 8)
-- Mean Look (Lv 13)
-- Curse (Lv 16)
-- Night Shade (Lv 21)
-- Confuse Ray (Lv 28)
-- Dream Eater (Lv 33)
-- Destiny Bond (Lv 36)
+- Hypnosis (Lv 4)
+- Mean Look (Lv 8)
+- Payback (Lv 12)
+- Spite (Lv 16)
+- Curse (Lv 20)
+- Hex (Lv 24)
+- Night Shade (Lv 28)
+- Sucker Punch (Lv 32)
+- Dark Pulse (Lv 36)
+- Shadow Ball (Lv 40)
+- Destiny Bond (Lv 44)
+- Dream Eater (Lv 48)
 </div>
 </div>
 
@@ -114,17 +119,21 @@ _Gas Pokémon_ • Types: Ghost / Poison • Egg Groups: Indeterminate • Base 
 | Total | <span class="stat-value stat-mid">405</span> |
 
 **Notable Level-Up Moves**
+- Confuse Ray (Lv 1)
 - Hypnosis (Lv 1)
 - Lick (Lv 1)
-- Spite (Lv 1)
-- Spite (Lv 8)
-- Mean Look (Lv 13)
-- Curse (Lv 16)
-- Night Shade (Lv 21)
-- Shadow Punch (Lv 25)
-- Confuse Ray (Lv 31)
-- Dream Eater (Lv 39)
-- Destiny Bond (Lv 48)
+- Mean Look (Lv 1)
+- Shadow Punch (Lv 1)
+- Payback (Lv 12)
+- Spite (Lv 16)
+- Curse (Lv 20)
+- Hex (Lv 24)
+- Night Shade (Lv 30)
+- Sucker Punch (Lv 36)
+- Dark Pulse (Lv 42)
+- Shadow Ball (Lv 48)
+- Destiny Bond (Lv 54)
+- Dream Eater (Lv 60)
 </div>
 </div>
 
@@ -176,17 +185,23 @@ _Shadow Pokémon_ • Types: Ghost / Poison • Egg Groups: Indeterminate • Ba
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
+- Confuse Ray (Lv 1)
 - Hypnosis (Lv 1)
 - Lick (Lv 1)
-- Spite (Lv 1)
-- Spite (Lv 8)
-- Mean Look (Lv 13)
-- Curse (Lv 16)
-- Night Shade (Lv 21)
-- Shadow Punch (Lv 25)
-- Confuse Ray (Lv 31)
-- Dream Eater (Lv 39)
-- Destiny Bond (Lv 48)
+- Mean Look (Lv 1)
+- Perish Song (Lv 1)
+- Reflect Type (Lv 1)
+- Shadow Punch (Lv 1)
+- Payback (Lv 12)
+- Spite (Lv 16)
+- Curse (Lv 20)
+- Hex (Lv 24)
+- Night Shade (Lv 30)
+- Sucker Punch (Lv 36)
+- Dark Pulse (Lv 42)
+- Shadow Ball (Lv 48)
+- Destiny Bond (Lv 54)
+- Dream Eater (Lv 60)
 </div>
 </div>
 

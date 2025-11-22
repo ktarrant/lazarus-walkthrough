@@ -46,6 +46,24 @@ _Fox Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 60
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-low">299</span> |
+
+**Notable Level-Up Moves**
+- Powder Snow (Lv 1)
+- Tail Whip (Lv 1)
+- Disable (Lv 4)
+- Ice Shard (Lv 8)
+- Spite (Lv 12)
+- Icy Wind (Lv 16)
+- Confuse Ray (Lv 20)
+- Aurora Beam (Lv 24)
+- Extrasensory (Lv 28)
+- Ice Beam (Lv 32)
+- Imprison (Lv 36)
+- Mist (Lv 40)
+- Aurora Veil (Lv 44)
+- Sheer Cold (Lv 48)
+- Grudge (Lv 52)
+- Blizzard (Lv 56)
 </div>
 </div>
 
@@ -94,6 +112,26 @@ _Fox Pokémon_ • Types: Ice / Fairy • Egg Groups: Ground • Base EXP: 177
 | Sp. Def | <span class="stat-value stat-high">100</span> |
 | Speed | <span class="stat-value stat-high">109</span> |
 | Total | <span class="stat-value stat-mid">505</span> |
+
+**Notable Level-Up Moves**
+- Aurora Beam (Lv 1)
+- Aurora Veil (Lv 1)
+- Blizzard (Lv 1)
+- Confuse Ray (Lv 1)
+- Dazzling Gleam (Lv 1)
+- Disable (Lv 1)
+- Extrasensory (Lv 1)
+- Grudge (Lv 1)
+- Ice Beam (Lv 1)
+- Ice Shard (Lv 1)
+- Icy Wind (Lv 1)
+- Imprison (Lv 1)
+- Mist (Lv 1)
+- Nasty Plot (Lv 1)
+- Powder Snow (Lv 1)
+- Sheer Cold (Lv 1)
+- Spite (Lv 1)
+- Tail Whip (Lv 1)
 </div>
 </div>
 

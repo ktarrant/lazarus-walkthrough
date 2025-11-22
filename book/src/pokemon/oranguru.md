@@ -40,6 +40,22 @@ _Sage Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP:
 | Sp. Def | <span class="stat-value stat-high">110</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Taunt (Lv 1)
+- After You (Lv 5)
+- Calm Mind (Lv 10)
+- Stored Power (Lv 15)
+- Psych Up (Lv 20)
+- Quash (Lv 25)
+- Nasty Plot (Lv 30)
+- Zen Headbutt (Lv 35)
+- Trick Room (Lv 40)
+- Psychic (Lv 45)
+- Instruct (Lv 50)
+- Foul Play (Lv 55)
+- Future Sight (Lv 60)
 </div>
 </div>
 

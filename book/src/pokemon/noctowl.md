@@ -53,14 +53,20 @@ _Owl Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 5
 
 **Notable Level-Up Moves**
 - Growl (Lv 1)
-- Tackle (Lv 1)
-- Foresight (Lv 6)
-- Peck (Lv 11)
-- Hypnosis (Lv 16)
-- Reflect (Lv 22)
-- Take Down (Lv 28)
-- Confusion (Lv 34)
-- Dream Eater (Lv 48)
+- Peck (Lv 1)
+- Tackle (Lv 3)
+- Echoed Voice (Lv 6)
+- Confusion (Lv 9)
+- Reflect (Lv 12)
+- Psycho Shift (Lv 15)
+- Air Slash (Lv 18)
+- Extrasensory (Lv 21)
+- Take Down (Lv 24)
+- Uproar (Lv 27)
+- Roost (Lv 30)
+- Moonblast (Lv 33)
+- Hypnosis (Lv 36)
+- Dream Eater (Lv 39)
 </div>
 </div>
 
@@ -115,17 +121,22 @@ _Owl Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP: 1
 | Total | <span class="stat-value stat-mid">452</span> |
 
 **Notable Level-Up Moves**
-- Foresight (Lv 1)
+- Echoed Voice (Lv 1)
 - Growl (Lv 1)
 - Peck (Lv 1)
+- Sky Attack (Lv 1)
 - Tackle (Lv 1)
-- Foresight (Lv 6)
-- Peck (Lv 11)
-- Hypnosis (Lv 16)
-- Reflect (Lv 25)
-- Take Down (Lv 33)
-- Confusion (Lv 41)
-- Dream Eater (Lv 57)
+- Confusion (Lv 9)
+- Reflect (Lv 12)
+- Psycho Shift (Lv 15)
+- Air Slash (Lv 18)
+- Extrasensory (Lv 23)
+- Take Down (Lv 28)
+- Uproar (Lv 33)
+- Roost (Lv 38)
+- Moonblast (Lv 43)
+- Hypnosis (Lv 48)
+- Dream Eater (Lv 53)
 </div>
 </div>
 

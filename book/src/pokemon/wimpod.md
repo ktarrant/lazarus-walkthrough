@@ -54,6 +54,11 @@ _Turn Tail Pokémon_ • Types: Bug / Water • Egg Groups: Bug / Water3 • Bas
 | Sp. Def | <span class="stat-value stat-low">30</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-low">230</span> |
+
+**Notable Level-Up Moves**
+- Defense Curl (Lv 1)
+- Sand Attack (Lv 1)
+- Struggle Bug (Lv 1)
 </div>
 </div>
 
@@ -101,6 +106,24 @@ _Hard Scale Pokémon_ • Types: Bug / Water • Egg Groups: Bug / Water3 • Ba
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">530</span> |
+
+**Notable Level-Up Moves**
+- Defense Curl (Lv 1)
+- First Impression (Lv 1)
+- Sand Attack (Lv 1)
+- Spite (Lv 1)
+- Struggle Bug (Lv 1)
+- Rock Smash (Lv 4)
+- Fury Cutter (Lv 8)
+- Mud Shot (Lv 12)
+- Bug Bite (Lv 16)
+- Iron Defense (Lv 20)
+- Sucker Punch (Lv 24)
+- Slash (Lv 28)
+- Razor Shell (Lv 32)
+- Pin Missile (Lv 36)
+- Swords Dance (Lv 40)
+- Liquidation (Lv 44)
 </div>
 </div>
 

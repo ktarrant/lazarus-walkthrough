@@ -58,6 +58,20 @@ _Soft Tissue Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 60
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-low">300</span> |
+
+**Notable Level-Up Moves**
+- Absorb (Lv 1)
+- Tackle (Lv 1)
+- Water Gun (Lv 5)
+- Dragon Breath (Lv 10)
+- Protect (Lv 15)
+- Flail (Lv 20)
+- Water Pulse (Lv 25)
+- Rain Dance (Lv 30)
+- Dragon Pulse (Lv 35)
+- Curse (Lv 41)
+- Body Slam (Lv 45)
+- Muddy Water (Lv 50)
 </div>
 </div>
 
@@ -106,6 +120,21 @@ _Soft Tissue Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 15
 | Sp. Def | <span class="stat-value stat-high">113</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">452</span> |
+
+**Notable Level-Up Moves**
+- Absorb (Lv 1)
+- Acid Spray (Lv 1)
+- Dragon Breath (Lv 1)
+- Tackle (Lv 1)
+- Water Gun (Lv 1)
+- Protect (Lv 15)
+- Flail (Lv 20)
+- Water Pulse (Lv 25)
+- Rain Dance (Lv 30)
+- Dragon Pulse (Lv 35)
+- Curse (Lv 43)
+- Body Slam (Lv 49)
+- Muddy Water (Lv 56)
 </div>
 </div>
 
@@ -154,6 +183,26 @@ _Dragon Pokémon_ • Types: Dragon • Egg Groups: Dragon • Base EXP: 270
 | Sp. Def | <span class="stat-value stat-high">150</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-high">600</span> |
+
+**Notable Level-Up Moves**
+- Absorb (Lv 1)
+- Acid Spray (Lv 1)
+- Aqua Tail (Lv 1)
+- Dragon Breath (Lv 1)
+- Feint (Lv 1)
+- Poison Tail (Lv 1)
+- Tackle (Lv 1)
+- Tearful Look (Lv 1)
+- Water Gun (Lv 1)
+- Protect (Lv 15)
+- Flail (Lv 20)
+- Water Pulse (Lv 25)
+- Rain Dance (Lv 30)
+- Dragon Pulse (Lv 35)
+- Curse (Lv 43)
+- Body Slam (Lv 49)
+- Muddy Water (Lv 58)
+- Power Whip (Lv 67)
 </div>
 </div>
 

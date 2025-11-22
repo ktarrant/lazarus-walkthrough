@@ -54,18 +54,6 @@ _Cottonweed Pokémon_ • Types: Grass / Flying • Egg Groups: Fairy / Plant �
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-low">250</span> |
-
-**Notable Level-Up Moves**
-- Splash (Lv 1)
-- Synthesis (Lv 5)
-- Tail Whip (Lv 5)
-- Tackle (Lv 10)
-- Poison Powder (Lv 13)
-- Stun Spore (Lv 15)
-- Sleep Powder (Lv 17)
-- Leech Seed (Lv 20)
-- Cotton Spore (Lv 25)
-- Mega Drain (Lv 30)
 </div>
 </div>
 
@@ -121,21 +109,6 @@ _Cottonweed Pokémon_ • Types: Grass / Flying • Egg Groups: Fairy / Plant �
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">340</span> |
-
-**Notable Level-Up Moves**
-- Splash (Lv 1)
-- Synthesis (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Synthesis (Lv 5)
-- Tail Whip (Lv 5)
-- Tackle (Lv 10)
-- Poison Powder (Lv 13)
-- Stun Spore (Lv 15)
-- Sleep Powder (Lv 17)
-- Leech Seed (Lv 22)
-- Cotton Spore (Lv 29)
-- Mega Drain (Lv 36)
 </div>
 </div>
 
@@ -186,21 +159,6 @@ _Cottonweed Pokémon_ • Types: Grass / Flying • Egg Groups: Fairy / Plant �
 | Sp. Def | <span class="stat-value stat-high">95</span> |
 | Speed | <span class="stat-value stat-high">110</span> |
 | Total | <span class="stat-value stat-mid">460</span> |
-
-**Notable Level-Up Moves**
-- Splash (Lv 1)
-- Synthesis (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Synthesis (Lv 5)
-- Tail Whip (Lv 5)
-- Tackle (Lv 10)
-- Poison Powder (Lv 13)
-- Stun Spore (Lv 15)
-- Sleep Powder (Lv 17)
-- Leech Seed (Lv 22)
-- Cotton Spore (Lv 33)
-- Mega Drain (Lv 44)
 </div>
 </div>
 

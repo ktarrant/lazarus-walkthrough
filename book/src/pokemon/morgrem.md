@@ -51,6 +51,21 @@ _Wily Pokémon_ • Types: Dark / Fairy • Egg Groups: Fairy / Humanshape • B
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-low">265</span> |
+
+**Notable Level-Up Moves**
+- Confide (Lv 1)
+- Fake Out (Lv 1)
+- Bite (Lv 4)
+- Flatter (Lv 8)
+- Fake Tears (Lv 12)
+- Assurance (Lv 16)
+- Swagger (Lv 20)
+- Sucker Punch (Lv 24)
+- Torment (Lv 28)
+- Dark Pulse (Lv 33)
+- Nasty Plot (Lv 36)
+- Play Rough (Lv 40)
+- Foul Play (Lv 44)
 </div>
 </div>
 
@@ -104,6 +119,22 @@ _Devious Pokémon_ • Types: Dark / Fairy • Egg Groups: Fairy / Humanshape �
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">370</span> |
+
+**Notable Level-Up Moves**
+- Bite (Lv 1)
+- Confide (Lv 1)
+- Fake Out (Lv 1)
+- False Surrender (Lv 1)
+- Flatter (Lv 1)
+- Fake Tears (Lv 12)
+- Assurance (Lv 16)
+- Swagger (Lv 20)
+- Sucker Punch (Lv 24)
+- Torment (Lv 28)
+- Dark Pulse (Lv 35)
+- Nasty Plot (Lv 40)
+- Play Rough (Lv 46)
+- Foul Play (Lv 52)
 </div>
 </div>
 
@@ -155,6 +186,26 @@ _Bulk Up Pokémon_ • Types: Dark / Fairy • Egg Groups: Fairy / Humanshape �
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Bite (Lv 1)
+- Bulk Up (Lv 1)
+- Confide (Lv 1)
+- Fake Out (Lv 1)
+- False Surrender (Lv 1)
+- Flatter (Lv 1)
+- Power Up Punch (Lv 1)
+- Spirit Break (Lv 1)
+- Fake Tears (Lv 12)
+- Assurance (Lv 16)
+- Swagger (Lv 20)
+- Sucker Punch (Lv 24)
+- Torment (Lv 28)
+- Dark Pulse (Lv 35)
+- Nasty Plot (Lv 40)
+- Play Rough (Lv 48)
+- Foul Play (Lv 56)
+- Hammer Arm (Lv 64)
 </div>
 </div>
 

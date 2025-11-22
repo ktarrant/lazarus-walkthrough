@@ -51,11 +51,13 @@ _Tiny Mouse Pokémon_ • Types: Electric • Egg Groups: No Eggs • Base EXP: 
 | Total | <span class="stat-value stat-low">205</span> |
 
 **Notable Level-Up Moves**
-- Charm (Lv 1)
+- Tail Whip (Lv 1)
 - Thunder Shock (Lv 1)
-- Tail Whip (Lv 6)
-- Thunder Wave (Lv 8)
-- Sweet Kiss (Lv 11)
+- Play Nice (Lv 4)
+- Sweet Kiss (Lv 8)
+- Nuzzle (Lv 12)
+- Nasty Plot (Lv 16)
+- Charm (Lv 20)
 </div>
 </div>
 
@@ -107,17 +109,26 @@ _Mouse Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Base EXP
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Notable Level-Up Moves**
+- Charm (Lv 1)
 - Growl (Lv 1)
+- Nasty Plot (Lv 1)
+- Nuzzle (Lv 1)
+- Play Nice (Lv 1)
+- Quick Attack (Lv 1)
+- Sweet Kiss (Lv 1)
+- Tail Whip (Lv 1)
 - Thunder Shock (Lv 1)
-- Tail Whip (Lv 6)
-- Thunder Wave (Lv 8)
-- Quick Attack (Lv 11)
-- Double Team (Lv 15)
-- Slam (Lv 20)
-- Thunderbolt (Lv 26)
-- Agility (Lv 33)
-- Thunder (Lv 41)
-- Light Screen (Lv 50)
+- Thunder Wave (Lv 4)
+- Double Team (Lv 8)
+- Electro Ball (Lv 12)
+- Feint (Lv 16)
+- Spark (Lv 20)
+- Agility (Lv 24)
+- Slam (Lv 28)
+- Discharge (Lv 32)
+- Thunderbolt (Lv 36)
+- Light Screen (Lv 40)
+- Thunder (Lv 44)
 </div>
 </div>
 
@@ -168,9 +179,26 @@ _Mouse Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Base EXP
 | Total | <span class="stat-value stat-mid">485</span> |
 
 **Notable Level-Up Moves**
+- Agility (Lv 1)
+- Charm (Lv 1)
+- Discharge (Lv 1)
+- Double Team (Lv 1)
+- Electro Ball (Lv 1)
+- Feint (Lv 1)
+- Growl (Lv 1)
+- Light Screen (Lv 1)
+- Nasty Plot (Lv 1)
+- Nuzzle (Lv 1)
+- Play Nice (Lv 1)
 - Quick Attack (Lv 1)
+- Slam (Lv 1)
+- Spark (Lv 1)
+- Sweet Kiss (Lv 1)
 - Tail Whip (Lv 1)
+- Thunder (Lv 1)
+- Thunder Punch (Lv 1)
 - Thunder Shock (Lv 1)
+- Thunder Wave (Lv 1)
 - Thunderbolt (Lv 1)
 </div>
 </div>

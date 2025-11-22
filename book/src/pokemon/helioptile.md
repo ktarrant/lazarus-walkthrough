@@ -50,6 +50,21 @@ _Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Drag
 | Sp. Def | <span class="stat-value stat-low">43</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-low">289</span> |
+
+**Notable Level-Up Moves**
+- Mud Slap (Lv 1)
+- Tail Whip (Lv 1)
+- Pound (Lv 4)
+- Thunder Shock (Lv 8)
+- Quick Attack (Lv 12)
+- Charge (Lv 16)
+- Bulldoze (Lv 20)
+- Volt Switch (Lv 24)
+- Parabolic Charge (Lv 28)
+- Thunder Wave (Lv 32)
+- Thunderbolt (Lv 36)
+- Electrify (Lv 40)
+- Thunder (Lv 44)
 </div>
 </div>
 
@@ -97,6 +112,23 @@ _Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Drag
 | Sp. Def | <span class="stat-value stat-high">94</span> |
 | Speed | <span class="stat-value stat-high">109</span> |
 | Total | <span class="stat-value stat-mid">481</span> |
+
+**Notable Level-Up Moves**
+- Bulldoze (Lv 1)
+- Charge (Lv 1)
+- Discharge (Lv 1)
+- Eerie Impulse (Lv 1)
+- Electrify (Lv 1)
+- Mud Slap (Lv 1)
+- Parabolic Charge (Lv 1)
+- Pound (Lv 1)
+- Quick Attack (Lv 1)
+- Tail Whip (Lv 1)
+- Thunder (Lv 1)
+- Thunder Shock (Lv 1)
+- Thunder Wave (Lv 1)
+- Thunderbolt (Lv 1)
+- Volt Switch (Lv 1)
 </div>
 </div>
 

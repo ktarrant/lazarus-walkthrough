@@ -51,15 +51,23 @@ _Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 60
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
+- Defense Curl (Lv 1)
 - Scratch (Lv 1)
-- Defense Curl (Lv 6)
-- Sand Attack (Lv 11)
-- Poison Sting (Lv 17)
-- Slash (Lv 23)
-- Swift (Lv 30)
-- Fury Swipes (Lv 37)
-- Sand Tomb (Lv 45)
-- Sandstorm (Lv 53)
+- Poison Sting (Lv 3)
+- Sand Attack (Lv 6)
+- Rollout (Lv 9)
+- Fury Cutter (Lv 12)
+- Rapid Spin (Lv 15)
+- Bulldoze (Lv 18)
+- Swift (Lv 21)
+- Fury Swipes (Lv 24)
+- Agility (Lv 27)
+- Slash (Lv 30)
+- Dig (Lv 33)
+- Gyro Ball (Lv 36)
+- Swords Dance (Lv 39)
+- Sandstorm (Lv 42)
+- Earthquake (Lv 45)
 </div>
 </div>
 
@@ -108,17 +116,24 @@ _Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 158
 | Total | <span class="stat-value stat-mid">450</span> |
 
 **Notable Level-Up Moves**
+- Crush Claw (Lv 1)
 - Defense Curl (Lv 1)
+- Poison Sting (Lv 1)
 - Sand Attack (Lv 1)
 - Scratch (Lv 1)
-- Defense Curl (Lv 6)
-- Sand Attack (Lv 11)
-- Poison Sting (Lv 17)
-- Slash (Lv 24)
-- Swift (Lv 33)
-- Fury Swipes (Lv 42)
-- Sand Tomb (Lv 52)
-- Sandstorm (Lv 62)
+- Rollout (Lv 9)
+- Fury Cutter (Lv 12)
+- Rapid Spin (Lv 15)
+- Bulldoze (Lv 18)
+- Swift (Lv 21)
+- Fury Swipes (Lv 26)
+- Sand Tomb (Lv 31)
+- Slash (Lv 36)
+- Dig (Lv 41)
+- Gyro Ball (Lv 46)
+- Swords Dance (Lv 51)
+- Sandstorm (Lv 56)
+- Earthquake (Lv 61)
 </div>
 </div>
 

@@ -52,18 +52,6 @@ _Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 66
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1)
-- Leer (Lv 1)
-- Howl (Lv 7)
-- Smog (Lv 13)
-- Roar (Lv 19)
-- Bite (Lv 25)
-- Odor Sleuth (Lv 31)
-- Feint Attack (Lv 37)
-- Flamethrower (Lv 43)
-- Crunch (Lv 49)
 </div>
 </div>
 
@@ -120,19 +108,6 @@ _Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 175
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1)
-- Howl (Lv 1)
-- Leer (Lv 1)
-- Howl (Lv 7)
-- Smog (Lv 13)
-- Roar (Lv 19)
-- Bite (Lv 27)
-- Odor Sleuth (Lv 35)
-- Feint Attack (Lv 43)
-- Flamethrower (Lv 51)
-- Crunch (Lv 59)
 </div>
 </div>
 

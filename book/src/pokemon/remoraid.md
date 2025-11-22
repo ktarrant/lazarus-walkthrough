@@ -68,14 +68,19 @@ _Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 60
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Notable Level-Up Moves**
+- Helping Hand (Lv 1)
 - Water Gun (Lv 1)
-- Lock On (Lv 11)
-- Aurora Beam (Lv 22)
-- Bubble Beam (Lv 22)
-- Psybeam (Lv 22)
-- Focus Energy (Lv 33)
-- Ice Beam (Lv 44)
-- Hyper Beam (Lv 55)
+- Water Pulse (Lv 4)
+- Focus Energy (Lv 8)
+- Psybeam (Lv 12)
+- Aurora Beam (Lv 16)
+- Bubble Beam (Lv 20)
+- Lock On (Lv 24)
+- Bullet Seed (Lv 28)
+- Ice Beam (Lv 32)
+- Hydro Pump (Lv 36)
+- Soak (Lv 40)
+- Hyper Beam (Lv 44)
 </div>
 </div>
 
@@ -130,15 +135,23 @@ _Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 16
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Notable Level-Up Moves**
+- Focus Energy (Lv 1)
+- Gunk Shot (Lv 1)
+- Helping Hand (Lv 1)
+- Octazooka (Lv 1)
+- Rock Blast (Lv 1)
 - Water Gun (Lv 1)
-- Constrict (Lv 11)
-- Aurora Beam (Lv 22)
-- Bubble Beam (Lv 22)
-- Psybeam (Lv 22)
-- Octazooka (Lv 25)
-- Focus Energy (Lv 38)
-- Ice Beam (Lv 54)
-- Hyper Beam (Lv 70)
+- Water Pulse (Lv 1)
+- Wrap (Lv 1)
+- Psybeam (Lv 12)
+- Aurora Beam (Lv 16)
+- Bubble Beam (Lv 20)
+- Lock On (Lv 24)
+- Bullet Seed (Lv 30)
+- Ice Beam (Lv 36)
+- Hydro Pump (Lv 42)
+- Soak (Lv 48)
+- Hyper Beam (Lv 54)
 </div>
 </div>
 

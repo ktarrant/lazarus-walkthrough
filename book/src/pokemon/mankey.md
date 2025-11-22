@@ -50,18 +50,6 @@ _Pig Monkey Pokémon_ • Types: Fighting • Egg Groups: Ground • Base EXP: 6
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-low">305</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Scratch (Lv 1)
-- Low Kick (Lv 9)
-- Karate Chop (Lv 15)
-- Fury Swipes (Lv 21)
-- Focus Energy (Lv 27)
-- Seismic Toss (Lv 33)
-- Cross Chop (Lv 39)
-- Screech (Lv 45)
-- Thrash (Lv 51)
 </div>
 </div>
 
@@ -113,21 +101,6 @@ _Pig Monkey Pokémon_ • Types: Fighting • Egg Groups: Ground • Base EXP: 1
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">455</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Low Kick (Lv 1)
-- Rage (Lv 1)
-- Scratch (Lv 1)
-- Low Kick (Lv 9)
-- Karate Chop (Lv 15)
-- Fury Swipes (Lv 21)
-- Focus Energy (Lv 27)
-- Rage (Lv 28)
-- Seismic Toss (Lv 36)
-- Cross Chop (Lv 45)
-- Screech (Lv 54)
-- Thrash (Lv 63)
 </div>
 </div>
 

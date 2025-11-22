@@ -45,17 +45,20 @@ _Transport Pokémon_ • Types: Water / Ice • Egg Groups: Monster / Water1 •
 
 **Notable Level-Up Moves**
 - Growl (Lv 1)
-- Sing (Lv 1)
 - Water Gun (Lv 1)
-- Mist (Lv 7)
-- Body Slam (Lv 13)
-- Confuse Ray (Lv 19)
-- Perish Song (Lv 25)
-- Ice Beam (Lv 31)
-- Rain Dance (Lv 37)
-- Safeguard (Lv 43)
-- Hydro Pump (Lv 49)
-- Sheer Cold (Lv 55)
+- Sing (Lv 5)
+- Mist (Lv 10)
+- Life Dew (Lv 15)
+- Ice Shard (Lv 20)
+- Confuse Ray (Lv 25)
+- Water Pulse (Lv 30)
+- Brine (Lv 35)
+- Body Slam (Lv 40)
+- Ice Beam (Lv 45)
+- Rain Dance (Lv 50)
+- Hydro Pump (Lv 55)
+- Perish Song (Lv 60)
+- Sheer Cold (Lv 65)
 </div>
 </div>
 

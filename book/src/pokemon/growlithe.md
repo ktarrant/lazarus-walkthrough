@@ -53,16 +53,22 @@ _Puppy Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 70
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Notable Level-Up Moves**
-- Bite (Lv 1)
-- Roar (Lv 1)
-- Ember (Lv 7)
-- Leer (Lv 13)
-- Odor Sleuth (Lv 19)
-- Take Down (Lv 25)
-- Flame Wheel (Lv 31)
-- Helping Hand (Lv 37)
-- Agility (Lv 43)
-- Flamethrower (Lv 49)
+- Ember (Lv 1)
+- Leer (Lv 1)
+- Howl (Lv 4)
+- Bite (Lv 8)
+- Flame Wheel (Lv 12)
+- Helping Hand (Lv 16)
+- Agility (Lv 20)
+- Fire Fang (Lv 24)
+- Retaliate (Lv 28)
+- Crunch (Lv 32)
+- Take Down (Lv 36)
+- Flamethrower (Lv 40)
+- Roar (Lv 44)
+- Play Rough (Lv 48)
+- Reversal (Lv 52)
+- Flare Blitz (Lv 56)
 </div>
 </div>
 
@@ -115,11 +121,24 @@ _Legendary Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 194
 | Total | <span class="stat-value stat-high">555</span> |
 
 **Notable Level-Up Moves**
+- Agility (Lv 1)
 - Bite (Lv 1)
+- Burn Up (Lv 1)
+- Crunch (Lv 1)
 - Ember (Lv 1)
-- Odor Sleuth (Lv 1)
+- Extreme Speed (Lv 1)
+- Fire Fang (Lv 1)
+- Flame Wheel (Lv 1)
+- Flamethrower (Lv 1)
+- Flare Blitz (Lv 1)
+- Helping Hand (Lv 1)
+- Howl (Lv 1)
+- Leer (Lv 1)
+- Play Rough (Lv 1)
+- Retaliate (Lv 1)
+- Reversal (Lv 1)
 - Roar (Lv 1)
-- Extreme Speed (Lv 49)
+- Take Down (Lv 1)
 </div>
 </div>
 

@@ -53,16 +53,20 @@ _Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 •
 | Total | <span class="stat-value stat-mid">355</span> |
 
 **Notable Level-Up Moves**
+- Absorb (Lv 1)
 - Harden (Lv 1)
-- Scratch (Lv 1)
-- Absorb (Lv 13)
-- Leer (Lv 19)
+- Scratch (Lv 5)
+- Sand Attack (Lv 10)
+- Aqua Jet (Lv 15)
+- Leer (Lv 20)
 - Mud Shot (Lv 25)
-- Sand Attack (Lv 31)
-- Endure (Lv 37)
-- Metal Sound (Lv 43)
-- Mega Drain (Lv 49)
-- Ancient Power (Lv 55)
+- Ancient Power (Lv 30)
+- Brine (Lv 35)
+- Protect (Lv 41)
+- Leech Life (Lv 45)
+- Liquidation (Lv 50)
+- Metal Sound (Lv 55)
+- Stone Edge (Lv 60)
 </div>
 </div>
 
@@ -116,17 +120,22 @@ _Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 •
 
 **Notable Level-Up Moves**
 - Absorb (Lv 1)
+- Feint (Lv 1)
 - Harden (Lv 1)
+- Night Slash (Lv 1)
+- Sand Attack (Lv 1)
 - Scratch (Lv 1)
-- Absorb (Lv 13)
-- Leer (Lv 19)
+- Slash (Lv 1)
+- Aqua Jet (Lv 15)
+- Leer (Lv 20)
 - Mud Shot (Lv 25)
-- Sand Attack (Lv 31)
-- Endure (Lv 37)
-- Slash (Lv 40)
-- Metal Sound (Lv 46)
-- Mega Drain (Lv 55)
-- Ancient Power (Lv 65)
+- Ancient Power (Lv 30)
+- Brine (Lv 35)
+- Protect (Lv 43)
+- Leech Life (Lv 49)
+- Liquidation (Lv 56)
+- Metal Sound (Lv 63)
+- Stone Edge (Lv 70)
 </div>
 </div>
 

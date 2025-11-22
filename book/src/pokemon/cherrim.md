@@ -49,6 +49,19 @@ _Cherry Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 5
 | Sp. Def | <span class="stat-value stat-mid">53</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">275</span> |
+
+**Notable Level-Up Moves**
+- Morning Sun (Lv 1)
+- Tackle (Lv 1)
+- Leafage (Lv 5)
+- Growth (Lv 10)
+- Helping Hand (Lv 15)
+- Magical Leaf (Lv 20)
+- Leech Seed (Lv 26)
+- Take Down (Lv 30)
+- Petal Blizzard (Lv 35)
+- Worry Seed (Lv 40)
+- Solar Beam (Lv 45)
 </div>
 </div>
 
@@ -102,6 +115,22 @@ _Blossom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 
 | Sp. Def | <span class="stat-value stat-mid">78</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">450</span> |
+
+**Notable Level-Up Moves**
+- Flower Shield (Lv 1)
+- Growth (Lv 1)
+- Leafage (Lv 1)
+- Morning Sun (Lv 1)
+- Sunny Day (Lv 1)
+- Tackle (Lv 1)
+- Helping Hand (Lv 15)
+- Magical Leaf (Lv 20)
+- Leech Seed (Lv 28)
+- Take Down (Lv 34)
+- Petal Blizzard (Lv 41)
+- Worry Seed (Lv 48)
+- Solar Beam (Lv 55)
+- Petal Dance (Lv 62)
 </div>
 </div>
 

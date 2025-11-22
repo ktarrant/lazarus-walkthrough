@@ -54,16 +54,16 @@ _Whiskers Pokémon_ • Types: Water / Ground • Egg Groups: Water2 • Base EX
 
 **Notable Level-Up Moves**
 - Mud Slap (Lv 1)
-- Mud Sport (Lv 6)
-- Water Sport (Lv 6)
-- Water Gun (Lv 11)
-- Magnitude (Lv 16)
-- Amnesia (Lv 21)
-- Rest (Lv 26)
-- Snore (Lv 26)
-- Earthquake (Lv 31)
-- Future Sight (Lv 36)
-- Fissure (Lv 41)
+- Water Gun (Lv 1)
+- Rest (Lv 6)
+- Snore (Lv 6)
+- Water Pulse (Lv 12)
+- Amnesia (Lv 18)
+- Aqua Tail (Lv 24)
+- Muddy Water (Lv 31)
+- Earthquake (Lv 36)
+- Future Sight (Lv 42)
+- Fissure (Lv 48)
 </div>
 </div>
 
@@ -116,19 +116,20 @@ _Whiskers Pokémon_ • Types: Water / Ground • Egg Groups: Water2 • Base EX
 | Total | <span class="stat-value stat-mid">468</span> |
 
 **Notable Level-Up Moves**
+- Belch (Lv 1)
 - Mud Slap (Lv 1)
-- Mud Sport (Lv 1)
+- Rest (Lv 1)
+- Snore (Lv 1)
+- Thrash (Lv 1)
 - Tickle (Lv 1)
-- Water Sport (Lv 1)
-- Mud Sport (Lv 6)
-- Water Sport (Lv 6)
-- Water Gun (Lv 11)
-- Magnitude (Lv 16)
-- Amnesia (Lv 21)
-- Rest (Lv 26)
-- Snore (Lv 26)
-- Earthquake (Lv 36)
-- Future Sight (Lv 46)
+- Water Gun (Lv 1)
+- Zen Headbutt (Lv 1)
+- Water Pulse (Lv 12)
+- Amnesia (Lv 18)
+- Aqua Tail (Lv 24)
+- Muddy Water (Lv 33)
+- Earthquake (Lv 40)
+- Future Sight (Lv 48)
 - Fissure (Lv 56)
 </div>
 </div>

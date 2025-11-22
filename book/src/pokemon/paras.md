@@ -55,17 +55,6 @@ _Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base 
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">25</span> |
 | Total | <span class="stat-value stat-low">285</span> |
-
-**Notable Level-Up Moves**
-- Scratch (Lv 1)
-- Stun Spore (Lv 7)
-- Poison Powder (Lv 13)
-- Leech Life (Lv 19)
-- Spore (Lv 25)
-- Slash (Lv 31)
-- Growth (Lv 37)
-- Giga Drain (Lv 43)
-- Aromatherapy (Lv 49)
 </div>
 </div>
 
@@ -118,19 +107,6 @@ _Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base 
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">405</span> |
-
-**Notable Level-Up Moves**
-- Poison Powder (Lv 1)
-- Scratch (Lv 1)
-- Stun Spore (Lv 1)
-- Stun Spore (Lv 7)
-- Poison Powder (Lv 13)
-- Leech Life (Lv 19)
-- Spore (Lv 27)
-- Slash (Lv 35)
-- Growth (Lv 43)
-- Giga Drain (Lv 51)
-- Aromatherapy (Lv 59)
 </div>
 </div>
 

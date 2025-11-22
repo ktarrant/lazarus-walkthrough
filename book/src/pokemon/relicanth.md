@@ -44,15 +44,17 @@ _Longevity Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water2 •
 **Notable Level-Up Moves**
 - Harden (Lv 1)
 - Tackle (Lv 1)
-- Water Gun (Lv 8)
-- Rock Tomb (Lv 15)
-- Yawn (Lv 22)
-- Take Down (Lv 29)
-- Mud Sport (Lv 36)
-- Ancient Power (Lv 43)
-- Rest (Lv 50)
-- Double Edge (Lv 57)
-- Hydro Pump (Lv 64)
+- Water Gun (Lv 5)
+- Ancient Power (Lv 10)
+- Yawn (Lv 15)
+- Dive (Lv 20)
+- Take Down (Lv 25)
+- Aqua Tail (Lv 30)
+- Rest (Lv 35)
+- Flail (Lv 40)
+- Hydro Pump (Lv 45)
+- Double Edge (Lv 50)
+- Head Smash (Lv 55)
 </div>
 </div>
 

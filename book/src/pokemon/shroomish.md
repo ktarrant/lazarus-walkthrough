@@ -53,18 +53,6 @@ _Mushroom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">295</span> |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1)
-- Tackle (Lv 4)
-- Stun Spore (Lv 7)
-- Leech Seed (Lv 10)
-- Mega Drain (Lv 16)
-- Headbutt (Lv 22)
-- Poison Powder (Lv 28)
-- Growth (Lv 36)
-- Giga Drain (Lv 45)
-- Spore (Lv 54)
 </div>
 </div>
 
@@ -123,22 +111,6 @@ _Mushroom Pokémon_ • Types: Grass / Fighting • Egg Groups: Fairy / Plant �
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">460</span> |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1)
-- Leech Seed (Lv 1)
-- Stun Spore (Lv 1)
-- Tackle (Lv 1)
-- Tackle (Lv 4)
-- Stun Spore (Lv 7)
-- Leech Seed (Lv 10)
-- Mega Drain (Lv 16)
-- Headbutt (Lv 22)
-- Mach Punch (Lv 23)
-- Counter (Lv 28)
-- Sky Uppercut (Lv 36)
-- Mind Reader (Lv 45)
-- Dynamic Punch (Lv 54)
 </div>
 </div>
 

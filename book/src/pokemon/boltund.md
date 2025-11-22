@@ -47,6 +47,19 @@ _Puppy Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 54
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">26</span> |
 | Total | <span class="stat-value stat-low">270</span> |
+
+**Notable Level-Up Moves**
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Nuzzle (Lv 5)
+- Bite (Lv 10)
+- Roar (Lv 15)
+- Spark (Lv 20)
+- Charm (Lv 26)
+- Crunch (Lv 30)
+- Charge (Lv 35)
+- Wild Charge (Lv 40)
+- Play Rough (Lv 45)
 </div>
 </div>
 
@@ -95,6 +108,21 @@ _Dog Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 172
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-high">121</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
+
+**Notable Level-Up Moves**
+- Bite (Lv 1)
+- Electrify (Lv 1)
+- Nuzzle (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Roar (Lv 15)
+- Spark (Lv 20)
+- Charm (Lv 28)
+- Crunch (Lv 34)
+- Charge (Lv 41)
+- Wild Charge (Lv 48)
+- Play Rough (Lv 55)
+- Electric Terrain (Lv 62)
 </div>
 </div>
 

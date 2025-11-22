@@ -52,6 +52,24 @@ _Tundra Pokémon_ • Types: Rock / Ice • Egg Groups: Monster • Base EXP: 72
 | Sp. Def | <span class="stat-value stat-mid">63</span> |
 | Speed | <span class="stat-value stat-low">46</span> |
 | Total | <span class="stat-value stat-mid">362</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Powder Snow (Lv 1)
+- Encore (Lv 4)
+- Ancient Power (Lv 8)
+- Icy Wind (Lv 12)
+- Round (Lv 16)
+- Mist (Lv 20)
+- Aurora Beam (Lv 24)
+- Thunder Wave (Lv 28)
+- Nature Power (Lv 32)
+- Freeze Dry (Lv 36)
+- Ice Beam (Lv 40)
+- Light Screen (Lv 44)
+- Hail (Lv 48)
+- Blizzard (Lv 52)
+- Hyper Beam (Lv 56)
 </div>
 </div>
 
@@ -102,6 +120,24 @@ _Tundra Pokémon_ • Types: Rock / Ice • Egg Groups: Monster • Base EXP: 10
 | Sp. Def | <span class="stat-value stat-high">92</span> |
 | Speed | <span class="stat-value stat-mid">58</span> |
 | Total | <span class="stat-value stat-mid">521</span> |
+
+**Notable Level-Up Moves**
+- Ancient Power (Lv 1)
+- Encore (Lv 1)
+- Growl (Lv 1)
+- Powder Snow (Lv 1)
+- Icy Wind (Lv 12)
+- Round (Lv 16)
+- Mist (Lv 20)
+- Aurora Beam (Lv 24)
+- Thunder Wave (Lv 28)
+- Nature Power (Lv 32)
+- Freeze Dry (Lv 36)
+- Ice Beam (Lv 42)
+- Light Screen (Lv 48)
+- Hail (Lv 54)
+- Blizzard (Lv 60)
+- Hyper Beam (Lv 66)
 </div>
 </div>
 

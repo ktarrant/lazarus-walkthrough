@@ -49,6 +49,24 @@ _Pumpkin Pokémon_ • Types: Ghost / Grass • Egg Groups: Indeterminate • Ba
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-mid">51</span> |
 | Total | <span class="stat-value stat-mid">335</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Trick Or Treat (Lv 1)
+- Shadow Sneak (Lv 4)
+- Confuse Ray (Lv 8)
+- Razor Leaf (Lv 12)
+- Trick Or Treat (Lv 12)
+- Leech Seed (Lv 16)
+- Bullet Seed (Lv 20)
+- Scary Face (Lv 24)
+- Trick Or Treat (Lv 24)
+- Worry Seed (Lv 28)
+- Seed Bomb (Lv 32)
+- Shadow Ball (Lv 36)
+- Trick Or Treat (Lv 36)
+- Trick (Lv 40)
+- Pain Split (Lv 44)
 </div>
 </div>
 
@@ -101,6 +119,27 @@ _Pumpkin Pokémon_ • Types: Ghost / Grass • Egg Groups: Indeterminate • Ba
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">84</span> |
 | Total | <span class="stat-value stat-mid">494</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Confuse Ray (Lv 1)
+- Explosion (Lv 1)
+- Moonblast (Lv 1)
+- Shadow Sneak (Lv 1)
+- Trick Or Treat (Lv 1)
+- Razor Leaf (Lv 12)
+- Trick Or Treat (Lv 12)
+- Leech Seed (Lv 16)
+- Bullet Seed (Lv 20)
+- Scary Face (Lv 24)
+- Trick Or Treat (Lv 24)
+- Worry Seed (Lv 28)
+- Seed Bomb (Lv 32)
+- Shadow Ball (Lv 36)
+- Trick Or Treat (Lv 36)
+- Trick (Lv 40)
+- Pain Split (Lv 44)
+- Phantom Force (Lv 48)
 </div>
 </div>
 

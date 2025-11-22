@@ -59,12 +59,16 @@ _Tiny Bird Pokémon_ • Types: Psychic / Flying • Egg Groups: Flying • Base
 **Notable Level-Up Moves**
 - Leer (Lv 1)
 - Peck (Lv 1)
-- Night Shade (Lv 10)
-- Teleport (Lv 20)
-- Future Sight (Lv 30)
-- Wish (Lv 30)
-- Confuse Ray (Lv 40)
-- Psychic (Lv 50)
+- Stored Power (Lv 5)
+- Teleport (Lv 10)
+- Confuse Ray (Lv 15)
+- Night Shade (Lv 20)
+- Psycho Shift (Lv 26)
+- Power Swap (Lv 30)
+- Guard Swap (Lv 35)
+- Psychic (Lv 35)
+- Wish (Lv 40)
+- Future Sight (Lv 45)
 </div>
 </div>
 
@@ -120,14 +124,20 @@ _Mystic Pokémon_ • Types: Psychic / Flying • Egg Groups: Flying • Base EX
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Notable Level-Up Moves**
+- Air Slash (Lv 1)
 - Leer (Lv 1)
 - Peck (Lv 1)
-- Night Shade (Lv 10)
-- Teleport (Lv 20)
-- Future Sight (Lv 35)
-- Wish (Lv 35)
-- Confuse Ray (Lv 50)
-- Psychic (Lv 65)
+- Stored Power (Lv 1)
+- Tailwind (Lv 1)
+- Teleport (Lv 1)
+- Confuse Ray (Lv 15)
+- Night Shade (Lv 20)
+- Psycho Shift (Lv 28)
+- Guard Swap (Lv 34)
+- Power Swap (Lv 34)
+- Psychic (Lv 41)
+- Wish (Lv 48)
+- Future Sight (Lv 55)
 </div>
 </div>
 

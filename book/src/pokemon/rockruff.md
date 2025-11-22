@@ -52,6 +52,22 @@ _Puppy Pokémon_ • Types: Rock • Egg Groups: Ground • Base EXP: 56
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-low">280</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Sand Attack (Lv 4)
+- Double Team (Lv 8)
+- Rock Throw (Lv 12)
+- Howl (Lv 16)
+- Bite (Lv 20)
+- Rock Tomb (Lv 24)
+- Roar (Lv 28)
+- Rock Slide (Lv 32)
+- Crunch (Lv 36)
+- Scary Face (Lv 40)
+- Stealth Rock (Lv 44)
+- Stone Edge (Lv 48)
 </div>
 </div>
 
@@ -102,6 +118,26 @@ _Wolf Pokémon_ • Types: Rock • Egg Groups: Ground • Base EXP: 170
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-high">112</span> |
 | Total | <span class="stat-value stat-mid">487</span> |
+
+**Notable Level-Up Moves**
+- Accelerock (Lv 1)
+- Double Team (Lv 1)
+- Leer (Lv 1)
+- Quick Attack (Lv 1)
+- Quick Guard (Lv 1)
+- Sand Attack (Lv 1)
+- Sucker Punch (Lv 1)
+- Tackle (Lv 1)
+- Rock Throw (Lv 12)
+- Howl (Lv 16)
+- Bite (Lv 20)
+- Rock Tomb (Lv 24)
+- Roar (Lv 30)
+- Rock Slide (Lv 36)
+- Crunch (Lv 42)
+- Scary Face (Lv 48)
+- Stealth Rock (Lv 54)
+- Stone Edge (Lv 60)
 </div>
 </div>
 

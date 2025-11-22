@@ -52,6 +52,21 @@ _Bat Pokémon_ • Types: Psychic / Flying • Egg Groups: Ground / Flying • B
 | Sp. Def | <span class="stat-value stat-low">43</span> |
 | Speed | <span class="stat-value stat-mid">72</span> |
 | Total | <span class="stat-value stat-mid">323</span> |
+
+**Notable Level-Up Moves**
+- Attract (Lv 1)
+- Gust (Lv 1)
+- Confusion (Lv 5)
+- Endeavor (Lv 10)
+- Air Cutter (Lv 15)
+- Imprison (Lv 20)
+- Assurance (Lv 25)
+- Amnesia (Lv 30)
+- Air Slash (Lv 35)
+- Psychic (Lv 40)
+- Calm Mind (Lv 45)
+- Future Sight (Lv 50)
+- Simple Beam (Lv 55)
 </div>
 </div>
 
@@ -102,6 +117,21 @@ _Courting Pokémon_ • Types: Psychic / Flying • Egg Groups: Ground / Flying 
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-high">114</span> |
 | Total | <span class="stat-value stat-mid">425</span> |
+
+**Notable Level-Up Moves**
+- Attract (Lv 1)
+- Confusion (Lv 1)
+- Endeavor (Lv 1)
+- Gust (Lv 1)
+- Air Cutter (Lv 15)
+- Imprison (Lv 20)
+- Assurance (Lv 25)
+- Amnesia (Lv 30)
+- Air Slash (Lv 35)
+- Psychic (Lv 40)
+- Calm Mind (Lv 45)
+- Future Sight (Lv 50)
+- Simple Beam (Lv 55)
 </div>
 </div>
 

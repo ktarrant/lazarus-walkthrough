@@ -48,6 +48,22 @@ _Martial Arts Pokémon_ • Types: Fighting • Egg Groups: Ground / Humanshape 
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">350</span> |
+
+**Notable Level-Up Moves**
+- Detect (Lv 1)
+- Pound (Lv 1)
+- Fake Out (Lv 5)
+- Reversal (Lv 10)
+- Fury Swipes (Lv 15)
+- Quick Guard (Lv 20)
+- Force Palm (Lv 25)
+- U Turn (Lv 30)
+- Drain Punch (Lv 35)
+- Hone Claws (Lv 40)
+- Aura Sphere (Lv 45)
+- Bounce (Lv 51)
+- Calm Mind (Lv 55)
+- High Jump Kick (Lv 60)
 </div>
 </div>
 
@@ -95,6 +111,23 @@ _Martial Arts Pokémon_ • Types: Fighting • Egg Groups: Ground / Humanshape 
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-high">105</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Detect (Lv 1)
+- Fake Out (Lv 1)
+- Pound (Lv 1)
+- Quick Guard (Lv 1)
+- Reversal (Lv 1)
+- Fury Swipes (Lv 15)
+- Wide Guard (Lv 20)
+- Force Palm (Lv 25)
+- U Turn (Lv 30)
+- Drain Punch (Lv 35)
+- Hone Claws (Lv 40)
+- Aura Sphere (Lv 45)
+- Bounce (Lv 53)
+- Calm Mind (Lv 59)
+- High Jump Kick (Lv 66)
 </div>
 </div>
 

@@ -52,16 +52,6 @@ _Darkness Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP
 | Sp. Def | <span class="stat-value stat-low">42</span> |
 | Speed | <span class="stat-value stat-high">91</span> |
 | Total | <span class="stat-value stat-mid">405</span> |
-
-**Notable Level-Up Moves**
-- Peck (Lv 1)
-- Astonish (Lv 9)
-- Pursuit (Lv 14)
-- Haze (Lv 22)
-- Night Shade (Lv 27)
-- Feint Attack (Lv 35)
-- Taunt (Lv 40)
-- Mean Look (Lv 48)
 </div>
 </div>
 

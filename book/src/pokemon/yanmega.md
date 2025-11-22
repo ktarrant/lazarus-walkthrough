@@ -54,18 +54,6 @@ _Clear Wing Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">390</span> |
-
-**Notable Level-Up Moves**
-- Foresight (Lv 1)
-- Tackle (Lv 1)
-- Quick Attack (Lv 7)
-- Double Team (Lv 13)
-- Sonic Boom (Lv 19)
-- Detect (Lv 25)
-- Supersonic (Lv 31)
-- Uproar (Lv 37)
-- Wing Attack (Lv 43)
-- Screech (Lv 49)
 </div>
 </div>
 

@@ -52,6 +52,22 @@ _Royal Heir Pokémon_ • Types: Rock / Dragon • Egg Groups: Monster / Dragon 
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">48</span> |
 | Total | <span class="stat-value stat-mid">362</span> |
+
+**Notable Level-Up Moves**
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Roar (Lv 4)
+- Ancient Power (Lv 8)
+- Charm (Lv 12)
+- Bite (Lv 16)
+- Dragon Tail (Lv 20)
+- Stomp (Lv 24)
+- Rock Slide (Lv 28)
+- Crunch (Lv 32)
+- Dragon Claw (Lv 36)
+- Thrash (Lv 40)
+- Earthquake (Lv 44)
+- Horn Drill (Lv 48)
 </div>
 </div>
 
@@ -103,6 +119,24 @@ _Despot Pokémon_ • Types: Rock / Dragon • Egg Groups: Monster / Dragon • 
 | Sp. Def | <span class="stat-value stat-mid">59</span> |
 | Speed | <span class="stat-value stat-mid">71</span> |
 | Total | <span class="stat-value stat-mid">521</span> |
+
+**Notable Level-Up Moves**
+- Ancient Power (Lv 1)
+- Roar (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Charm (Lv 12)
+- Bite (Lv 16)
+- Dragon Tail (Lv 20)
+- Stomp (Lv 24)
+- Rock Slide (Lv 28)
+- Crunch (Lv 32)
+- Dragon Claw (Lv 36)
+- Thrash (Lv 42)
+- Earthquake (Lv 48)
+- Horn Drill (Lv 54)
+- Giga Impact (Lv 60)
+- Head Smash (Lv 66)
 </div>
 </div>
 

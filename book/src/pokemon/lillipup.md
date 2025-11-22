@@ -49,6 +49,22 @@ _Puppy Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 55
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-low">275</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Work Up (Lv 4)
+- Bite (Lv 8)
+- Retaliate (Lv 12)
+- Baby Doll Eyes (Lv 17)
+- Play Rough (Lv 20)
+- Crunch (Lv 24)
+- Take Down (Lv 28)
+- Helping Hand (Lv 32)
+- Reversal (Lv 36)
+- Roar (Lv 40)
+- Last Resort (Lv 44)
+- Giga Impact (Lv 48)
 </div>
 </div>
 
@@ -92,6 +108,22 @@ _Loyal Dog Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 130
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">370</span> |
+
+**Notable Level-Up Moves**
+- Bite (Lv 1)
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Work Up (Lv 1)
+- Retaliate (Lv 12)
+- Baby Doll Eyes (Lv 19)
+- Play Rough (Lv 24)
+- Crunch (Lv 30)
+- Take Down (Lv 36)
+- Helping Hand (Lv 42)
+- Reversal (Lv 48)
+- Roar (Lv 54)
+- Last Resort (Lv 60)
+- Giga Impact (Lv 66)
 </div>
 </div>
 
@@ -135,6 +167,25 @@ _Big-Hearted Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 22
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Bite (Lv 1)
+- Fire Fang (Lv 1)
+- Ice Fang (Lv 1)
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Thunder Fang (Lv 1)
+- Work Up (Lv 1)
+- Retaliate (Lv 12)
+- Baby Doll Eyes (Lv 19)
+- Play Rough (Lv 24)
+- Crunch (Lv 30)
+- Take Down (Lv 38)
+- Helping Hand (Lv 46)
+- Reversal (Lv 54)
+- Roar (Lv 62)
+- Last Resort (Lv 70)
+- Giga Impact (Lv 78)
 </div>
 </div>
 

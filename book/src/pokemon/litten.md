@@ -51,6 +51,22 @@ _Fire Cat Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 64
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Scratch (Lv 1)
+- Ember (Lv 3)
+- Lick (Lv 6)
+- Roar (Lv 9)
+- Fury Swipes (Lv 12)
+- Bite (Lv 15)
+- Double Kick (Lv 18)
+- Fire Fang (Lv 21)
+- Scary Face (Lv 24)
+- Swagger (Lv 27)
+- Flamethrower (Lv 30)
+- Thrash (Lv 33)
+- Flare Blitz (Lv 36)
 </div>
 </div>
 
@@ -100,6 +116,22 @@ _Fire Cat Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 147
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-mid">90</span> |
 | Total | <span class="stat-value stat-mid">420</span> |
+
+**Notable Level-Up Moves**
+- Ember (Lv 1)
+- Growl (Lv 1)
+- Lick (Lv 1)
+- Scratch (Lv 1)
+- Roar (Lv 9)
+- Fury Swipes (Lv 12)
+- Bite (Lv 15)
+- Double Kick (Lv 20)
+- Fire Fang (Lv 25)
+- Scary Face (Lv 30)
+- Swagger (Lv 35)
+- Flamethrower (Lv 40)
+- Thrash (Lv 45)
+- Flare Blitz (Lv 50)
 </div>
 </div>
 
@@ -151,6 +183,26 @@ _Heel Pokémon_ • Types: Fire / Dark • Egg Groups: Ground • Base EXP: 239
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">530</span> |
+
+**Notable Level-Up Moves**
+- Bulk Up (Lv 1)
+- Cross Chop (Lv 1)
+- Darkest Lariat (Lv 1)
+- Ember (Lv 1)
+- Growl (Lv 1)
+- Lick (Lv 1)
+- Scratch (Lv 1)
+- Throat Chop (Lv 1)
+- Roar (Lv 9)
+- Fury Swipes (Lv 12)
+- Bite (Lv 15)
+- Double Kick (Lv 20)
+- Fire Fang (Lv 25)
+- Scary Face (Lv 30)
+- Swagger (Lv 32)
+- Flamethrower (Lv 44)
+- Thrash (Lv 51)
+- Flare Blitz (Lv 58)
 </div>
 </div>
 

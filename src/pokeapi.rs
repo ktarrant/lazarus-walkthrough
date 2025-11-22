@@ -671,8 +671,8 @@ fn stat_display_name(slug: &str) -> String {
 fn extract_moves(pokemon: &Pokemon) -> Vec<MoveLine> {
     use std::collections::BTreeSet;
 
-    // Emerald learnset acts as our canonical reference for now.
-    const TARGET_VERSION_GROUP: &str = "emerald";
+    // Sword/Shield learnset acts as our canonical reference for now.
+    const TARGET_VERSION_GROUP: &str = "sword-shield";
     let mut entries: BTreeSet<(u32, String)> = BTreeSet::new();
     for mv in &pokemon.moves {
         let name = display_name(&mv.move_ref.name);

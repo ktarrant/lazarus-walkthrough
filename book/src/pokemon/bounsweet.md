@@ -53,6 +53,18 @@ _Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 42
 | Sp. Def | <span class="stat-value stat-low">38</span> |
 | Speed | <span class="stat-value stat-low">32</span> |
 | Total | <span class="stat-value stat-low">210</span> |
+
+**Notable Level-Up Moves**
+- Splash (Lv 1)
+- Play Nice (Lv 4)
+- Rapid Spin (Lv 8)
+- Razor Leaf (Lv 12)
+- Sweet Scent (Lv 16)
+- Magical Leaf (Lv 20)
+- Flail (Lv 24)
+- Teeter Dance (Lv 28)
+- Aromatic Mist (Lv 32)
+- Aromatherapy (Lv 36)
 </div>
 </div>
 
@@ -109,6 +121,20 @@ _Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 102
 | Sp. Def | <span class="stat-value stat-low">48</span> |
 | Speed | <span class="stat-value stat-mid">62</span> |
 | Total | <span class="stat-value stat-low">290</span> |
+
+**Notable Level-Up Moves**
+- Flail (Lv 1)
+- Play Nice (Lv 1)
+- Rapid Spin (Lv 1)
+- Razor Leaf (Lv 1)
+- Splash (Lv 1)
+- Sweet Scent (Lv 16)
+- Magical Leaf (Lv 22)
+- Stomp (Lv 28)
+- Teeter Dance (Lv 34)
+- Aromatic Mist (Lv 40)
+- Aromatherapy (Lv 46)
+- Leaf Storm (Lv 52)
 </div>
 </div>
 
@@ -159,6 +185,24 @@ _Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 230
 | Sp. Def | <span class="stat-value stat-high">98</span> |
 | Speed | <span class="stat-value stat-mid">72</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Flail (Lv 1)
+- Play Nice (Lv 1)
+- Power Whip (Lv 1)
+- Rapid Spin (Lv 1)
+- Razor Leaf (Lv 1)
+- Splash (Lv 1)
+- Swagger (Lv 1)
+- Trop Kick (Lv 1)
+- Sweet Scent (Lv 16)
+- Magical Leaf (Lv 22)
+- Stomp (Lv 28)
+- Teeter Dance (Lv 34)
+- Aromatic Mist (Lv 40)
+- Aromatherapy (Lv 46)
+- Leaf Storm (Lv 52)
+- High Jump Kick (Lv 58)
 </div>
 </div>
 

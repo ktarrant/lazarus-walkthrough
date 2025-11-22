@@ -49,18 +49,6 @@ _Puppet Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 5
 | Sp. Def | <span class="stat-value stat-low">33</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-low">295</span> |
-
-**Notable Level-Up Moves**
-- Knock Off (Lv 1)
-- Screech (Lv 8)
-- Night Shade (Lv 13)
-- Curse (Lv 20)
-- Spite (Lv 25)
-- Will O Wisp (Lv 32)
-- Feint Attack (Lv 37)
-- Shadow Ball (Lv 44)
-- Snatch (Lv 49)
-- Grudge (Lv 56)
 </div>
 </div>
 
@@ -112,21 +100,6 @@ _Marionette Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EX
 | Sp. Def | <span class="stat-value stat-mid">63</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">455</span> |
-
-**Notable Level-Up Moves**
-- Curse (Lv 1)
-- Knock Off (Lv 1)
-- Night Shade (Lv 1)
-- Screech (Lv 1)
-- Screech (Lv 8)
-- Night Shade (Lv 13)
-- Curse (Lv 20)
-- Spite (Lv 25)
-- Will O Wisp (Lv 32)
-- Feint Attack (Lv 39)
-- Shadow Ball (Lv 48)
-- Snatch (Lv 55)
-- Grudge (Lv 64)
 </div>
 </div>
 

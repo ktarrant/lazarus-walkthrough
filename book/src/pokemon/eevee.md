@@ -69,15 +69,22 @@ _Evolution Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 65
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Notable Level-Up Moves**
+- Covet (Lv 1)
+- Growl (Lv 1)
 - Helping Hand (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Sand Attack (Lv 8)
-- Growl (Lv 16)
-- Quick Attack (Lv 23)
-- Bite (Lv 30)
-- Baton Pass (Lv 36)
-- Take Down (Lv 42)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Swift (Lv 20)
+- Bite (Lv 25)
+- Copycat (Lv 30)
+- Baton Pass (Lv 35)
+- Take Down (Lv 40)
+- Charm (Lv 45)
+- Double Edge (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -133,17 +140,30 @@ _Bubble Jet Pokémon_ • Types: Water • Egg Groups: Ground • Base EXP: 184
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Bite (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
 - Helping Hand (Lv 1)
+- Swift (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Sand Attack (Lv 8)
-- Water Gun (Lv 16)
-- Quick Attack (Lv 23)
-- Bite (Lv 30)
-- Aurora Beam (Lv 36)
-- Haze (Lv 42)
-- Acid Armor (Lv 47)
-- Hydro Pump (Lv 52)
+- Take Down (Lv 1)
+- Water Gun (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Haze (Lv 20)
+- Water Pulse (Lv 25)
+- Aurora Beam (Lv 30)
+- Aqua Ring (Lv 35)
+- Muddy Water (Lv 40)
+- Acid Armor (Lv 45)
+- Hydro Pump (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -197,17 +217,30 @@ _Lightning Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 18
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Bite (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
 - Helping Hand (Lv 1)
+- Swift (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Sand Attack (Lv 8)
-- Thunder Shock (Lv 16)
-- Quick Attack (Lv 23)
-- Double Kick (Lv 30)
-- Pin Missile (Lv 36)
-- Thunder Wave (Lv 42)
-- Agility (Lv 47)
-- Thunder (Lv 52)
+- Take Down (Lv 1)
+- Thunder Shock (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Thunder Wave (Lv 20)
+- Double Kick (Lv 25)
+- Thunder Fang (Lv 30)
+- Pin Missile (Lv 35)
+- Discharge (Lv 40)
+- Agility (Lv 45)
+- Thunder (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -266,17 +299,29 @@ _Flame Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 184
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Ember (Lv 1)
+- Growl (Lv 1)
 - Helping Hand (Lv 1)
+- Swift (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Sand Attack (Lv 8)
-- Ember (Lv 16)
-- Quick Attack (Lv 23)
-- Bite (Lv 30)
-- Fire Spin (Lv 36)
-- Smog (Lv 42)
-- Leer (Lv 47)
-- Flamethrower (Lv 52)
+- Take Down (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Smog (Lv 20)
+- Bite (Lv 25)
+- Fire Fang (Lv 30)
+- Fire Spin (Lv 35)
+- Lava Plume (Lv 40)
+- Scary Face (Lv 45)
+- Flare Blitz (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -331,17 +376,29 @@ _Sun Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 184
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Bite (Lv 1)
+- Charm (Lv 1)
+- Confusion (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
 - Helping Hand (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Sand Attack (Lv 8)
-- Confusion (Lv 16)
-- Quick Attack (Lv 23)
-- Swift (Lv 30)
-- Psybeam (Lv 36)
-- Psych Up (Lv 42)
-- Psychic (Lv 47)
-- Morning Sun (Lv 52)
+- Take Down (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Swift (Lv 20)
+- Psybeam (Lv 25)
+- Morning Sun (Lv 30)
+- Power Swap (Lv 35)
+- Psychic (Lv 40)
+- Psych Up (Lv 45)
+- Future Sight (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -397,17 +454,30 @@ _Moonlight Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 184
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Bite (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
 - Helping Hand (Lv 1)
+- Snarl (Lv 1)
+- Swift (Lv 1)
 - Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Sand Attack (Lv 8)
-- Pursuit (Lv 16)
-- Quick Attack (Lv 23)
-- Confuse Ray (Lv 30)
-- Feint Attack (Lv 36)
-- Mean Look (Lv 42)
-- Screech (Lv 47)
-- Moonlight (Lv 52)
+- Take Down (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Confuse Ray (Lv 20)
+- Assurance (Lv 25)
+- Moonlight (Lv 30)
+- Guard Swap (Lv 35)
+- Dark Pulse (Lv 40)
+- Screech (Lv 45)
+- Mean Look (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -464,6 +534,32 @@ _Verdant Pokémon_ • Types: Grass • Egg Groups: Ground • Base EXP: 184
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
+
+**Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Bite (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
+- Helping Hand (Lv 1)
+- Razor Leaf (Lv 1)
+- Swift (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Take Down (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Leech Seed (Lv 20)
+- Magical Leaf (Lv 25)
+- Synthesis (Lv 30)
+- Sunny Day (Lv 35)
+- Giga Drain (Lv 40)
+- Swords Dance (Lv 45)
+- Leaf Blade (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -516,6 +612,31 @@ _Fresh Snow Pokémon_ • Types: Ice • Egg Groups: Ground • Base EXP: 184
 | Sp. Def | <span class="stat-value stat-high">95</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
+
+**Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
+- Helping Hand (Lv 1)
+- Icy Wind (Lv 1)
+- Swift (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Take Down (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Ice Shard (Lv 20)
+- Bite (Lv 25)
+- Ice Fang (Lv 30)
+- Hail (Lv 35)
+- Freeze Dry (Lv 40)
+- Mirror Coat (Lv 45)
+- Blizzard (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 
@@ -569,6 +690,31 @@ _Intertwining Pokémon_ • Types: Fairy • Egg Groups: Ground • Base EXP: 18
 | Sp. Def | <span class="stat-value stat-high">130</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
+
+**Notable Level-Up Moves**
+- Baton Pass (Lv 1)
+- Bite (Lv 1)
+- Charm (Lv 1)
+- Copycat (Lv 1)
+- Covet (Lv 1)
+- Disarming Voice (Lv 1)
+- Double Edge (Lv 1)
+- Growl (Lv 1)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Take Down (Lv 1)
+- Sand Attack (Lv 5)
+- Quick Attack (Lv 10)
+- Baby Doll Eyes (Lv 15)
+- Swift (Lv 20)
+- Light Screen (Lv 25)
+- Draining Kiss (Lv 30)
+- Misty Terrain (Lv 35)
+- Skill Swap (Lv 40)
+- Psych Up (Lv 45)
+- Moonblast (Lv 50)
+- Last Resort (Lv 55)
 </div>
 </div>
 

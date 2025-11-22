@@ -58,18 +58,21 @@ _Clap Pokémon_ • Types: Ice / Water • Egg Groups: Water1 / Ground • Base 
 | Total | <span class="stat-value stat-low">290</span> |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1)
-- Powder Snow (Lv 1)
-- Water Gun (Lv 1)
-- Encore (Lv 7)
-- Ice Ball (Lv 13)
-- Body Slam (Lv 19)
-- Aurora Beam (Lv 25)
-- Hail (Lv 31)
-- Rest (Lv 37)
-- Snore (Lv 37)
-- Blizzard (Lv 43)
-- Sheer Cold (Lv 49)
+- Defense Curl (Lv 1)
+- Rollout (Lv 1)
+- Growl (Lv 4)
+- Water Gun (Lv 8)
+- Powder Snow (Lv 12)
+- Rest (Lv 16)
+- Snore (Lv 20)
+- Brine (Lv 24)
+- Aurora Beam (Lv 28)
+- Encore (Lv 33)
+- Body Slam (Lv 36)
+- Surf (Lv 40)
+- Blizzard (Lv 44)
+- Hail (Lv 48)
+- Sheer Cold (Lv 52)
 </div>
 </div>
 
@@ -124,19 +127,22 @@ _Ball Roll Pokémon_ • Types: Ice / Water • Egg Groups: Water1 / Ground • 
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Notable Level-Up Moves**
-- Encore (Lv 1)
+- Defense Curl (Lv 1)
 - Growl (Lv 1)
-- Powder Snow (Lv 1)
+- Rollout (Lv 1)
+- Swagger (Lv 1)
 - Water Gun (Lv 1)
-- Encore (Lv 7)
-- Ice Ball (Lv 13)
-- Body Slam (Lv 19)
-- Aurora Beam (Lv 25)
-- Hail (Lv 31)
-- Rest (Lv 39)
-- Snore (Lv 39)
-- Blizzard (Lv 47)
-- Sheer Cold (Lv 55)
+- Powder Snow (Lv 12)
+- Rest (Lv 16)
+- Snore (Lv 20)
+- Brine (Lv 24)
+- Aurora Beam (Lv 28)
+- Encore (Lv 35)
+- Body Slam (Lv 40)
+- Surf (Lv 46)
+- Blizzard (Lv 52)
+- Hail (Lv 58)
+- Sheer Cold (Lv 64)
 </div>
 </div>
 
@@ -186,19 +192,24 @@ _Ice Break Pokémon_ • Types: Ice / Water • Egg Groups: Water1 / Ground • 
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Notable Level-Up Moves**
-- Encore (Lv 1)
+- Crunch (Lv 1)
+- Defense Curl (Lv 1)
 - Growl (Lv 1)
-- Powder Snow (Lv 1)
+- Ice Fang (Lv 1)
+- Rollout (Lv 1)
+- Swagger (Lv 1)
 - Water Gun (Lv 1)
-- Encore (Lv 7)
-- Ice Ball (Lv 13)
-- Body Slam (Lv 19)
-- Aurora Beam (Lv 25)
-- Hail (Lv 31)
-- Rest (Lv 39)
-- Snore (Lv 39)
-- Blizzard (Lv 50)
-- Sheer Cold (Lv 61)
+- Powder Snow (Lv 12)
+- Rest (Lv 16)
+- Snore (Lv 20)
+- Brine (Lv 24)
+- Aurora Beam (Lv 28)
+- Encore (Lv 35)
+- Body Slam (Lv 40)
+- Surf (Lv 48)
+- Blizzard (Lv 56)
+- Hail (Lv 64)
+- Sheer Cold (Lv 72)
 </div>
 </div>
 

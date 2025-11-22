@@ -50,6 +50,23 @@ _Shedding Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon �
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-low">48</span> |
 | Total | <span class="stat-value stat-mid">348</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Low Kick (Lv 1)
+- Payback (Lv 4)
+- Headbutt (Lv 8)
+- Sand Attack (Lv 12)
+- Facade (Lv 16)
+- Protect (Lv 20)
+- Beat Up (Lv 24)
+- Scary Face (Lv 28)
+- Brick Break (Lv 32)
+- Swagger (Lv 36)
+- Crunch (Lv 40)
+- High Jump Kick (Lv 44)
+- Focus Punch (Lv 48)
+- Head Smash (Lv 52)
 </div>
 </div>
 
@@ -101,6 +118,23 @@ _Hoodlum Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon �
 | Sp. Def | <span class="stat-value stat-high">115</span> |
 | Speed | <span class="stat-value stat-mid">58</span> |
 | Total | <span class="stat-value stat-mid">488</span> |
+
+**Notable Level-Up Moves**
+- Headbutt (Lv 1)
+- Leer (Lv 1)
+- Low Kick (Lv 1)
+- Payback (Lv 1)
+- Sand Attack (Lv 12)
+- Facade (Lv 16)
+- Protect (Lv 20)
+- Beat Up (Lv 24)
+- Scary Face (Lv 28)
+- Brick Break (Lv 32)
+- Swagger (Lv 36)
+- Crunch (Lv 42)
+- High Jump Kick (Lv 48)
+- Focus Punch (Lv 54)
+- Head Smash (Lv 60)
 </div>
 </div>
 

@@ -48,14 +48,20 @@ _Fossil Pokémon_ • Types: Rock / Flying • Egg Groups: Flying • Base EXP: 
 | Total | <span class="stat-value stat-mid">515</span> |
 
 **Notable Level-Up Moves**
-- Wing Attack (Lv 1)
-- Agility (Lv 8)
-- Bite (Lv 15)
-- Supersonic (Lv 22)
-- Ancient Power (Lv 29)
-- Scary Face (Lv 36)
-- Take Down (Lv 43)
-- Hyper Beam (Lv 50)
+- Ancient Power (Lv 1)
+- Bite (Lv 1)
+- Supersonic (Lv 5)
+- Wing Attack (Lv 10)
+- Scary Face (Lv 15)
+- Rock Slide (Lv 20)
+- Roar (Lv 25)
+- Crunch (Lv 30)
+- Iron Head (Lv 35)
+- Take Down (Lv 40)
+- Stone Edge (Lv 45)
+- Agility (Lv 50)
+- Hyper Beam (Lv 55)
+- Giga Impact (Lv 60)
 </div>
 </div>
 

@@ -60,6 +60,22 @@ _Sword Pokémon_ • Types: Steel / Ghost • Egg Groups: Mineral • Base EXP: 
 | Sp. Def | <span class="stat-value stat-low">37</span> |
 | Speed | <span class="stat-value stat-low">28</span> |
 | Total | <span class="stat-value stat-mid">325</span> |
+
+**Notable Level-Up Moves**
+- Fury Cutter (Lv 1)
+- Tackle (Lv 1)
+- Shadow Sneak (Lv 4)
+- Autotomize (Lv 8)
+- Aerial Ace (Lv 12)
+- Metal Sound (Lv 16)
+- Slash (Lv 20)
+- Night Slash (Lv 24)
+- Retaliate (Lv 28)
+- Iron Defense (Lv 32)
+- Iron Head (Lv 36)
+- Power Trick (Lv 40)
+- Swords Dance (Lv 44)
+- Sacred Sword (Lv 48)
 </div>
 </div>
 
@@ -119,6 +135,22 @@ _Sword Pokémon_ • Types: Steel / Ghost • Egg Groups: Mineral • Base EXP: 
 | Sp. Def | <span class="stat-value stat-low">49</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-mid">448</span> |
+
+**Notable Level-Up Moves**
+- Autotomize (Lv 1)
+- Fury Cutter (Lv 1)
+- Shadow Sneak (Lv 1)
+- Tackle (Lv 1)
+- Aerial Ace (Lv 12)
+- Metal Sound (Lv 16)
+- Slash (Lv 20)
+- Night Slash (Lv 24)
+- Retaliate (Lv 28)
+- Iron Defense (Lv 32)
+- Iron Head (Lv 38)
+- Power Trick (Lv 44)
+- Swords Dance (Lv 50)
+- Sacred Sword (Lv 56)
 </div>
 </div>
 
@@ -174,6 +206,24 @@ _Royal Sword Pokémon_ • Types: Steel / Ghost • Egg Groups: Mineral • Base
 | Sp. Def | <span class="stat-value stat-high">140</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Aerial Ace (Lv 1)
+- Autotomize (Lv 1)
+- Fury Cutter (Lv 1)
+- Head Smash (Lv 1)
+- Iron Defense (Lv 1)
+- Iron Head (Lv 1)
+- Kings Shield (Lv 1)
+- Metal Sound (Lv 1)
+- Night Slash (Lv 1)
+- Power Trick (Lv 1)
+- Retaliate (Lv 1)
+- Sacred Sword (Lv 1)
+- Shadow Sneak (Lv 1)
+- Slash (Lv 1)
+- Swords Dance (Lv 1)
+- Tackle (Lv 1)
 </div>
 </div>
 

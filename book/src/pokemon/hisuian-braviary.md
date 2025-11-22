@@ -49,6 +49,22 @@ _Eaglet Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EXP
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">350</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Peck (Lv 1)
+- Hone Claws (Lv 6)
+- Wing Attack (Lv 12)
+- Tailwind (Lv 18)
+- Scary Face (Lv 24)
+- Aerial Ace (Lv 30)
+- Slash (Lv 36)
+- Whirlwind (Lv 42)
+- Crush Claw (Lv 48)
+- Air Slash (Lv 55)
+- Defog (Lv 60)
+- Thrash (Lv 66)
+- Brave Bird (Lv 72)
 </div>
 </div>
 
@@ -101,6 +117,24 @@ _Valiant Pokémon_ • Types: Normal / Flying • Egg Groups: Flying • Base EX
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">510</span> |
+
+**Notable Level-Up Moves**
+- Hone Claws (Lv 1)
+- Leer (Lv 1)
+- Peck (Lv 1)
+- Sky Attack (Lv 1)
+- Superpower (Lv 1)
+- Wing Attack (Lv 1)
+- Tailwind (Lv 18)
+- Scary Face (Lv 24)
+- Aerial Ace (Lv 30)
+- Slash (Lv 36)
+- Whirlwind (Lv 42)
+- Crush Claw (Lv 48)
+- Air Slash (Lv 57)
+- Defog (Lv 64)
+- Thrash (Lv 72)
+- Brave Bird (Lv 80)
 </div>
 </div>
 

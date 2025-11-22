@@ -49,18 +49,6 @@ _Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">25</span> |
 | Total | <span class="stat-value stat-mid">325</span> |
-
-**Notable Level-Up Moves**
-- Poison Gas (Lv 1)
-- Pound (Lv 1)
-- Harden (Lv 4)
-- Disable (Lv 8)
-- Sludge (Lv 13)
-- Minimize (Lv 19)
-- Screech (Lv 26)
-- Acid Armor (Lv 34)
-- Sludge Bomb (Lv 43)
-- Memento (Lv 53)
 </div>
 </div>
 
@@ -112,19 +100,6 @@ _Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 
 | Sp. Def | <span class="stat-value stat-high">100</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
-
-**Notable Level-Up Moves**
-- Harden (Lv 1)
-- Poison Gas (Lv 1)
-- Pound (Lv 1)
-- Harden (Lv 4)
-- Disable (Lv 8)
-- Sludge (Lv 13)
-- Minimize (Lv 19)
-- Screech (Lv 26)
-- Acid Armor (Lv 34)
-- Sludge Bomb (Lv 47)
-- Memento (Lv 61)
 </div>
 </div>
 

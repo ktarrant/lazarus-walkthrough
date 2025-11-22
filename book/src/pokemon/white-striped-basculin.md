@@ -44,6 +44,24 @@ _Hostile Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 161
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-high">98</span> |
 | Total | <span class="stat-value stat-mid">460</span> |
+
+**Notable Level-Up Moves**
+- Tail Whip (Lv 1)
+- Water Gun (Lv 1)
+- Tackle (Lv 4)
+- Flail (Lv 8)
+- Aqua Jet (Lv 12)
+- Bite (Lv 16)
+- Scary Face (Lv 20)
+- Headbutt (Lv 24)
+- Soak (Lv 28)
+- Crunch (Lv 32)
+- Take Down (Lv 36)
+- Final Gambit (Lv 40)
+- Aqua Tail (Lv 44)
+- Thrash (Lv 48)
+- Double Edge (Lv 52)
+- Head Smash (Lv 56)
 </div>
 </div>
 

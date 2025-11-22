@@ -64,15 +64,18 @@ _Mantis Pokémon_ • Types: Bug / Flying • Egg Groups: Bug • Base EXP: 100
 **Notable Level-Up Moves**
 - Leer (Lv 1)
 - Quick Attack (Lv 1)
-- Focus Energy (Lv 6)
-- Pursuit (Lv 11)
-- False Swipe (Lv 16)
-- Agility (Lv 21)
-- Wing Attack (Lv 26)
-- Slash (Lv 31)
-- Swords Dance (Lv 36)
-- Double Team (Lv 41)
-- Fury Cutter (Lv 46)
+- Fury Cutter (Lv 4)
+- False Swipe (Lv 8)
+- Wing Attack (Lv 12)
+- Double Team (Lv 16)
+- Double Hit (Lv 20)
+- Slash (Lv 24)
+- Focus Energy (Lv 28)
+- Agility (Lv 32)
+- Air Slash (Lv 36)
+- X Scissor (Lv 40)
+- Laser Focus (Lv 44)
+- Swords Dance (Lv 48)
 </div>
 </div>
 
@@ -127,17 +130,24 @@ _Pincer Pokémon_ • Types: Bug / Steel • Egg Groups: Bug • Base EXP: 175
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Notable Level-Up Moves**
+- Agility (Lv 1)
+- Air Slash (Lv 1)
+- Bullet Punch (Lv 1)
+- False Swipe (Lv 1)
+- Fury Cutter (Lv 1)
 - Leer (Lv 1)
 - Quick Attack (Lv 1)
-- Focus Energy (Lv 6)
-- Pursuit (Lv 11)
-- False Swipe (Lv 16)
-- Agility (Lv 21)
-- Metal Claw (Lv 26)
-- Slash (Lv 31)
-- Swords Dance (Lv 36)
-- Double Team (Lv 41)
-- Fury Cutter (Lv 46)
+- Wing Attack (Lv 1)
+- Metal Claw (Lv 12)
+- Double Team (Lv 16)
+- Double Hit (Lv 20)
+- Slash (Lv 24)
+- Focus Energy (Lv 28)
+- Iron Defense (Lv 32)
+- Iron Head (Lv 36)
+- X Scissor (Lv 40)
+- Laser Focus (Lv 44)
+- Swords Dance (Lv 48)
 </div>
 </div>
 

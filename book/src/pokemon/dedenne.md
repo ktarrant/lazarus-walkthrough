@@ -46,6 +46,23 @@ _Antenna Pokémon_ • Types: Electric / Fairy • Egg Groups: Ground / Fairy �
 | Sp. Def | <span class="stat-value stat-mid">67</span> |
 | Speed | <span class="stat-value stat-high">101</span> |
 | Total | <span class="stat-value stat-mid">431</span> |
+
+**Notable Level-Up Moves**
+- Nuzzle (Lv 1)
+- Tail Whip (Lv 1)
+- Tackle (Lv 5)
+- Charge (Lv 10)
+- Thunder Shock (Lv 15)
+- Charm (Lv 20)
+- Parabolic Charge (Lv 25)
+- Volt Switch (Lv 30)
+- Rest (Lv 35)
+- Snore (Lv 35)
+- Discharge (Lv 40)
+- Play Rough (Lv 45)
+- Super Fang (Lv 50)
+- Entrainment (Lv 55)
+- Thunder (Lv 60)
 </div>
 </div>
 

@@ -48,6 +48,22 @@ _Fixation Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP: 
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-low">290</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Pound (Lv 1)
+- Play Nice (Lv 4)
+- Tickle (Lv 8)
+- Psybeam (Lv 12)
+- Charm (Lv 16)
+- Psyshock (Lv 20)
+- Hypnosis (Lv 24)
+- Fake Tears (Lv 28)
+- Psych Up (Lv 33)
+- Psychic (Lv 36)
+- Flatter (Lv 40)
+- Future Sight (Lv 44)
+- Magic Room (Lv 48)
 </div>
 </div>
 
@@ -97,6 +113,22 @@ _Manipulate Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">390</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Play Nice (Lv 1)
+- Pound (Lv 1)
+- Tickle (Lv 1)
+- Psybeam (Lv 12)
+- Charm (Lv 16)
+- Psyshock (Lv 20)
+- Hypnosis (Lv 24)
+- Fake Tears (Lv 28)
+- Psych Up (Lv 35)
+- Psychic (Lv 40)
+- Flatter (Lv 46)
+- Future Sight (Lv 52)
+- Magic Room (Lv 58)
 </div>
 </div>
 
@@ -146,6 +178,22 @@ _Astral Body Pokémon_ • Types: Psychic • Egg Groups: Humanshape • Base EX
 | Sp. Def | <span class="stat-value stat-high">110</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Play Nice (Lv 1)
+- Pound (Lv 1)
+- Tickle (Lv 1)
+- Psybeam (Lv 12)
+- Charm (Lv 16)
+- Psyshock (Lv 20)
+- Hypnosis (Lv 24)
+- Fake Tears (Lv 28)
+- Psych Up (Lv 35)
+- Psychic (Lv 40)
+- Flatter (Lv 48)
+- Future Sight (Lv 56)
+- Magic Room (Lv 64)
 </div>
 </div>
 

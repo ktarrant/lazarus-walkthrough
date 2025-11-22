@@ -35,6 +35,23 @@ _Disguise Pokémon_ • Types: Ghost / Fairy • Egg Groups: Indeterminate • B
 | Sp. Def | <span class="stat-value stat-high">105</span> |
 | Speed | <span class="stat-value stat-high">96</span> |
 | Total | <span class="stat-value stat-mid">476</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Copycat (Lv 1)
+- Scratch (Lv 1)
+- Splash (Lv 1)
+- Wood Hammer (Lv 1)
+- Shadow Sneak (Lv 6)
+- Double Team (Lv 12)
+- Baby Doll Eyes (Lv 18)
+- Mimic (Lv 24)
+- Hone Claws (Lv 30)
+- Slash (Lv 36)
+- Shadow Claw (Lv 42)
+- Charm (Lv 48)
+- Play Rough (Lv 54)
+- Pain Split (Lv 60)
 </div>
 </div>
 

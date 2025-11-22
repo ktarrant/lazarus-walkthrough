@@ -50,14 +50,18 @@ _Single Horn Pokémon_ • Types: Bug / Fighting • Egg Groups: Bug • Base EX
 **Notable Level-Up Moves**
 - Leer (Lv 1)
 - Tackle (Lv 1)
-- Horn Attack (Lv 6)
-- Endure (Lv 11)
-- Fury Attack (Lv 17)
-- Brick Break (Lv 23)
-- Counter (Lv 30)
-- Take Down (Lv 37)
-- Reversal (Lv 45)
-- Megahorn (Lv 53)
+- Fury Attack (Lv 5)
+- Endure (Lv 10)
+- Aerial Ace (Lv 15)
+- Horn Attack (Lv 20)
+- Counter (Lv 25)
+- Brick Break (Lv 30)
+- Pin Missile (Lv 35)
+- Throat Chop (Lv 40)
+- Thrash (Lv 45)
+- Swords Dance (Lv 50)
+- Megahorn (Lv 55)
+- Close Combat (Lv 60)
 </div>
 </div>
 

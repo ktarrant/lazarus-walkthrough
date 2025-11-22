@@ -48,6 +48,22 @@ _Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EX
 | Sp. Def | <span class="stat-value stat-mid">56</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Pound (Lv 1)
+- Water Gun (Lv 3)
+- Disarming Voice (Lv 6)
+- Aqua Jet (Lv 9)
+- Baby Doll Eyes (Lv 12)
+- Icy Wind (Lv 15)
+- Sing (Lv 18)
+- Bubble Beam (Lv 21)
+- Encore (Lv 24)
+- Misty Terrain (Lv 27)
+- Hyper Voice (Lv 30)
+- Moonblast (Lv 33)
+- Hydro Pump (Lv 36)
 </div>
 </div>
 
@@ -94,6 +110,22 @@ _Pop Star Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EX
 | Sp. Def | <span class="stat-value stat-mid">81</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">420</span> |
+
+**Notable Level-Up Moves**
+- Disarming Voice (Lv 1)
+- Growl (Lv 1)
+- Pound (Lv 1)
+- Water Gun (Lv 1)
+- Aqua Jet (Lv 9)
+- Baby Doll Eyes (Lv 12)
+- Icy Wind (Lv 15)
+- Sing (Lv 20)
+- Bubble Beam (Lv 25)
+- Encore (Lv 30)
+- Misty Terrain (Lv 35)
+- Hyper Voice (Lv 40)
+- Moonblast (Lv 45)
+- Hydro Pump (Lv 50)
 </div>
 </div>
 
@@ -144,6 +176,23 @@ _Soloist Pokémon_ • Types: Water / Fairy • Egg Groups: Water1 / Ground • 
 | Sp. Def | <span class="stat-value stat-high">116</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">530</span> |
+
+**Notable Level-Up Moves**
+- Disarming Voice (Lv 1)
+- Growl (Lv 1)
+- Pound (Lv 1)
+- Sparkling Aria (Lv 1)
+- Water Gun (Lv 1)
+- Aqua Jet (Lv 9)
+- Baby Doll Eyes (Lv 12)
+- Icy Wind (Lv 15)
+- Sing (Lv 20)
+- Bubble Beam (Lv 25)
+- Encore (Lv 30)
+- Misty Terrain (Lv 37)
+- Hyper Voice (Lv 44)
+- Moonblast (Lv 51)
+- Hydro Pump (Lv 58)
 </div>
 </div>
 

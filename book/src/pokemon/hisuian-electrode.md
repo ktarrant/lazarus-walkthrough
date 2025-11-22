@@ -46,19 +46,6 @@ _Ball Pokémon_ • Types: Electric • Egg Groups: Mineral • Base EXP: 66
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-high">100</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
-
-**Notable Level-Up Moves**
-- Charge (Lv 1)
-- Tackle (Lv 1)
-- Screech (Lv 8)
-- Sonic Boom (Lv 15)
-- Spark (Lv 21)
-- Self Destruct (Lv 27)
-- Rollout (Lv 32)
-- Light Screen (Lv 37)
-- Swift (Lv 42)
-- Explosion (Lv 46)
-- Mirror Coat (Lv 49)
 </div>
 </div>
 
@@ -104,21 +91,6 @@ _Ball Pokémon_ • Types: Electric • Egg Groups: Mineral • Base EXP: 172
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-high">150</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
-
-**Notable Level-Up Moves**
-- Charge (Lv 1)
-- Screech (Lv 1)
-- Sonic Boom (Lv 1)
-- Tackle (Lv 1)
-- Screech (Lv 8)
-- Sonic Boom (Lv 15)
-- Spark (Lv 21)
-- Self Destruct (Lv 27)
-- Rollout (Lv 34)
-- Light Screen (Lv 41)
-- Swift (Lv 48)
-- Explosion (Lv 54)
-- Mirror Coat (Lv 59)
 </div>
 </div>
 

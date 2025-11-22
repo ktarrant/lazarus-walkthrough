@@ -53,6 +53,22 @@ _Muscular Pokémon_ • Types: Fighting • Egg Groups: Humanshape • Base EXP:
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">305</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Pound (Lv 1)
+- Low Kick (Lv 4)
+- Rock Throw (Lv 8)
+- Focus Energy (Lv 12)
+- Bulk Up (Lv 16)
+- Rock Slide (Lv 20)
+- Slam (Lv 24)
+- Scary Face (Lv 28)
+- Dynamic Punch (Lv 32)
+- Hammer Arm (Lv 36)
+- Stone Edge (Lv 40)
+- Superpower (Lv 44)
+- Focus Punch (Lv 48)
 </div>
 </div>
 
@@ -103,6 +119,22 @@ _Muscular Pokémon_ • Types: Fighting • Egg Groups: Humanshape • Base EXP:
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">405</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Low Kick (Lv 1)
+- Pound (Lv 1)
+- Rock Throw (Lv 1)
+- Focus Energy (Lv 12)
+- Bulk Up (Lv 16)
+- Rock Slide (Lv 20)
+- Slam (Lv 24)
+- Scary Face (Lv 30)
+- Dynamic Punch (Lv 36)
+- Hammer Arm (Lv 42)
+- Stone Edge (Lv 48)
+- Superpower (Lv 54)
+- Focus Punch (Lv 60)
 </div>
 </div>
 
@@ -150,6 +182,22 @@ _Muscular Pokémon_ • Types: Fighting • Egg Groups: Humanshape • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">505</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Low Kick (Lv 1)
+- Pound (Lv 1)
+- Rock Throw (Lv 1)
+- Focus Energy (Lv 12)
+- Bulk Up (Lv 16)
+- Rock Slide (Lv 20)
+- Slam (Lv 24)
+- Scary Face (Lv 30)
+- Dynamic Punch (Lv 36)
+- Hammer Arm (Lv 42)
+- Stone Edge (Lv 48)
+- Superpower (Lv 54)
+- Focus Punch (Lv 60)
 </div>
 </div>
 

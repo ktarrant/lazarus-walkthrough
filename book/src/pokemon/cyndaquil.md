@@ -52,16 +52,6 @@ _Fire Mouse Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 62
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-mid">309</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Tackle (Lv 1)
-- Smokescreen (Lv 6)
-- Ember (Lv 12)
-- Quick Attack (Lv 19)
-- Flame Wheel (Lv 27)
-- Swift (Lv 36)
-- Flamethrower (Lv 46)
 </div>
 </div>
 
@@ -111,17 +101,6 @@ _Volcano Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 142
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">405</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Smokescreen (Lv 1)
-- Tackle (Lv 1)
-- Smokescreen (Lv 6)
-- Ember (Lv 12)
-- Quick Attack (Lv 21)
-- Flame Wheel (Lv 31)
-- Swift (Lv 42)
-- Flamethrower (Lv 54)
 </div>
 </div>
 
@@ -171,18 +150,6 @@ _Volcano Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 240
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-high">100</span> |
 | Total | <span class="stat-value stat-mid">534</span> |
-
-**Notable Level-Up Moves**
-- Ember (Lv 1)
-- Leer (Lv 1)
-- Smokescreen (Lv 1)
-- Tackle (Lv 1)
-- Smokescreen (Lv 6)
-- Ember (Lv 12)
-- Quick Attack (Lv 21)
-- Flame Wheel (Lv 31)
-- Swift (Lv 45)
-- Flamethrower (Lv 60)
 </div>
 </div>
 

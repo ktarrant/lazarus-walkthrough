@@ -54,14 +54,18 @@ _Pig Pokémon_ • Types: Ice / Ground • Egg Groups: Ground • Base EXP: 50
 | Total | <span class="stat-value stat-low">250</span> |
 
 **Notable Level-Up Moves**
-- Odor Sleuth (Lv 1)
+- Mud Slap (Lv 1)
 - Tackle (Lv 1)
-- Powder Snow (Lv 10)
-- Endure (Lv 19)
-- Take Down (Lv 28)
-- Mist (Lv 37)
-- Blizzard (Lv 46)
-- Amnesia (Lv 55)
+- Powder Snow (Lv 5)
+- Flail (Lv 10)
+- Ice Shard (Lv 15)
+- Mist (Lv 20)
+- Endure (Lv 25)
+- Icy Wind (Lv 30)
+- Amnesia (Lv 35)
+- Take Down (Lv 40)
+- Earthquake (Lv 45)
+- Blizzard (Lv 50)
 </div>
 </div>
 
@@ -112,17 +116,21 @@ _Swine Pokémon_ • Types: Ice / Ground • Egg Groups: Ground • Base EXP: 15
 | Total | <span class="stat-value stat-mid">450</span> |
 
 **Notable Level-Up Moves**
-- Endure (Lv 1)
-- Horn Attack (Lv 1)
-- Odor Sleuth (Lv 1)
+- Ancient Power (Lv 1)
+- Flail (Lv 1)
+- Ice Fang (Lv 1)
+- Mud Slap (Lv 1)
 - Powder Snow (Lv 1)
-- Powder Snow (Lv 10)
-- Endure (Lv 19)
-- Take Down (Lv 28)
-- Fury Attack (Lv 33)
-- Mist (Lv 42)
-- Blizzard (Lv 56)
-- Amnesia (Lv 70)
+- Tackle (Lv 1)
+- Ice Shard (Lv 15)
+- Mist (Lv 20)
+- Endure (Lv 25)
+- Icy Wind (Lv 30)
+- Amnesia (Lv 37)
+- Take Down (Lv 44)
+- Earthquake (Lv 51)
+- Blizzard (Lv 58)
+- Thrash (Lv 65)
 </div>
 </div>
 
@@ -171,6 +179,24 @@ _Twin Tusk Pokémon_ • Types: Ice / Ground • Egg Groups: Ground • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-mid">530</span> |
+
+**Notable Level-Up Moves**
+- Ancient Power (Lv 1)
+- Double Hit (Lv 1)
+- Flail (Lv 1)
+- Ice Fang (Lv 1)
+- Mud Slap (Lv 1)
+- Powder Snow (Lv 1)
+- Tackle (Lv 1)
+- Ice Shard (Lv 15)
+- Mist (Lv 20)
+- Endure (Lv 25)
+- Icy Wind (Lv 30)
+- Amnesia (Lv 37)
+- Take Down (Lv 44)
+- Earthquake (Lv 51)
+- Blizzard (Lv 58)
+- Thrash (Lv 65)
 </div>
 </div>
 

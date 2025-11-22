@@ -74,7 +74,7 @@ _Fish Pokémon_ • Types: Water • Egg Groups: Water2 / Dragon • Base EXP: 4
 **Notable Level-Up Moves**
 - Splash (Lv 1)
 - Tackle (Lv 15)
-- Flail (Lv 30)
+- Flail (Lv 25)
 </div>
 </div>
 
@@ -125,15 +125,25 @@ _Atrocious Pokémon_ • Types: Water / Flying • Egg Groups: Water2 / Dragon �
 | Total | <span class="stat-value stat-mid">540</span> |
 
 **Notable Level-Up Moves**
-- Thrash (Lv 1)
-- Bite (Lv 20)
-- Dragon Rage (Lv 25)
-- Leer (Lv 30)
-- Twister (Lv 35)
+- Bite (Lv 1)
+- Flail (Lv 1)
+- Leer (Lv 1)
+- Splash (Lv 1)
+- Tackle (Lv 1)
+- Twister (Lv 1)
+- Whirlpool (Lv 4)
+- Ice Fang (Lv 8)
+- Brine (Lv 12)
+- Scary Face (Lv 16)
+- Waterfall (Lv 21)
+- Crunch (Lv 24)
+- Rain Dance (Lv 28)
+- Aqua Tail (Lv 32)
+- Dragon Dance (Lv 36)
 - Hydro Pump (Lv 40)
-- Rain Dance (Lv 45)
-- Dragon Dance (Lv 50)
-- Hyper Beam (Lv 55)
+- Hurricane (Lv 44)
+- Thrash (Lv 48)
+- Hyper Beam (Lv 52)
 </div>
 </div>
 

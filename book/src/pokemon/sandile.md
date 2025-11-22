@@ -57,6 +57,23 @@ _Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base 
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
 | Total | <span class="stat-value stat-low">292</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Power Trip (Lv 1)
+- Sand Attack (Lv 3)
+- Hone Claws (Lv 6)
+- Sand Tomb (Lv 9)
+- Scary Face (Lv 12)
+- Bite (Lv 15)
+- Torment (Lv 18)
+- Dig (Lv 21)
+- Swagger (Lv 24)
+- Crunch (Lv 27)
+- Sandstorm (Lv 30)
+- Foul Play (Lv 33)
+- Earthquake (Lv 36)
+- Thrash (Lv 39)
 </div>
 </div>
 
@@ -113,6 +130,23 @@ _Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base 
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-mid">74</span> |
 | Total | <span class="stat-value stat-mid">351</span> |
+
+**Notable Level-Up Moves**
+- Hone Claws (Lv 1)
+- Leer (Lv 1)
+- Power Trip (Lv 1)
+- Sand Attack (Lv 1)
+- Sand Tomb (Lv 9)
+- Scary Face (Lv 12)
+- Bite (Lv 15)
+- Torment (Lv 18)
+- Dig (Lv 21)
+- Swagger (Lv 24)
+- Crunch (Lv 27)
+- Sandstorm (Lv 32)
+- Foul Play (Lv 35)
+- Earthquake (Lv 42)
+- Thrash (Lv 47)
 </div>
 </div>
 
@@ -166,6 +200,24 @@ _Intimidation Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-high">92</span> |
 | Total | <span class="stat-value stat-mid">519</span> |
+
+**Notable Level-Up Moves**
+- Hone Claws (Lv 1)
+- Leer (Lv 1)
+- Power Trip (Lv 1)
+- Sand Attack (Lv 1)
+- Sand Tomb (Lv 9)
+- Scary Face (Lv 12)
+- Bite (Lv 15)
+- Torment (Lv 18)
+- Dig (Lv 21)
+- Swagger (Lv 24)
+- Crunch (Lv 27)
+- Sandstorm (Lv 32)
+- Foul Play (Lv 35)
+- Earthquake (Lv 44)
+- Thrash (Lv 51)
+- Outrage (Lv 58)
 </div>
 </div>
 

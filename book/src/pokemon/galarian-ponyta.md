@@ -48,6 +48,21 @@ _Fire Horse Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 82
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">90</span> |
 | Total | <span class="stat-value stat-mid">410</span> |
+
+**Notable Level-Up Moves**
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 5)
+- Confusion (Lv 10)
+- Fairy Wind (Lv 15)
+- Agility (Lv 20)
+- Psybeam (Lv 25)
+- Stomp (Lv 30)
+- Heal Pulse (Lv 35)
+- Take Down (Lv 41)
+- Dazzling Gleam (Lv 45)
+- Psychic (Lv 50)
+- Healing Wish (Lv 55)
 </div>
 </div>
 
@@ -98,6 +113,24 @@ _Fire Horse Pokémon_ • Types: Psychic / Fairy • Egg Groups: Ground • Base
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-high">105</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Growl (Lv 1)
+- Megahorn (Lv 1)
+- Psycho Cut (Lv 1)
+- Quick Attack (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Fairy Wind (Lv 15)
+- Agility (Lv 20)
+- Psybeam (Lv 25)
+- Stomp (Lv 30)
+- Heal Pulse (Lv 35)
+- Take Down (Lv 43)
+- Dazzling Gleam (Lv 49)
+- Psychic (Lv 56)
+- Healing Wish (Lv 63)
 </div>
 </div>
 

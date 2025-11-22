@@ -50,6 +50,22 @@ _Flailing Pokémon_ • Types: Normal / Fighting • Egg Groups: Ground • Base
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">340</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Baby Doll Eyes (Lv 4)
+- Payback (Lv 8)
+- Brutal Swing (Lv 12)
+- Endure (Lv 16)
+- Strength (Lv 20)
+- Take Down (Lv 24)
+- Flail (Lv 28)
+- Hammer Arm (Lv 32)
+- Thrash (Lv 36)
+- Pain Split (Lv 40)
+- Double Edge (Lv 44)
+- Superpower (Lv 48)
 </div>
 </div>
 
@@ -103,6 +119,23 @@ _Strong Arm Pokémon_ • Types: Normal / Fighting • Egg Groups: Ground • Ba
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">500</span> |
+
+**Notable Level-Up Moves**
+- Baby Doll Eyes (Lv 1)
+- Bind (Lv 1)
+- Leer (Lv 1)
+- Payback (Lv 1)
+- Tackle (Lv 1)
+- Brutal Swing (Lv 12)
+- Endure (Lv 16)
+- Strength (Lv 20)
+- Take Down (Lv 24)
+- Flail (Lv 30)
+- Hammer Arm (Lv 36)
+- Thrash (Lv 42)
+- Pain Split (Lv 48)
+- Double Edge (Lv 54)
+- Superpower (Lv 60)
 </div>
 </div>
 

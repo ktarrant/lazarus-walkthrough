@@ -54,18 +54,6 @@ _Flower Pokémon_ • Types: Grass / Poison • Egg Groups: Plant • Base EXP: 
 | Sp. Def | <span class="stat-value stat-low">30</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-low">300</span> |
-
-**Notable Level-Up Moves**
-- Vine Whip (Lv 1)
-- Growth (Lv 6)
-- Wrap (Lv 11)
-- Sleep Powder (Lv 15)
-- Poison Powder (Lv 17)
-- Stun Spore (Lv 19)
-- Acid (Lv 23)
-- Sweet Scent (Lv 30)
-- Razor Leaf (Lv 37)
-- Slam (Lv 45)
 </div>
 </div>
 
@@ -120,20 +108,6 @@ _Flycatcher Pokémon_ • Types: Grass / Poison • Egg Groups: Plant • Base E
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">390</span> |
-
-**Notable Level-Up Moves**
-- Growth (Lv 1)
-- Vine Whip (Lv 1)
-- Wrap (Lv 1)
-- Growth (Lv 6)
-- Wrap (Lv 11)
-- Sleep Powder (Lv 15)
-- Poison Powder (Lv 17)
-- Stun Spore (Lv 19)
-- Acid (Lv 24)
-- Sweet Scent (Lv 33)
-- Razor Leaf (Lv 42)
-- Slam (Lv 54)
 </div>
 </div>
 
@@ -187,12 +161,6 @@ _Flycatcher Pokémon_ • Types: Grass / Poison • Egg Groups: Plant • Base E
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
-
-**Notable Level-Up Moves**
-- Razor Leaf (Lv 1)
-- Sleep Powder (Lv 1)
-- Sweet Scent (Lv 1)
-- Vine Whip (Lv 1)
 </div>
 </div>
 

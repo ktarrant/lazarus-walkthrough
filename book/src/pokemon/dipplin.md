@@ -64,6 +64,10 @@ _Apple Core Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon �
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-low">20</span> |
 | Total | <span class="stat-value stat-low">260</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Withdraw (Lv 1)
 </div>
 </div>
 
@@ -121,6 +125,25 @@ _Apple Wing Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon �
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-mid">485</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Growth (Lv 1)
+- Recycle (Lv 1)
+- Twister (Lv 1)
+- Wing Attack (Lv 1)
+- Withdraw (Lv 1)
+- Acid Spray (Lv 4)
+- Acrobatics (Lv 8)
+- Leech Seed (Lv 12)
+- Protect (Lv 16)
+- Dragon Breath (Lv 20)
+- Dragon Dance (Lv 24)
+- Dragon Pulse (Lv 28)
+- Grav Apple (Lv 32)
+- Iron Defense (Lv 36)
+- Fly (Lv 40)
+- Dragon Rush (Lv 44)
 </div>
 </div>
 
@@ -178,6 +201,25 @@ _Apple Nectar Pokémon_ • Types: Grass / Dragon • Egg Groups: Plant / Dragon
 | Sp. Def | <span class="stat-value stat-mid">80</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">485</span> |
+
+**Notable Level-Up Moves**
+- Astonish (Lv 1)
+- Growth (Lv 1)
+- Headbutt (Lv 1)
+- Recycle (Lv 1)
+- Sweet Scent (Lv 1)
+- Withdraw (Lv 1)
+- Curse (Lv 4)
+- Stomp (Lv 8)
+- Leech Seed (Lv 12)
+- Protect (Lv 16)
+- Bullet Seed (Lv 20)
+- Recover (Lv 24)
+- Apple Acid (Lv 28)
+- Body Slam (Lv 32)
+- Iron Defense (Lv 36)
+- Dragon Pulse (Lv 40)
+- Energy Ball (Lv 44)
 </div>
 </div>
 

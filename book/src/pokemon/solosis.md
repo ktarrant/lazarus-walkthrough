@@ -48,6 +48,23 @@ _Cell Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 5
 | Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">20</span> |
 | Total | <span class="stat-value stat-low">290</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Protect (Lv 1)
+- Recover (Lv 4)
+- Endeavor (Lv 8)
+- Psybeam (Lv 12)
+- Charm (Lv 16)
+- Psyshock (Lv 20)
+- Light Screen (Lv 24)
+- Reflect (Lv 24)
+- Ally Switch (Lv 28)
+- Pain Split (Lv 33)
+- Psychic (Lv 36)
+- Skill Swap (Lv 40)
+- Future Sight (Lv 44)
+- Wonder Room (Lv 48)
 </div>
 </div>
 
@@ -97,6 +114,23 @@ _Mitosis Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">370</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Endeavor (Lv 1)
+- Protect (Lv 1)
+- Recover (Lv 1)
+- Psybeam (Lv 12)
+- Charm (Lv 16)
+- Psyshock (Lv 20)
+- Light Screen (Lv 24)
+- Reflect (Lv 24)
+- Ally Switch (Lv 28)
+- Pain Split (Lv 35)
+- Psychic (Lv 40)
+- Skill Swap (Lv 46)
+- Future Sight (Lv 52)
+- Wonder Room (Lv 58)
 </div>
 </div>
 
@@ -146,6 +180,24 @@ _Multiplying Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">490</span> |
+
+**Notable Level-Up Moves**
+- Confusion (Lv 1)
+- Endeavor (Lv 1)
+- Hammer Arm (Lv 1)
+- Protect (Lv 1)
+- Recover (Lv 1)
+- Psybeam (Lv 12)
+- Charm (Lv 16)
+- Psyshock (Lv 20)
+- Light Screen (Lv 24)
+- Reflect (Lv 24)
+- Ally Switch (Lv 28)
+- Pain Split (Lv 35)
+- Psychic (Lv 40)
+- Skill Swap (Lv 48)
+- Future Sight (Lv 56)
+- Wonder Room (Lv 64)
 </div>
 </div>
 

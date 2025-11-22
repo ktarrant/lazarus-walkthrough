@@ -54,6 +54,20 @@ _Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant •
 | Sp. Def | <span class="stat-value stat-mid">60</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">334</span> |
+
+**Notable Level-Up Moves**
+- Leer (Lv 1)
+- Powder Snow (Lv 1)
+- Leafage (Lv 5)
+- Mist (Lv 10)
+- Ice Shard (Lv 15)
+- Razor Leaf (Lv 20)
+- Icy Wind (Lv 25)
+- Swagger (Lv 30)
+- Ingrain (Lv 35)
+- Wood Hammer (Lv 41)
+- Blizzard (Lv 45)
+- Sheer Cold (Lv 50)
 </div>
 </div>
 
@@ -109,6 +123,22 @@ _Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant •
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">494</span> |
+
+**Notable Level-Up Moves**
+- Aurora Veil (Lv 1)
+- Ice Punch (Lv 1)
+- Leafage (Lv 1)
+- Leer (Lv 1)
+- Mist (Lv 1)
+- Powder Snow (Lv 1)
+- Ice Shard (Lv 15)
+- Razor Leaf (Lv 20)
+- Icy Wind (Lv 25)
+- Swagger (Lv 30)
+- Ingrain (Lv 35)
+- Wood Hammer (Lv 43)
+- Blizzard (Lv 49)
+- Sheer Cold (Lv 56)
 </div>
 </div>
 
