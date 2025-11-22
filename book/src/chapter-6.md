@@ -3,6 +3,7 @@
 ## Pythios Town
 Pythios Town is home to the third gym.
 The gym leader specializes in Ghost and Psychic type Pokemon.
+Winning allows you to use HM05 Flash outside of battle.
 Don't do the gym until you have cleared the Pythios Cemetery, which is to the west.
 You can also catch Pokemon to the east in Erinys Path, but there is nothing else to do there.
 If you want to look at what can be caught there, see Chapter 7.
