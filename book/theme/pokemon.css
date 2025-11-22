@@ -92,3 +92,34 @@
     background: #1f3c26;
     color: #92f5c1;
 }
+
+.egg-group-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.25rem;
+    margin: 1.5rem 0;
+}
+
+.egg-group-section {
+    border: 1px solid #343b48;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    background: #1b1f27;
+}
+
+.egg-group-section h3 {
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+    font-size: 1rem;
+    color: #f5f7ff;
+}
+
+.egg-group-section ul {
+    list-style: disc;
+    margin: 0 0 0 1.2rem;
+    padding: 0;
+}
+
+.egg-group-section li {
+    margin: 0.15rem 0;
+}

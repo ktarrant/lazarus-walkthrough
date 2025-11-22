@@ -4,6 +4,7 @@ mod type_chart;
 
 use anyhow::Result;
 use clap::{Parser, Subcommand};
+use std::collections::BTreeMap;
 use std::path::PathBuf;
 
 #[derive(Parser)]
@@ -48,6 +49,12 @@ enum Command {
         #[arg(long, default_value = "book/src/encounters")]
         out_dir: PathBuf,
     },
+    /// Render a reference list of egg groups -> encountered Pokémon
+    EggGroups {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/egg-groups.md")]
+        out: PathBuf,
+    },
 }
 
 fn main() -> Result<()> {
@@ -62,6 +69,7 @@ fn main() -> Result<()> {
         }
         Command::Encounters { area_id } => render_encounters(cli.encounters_json, area_id)?,
         Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
+        Command::EggGroups { out } => render_egg_groups(cli.data_dir, cli.encounters_json, out)?,
     }
     Ok(())
 }
@@ -235,4 +243,88 @@ fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
     }
     write_index(&out_dir, "Encounter Tables", &index_entries)?;
     Ok(())
+}
+
+fn render_egg_groups(data_dir: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+    let repo = pokeapi::Repository::new(data_dir);
+    let species_list = encounters::list_species(&manifest)?;
+    let mut groups: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
+    for name in species_list {
+        let mut species_record = None;
+        for candidate in candidate_identifiers(&name) {
+            if let Ok(species) = repo.load_species(&candidate) {
+                species_record = Some(species);
+                break;
+            }
+        }
+        let Some(species) = species_record else {
+            eprintln!("Skipped egg group lookup for {name}; species not found");
+            continue;
+        };
+
+        let slug = encounters::slugify(&name);
+        let display = name.clone();
+        for group in species.egg_groups {
+            let label = format_egg_group(&group.name);
+            groups
+                .entry(label)
+                .or_default()
+                .push((display.clone(), slug.clone()));
+        }
+    }
+
+    for entries in groups.values_mut() {
+        entries.sort_by(|a, b| a.0.cmp(&b.0));
+    }
+
+    let mut buf = String::new();
+    buf.push_str("# Egg Groups\n\n");
+    buf.push_str("Pokémon appearing in the Lazarus encounters grouped by egg group.\n\n");
+    buf.push_str("<div class=\"egg-group-grid\">\n");
+    for (group, entries) in groups {
+        buf.push_str("<div class=\"egg-group-section\">\n");
+        buf.push_str(&format!("<h3>{}</h3>\n<ul>\n", html_escape(&group)));
+        for (display, slug) in entries {
+            buf.push_str(&format!(
+                "<li><a href=\"./pokemon/{slug}.md\">{name}</a></li>\n",
+                slug = slug,
+                name = html_escape(&display)
+            ));
+        }
+        buf.push_str("</ul>\n</div>\n");
+    }
+    buf.push_str("</div>\n");
+    std::fs::write(out, buf)?;
+    Ok(())
+}
+
+fn format_egg_group(name: &str) -> String {
+    name.split('-')
+        .filter(|part| !part.is_empty())
+        .map(|part| {
+            let mut chars = part.chars();
+            match chars.next() {
+                Some(first) => {
+                    first.to_ascii_uppercase().to_string() + &chars.as_str().to_ascii_lowercase()
+                }
+                None => String::new(),
+            }
+        })
+        .collect::<Vec<_>>()
+        .join(" ")
+}
+
+fn html_escape(input: &str) -> String {
+    let mut out = String::with_capacity(input.len());
+    for ch in input.chars() {
+        match ch {
+            '&' => out.push_str("&amp;"),
+            '<' => out.push_str("&lt;"),
+            '>' => out.push_str("&gt;"),
+            '"' => out.push_str("&quot;"),
+            '\'' => out.push_str("&#39;"),
+            _ => out.push(ch),
+        }
+    }
+    out
 }

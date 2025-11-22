@@ -72,6 +72,17 @@ Regenerate the file whenever `src/type_chart.rs` changes.
    ```
 4. Include the snippet in chapters via `{{#include ./encounters/bronze-fields-north.md}}`. Encounter tables now link each species name to its generated card.
 
+### Egg group reference
+
+Generate a Markdown index that lists every egg group represented in the encounter
+data and links to the Pokémon cards for each species:
+
+```sh
+cargo run -- egg-groups --out book/src/egg-groups.md
+```
+
+The file is safe to commit and mdbook-autosummary will add it to the sidebar.
+
 ### mdBook preview
 Due to a limitation in mdbook-autosummary, an empty SUMMARY.md should be created
 before running build or serve.

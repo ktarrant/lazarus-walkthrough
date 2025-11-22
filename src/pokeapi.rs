@@ -50,7 +50,7 @@ impl Repository {
         }
     }
 
-    fn load_species(&self, identifier: &str) -> Result<PokemonSpecies> {
+    pub fn load_species(&self, identifier: &str) -> Result<PokemonSpecies> {
         if let Ok(id) = identifier.trim().parse::<u32>() {
             return self.read_species_file(id);
         }
@@ -889,13 +889,13 @@ struct MoveVersionDetail {
 }
 
 #[derive(Debug, Deserialize, Clone)]
-struct PokemonSpecies {
+pub struct PokemonSpecies {
     id: u32,
     name: String,
     genera: Vec<GenusEntry>,
     flavor_text_entries: Vec<FlavorTextEntry>,
     #[serde(default)]
-    egg_groups: Vec<NamedResource>,
+    pub egg_groups: Vec<NamedResource>,
     #[serde(default)]
     evolution_chain: Option<ApiResource>,
     #[serde(default)]
@@ -963,8 +963,8 @@ struct EvolutionDetail {
 }
 
 #[derive(Debug, Deserialize, Clone)]
-struct NamedResource {
-    name: String,
+pub struct NamedResource {
+    pub name: String,
     #[allow(dead_code)]
-    url: String,
+    pub url: String,
 }
