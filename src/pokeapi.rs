@@ -16,15 +16,21 @@ impl Repository {
     }
 
     pub fn build_card_deck(&self, identifier: &str) -> Result<PokemonCardDeck> {
-        let species = self.load_species(identifier)?;
-        let pokemon = self.load_pokemon(species.id)?;
+        let slug = slugify(identifier);
+        let (base_slug, form_slug) = split_form_slug(&slug);
+        let species = self.load_species(&base_slug)?;
+        let pokemon = self.load_pokemon_for_species(&species, form_slug.as_deref())?;
         if let Some(chain) = self.load_evolution_chain(&species)? {
             let evolution_paths = render_paths(&chain);
             let mut cards = Vec::new();
             let mut active_idx = 0;
             for (idx, species_id) in collect_chain_species(&chain).iter().enumerate() {
                 let species_data = self.read_species_file(*species_id)?;
-                let pokemon_data = self.load_pokemon(species_data.id)?;
+                let pokemon_data = if species_data.id == species.id {
+                    self.load_pokemon_for_species(&species_data, form_slug.as_deref())?
+                } else {
+                    self.load_pokemon_for_species(&species_data, None)?
+                };
                 if species_data.id == species.id {
                     active_idx = idx;
                 }
@@ -83,6 +89,28 @@ impl Repository {
             .join(id.to_string())
             .join("index.json");
         read_json(&path).with_context(|| format!("reading Pokémon data from {}", path.display()))
+    }
+
+    fn load_pokemon_for_species(
+        &self,
+        species: &PokemonSpecies,
+        slug: Option<&str>,
+    ) -> Result<Pokemon> {
+        if let Some(target) = slug {
+            if let Some(variety) = species
+                .varieties
+                .iter()
+                .find(|variety| variety.pokemon.name == target)
+            {
+                let id = extract_id_from_url(&variety.pokemon.url)?;
+                return self.load_pokemon(id);
+            }
+        }
+        if let Some(default) = species.varieties.iter().find(|v| v.is_default) {
+            let id = extract_id_from_url(&default.pokemon.url)?;
+            return self.load_pokemon(id);
+        }
+        self.load_pokemon(species.id)
     }
 
     fn read_species_file(&self, id: u32) -> Result<PokemonSpecies> {
@@ -151,6 +179,56 @@ fn slugify(input: &str) -> String {
     slug.trim_matches('-').to_string()
 }
 
+fn split_form_slug(slug: &str) -> (String, Option<String>) {
+    if let Some((base, form)) = canonical_form_slug(slug) {
+        (base, Some(form))
+    } else {
+        (slug.to_string(), None)
+    }
+}
+
+fn canonical_form_slug(slug: &str) -> Option<(String, String)> {
+    const FORM_PREFIXES: [(&str, &str); 8] = [
+        ("alolan-", "alola"),
+        ("hisuian-", "hisui"),
+        ("galarian-", "galar"),
+        ("paldean-", "paldea"),
+        ("white-striped-", "white-striped"),
+        ("blue-striped-", "blue-striped"),
+        ("red-striped-", "red-striped"),
+        ("black-striped-", "black-striped"),
+    ];
+    for (prefix, suffix) in FORM_PREFIXES.iter() {
+        if slug.starts_with(prefix) {
+            let base = slug
+                .trim_start_matches(prefix)
+                .trim_matches('-')
+                .to_string();
+            return Some((base.clone(), format!("{base}-{suffix}")));
+        }
+    }
+
+    const FORM_SUFFIXES: [(&str, &str); 5] = [
+        ("-blue-flower", "blue"),
+        ("-orange-flower", "orange"),
+        ("-red-flower", "red"),
+        ("-white-flower", "white"),
+        ("-yellow-flower", "yellow"),
+    ];
+    for (pattern, suffix) in FORM_SUFFIXES.iter() {
+        if slug.ends_with(pattern) {
+            let base = slug.trim_end_matches(pattern).trim_matches('-').to_string();
+            return Some((base.clone(), format!("{base}-{suffix}")));
+        }
+    }
+
+    match slug {
+        "sligoo" => Some(("sliggoo".to_string(), "sliggoo".to_string())),
+        "hisuian-sligoo" => Some(("sliggoo".to_string(), "sliggoo-hisui".to_string())),
+        _ => None,
+    }
+}
+
 #[derive(Debug, Clone)]
 pub struct PokemonCard {
     id: u32,
@@ -180,12 +258,16 @@ impl PokemonCard {
         species: PokemonSpecies,
         evolution_paths: Vec<String>,
     ) -> Result<Self> {
-        let display = display_name(&species.name);
-        let fallback = display_name(&pokemon.name);
-        let resolved_name = if display.is_empty() {
-            fallback
+        let species_display = display_name(&species.name);
+        let pokemon_display = display_name(&pokemon.name);
+        let resolved_name = if species.name != pokemon.name && !pokemon_display.is_empty() {
+            pokemon_display
+        } else if !species_display.is_empty() {
+            species_display
+        } else if !pokemon_display.is_empty() {
+            pokemon_display
         } else {
-            display
+            species.name.clone()
         };
         let types = extract_types(&pokemon);
         let type_elements: Vec<type_chart::Type> = pokemon
@@ -736,6 +818,14 @@ struct PokemonSpecies {
     flavor_text_entries: Vec<FlavorTextEntry>,
     #[serde(default)]
     evolution_chain: Option<ApiResource>,
+    #[serde(default)]
+    varieties: Vec<PokemonVariety>,
+}
+
+#[derive(Debug, Deserialize, Clone)]
+struct PokemonVariety {
+    is_default: bool,
+    pokemon: NamedResource,
 }
 
 #[derive(Debug, Deserialize, Clone)]

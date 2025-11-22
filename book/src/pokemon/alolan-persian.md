@@ -1,12 +1,12 @@
-<div class="pokemon-tabs" id="pokemon-tabs-persian-53">
-<input type="radio" name="pokemon-tabs-persian-53-group" id="pokemon-tabs-persian-53-tab-0">
-<label for="pokemon-tabs-persian-53-tab-0">Meowth</label>
-<input type="radio" name="pokemon-tabs-persian-53-group" id="pokemon-tabs-persian-53-tab-1" checked>
-<label for="pokemon-tabs-persian-53-tab-1">Persian</label>
-<input type="radio" name="pokemon-tabs-persian-53-group" id="pokemon-tabs-persian-53-tab-2">
-<label for="pokemon-tabs-persian-53-tab-2">Perrserker</label>
+<div class="pokemon-tabs" id="pokemon-tabs-persian-alola-10108">
+<input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-0">
+<label for="pokemon-tabs-persian-alola-10108-tab-0">Meowth</label>
+<input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-1" checked>
+<label for="pokemon-tabs-persian-alola-10108-tab-1">Persian Alola</label>
+<input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-2">
+<label for="pokemon-tabs-persian-alola-10108-tab-2">Perrserker</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-persian-53-panel-0">
+<div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-0">
 ## Meowth (#052)
 <details class="pokemon-card-container" open>
 <summary>Meowth overview</summary>
@@ -59,27 +59,31 @@ Height: 0.4 m · Weight: 4.2 kg · Base EXP: 58
 > It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-persian-53-panel-1">
-## Persian (#053)
+<div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-1">
+## Persian Alola (#10108)
 <details class="pokemon-card-container" open>
-<summary>Persian overview</summary>
-_Classy Cat Pokémon_ • Types: Normal
-Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
+<summary>Persian Alola overview</summary>
+_Classy Cat Pokémon_ • Types: Dark
+Height: 1.1 m · Weight: 33.0 kg · Base EXP: 154
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Limber
+- Fur Coat
 - Technician
-- Unnerve *(Hidden)*
+- Rattled *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Ghost (0×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
 
 *Weak to*
 - Fighting (2×)
+- Bug (2×)
+- Fairy (2×)
 
 **Evolution Paths**
 - Meowth → Persian (Lv 28)
@@ -91,19 +95,19 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
 | Stat | Value |
 | --- | --- |
 | HP | 65 |
-| Attack | 70 |
+| Attack | 60 |
 | Defense | 60 |
-| Sp. Atk | 65 |
+| Sp. Atk | 75 |
 | Sp. Def | 65 |
 | Speed | 115 |
 | Total | 440 |
 
 **Notable Level-Up Moves**
 - Amnesia (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Bite (Lv 1, Red Blue)
-- Fake Out (Lv 1, Diamond Pearl)
+- Bite (Lv 1, Sun Moon)
+- Fake Out (Lv 1, Sun Moon)
 - Feint (Lv 1, Sword Shield)
-- Growl (Lv 1, Red Blue)
+- Growl (Lv 1, Sun Moon)
 - Hypnosis (Lv 1, Lets Go Pikachu Lets Go Eevee)
 </div>
 </div>
@@ -112,7 +116,7 @@ Height: 1.0 m · Weight: 32.0 kg · Base EXP: 154
 > Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-persian-53-panel-2">
+<div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-2">
 ## Perrserker (#863)
 <details class="pokemon-card-container" open>
 <summary>Perrserker overview</summary>
@@ -180,7 +184,7 @@ Height: 0.8 m · Weight: 28.0 kg · Base EXP: 154
 </div>
 </div>
 <style>
-#pokemon-tabs-persian-53-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-53-panel-0 { display: block; }
-#pokemon-tabs-persian-53-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-53-panel-1 { display: block; }
-#pokemon-tabs-persian-53-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-53-panel-2 { display: block; }
+#pokemon-tabs-persian-alola-10108-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-alola-10108-panel-0 { display: block; }
+#pokemon-tabs-persian-alola-10108-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-alola-10108-panel-1 { display: block; }
+#pokemon-tabs-persian-alola-10108-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-alola-10108-panel-2 { display: block; }
 </style>

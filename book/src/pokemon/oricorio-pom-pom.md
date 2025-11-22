@@ -1,6 +1,6 @@
-## Oricorio (#741)
+## Oricorio Baile (#741)
 <details class="pokemon-card-container" open>
-<summary>Oricorio overview</summary>
+<summary>Oricorio Baile overview</summary>
 _Dancing Pokémon_ • Types: Fire / Flying
 Height: 0.6 m · Weight: 3.4 kg · Base EXP: 167
 

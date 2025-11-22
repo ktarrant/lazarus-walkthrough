@@ -1,13 +1,13 @@
-<div class="pokemon-tabs" id="pokemon-tabs-basculin-550">
-<input type="radio" name="pokemon-tabs-basculin-550-group" id="pokemon-tabs-basculin-550-tab-0" checked>
-<label for="pokemon-tabs-basculin-550-tab-0">Basculin</label>
-<input type="radio" name="pokemon-tabs-basculin-550-group" id="pokemon-tabs-basculin-550-tab-1">
-<label for="pokemon-tabs-basculin-550-tab-1">Basculegion</label>
+<div class="pokemon-tabs" id="pokemon-tabs-basculin-red-striped-550">
+<input type="radio" name="pokemon-tabs-basculin-red-striped-550-group" id="pokemon-tabs-basculin-red-striped-550-tab-0" checked>
+<label for="pokemon-tabs-basculin-red-striped-550-tab-0">Basculin Red Striped</label>
+<input type="radio" name="pokemon-tabs-basculin-red-striped-550-group" id="pokemon-tabs-basculin-red-striped-550-tab-1">
+<label for="pokemon-tabs-basculin-red-striped-550-tab-1">Basculegion Male</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-basculin-550-panel-0">
-## Basculin (#550)
+<div class="pokemon-tab-panel" id="pokemon-tabs-basculin-red-striped-550-panel-0">
+## Basculin Red Striped (#550)
 <details class="pokemon-card-container" open>
-<summary>Basculin overview</summary>
+<summary>Basculin Red Striped overview</summary>
 _Hostile Pokémon_ • Types: Water
 Height: 1.0 m · Weight: 18.0 kg · Base EXP: 161
 
@@ -60,10 +60,10 @@ Height: 1.0 m · Weight: 18.0 kg · Base EXP: 161
 > Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch— many people release them into lakes illicitly.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-basculin-550-panel-1">
-## Basculegion (#902)
+<div class="pokemon-tab-panel" id="pokemon-tabs-basculin-red-striped-550-panel-1">
+## Basculegion Male (#902)
 <details class="pokemon-card-container" open>
-<summary>Basculegion overview</summary>
+<summary>Basculegion Male overview</summary>
 _Big Fish Pokémon_ • Types: Water / Ghost
 Height: 3.0 m · Weight: 110.0 kg · Base EXP: 265
 
@@ -125,6 +125,6 @@ Height: 3.0 m · Weight: 110.0 kg · Base EXP: 265
 </div>
 </div>
 <style>
-#pokemon-tabs-basculin-550-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-basculin-550-panel-0 { display: block; }
-#pokemon-tabs-basculin-550-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-basculin-550-panel-1 { display: block; }
+#pokemon-tabs-basculin-red-striped-550-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-basculin-red-striped-550-panel-0 { display: block; }
+#pokemon-tabs-basculin-red-striped-550-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-basculin-red-striped-550-panel-1 { display: block; }
 </style>

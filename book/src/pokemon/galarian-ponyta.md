@@ -1,37 +1,33 @@
-<div class="pokemon-tabs" id="pokemon-tabs-ponyta-77">
-<input type="radio" name="pokemon-tabs-ponyta-77-group" id="pokemon-tabs-ponyta-77-tab-0" checked>
-<label for="pokemon-tabs-ponyta-77-tab-0">Ponyta</label>
-<input type="radio" name="pokemon-tabs-ponyta-77-group" id="pokemon-tabs-ponyta-77-tab-1">
-<label for="pokemon-tabs-ponyta-77-tab-1">Rapidash</label>
+<div class="pokemon-tabs" id="pokemon-tabs-ponyta-galar-10162">
+<input type="radio" name="pokemon-tabs-ponyta-galar-10162-group" id="pokemon-tabs-ponyta-galar-10162-tab-0" checked>
+<label for="pokemon-tabs-ponyta-galar-10162-tab-0">Ponyta Galar</label>
+<input type="radio" name="pokemon-tabs-ponyta-galar-10162-group" id="pokemon-tabs-ponyta-galar-10162-tab-1">
+<label for="pokemon-tabs-ponyta-galar-10162-tab-1">Rapidash</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-77-panel-0">
-## Ponyta (#077)
+<div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-galar-10162-panel-0">
+## Ponyta Galar (#10162)
 <details class="pokemon-card-container" open>
-<summary>Ponyta overview</summary>
-_Fire Horse Pokémon_ • Types: Fire
-Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
+<summary>Ponyta Galar overview</summary>
+_Fire Horse Pokémon_ • Types: Psychic
+Height: 0.8 m · Weight: 24.0 kg · Base EXP: 82
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Run Away
-- Flash Fire
-- Flame Body *(Hidden)*
+- Pastel Veil
+- Anticipation *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.5×)
-- Ice (0.5×)
-- Bug (0.5×)
-- Steel (0.5×)
-- Fairy (0.5×)
+- Fighting (0.5×)
+- Psychic (0.5×)
 
 *Weak to*
-- Water (2×)
-- Ground (2×)
-- Rock (2×)
+- Bug (2×)
+- Ghost (2×)
+- Dark (2×)
 
 **Evolution Paths**
 - Ponyta → Rapidash (Lv 40)
@@ -50,12 +46,12 @@ Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
 | Total | 410 |
 
 **Notable Level-Up Moves**
-- Ember (Lv 1, Red Blue)
-- Growl (Lv 1, Platinum)
-- Quick Attack (Lv 1, Firered Leafgreen)
-- Tackle (Lv 1, Gold Silver)
-- Tail Whip (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Double Hit (Lv 9, Legends Arceus)
+- Growl (Lv 1, Sword Shield)
+- Tackle (Lv 1, Sword Shield)
+- Tail Whip (Lv 5, Sword Shield)
+- Confusion (Lv 10, Sword Shield)
+- Fairy Wind (Lv 15, Sword Shield)
+- Agility (Lv 20, Sword Shield)
 </div>
 </div>
 
@@ -63,7 +59,7 @@ Height: 1.0 m · Weight: 30.0 kg · Base EXP: 82
 > It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-77-panel-1">
+<div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-galar-10162-panel-1">
 ## Rapidash (#078)
 <details class="pokemon-card-container" open>
 <summary>Rapidash overview</summary>
@@ -125,6 +121,6 @@ Height: 1.7 m · Weight: 95.0 kg · Base EXP: 175
 </div>
 </div>
 <style>
-#pokemon-tabs-ponyta-77-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ponyta-77-panel-0 { display: block; }
-#pokemon-tabs-ponyta-77-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ponyta-77-panel-1 { display: block; }
+#pokemon-tabs-ponyta-galar-10162-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ponyta-galar-10162-panel-0 { display: block; }
+#pokemon-tabs-ponyta-galar-10162-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ponyta-galar-10162-panel-1 { display: block; }
 </style>

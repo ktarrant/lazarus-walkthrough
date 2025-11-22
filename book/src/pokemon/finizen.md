@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-finizen-963-group" id="pokemon-tabs-finizen-963-tab-0" checked>
 <label for="pokemon-tabs-finizen-963-tab-0">Finizen</label>
 <input type="radio" name="pokemon-tabs-finizen-963-group" id="pokemon-tabs-finizen-963-tab-1">
-<label for="pokemon-tabs-finizen-963-tab-1">Palafin</label>
+<label for="pokemon-tabs-finizen-963-tab-1">Palafin Zero</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-finizen-963-panel-0">
 ## Finizen (#963)
@@ -60,9 +60,9 @@ Height: 1.3 m · Weight: 60.2 kg · Base EXP: 63
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-finizen-963-panel-1">
-## Palafin (#964)
+## Palafin Zero (#964)
 <details class="pokemon-card-container" open>
-<summary>Palafin overview</summary>
+<summary>Palafin Zero overview</summary>
 _Dolphin Pokémon_ • Types: Water
 Height: 1.3 m · Weight: 60.2 kg · Base EXP: 160
 

@@ -1,6 +1,6 @@
-## Minior (#774)
+## Minior Red Meteor (#774)
 <details class="pokemon-card-container" open>
-<summary>Minior overview</summary>
+<summary>Minior Red Meteor overview</summary>
 _Meteor Pokémon_ • Types: Rock / Flying
 Height: 0.3 m · Weight: 40.0 kg · Base EXP: 154
 

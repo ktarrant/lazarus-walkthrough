@@ -1,12 +1,12 @@
-<div class="pokemon-tabs" id="pokemon-tabs-raichu-26">
-<input type="radio" name="pokemon-tabs-raichu-26-group" id="pokemon-tabs-raichu-26-tab-0">
-<label for="pokemon-tabs-raichu-26-tab-0">Pichu</label>
-<input type="radio" name="pokemon-tabs-raichu-26-group" id="pokemon-tabs-raichu-26-tab-1">
-<label for="pokemon-tabs-raichu-26-tab-1">Pikachu</label>
-<input type="radio" name="pokemon-tabs-raichu-26-group" id="pokemon-tabs-raichu-26-tab-2" checked>
-<label for="pokemon-tabs-raichu-26-tab-2">Raichu</label>
+<div class="pokemon-tabs" id="pokemon-tabs-raichu-alola-10100">
+<input type="radio" name="pokemon-tabs-raichu-alola-10100-group" id="pokemon-tabs-raichu-alola-10100-tab-0">
+<label for="pokemon-tabs-raichu-alola-10100-tab-0">Pichu</label>
+<input type="radio" name="pokemon-tabs-raichu-alola-10100-group" id="pokemon-tabs-raichu-alola-10100-tab-1">
+<label for="pokemon-tabs-raichu-alola-10100-tab-1">Pikachu</label>
+<input type="radio" name="pokemon-tabs-raichu-alola-10100-group" id="pokemon-tabs-raichu-alola-10100-tab-2" checked>
+<label for="pokemon-tabs-raichu-alola-10100-tab-2">Raichu Alola</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-raichu-26-panel-0">
+<div class="pokemon-tab-panel" id="pokemon-tabs-raichu-alola-10100-panel-0">
 ## Pichu (#172)
 <details class="pokemon-card-container" open>
 <summary>Pichu overview</summary>
@@ -59,7 +59,7 @@ Height: 0.3 m · Weight: 2.0 kg · Base EXP: 41
 > Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-raichu-26-panel-1">
+<div class="pokemon-tab-panel" id="pokemon-tabs-raichu-alola-10100-panel-1">
 ## Pikachu (#025)
 <details class="pokemon-card-container" open>
 <summary>Pikachu overview</summary>
@@ -112,28 +112,32 @@ Height: 0.4 m · Weight: 6.0 kg · Base EXP: 112
 > Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-raichu-26-panel-2">
-## Raichu (#026)
+<div class="pokemon-tab-panel" id="pokemon-tabs-raichu-alola-10100-panel-2">
+## Raichu Alola (#10100)
 <details class="pokemon-card-container" open>
-<summary>Raichu overview</summary>
-_Mouse Pokémon_ • Types: Electric
-Height: 0.8 m · Weight: 30.0 kg · Base EXP: 218
+<summary>Raichu Alola overview</summary>
+_Mouse Pokémon_ • Types: Electric / Psychic
+Height: 0.7 m · Weight: 21.0 kg · Base EXP: 243
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Static
-- Lightning Rod *(Hidden)*
+- Surge Surfer
 
 **Type Matchups**
 
 *Resists / Immune to*
 - Electric (0.5×)
+- Fighting (0.5×)
 - Flying (0.5×)
+- Psychic (0.5×)
 - Steel (0.5×)
 
 *Weak to*
 - Ground (2×)
+- Bug (2×)
+- Ghost (2×)
+- Dark (2×)
 
 **Evolution Paths**
 - Pichu → Pikachu (Friendship 220) → Raichu (Use Thunder Stone)
@@ -144,10 +148,10 @@ Height: 0.8 m · Weight: 30.0 kg · Base EXP: 218
 | Stat | Value |
 | --- | --- |
 | HP | 60 |
-| Attack | 90 |
-| Defense | 55 |
-| Sp. Atk | 90 |
-| Sp. Def | 80 |
+| Attack | 85 |
+| Defense | 50 |
+| Sp. Atk | 95 |
+| Sp. Def | 85 |
 | Speed | 110 |
 | Total | 485 |
 
@@ -155,7 +159,7 @@ Height: 0.8 m · Weight: 30.0 kg · Base EXP: 218
 - Agility (Lv 1, Sword Shield)
 - Charm (Lv 1, Sword Shield)
 - Discharge (Lv 1, Sword Shield)
-- Double Team (Lv 1, Sword Shield)
+- Double Team (Lv 1, Lets Go Pikachu Lets Go Eevee)
 - Electro Ball (Lv 1, Sword Shield)
 - Encore (Lv 1, Lets Go Pikachu Lets Go Eevee)
 </div>
@@ -168,7 +172,7 @@ Height: 0.8 m · Weight: 30.0 kg · Base EXP: 218
 </div>
 </div>
 <style>
-#pokemon-tabs-raichu-26-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-raichu-26-panel-0 { display: block; }
-#pokemon-tabs-raichu-26-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-raichu-26-panel-1 { display: block; }
-#pokemon-tabs-raichu-26-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-raichu-26-panel-2 { display: block; }
+#pokemon-tabs-raichu-alola-10100-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-raichu-alola-10100-panel-0 { display: block; }
+#pokemon-tabs-raichu-alola-10100-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-raichu-alola-10100-panel-1 { display: block; }
+#pokemon-tabs-raichu-alola-10100-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-raichu-alola-10100-panel-2 { display: block; }
 </style>

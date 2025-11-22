@@ -1,36 +1,40 @@
-<div class="pokemon-tabs" id="pokemon-tabs-wooper-194">
-<input type="radio" name="pokemon-tabs-wooper-194-group" id="pokemon-tabs-wooper-194-tab-0" checked>
-<label for="pokemon-tabs-wooper-194-tab-0">Wooper</label>
-<input type="radio" name="pokemon-tabs-wooper-194-group" id="pokemon-tabs-wooper-194-tab-1">
-<label for="pokemon-tabs-wooper-194-tab-1">Quagsire</label>
-<input type="radio" name="pokemon-tabs-wooper-194-group" id="pokemon-tabs-wooper-194-tab-2">
-<label for="pokemon-tabs-wooper-194-tab-2">Clodsire</label>
+<div class="pokemon-tabs" id="pokemon-tabs-wooper-paldea-10253">
+<input type="radio" name="pokemon-tabs-wooper-paldea-10253-group" id="pokemon-tabs-wooper-paldea-10253-tab-0" checked>
+<label for="pokemon-tabs-wooper-paldea-10253-tab-0">Wooper Paldea</label>
+<input type="radio" name="pokemon-tabs-wooper-paldea-10253-group" id="pokemon-tabs-wooper-paldea-10253-tab-1">
+<label for="pokemon-tabs-wooper-paldea-10253-tab-1">Quagsire</label>
+<input type="radio" name="pokemon-tabs-wooper-paldea-10253-group" id="pokemon-tabs-wooper-paldea-10253-tab-2">
+<label for="pokemon-tabs-wooper-paldea-10253-tab-2">Clodsire</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-wooper-194-panel-0">
-## Wooper (#194)
+<div class="pokemon-tab-panel" id="pokemon-tabs-wooper-paldea-10253-panel-0">
+## Wooper Paldea (#10253)
 <details class="pokemon-card-container" open>
-<summary>Wooper overview</summary>
-_Water Fish Pokémon_ • Types: Water / Ground
-Height: 0.4 m · Weight: 8.5 kg · Base EXP: 42
+<summary>Wooper Paldea overview</summary>
+_Water Fish Pokémon_ • Types: Poison / Ground
+Height: 0.4 m · Weight: 11.0 kg · Base EXP: 42
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Damp
+- Poison Point
 - Water Absorb
 - Unaware *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Fire (0.5×)
 - Electric (0×)
-- Poison (0.5×)
+- Fighting (0.5×)
+- Poison (0.25×)
+- Bug (0.5×)
 - Rock (0.5×)
-- Steel (0.5×)
+- Fairy (0.5×)
 
 *Weak to*
-- Grass (4×)
+- Water (2×)
+- Ice (2×)
+- Ground (2×)
+- Psychic (2×)
 
 **Evolution Paths**
 - Wooper → Quagsire (Lv 20)
@@ -50,12 +54,12 @@ Height: 0.4 m · Weight: 8.5 kg · Base EXP: 42
 | Total | 210 |
 
 **Notable Level-Up Moves**
-- Tail Whip (Lv 1, Gold Silver)
-- Water Gun (Lv 1, Gold Silver)
-- Rain Dance (Lv 4, Sword Shield)
-- Mud Sport (Lv 5, Diamond Pearl)
-- Mud Shot (Lv 8, Sword Shield)
-- Slam (Lv 11, Gold Silver)
+- Mud Shot (Lv 1, Scarlet Violet)
+- Tail Whip (Lv 1, Scarlet Violet)
+- Tackle (Lv 4, Scarlet Violet)
+- Poison Tail (Lv 8, Scarlet Violet)
+- Toxic Spikes (Lv 12, Scarlet Violet)
+- Slam (Lv 16, Scarlet Violet)
 </div>
 </div>
 
@@ -63,7 +67,7 @@ Height: 0.4 m · Weight: 8.5 kg · Base EXP: 42
 > This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-wooper-194-panel-1">
+<div class="pokemon-tab-panel" id="pokemon-tabs-wooper-paldea-10253-panel-1">
 ## Quagsire (#195)
 <details class="pokemon-card-container" open>
 <summary>Quagsire overview</summary>
@@ -120,7 +124,7 @@ Height: 1.4 m · Weight: 75.0 kg · Base EXP: 151
 > It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-wooper-194-panel-2">
+<div class="pokemon-tab-panel" id="pokemon-tabs-wooper-paldea-10253-panel-2">
 ## Clodsire (#980)
 <details class="pokemon-card-container" open>
 <summary>Clodsire overview</summary>
@@ -184,7 +188,7 @@ Height: 1.8 m · Weight: 223.0 kg · Base EXP: 151
 </div>
 </div>
 <style>
-#pokemon-tabs-wooper-194-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-194-panel-0 { display: block; }
-#pokemon-tabs-wooper-194-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-194-panel-1 { display: block; }
-#pokemon-tabs-wooper-194-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-194-panel-2 { display: block; }
+#pokemon-tabs-wooper-paldea-10253-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-paldea-10253-panel-0 { display: block; }
+#pokemon-tabs-wooper-paldea-10253-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-paldea-10253-panel-1 { display: block; }
+#pokemon-tabs-wooper-paldea-10253-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-paldea-10253-panel-2 { display: block; }
 </style>

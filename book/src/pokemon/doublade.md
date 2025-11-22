@@ -4,7 +4,7 @@
 <input type="radio" name="pokemon-tabs-doublade-680-group" id="pokemon-tabs-doublade-680-tab-1" checked>
 <label for="pokemon-tabs-doublade-680-tab-1">Doublade</label>
 <input type="radio" name="pokemon-tabs-doublade-680-group" id="pokemon-tabs-doublade-680-tab-2">
-<label for="pokemon-tabs-doublade-680-tab-2">Aegislash</label>
+<label for="pokemon-tabs-doublade-680-tab-2">Aegislash Shield</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-doublade-680-panel-0">
 ## Honedge (#679)
@@ -135,9 +135,9 @@ Height: 0.8 m · Weight: 4.5 kg · Base EXP: 157
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-doublade-680-panel-2">
-## Aegislash (#681)
+## Aegislash Shield (#681)
 <details class="pokemon-card-container" open>
-<summary>Aegislash overview</summary>
+<summary>Aegislash Shield overview</summary>
 _Royal Sword Pokémon_ • Types: Steel / Ghost
 Height: 1.7 m · Weight: 53.0 kg · Base EXP: 234
 

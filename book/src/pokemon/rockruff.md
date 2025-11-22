@@ -2,7 +2,7 @@
 <input type="radio" name="pokemon-tabs-rockruff-744-group" id="pokemon-tabs-rockruff-744-tab-0" checked>
 <label for="pokemon-tabs-rockruff-744-tab-0">Rockruff</label>
 <input type="radio" name="pokemon-tabs-rockruff-744-group" id="pokemon-tabs-rockruff-744-tab-1">
-<label for="pokemon-tabs-rockruff-744-tab-1">Lycanroc</label>
+<label for="pokemon-tabs-rockruff-744-tab-1">Lycanroc Midday</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-rockruff-744-panel-0">
 ## Rockruff (#744)
@@ -64,9 +64,9 @@ Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-rockruff-744-panel-1">
-## Lycanroc (#745)
+## Lycanroc Midday (#745)
 <details class="pokemon-card-container" open>
-<summary>Lycanroc overview</summary>
+<summary>Lycanroc Midday overview</summary>
 _Wolf Pokémon_ • Types: Rock
 Height: 0.8 m · Weight: 25.0 kg · Base EXP: 170
 

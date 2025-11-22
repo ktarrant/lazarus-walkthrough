@@ -1,10 +1,10 @@
-<div class="pokemon-tabs" id="pokemon-tabs-muk-89">
-<input type="radio" name="pokemon-tabs-muk-89-group" id="pokemon-tabs-muk-89-tab-0">
-<label for="pokemon-tabs-muk-89-tab-0">Grimer</label>
-<input type="radio" name="pokemon-tabs-muk-89-group" id="pokemon-tabs-muk-89-tab-1" checked>
-<label for="pokemon-tabs-muk-89-tab-1">Muk</label>
+<div class="pokemon-tabs" id="pokemon-tabs-muk-alola-10113">
+<input type="radio" name="pokemon-tabs-muk-alola-10113-group" id="pokemon-tabs-muk-alola-10113-tab-0">
+<label for="pokemon-tabs-muk-alola-10113-tab-0">Grimer</label>
+<input type="radio" name="pokemon-tabs-muk-alola-10113-group" id="pokemon-tabs-muk-alola-10113-tab-1" checked>
+<label for="pokemon-tabs-muk-alola-10113-tab-1">Muk Alola</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-muk-89-panel-0">
+<div class="pokemon-tab-panel" id="pokemon-tabs-muk-alola-10113-panel-0">
 ## Grimer (#088)
 <details class="pokemon-card-container" open>
 <summary>Grimer overview</summary>
@@ -61,32 +61,31 @@ Height: 0.9 m · Weight: 30.0 kg · Base EXP: 65
 > Its main source of food is the slimy industrial waste of factories. This Pokémon’s numbers have been decreasing in recent years.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-muk-89-panel-1">
-## Muk (#089)
+<div class="pokemon-tab-panel" id="pokemon-tabs-muk-alola-10113-panel-1">
+## Muk Alola (#10113)
 <details class="pokemon-card-container" open>
-<summary>Muk overview</summary>
-_Sludge Pokémon_ • Types: Poison
-Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
+<summary>Muk Alola overview</summary>
+_Sludge Pokémon_ • Types: Poison / Dark
+Height: 1.0 m · Weight: 52.0 kg · Base EXP: 175
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Stench
-- Sticky Hold
-- Poison Touch *(Hidden)*
+- Poison Touch
+- Gluttony
+- Power Of Alchemy *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
 - Grass (0.5×)
-- Fighting (0.5×)
 - Poison (0.5×)
-- Bug (0.5×)
-- Fairy (0.5×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
 
 *Weak to*
 - Ground (2×)
-- Psychic (2×)
 
 **Evolution Paths**
 - Grimer → Muk (Lv 38)
@@ -105,12 +104,12 @@ Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
 | Total | 500 |
 
 **Notable Level-Up Moves**
-- Disable (Lv 1, Red Blue)
-- Harden (Lv 1, Gold Silver)
+- Bite (Lv 1, Sun Moon)
+- Harden (Lv 1, Sun Moon)
 - Haze (Lv 1, Lets Go Pikachu Lets Go Eevee)
 - Minimize (Lv 1, Lets Go Pikachu Lets Go Eevee)
 - Moonblast (Lv 1, Lets Go Pikachu Lets Go Eevee)
-- Mud Slap (Lv 1, Diamond Pearl)
+- Poison Gas (Lv 1, Sun Moon)
 </div>
 </div>
 
@@ -121,6 +120,6 @@ Height: 1.2 m · Weight: 30.0 kg · Base EXP: 175
 </div>
 </div>
 <style>
-#pokemon-tabs-muk-89-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-89-panel-0 { display: block; }
-#pokemon-tabs-muk-89-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-89-panel-1 { display: block; }
+#pokemon-tabs-muk-alola-10113-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-alola-10113-panel-0 { display: block; }
+#pokemon-tabs-muk-alola-10113-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-alola-10113-panel-1 { display: block; }
 </style>

@@ -1,6 +1,6 @@
-## Mimikyu (#778)
+## Mimikyu Disguised (#778)
 <details class="pokemon-card-container" open>
-<summary>Mimikyu overview</summary>
+<summary>Mimikyu Disguised overview</summary>
 _Disguise Pokémon_ • Types: Ghost / Fairy
 Height: 0.2 m · Weight: 0.7 kg · Base EXP: 167
 

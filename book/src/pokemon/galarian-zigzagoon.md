@@ -1,16 +1,16 @@
-<div class="pokemon-tabs" id="pokemon-tabs-zigzagoon-263">
-<input type="radio" name="pokemon-tabs-zigzagoon-263-group" id="pokemon-tabs-zigzagoon-263-tab-0" checked>
-<label for="pokemon-tabs-zigzagoon-263-tab-0">Zigzagoon</label>
-<input type="radio" name="pokemon-tabs-zigzagoon-263-group" id="pokemon-tabs-zigzagoon-263-tab-1">
-<label for="pokemon-tabs-zigzagoon-263-tab-1">Linoone</label>
-<input type="radio" name="pokemon-tabs-zigzagoon-263-group" id="pokemon-tabs-zigzagoon-263-tab-2">
-<label for="pokemon-tabs-zigzagoon-263-tab-2">Obstagoon</label>
+<div class="pokemon-tabs" id="pokemon-tabs-zigzagoon-galar-10174">
+<input type="radio" name="pokemon-tabs-zigzagoon-galar-10174-group" id="pokemon-tabs-zigzagoon-galar-10174-tab-0" checked>
+<label for="pokemon-tabs-zigzagoon-galar-10174-tab-0">Zigzagoon Galar</label>
+<input type="radio" name="pokemon-tabs-zigzagoon-galar-10174-group" id="pokemon-tabs-zigzagoon-galar-10174-tab-1">
+<label for="pokemon-tabs-zigzagoon-galar-10174-tab-1">Linoone</label>
+<input type="radio" name="pokemon-tabs-zigzagoon-galar-10174-group" id="pokemon-tabs-zigzagoon-galar-10174-tab-2">
+<label for="pokemon-tabs-zigzagoon-galar-10174-tab-2">Obstagoon</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-263-panel-0">
-## Zigzagoon (#263)
+<div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-galar-10174-panel-0">
+## Zigzagoon Galar (#10174)
 <details class="pokemon-card-container" open>
-<summary>Zigzagoon overview</summary>
-_Tiny Raccoon Pokémon_ • Types: Normal
+<summary>Zigzagoon Galar overview</summary>
+_Tiny Raccoon Pokémon_ • Types: Dark / Normal
 Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 
 <div class="pokemon-card">
@@ -23,10 +23,14 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 **Type Matchups**
 
 *Resists / Immune to*
+- Psychic (0×)
 - Ghost (0×)
+- Dark (0.5×)
 
 *Weak to*
-- Fighting (2×)
+- Fighting (4×)
+- Bug (2×)
+- Fairy (2×)
 
 **Evolution Paths**
 - Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
@@ -45,12 +49,12 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 | Total | 240 |
 
 **Notable Level-Up Moves**
-- Growl (Lv 1, Ruby Sapphire)
-- Tackle (Lv 1, Ruby Sapphire)
+- Leer (Lv 1, Sword Shield)
+- Tackle (Lv 1, Sword Shield)
 - Sand Attack (Lv 3, Sword Shield)
-- Tail Whip (Lv 5, Ruby Sapphire)
-- Covet (Lv 9, Sword Shield)
-- Headbutt (Lv 9, Ruby Sapphire)
+- Lick (Lv 6, Sword Shield)
+- Snarl (Lv 9, Sword Shield)
+- Headbutt (Lv 12, Sword Shield)
 </div>
 </div>
 
@@ -58,7 +62,7 @@ Height: 0.4 m · Weight: 17.5 kg · Base EXP: 56
 > It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-263-panel-1">
+<div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-galar-10174-panel-1">
 ## Linoone (#264)
 <details class="pokemon-card-container" open>
 <summary>Linoone overview</summary>
@@ -110,7 +114,7 @@ Height: 0.5 m · Weight: 32.5 kg · Base EXP: 147
 > Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-263-panel-2">
+<div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-galar-10174-panel-2">
 ## Obstagoon (#862)
 <details class="pokemon-card-container" open>
 <summary>Obstagoon overview</summary>
@@ -169,7 +173,7 @@ Height: 1.6 m · Weight: 46.0 kg · Base EXP: 260
 </div>
 </div>
 <style>
-#pokemon-tabs-zigzagoon-263-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-263-panel-0 { display: block; }
-#pokemon-tabs-zigzagoon-263-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-263-panel-1 { display: block; }
-#pokemon-tabs-zigzagoon-263-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-263-panel-2 { display: block; }
+#pokemon-tabs-zigzagoon-galar-10174-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-galar-10174-panel-0 { display: block; }
+#pokemon-tabs-zigzagoon-galar-10174-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-galar-10174-panel-1 { display: block; }
+#pokemon-tabs-zigzagoon-galar-10174-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-galar-10174-panel-2 { display: block; }
 </style>

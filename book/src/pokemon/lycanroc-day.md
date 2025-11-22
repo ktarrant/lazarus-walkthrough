@@ -1,10 +1,10 @@
-<div class="pokemon-tabs" id="pokemon-tabs-lycanroc-745">
-<input type="radio" name="pokemon-tabs-lycanroc-745-group" id="pokemon-tabs-lycanroc-745-tab-0">
-<label for="pokemon-tabs-lycanroc-745-tab-0">Rockruff</label>
-<input type="radio" name="pokemon-tabs-lycanroc-745-group" id="pokemon-tabs-lycanroc-745-tab-1" checked>
-<label for="pokemon-tabs-lycanroc-745-tab-1">Lycanroc</label>
+<div class="pokemon-tabs" id="pokemon-tabs-lycanroc-midday-745">
+<input type="radio" name="pokemon-tabs-lycanroc-midday-745-group" id="pokemon-tabs-lycanroc-midday-745-tab-0">
+<label for="pokemon-tabs-lycanroc-midday-745-tab-0">Rockruff</label>
+<input type="radio" name="pokemon-tabs-lycanroc-midday-745-group" id="pokemon-tabs-lycanroc-midday-745-tab-1" checked>
+<label for="pokemon-tabs-lycanroc-midday-745-tab-1">Lycanroc Midday</label>
 <div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-745-panel-0">
+<div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-midday-745-panel-0">
 ## Rockruff (#744)
 <details class="pokemon-card-container" open>
 <summary>Rockruff overview</summary>
@@ -63,10 +63,10 @@ Height: 0.5 m · Weight: 9.2 kg · Base EXP: 56
 > This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-745-panel-1">
-## Lycanroc (#745)
+<div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-midday-745-panel-1">
+## Lycanroc Midday (#745)
 <details class="pokemon-card-container" open>
-<summary>Lycanroc overview</summary>
+<summary>Lycanroc Midday overview</summary>
 _Wolf Pokémon_ • Types: Rock
 Height: 0.8 m · Weight: 25.0 kg · Base EXP: 170
 
@@ -125,6 +125,6 @@ Height: 0.8 m · Weight: 25.0 kg · Base EXP: 170
 </div>
 </div>
 <style>
-#pokemon-tabs-lycanroc-745-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-745-panel-0 { display: block; }
-#pokemon-tabs-lycanroc-745-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-745-panel-1 { display: block; }
+#pokemon-tabs-lycanroc-midday-745-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-midday-745-panel-0 { display: block; }
+#pokemon-tabs-lycanroc-midday-745-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-midday-745-panel-1 { display: block; }
 </style>
