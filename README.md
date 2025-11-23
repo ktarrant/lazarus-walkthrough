@@ -72,6 +72,21 @@ Regenerate the file whenever `src/type_chart.rs` changes.
    ```
 4. Include the snippet in chapters via `{{#include ./encounters/bronze-fields-north.md}}`. Encounter tables now link each species name to its generated card.
 
+### Important item locations
+
+Parse the “Important Item Locations” PDF into a structured JSON manifest:
+
+```sh
+cd parsers
+uv run python convert_lazarus_items.py \
+  "../Pokemon Lazarus Documentation - Important Item Locations.pdf" \
+  --json ../data/items/important-items.json
+```
+
+The output groups each category (e.g., Evolutionary Items, Key Items, TMs) and
+lists the fields shown in the PDF. Reference the JSON when generating new
+documentation pages.
+
 ### Egg group reference
 
 Generate a Markdown index that lists every egg group represented in the encounter

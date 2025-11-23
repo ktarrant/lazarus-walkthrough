@@ -1,0 +1,1164 @@
+{
+  "Evolutionary / Form Change Items": [
+    {
+      "Item Name": "Thunder Stone",
+      "Locations": "Sofos City (Yellow Shard Exchange)"
+    },
+    {
+      "Item Name": "Fire Stone",
+      "Locations": "Sofos City (Red Shard Exchange), Palati City (Quest)"
+    },
+    {
+      "Item Name": "Water Stone",
+      "Locations": "Riverwalk Trail (South) (Requires Surf), Sofos City (Blue Shard Exchange)"
+    },
+    {
+      "Item Name": "Sun Stone",
+      "Locations": "Sofos City (Red Shard Exchange)"
+    },
+    {
+      "Item Name": "Moon Stone",
+      "Locations": "Froslass Cavern BF1 (Ice puzzle floor), Sofos City (Blue Shard Exchange)"
+    },
+    {
+      "Item Name": "Leaf Stone",
+      "Locations": "Sofos City (Green Shard Exchange)"
+    },
+    {
+      "Item Name": "Ice Stone",
+      "Locations": "Pythios Cemetery (Quest), Sofos City (Blue Shard Exchange)"
+    },
+    {
+      "Item Name": "Shiny Stone",
+      "Locations": "Acrisia Mountains (Requires Surf), Sofos City (Yellow Shard Exchange)"
+    },
+    {
+      "Item Name": "Dusk Stone",
+      "Locations": "Acrisia Mountains (Quest), Sofos City (Green Shard Exchange)"
+    },
+    {
+      "Item Name": "Dawn Stone",
+      "Locations": "Sofos City (Yellow Shard Exchange)"
+    },
+    {
+      "Item Name": "King's Rock",
+      "Locations": "Acrisia City, Sea of Asteri"
+    },
+    {
+      "Item Name": "Linking Cord",
+      "Locations": "Sofos City (Green Shard Exchange)"
+    },
+    {
+      "Item Name": "Metal Coat",
+      "Locations": "Sofos City (Red Shard Exchange)"
+    },
+    {
+      "Item Name": "Razor Fang",
+      "Locations": "Wanderer's Woods (Requires Surf), Sea of Vulcai"
+    },
+    {
+      "Item Name": "Razor Claw",
+      "Locations": "Fresco Isles, Nyx Trails"
+    },
+    {
+      "Item Name": "Black Augurite",
+      "Locations": "Marmaro Island (Mining)"
+    },
+    {
+      "Item Name": "Reaper Cloth",
+      "Locations": "Myrrini Island (Quest)"
+    },
+    {
+      "Item Name": "Tart Apple",
+      "Locations": "Sofos City (Street Vendor)"
+    },
+    {
+      "Item Name": "Sweet Apple",
+      "Locations": "Sofos City (Street Vendor)"
+    },
+    {
+      "Item Name": "Syrupy Apple",
+      "Locations": "Sofos City (Street Vendor)"
+    },
+    {
+      "Item Name": "Auspicious Armor",
+      "Locations": "Kaptara Island"
+    },
+    {
+      "Item Name": "Malicious Armor",
+      "Locations": "Kaptara Island"
+    },
+    {
+      "Item Name": "Red Nectar",
+      "Locations": "South Bronze Fields (hidden item on red flower bundle in N.E. of map), Myrrini Island (Beauty)"
+    },
+    {
+      "Item Name": "Yellow Nectar",
+      "Locations": "Asfal Hills Library, Myrrini Island (Beauty)"
+    },
+    {
+      "Item Name": "Pink Nectar",
+      "Locations": "Asfal Hills Library, Myrrini Island (Beauty)"
+    },
+    {
+      "Item Name": "Purple Nectar",
+      "Locations": "Pythios Cemetery (hidden item on purple flowers near Performer in N.W. of map), Myrrini Island (Beauty)"
+    },
+    {
+      "Item Name": "Deep Sea Scale",
+      "Locations": "Sea of Asteri (Underwater)"
+    },
+    {
+      "Item Name": "Deep Sea Tooth",
+      "Locations": "Sea of Vulcai (Underwater)"
+    },
+    {
+      "Item Name": "All Evolution Items can also be bought in an Elite Four mart!",
+      "Locations": ""
+    }
+  ],
+  "Key Items": [
+    {
+      "Item Name": "EXP Share",
+      "Locations": "Gift from Prof. Elia with Pok\u00e9dex"
+    },
+    {
+      "Item Name": "DexNav",
+      "Locations": "Gift from Prof. Elia after Gym 2"
+    },
+    {
+      "Item Name": "Old Rod",
+      "Locations": "Fishing Guru in Kalami City"
+    },
+    {
+      "Item Name": "Espathra Whistle",
+      "Locations": "E(Bldikeer )in Acrisia Mountains"
+    },
+    {
+      "Item Name": "Good Rod",
+      "Locations": "Fishing Guru in Sofos City"
+    },
+    {
+      "Item Name": "Key Stone",
+      "Locations": "Complete Niko's Quest in Sofos City"
+    },
+    {
+      "Item Name": "Super Rod",
+      "Locations": "Fishing Guru in Corrin Crossing"
+    },
+    {
+      "Item Name": "Pok\u00e9mon Box Li",
+      "Locations": "nKk i(pPoosr tTaobwlen PUCn)i. Student"
+    }
+  ],
+  "TMs / HMs": [
+    {
+      "Item Name": "TM01",
+      "Move": "Wish",
+      "Location": "Sunset Wildlife Zoo (Quest)"
+    },
+    {
+      "Item Name": "TM02",
+      "Move": "Dragon Claw",
+      "Location": "Gym 8 (Areios Hideout)"
+    },
+    {
+      "Item Name": "TM03",
+      "Move": "Water Pulse",
+      "Location": "Kipos Town (Requires Surf)"
+    },
+    {
+      "Item Name": "TM04",
+      "Move": "Calm Mind",
+      "Location": "Gym 3 (Pythios Town)"
+    },
+    {
+      "Item Name": "TM05",
+      "Move": "Psyshock",
+      "Location": "Myrrini Island"
+    },
+    {
+      "Item Name": "TM06",
+      "Move": "Toxic",
+      "Location": "Sofos City Battle Pavilion"
+    },
+    {
+      "Item Name": "TM07",
+      "Move": "Whirlpool",
+      "Location": "Kalami City (Uni. Student)"
+    },
+    {
+      "Item Name": "TM08",
+      "Move": "Bulk Up",
+      "Location": "Erinys Path West"
+    },
+    {
+      "Item Name": "TM09",
+      "Move": "Bullet Seed",
+      "Location": "Gym 1 (Jusmail Town)"
+    },
+    {
+      "Item Name": "TM10",
+      "Move": "Hidden Power",
+      "Location": "Fresco Isles"
+    },
+    {
+      "Item Name": "TM11",
+      "Move": "Sunny Day",
+      "Location": "Fresco Isles"
+    },
+    {
+      "Item Name": "TM12",
+      "Move": "Taunt",
+      "Location": "Asfal Hills"
+    },
+    {
+      "Item Name": "TM13",
+      "Move": "Ice Beam",
+      "Location": "Froslass Cavern"
+    },
+    {
+      "Item Name": "TM14",
+      "Move": "Blizzard",
+      "Location": "Areios Hideout"
+    },
+    {
+      "Item Name": "TM15",
+      "Move": "Draining Kiss",
+      "Location": "P\u00e9ntepetal City (Quest)"
+    },
+    {
+      "Item Name": "TM16",
+      "Move": "Light Screen",
+      "Location": "Sea of Asteri"
+    },
+    {
+      "Item Name": "TM17",
+      "Move": "Protect",
+      "Location": "Myrrini Island"
+    },
+    {
+      "Item Name": "TM18",
+      "Move": "Rain Dance",
+      "Location": "Sea of Asteri, Underwater (Quest)"
+    },
+    {
+      "Item Name": "TM19",
+      "Move": "Giga Drain",
+      "Location": "Sea of Asteri"
+    },
+    {
+      "Item Name": "TM20",
+      "Move": "Poison Jab",
+      "Location": "Myrrini Island (Uni. Student)"
+    },
+    {
+      "Item Name": "TM21",
+      "Move": "Acid Spray",
+      "Location": "Gym 5 (Myrrini Island)"
+    },
+    {
+      "Item Name": "TM22",
+      "Move": "Solar Beam",
+      "Location": "Kaptara Island"
+    },
+    {
+      "Item Name": "TM23",
+      "Move": "Hex",
+      "Location": "Wanderer's Woods (Requires Surf)"
+    },
+    {
+      "Item Name": "TM24",
+      "Move": "Thunderbolt",
+      "Location": "Kaptara Island"
+    },
+    {
+      "Item Name": "TM25",
+      "Move": "Thunder",
+      "Location": "Tower of Dioxippus"
+    },
+    {
+      "Item Name": "TM26",
+      "Move": "Earthquake",
+      "Location": "Kaptara Island (Uni. Student)"
+    },
+    {
+      "Item Name": "TM27",
+      "Move": "Return",
+      "Location": "Prof. Elia (catch 50 Pok\u00e9mon)"
+    },
+    {
+      "Item Name": "TM28",
+      "Move": "Dig",
+      "Location": "Marmaro Island (Worker NPC)"
+    },
+    {
+      "Item Name": "TM29",
+      "Move": "Psychic",
+      "Location": "Fresco Isles Abandoned Lab"
+    },
+    {
+      "Item Name": "TM30",
+      "Move": "Shadow Ball",
+      "Location": "Pythios Cemetery (Requires Surf)"
+    },
+    {
+      "Item Name": "TM31",
+      "Move": "Brick Break",
+      "Location": "Marmaro Island (Black Belt NPC)"
+    },
+    {
+      "Item Name": "TM32",
+      "Move": "Double Team",
+      "Location": "Bronze Fields North"
+    },
+    {
+      "Item Name": "TM33",
+      "Move": "Reflect",
+      "Location": "Sea of Vulcai"
+    },
+    {
+      "Item Name": "TM34",
+      "Move": "Shock Wave",
+      "Location": "Asfal Hills (Quest)"
+    },
+    {
+      "Item Name": "TM35",
+      "Move": "Flamethrower",
+      "Location": "Gym 7 (Palati City)"
+    },
+    {
+      "Item Name": "TM36",
+      "Move": "Sludge Bomb",
+      "Location": "Myrrini Island (Quest)"
+    },
+    {
+      "Item Name": "TM37",
+      "Move": "Sandstorm",
+      "Location": "Fresco Isles"
+    },
+    {
+      "Item Name": "TM38",
+      "Move": "Fire Blast",
+      "Location": "Nyx Trails"
+    },
+    {
+      "Item Name": "TM39",
+      "Move": "Rock Tomb",
+      "Location": "Gym 2 (Kalami City)"
+    },
+    {
+      "Item Name": "TM40",
+      "Move": "Aerial Ace",
+      "Location": "Riverwalk Trail (West) (Requires Surf)"
+    },
+    {
+      "Item Name": "TM41",
+      "Move": "Torment",
+      "Location": "Sofos City"
+    },
+    {
+      "Item Name": "TM42",
+      "Move": "Facade",
+      "Location": "Kalami City"
+    },
+    {
+      "Item Name": "TM43",
+      "Move": "Poison Fang",
+      "Location": "Myrrini Island"
+    },
+    {
+      "Item Name": "TM44",
+      "Move": "Rest",
+      "Location": "Pythios Town"
+    },
+    {
+      "Item Name": "TM45",
+      "Move": "Attract",
+      "Location": "Myrrini Island Battle Pavilion"
+    },
+    {
+      "Item Name": "TM46",
+      "Move": "Thief",
+      "Location": "Froslass Cavern BF2 (Requires Surf)"
+    },
+    {
+      "Item Name": "TM47",
+      "Move": "Steel Wing",
+      "Location": "Rania (after Gym 6, in University)"
+    },
+    {
+      "Item Name": "TM48",
+      "Move": "Skill Swap",
+      "Location": "Sea of Vulcai"
+    },
+    {
+      "Item Name": "TM49",
+      "Move": "Bulldoze",
+      "Location": "Gym 6 (Fresco Isles)"
+    },
+    {
+      "Item Name": "TM50",
+      "Move": "Deepwater Curs",
+      "Location": "eWanderer's Woods (Uni. Student)"
+    },
+    {
+      "Item Name": "TM51",
+      "Move": "Will-o-Wisp",
+      "Location": "Pythios Town"
+    },
+    {
+      "Item Name": "TM52",
+      "Move": "Frost Breath",
+      "Location": "Erinys Path East (Quest)"
+    },
+    {
+      "Item Name": "TM53",
+      "Move": "Power-Up Punch",
+      "Location": "Gym 4 (Sofos City)"
+    },
+    {
+      "Item Name": "TM54",
+      "Move": "Dazzling Gleam",
+      "Location": "Corrin Crossing (Uni. Student)"
+    },
+    {
+      "Item Name": "TM55",
+      "Move": "Snarl",
+      "Location": "Erinys Path East"
+    },
+    {
+      "Item Name": "TM56",
+      "Move": "Scald",
+      "Location": "Fishing Treasure (Good/Super Rod)"
+    },
+    {
+      "Item Name": "TM57",
+      "Move": "Roost",
+      "Location": "Palati City (Uni. Student)"
+    },
+    {
+      "Item Name": "TM58",
+      "Move": "Thunder Wave",
+      "Location": "Palati City (Quest)"
+    },
+    {
+      "Item Name": "TM59",
+      "Move": "Dark Pulse",
+      "Location": "Nyx Trails"
+    },
+    {
+      "Item Name": "TM60",
+      "Move": "Dragon Dance",
+      "Location": "P\u00e9ntepetal City"
+    },
+    {
+      "Item Name": "HM01",
+      "Move": "Cut",
+      "Location": "Rania, Jusmail Town"
+    },
+    {
+      "Item Name": "HM02",
+      "Move": "Fly",
+      "Location": "Kaptara Island"
+    },
+    {
+      "Item Name": "HM03",
+      "Move": "Surf",
+      "Location": "Niko, Asfal Hills"
+    },
+    {
+      "Item Name": "HM04",
+      "Move": "Strength",
+      "Location": "Rania, Acropolis Temple"
+    },
+    {
+      "Item Name": "HM05",
+      "Move": "Flash",
+      "Location": "Team Chimera Admin, Pythios Cemetery"
+    },
+    {
+      "Item Name": "HM06",
+      "Move": "Rock Smash",
+      "Location": "Prof. Elia after 2nd Gym"
+    },
+    {
+      "Item Name": "HM07",
+      "Move": "Waterfall",
+      "Location": "Rania, Davosi Straits"
+    },
+    {
+      "Item Name": "HM08",
+      "Move": "Dive",
+      "Location": "Marmaro Mines"
+    }
+  ],
+  "Decorations": [
+    {
+      "Category": "Desk",
+      "Item Name": "Small Desk",
+      "Location": "Gift from Piraeus; Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Desk",
+      "Item Name": "Heavy Desk",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Desk",
+      "Item Name": "Ragged Desk",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Desk",
+      "Item Name": "Comfort Desk",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Desk",
+      "Item Name": "Pretty Desk",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Desk",
+      "Item Name": "Book and Quill",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Chair",
+      "Item Name": "Small Chair",
+      "Location": "Gift from Piraeus; Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Chair",
+      "Item Name": "Heavy Chair",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Chair",
+      "Item Name": "Pretty Chair",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Chair",
+      "Item Name": "Comfort Chair",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Chair",
+      "Item Name": "Ragged Chair",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Plant",
+      "Item Name": "Red Plant",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Plant",
+      "Item Name": "Tropical Plant",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Plant",
+      "Item Name": "Pretty Flowers",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Plant",
+      "Item Name": "Colorful Plant",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Plant",
+      "Item Name": "Flower Box",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Plant",
+      "Item Name": "Potted Berry",
+      "Location": "Jusmail Town Berry Club - 200 Berry Trees Reward"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "TV & Radio Desk",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Pok\u00e9 Ball Table",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Shrine",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Slide",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Fence Length",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Fence Width",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Stand",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Breakable Door",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "TV",
+      "Location": "Gift from Piraeus, P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "White Bed",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Patterned Bed",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Shocking Relic",
+      "Location": "Areios Hideout"
+    },
+    {
+      "Category": "Ornament",
+      "Item Name": "Marble Statue",
+      "Location": "Complete Mining Minigame 10 times"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Doll Cabin Tile",
+      "Location": "Sofos City - Street Vendor, P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Wood Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Glitter Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Jump Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Spin Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "C Low Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "D Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "E Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "F Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "G Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "A Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "B Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "C High Note Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Surf Mat",
+      "Location": "Gift from Piraeus; Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Thunder Mat",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Fire Blast Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Powder Snow Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Attract Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Fissure Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Mat",
+      "Item Name": "Spikes Mat",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "MinoTauros Plaque",
+      "Location": "Palati City (Quest)"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Ball Poster",
+      "Location": "Gift from Piraeus"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Green Poster",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Red Poster",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Blue Poster",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Dragon Poster",
+      "Location": "P\u00e9ntepetal City (Quest)"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Opal Fish Poster",
+      "Location": "Kalami City (Quest)"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Puppy Poster",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Sea Poster",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Sky Poster",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Poster",
+      "Item Name": "Sunset Poster",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Pikachu Doll",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Mimikyu Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Crabrawler Doll",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Togepi Doll",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Cyndaquil Doll",
+      "Location": "Fresco Isles - Doll-Maker"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Chikorita Doll",
+      "Location": "Fresco Isles - Doll-Maker"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Totodile Doll",
+      "Location": "Fresco Isles - Doll-Maker"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Jigglypuff Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Meowth Doll",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Impidimp Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Egg Doll",
+      "Location": "Myrrini Island Pok\u00e9mon Daycare"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Archen Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Tirtouga Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Chespin Doll",
+      "Location": "Fresco Isles - Doll-Maker"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Fennekin Doll",
+      "Location": "Fresco Isles - Doll-Maker"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Froakie Doll",
+      "Location": "Fresco Isles - Doll-Maker"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Duskull Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Baltoy Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Kecleon Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Stufful Doll",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Applin Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Swablu Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Bounsweet Doll",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Skiddo Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Rockruff Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Toucannon Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "H-Arcanine Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Kommo-o Doll",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Lapras Doll",
+      "Location": "P\u00e9ntepetal City (Uni. Student)"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Raikou Doll",
+      "Location": "Sofos City Acropolis Temple"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Entei Doll",
+      "Location": "Sofos City Acropolis Temple"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Suicune Doll",
+      "Location": "Sofos City Acropolis Temple"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Gyarados Doll",
+      "Location": "Tower of Dioxippus (Uni. Student)"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Hydrapple Doll",
+      "Location": "Tower of Dioxippus - Quest Reward"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Dragonite Doll",
+      "Location": "Sea of Vulcai (Underwater)"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "A-Raichu Doll",
+      "Location": "Sofos City - Quest Reward"
+    },
+    {
+      "Category": "Doll",
+      "Item Name": "Oricorio Doll",
+      "Location": "Sofos City - Quest Reward"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Pika Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Round Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Kiss Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Zigzag Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Spin Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Diamond Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Ball Cushion",
+      "Location": "P\u00e9ntepetal City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Grass Cushion",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Fire Cushion",
+      "Location": "Sofos City - Street Vendor"
+    },
+    {
+      "Category": "Cushion",
+      "Item Name": "Water Cushion",
+      "Location": "Sofos City - Street Vendor"
+    }
+  ],
+  "Normal Outfits": [
+    {
+      "Name": "University Green",
+      "Location": "Default outfit"
+    },
+    {
+      "Name": "Casual Coral",
+      "Location": "Jusmail Town (Uni. Student Reward)"
+    },
+    {
+      "Name": "East Ilios Blue",
+      "Location": "Kalami City (Purchase - Beauty NPC OR Uni. Student Reward!)"
+    },
+    {
+      "Name": "Tropical Yellow",
+      "Location": "Kalami City (Purchase - Battle Girl NPC)"
+    },
+    {
+      "Name": "Traditional",
+      "Location": "Pythios Town (Uni. Student Reward)"
+    },
+    {
+      "Name": "Old Sofos Toga",
+      "Location": "Sofos City (Purchase - Old Woman NPC OR Uni. Student Reward!)"
+    },
+    {
+      "Name": "Zookeeper",
+      "Location": "Sunset Wildlife Conservation Center (5 Donations)"
+    },
+    {
+      "Name": "5-Petal Style",
+      "Location": "P\u00e9ntepetal City (Purchase - Lady NPC)"
+    },
+    {
+      "Name": "Old Palati Style",
+      "Location": "Palati City (Purchase - Beauty NPC)"
+    },
+    {
+      "Name": "Ancient War Arm",
+      "Location": "oPrort Pello (Uni. Student)"
+    }
+  ],
+  "Special Outfits": [
+    {
+      "Name": "Johto Fashion",
+      "Unlock": "Fresco Isles Tailor (Catch all 3 Johto Starters)"
+    },
+    {
+      "Name": "Kalos Fashion",
+      "Unlock": "Fresco Isles Tailor (Catch all 3 Kalos Starters)"
+    },
+    {
+      "Name": "Alolan Fashion",
+      "Unlock": "Fresco Isles Tailor (Catch all 3 Alolan Starters)"
+    },
+    {
+      "Name": "Paldean Fashion",
+      "Unlock": "Fresco Isles Tailor (Catch all 3 Paldean Starters)"
+    },
+    {
+      "Name": "Hylian Fashion",
+      "Unlock": "Only obtainable via Acrisia University Cheat Codes"
+    }
+  ],
+  "Other Items": [
+    {
+      "Item Name": "Leftovers",
+      "Use": "Held Item",
+      "Location": "Rare Item held by wild Applin"
+    },
+    {
+      "Item Name": "Heart Scale",
+      "Use": "Treasure",
+      "Location": "Held by wild Finneon"
+    },
+    {
+      "Item Name": "Red Shard",
+      "Use": "Treasure",
+      "Location": "Held by wild Dwebble"
+    },
+    {
+      "Item Name": "Green Shard",
+      "Use": "Treasure",
+      "Location": "Held by wild Natu"
+    },
+    {
+      "Item Name": "Blue Shard",
+      "Use": "Treasure",
+      "Location": "Held by wild Alolan Sandshrew"
+    },
+    {
+      "Item Name": "Yellow Shard",
+      "Use": "Treasure",
+      "Location": "Held by wild Sandshrew"
+    },
+    {
+      "Item Name": "Eviolite",
+      "Use": "Held Item",
+      "Location": "Complete Quest \"A Girlypop Dream\" in Acrisia City"
+    },
+    {
+      "Item Name": "Lucky Egg",
+      "Use": "Held Item",
+      "Location": "Given by NPC in Acrisia City"
+    },
+    {
+      "Item Name": "Clear Amulet",
+      "Use": "Held Item",
+      "Location": "Complete Quest \"Perfect Paint\" in the Fresco Isles"
+    },
+    {
+      "Item Name": "Ability Capsule",
+      "Use": "Stat Item",
+      "Location": "Sofos City Street Vendor"
+    },
+    {
+      "Item Name": "Ability Patch",
+      "Use": "Stat Item",
+      "Location": "Sofos City Street Vendor"
+    },
+    {
+      "Item Name": "Nature Mints",
+      "Use": "Stat Item",
+      "Location": "Jusmail Town Berry Club"
+    }
+  ]
+}
