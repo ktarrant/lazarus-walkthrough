@@ -132,6 +132,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "dartrix"
     ]
   },
   {
@@ -267,6 +271,11 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": "rowlet",
+    "evolves_to": [
+      "decidueye",
+      "hisuian-decidueye"
     ]
   },
   {
@@ -428,7 +437,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "dartrix",
+    "evolves_to": []
   },
   {
     "name": "Litten",
@@ -555,6 +566,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "torracat"
     ]
   },
   {
@@ -686,6 +701,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": "litten",
+    "evolves_to": [
+      "incineroar"
     ]
   },
   {
@@ -845,7 +864,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "torracat",
+    "evolves_to": []
   },
   {
     "name": "Popplio",
@@ -972,6 +993,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "brionne"
     ]
   },
   {
@@ -1108,6 +1133,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": "popplio",
+    "evolves_to": [
+      "primarina"
     ]
   },
   {
@@ -1256,7 +1285,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "brionne",
+    "evolves_to": []
   },
   {
     "name": "Chespin",
@@ -1396,6 +1427,10 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "quilladin"
     ]
   },
   {
@@ -1540,6 +1575,10 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
+    ],
+    "evolves_from": "chespin",
+    "evolves_to": [
+      "chesnaught"
     ]
   },
   {
@@ -1714,7 +1753,9 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "quilladin",
+    "evolves_to": []
   },
   {
     "name": "Fennekin",
@@ -1850,6 +1891,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "braixen"
     ]
   },
   {
@@ -1994,6 +2039,10 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
+    ],
+    "evolves_from": "fennekin",
+    "evolves_to": [
+      "delphox"
     ]
   },
   {
@@ -2163,7 +2212,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "braixen",
+    "evolves_to": []
   },
   {
     "name": "Froakie",
@@ -2300,6 +2351,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "frogadier"
     ]
   },
   {
@@ -2443,6 +2498,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": "froakie",
+    "evolves_to": [
+      "greninja"
     ]
   },
   {
@@ -2625,7 +2684,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "frogadier",
+    "evolves_to": []
   },
   {
     "name": "Sprigatito",
@@ -2729,6 +2790,10 @@
       "Mud-Slap",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "floragato"
     ]
   },
   {
@@ -2839,6 +2904,10 @@
       "Sleep Talk",
       "Swift",
       "Thunder Punch"
+    ],
+    "evolves_from": "sprigatito",
+    "evolves_to": [
+      "meowscarada"
     ]
   },
   {
@@ -2981,7 +3050,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "floragato",
+    "evolves_to": []
   },
   {
     "name": "Fuecoco",
@@ -3081,6 +3152,10 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "crocalor"
     ]
   },
   {
@@ -3189,6 +3264,10 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk"
+    ],
+    "evolves_from": "fuecoco",
+    "evolves_to": [
+      "skeledirge"
     ]
   },
   {
@@ -3326,7 +3405,9 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk"
-    ]
+    ],
+    "evolves_from": "crocalor",
+    "evolves_to": []
   },
   {
     "name": "Quaxly",
@@ -3424,6 +3505,10 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "quaxwell"
     ]
   },
   {
@@ -3535,6 +3620,10 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": "quaxly",
+    "evolves_to": [
+      "quaquaval"
     ]
   },
   {
@@ -3675,7 +3764,9 @@
       "Sleep Talk",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "quaxwell",
+    "evolves_to": []
   },
   {
     "name": "Pansage",
@@ -3818,6 +3909,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "simisage"
     ]
   },
   {
@@ -3862,7 +3957,9 @@
       "Spiky Shield"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "pansage",
+    "evolves_to": []
   },
   {
     "name": "Pansear",
@@ -4007,6 +4104,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "simisear"
     ]
   },
   {
@@ -4052,7 +4153,9 @@
       "Flare Blitz"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "pansear",
+    "evolves_to": []
   },
   {
     "name": "Panpour",
@@ -4199,6 +4302,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "simipour"
     ]
   },
   {
@@ -4242,7 +4349,9 @@
       "Disarming Voice"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "panpour",
+    "evolves_to": []
   },
   {
     "name": "Lillipup",
@@ -4372,7 +4481,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Herdier",
@@ -4508,6 +4619,10 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "stoutland"
     ]
   },
   {
@@ -4662,7 +4777,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "herdier",
+    "evolves_to": []
   },
   {
     "name": "Pikipek",
@@ -4774,7 +4891,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Trumbeak",
@@ -4891,6 +5010,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "toucannon"
     ]
   },
   {
@@ -5019,7 +5142,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "trumbeak",
+    "evolves_to": []
   },
   {
     "name": "Ducklett",
@@ -5167,6 +5292,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "swanna"
     ]
   },
   {
@@ -5316,7 +5445,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "ducklett",
+    "evolves_to": []
   },
   {
     "name": "Hoppip",
@@ -5471,7 +5602,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Skiploom",
@@ -5626,6 +5759,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "jumpluff"
     ]
   },
   {
@@ -5790,7 +5927,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "skiploom",
+    "evolves_to": []
   },
   {
     "name": "Nincada",
@@ -5899,7 +6038,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ninjask",
@@ -6062,7 +6203,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Shedinja",
@@ -6194,7 +6337,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Grubbin",
@@ -6290,7 +6435,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Charjabug",
@@ -6400,6 +6547,10 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "vikavolt"
     ]
   },
   {
@@ -6437,7 +6588,9 @@
       "Endure"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "charjabug",
+    "evolves_to": []
   },
   {
     "name": "Paras",
@@ -6580,6 +6733,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "parasect"
     ]
   },
   {
@@ -6736,7 +6893,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "paras",
+    "evolves_to": []
   },
   {
     "name": "Phanpy",
@@ -6878,6 +7037,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "donphan"
     ]
   },
   {
@@ -7040,7 +7203,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "phanpy",
+    "evolves_to": []
   },
   {
     "name": "Snom",
@@ -7099,6 +7264,10 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "frosmoth"
     ]
   },
   {
@@ -7248,7 +7417,9 @@
       "Sleep Talk",
       "Snore",
       "Swift"
-    ]
+    ],
+    "evolves_from": "snom",
+    "evolves_to": []
   },
   {
     "name": "Cubone",
@@ -7400,6 +7571,11 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "marowak",
+      "alolan-marowak"
     ]
   },
   {
@@ -7553,7 +7729,9 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "cubone",
+    "evolves_to": []
   },
   {
     "name": "Mudbray",
@@ -7676,6 +7854,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "mudsdale"
     ]
   },
   {
@@ -7800,7 +7982,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "mudbray",
+    "evolves_to": []
   },
   {
     "name": "Mareep",
@@ -7936,6 +8120,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "flaaffy"
     ]
   },
   {
@@ -8085,6 +8273,10 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": "mareep",
+    "evolves_to": [
+      "ampharos"
     ]
   },
   {
@@ -8272,7 +8464,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "flaaffy",
+    "evolves_to": []
   },
   {
     "name": "Applin",
@@ -8324,6 +8518,12 @@
     "tutor_moves": [
       "Defense Curl",
       "Rollout"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "flapple",
+      "appletun",
+      "dipplin"
     ]
   },
   {
@@ -8462,7 +8662,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore"
-    ]
+    ],
+    "evolves_from": "applin",
+    "evolves_to": []
   },
   {
     "name": "Appletun",
@@ -8604,7 +8806,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore"
-    ]
+    ],
+    "evolves_from": "applin",
+    "evolves_to": []
   },
   {
     "name": "Dipplin",
@@ -8739,6 +8943,10 @@
       "Endure",
       "Rollout",
       "Sleep Talk"
+    ],
+    "evolves_from": "applin",
+    "evolves_to": [
+      "hydrapple"
     ]
   },
   {
@@ -8875,7 +9083,9 @@
       "Double-Edge",
       "Endure",
       "Sleep Talk"
-    ]
+    ],
+    "evolves_from": "dipplin",
+    "evolves_to": []
   },
   {
     "name": "Cutiefly",
@@ -8993,7 +9203,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ribombee",
@@ -9117,7 +9329,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Grimer",
@@ -9265,7 +9479,9 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Muk",
@@ -9422,7 +9638,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Wurmple",
@@ -9472,7 +9690,9 @@
     "tm_moves": [],
     "tutor_moves": [
       "Snore"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Silcoon",
@@ -9508,7 +9728,11 @@
     ],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": [
+      "beautifly"
+    ]
   },
   {
     "name": "Beautifly",
@@ -9618,7 +9842,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "silcoon",
+    "evolves_to": []
   },
   {
     "name": "Cascoon",
@@ -9654,7 +9880,11 @@
     ],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": [
+      "dustox"
+    ]
   },
   {
     "name": "Dustox",
@@ -9765,7 +9995,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "cascoon",
+    "evolves_to": []
   },
   {
     "name": "Tropius",
@@ -9949,7 +10181,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ralts",
@@ -10109,7 +10343,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Kirlia",
@@ -10274,6 +10510,11 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "gardevoir",
+      "gallade"
     ]
   },
   {
@@ -10455,7 +10696,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "kirlia",
+    "evolves_to": []
   },
   {
     "name": "Gallade",
@@ -10650,7 +10893,9 @@
       "Swords Dance",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "kirlia",
+    "evolves_to": []
   },
   {
     "name": "Eevee",
@@ -10789,6 +11034,17 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "vaporeon",
+      "jolteon",
+      "flareon",
+      "espeon",
+      "umbreon",
+      "leafeon",
+      "glaceon",
+      "sylveon"
     ]
   },
   {
@@ -10939,7 +11195,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Jolteon",
@@ -11093,7 +11351,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Flareon",
@@ -11239,7 +11499,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Espeon",
@@ -11390,7 +11652,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Umbreon",
@@ -11543,7 +11807,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Leafeon",
@@ -11687,7 +11953,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Glaceon",
@@ -11830,7 +12098,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Sylveon",
@@ -11980,7 +12250,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "eevee",
+    "evolves_to": []
   },
   {
     "name": "Skiddo",
@@ -12120,7 +12392,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gogoat",
@@ -12271,7 +12545,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Murkrow",
@@ -12426,6 +12702,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "honchkrow"
     ]
   },
   {
@@ -12585,7 +12865,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "murkrow",
+    "evolves_to": []
   },
   {
     "name": "Oricorio Baile",
@@ -12728,7 +13010,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Sandshrew",
@@ -12884,7 +13168,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Sandslash",
@@ -13045,7 +13331,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Sandile",
@@ -13193,7 +13481,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Krokorok",
@@ -13348,6 +13638,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "krookodile"
     ]
   },
   {
@@ -13517,7 +13811,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "krokorok",
+    "evolves_to": []
   },
   {
     "name": "Nosepass",
@@ -13667,6 +13963,10 @@
       "Swagger",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "probopass"
     ]
   },
   {
@@ -13837,7 +14137,9 @@
       "Swagger",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "nosepass",
+    "evolves_to": []
   },
   {
     "name": "Mawile",
@@ -14033,7 +14335,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Rockruff",
@@ -14154,7 +14458,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Lycanroc",
@@ -14299,7 +14605,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Vullaby",
@@ -14440,6 +14748,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "mandibuzz"
     ]
   },
   {
@@ -14603,7 +14915,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "vullaby",
+    "evolves_to": []
   },
   {
     "name": "Woobat",
@@ -14747,6 +15061,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "swoobat"
     ]
   },
   {
@@ -14896,7 +15214,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "woobat",
+    "evolves_to": []
   },
   {
     "name": "Aron",
@@ -15063,7 +15383,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Lairon",
@@ -15231,6 +15553,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "aggron"
     ]
   },
   {
@@ -15422,7 +15748,9 @@
       "Swagger",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "lairon",
+    "evolves_to": []
   },
   {
     "name": "Timburr",
@@ -15571,7 +15899,9 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gurdurr",
@@ -15720,6 +16050,10 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "conkeldurr"
     ]
   },
   {
@@ -15837,7 +16171,9 @@
       "Power-Up Punch"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "gurdurr",
+    "evolves_to": []
   },
   {
     "name": "Klawf",
@@ -15970,7 +16306,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Poliwag",
@@ -16098,7 +16436,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Poliwhirl",
@@ -16237,6 +16577,11 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "poliwrath",
+      "politoed"
     ]
   },
   {
@@ -16371,7 +16716,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "poliwhirl",
+    "evolves_to": []
   },
   {
     "name": "Politoed",
@@ -16497,7 +16844,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "poliwhirl",
+    "evolves_to": []
   },
   {
     "name": "Pumpkaboo",
@@ -16617,6 +16966,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "gourgeist"
     ]
   },
   {
@@ -16707,7 +17060,9 @@
       "Curse"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "pumpkaboo",
+    "evolves_to": []
   },
   {
     "name": "Shroomish",
@@ -16829,7 +17184,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Breloom",
@@ -16995,7 +17352,9 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Heracross",
@@ -17158,7 +17517,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Shuppet",
@@ -17324,7 +17685,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Banette",
@@ -17497,7 +17860,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Aipom",
@@ -17658,6 +18023,10 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "ambipom"
     ]
   },
   {
@@ -17818,7 +18187,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "aipom",
+    "evolves_to": []
   },
   {
     "name": "Bounsweet",
@@ -17913,7 +18284,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Steenee",
@@ -18024,6 +18397,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "tsareena"
     ]
   },
   {
@@ -18162,7 +18539,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "steenee",
+    "evolves_to": []
   },
   {
     "name": "Wooper",
@@ -18306,7 +18685,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Quagsire",
@@ -18478,7 +18859,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Clodsire",
@@ -18604,7 +18987,9 @@
       "Mud-Slap",
       "Rock Slide",
       "Sleep Talk"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Toedscool",
@@ -18739,7 +19124,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Toedscruel",
@@ -18879,7 +19266,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Blitzle",
@@ -19015,6 +19404,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "zebstrika"
     ]
   },
   {
@@ -19160,7 +19553,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "blitzle",
+    "evolves_to": []
   },
   {
     "name": "Hoothoot",
@@ -19307,7 +19702,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Noctowl",
@@ -19472,7 +19869,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Mienfoo",
@@ -19614,6 +20013,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "mienshao"
     ]
   },
   {
@@ -19770,7 +20173,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "mienfoo",
+    "evolves_to": []
   },
   {
     "name": "Flittle",
@@ -19868,7 +20273,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Espathra",
@@ -20000,7 +20407,9 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Vulpix",
@@ -20161,6 +20570,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "ninetales"
     ]
   },
   {
@@ -20327,7 +20740,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "vulpix",
+    "evolves_to": []
   },
   {
     "name": "Honedge",
@@ -20459,7 +20874,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Doublade",
@@ -20591,7 +21008,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Aegislash",
@@ -20730,7 +21149,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Dwebble",
@@ -20872,6 +21293,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "crustle"
     ]
   },
   {
@@ -21015,7 +21440,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "dwebble",
+    "evolves_to": []
   },
   {
     "name": "Minior",
@@ -21149,7 +21576,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gastly",
@@ -21297,6 +21726,10 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "haunter"
     ]
   },
   {
@@ -21450,6 +21883,10 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
+    ],
+    "evolves_from": "gastly",
+    "evolves_to": [
+      "gengar"
     ]
   },
   {
@@ -21616,7 +22053,9 @@
       "Swagger",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "haunter",
+    "evolves_to": []
   },
   {
     "name": "Baltoy",
@@ -21767,7 +22206,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Claydol",
@@ -21933,7 +22374,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Salandit",
@@ -22063,6 +22506,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "salazzle"
     ]
   },
   {
@@ -22215,7 +22662,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "salandit",
+    "evolves_to": []
   },
   {
     "name": "Finizen",
@@ -22333,6 +22782,10 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "palafin"
     ]
   },
   {
@@ -22484,7 +22937,9 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": "finizen",
+    "evolves_to": []
   },
   {
     "name": "Togepi",
@@ -22634,7 +23089,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Togetic",
@@ -22815,6 +23272,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "togekiss"
     ]
   },
   {
@@ -22996,7 +23457,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "togetic",
+    "evolves_to": []
   },
   {
     "name": "Cherubi",
@@ -23115,7 +23578,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Cherrim",
@@ -23252,7 +23717,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Houndour",
@@ -23408,7 +23875,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Houndoom",
@@ -23578,7 +24047,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Omanyte",
@@ -23717,6 +24188,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "omastar"
     ]
   },
   {
@@ -23862,7 +24337,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "omanyte",
+    "evolves_to": []
   },
   {
     "name": "Kabuto",
@@ -23998,6 +24475,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "kabutops"
     ]
   },
   {
@@ -24154,7 +24635,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "kabuto",
+    "evolves_to": []
   },
   {
     "name": "Skorupi",
@@ -24300,7 +24783,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Drapion",
@@ -24462,7 +24947,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Spinarak",
@@ -24599,7 +25086,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ariados",
@@ -24775,7 +25264,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Onix",
@@ -24943,6 +25434,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "steelix"
     ]
   },
   {
@@ -25125,7 +25620,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "onix",
+    "evolves_to": []
   },
   {
     "name": "Komala",
@@ -25253,7 +25750,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Wingull",
@@ -25384,7 +25883,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Pelipper",
@@ -25557,7 +26058,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Stantler",
@@ -25711,6 +26214,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "wyrdeer"
     ]
   },
   {
@@ -25857,7 +26364,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "stantler",
+    "evolves_to": []
   },
   {
     "name": "Snorunt",
@@ -25978,6 +26487,11 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "glalie",
+      "froslass"
     ]
   },
   {
@@ -26125,7 +26639,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "snorunt",
+    "evolves_to": []
   },
   {
     "name": "Froslass",
@@ -26297,7 +26813,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "snorunt",
+    "evolves_to": []
   },
   {
     "name": "Spheal",
@@ -26445,7 +26963,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Sealeo",
@@ -26614,6 +27134,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "walrein"
     ]
   },
   {
@@ -26800,7 +27324,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "sealeo",
+    "evolves_to": []
   },
   {
     "name": "Seel",
@@ -26947,6 +27473,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "dewgong"
     ]
   },
   {
@@ -27104,7 +27634,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "seel",
+    "evolves_to": []
   },
   {
     "name": "Bronzor",
@@ -27243,6 +27775,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "bronzong"
     ]
   },
   {
@@ -27398,7 +27934,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "bronzor",
+    "evolves_to": []
   },
   {
     "name": "Cufant",
@@ -27532,6 +28070,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "copperajah"
     ]
   },
   {
@@ -27676,7 +28218,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "cufant",
+    "evolves_to": []
   },
   {
     "name": "Zorua",
@@ -27823,6 +28367,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "zoroark"
     ]
   },
   {
@@ -27998,7 +28546,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "zorua",
+    "evolves_to": []
   },
   {
     "name": "Sneasel",
@@ -28172,6 +28722,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "weavile"
     ]
   },
   {
@@ -28361,7 +28915,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "sneasel",
+    "evolves_to": []
   },
   {
     "name": "Sneasler",
@@ -28495,7 +29051,9 @@
       "Sleep Talk",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "hisuian-sneasel",
+    "evolves_to": []
   },
   {
     "name": "Tyrunt",
@@ -28627,6 +29185,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "tyrantrum"
     ]
   },
   {
@@ -28776,7 +29338,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "tyrunt",
+    "evolves_to": []
   },
   {
     "name": "Amaura",
@@ -28922,6 +29486,10 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "aurorus"
     ]
   },
   {
@@ -29075,7 +29643,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "amaura",
+    "evolves_to": []
   },
   {
     "name": "Meowth",
@@ -29218,7 +29788,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Persian",
@@ -29377,7 +29949,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Perrserker",
@@ -29518,7 +30092,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Pachirisu",
@@ -29657,7 +30233,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Electrike",
@@ -29797,7 +30375,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Manectric",
@@ -29955,7 +30535,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Pawmi",
@@ -30067,7 +30649,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Pawmo",
@@ -30190,6 +30774,10 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "pawmott"
     ]
   },
   {
@@ -30349,7 +30937,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "pawmo",
+    "evolves_to": []
   },
   {
     "name": "Shroodle",
@@ -30477,7 +31067,9 @@
       "Sleep Talk",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Grafaiai",
@@ -30613,7 +31205,9 @@
       "Sleep Talk",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Buizel",
@@ -30754,6 +31348,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "floatzel"
     ]
   },
   {
@@ -30916,7 +31514,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "buizel",
+    "evolves_to": []
   },
   {
     "name": "Stunky",
@@ -31064,6 +31664,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "skuntank"
     ]
   },
   {
@@ -31218,7 +31822,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "stunky",
+    "evolves_to": []
   },
   {
     "name": "Wattrel",
@@ -31332,7 +31938,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Kilowattrel",
@@ -31451,7 +32059,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Tauros",
@@ -31590,7 +32200,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Cyclizar",
@@ -31622,7 +32234,9 @@
     "level_up_moves": [],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Wimpod",
@@ -31698,6 +32312,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "golisopod"
     ]
   },
   {
@@ -31842,7 +32460,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "wimpod",
+    "evolves_to": []
   },
   {
     "name": "Pichu",
@@ -31950,7 +32570,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Pikachu",
@@ -32115,6 +32737,10 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "raichu"
     ]
   },
   {
@@ -32226,7 +32852,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "pikachu",
+    "evolves_to": []
   },
   {
     "name": "Mimikyu",
@@ -32374,7 +33002,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ponyta",
@@ -32499,7 +33129,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Rapidash",
@@ -32638,7 +33270,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Corsola",
@@ -32807,7 +33441,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Cursola",
@@ -32951,7 +33587,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore"
-    ]
+    ],
+    "evolves_from": "galarian-corsola",
+    "evolves_to": []
   },
   {
     "name": "Finneon",
@@ -33095,7 +33733,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Lumineon",
@@ -33245,7 +33885,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Wailmer",
@@ -33398,7 +34040,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Wailord",
@@ -33556,7 +34200,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Tentacool",
@@ -33700,7 +34346,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Tentacruel",
@@ -33853,7 +34501,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Clauncher",
@@ -33979,7 +34629,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Clawitzer",
@@ -34128,7 +34780,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Scyther",
@@ -34275,6 +34929,11 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "scizor",
+      "kleavor"
     ]
   },
   {
@@ -34428,7 +35087,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "scyther",
+    "evolves_to": []
   },
   {
     "name": "Kleavor",
@@ -34547,7 +35208,9 @@
       "Sleep Talk",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "scyther",
+    "evolves_to": []
   },
   {
     "name": "Stufful",
@@ -34674,6 +35337,10 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "bewear"
     ]
   },
   {
@@ -34808,7 +35475,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "stufful",
+    "evolves_to": []
   },
   {
     "name": "Bagon",
@@ -34935,6 +35604,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "shelgon"
     ]
   },
   {
@@ -35067,6 +35740,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": "bagon",
+    "evolves_to": [
+      "salamence"
     ]
   },
   {
@@ -35223,7 +35900,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "shelgon",
+    "evolves_to": []
   },
   {
     "name": "Togedemaru",
@@ -35358,7 +36037,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Crabrawler",
@@ -35484,6 +36165,10 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "crabominable"
     ]
   },
   {
@@ -35624,7 +36309,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "crabrawler",
+    "evolves_to": []
   },
   {
     "name": "Lileep",
@@ -35761,6 +36448,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "cradily"
     ]
   },
   {
@@ -35907,7 +36598,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "lileep",
+    "evolves_to": []
   },
   {
     "name": "Anorith",
@@ -36049,6 +36742,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "armaldo"
     ]
   },
   {
@@ -36193,7 +36890,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "anorith",
+    "evolves_to": []
   },
   {
     "name": "Dedenne",
@@ -36329,7 +37028,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Chatot",
@@ -36475,7 +37176,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Meditite",
@@ -36649,6 +37352,10 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "medicham"
     ]
   },
   {
@@ -36844,7 +37551,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "meditite",
+    "evolves_to": []
   },
   {
     "name": "Drowzee",
@@ -37011,6 +37720,10 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "hypno"
     ]
   },
   {
@@ -37196,7 +37909,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "drowzee",
+    "evolves_to": []
   },
   {
     "name": "Ekans",
@@ -37342,7 +38057,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Arbok",
@@ -37508,7 +38225,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Basculin White",
@@ -37636,6 +38355,11 @@
       "Icy Wind",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "basculegion-m",
+      "basculegion-f"
     ]
   },
   {
@@ -37785,7 +38509,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": "basculin-white",
+    "evolves_to": []
   },
   {
     "name": "Pancham",
@@ -37927,6 +38653,10 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "pangoro"
     ]
   },
   {
@@ -38110,7 +38840,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "pancham",
+    "evolves_to": []
   },
   {
     "name": "Skrelp",
@@ -38248,6 +38980,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "dragalge"
     ]
   },
   {
@@ -38400,7 +39136,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "skrelp",
+    "evolves_to": []
   },
   {
     "name": "Gothita",
@@ -38553,7 +39291,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gothorita",
@@ -38707,7 +39447,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gothitelle",
@@ -38868,7 +39610,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Solosis",
@@ -39015,7 +39759,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Duosion",
@@ -39162,7 +39908,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Reuniclus",
@@ -39322,7 +40070,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Litwick",
@@ -39467,6 +40217,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "lampent"
     ]
   },
   {
@@ -39612,6 +40366,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": "litwick",
+    "evolves_to": [
+      "chandelure"
     ]
   },
   {
@@ -39758,7 +40516,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "lampent",
+    "evolves_to": []
   },
   {
     "name": "Charcadet",
@@ -39845,6 +40605,11 @@
     "tutor_moves": [
       "Endure",
       "Sleep Talk"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "armarouge",
+      "ceruledge"
     ]
   },
   {
@@ -39881,7 +40646,9 @@
       "Spite"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "charcadet",
+    "evolves_to": []
   },
   {
     "name": "Ceruledge",
@@ -39917,7 +40684,9 @@
       "Spite"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "charcadet",
+    "evolves_to": []
   },
   {
     "name": "Chinchou",
@@ -40059,7 +40828,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Lanturn",
@@ -40230,7 +41001,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Shellder",
@@ -40368,6 +41141,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "cloyster"
     ]
   },
   {
@@ -40483,7 +41260,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "shellder",
+    "evolves_to": []
   },
   {
     "name": "Clamperl",
@@ -40570,6 +41349,11 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "huntail",
+      "gorebyss"
     ]
   },
   {
@@ -40719,7 +41503,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "clamperl",
+    "evolves_to": []
   },
   {
     "name": "Gorebyss",
@@ -40869,7 +41655,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "clamperl",
+    "evolves_to": []
   },
   {
     "name": "Flab\u00e9b\u00e9",
@@ -40984,7 +41772,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Floette",
@@ -41113,6 +41903,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "florges"
     ]
   },
   {
@@ -41149,7 +41943,9 @@
       "Tearful Look"
     ],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "floette",
+    "evolves_to": []
   },
   {
     "name": "Igglybuff",
@@ -41262,7 +42058,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Jigglypuff",
@@ -41445,7 +42243,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Wigglytuff",
@@ -41633,7 +42433,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Helioptile",
@@ -41757,7 +42559,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Heliolisk",
@@ -41892,7 +42696,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Falinks",
@@ -42022,7 +42828,9 @@
       "Sleep Talk",
       "Snore",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Trapinch",
@@ -42161,7 +42969,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Vibrava",
@@ -42323,6 +43133,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "flygon"
     ]
   },
   {
@@ -42496,7 +43310,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "vibrava",
+    "evolves_to": []
   },
   {
     "name": "Doduo",
@@ -42636,6 +43452,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "dodrio"
     ]
   },
   {
@@ -42788,7 +43608,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "doduo",
+    "evolves_to": []
   },
   {
     "name": "Tinkatink",
@@ -42919,7 +43741,9 @@
       "Sleep Talk",
       "Swords Dance",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Tinkatuff",
@@ -43051,6 +43875,10 @@
       "Sleep Talk",
       "Swords Dance",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "tinkaton"
     ]
   },
   {
@@ -43187,7 +44015,9 @@
       "Sleep Talk",
       "Swords Dance",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "tinkatuff",
+    "evolves_to": []
   },
   {
     "name": "Scraggy",
@@ -43349,7 +44179,9 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Scrafty",
@@ -43519,7 +44351,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gligar",
@@ -43685,6 +44519,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "gliscor"
     ]
   },
   {
@@ -43871,7 +44709,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "gligar",
+    "evolves_to": []
   },
   {
     "name": "Torkoal",
@@ -44021,7 +44861,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Numel",
@@ -44171,7 +45013,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Camerupt",
@@ -44336,7 +45180,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Relicanth",
@@ -44493,7 +45339,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Barboach",
@@ -44631,7 +45479,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Whiscash",
@@ -44798,7 +45648,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Munna",
@@ -44947,7 +45799,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Musharna",
@@ -45101,7 +45955,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Kecleon",
@@ -45303,7 +46159,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Magikarp",
@@ -45348,7 +46206,9 @@
     ],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gyarados",
@@ -45478,7 +46338,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Fomantis",
@@ -45587,7 +46449,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Lurantis",
@@ -45716,7 +46580,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Oranguru",
@@ -45856,7 +46722,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Passimian",
@@ -45999,7 +46867,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Zigzagoon",
@@ -46142,7 +47012,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Linoone",
@@ -46306,7 +47178,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Obstagoon",
@@ -46462,7 +47336,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Goomy",
@@ -46571,6 +47447,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "hisuian-sliggoo"
     ]
   },
   {
@@ -46695,6 +47575,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "goodra"
     ]
   },
   {
@@ -46845,7 +47729,9 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "sliggoo",
+    "evolves_to": []
   },
   {
     "name": "Bruxish",
@@ -46980,7 +47866,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Impidimp",
@@ -47085,7 +47973,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Morgrem",
@@ -47202,7 +48092,9 @@
       "Snore",
       "Swagger",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Grimmsnarl",
@@ -47339,7 +48231,9 @@
       "Swagger",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Swablu",
@@ -47486,7 +48380,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Altaria",
@@ -47661,7 +48557,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Mankey",
@@ -47830,7 +48728,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Primeape",
@@ -48012,6 +48912,10 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "annihilape"
     ]
   },
   {
@@ -48170,7 +49074,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "primeape",
+    "evolves_to": []
   },
   {
     "name": "Voltorb",
@@ -48297,6 +49203,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "electrode"
     ]
   },
   {
@@ -48429,7 +49339,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "voltorb",
+    "evolves_to": []
   },
   {
     "name": "Lapras",
@@ -48579,7 +49491,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Girafarig",
@@ -48732,7 +49646,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Farigiraf",
@@ -48882,7 +49798,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Budew",
@@ -48983,7 +49901,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Roselia",
@@ -49145,6 +50065,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "roserade"
     ]
   },
   {
@@ -49311,7 +50235,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "roselia",
+    "evolves_to": []
   },
   {
     "name": "Magnemite",
@@ -49443,6 +50369,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "magneton"
     ]
   },
   {
@@ -49588,6 +50518,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": "magnemite",
+    "evolves_to": [
+      "magnezone"
     ]
   },
   {
@@ -49746,7 +50680,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "magneton",
+    "evolves_to": []
   },
   {
     "name": "Cubchoo",
@@ -49894,6 +50830,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "beartic"
     ]
   },
   {
@@ -50070,7 +51010,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "cubchoo",
+    "evolves_to": []
   },
   {
     "name": "Growlithe",
@@ -50222,6 +51164,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "arcanine"
     ]
   },
   {
@@ -50384,7 +51330,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "growlithe",
+    "evolves_to": []
   },
   {
     "name": "Psyduck",
@@ -50544,7 +51492,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Golduck",
@@ -50735,7 +51685,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Yanma",
@@ -50879,7 +51831,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Yanmega",
@@ -51041,7 +51995,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Aerodactyl",
@@ -51212,7 +52168,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Remoraid",
@@ -51344,7 +52302,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Octillery",
@@ -51511,7 +52471,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Rufflet",
@@ -51642,7 +52604,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Braviary",
@@ -51790,7 +52754,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Natu",
@@ -51939,7 +52905,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Xatu",
@@ -52102,7 +53070,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Snover",
@@ -52240,7 +53210,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Abomasnow",
@@ -52391,7 +53363,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Duskull",
@@ -52540,7 +53514,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Dusclops",
@@ -52735,6 +53711,10 @@
       "Snore",
       "Swagger",
       "Thunder Punch"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "dusknoir"
     ]
   },
   {
@@ -52927,7 +53907,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "dusclops",
+    "evolves_to": []
   },
   {
     "name": "Swinub",
@@ -53068,6 +54050,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "piloswine"
     ]
   },
   {
@@ -53230,6 +54216,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": "swinub",
+    "evolves_to": [
+      "mamoswine"
     ]
   },
   {
@@ -53396,7 +54386,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "piloswine",
+    "evolves_to": []
   },
   {
     "name": "Corphish",
@@ -53540,6 +54532,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "crawdaunt"
     ]
   },
   {
@@ -53696,7 +54692,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "corphish",
+    "evolves_to": []
   },
   {
     "name": "Unown",
@@ -53732,7 +54730,9 @@
     ],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Tirtouga",
@@ -53884,6 +54884,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "carracosta"
     ]
   },
   {
@@ -54041,7 +55045,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "tirtouga",
+    "evolves_to": []
   },
   {
     "name": "Archen",
@@ -54188,6 +55194,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "archeops"
     ]
   },
   {
@@ -54341,7 +55351,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "archen",
+    "evolves_to": []
   },
   {
     "name": "Larvitar",
@@ -54472,6 +55484,10 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "pupitar"
     ]
   },
   {
@@ -54604,7 +55620,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger"
-    ]
+    ],
+    "evolves_from": "larvitar",
+    "evolves_to": []
   },
   {
     "name": "Tyranitar",
@@ -54780,7 +55798,9 @@
       "Swagger",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Dhelmise",
@@ -54918,7 +55938,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Dratini",
@@ -55054,7 +56076,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Dragonair",
@@ -55207,6 +56231,10 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "dragonite"
     ]
   },
   {
@@ -55393,7 +56421,9 @@
       "Swift",
       "Thunder Punch",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": "dragonair",
+    "evolves_to": []
   },
   {
     "name": "Raikou",
@@ -55526,7 +56556,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Raging Bolt",
@@ -55556,7 +56588,9 @@
     "level_up_moves": [],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Entei",
@@ -55696,7 +56730,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Gouging Fire",
@@ -55726,7 +56762,9 @@
     "level_up_moves": [],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Suicune",
@@ -55859,7 +56897,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Walking Wake",
@@ -55889,7 +56929,9 @@
     "level_up_moves": [],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Lugia",
@@ -56036,7 +57078,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ho-oh",
@@ -56177,7 +57221,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Celebi",
@@ -56330,7 +57376,9 @@
       "Swift",
       "Swords Dance",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ogerpon",
@@ -56456,7 +57504,9 @@
       "Endure",
       "Sleep Talk",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Hisuian Decidueye",
@@ -56616,7 +57666,9 @@
       "Sleep Talk",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "dartrix",
+    "evolves_to": []
   },
   {
     "name": "Battle Bond Greninja?",
@@ -56798,7 +57850,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Alolan Marowak",
@@ -56948,7 +58002,9 @@
       "Swift",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "cubone",
+    "evolves_to": []
   },
   {
     "name": "Alolan Grimer",
@@ -57099,7 +58155,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Alolan Muk",
@@ -57255,7 +58313,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Oricorio Pom-Pom",
@@ -57398,7 +58458,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Oricorio Pa'u",
@@ -57541,7 +58603,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Oricorio Sensu",
@@ -57684,7 +58748,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Alolan Sandshrew",
@@ -57839,6 +58905,10 @@
       "Swagger",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "alolan-sandslash"
     ]
   },
   {
@@ -58011,7 +59081,9 @@
       "Swagger",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "alolan-sandshrew",
+    "evolves_to": []
   },
   {
     "name": "Own Tempo Rockruff",
@@ -58132,7 +59204,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Midnight Lycanroc",
@@ -58283,7 +59357,9 @@
       "Swagger",
       "Swords Dance",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Dusk Lycanroc",
@@ -58428,7 +59504,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "rockruff-own-tempo-rockruff",
+    "evolves_to": []
   },
   {
     "name": "Paldean Wooper",
@@ -58545,7 +59623,9 @@
       "Mud-Slap",
       "Rock Slide",
       "Sleep Talk"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Alolan Vulpix",
@@ -58706,6 +59786,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "alolan-ninetales"
     ]
   },
   {
@@ -58891,7 +59975,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": "alolan-vulpix",
+    "evolves_to": []
   },
   {
     "name": "Hero Palafin",
@@ -59042,7 +60128,9 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Hisuian Zorua",
@@ -59173,6 +60261,10 @@
       "Psych Up",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "hisuian-zoroark"
     ]
   },
   {
@@ -59320,7 +60412,9 @@
       "Swords Dance",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "hisuian-zorua",
+    "evolves_to": []
   },
   {
     "name": "Hisuian Sneasel",
@@ -59454,6 +60548,10 @@
       "Sleep Talk",
       "Swift",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "sneasler"
     ]
   },
   {
@@ -59596,7 +60694,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Galarian Meowth",
@@ -59724,7 +60824,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Alolan Persian",
@@ -59890,7 +60992,9 @@
       "Swagger",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Galarian Ponyta",
@@ -60002,7 +61106,9 @@
       "Sleep Talk",
       "Snore",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Galarian Rapidash",
@@ -60121,7 +61227,9 @@
       "Snore",
       "Swift",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Galarian Corsola",
@@ -60260,6 +61368,10 @@
       "Rollout",
       "Sleep Talk",
       "Snore"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "cursola"
     ]
   },
   {
@@ -60409,7 +61521,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Basculin Blue?",
@@ -60558,7 +61672,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Basculegion F",
@@ -60707,7 +61823,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": "basculin-white",
+    "evolves_to": []
   },
   {
     "name": "Eternal Flower Floette",
@@ -60835,7 +61953,9 @@
       "Snore",
       "Swagger",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Galarian Zigzagoon",
@@ -60955,7 +62075,9 @@
       "Snore",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Galarian Linoone",
@@ -61092,7 +62214,9 @@
       "Snore",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Hisuian Sliggoo?",
@@ -61225,6 +62349,10 @@
       "Endure",
       "Rock Slide",
       "Sleep Talk"
+    ],
+    "evolves_from": "goomy",
+    "evolves_to": [
+      "hisuian-goodra"
     ]
   },
   {
@@ -61367,7 +62495,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "hisuian-sliggoo",
+    "evolves_to": []
   },
   {
     "name": "Hisuian Voltorb",
@@ -61473,7 +62603,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Hisuian Electrode",
@@ -61584,7 +62716,9 @@
       "Sleep Talk",
       "Swift",
       "Thunder Wave"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Hisuian Growlithe",
@@ -61715,6 +62849,10 @@
       "Rock Slide",
       "Sleep Talk",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "hisuian-arcanine"
     ]
   },
   {
@@ -61828,7 +62966,9 @@
     ],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": "hisuian-growlithe",
+    "evolves_to": []
   },
   {
     "name": "Hisuian Braviary",
@@ -61977,7 +63117,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Swift"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ogerpon Cornerstone",
@@ -62104,7 +63246,9 @@
       "Endure",
       "Sleep Talk",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ogerpon Hearthflame",
@@ -62231,7 +63375,9 @@
       "Endure",
       "Sleep Talk",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Ogerpon Wellspring",
@@ -62358,7 +63504,9 @@
       "Endure",
       "Sleep Talk",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": null,
+    "evolves_to": []
   },
   {
     "name": "Chikorita",
@@ -62491,6 +63639,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "bayleef"
     ]
   },
   {
@@ -62647,6 +63799,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": "chikorita",
+    "evolves_to": [
+      "meganium"
     ]
   },
   {
@@ -62818,7 +63974,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "bayleef",
+    "evolves_to": []
   },
   {
     "name": "Cyndaquil",
@@ -62958,6 +64116,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "quilava"
     ]
   },
   {
@@ -63119,6 +64281,10 @@
       "Snore",
       "Swagger",
       "Swift"
+    ],
+    "evolves_from": "cyndaquil",
+    "evolves_to": [
+      "typhlosion"
     ]
   },
   {
@@ -63311,7 +64477,9 @@
       "Swagger",
       "Swift",
       "Thunder Punch"
-    ]
+    ],
+    "evolves_from": "quilava",
+    "evolves_to": []
   },
   {
     "name": "Totodile",
@@ -63465,6 +64633,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": null,
+    "evolves_to": [
+      "croconaw"
     ]
   },
   {
@@ -63632,6 +64804,10 @@
       "Snore",
       "Swagger",
       "Swords Dance"
+    ],
+    "evolves_from": "totodile",
+    "evolves_to": [
+      "feraligatr"
     ]
   },
   {
@@ -63811,7 +64987,9 @@
       "Snore",
       "Swagger",
       "Swords Dance"
-    ]
+    ],
+    "evolves_from": "croconaw",
+    "evolves_to": []
   },
   {
     "name": "Paldean Tauros A?",
@@ -63843,6 +65021,8 @@
     "level_up_moves": [],
     "egg_moves": [],
     "tm_moves": [],
-    "tutor_moves": []
+    "tutor_moves": [],
+    "evolves_from": null,
+    "evolves_to": []
   }
 ]

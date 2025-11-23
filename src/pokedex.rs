@@ -26,6 +26,10 @@ pub struct PokemonEntry {
     pub tm_moves: Vec<String>,
     #[serde(default)]
     pub tutor_moves: Vec<String>,
+    #[serde(default)]
+    pub evolves_from: Option<String>,
+    #[serde(default)]
+    pub evolves_to: Vec<String>,
 }
 
 #[derive(Debug, Deserialize, Clone)]

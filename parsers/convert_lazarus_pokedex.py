@@ -5,7 +5,7 @@ import argparse
 import csv
 import json
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 
 def slugify(name: str) -> str:
@@ -45,6 +45,15 @@ def parse_move_list(values: List[str], is_level: bool = False) -> List[Any]:
         else:
             moves.append(raw)
     return moves
+
+
+def infer_evolves_from(location: str) -> Optional[str]:
+    if "(evolve" not in location.lower():
+        return None
+    prefix = location.split("(evolve", 1)[0].strip().strip(",")
+    if not prefix:
+        return None
+    return slugify(prefix)
 
 
 def parse_row(row: List[str]) -> Dict[str, Any]:
@@ -87,6 +96,8 @@ def parse_row(row: List[str]) -> Dict[str, Any]:
         "egg_moves": parse_move_list(egg_moves_range),
         "tm_moves": parse_move_list(tm_range),
         "tutor_moves": parse_move_list(tutor_range),
+        "evolves_from": None,
+        "evolves_to": [],
     }
 
 
@@ -115,6 +126,16 @@ def main() -> None:
         entry = parse_row(row)
         if entry:
             entries.append(entry)
+
+    # Infer evolution links based on location hints like "Dartrix (evolve)".
+    slug_map = {e["slug"]: e for e in entries}
+    for entry in entries:
+        loc = entry.get("location", "")
+        evolve_from = infer_evolves_from(loc)
+        if evolve_from:
+            entry["evolves_from"] = evolve_from
+            if evolve_from in slug_map:
+                slug_map[evolve_from].setdefault("evolves_to", []).append(entry["slug"])
 
     out_path.write_text(json.dumps(entries, indent=2), encoding="utf-8")
 
