@@ -4,13 +4,17 @@
 import argparse
 import csv
 import json
+import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 
 def slugify(name: str) -> str:
+    normalized = unicodedata.normalize("NFKD", name)
     slug = []
-    for ch in name.strip().lower():
+    for ch in normalized.lower():
+        if unicodedata.category(ch) == "Mn":
+            continue
         if ch.isalnum():
             slug.append(ch)
         elif ch in {" ", "_", "-"}:

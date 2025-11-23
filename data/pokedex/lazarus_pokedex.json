@@ -6959,7 +6959,7 @@
     ],
     "evolves_from": "nincada",
     "evolves_to": [
-      "pok\u00e9ball"
+      "pokeball"
     ]
   },
   {
@@ -7103,7 +7103,7 @@
       "50",
       "Erratic"
     ],
-    "evolves_from": "pok\u00e9ball",
+    "evolves_from": "pokeball",
     "evolves_to": []
   },
   {
@@ -48872,7 +48872,7 @@
   },
   {
     "name": "Flab\u00e9b\u00e9",
-    "slug": "flab\u00e9b\u00e9",
+    "slug": "flabebe",
     "dex": 312,
     "types": [
       "Fairy"
@@ -49139,7 +49139,7 @@
       "50",
       "Medium Fast"
     ],
-    "evolves_from": "flab\u00e9b\u00e9",
+    "evolves_from": "flabebe",
     "evolves_to": [
       "florges"
     ]

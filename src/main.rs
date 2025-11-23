@@ -117,15 +117,13 @@ fn render_type_chart() {
 fn render_pokemon_card(pokedex_path: PathBuf, manifest: PathBuf, identifier: String) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
     let encounter_map = encounters::species_encounters_map(&manifest)?;
-    for candidate in candidate_identifiers(&identifier) {
-        if let Some(entry) = dex.find(&candidate) {
-            let chain = dex.evolution_chain(&entry.slug);
-            print!(
-                "{}",
-                pokemon_card::render_deck(&chain, &entry.slug, &encounter_map)
-            );
-            return Ok(());
-        }
+    if let Some((entry, _slug_used)) = find_entry(&dex, &identifier) {
+        let chain = dex.evolution_chain(&entry.slug);
+        print!(
+            "{}",
+            pokemon_card::render_deck(&chain, &entry.slug, &encounter_map)
+        );
+        return Ok(());
     }
     anyhow::bail!("No Pokémon species named {identifier} found in cache")
 }
@@ -144,14 +142,14 @@ fn render_all_pokemon_cards(
     for (idx, name) in species.into_iter().enumerate() {
         println!("Generating card {}/{}: {}", idx + 1, total, name);
         let slug = encounters::slugify(&name);
-        if let Some(entry) = dex.get_by_slug(&slug) {
+        if let Some((entry, used_slug)) = find_entry(&dex, &name) {
             let path = out_dir.join(format!("{slug}.md"));
-            let chain = dex.evolution_chain(&slug);
+            let chain = dex.evolution_chain(&entry.slug);
             std::fs::write(
                 path,
                 pokemon_card::render_deck(&chain, &entry.slug, &encounter_map),
             )?;
-            index_entries.push((slug, entry.name.clone()));
+            index_entries.push((used_slug, entry.name.clone()));
         } else {
             eprintln!("Failed to generate card for {}; writing placeholder", name);
             let path = out_dir.join(format!("{slug}.md"));
@@ -200,6 +198,43 @@ fn candidate_identifiers(name: &str) -> Vec<String> {
     ids.sort();
     ids.dedup();
     ids
+}
+
+fn find_entry<'a>(
+    dex: &'a pokedex::LazarusPokedex,
+    name: &str,
+) -> Option<(&'a pokedex::PokemonEntry, String)> {
+    let slug = encounters::slugify(name);
+    if let Some(entry) = dex.get_by_slug(&slug) {
+        return Some((entry, slug));
+    }
+    if let Some(alias) = alias_slug(&slug) {
+        if let Some(entry) = dex.get_by_slug(&alias) {
+            return Some((entry, alias));
+        }
+    }
+    for candidate in candidate_identifiers(name) {
+        if let Some(entry) = dex.find(&candidate) {
+            return Some((entry, entry.slug.clone()));
+        }
+    }
+    None
+}
+
+fn alias_slug(slug: &str) -> Option<String> {
+    match slug {
+        "flabebe-blue-flower"
+        | "flabebe-orange-flower"
+        | "flabebe-red-flower"
+        | "flabebe-white-flower"
+        | "flabebe-yellow-flower" => Some("flabebe".to_string()),
+        "hisuian-sliggo" => Some("sliggoo-hisui".to_string()),
+        "hisuian-sliggoo" => Some("hisuian-sliggoo".to_string()),
+        "hisuian-sligoo" => Some("hisuian-sliggoo".to_string()),
+        "white-striped-basculin" => Some("basculin-white".to_string()),
+        "unovan-basculin" => Some("basculin-red".to_string()),
+        _ => None,
+    }
 }
 
 fn write_index(out_dir: &PathBuf, title: &str, entries: &[(String, String)]) -> Result<()> {

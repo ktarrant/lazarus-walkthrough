@@ -1,3 +1,108 @@
-## Minior Indigo Core
+## Minior (#154)
+<details class="pokemon-card-container" open>
+<summary>Minior overview</summary>
+Types: Rock / Flying • Egg Groups: Mineral
 
-_Data for this form is not available in the local cache._
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Shields Down
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Fire (0.5×)
+- Poison (0.5×)
+- Ground (0×)
+- Flying (0.5×)
+- Bug (0.5×)
+
+*Weak to*
+- Water (2×)
+- Electric (2×)
+- Ice (2×)
+- Rock (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM16 - Light Screen
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Bulldoze
+- TM54 - Dazzling Gleam
+
+**Held Item**
+Star Piece
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-high">120</span> |
+| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-high">120</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
+
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Defense Curl (Lv 3)
+- Rollout (Lv 8)
+- Confuse Ray (Lv 10)
+- Gust (Lv 13)
+- Swift (Lv 16)
+- Ancient Power (Lv 17)
+- Self-Destruct (Lv 22)
+- Stealth Rock (Lv 24)
+- Acrobatics (Lv 27)
+- Take Down (Lv 29)
+- Autotomize (Lv 31)
+- Cosmic Power (Lv 34)
+- Power Gem (Lv 37)
+- Dazzling Gleam (Lv 40)
+- Double-Edge (Lv 43)
+- Shell Smash (Lv 45)
+- Explosion (Lv 50)
+
+**Egg Moves**
+- Incompatible
+
+**Tutor Moves**
+- Defense Curl
+- Double-Edge
+- Endure
+- Explosion
+- Psych Up
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 774
+- 1 Def, 1 Sp. Def
+- 0.3
+- 40.0
+- 154
+- 30
+- 25
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
