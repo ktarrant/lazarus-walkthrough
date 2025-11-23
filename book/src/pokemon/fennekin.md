@@ -1,7 +1,7 @@
 ## Fennekin (#013)
 <details class="pokemon-card-container" open>
 <summary>Fennekin overview</summary>
-Types: Fire • Egg Groups: Field • Found: Starter, 135 Unique Species (event) Sea of Asteri (wild)
+Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,28 @@ Types: Fire • Egg Groups: Field • Found: Starter, 135 Unique Species (event)
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM29 - Psychic
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM50 - Overheat
+- HM01 - Cut
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Night) (5%)
@@ -61,13 +83,21 @@ Types: Fire • Egg Groups: Field • Found: Starter, 135 Unique Species (event)
 - Fire Blast (Lv 48)
 
 **Egg Moves**
-Wish, Hypnosis, Heat Wave, Magic Coat, Psychic Terrain
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM29 - Psychic, TM32 - Double Team, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM50 - Overheat, HM01 - Cut
+- Wish
+- Hypnosis
+- Heat Wave
+- Magic Coat
+- Psychic Terrain
 
 **Tutor Moves**
-Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

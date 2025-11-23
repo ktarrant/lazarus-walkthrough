@@ -1,7 +1,7 @@
 ## Dusclops (#372)
 <details class="pokemon-card-container" open>
 <summary>Dusclops overview</summary>
-Types: Ghost • Egg Groups: Amorphous • Found: The Nyx Trails (wild)
+Types: Ghost • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,34 @@ Types: Ghost • Egg Groups: Amorphous • Found: The Nyx Trails (wild)
 *Weak to*
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 30
@@ -70,13 +98,38 @@ Lv. 30
 - Future Sight (Lv 54)
 
 **Egg Moves**
-Imprison, Destiny Bond, Pain Split, Grudge, Memento, Feint Attack, Ominous Wind, Dark Pulse, Skill Swap, Haze
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Imprison
+- Destiny Bond
+- Pain Split
+- Grudge
+- Memento
+- Feint Attack
+- Ominous Wind
+- Dark Pulse
+- Skill Swap
+- Haze
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dream Eater, Dynamic Punch, Endure, Fire Punch, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Thunder Punch
+- Body Slam
+- Counter
+- Double-Edge
+- Dream Eater
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Punch
 </div>
 </div>
 </details>

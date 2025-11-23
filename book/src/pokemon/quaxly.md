@@ -1,7 +1,7 @@
 ## Quaxly (#025)
 <details class="pokemon-card-container" open>
 <summary>Quaxly overview</summary>
-Types: Water • Egg Groups: Flying / Water 1 • Found: Starter, 170 Unique Species (event) Sea of Vulcai (wild)
+Types: Water • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,14 @@ Types: Water • Egg Groups: Flying / Water 1 • Found: Starter, 170 Unique Spe
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- HM03 - Surf
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -53,13 +61,16 @@ Types: Water • Egg Groups: Flying / Water 1 • Found: Starter, 170 Unique Spe
 - Liquidation (Lv 35)
 
 **Egg Moves**
-Detect, Last Resort, Rapid Spin, Roost
-
-**TM/HM Moves**
-TM17 - Protect, TM18 - Rain Dance, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, HM03 - Surf
+- Detect
+- Last Resort
+- Rapid Spin
+- Roost
 
 **Tutor Moves**
-Endure, Psych Up, Sleep Talk, Swift
+- Endure
+- Psych Up
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

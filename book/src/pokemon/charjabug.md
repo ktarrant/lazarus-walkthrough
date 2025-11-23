@@ -1,7 +1,7 @@
 ## Charjabug (#049)
 <details class="pokemon-card-container" open>
 <summary>Charjabug overview</summary>
-Types: Bug / Electric • Egg Groups: Bug • Found: Sea of Asteri, Kaptara Island (wild)
+Types: Bug / Electric • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,20 @@ Types: Bug / Electric • Egg Groups: Bug • Found: Sea of Asteri, Kaptara Isla
 *Weak to*
 - Fire (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Evolution Info**
 Lv. 20
@@ -59,13 +73,18 @@ Lv. 20
 - Iron Defense (Lv 49)
 
 **Egg Moves**
-Harden, Electroweb, Mud Shot, Endure
-
-**TM/HM Moves**
-TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Harden
+- Electroweb
+- Mud Shot
+- Endure
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Thunder Wave
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

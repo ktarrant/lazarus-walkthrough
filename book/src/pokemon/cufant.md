@@ -1,7 +1,7 @@
 ## Cufant (#196)
 <details class="pokemon-card-container" open>
 <summary>Cufant overview</summary>
-Types: Steel / Normal • Egg Groups: Field / Mineral • Found: Riverwalk Trail S, Sea of Asteri (wild)
+Types: Steel / Normal • Egg Groups: Field / Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -30,6 +30,19 @@ Types: Steel / Normal • Egg Groups: Field / Mineral • Found: Riverwalk Trail
 - Fire (2×)
 - Fighting (4×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM17 - Protect
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Riverwalk Trail (South) — Grass (Day) (5%)
@@ -70,13 +83,26 @@ Types: Steel / Normal • Egg Groups: Field / Mineral • Found: Riverwalk Trail
 - Superpower (Lv 55)
 
 **Egg Moves**
-Double-Edge, Belch, Curse, Slam, Fissure, Swagger, Whirlwind, Defense Curl
-
-**TM/HM Moves**
-TM17 - Protect, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM06 - Rock Smash
+- Double-Edge
+- Belch
+- Curse
+- Slam
+- Fissure
+- Swagger
+- Whirlwind
+- Defense Curl
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Mega Kick, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Mega Kick
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

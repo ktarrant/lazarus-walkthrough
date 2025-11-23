@@ -1,7 +1,7 @@
 ## Galarian Corsola (#234)
 <details class="pokemon-card-container" open>
 <summary>Galarian Corsola overview</summary>
-Types: Ghost / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Marmaro Island, Myrrini Island
+Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,30 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Mar
 - Ghost (2×)
 - Dark (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
 
 **Encounter Locations**
 - Kipos Town — Surfing (5%)
@@ -65,13 +89,20 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Mar
 - Mirror Coat (Lv 55)
 
 **Egg Moves**
-Haze, Confuse Ray, Nature Power, Destiny Bond, Water Pulse, Head Smash
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM04 - Calm Mind, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf
+- Haze
+- Confuse Ray
+- Nature Power
+- Destiny Bond
+- Water Pulse
+- Head Smash
 
 **Tutor Moves**
-Body Slam, Endure, Icy Wind, Rollout, Sleep Talk, Snore
+- Body Slam
+- Endure
+- Icy Wind
+- Rollout
+- Sleep Talk
+- Snore
 </div>
 </div>
 </details>

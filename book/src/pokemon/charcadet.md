@@ -1,7 +1,7 @@
 ## Charcadet (#282)
 <details class="pokemon-card-container" open>
 <summary>Charcadet overview</summary>
-Types: Fire • Egg Groups: Human-Like • Found: Sea of Asteri, Sea of Vulcai (wild)
+Types: Fire • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,15 @@ Types: Fire • Egg Groups: Human-Like • Found: Sea of Asteri, Sea of Vulcai (
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM50 - Overheat
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Day) (5%)
@@ -56,13 +65,13 @@ Types: Fire • Egg Groups: Human-Like • Found: Sea of Asteri, Sea of Vulcai (
 - Lava Plume (Lv 32)
 
 **Egg Moves**
-Destiny Bond, Disable, Spite
-
-**TM/HM Moves**
-TM11 - Sunny Day, TM17 - Protect, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM50 - Overheat
+- Destiny Bond
+- Disable
+- Spite
 
 **Tutor Moves**
-Endure, Sleep Talk
+- Endure
+- Sleep Talk
 </div>
 </div>
 </details>

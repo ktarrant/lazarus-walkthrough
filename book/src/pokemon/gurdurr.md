@@ -1,7 +1,7 @@
 ## Gurdurr (#115)
 <details class="pokemon-card-container" open>
 <summary>Gurdurr overview</summary>
-Types: Fighting • Egg Groups: Human-Like • Found: Palati City, The Stygian Caves (wild)
+Types: Fighting • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,25 @@ Types: Fighting • Egg Groups: Human-Like • Found: Palati City, The Stygian C
 - Flying (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 25
@@ -62,13 +81,33 @@ Lv. 25
 - Superpower (Lv 50)
 
 **Egg Moves**
-Drain Punch, Endure, Counter, Comet Punch, Foresight, Smelling Salts, Detect, Wide Guard, Force Palm, Reversal, Mach Punch, Power-Up Punch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM04 - Strength, HM06 - Rock Smash
+- Drain Punch
+- Endure
+- Counter
+- Comet Punch
+- Foresight
+- Smelling Salts
+- Detect
+- Wide Guard
+- Force Palm
+- Reversal
+- Mach Punch
+- Power-Up Punch
 
 **Tutor Moves**
-Counter, Double-Edge, Dynamic Punch, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Rock Slide, Sleep Talk, Snore, Swagger, Thunder Punch
+- Counter
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Punch
 </div>
 </div>
 </details>

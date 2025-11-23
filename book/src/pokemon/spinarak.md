@@ -1,7 +1,7 @@
 ## Spinarak (#177)
 <details class="pokemon-card-container" open>
 <summary>Spinarak overview</summary>
-Types: Bug / Poison • Egg Groups: Bug • Found: Acrisia Mountains Peak, Erinys Path E (wild)
+Types: Bug / Poison • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,22 @@ Types: Bug / Poison • Egg Groups: Bug • Found: Acrisia Mountains Peak, Eriny
 - Flying (2×)
 - Psychic (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM29 - Psychic
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (20%)
@@ -62,13 +78,27 @@ Types: Bug / Poison • Egg Groups: Bug • Found: Acrisia Mountains Peak, Eriny
 - Sticky Web (Lv 50)
 
 **Egg Moves**
-Psybeam, Disable, Sonic Boom, Baton Pass, Pursuit, Signal Beam, Toxic Spikes, Twineedle, Electroweb, Rage Powder, Night Slash, Megahorn, Lunge
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM29 - Psychic, TM32 - Double Team, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM05 - Flash
+- Psybeam
+- Disable
+- Sonic Boom
+- Baton Pass
+- Pursuit
+- Signal Beam
+- Toxic Spikes
+- Twineedle
+- Electroweb
+- Rage Powder
+- Night Slash
+- Megahorn
+- Lunge
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

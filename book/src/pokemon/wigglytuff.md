@@ -1,7 +1,7 @@
 ## Wigglytuff (#297)
 <details class="pokemon-card-container" open>
 <summary>Wigglytuff overview</summary>
-Types: Normal / Fairy • Egg Groups: Fairy • Found: Port Pello (wild)
+Types: Normal / Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,44 @@ Types: Normal / Fairy • Egg Groups: Fairy • Found: Port Pello (wild)
 *Weak to*
 - Poison (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- TM57 - Dazzling Gleam
+- TM58 - Play Rough
+- HM04 - Strength
+- HM05 - Flash
 
 **Evolution Info**
 Moon Stone
@@ -64,13 +102,44 @@ Moon Stone
 - Double-Edge (Lv 45)
 
 **Egg Moves**
-Perish Song, Present, Feint Attack, Wish, Fake Tears, Last Resort, Covet, Gravity, Sleep Talk, Captivate, Punishment, Misty Terrain, Heal Pulse
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, TM57 - Dazzling Gleam, TM58 - Play Rough, HM04 - Strength, HM05 - Flash
+- Perish Song
+- Present
+- Feint Attack
+- Wish
+- Fake Tears
+- Last Resort
+- Covet
+- Gravity
+- Sleep Talk
+- Captivate
+- Punishment
+- Misty Terrain
+- Heal Pulse
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dream Eater, Dynamic Punch, Endure, Fire Punch, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Rollout, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Rollout
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

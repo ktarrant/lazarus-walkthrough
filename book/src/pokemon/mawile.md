@@ -1,7 +1,7 @@
 ## Mawile (#104)
 <details class="pokemon-card-container" open>
 <summary>Mawile overview</summary>
-Types: Steel / Fairy • Egg Groups: Field / Fairy • Found: Acrisia Mountains, The Stygian Caves (wild)
+Types: Steel / Fairy • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -28,6 +28,38 @@ Types: Steel / Fairy • Egg Groups: Field / Fairy • Found: Acrisia Mountains,
 *Weak to*
 - Fire (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- TM51 - Poison Fang
+- TM52 - Thunder Fang
+- TM53 - Ice Fang
+- TM54 - Fire Fang
+- TM55 - Psychic Fangs
+- TM58 - Play Rough
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (5%)
@@ -76,13 +108,41 @@ Types: Steel / Fairy • Egg Groups: Field / Fairy • Found: Acrisia Mountains,
 - Play Rough (Lv 49)
 
 **Egg Moves**
-Poison Fang, Ancient Power, Tickle, Sucker Punch, Ice Fang, Fire Fang, Thunder Fang, Punishment, Guard Swap, Captivate, Slam, Metal Burst, Misty Terrain, Seismic Toss, Power-Up Punch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, TM51 - Poison Fang, TM52 - Thunder Fang, TM53 - Ice Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, TM58 - Play Rough, HM04 - Strength, HM06 - Rock Smash
+- Poison Fang
+- Ancient Power
+- Tickle
+- Sucker Punch
+- Ice Fang
+- Fire Fang
+- Thunder Fang
+- Punishment
+- Guard Swap
+- Captivate
+- Slam
+- Metal Burst
+- Misty Terrain
+- Seismic Toss
+- Power-Up Punch
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dynamic Punch, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mud-Slap, Psych Up, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Punch
+- Body Slam
+- Counter
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
+- Thunder Punch
 </div>
 </div>
 </details>

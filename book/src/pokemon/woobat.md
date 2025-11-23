@@ -1,7 +1,7 @@
 ## Woobat (#109)
 <details class="pokemon-card-container" open>
 <summary>Woobat overview</summary>
-Types: Psychic / Flying • Egg Groups: Field / Flying • Found: Acrisia Mountains, Jusmail Town (wild)
+Types: Psychic / Flying • Egg Groups: Field / Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,31 @@ Types: Psychic / Flying • Egg Groups: Field / Flying • Found: Acrisia Mounta
 - Rock (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM48 - Skill Swap
+- HM02 - Fly
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -62,13 +87,28 @@ Types: Psychic / Flying • Egg Groups: Field / Flying • Found: Acrisia Mounta
 - Endeavor (Lv 47)
 
 **Egg Moves**
-Charm, Knock Off, Fake Tears, Supersonic, Synchronoise, Stored Power, Roost, Flatter, Helping Hand, Captivate, Venom Drench, Psycho Shift
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM48 - Skill Swap, HM02 - Fly, HM05 - Flash
+- Charm
+- Knock Off
+- Fake Tears
+- Supersonic
+- Synchronoise
+- Stored Power
+- Roost
+- Flatter
+- Helping Hand
+- Captivate
+- Venom Drench
+- Psycho Shift
 
 **Tutor Moves**
-Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Dream Eater
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Poliwhirl (#119)
 <details class="pokemon-card-container" open>
 <summary>Poliwhirl overview</summary>
-Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery, Froslass Cavern? (SR)(fish)
+Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,30 @@ Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery, Froslass Caver
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 25
@@ -59,13 +83,38 @@ Lv. 25
 - Mud Bomb (Lv 53)
 
 **Egg Moves**
-Mist, Splash, Bubble Beam, Haze, Mind Reader, Water Sport, Ice Ball, Mud Shot, Refresh, Endeavor, Encore, Endure, Water Pulse
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM31 - Brick Break, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Mist
+- Splash
+- Bubble Beam
+- Haze
+- Mind Reader
+- Water Sport
+- Ice Ball
+- Mud Shot
+- Refresh
+- Endeavor
+- Encore
+- Endure
+- Water Pulse
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Seismic Toss, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

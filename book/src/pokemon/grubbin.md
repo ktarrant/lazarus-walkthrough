@@ -1,7 +1,7 @@
 ## Grubbin (#048)
 <details class="pokemon-card-container" open>
 <summary>Grubbin overview</summary>
-Types: Bug • Egg Groups: Bug • Found: Bronze Fields N, Bronze Fields S (wild)
+Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,19 @@ Types: Bug • Egg Groups: Bug • Found: Bronze Fields N, Bronze Fields S (wild
 - Fire (2×)
 - Flying (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM28 - Dig
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (10%)
@@ -52,13 +65,18 @@ Types: Bug • Egg Groups: Bug • Found: Bronze Fields N, Bronze Fields S (wild
 - Dig (Lv 28)
 
 **Egg Moves**
-Harden, Electroweb, Mud Shot, Endure
-
-**TM/HM Moves**
-TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Harden
+- Electroweb
+- Mud Shot
+- Endure
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Thunder Wave
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

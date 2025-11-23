@@ -1,7 +1,7 @@
 ## Crawdaunt (#378)
 <details class="pokemon-card-container" open>
 <summary>Crawdaunt overview</summary>
-Types: Water / Dark • Egg Groups: Water 1 / Water 3 • Found: Corphish (evolve)
+Types: Water / Dark • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,33 @@ Types: Water / Dark • Egg Groups: Water 1 / Water 3 • Found: Corphish (evolv
 - Fighting (2×)
 - Bug (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 30
@@ -68,13 +95,34 @@ Lv. 30
 - Guillotine (Lv 54)
 
 **Egg Moves**
-Mud Sport, Endeavor, Body Slam, Ancient Power, Knock Off, Superpower, Metal Claw, Dragon Dance, Trump Card, Chip Away, Double-Edge, Aqua Jet, Switcheroo
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Mud Sport
+- Endeavor
+- Body Slam
+- Ancient Power
+- Knock Off
+- Superpower
+- Metal Claw
+- Dragon Dance
+- Trump Card
+- Chip Away
+- Double-Edge
+- Aqua Jet
+- Switcheroo
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Fury Cutter
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

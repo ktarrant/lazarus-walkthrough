@@ -1,7 +1,7 @@
 ## Voltorb (#343)
 <details class="pokemon-card-container" open>
 <summary>Voltorb overview</summary>
-Types: Electric • Egg Groups: Mineral • Found: Jusmail Town, Sea of Vulcai (wild)
+Types: Electric • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,24 @@ Types: Electric • Egg Groups: Mineral • Found: Jusmail Town, Sea of Vulcai (
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM59 - Volt Switch
+- HM05 - Flash
 
 **Encounter Locations**
 - Jusmail Town — Grass (Night) (10%)
@@ -56,11 +74,16 @@ Types: Electric • Egg Groups: Mineral • Found: Jusmail Town, Sea of Vulcai (
 - Gyro Ball (Lv 46)
 - Mirror Coat (Lv 48)
 
-**TM/HM Moves**
-TM06 - Toxic, TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM59 - Volt Switch, HM05 - Flash
-
 **Tutor Moves**
-Double-Edge, Endure, Explosion, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Double-Edge
+- Endure
+- Explosion
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

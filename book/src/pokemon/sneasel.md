@@ -1,7 +1,7 @@
 ## Sneasel (#200)
 <details class="pokemon-card-container" open>
 <summary>Sneasel overview</summary>
-Types: Dark / Ice • Egg Groups: Field • Found: Froslass Cavern (wild)
+Types: Dark / Ice • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,36 @@ Types: Dark / Ice • Egg Groups: Field • Found: Froslass Cavern (wild)
 - Rock (2×)
 - Steel (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Froslass Cavern F1 — Grass (Day) (20%)
@@ -64,13 +94,42 @@ Types: Dark / Ice • Egg Groups: Field • Found: Froslass Cavern (wild)
 - Ice Shard (Lv 47)
 
 **Egg Moves**
-Counter, Spite, Foresight, Bite, Crush Claw, Fake Out, Double Hit, Punishment, Pursuit, Ice Shard, Ice Punch, Assist, Avalanche, Feint, Icicle Crash, Throat Chop
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+- Counter
+- Spite
+- Foresight
+- Bite
+- Crush Claw
+- Fake Out
+- Double Hit
+- Punishment
+- Pursuit
+- Ice Shard
+- Ice Punch
+- Assist
+- Avalanche
+- Feint
+- Icicle Crash
+- Throat Chop
 
 **Tutor Moves**
-Counter, Defense Curl, Double-Edge, Dream Eater, Endure, Fury Cutter, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Counter
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Endure
+- Fury Cutter
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

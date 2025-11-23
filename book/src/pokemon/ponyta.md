@@ -1,7 +1,7 @@
 ## Ponyta (#232)
 <details class="pokemon-card-container" open>
 <summary>Ponyta overview</summary>
-Types: Fire • Egg Groups: Field • Found: Riverwalk Trail N, Myrrini Island (wild)
+Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,23 @@ Types: Fire • Egg Groups: Field • Found: Riverwalk Trail N, Myrrini Island (
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM50 - Overheat
+- TM58 - Play Rough
+- HM04 - Strength
 
 **Encounter Locations**
 - Lastlight Road — Grass (Day) (10%)
@@ -60,13 +77,27 @@ Types: Fire • Egg Groups: Field • Found: Riverwalk Trail N, Myrrini Island (
 - Flare Blitz (Lv 49)
 
 **Egg Moves**
-Flame Wheel, Thrash, Double Kick, Hypnosis, Charm, Double-Edge, Horn Drill, Morning Sun, Low Kick, Captivate, Ally Switch, High Horsepower
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM22 - Solar Beam, TM23 - Iron Tail, TM32 - Double Team, TM33 - Reflect, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat, TM58 - Play Rough, HM04 - Strength
+- Flame Wheel
+- Thrash
+- Double Kick
+- Hypnosis
+- Charm
+- Double-Edge
+- Horn Drill
+- Morning Sun
+- Low Kick
+- Captivate
+- Ally Switch
+- High Horsepower
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

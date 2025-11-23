@@ -1,7 +1,7 @@
 ## Snom (#055)
 <details class="pokemon-card-container" open>
 <summary>Snom overview</summary>
-Types: Ice / Bug • Egg Groups: Bug • Found: Pythios Cemetery (wild)
+Types: Ice / Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,12 @@ Types: Ice / Bug • Egg Groups: Bug • Found: Pythios Cemetery (wild)
 - Flying (2×)
 - Rock (4×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM17 - Protect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Encounter Locations**
 - Froslass Cavern BF2 — Grass (Day) (5%)
@@ -45,13 +51,15 @@ Types: Ice / Bug • Egg Groups: Bug • Found: Pythios Cemetery (wild)
 - Sticky Web (Lv 15)
 
 **Egg Moves**
-Fairy Wind, Mirror Coat, Bug Bite
-
-**TM/HM Moves**
-TM17 - Protect, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Fairy Wind
+- Mirror Coat
+- Bug Bite
 
 **Tutor Moves**
-Endure, Icy Wind, Sleep Talk, Snore
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
 </div>
 </div>
 </details>

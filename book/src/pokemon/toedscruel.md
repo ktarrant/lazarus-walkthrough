@@ -1,7 +1,7 @@
 ## Toedscruel (#138)
 <details class="pokemon-card-container" open>
 <summary>Toedscruel overview</summary>
-Types: Grass / Ground • Egg Groups: Grass • Found: Palati City (wild)
+Types: Grass / Ground • Egg Groups: Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,20 @@ Types: Grass / Ground • Egg Groups: Grass • Found: Palati City (wild)
 - Ice (4×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM33 - Reflect
+- TM36 - Sludge Bomb
+- TM44 - Rest
 
 **Evolution Info**
 Lv. 30
@@ -64,13 +78,20 @@ Lv. 30
 - Power Whip (Lv 50)
 
 **Egg Moves**
-Acupressure, Knock Off, Leech Seed, Mirror Coat, Rage Powder, Rapid Spin, Tickle, Toxic
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM12 - Taunt, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM33 - Reflect, TM36 - Sludge Bomb, TM44 - Rest
+- Acupressure
+- Knock Off
+- Leech Seed
+- Mirror Coat
+- Rage Powder
+- Rapid Spin
+- Tickle
+- Toxic
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Swift
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

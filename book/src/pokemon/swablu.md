@@ -1,7 +1,7 @@
 ## Swablu (#338)
 <details class="pokemon-card-container" open>
 <summary>Swablu overview</summary>
-Types: Fairy / Flying • Egg Groups: Flying / Dragon • Found: Marmaro Island, Sea of Vulcai (wild)
+Types: Fairy / Flying • Egg Groups: Flying / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,25 @@ Types: Fairy / Flying • Egg Groups: Flying / Dragon • Found: Marmaro Island,
 - Poison (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM57 - Dazzling Gleam
+- TM58 - Play Rough
+- HM02 - Fly
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (20%)
@@ -67,13 +86,29 @@ Types: Fairy / Flying • Egg Groups: Flying / Dragon • Found: Marmaro Island,
 - Moonblast (Lv 46)
 
 **Egg Moves**
-Agility, Haze, Pursuit, Rage, Feather Dance, Dragon Rush, Power Swap, Roost, Hyper Voice, Steel Wing, Play Rough
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM57 - Dazzling Gleam, TM58 - Play Rough, HM02 - Fly
+- Agility
+- Haze
+- Pursuit
+- Rage
+- Feather Dance
+- Dragon Rush
+- Power Swap
+- Roost
+- Hyper Voice
+- Steel Wing
+- Play Rough
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

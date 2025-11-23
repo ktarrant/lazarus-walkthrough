@@ -1,7 +1,7 @@
 ## Aipom (#129)
 <details class="pokemon-card-container" open>
 <summary>Aipom overview</summary>
-Types: Normal • Egg Groups: Field • Found: Wanderer`s Woods (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,34 @@ Types: Normal • Egg Groups: Field • Found: Wanderer`s Woods (wild)
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- TM60 - U-Turn
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Day) (20%)
@@ -54,13 +82,44 @@ Types: Normal • Egg Groups: Field • Found: Wanderer`s Woods (wild)
 - Population Bomb (Lv 49)
 
 **Egg Moves**
-Counter, Screech, Pursuit, Agility, Spite, Slam, Double Slap, Beat Up, Fake Out, Covet, Bounce, Revenge, Switcheroo, Quick Guard, Tail Slap
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM60 - U-Turn, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Counter
+- Screech
+- Pursuit
+- Agility
+- Spite
+- Slam
+- Double Slap
+- Beat Up
+- Fake Out
+- Covet
+- Bounce
+- Revenge
+- Switcheroo
+- Quick Guard
+- Tail Slap
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dream Eater, Dynamic Punch, Endure, Fire Punch, Fury Cutter, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Fury Cutter
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

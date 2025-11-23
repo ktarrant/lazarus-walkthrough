@@ -1,7 +1,7 @@
 ## Pikipek (#037)
 <details class="pokemon-card-container" open>
 <summary>Pikipek overview</summary>
-Types: Normal / Flying • Egg Groups: Flying • Found: Acrisia City, Bronze Fields N, Bronze Fields S (wild)
+Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,8 +23,21 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Acrisia City, Bronze Fi
 - Ice (2×)
 - Rock (2×)
 
-**Notable Held Item**
-Oran Berry
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- HM02 - Fly
+- HM06 - Rock Smash
 
 **Held Item**
 Oran Berry
@@ -63,13 +76,18 @@ Oran Berry
 - Hyper Voice (Lv 37)
 
 **Egg Moves**
-Brave Bird, Boomburst, Mirror Move, Tailwind, Uproar
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM17 - Protect, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, HM02 - Fly, HM06 - Rock Smash
+- Brave Bird
+- Boomburst
+- Mirror Move
+- Tailwind
+- Uproar
 
 **Tutor Moves**
-Endure, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

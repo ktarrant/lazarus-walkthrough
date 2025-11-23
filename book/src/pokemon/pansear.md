@@ -1,7 +1,7 @@
 ## Pansear (#030)
 <details class="pokemon-card-container" open>
 <summary>Pansear overview</summary>
-Types: Fire / Normal • Egg Groups: Field • Found: Acrisia City (wild)
+Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,28 @@ Types: Fire / Normal • Egg Groups: Field • Found: Acrisia City (wild)
 - Fighting (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM50 - Overheat
+- HM01 - Cut
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (5%)
@@ -65,13 +87,25 @@ Types: Fire / Normal • Egg Groups: Field • Found: Acrisia City (wild)
 - Burning Bulwark (Lv 46)
 
 **Egg Moves**
-Covet, Low Kick, Tickle, Nasty Plot, Role Play, Astonish, Sleep Talk, Fire Spin, Fire Punch, Heat Wave, Disarming Voice, Belch, Flare Blitz
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM22 - Solar Beam, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM35 - Flamethrower, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM50 - Overheat, HM01 - Cut, HM06 - Rock Smash
+- Covet
+- Low Kick
+- Tickle
+- Nasty Plot
+- Role Play
+- Astonish
+- Sleep Talk
+- Fire Spin
+- Fire Punch
+- Heat Wave
+- Disarming Voice
+- Belch
+- Flare Blitz
 
 **Tutor Moves**
-Fire Punch, Sleep Talk, Snore, Swagger
+- Fire Punch
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

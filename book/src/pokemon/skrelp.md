@@ -1,7 +1,7 @@
 ## Skrelp (#271)
 <details class="pokemon-card-container" open>
 <summary>Skrelp overview</summary>
-Types: Poison / Water • Egg Groups: Dragon / Water 1 • Found: Riverwalk Trail S, Kalami City (surf) Riverwalk Trail S, Kalami City (OR)(fish) Sea of Asteri
+Types: Poison / Water • Egg Groups: Dragon / Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,26 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1 • Found: Riverwalk Trai
 - Electric (2×)
 - Ground (2×)
 - Psychic (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Kalami City — Fishing (30%)
@@ -72,13 +92,19 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1 • Found: Riverwalk Trai
 - Dragon Pulse (Lv 46)
 
 **Egg Moves**
-Toxic Spikes, Play Rough, Haze, Acid Armor, Venom Drench
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Toxic Spikes
+- Play Rough
+- Haze
+- Acid Armor
+- Venom Drench
 
 **Tutor Moves**
-Endure, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger
+- Endure
+- Icy Wind
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

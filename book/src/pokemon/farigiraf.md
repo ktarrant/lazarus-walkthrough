@@ -1,7 +1,7 @@
 ## Farigiraf (#347)
 <details class="pokemon-card-container" open>
 <summary>Farigiraf overview</summary>
-Types: Normal / Psychic • Egg Groups: Field • Found: Corrin Crossing (wild)
+Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,28 @@ Types: Normal / Psychic • Egg Groups: Field • Found: Corrin Crossing (wild)
 *Weak to*
 - Bug (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Roar
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM55 - Psychic Fangs
+- TM56 - Stomping Tantrum
+- TM57 - Dazzling Gleam
 
 **Evolution Info**
 Lv. knows Twin Beam
@@ -61,13 +83,30 @@ Lv. knows Twin Beam
 - Hyper Voice (Lv 53)
 
 **Egg Moves**
-Take Down, Amnesia, Foresight, Future Sight, Beat Up, Wish, Magic Coat, Double Kick, Mirror Coat, Razor Wind, Skill Swap, Secret Power, Mean Look, Psychic Terrain, Psychic Fangs
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM05 - Roar, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM48 - Skill Swap, TM55 - Psychic Fangs, TM56 - Stomping Tantrum, TM57 - Dazzling Gleam
+- Take Down
+- Amnesia
+- Foresight
+- Future Sight
+- Beat Up
+- Wish
+- Magic Coat
+- Double Kick
+- Mirror Coat
+- Razor Wind
+- Skill Swap
+- Secret Power
+- Mean Look
+- Psychic Terrain
+- Psychic Fangs
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Psych Up, Sleep Talk, Swift, Thunder Wave
+- Body Slam
+- Double-Edge
+- Endure
+- Psych Up
+- Sleep Talk
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Omanyte (#171)
 <details class="pokemon-card-container" open>
 <summary>Omanyte overview</summary>
-Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path W (wild)
+Types: Rock / Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,27 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path W (
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)
@@ -60,13 +81,31 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path W (
 - Hydro Pump (Lv 55)
 
 **Egg Moves**
-Bubble Beam, Aurora Beam, Slam, Supersonic, Haze, Spikes, Knock Off, Wring Out, Toxic Spikes, Muddy Water, Bide, Water Pulse, Whirlpool, Reflect Type
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Bubble Beam
+- Aurora Beam
+- Slam
+- Supersonic
+- Haze
+- Spikes
+- Knock Off
+- Wring Out
+- Toxic Spikes
+- Muddy Water
+- Bide
+- Water Pulse
+- Whirlpool
+- Reflect Type
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

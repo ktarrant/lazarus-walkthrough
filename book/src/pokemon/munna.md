@@ -1,7 +1,7 @@
 ## Munna (#319)
 <details class="pokemon-card-container" open>
 <summary>Munna overview</summary>
-Types: Psychic • Egg Groups: Field • Found: Acrisia City, Corrin Crossing, Palati City (wild)
+Types: Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,26 @@ Types: Psychic • Egg Groups: Field • Found: Acrisia City, Corrin Crossing, P
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia City — Grass (Night) (10%)
@@ -62,13 +82,28 @@ Types: Psychic • Egg Groups: Field • Found: Acrisia City, Corrin Crossing, P
 - Hydro Steam (Lv 50)
 
 **Egg Moves**
-Sleep Talk, Secret Power, Barrier, Magic Coat, Helping Hand, Baton Pass, Swift, Curse, Sonic Boom, Healing Wish
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, HM05 - Flash
+- Sleep Talk
+- Secret Power
+- Barrier
+- Magic Coat
+- Helping Hand
+- Baton Pass
+- Swift
+- Curse
+- Sonic Boom
+- Healing Wish
 
 **Tutor Moves**
-Defense Curl, Dream Eater, Endure, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Defense Curl
+- Dream Eater
+- Endure
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

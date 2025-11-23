@@ -1,7 +1,7 @@
 ## Spheal (#189)
 <details class="pokemon-card-container" open>
 <summary>Spheal overview</summary>
-Types: Ice / Water • Egg Groups: Water 1 / Field • Found: Pythios Town (surf) Pythios Town (GR)(fish) Froslass Cavern
+Types: Ice / Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,27 @@ Types: Ice / Water • Egg Groups: Water 1 / Field • Found: Pythios Town (surf
 - Grass (2×)
 - Fighting (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Erinys Path (East) — Fishing (20%)
@@ -65,13 +86,32 @@ Types: Ice / Water • Egg Groups: Water 1 / Field • Found: Pythios Town (surf
 - Sheer Cold (Lv 46)
 
 **Egg Moves**
-Water Sport, Stockpile, Swallow, Spit Up, Yawn, Curse, Fissure, Signal Beam, Aqua Ring, Rollout, Sleep Talk, Water Pulse, Belly Drum
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Water Sport
+- Stockpile
+- Swallow
+- Spit Up
+- Yawn
+- Curse
+- Fissure
+- Signal Beam
+- Aqua Ring
+- Rollout
+- Sleep Talk
+- Water Pulse
+- Belly Drum
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Icy Wind, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

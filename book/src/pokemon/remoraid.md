@@ -1,7 +1,7 @@
 ## Remoraid (#363)
 <details class="pokemon-card-container" open>
 <summary>Remoraid overview</summary>
-Types: Water • Egg Groups: Water 1 / Water 2 • Found: Acrisia City, Acrisia Mountains, Riverwalk Trail N, Pythios Cemetery (surf) Acrisia City, Acrisia Mountains, Kalami City, Riverwalk Trail N, Riverwalk Trail S, Wanderer`s Woods, Pythios Town (SR)(fish) Froslass Cavern, Sea of Vulcai, Fresco Isles
+Types: Water • Egg Groups: Water 1 / Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,28 @@ Types: Water • Egg Groups: Water 1 / Water 2 • Found: Acrisia City, Acrisia 
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Acrisia City — Fishing (40%)
@@ -73,13 +95,32 @@ Types: Water • Egg Groups: Water 1 / Water 2 • Found: Acrisia City, Acrisia 
 - Soak (Lv 50)
 
 **Egg Moves**
-Aurora Beam, Octazooka, Supersonic, Haze, Screech, Rock Blast, Snore, Flail, Water Spout, Mud Shot, Swift, Acid Spray, Water Pulse, Entrainment
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM32 - Double Team, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Aurora Beam
+- Octazooka
+- Supersonic
+- Haze
+- Screech
+- Rock Blast
+- Snore
+- Flail
+- Water Spout
+- Mud Shot
+- Swift
+- Acid Spray
+- Water Pulse
+- Entrainment
 
 **Tutor Moves**
-Defense Curl, Double-Edge, Endure, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Defense Curl
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Dedenne (#259)
 <details class="pokemon-card-container" open>
 <summary>Dedenne overview</summary>
-Types: Electric / Fairy • Egg Groups: Fairy / Field • Found: Acrisia Mountains Peak, Asfal Hills, Marmaro Island, Kaptara Island (wild)
+Types: Electric / Fairy • Egg Groups: Fairy / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,27 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field • Found: Acrisia Mountai
 *Weak to*
 - Poison (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (10%)
@@ -64,13 +85,20 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field • Found: Acrisia Mountai
 - Discharge (Lv 50)
 
 **Egg Moves**
-Eerie Impulse, Covet, Helping Hand, Natural Gift, Tearful Look
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash
+- Eerie Impulse
+- Covet
+- Helping Hand
+- Natural Gift
+- Tearful Look
 
 **Tutor Moves**
-Endure, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

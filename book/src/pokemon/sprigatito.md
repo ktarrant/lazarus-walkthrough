@@ -1,7 +1,7 @@
 ## Sprigatito (#019)
 <details class="pokemon-card-container" open>
 <summary>Sprigatito overview</summary>
-Types: Grass • Egg Groups: Field / Grass • Found: Starter, 170 Unique Species (event) Sea of Vulcai (wild)
+Types: Grass • Egg Groups: Field / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,15 @@ Types: Grass • Egg Groups: Field / Grass • Found: Starter, 170 Unique Specie
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM09 - Bullet Seed
+- TM12 - Taunt
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM42 - Facade
+- TM44 - Rest
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -57,13 +66,17 @@ Types: Grass • Egg Groups: Field / Grass • Found: Starter, 170 Unique Specie
 - Play Rough (Lv 36)
 
 **Egg Moves**
-Ally Switch, Copycat, Leech Seed, Petal Blizzard, Sucker Punch
-
-**TM/HM Moves**
-TM09 - Bullet Seed, TM12 - Taunt, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM42 - Facade, TM44 - Rest
+- Ally Switch
+- Copycat
+- Leech Seed
+- Petal Blizzard
+- Sucker Punch
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Swift
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

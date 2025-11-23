@@ -1,7 +1,7 @@
 ## Banette (#128)
 <details class="pokemon-card-container" open>
 <summary>Banette overview</summary>
-Types: Ghost / Normal • Egg Groups: Amorphous • Found: The Nyx Trails (wild)
+Types: Ghost / Normal • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,29 @@ Types: Ghost / Normal • Egg Groups: Amorphous • Found: The Nyx Trails (wild)
 
 *Weak to*
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 28
@@ -68,13 +91,32 @@ Lv. 28
 - Phantom Force (Lv 54)
 
 **Egg Moves**
-Disable, Destiny Bond, Foresight, Astonish, Imprison, Pursuit, Shadow Sneak, Confuse Ray, Ominous Wind, Gunk Shot, Phantom Force
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+- Disable
+- Destiny Bond
+- Foresight
+- Astonish
+- Imprison
+- Pursuit
+- Shadow Sneak
+- Confuse Ray
+- Ominous Wind
+- Gunk Shot
+- Phantom Force
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Metronome, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Wave
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Metronome
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
+- Thunder Wave
 </div>
 </div>
 </details>

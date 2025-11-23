@@ -1,7 +1,7 @@
 ## Toedscool (#137)
 <details class="pokemon-card-container" open>
 <summary>Toedscool overview</summary>
-Types: Grass / Ground • Egg Groups: Grass • Found: Kalami City, Wanderer`s Woods, Palati City (wild)
+Types: Grass / Ground • Egg Groups: Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,8 +22,18 @@ Types: Grass / Ground • Egg Groups: Grass • Found: Kalami City, Wanderer`s W
 - Flying (2×)
 - Bug (2×)
 
-**Notable Held Item**
-Tiny Mushroom
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM33 - Reflect
+- TM36 - Sludge Bomb
+- TM44 - Rest
 
 **Held Item**
 Tiny Mushroom
@@ -70,13 +80,20 @@ Tiny Mushroom
 - Power Whip (Lv 50)
 
 **Egg Moves**
-Acupressure, Knock Off, Leech Seed, Mirror Coat, Rage Powder, Rapid Spin, Tickle, Toxic
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM33 - Reflect, TM36 - Sludge Bomb, TM44 - Rest
+- Acupressure
+- Knock Off
+- Leech Seed
+- Mirror Coat
+- Rage Powder
+- Rapid Spin
+- Tickle
+- Toxic
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Swift
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

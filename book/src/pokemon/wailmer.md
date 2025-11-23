@@ -1,7 +1,7 @@
 ## Wailmer (#238)
 <details class="pokemon-card-container" open>
 <summary>Wailmer overview</summary>
-Types: Water • Egg Groups: Field / Water 2 • Found: Port Pello, Sofos City, Sea of Asteri, Marmaro Island, Myrrini Island, Sea of Vulcai, Fresco Isles
+Types: Water • Egg Groups: Field / Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,27 @@ Types: Water • Egg Groups: Field / Water 2 • Found: Port Pello, Sofos City, 
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM05 - Roar
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (40%)
@@ -79,13 +100,30 @@ Types: Water • Egg Groups: Field / Water 2 • Found: Port Pello, Sofos City, 
 - Hard Press (Lv 53)
 
 **Egg Moves**
-Double-Edge, Thrash, Snore, Sleep Talk, Curse, Fissure, Tickle, Defense Curl, Body Slam, Aqua Ring, Soak, Zen Headbutt, Clear Smog
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Double-Edge
+- Thrash
+- Snore
+- Sleep Talk
+- Curse
+- Fissure
+- Tickle
+- Defense Curl
+- Body Slam
+- Aqua Ring
+- Soak
+- Zen Headbutt
+- Clear Smog
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Icy Wind, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Icy Wind
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

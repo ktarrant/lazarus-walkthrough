@@ -1,7 +1,7 @@
 ## Snover (#369)
 <details class="pokemon-card-container" open>
 <summary>Snover overview</summary>
-Types: Grass / Ice • Egg Groups: Grass / Monster • Found: Acrisia Mountains Peak, The Nyx Trails (wild)
+Types: Grass / Ice • Egg Groups: Grass / Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,27 @@ Types: Grass / Ice • Egg Groups: Grass / Monster • Found: Acrisia Mountains 
 - Bug (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM09 - Bullet Seed
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (10%)
@@ -63,13 +84,30 @@ Types: Grass / Ice • Egg Groups: Grass / Monster • Found: Acrisia Mountains 
 - Sheer Cold (Lv 46)
 
 **Egg Moves**
-Leech Seed, Magical Leaf, Seed Bomb, Growth, Double-Edge, Mist, Stomp, Skull Bash, Avalanche, Natural Gift, Bullet Seed
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM09 - Bullet Seed, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM30 - Shadow Ball, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+- Leech Seed
+- Magical Leaf
+- Seed Bomb
+- Growth
+- Double-Edge
+- Mist
+- Stomp
+- Skull Bash
+- Avalanche
+- Natural Gift
+- Bullet Seed
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Ice Punch, Icy Wind, Mega Punch, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Punch
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

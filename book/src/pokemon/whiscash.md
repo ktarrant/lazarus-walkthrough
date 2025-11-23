@@ -1,7 +1,7 @@
 ## Whiscash (#318)
 <details class="pokemon-card-container" open>
 <summary>Whiscash overview</summary>
-Types: Water / Ground • Egg Groups: Water 2 • Found: Riverwalk Trail S, Kalami City (SR)(fish)
+Types: Water / Ground • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,31 @@ Types: Water / Ground • Egg Groups: Water 2 • Found: Riverwalk Trail S, Kala
 
 *Weak to*
 - Grass (4×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 30
@@ -66,13 +91,28 @@ Lv. 30
 - Fissure (Lv 52)
 
 **Egg Moves**
-Thrash, Whirlpool, Spark, Hydro Pump, Flail, Take Down, Dragon Dance, Earth Power, Mud Shot, Muddy Water
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Thrash
+- Whirlpool
+- Spark
+- Hydro Pump
+- Flail
+- Take Down
+- Dragon Dance
+- Earth Power
+- Mud Shot
+- Muddy Water
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

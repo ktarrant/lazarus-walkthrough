@@ -1,7 +1,7 @@
 ## Hisuian Braviary (#366)
 <details class="pokemon-card-container" open>
 <summary>Hisuian Braviary overview</summary>
-Types: Psychic / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
+Types: Psychic / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,22 @@ Types: Psychic / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
 - Rock (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- HM02 - Fly
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 34, Night
@@ -70,11 +86,15 @@ Lv. 34, Night
 - Hurricane (Lv 59)
 - Ice Beam (Lv 64)
 
-**TM/HM Moves**
-TM04 - Calm Mind, TM08 - Bulk Up, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, HM02 - Fly, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Psych Up, Rock Slide, Sleep Talk, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

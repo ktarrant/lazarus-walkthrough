@@ -1,7 +1,7 @@
 ## Primeape (#341)
 <details class="pokemon-card-container" open>
 <summary>Primeape overview</summary>
-Types: Fighting • Egg Groups: Field • Found: Areios Hideout (wild)
+Types: Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,34 @@ Types: Fighting • Egg Groups: Field • Found: Areios Hideout (wild)
 - Flying (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM50 - Overheat
+- TM56 - Stomping Tantrum
+- TM60 - U-Turn
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 28
@@ -67,13 +95,41 @@ Lv. 28
 - Final Gambit (Lv 57)
 
 **Egg Moves**
-Foresight, Meditate, Counter, Reversal, Beat Up, Revenge, Smelling Salts, Close Combat, Encore, Focus Punch, Sleep Talk, Night Slash, Power Trip
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM50 - Overheat, TM56 - Stomping Tantrum, TM60 - U-Turn, HM04 - Strength, HM06 - Rock Smash
+- Foresight
+- Meditate
+- Counter
+- Reversal
+- Beat Up
+- Revenge
+- Smelling Salts
+- Close Combat
+- Encore
+- Focus Punch
+- Sleep Talk
+- Night Slash
+- Power Trip
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dynamic Punch, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
 </div>
 </div>
 </details>

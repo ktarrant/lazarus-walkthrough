@@ -1,7 +1,7 @@
 ## Barboach (#317)
 <details class="pokemon-card-container" open>
 <summary>Barboach overview</summary>
-Types: Water / Ground • Egg Groups: Water 2 • Found: Riverwalk Trail S, Kalami City (surf) Wanderer`s Woods (OR) Riverwalk Trail S, Kalami City (SR)(fish)
+Types: Water / Ground • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,27 @@ Types: Water / Ground • Egg Groups: Water 2 • Found: Riverwalk Trail S, Kala
 
 *Weak to*
 - Grass (4×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Kalami City — Fishing (40%)
@@ -61,13 +82,27 @@ Types: Water / Ground • Egg Groups: Water 2 • Found: Riverwalk Trail S, Kala
 - Fissure (Lv 44)
 
 **Egg Moves**
-Thrash, Whirlpool, Spark, Hydro Pump, Flail, Take Down, Dragon Dance, Earth Power, Mud Shot, Muddy Water
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Thrash
+- Whirlpool
+- Spark
+- Hydro Pump
+- Flail
+- Take Down
+- Dragon Dance
+- Earth Power
+- Mud Shot
+- Muddy Water
 
 **Tutor Moves**
-Double-Edge, Endure, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

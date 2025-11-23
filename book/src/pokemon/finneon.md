@@ -1,7 +1,7 @@
 ## Finneon (#236)
 <details class="pokemon-card-container" open>
 <summary>Finneon overview</summary>
-Types: Water / Fairy • Egg Groups: Water 2 • Found: Acrisia City, Acrisia Mountains, Riverwalk Trail N (surf) Acrisia City, Acrisia Mountains, Riverwalk Trail N, Wanderer`s Woods, Pythios Town (SR) Pythios Cemetery (GR)(fish) Froslass Cavern, Sofos City, Sea of Asteri, Marmaro Island, Myrrini Island, Sea of Vulcai, Fresco Isles
+Types: Water / Fairy • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,25 @@ Types: Water / Fairy • Egg Groups: Water 2 • Found: Acrisia City, Acrisia Mo
 - Electric (2×)
 - Grass (2×)
 - Poison (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM05 - Flash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Acrisia City — Fishing (40%)
@@ -87,13 +106,27 @@ Types: Water / Fairy • Egg Groups: Water 2 • Found: Acrisia City, Acrisia Mo
 - Soak (Lv 54)
 
 **Egg Moves**
-Sweet Kiss, Charm, Flail, Aqua Tail, Splash, Psybeam, Tickle, Agility, Brine, Aurora Beam, Signal Beam, Confuse Ray
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM05 - Flash, HM07 - Waterfall, HM08 - Dive
+- Sweet Kiss
+- Charm
+- Flail
+- Aqua Tail
+- Splash
+- Psybeam
+- Tickle
+- Agility
+- Brine
+- Aurora Beam
+- Signal Beam
+- Confuse Ray
 
 **Tutor Moves**
-Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Endure
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

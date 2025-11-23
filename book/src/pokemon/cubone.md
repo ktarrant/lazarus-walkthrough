@@ -1,7 +1,7 @@
 ## Cubone (#057)
 <details class="pokemon-card-container" open>
 <summary>Cubone overview</summary>
-Types: Ground • Egg Groups: Monster • Found: Bronze Fields N, Bronze Fields S (wild)
+Types: Ground • Egg Groups: Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,8 +22,30 @@ Types: Ground • Egg Groups: Monster • Found: Bronze Fields N, Bronze Fields 
 - Grass (2×)
 - Ice (2×)
 
-**Notable Held Item**
-Thick Club
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Held Item**
 Thick Club
@@ -68,11 +90,26 @@ Thick Club
 - Retaliate (Lv 47)
 - Double Edge (Lv 51)
 
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM04 - Strength, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dynamic Punch, Endure, Fire Punch, Fury Cutter, Icy Wind, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Swords Dance, Thunder Punch
+- Body Slam
+- Counter
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Fury Cutter
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
+- Thunder Punch
 </div>
 </div>
 </details>

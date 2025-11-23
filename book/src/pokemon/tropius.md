@@ -1,7 +1,7 @@
 ## Tropius (#078)
 <details class="pokemon-card-container" open>
 <summary>Tropius overview</summary>
-Types: Grass / Flying • Egg Groups: Monster / Grass • Found: Riverwalk Trail S, Port Pello (wild)
+Types: Grass / Flying • Egg Groups: Monster / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,33 @@ Types: Grass / Flying • Egg Groups: Monster / Grass • Found: Riverwalk Trail
 - Poison (2×)
 - Flying (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Roar
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
+- TM56 - Stomping Tantrum
+- TM60 - U-Turn
+- HM01 - Cut
+- HM02 - Fly
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Port Pello — Grass (Day) (10%)
@@ -71,13 +98,30 @@ Types: Grass / Flying • Egg Groups: Monster / Grass • Found: Riverwalk Trail
 - Leaf Storm (Lv 57)
 
 **Egg Moves**
-Headbutt, Slam, Razor Wind, Leech Seed, Nature Power, Leaf Storm, Synthesis, Curse, Leaf Blade, Dragon Dance, Bullet Seed, Natural Gift, Dragon Hammer
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM26 - Earthquake, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, TM56 - Stomping Tantrum, TM60 - U-Turn, HM01 - Cut, HM02 - Fly, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Headbutt
+- Slam
+- Razor Wind
+- Leech Seed
+- Nature Power
+- Leaf Storm
+- Synthesis
+- Curse
+- Leaf Blade
+- Dragon Dance
+- Bullet Seed
+- Natural Gift
+- Dragon Hammer
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Murkrow (#094)
 <details class="pokemon-card-container" open>
 <summary>Murkrow overview</summary>
-Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields N, Bronze Fields S, Kalami City (wild)
+Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,28 @@ Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields N, Bronze F
 - Ice (2×)
 - Rock (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM49 - Snatch
+- TM60 - U-Turn
+- HM02 - Fly
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Night) (5%)
@@ -64,13 +86,35 @@ Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields N, Bronze F
 - Quash (Lv 65)
 
 **Egg Moves**
-Whirlwind, Drill Peck, Mirror Move, Wing Attack, Sky Attack, Confuse Ray, Feather Dance, Perish Song, Psycho Shift, Screech, Feint Attack, Brave Bird, Roost, Assurance, Flatter, Punishment
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM49 - Snatch, TM60 - U-Turn, HM02 - Fly
+- Whirlwind
+- Drill Peck
+- Mirror Move
+- Wing Attack
+- Sky Attack
+- Confuse Ray
+- Feather Dance
+- Perish Song
+- Psycho Shift
+- Screech
+- Feint Attack
+- Brave Bird
+- Roost
+- Assurance
+- Flatter
+- Punishment
 
 **Tutor Moves**
-Double-Edge, Dream Eater, Endure, Icy Wind, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

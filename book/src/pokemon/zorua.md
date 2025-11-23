@@ -1,7 +1,7 @@
 ## Zorua (#198)
 <details class="pokemon-card-container" open>
 <summary>Zorua overview</summary>
-Types: Dark • Egg Groups: Field • Found: Erinys Path W (wild)
+Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,27 @@ Types: Dark • Egg Groups: Field • Found: Erinys Path W (wild)
 - Fighting (2×)
 - Bug (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)
@@ -59,13 +80,25 @@ Types: Dark • Egg Groups: Field • Found: Erinys Path W (wild)
 - Night Daze (Lv 57)
 
 **Egg Moves**
-Detect, Captivate, Dark Pulse, Snatch, Memento, Sucker Punch, Extrasensory, Counter, Copycat
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM36 - Sludge Bomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut
+- Detect
+- Captivate
+- Dark Pulse
+- Snatch
+- Memento
+- Sucker Punch
+- Extrasensory
+- Counter
+- Copycat
 
 **Tutor Moves**
-Counter, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Counter
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Gogoat (#093)
 <details class="pokemon-card-container" open>
 <summary>Gogoat overview</summary>
-Types: Grass • Egg Groups: Field • Found: The Nyx Trails (wild)
+Types: Grass • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,30 @@ Types: Grass • Egg Groups: Field • Found: The Nyx Trails (wild)
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 32
@@ -70,13 +94,22 @@ Lv. 32
 - Megahorn (Lv 57)
 
 **Egg Moves**
-Defense Curl, Rollout, Milk Drink, Grassy Terrain
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM08 - Bulk Up, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+- Defense Curl
+- Rollout
+- Milk Drink
+- Grassy Terrain
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

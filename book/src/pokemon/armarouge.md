@@ -1,7 +1,7 @@
 ## Armarouge (#283)
 <details class="pokemon-card-container" open>
 <summary>Armarouge overview</summary>
-Types: Fire / Psychic • Egg Groups: Human-Like • Found: Charcadet (evolve)
+Types: Fire / Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,7 +47,9 @@ Auspicious Armor
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Egg Moves**
-Destiny Bond, Disable, Spite
+- Destiny Bond
+- Disable
+- Spite
 </div>
 </div>
 </details>

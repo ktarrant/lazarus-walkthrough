@@ -1,7 +1,7 @@
 ## Drowzee (#263)
 <details class="pokemon-card-container" open>
 <summary>Drowzee overview</summary>
-Types: Psychic • Egg Groups: Human-Like • Found: Pythios Town, Myrrini Island (wild)
+Types: Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,31 @@ Types: Psychic • Egg Groups: Human-Like • Found: Pythios Town, Myrrini Islan
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- TM57 - Dazzling Gleam
+- HM05 - Flash
 
 **Encounter Locations**
 - Myrrini Island — Grass (Night) (20%)
@@ -61,13 +86,41 @@ Types: Psychic • Egg Groups: Human-Like • Found: Pythios Town, Myrrini Islan
 - Future Sight (Lv 61)
 
 **Egg Moves**
-Barrier, Assist, Role Play, Fire Punch, Thunder Punch, Ice Punch, Nasty Plot, Flatter, Psycho Cut, Guard Swap, Secret Power, Skill Swap, Power Split, Psychic Terrain
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, TM57 - Dazzling Gleam, HM05 - Flash
+- Barrier
+- Assist
+- Role Play
+- Fire Punch
+- Thunder Punch
+- Ice Punch
+- Nasty Plot
+- Flatter
+- Psycho Cut
+- Guard Swap
+- Secret Power
+- Skill Swap
+- Power Split
+- Psychic Terrain
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dream Eater, Dynamic Punch, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Psych Up, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Counter
+- Double-Edge
+- Dream Eater
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Metronome
+- Psych Up
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

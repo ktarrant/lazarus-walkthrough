@@ -1,7 +1,7 @@
 ## Shedinja (#047)
 <details class="pokemon-card-container" open>
 <summary>Shedinja overview</summary>
-Types: Bug / Ghost • Egg Groups: Mineral • Found: Sea of Asteri (wild)
+Types: Bug / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,24 @@ Types: Bug / Ghost • Egg Groups: Mineral • Found: Sea of Asteri (wild)
 - Rock (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- HM01 - Cut
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 20, empty party slot, PokéBall
@@ -63,13 +81,24 @@ Lv. 20, empty party slot, PokéBall
 - Defend Order (Lv 47)
 
 **Egg Moves**
-Endure, Feint Attack, Gust, Silver Wind, Bug Buzz, Night Slash, Bug Bite, Final Gambit
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM37 - Sandstorm, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM46 - Thief, HM01 - Cut, HM05 - Flash
+- Endure
+- Feint Attack
+- Gust
+- Silver Wind
+- Bug Buzz
+- Night Slash
+- Bug Bite
+- Final Gambit
 
 **Tutor Moves**
-Double-Edge, Dream Eater, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger
+- Double-Edge
+- Dream Eater
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

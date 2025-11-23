@@ -1,7 +1,7 @@
 ## Lapras (#345)
 <details class="pokemon-card-container" open>
 <summary>Lapras overview</summary>
-Types: Water / Ice • Egg Groups: Monster / Water 1 • Found: Froslass Cavern (wild)
+Types: Water / Ice • Egg Groups: Monster / Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,35 @@ Types: Water / Ice • Egg Groups: Monster / Water 1 • Found: Froslass Cavern 
 - Grass (2×)
 - Fighting (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM05 - Roar
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Froslass Cavern BF2 — Surfing (1%)
@@ -59,13 +88,30 @@ Types: Water / Ice • Egg Groups: Monster / Water 1 • Found: Froslass Cavern 
 - Sheer Cold (Lv 50)
 
 **Egg Moves**
-Foresight, Tickle, Refresh, Dragon Dance, Curse, Sleep Talk, Horn Drill, Ancient Power, Whirlpool, Fissure, Dragon Pulse, Avalanche, Future Sight, Freeze-Dry
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Foresight
+- Tickle
+- Refresh
+- Dragon Dance
+- Curse
+- Sleep Talk
+- Horn Drill
+- Ancient Power
+- Whirlpool
+- Fissure
+- Dragon Pulse
+- Avalanche
+- Future Sight
+- Freeze-Dry
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

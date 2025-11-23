@@ -1,7 +1,7 @@
 ## Heracross (#126)
 <details class="pokemon-card-container" open>
 <summary>Heracross overview</summary>
-Types: Bug / Fighting • Egg Groups: Bug • Found: Wanderer`s Woods, Sea of Asteri (wild)
+Types: Bug / Fighting • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,30 @@ Types: Bug / Fighting • Egg Groups: Bug • Found: Wanderer`s Woods, Sea of As
 - Flying (4×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Sea of Asteri (West) — Grass (Night) (4%)
@@ -68,13 +92,29 @@ Types: Bug / Fighting • Egg Groups: Bug • Found: Wanderer`s Woods, Sea of As
 - First Impression (Lv 50)
 
 **Egg Moves**
-Harden, Bide, Flail, Revenge, Pursuit, Double-Edge, Seismic Toss, Focus Punch, Megahorn, Rock Blast
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Harden
+- Bide
+- Flail
+- Revenge
+- Pursuit
+- Double-Edge
+- Seismic Toss
+- Focus Punch
+- Megahorn
+- Rock Blast
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Fury Cutter
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

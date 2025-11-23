@@ -1,7 +1,7 @@
 ## Houndoom (#170)
 <details class="pokemon-card-container" open>
 <summary>Houndoom overview</summary>
-Types: Dark / Fire • Egg Groups: Field • Found: Areios Hideout (wild)
+Types: Dark / Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,34 @@ Types: Dark / Fire • Egg Groups: Field • Found: Areios Hideout (wild)
 - Fighting (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- TM50 - Overheat
+- TM52 - Thunder Fang
+- TM54 - Fire Fang
+- TM55 - Psychic Fangs
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 24
@@ -71,13 +99,32 @@ Lv. 24
 - Inferno (Lv 56)
 
 **Egg Moves**
-Fire Spin, Rage, Pursuit, Counter, Spite, Reversal, Beat Up, Fire Fang, Thunder Fang, Nasty Plot, Punishment, Feint, Sucker Punch, Destiny Bond
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM30 - Shadow Ball, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM50 - Overheat, TM52 - Thunder Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, HM04 - Strength, HM06 - Rock Smash
+- Fire Spin
+- Rage
+- Pursuit
+- Counter
+- Spite
+- Reversal
+- Beat Up
+- Fire Fang
+- Thunder Fang
+- Nasty Plot
+- Punishment
+- Feint
+- Sucker Punch
+- Destiny Bond
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dream Eater, Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Counter
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

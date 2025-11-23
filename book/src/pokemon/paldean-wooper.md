@@ -1,7 +1,7 @@
 ## Paldean Wooper (#134)
 <details class="pokemon-card-container" open>
 <summary>Paldean Wooper overview</summary>
-Types: Poison / Ground • Egg Groups: Water 1 / Field • Found: Riverwalk Trail S, Wanderer`s Woods, Fresco Isles (wild)
+Types: Poison / Ground • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,21 @@ Types: Poison / Ground • Egg Groups: Water 1 / Field • Found: Riverwalk Trai
 - Ice (2×)
 - Ground (2×)
 - Psychic (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM28 - Dig
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- HM03 - Surf
+- HM07 - Waterfall
 
 **Encounter Locations**
 - Fresco Isles — Grass (Night) (5%)
@@ -61,13 +76,27 @@ Types: Poison / Ground • Egg Groups: Water 1 / Field • Found: Riverwalk Trai
 - Earthquake (Lv 40)
 
 **Egg Moves**
-Acid Spray, After You, Ancient Power, Counter, Curse, Double Kick, Haze, Mist, Recover, Spit Up, Stockpile, Swallow
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, HM03 - Surf, HM07 - Waterfall
+- Acid Spray
+- After You
+- Ancient Power
+- Counter
+- Curse
+- Double Kick
+- Haze
+- Mist
+- Recover
+- Spit Up
+- Stockpile
+- Swallow
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Mud-Slap, Rock Slide, Sleep Talk
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
 </div>
 </div>
 </details>

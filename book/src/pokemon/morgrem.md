@@ -1,7 +1,7 @@
 ## Morgrem (#336)
 <details class="pokemon-card-container" open>
 <summary>Morgrem overview</summary>
-Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Port Pello, Kaptara Island (wild)
+Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,17 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Port Pello, Ka
 - Poison (2×)
 - Steel (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM33 - Reflect
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
 
 **Evolution Info**
 Lv. 24
@@ -62,11 +73,15 @@ Lv. 24
 - Play Rough (Lv 43)
 - Foul Play (Lv 50)
 
-**TM/HM Moves**
-TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM33 - Reflect, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
-
 **Tutor Moves**
-Endure, Mega Kick, Mega Punch, Metronome, Sleep Talk, Snore, Swagger, Thunder Wave
+- Endure
+- Mega Kick
+- Mega Punch
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

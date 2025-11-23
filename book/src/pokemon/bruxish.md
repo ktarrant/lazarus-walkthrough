@@ -1,7 +1,7 @@
 ## Bruxish (#334)
 <details class="pokemon-card-container" open>
 <summary>Bruxish overview</summary>
-Types: Water / Psychic • Egg Groups: Water 2 • Found: Port Pello (wild)
+Types: Water / Psychic • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,32 @@ Types: Water / Psychic • Egg Groups: Water 2 • Found: Port Pello (wild)
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM29 - Psychic
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- HM03 - Surf
+- HM07 - Waterfall
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (20%)
@@ -69,13 +95,19 @@ Types: Water / Psychic • Egg Groups: Water 2 • Found: Port Pello (wild)
 - Synchronoise (Lv 44)
 
 **Egg Moves**
-Water Pulse, Poison Fang, Ice Fang, Rage
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM03 - Surf, HM07 - Waterfall
+- Water Pulse
+- Poison Fang
+- Ice Fang
+- Rage
 
 **Tutor Moves**
-Dream Eater, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swords Dance
+- Dream Eater
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

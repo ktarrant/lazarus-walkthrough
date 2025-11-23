@@ -1,7 +1,7 @@
 ## Oranguru (#326)
 <details class="pokemon-card-container" open>
 <summary>Oranguru overview</summary>
-Types: Normal / Psychic • Egg Groups: Field • Found: Kalami City, Kaptara Island (wild)
+Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,30 @@ Types: Normal / Psychic • Egg Groups: Field • Found: Kalami City, Kaptara Is
 *Weak to*
 - Bug (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- TM49 - Snatch
 
 **Encounter Locations**
 - Kalami City — Grass (Night) (2%)
@@ -58,13 +82,22 @@ Types: Normal / Psychic • Egg Groups: Field • Found: Kalami City, Kaptara Is
 - Trick Room (Lv 50)
 
 **Egg Moves**
-Extrasensory, Wonder Room, Psychic Terrain
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, TM49 - Snatch
+- Extrasensory
+- Wonder Room
+- Psychic Terrain
 
 **Tutor Moves**
-Body Slam, Dream Eater, Endure, Mega Kick, Mega Punch, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Dream Eater
+- Endure
+- Mega Kick
+- Mega Punch
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

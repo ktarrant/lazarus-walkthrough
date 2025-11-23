@@ -1,7 +1,7 @@
 ## Magikarp (#322)
 <details class="pokemon-card-container" open>
 <summary>Magikarp overview</summary>
-Types: Water • Egg Groups: Water 2 / Dragon • Found: Acrisia City, Acrisia Mountains, Riverwalk Trail N, Riverwalk Trail S, Kalami City, Wanderer`s Woods, Pythios Town, Pythios Cemetery (OR)(fish) Froslass Cavern, Port Pello, Sofos City, Sea of Asteri, Marmaro Island, Myrrini  Island, Sea of Vulcai, Fresco Isles, Palati City
+Types: Water • Egg Groups: Water 2 / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">

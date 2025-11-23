@@ -1,7 +1,7 @@
 ## Ekans (#265)
 <details class="pokemon-card-container" open>
 <summary>Ekans overview</summary>
-Types: Poison / Dark • Egg Groups: Field / Dragon • Found: Riverwalk Trail S, Pythios Cemetery, Sea of Asteri (wild)
+Types: Poison / Dark • Egg Groups: Field / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,29 @@ Types: Poison / Dark • Egg Groups: Field / Dragon • Found: Riverwalk Trail S
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- TM51 - Poison Fang
+- TM54 - Fire Fang
+- TM55 - Psychic Fangs
+- HM04 - Strength
 
 **Encounter Locations**
 - Pythios Cemetery — Grass (Night) (20%)
@@ -61,13 +84,28 @@ Types: Poison / Dark • Egg Groups: Field / Dragon • Found: Riverwalk Trail S
 - Gunk Shot (Lv 49)
 
 **Egg Moves**
-Pursuit, Slam, Spite, Beat Up, Poison Fang, Scary Face, Poison Tail, Disable, Switcheroo, Iron Tail, Sucker Punch, Snatch
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM51 - Poison Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, HM04 - Strength
+- Pursuit
+- Slam
+- Spite
+- Beat Up
+- Poison Fang
+- Scary Face
+- Poison Tail
+- Disable
+- Switcheroo
+- Iron Tail
+- Sucker Punch
+- Snatch
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

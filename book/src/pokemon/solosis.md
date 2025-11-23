@@ -1,7 +1,7 @@
 ## Solosis (#276)
 <details class="pokemon-card-container" open>
 <summary>Solosis overview</summary>
-Types: Psychic • Egg Groups: Amorphous • Found: Erinys Path W (wild)
+Types: Psychic • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,28 @@ Types: Psychic • Egg Groups: Amorphous • Found: Erinys Path W (wild)
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM05 - Flash
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (20%)
@@ -58,13 +80,28 @@ Types: Psychic • Egg Groups: Amorphous • Found: Erinys Path W (wild)
 - Chloroblast (Lv 52)
 
 **Egg Moves**
-Night Shade, Astonish, Confuse Ray, Acid Armor, Trick, Imprison, Secret Power, Astonish, Helping Hand
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+- Night Shade
+- Astonish
+- Confuse Ray
+- Acid Armor
+- Trick
+- Imprison
+- Secret Power
+- Astonish
+- Helping Hand
 
 **Tutor Moves**
-Dream Eater, Endure, Explosion, Psych Up, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Dream Eater
+- Endure
+- Explosion
+- Psych Up
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

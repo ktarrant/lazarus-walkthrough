@@ -1,7 +1,7 @@
 ## Linoone (#329)
 <details class="pokemon-card-container" open>
 <summary>Linoone overview</summary>
-Types: Normal • Egg Groups: Field • Found: Port Pello (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,34 @@ Types: Normal • Egg Groups: Field • Found: Port Pello (wild)
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- TM58 - Play Rough
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 20
@@ -61,13 +89,31 @@ Lv. 20
 - Fling (Lv 48)
 
 **Egg Moves**
-Charm, Pursuit, Tickle, Trick, Helping Hand, Mud-Slap, Sleep Talk, Rock Climb, Simple Beam, Extreme Speed
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, TM58 - Play Rough, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+- Charm
+- Pursuit
+- Tickle
+- Trick
+- Helping Hand
+- Mud-Slap
+- Sleep Talk
+- Rock Climb
+- Simple Beam
+- Extreme Speed
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Fury Cutter, Icy Wind, Mud-Slap, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Fury Cutter
+- Icy Wind
+- Mud-Slap
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

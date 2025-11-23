@@ -1,7 +1,7 @@
 ## Archen (#382)
 <details class="pokemon-card-container" open>
 <summary>Archen overview</summary>
-Types: Rock / Flying • Egg Groups: Water 3 / Flying • Found: Palati City (wild)
+Types: Rock / Flying • Egg Groups: Water 3 / Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,27 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying • Found: Palati City (wi
 - Ice (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM12 - Taunt
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
+- HM01 - Cut
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Palati City — Grass (Day) (10%)
@@ -66,13 +87,23 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying • Found: Palati City (wi
 - Thrash (Lv 50)
 
 **Egg Moves**
-Steel Wing, Defog, Dragon Pulse, Head Smash, Knock Off, Earth Power, Bite, Ally Switch, Switcheroo
-
-**TM/HM Moves**
-TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, HM01 - Cut, HM06 - Rock Smash
+- Steel Wing
+- Defog
+- Dragon Pulse
+- Head Smash
+- Knock Off
+- Earth Power
+- Bite
+- Ally Switch
+- Switcheroo
 
 **Tutor Moves**
-Endure, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

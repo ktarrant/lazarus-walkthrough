@@ -1,7 +1,7 @@
 ## Skorupi (#175)
 <details class="pokemon-card-container" open>
 <summary>Skorupi overview</summary>
-Types: Poison / Bug • Egg Groups: Water 3 / Bug • Found: Erinys Path E, Fresco Isles (wild)
+Types: Poison / Bug • Egg Groups: Water 3 / Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,8 +25,29 @@ Types: Poison / Bug • Egg Groups: Water 3 / Bug • Found: Erinys Path E, Fres
 - Psychic (2×)
 - Rock (2×)
 
-**Notable Held Item**
-Poison Barb
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Held Item**
 Poison Barb
@@ -69,13 +90,27 @@ Poison Barb
 - Cross Poison (Lv 49)
 
 **Egg Moves**
-Feint Attack, Screech, Sand Attack, Slash, Confuse Ray, Whirlwind, Agility, Pursuit, Night Slash, Iron Tail, Twineedle, Poison Tail
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Feint Attack
+- Screech
+- Sand Attack
+- Slash
+- Confuse Ray
+- Whirlwind
+- Agility
+- Pursuit
+- Night Slash
+- Iron Tail
+- Twineedle
+- Poison Tail
 
 **Tutor Moves**
-Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

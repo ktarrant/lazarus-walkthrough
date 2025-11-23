@@ -1,7 +1,7 @@
 ## Flapple (#065)
 <details class="pokemon-card-container" open>
 <summary>Flapple overview</summary>
-Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Applin (evolve)
+Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,20 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Applin (evolve)
 - Bug (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM60 - U-Turn
+- HM02 - Fly
 
 **Evolution Info**
 Tart Apple
@@ -69,13 +83,17 @@ Tart Apple
 - Zing Zap (Lv 50)
 
 **Egg Moves**
-Sucker Punch, Rollout, Defense Curl, Recycle
-
-**TM/HM Moves**
-TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM60 - U-Turn, HM02 - Fly
+- Sucker Punch
+- Rollout
+- Defense Curl
+- Recycle
 
 **Tutor Moves**
-Defense Curl, Endure, Rollout, Sleep Talk, Snore
+- Defense Curl
+- Endure
+- Rollout
+- Sleep Talk
+- Snore
 </div>
 </div>
 </details>

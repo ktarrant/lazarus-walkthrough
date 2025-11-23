@@ -1,7 +1,7 @@
 ## Floette (#293)
 <details class="pokemon-card-container" open>
 <summary>Floette overview</summary>
-Types: Fairy • Egg Groups: Fairy • Found: Port Pello (wild)
+Types: Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,24 @@ Types: Fairy • Egg Groups: Fairy • Found: Port Pello (wild)
 *Weak to*
 - Poison (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 19
@@ -62,13 +80,18 @@ Lv. 19
 - Solar Beam (Lv 58)
 
 **Egg Moves**
-Copycat, Captivate, Camouflage, Tearful Look
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM29 - Psychic, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, HM05 - Flash
+- Copycat
+- Captivate
+- Camouflage
+- Tearful Look
 
 **Tutor Moves**
-Endure, Metronome, Sleep Talk, Snore, Swagger, Swift
+- Endure
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

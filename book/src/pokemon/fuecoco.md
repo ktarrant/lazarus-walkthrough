@@ -1,7 +1,7 @@
 ## Fuecoco (#022)
 <details class="pokemon-card-container" open>
 <summary>Fuecoco overview</summary>
-Types: Fire • Egg Groups: Field • Found: Starter, 170 Unique Species (event) Sea of Vulcai (wild)
+Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,17 @@ Types: Fire • Egg Groups: Field • Found: Starter, 170 Unique Species (event)
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM28 - Dig
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM50 - Overheat
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -56,13 +67,16 @@ Types: Fire • Egg Groups: Field • Found: Starter, 170 Unique Species (event)
 - Fire Blast (Lv 36)
 
 **Egg Moves**
-Belch, Curse, Encore, Slack Off
-
-**TM/HM Moves**
-TM05 - Roar, TM11 - Sunny Day, TM17 - Protect, TM28 - Dig, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM50 - Overheat
+- Belch
+- Curse
+- Encore
+- Slack Off
 
 **Tutor Moves**
-Body Slam, Endure, Mud-Slap, Sleep Talk
+- Body Slam
+- Endure
+- Mud-Slap
+- Sleep Talk
 </div>
 </div>
 </details>

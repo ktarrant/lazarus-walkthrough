@@ -1,7 +1,7 @@
 ## Eevee (#083)
 <details class="pokemon-card-container" open>
 <summary>Eevee overview</summary>
-Types: Normal • Egg Groups: Field • Found: Jusmail Town (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,22 @@ Types: Normal • Egg Groups: Field • Found: Jusmail Town (wild)
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Encounter Locations**
 - Jusmail Town — Grass (Day) (10%)
@@ -57,13 +73,30 @@ Types: Normal • Egg Groups: Field • Found: Jusmail Town (wild)
 - Trump Card (Lv 45)
 
 **Egg Moves**
-Charm, Flail, Endure, Curse, Tickle, Wish, Yawn, Fake Tears, Covet, Detect, Natural Gift, Stored Power, Synchronoise, Captivate
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Charm
+- Flail
+- Endure
+- Curse
+- Tickle
+- Wish
+- Yawn
+- Fake Tears
+- Covet
+- Detect
+- Natural Gift
+- Stored Power
+- Synchronoise
+- Captivate
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Mienfoo (#143)
 <details class="pokemon-card-container" open>
 <summary>Mienfoo overview</summary>
-Types: Fighting • Egg Groups: Human-Like / Field • Found: Pythios Town (wild)
+Types: Fighting • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,27 @@ Types: Fighting • Egg Groups: Human-Like / Field • Found: Pythios Town (wild
 - Flying (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Pythios Town — Grass (Day) (10%)
@@ -59,13 +80,27 @@ Types: Fighting • Egg Groups: Human-Like / Field • Found: Pythios Town (wild
 - Aura Sphere (Lv 57)
 
 **Egg Moves**
-Endure, Vital Throw, Baton Pass, Smelling Salts, Low Kick, Feint, Me First, Knock Off, Ally Switch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM06 - Rock Smash
+- Endure
+- Vital Throw
+- Baton Pass
+- Smelling Salts
+- Low Kick
+- Feint
+- Me First
+- Knock Off
+- Ally Switch
 
 **Tutor Moves**
-Endure, Mega Kick, Mega Punch, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Endure
+- Mega Kick
+- Mega Punch
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

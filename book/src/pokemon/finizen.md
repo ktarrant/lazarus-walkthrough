@@ -1,7 +1,7 @@
 ## Finizen (#162)
 <details class="pokemon-card-container" open>
 <summary>Finizen overview</summary>
-Types: Water • Egg Groups: Field / Water 2 • Found: Pythios Town (surf) Pythios Town (GR)(fish) Marmaro Island, Myrrini Island
+Types: Water • Egg Groups: Field / Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,18 @@ Types: Water • Egg Groups: Field / Water 2 • Found: Pythios Town (surf) Pyth
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM42 - Facade
+- TM44 - Rest
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Davosi Straits — Surfing (60%)
@@ -61,13 +73,20 @@ Types: Water • Egg Groups: Field / Water 2 • Found: Pythios Town (surf) Pyth
 - Hydro Pump (Lv 50)
 
 **Egg Moves**
-Boomburst, Bounce, Counter, Haze, Tickle
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM42 - Facade, TM44 - Rest, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Boomburst
+- Bounce
+- Counter
+- Haze
+- Tickle
 
 **Tutor Moves**
-Body Slam, Counter, Endure, Icy Wind, Psych Up, Sleep Talk, Swift
+- Body Slam
+- Counter
+- Endure
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

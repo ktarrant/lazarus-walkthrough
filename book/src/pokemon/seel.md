@@ -1,7 +1,7 @@
 ## Seel (#192)
 <details class="pokemon-card-container" open>
 <summary>Seel overview</summary>
-Types: Water / Ice • Egg Groups: Water 1 / Field • Found: Pythios Town (surf) Froslass Cavern
+Types: Water / Ice • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,26 @@ Types: Water / Ice • Egg Groups: Water 1 / Field • Found: Pythios Town (surf
 - Grass (2×)
 - Fighting (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM04 - Strength
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Erinys Path (East) — Surfing (30%)
@@ -63,13 +83,32 @@ Types: Water / Ice • Egg Groups: Water 1 / Field • Found: Pythios Town (surf
 - Hail (Lv 53)
 
 **Egg Moves**
-Lick, Perish Song, Disable, Horn Drill, Slam, Encore, Fake Out, Icicle Spear, Signal Beam, Stockpile, Swallow, Spit Up, Water Pulse, Iron Tail, Sleep Talk, Belch, Entrainment
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM04 - Strength, HM07 - Waterfall, HM08 - Dive
+- Lick
+- Perish Song
+- Disable
+- Horn Drill
+- Slam
+- Encore
+- Fake Out
+- Icicle Spear
+- Signal Beam
+- Stockpile
+- Swallow
+- Spit Up
+- Water Pulse
+- Iron Tail
+- Sleep Talk
+- Belch
+- Entrainment
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

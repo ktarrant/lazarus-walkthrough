@@ -1,7 +1,7 @@
 ## Pancham (#269)
 <details class="pokemon-card-container" open>
 <summary>Pancham overview</summary>
-Types: Fighting • Egg Groups: Human-Like / Field • Found: Myrrini Island (wild)
+Types: Fighting • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,31 @@ Types: Fighting • Egg Groups: Human-Like / Field • Found: Myrrini Island (wi
 - Flying (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM05 - Roar
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Myrrini Island — Grass (Day) (10%)
@@ -58,13 +83,27 @@ Types: Fighting • Egg Groups: Human-Like / Field • Found: Myrrini Island (wi
 - Sky Uppercut (Lv 48)
 
 **Egg Moves**
-Quash, Me First, Quick Guard, Foul Play, Storm Throw, Power Trip
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM05 - Roar, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+- Quash
+- Me First
+- Quick Guard
+- Foul Play
+- Storm Throw
+- Power Trip
 
 **Tutor Moves**
-Body Slam, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Punch
+- Body Slam
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
+- Thunder Punch
 </div>
 </div>
 </details>

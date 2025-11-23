@@ -1,7 +1,7 @@
 ## Corphish (#377)
 <details class="pokemon-card-container" open>
 <summary>Corphish overview</summary>
-Types: Water • Egg Groups: Water 1 / Water 3 • Found: Pythios Town (OR)(fish)
+Types: Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,31 @@ Types: Water • Egg Groups: Water 1 / Water 3 • Found: Pythios Town (OR)(fish
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
 
 **Encounter Locations**
 - Erinys Path (East) — Fishing (20%)
@@ -60,13 +85,33 @@ Types: Water • Egg Groups: Water 1 / Water 3 • Found: Pythios Town (OR)(fish
 - Guillotine (Lv 48)
 
 **Egg Moves**
-Mud Sport, Endeavor, Body Slam, Ancient Power, Knock Off, Superpower, Metal Claw, Dragon Dance, Trump Card, Chip Away, Double-Edge, Aqua Jet, Switcheroo
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall
+- Mud Sport
+- Endeavor
+- Body Slam
+- Ancient Power
+- Knock Off
+- Superpower
+- Metal Claw
+- Dragon Dance
+- Trump Card
+- Chip Away
+- Double-Edge
+- Aqua Jet
+- Switcheroo
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Fury Cutter
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

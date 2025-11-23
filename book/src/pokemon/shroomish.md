@@ -1,7 +1,7 @@
 ## Shroomish (#124)
 <details class="pokemon-card-container" open>
 <summary>Shroomish overview</summary>
-Types: Grass • Egg Groups: Fairy / Grass • Found: Acrisia City, Wanderer`s Woods (wild)
+Types: Grass • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,8 +25,23 @@ Types: Grass • Egg Groups: Fairy / Grass • Found: Acrisia City, Wanderer`s W
 - Flying (2×)
 - Bug (2×)
 
-**Notable Held Item**
-Tiny Mushroom
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- HM05 - Flash
 
 **Held Item**
 Tiny Mushroom
@@ -66,13 +81,26 @@ Tiny Mushroom
 - Spore (Lv 40)
 
 **Egg Moves**
-Fake Tears, Charm, Helping Hand, Worry Seed, Wake-Up Slap, Seed Bomb, Bullet Seed, Focus Punch, Natural Gift, Drain Punch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM05 - Flash
+- Fake Tears
+- Charm
+- Helping Hand
+- Worry Seed
+- Wake-Up Slap
+- Seed Bomb
+- Bullet Seed
+- Focus Punch
+- Natural Gift
+- Drain Punch
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

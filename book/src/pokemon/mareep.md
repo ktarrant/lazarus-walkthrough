@@ -1,7 +1,7 @@
 ## Mareep (#061)
 <details class="pokemon-card-container" open>
 <summary>Mareep overview</summary>
-Types: Electric • Egg Groups: Monster / Field • Found: Bronze Fields S (wild)
+Types: Electric • Egg Groups: Monster / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,27 @@ Types: Electric • Egg Groups: Monster / Field • Found: Bronze Fields S (wild
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM57 - Dazzling Gleam
+- TM59 - Volt Switch
+- HM05 - Flash
 
 **Encounter Locations**
 - Bronze Fields (South) — Grass (Day) (20%)
@@ -55,13 +76,29 @@ Types: Electric • Egg Groups: Monster / Field • Found: Bronze Fields S (wild
 - Thunder (Lv 46)
 
 **Egg Moves**
-Take Down, Body Slam, Screech, Odor Sleuth, Charge, Flatter, Sand Attack, Iron Tail, After You, Agility, Eerie Impulse, Electric Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM05 - Flash
+- Take Down
+- Body Slam
+- Screech
+- Odor Sleuth
+- Charge
+- Flatter
+- Sand Attack
+- Iron Tail
+- After You
+- Agility
+- Eerie Impulse
+- Electric Terrain
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

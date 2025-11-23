@@ -1,7 +1,7 @@
 ## Shuppet (#127)
 <details class="pokemon-card-container" open>
 <summary>Shuppet overview</summary>
-Types: Ghost / Normal • Egg Groups: Amorphous • Found: Wanderer`s Woods, Pythios Cemetery, The Nyx Trails (wild)
+Types: Ghost / Normal • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,28 @@ Types: Ghost / Normal • Egg Groups: Amorphous • Found: Wanderer`s Woods, Pyt
 
 *Weak to*
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM05 - Flash
 
 **Encounter Locations**
 - Nyx Trails — Grass (Night) (10%)
@@ -65,13 +87,30 @@ Types: Ghost / Normal • Egg Groups: Amorphous • Found: Wanderer`s Woods, Pyt
 - Phantom Force (Lv 54)
 
 **Egg Moves**
-Disable, Destiny Bond, Foresight, Astonish, Imprison, Pursuit, Shadow Sneak, Confuse Ray, Ominous Wind, Gunk Shot, Phantom Force
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+- Disable
+- Destiny Bond
+- Foresight
+- Astonish
+- Imprison
+- Pursuit
+- Shadow Sneak
+- Confuse Ray
+- Ominous Wind
+- Gunk Shot
+- Phantom Force
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Metronome, Psych Up, Sleep Talk, Snore, Swagger, Thunder Wave
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Metronome
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

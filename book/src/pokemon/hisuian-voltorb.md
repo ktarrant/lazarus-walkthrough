@@ -1,7 +1,7 @@
 ## Hisuian Voltorb (#343)
 <details class="pokemon-card-container" open>
 <summary>Hisuian Voltorb overview</summary>
-Types: Electric / Grass • Egg Groups: Mineral • Found: Jusmail Town, Sea of Vulcai (wild)
+Types: Electric / Grass • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,20 @@ Types: Electric / Grass • Egg Groups: Mineral • Found: Jusmail Town, Sea of 
 - Ice (2×)
 - Poison (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM09 - Bullet Seed
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
 
 **Encounter Locations**
 - Jusmail Town — Grass (Night) (10%)
@@ -56,11 +70,14 @@ Types: Electric / Grass • Egg Groups: Mineral • Found: Jusmail Town, Sea of 
 - Energy Ball (Lv 41)
 - Self-Destruct (Lv 47)
 
-**TM/HM Moves**
-TM09 - Bullet Seed, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM24 - Thunderbolt, TM25 - Thunder, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM46 - Thief
-
 **Tutor Moves**
-Double-Edge, Endure, Explosion, Rollout, Sleep Talk, Swift, Thunder Wave
+- Double-Edge
+- Endure
+- Explosion
+- Rollout
+- Sleep Talk
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

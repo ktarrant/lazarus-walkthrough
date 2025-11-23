@@ -1,7 +1,7 @@
 ## Psyduck (#358)
 <details class="pokemon-card-container" open>
 <summary>Psyduck overview</summary>
-Types: Water • Egg Groups: Water 1 / Field • Found: Wanderer`s Woods (surf) Port Pello, Sofos City, Sea of Asteri, Marmaro Island, Myrrini Island, Sea of Vulcai, Fresco Isles, Palati City
+Types: Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,36 @@ Types: Water • Egg Groups: Water 1 / Field • Found: Wanderer`s Woods (surf) 
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM29 - Psychic
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- HM03 - Surf
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (60%)
@@ -68,13 +98,40 @@ Types: Water • Egg Groups: Water 1 / Field • Found: Wanderer`s Woods (surf) 
 - Wonder Room (Lv 43)
 
 **Egg Moves**
-Hypnosis, Psybeam, Foresight, Future Sight, Cross Chop, Refresh, Confuse Ray, Yawn, Mud Bomb, Encore, Secret Power, Sleep Talk, Synchronoise, Simple Beam, Clear Smog
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM29 - Psychic, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, HM03 - Surf, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Hypnosis
+- Psybeam
+- Foresight
+- Future Sight
+- Cross Chop
+- Refresh
+- Confuse Ray
+- Yawn
+- Mud Bomb
+- Encore
+- Secret Power
+- Sleep Talk
+- Synchronoise
+- Simple Beam
+- Clear Smog
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dynamic Punch, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Seismic Toss, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Counter
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

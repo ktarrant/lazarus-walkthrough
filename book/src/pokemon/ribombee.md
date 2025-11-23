@@ -1,7 +1,7 @@
 ## Ribombee (#070)
 <details class="pokemon-card-container" open>
 <summary>Ribombee overview</summary>
-Types: Bug / Fairy • Egg Groups: Bug / Fairy • Found: Port Pello (wild)
+Types: Bug / Fairy • Egg Groups: Bug / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,25 @@ Types: Bug / Fairy • Egg Groups: Bug / Fairy • Found: Port Pello (wild)
 - Flying (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
 
 **Evolution Info**
 Lv. 25
@@ -64,13 +83,22 @@ Lv. 25
 - Quiver Dance (Lv 43)
 
 **Egg Moves**
-Baton Pass, Skill Swap, Speed Swap, Bestow, Moonblast, Powder, Sticky Web
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM20 - Safeguard, TM22 - Solar Beam, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap
+- Baton Pass
+- Skill Swap
+- Speed Swap
+- Bestow
+- Moonblast
+- Powder
+- Sticky Web
 
 **Tutor Moves**
-Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Dream Eater
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

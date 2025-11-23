@@ -1,7 +1,7 @@
 ## Muk (#072)
 <details class="pokemon-card-container" open>
 <summary>Muk overview</summary>
-Types: Poison • Egg Groups: Amorphous • Found: Areios Hideout (wild)
+Types: Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,35 @@ Types: Poison • Egg Groups: Amorphous • Found: Areios Hideout (wild)
 *Weak to*
 - Ground (2×)
 - Psychic (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 34
@@ -62,13 +91,35 @@ Lv. 34
 - Memento (Lv 57)
 
 **Egg Moves**
-Haze, Mean Look, Lick, Imprison, Curse, Shadow Punch, Shadow Sneak, Stockpile, Swallow, Spit Up, Scary Face, Acid Spray, Power-Up Punch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM04 - Strength, HM06 - Rock Smash
+- Haze
+- Mean Look
+- Lick
+- Imprison
+- Curse
+- Shadow Punch
+- Shadow Sneak
+- Stockpile
+- Swallow
+- Spit Up
+- Scary Face
+- Acid Spray
+- Power-Up Punch
 
 **Tutor Moves**
-Body Slam, Dynamic Punch, Endure, Explosion, Fire Punch, Ice Punch, Metronome, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+- Body Slam
+- Dynamic Punch
+- Endure
+- Explosion
+- Fire Punch
+- Ice Punch
+- Metronome
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
 </div>
 </div>
 </details>

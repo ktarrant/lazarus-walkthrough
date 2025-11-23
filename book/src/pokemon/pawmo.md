@@ -1,7 +1,7 @@
 ## Pawmo (#214)
 <details class="pokemon-card-container" open>
 <summary>Pawmo overview</summary>
-Types: Electric / Fighting • Egg Groups: Field • Found: Palati City (wild)
+Types: Electric / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,18 @@ Types: Electric / Fighting • Egg Groups: Field • Found: Palati City (wild)
 - Ground (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
 
 **Evolution Info**
 Lv. 20
@@ -64,13 +76,17 @@ Lv. 20
 - Wild Charge (Lv 52)
 
 **Egg Moves**
-Fake Out, Mach Punch, Sweet Kiss, Wish
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM42 - Facade, TM44 - Rest, TM46 - Thief
+- Fake Out
+- Mach Punch
+- Sweet Kiss
+- Wish
 
 **Tutor Moves**
-Endure, Sleep Talk, Swift, Thunder Punch, Thunder Wave
+- Endure
+- Sleep Talk
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

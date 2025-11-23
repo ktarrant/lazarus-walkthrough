@@ -1,7 +1,7 @@
 ## Sandshrew (#097)
 <details class="pokemon-card-container" open>
 <summary>Sandshrew overview</summary>
-Types: Ground • Egg Groups: Field • Found: Acrisia City, Acrisia Mountains (wild)
+Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,29 @@ Types: Ground • Egg Groups: Field • Found: Acrisia City, Acrisia Mountains (
 - Water (2×)
 - Grass (2×)
 - Ice (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (20%)
@@ -62,13 +85,36 @@ Types: Ground • Egg Groups: Field • Found: Acrisia City, Acrisia Mountains (
 - Earthquake (Lv 46)
 
 **Egg Moves**
-Flail, Counter, Rapid Spin, Metal Claw, Crush Claw, Night Slash, Mud Shot, Endure, Chip Away, Rock Climb, Rototiller, Hone Claws
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM20 - Safeguard, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Flail
+- Counter
+- Rapid Spin
+- Metal Claw
+- Crush Claw
+- Night Slash
+- Mud Shot
+- Endure
+- Chip Away
+- Rock Climb
+- Rototiller
+- Hone Claws
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dynamic Punch, Endure, Fury Cutter, Mud-Slap, Rock Slide, Rollout, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Litten (#004)
 <details class="pokemon-card-container" open>
 <summary>Litten overview</summary>
-Types: Fire • Egg Groups: Field • Found: Starter, 100 Unique Species (event) Sea of Vulcai (wild)
+Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,22 @@ Types: Fire • Egg Groups: Field • Found: Starter, 100 Unique Species (event)
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM50 - Overheat
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -60,13 +76,22 @@ Types: Fire • Egg Groups: Field • Found: Starter, 100 Unique Species (event)
 - Outrage (Lv 46)
 
 **Egg Moves**
-Nasty Plot, Body Slam, Crunch, Fake Out, Revenge, Heat Wave, Power Trip
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM32 - Double Team, TM35 - Flamethrower, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat
+- Nasty Plot
+- Body Slam
+- Crunch
+- Fake Out
+- Revenge
+- Heat Wave
+- Power Trip
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

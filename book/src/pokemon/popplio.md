@@ -1,7 +1,7 @@
 ## Popplio (#007)
 <details class="pokemon-card-container" open>
 <summary>Popplio overview</summary>
-Types: Water • Egg Groups: Water 1 / Field • Found: Starter, 100 Unique Species (event) Sea of Vulcai (wild)
+Types: Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,23 @@ Types: Water • Egg Groups: Water 1 / Field • Found: Starter, 100 Unique Spec
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -57,13 +74,20 @@ Types: Water • Egg Groups: Water 1 / Field • Found: Starter, 100 Unique Spec
 - Misty Terrain (Lv 46)
 
 **Egg Moves**
-Charm, Amnesia, Aqua Ring, Aromatic Mist, Perish Song, Wonder Room
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Charm
+- Amnesia
+- Aqua Ring
+- Aromatic Mist
+- Perish Song
+- Wonder Room
 
 **Tutor Moves**
-Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swift
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

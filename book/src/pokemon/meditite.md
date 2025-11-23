@@ -1,7 +1,7 @@
 ## Meditite (#261)
 <details class="pokemon-card-container" open>
 <summary>Meditite overview</summary>
-Types: Fighting / Psychic • Egg Groups: Human-Like • Found: Riverwalk Trail N, Marmaro Island, Myrrini Island (wild)
+Types: Fighting / Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,32 @@ Types: Fighting / Psychic • Egg Groups: Human-Like • Found: Riverwalk Trail 
 - Flying (2×)
 - Ghost (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (10%)
@@ -64,13 +90,42 @@ Types: Fighting / Psychic • Egg Groups: Human-Like • Found: Riverwalk Trail 
 - Counter (Lv 53)
 
 **Egg Moves**
-Fire Punch, Thunder Punch, Ice Punch, Foresight, Fake Out, Baton Pass, Dynamic Punch, Power Swap, Guard Swap, Psycho Cut, Bullet Punch, Drain Punch, Secret Power, Quick Guard
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Fire Punch
+- Thunder Punch
+- Ice Punch
+- Foresight
+- Fake Out
+- Baton Pass
+- Dynamic Punch
+- Power Swap
+- Guard Swap
+- Psycho Cut
+- Bullet Punch
+- Drain Punch
+- Secret Power
+- Quick Guard
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dream Eater, Dynamic Punch, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+- Body Slam
+- Counter
+- Double-Edge
+- Dream Eater
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
 </div>
 </div>
 </details>

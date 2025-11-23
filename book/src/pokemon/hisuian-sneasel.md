@@ -1,7 +1,7 @@
 ## Hisuian Sneasel (#200)
 <details class="pokemon-card-container" open>
 <summary>Hisuian Sneasel overview</summary>
-Types: Poison / Fighting • Egg Groups: Field • Found: Froslass Cavern (wild)
+Types: Poison / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,26 @@ Types: Poison / Fighting • Egg Groups: Field • Found: Froslass Cavern (wild)
 - Ground (2×)
 - Flying (2×)
 - Psychic (4×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM36 - Sludge Bomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Froslass Cavern F1 — Grass (Day) (20%)
@@ -62,11 +82,12 @@ Types: Poison / Fighting • Egg Groups: Field • Found: Froslass Cavern (wild)
 - Dire Claw (Lv 44)
 - Close Combat (Lv 47)
 
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM36 - Sludge Bomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM46 - Thief, HM06 - Rock Smash
-
 **Tutor Moves**
-Counter, Endure, Sleep Talk, Swift, Swords Dance
+- Counter
+- Endure
+- Sleep Talk
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Cubchoo (#354)
 <details class="pokemon-card-container" open>
 <summary>Cubchoo overview</summary>
-Types: Ice • Egg Groups: Field • Found: Riverwalk Trail N, Froslass Cavern (wild)
+Types: Ice • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,29 @@ Types: Ice • Egg Groups: Field • Found: Riverwalk Trail N, Froslass Cavern (
 - Fighting (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Froslass Cavern BF2 — Grass (Day) (10%)
@@ -59,13 +82,28 @@ Types: Ice • Egg Groups: Field • Found: Riverwalk Trail N, Froslass Cavern (
 - Sheer Cold (Lv 57)
 
 **Egg Moves**
-Yawn, Avalanche, Encore, Ice Punch, Night Slash, Assurance, Sleep Talk, Focus Punch, Play Rough
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+- Yawn
+- Avalanche
+- Encore
+- Ice Punch
+- Night Slash
+- Assurance
+- Sleep Talk
+- Focus Punch
+- Play Rough
 
 **Tutor Moves**
-Body Slam, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

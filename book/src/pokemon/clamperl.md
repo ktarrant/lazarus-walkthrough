@@ -1,7 +1,7 @@
 ## Clamperl (#289)
 <details class="pokemon-card-container" open>
 <summary>Clamperl overview</summary>
-Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery (GR)(fish) Port Pello, Sea of Asteri, Sea of Vulcai, Fresco Isles, Palati City
+Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,22 @@ Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery (GR)(fish) Port
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (20%)
@@ -62,13 +78,26 @@ Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery (GR)(fish) Port
 - Shell Smash (Lv 50)
 
 **Egg Moves**
-Refresh, Mud Sport, Body Slam, Supersonic, Barrier, Confuse Ray, Aqua Ring, Muddy Water, Water Pulse, Brine, Endure
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Refresh
+- Mud Sport
+- Body Slam
+- Supersonic
+- Barrier
+- Confuse Ray
+- Aqua Ring
+- Muddy Water
+- Water Pulse
+- Brine
+- Endure
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

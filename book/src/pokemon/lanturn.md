@@ -1,7 +1,7 @@
 ## Lanturn (#286)
 <details class="pokemon-card-container" open>
 <summary>Lanturn overview</summary>
-Types: Water / Electric • Egg Groups: Water 2 • Found: Sea of Asteri, Sea of Vulcai (wild)
+Types: Water / Electric • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,29 @@ Types: Water / Electric • Egg Groups: Water 2 • Found: Sea of Asteri, Sea of
 *Weak to*
 - Grass (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM57 - Dazzling Gleam
+- TM59 - Volt Switch
+- HM03 - Surf
+- HM05 - Flash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 27
@@ -72,13 +95,26 @@ Lv. 27
 - Glitzy Glow (Lv 50)
 
 **Egg Moves**
-Flail, Screech, Amnesia, Psybeam, Whirlpool, Agility, Mist, Shock Wave, Brine, Water Pulse, Soak
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM03 - Surf, HM05 - Flash, HM07 - Waterfall, HM08 - Dive
+- Flail
+- Screech
+- Amnesia
+- Psybeam
+- Whirlpool
+- Agility
+- Mist
+- Shock Wave
+- Brine
+- Water Pulse
+- Soak
 
 **Tutor Moves**
-Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Thunder Wave
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

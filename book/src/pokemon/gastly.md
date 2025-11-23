@@ -1,7 +1,7 @@
 ## Gastly (#155)
 <details class="pokemon-card-container" open>
 <summary>Gastly overview</summary>
-Types: Ghost / Poison • Egg Groups: Amorphous • Found: Erinys Path E (wild)
+Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,28 @@ Types: Ghost / Poison • Egg Groups: Amorphous • Found: Erinys Path E (wild)
 - Psychic (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- TM57 - Dazzling Gleam
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (20%)
@@ -61,13 +83,32 @@ Types: Ghost / Poison • Egg Groups: Amorphous • Found: Erinys Path E (wild)
 - Nightmare (Lv 47)
 
 **Egg Moves**
-Psywave, Perish Song, Haze, Astonish, Grudge, Fire Punch, Ice Punch, Thunder Punch, Disable, Scary Face, Clear Smog, Smog, Reflect Type
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM24 - Thunderbolt, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM36 - Sludge Bomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, TM57 - Dazzling Gleam
+- Psywave
+- Perish Song
+- Haze
+- Astonish
+- Grudge
+- Fire Punch
+- Ice Punch
+- Thunder Punch
+- Disable
+- Scary Face
+- Clear Smog
+- Smog
+- Reflect Type
 
 **Tutor Moves**
-Dream Eater, Endure, Explosion, Fire Punch, Ice Punch, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Thunder Punch
+- Dream Eater
+- Endure
+- Explosion
+- Fire Punch
+- Ice Punch
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Punch
 </div>
 </div>
 </details>

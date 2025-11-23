@@ -1,7 +1,7 @@
 ## Bronzor (#194)
 <details class="pokemon-card-container" open>
 <summary>Bronzor overview</summary>
-Types: Steel / Psychic • Egg Groups: Mineral • Found: Acrisia Mountains Peak, Froslass Cavern (wild)
+Types: Steel / Psychic • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,6 +29,27 @@ Types: Steel / Psychic • Egg Groups: Mineral • Found: Acrisia Mountains Peak
 - Ground (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM48 - Skill Swap
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (10%)
@@ -69,11 +90,16 @@ Types: Steel / Psychic • Egg Groups: Mineral • Found: Acrisia Mountains Peak
 - Heavy Slam (Lv 49)
 - Clangorous Soul (Lv 54)
 
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM48 - Skill Swap, HM05 - Flash
-
 **Tutor Moves**
-Body Slam, Dream Eater, Endure, Psych Up, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Dream Eater
+- Endure
+- Psych Up
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

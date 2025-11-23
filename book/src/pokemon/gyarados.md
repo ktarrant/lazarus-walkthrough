@@ -1,7 +1,7 @@
 ## Gyarados (#323)
 <details class="pokemon-card-container" open>
 <summary>Gyarados overview</summary>
-Types: Water / Flying • Egg Groups: Water 2 / Dragon • Found: ?
+Types: Water / Flying • Egg Groups: Water 2 / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,38 @@ Types: Water / Flying • Egg Groups: Water 2 / Dragon • Found: ?
 *Weak to*
 - Electric (4×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM05 - Roar
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM53 - Ice Fang
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 20
@@ -55,11 +87,15 @@ Lv. 20
 - Rain Dance (Lv 51)
 - Hyper Beam (Lv 54)
 
-**TM/HM Moves**
-TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM32 - Double Team, TM33 - Reflect, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM53 - Ice Fang, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
-
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Thunder Wave
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

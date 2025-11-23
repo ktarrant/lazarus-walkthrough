@@ -1,7 +1,7 @@
 ## Ninjask (#046)
 <details class="pokemon-card-container" open>
 <summary>Ninjask overview</summary>
-Types: Bug / Dark • Egg Groups: Bug • Found: Sea of Asteri (wild)
+Types: Bug / Dark • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,26 @@ Types: Bug / Dark • Egg Groups: Bug • Found: Sea of Asteri (wild)
 - Bug (2×)
 - Rock (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM60 - U-Turn
+- HM01 - Cut
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 20
@@ -71,13 +91,25 @@ Lv. 20
 - Heal Order (Lv 47)
 
 **Egg Moves**
-Endure, Feint Attack, Gust, Silver Wind, Bug Buzz, Night Slash, Bug Bite, Final Gambit
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM37 - Sandstorm, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM60 - U-Turn, HM01 - Cut, HM05 - Flash
+- Endure
+- Feint Attack
+- Gust
+- Silver Wind
+- Bug Buzz
+- Night Slash
+- Bug Bite
+- Final Gambit
 
 **Tutor Moves**
-Double-Edge, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

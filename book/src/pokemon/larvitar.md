@@ -1,7 +1,7 @@
 ## Larvitar (#384)
 <details class="pokemon-card-container" open>
 <summary>Larvitar overview</summary>
-Types: Rock / Ground • Egg Groups: Monster • Found: The Stygian Caves (wild)
+Types: Rock / Ground • Egg Groups: Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,27 @@ Types: Rock / Ground • Egg Groups: Monster • Found: The Stygian Caves (wild)
 - Fighting (2×)
 - Ground (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (2%)
@@ -61,13 +82,28 @@ Types: Rock / Ground • Egg Groups: Monster • Found: The Stygian Caves (wild)
 - Hyper Beam (Lv 55)
 
 **Egg Moves**
-Pursuit, Stomp, Outrage, Focus Energy, Ancient Power, Dragon Dance, Curse, Iron Defense, Assurance, Iron Head, Stealth Rock, Iron Tail
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, HM06 - Rock Smash
+- Pursuit
+- Stomp
+- Outrage
+- Focus Energy
+- Ancient Power
+- Dragon Dance
+- Curse
+- Iron Defense
+- Assurance
+- Iron Head
+- Stealth Rock
+- Iron Tail
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

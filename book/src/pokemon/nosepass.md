@@ -1,7 +1,7 @@
 ## Nosepass (#102)
 <details class="pokemon-card-container" open>
 <summary>Nosepass overview</summary>
-Types: Rock • Egg Groups: Mineral • Found: Acrisia Mountains (wild)
+Types: Rock • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,28 @@ Types: Rock • Egg Groups: Mineral • Found: Acrisia Mountains (wild)
 - Fighting (2×)
 - Ground (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
+- TM57 - Dazzling Gleam
+- TM59 - Volt Switch
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -64,13 +86,31 @@ Types: Rock • Egg Groups: Mineral • Found: Acrisia Mountains (wild)
 - Electro Drift (Lv 52)
 
 **Egg Moves**
-Magnitude, Rollout, Double-Edge, Block, Stealth Rock, Endure, Wide Guard
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM32 - Double Team, TM34 - Shock Wave, TM37 - Sandstorm, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM04 - Strength, HM06 - Rock Smash
+- Magnitude
+- Rollout
+- Double-Edge
+- Block
+- Stealth Rock
+- Endure
+- Wide Guard
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Dynamic Punch, Endure, Explosion, Fire Punch, Ice Punch, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Thunder Punch, Thunder Wave
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Explosion
+- Fire Punch
+- Ice Punch
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

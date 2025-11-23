@@ -1,7 +1,7 @@
 ## Nincada (#045)
 <details class="pokemon-card-container" open>
 <summary>Nincada overview</summary>
-Types: Bug / Ground • Egg Groups: Bug • Found: Bronze Fields N, Bronze Fields S (wild)
+Types: Bug / Ground • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,22 @@ Types: Bug / Ground • Egg Groups: Bug • Found: Bronze Fields N, Bronze Field
 - Water (2×)
 - Ice (2×)
 - Flying (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- HM01 - Cut
+- HM05 - Flash
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (20%)
@@ -56,13 +72,23 @@ Types: Bug / Ground • Egg Groups: Bug • Found: Bronze Fields N, Bronze Field
 - Dig (Lv 37)
 
 **Egg Moves**
-Endure, Feint Attack, Gust, Silver Wind, Bug Buzz, Night Slash, Bug Bite, Final Gambit
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM37 - Sandstorm, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, HM01 - Cut, HM05 - Flash
+- Endure
+- Feint Attack
+- Gust
+- Silver Wind
+- Bug Buzz
+- Night Slash
+- Bug Bite
+- Final Gambit
 
 **Tutor Moves**
-Double-Edge, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

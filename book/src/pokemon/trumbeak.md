@@ -1,7 +1,7 @@
 ## Trumbeak (#038)
 <details class="pokemon-card-container" open>
 <summary>Trumbeak overview</summary>
-Types: Normal / Flying • Egg Groups: Flying • Found: Sea of Asteri, Kaptara Island (wild)
+Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,22 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Sea of Asteri, Kaptara 
 - Electric (2×)
 - Ice (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- HM02 - Fly
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 14
@@ -62,13 +78,19 @@ Lv. 14
 - Hyper Voice (Lv 45)
 
 **Egg Moves**
-Brave Bird, Boomburst, Mirror Move, Tailwind, Uproar
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM17 - Protect, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, HM02 - Fly, HM06 - Rock Smash
+- Brave Bird
+- Boomburst
+- Mirror Move
+- Tailwind
+- Uproar
 
 **Tutor Moves**
-Endure, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

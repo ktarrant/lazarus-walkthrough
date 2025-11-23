@@ -1,7 +1,7 @@
 ## Fomantis (#324)
 <details class="pokemon-card-container" open>
 <summary>Fomantis overview</summary>
-Types: Grass • Egg Groups: Grass • Found: Bronze Fields S, Erinys Path E, Sea of Asteri, Kaptara Island (wild)
+Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,8 +25,18 @@ Types: Grass • Egg Groups: Grass • Found: Bronze Fields S, Erinys Path E, Se
 - Flying (2×)
 - Bug (2×)
 
-**Notable Held Item**
-Miracle Seed
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Held Item**
 Miracle Seed
@@ -68,13 +78,19 @@ Miracle Seed
 - Sunny Day (Lv 46)
 
 **Egg Moves**
-Weather Ball, Giga Drain, Aromatherapy, Defog, Leaf Storm
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Weather Ball
+- Giga Drain
+- Aromatherapy
+- Defog
+- Leaf Storm
 
 **Tutor Moves**
-Endure, Fury Cutter, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Fury Cutter
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Tauros (#224)
 <details class="pokemon-card-container" open>
 <summary>Tauros overview</summary>
-Types: Normal • Egg Groups: Field • Found: Asfal Hills, Kaptara Island (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,37 @@ Types: Normal • Egg Groups: Field • Found: Asfal Hills, Kaptara Island (wild
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (20%)
@@ -54,11 +85,15 @@ Types: Normal • Egg Groups: Field • Found: Asfal Hills, Kaptara Island (wild
 - Double-Edge (Lv 63)
 - Giga Impact (Lv 71)
 
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

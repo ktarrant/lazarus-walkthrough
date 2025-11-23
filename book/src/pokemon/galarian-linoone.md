@@ -1,7 +1,7 @@
 ## Galarian Linoone (#329)
 <details class="pokemon-card-container" open>
 <summary>Galarian Linoone overview</summary>
-Types: Dark / Normal • Egg Groups: Field • Found: Port Pello, Sea of Asteri (wild)
+Types: Dark / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,25 @@ Types: Dark / Normal • Egg Groups: Field • Found: Port Pello, Sea of Asteri 
 - Fighting (4×)
 - Bug (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
 
 **Evolution Info**
 Lv. 20
@@ -64,13 +83,20 @@ Lv. 20
 - Double-Edge (Lv 48)
 
 **Egg Moves**
-Parting Shot, Quick Guard, Knock Off
-
-**TM/HM Moves**
-TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf
+- Parting Shot
+- Quick Guard
+- Knock Off
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swift, Thunder Wave
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

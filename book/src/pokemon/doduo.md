@@ -1,7 +1,7 @@
 ## Doduo (#304)
 <details class="pokemon-card-container" open>
 <summary>Doduo overview</summary>
-Types: Ground / Flying • Egg Groups: Flying • Found: Riverwalk Trail N, Pythios Town, Fresco Isles (wild)
+Types: Ground / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,21 @@ Types: Ground / Flying • Egg Groups: Flying • Found: Riverwalk Trail N, Pyth
 *Weak to*
 - Water (2×)
 - Ice (4×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- HM02 - Fly
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -64,13 +79,27 @@ Types: Ground / Flying • Egg Groups: Flying • Found: Riverwalk Trail N, Pyth
 - Thrash (Lv 50)
 
 **Egg Moves**
-Quick Attack, Supersonic, Haze, Feint Attack, Flail, Endeavor, Mirror Move, Brave Bird, Natural Gift, Assurance
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, HM02 - Fly
+- Quick Attack
+- Supersonic
+- Haze
+- Feint Attack
+- Flail
+- Endeavor
+- Mirror Move
+- Brave Bird
+- Natural Gift
+- Assurance
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Kirlia (#080)
 <details class="pokemon-card-container" open>
 <summary>Kirlia overview</summary>
-Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous • Found: Corrin Crossing (wild)
+Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,33 @@ Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous • Found: Corrin 
 - Poison (2×)
 - Ghost (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- TM57 - Dazzling Gleam
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 20
@@ -66,13 +93,39 @@ Lv. 20
 - Stored Power (Lv 51)
 
 **Egg Moves**
-Disable, Mean Look, Memento, Destiny Bond, Grudge, Shadow Sneak, Confuse Ray, Encore, Synchronoise, Skill Swap, Misty Terrain, Ally Switch
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM24 - Thunderbolt, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, TM57 - Dazzling Gleam, HM05 - Flash
+- Disable
+- Mean Look
+- Memento
+- Destiny Bond
+- Grudge
+- Shadow Sneak
+- Confuse Ray
+- Encore
+- Synchronoise
+- Skill Swap
+- Misty Terrain
+- Ally Switch
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Dream Eater, Endure, Fire Punch, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Endure
+- Fire Punch
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

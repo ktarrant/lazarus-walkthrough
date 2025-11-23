@@ -1,7 +1,7 @@
 ## Clauncher (#242)
 <details class="pokemon-card-container" open>
 <summary>Clauncher overview</summary>
-Types: Water • Egg Groups: Water 3 / Water 1 • Found: Kalami City, Riverwalk Trail N, Riverwalk Trail S, Pythios Cemetery (surf) Kalami City, Riverwalk Trail N, Riverwalk Trail S (GR)(fish) Sofos City, Sea of Asteri, Marmaro Island
+Types: Water • Egg Groups: Water 3 / Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,25 @@ Types: Water • Egg Groups: Water 3 / Water 1 • Found: Kalami City, Riverwalk
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Kalami City — Fishing (60%)
@@ -64,13 +83,21 @@ Types: Water • Egg Groups: Water 3 / Water 1 • Found: Kalami City, Riverwalk
 - Octazooka (Lv 50)
 
 **Egg Moves**
-Aqua Jet, Entrainment, Endure, Crabhammer, Helping Hand
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM32 - Double Team, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Aqua Jet
+- Entrainment
+- Endure
+- Crabhammer
+- Helping Hand
 
 **Tutor Moves**
-Endure, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

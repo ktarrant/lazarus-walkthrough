@@ -1,7 +1,7 @@
 ## Paras (#051)
 <details class="pokemon-card-container" open>
 <summary>Paras overview</summary>
-Types: Bug / Grass • Egg Groups: Bug / Grass • Found: Bronze Fields N, Pythios Cemetery (wild)
+Types: Bug / Grass • Egg Groups: Bug / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,28 @@ Types: Bug / Grass • Egg Groups: Bug / Grass • Found: Bronze Fields N, Pythi
 - Flying (4×)
 - Bug (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM36 - Sludge Bomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Night) (20%)
@@ -64,13 +86,34 @@ Types: Bug / Grass • Egg Groups: Bug / Grass • Found: Bronze Fields N, Pythi
 - X-Scissor (Lv 54)
 
 **Egg Moves**
-Screech, Counter, Psybeam, Flail, Sweet Scent, Pursuit, Metal Claw, Bug Bite, Cross Poison, Agility, Endure, Natural Gift, Leech Seed, Wide Guard, Rototiller, Fell Stinger, Grassy Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM36 - Sludge Bomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash, HM06 - Rock Smash
+- Screech
+- Counter
+- Psybeam
+- Flail
+- Sweet Scent
+- Pursuit
+- Metal Claw
+- Bug Bite
+- Cross Poison
+- Agility
+- Endure
+- Natural Gift
+- Leech Seed
+- Wide Guard
+- Rototiller
+- Fell Stinger
+- Grassy Terrain
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Fury Cutter
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

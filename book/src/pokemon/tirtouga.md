@@ -1,7 +1,7 @@
 ## Tirtouga (#380)
 <details class="pokemon-card-container" open>
 <summary>Tirtouga overview</summary>
-Types: Water / Rock • Egg Groups: Water 3 / Water 1 • Found: Palati City (wild)
+Types: Water / Rock • Egg Groups: Water 3 / Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,28 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1 • Found: Palati City (wi
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Palati City — Fishing (60%)
@@ -65,13 +87,27 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1 • Found: Palati City (wi
 - Hydro Pump (Lv 50)
 
 **Egg Moves**
-Water Pulse, Knock Off, Rock Throw, Slam, Iron Defense, Flail, Whirlpool, Body Slam, Bide, Guard Swap, Liquidation
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Water Pulse
+- Knock Off
+- Rock Throw
+- Slam
+- Iron Defense
+- Flail
+- Whirlpool
+- Body Slam
+- Bide
+- Guard Swap
+- Liquidation
 
 **Tutor Moves**
-Body Slam, Endure, Icy Wind, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Endure
+- Icy Wind
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

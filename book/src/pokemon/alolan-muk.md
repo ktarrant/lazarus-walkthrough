@@ -1,7 +1,7 @@
 ## Alolan Muk (#072)
 <details class="pokemon-card-container" open>
 <summary>Alolan Muk overview</summary>
-Types: Poison / Dark • Egg Groups: Amorphous • Found: Areios Hideout (wild)
+Types: Poison / Dark • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,34 @@ Types: Poison / Dark • Egg Groups: Amorphous • Found: Areios Hideout (wild)
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM51 - Poison Fang
 
 **Evolution Info**
 Lv. 36
@@ -61,13 +89,34 @@ Lv. 36
 - Memento (Lv 57)
 
 **Egg Moves**
-Assurance, Clear Smog, Curse, Imprison, Mean Look, Power-Up Punch, Pursuit, Scary Face, Shadow Sneak, Spite, Spit Up, Stockpile, Swallow
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM51 - Poison Fang
+- Assurance
+- Clear Smog
+- Curse
+- Imprison
+- Mean Look
+- Power-Up Punch
+- Pursuit
+- Scary Face
+- Shadow Sneak
+- Spite
+- Spit Up
+- Stockpile
+- Swallow
 
 **Tutor Moves**
-Body Slam, Endure, Explosion, Fire Punch, Ice Punch, Metronome, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+- Body Slam
+- Endure
+- Explosion
+- Fire Punch
+- Ice Punch
+- Metronome
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
 </div>
 </div>
 </details>

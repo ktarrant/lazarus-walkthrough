@@ -1,7 +1,7 @@
 ## Silcoon (#074)
 <details class="pokemon-card-container" open>
 <summary>Silcoon overview</summary>
-Types: Bug • Egg Groups: Bug • Found: Riverwalk Trail S (wild)
+Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">

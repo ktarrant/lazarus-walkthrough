@@ -1,7 +1,7 @@
 ## Braviary (#366)
 <details class="pokemon-card-container" open>
 <summary>Braviary overview</summary>
-Types: Normal / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
+Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,25 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
 - Electric (2×)
 - Ice (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
+- HM01 - Cut
+- HM02 - Fly
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 34, Day
@@ -67,11 +86,15 @@ Lv. 34, Day
 - Brave Bird (Lv 59)
 - Thrash (Lv 64)
 
-**TM/HM Moves**
-TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, HM01 - Cut, HM02 - Fly, HM04 - Strength, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

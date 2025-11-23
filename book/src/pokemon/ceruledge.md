@@ -1,7 +1,7 @@
 ## Ceruledge (#284)
 <details class="pokemon-card-container" open>
 <summary>Ceruledge overview</summary>
-Types: Fire / Ghost • Egg Groups: Human-Like • Found: Charcadet (evolve)
+Types: Fire / Ghost • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -49,7 +49,9 @@ Malicious Armor
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Egg Moves**
-Destiny Bond, Disable, Spite
+- Destiny Bond
+- Disable
+- Spite
 </div>
 </div>
 </details>

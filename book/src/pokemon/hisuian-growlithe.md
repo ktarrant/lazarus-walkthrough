@@ -1,7 +1,7 @@
 ## Hisuian Growlithe (#356)
 <details class="pokemon-card-container" open>
 <summary>Hisuian Growlithe overview</summary>
-Types: Fire / Rock • Egg Groups: Field • Found: Marmaro Island (wild)
+Types: Fire / Rock • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,22 @@ Types: Fire / Rock • Egg Groups: Field • Found: Marmaro Island (wild)
 - Fighting (2×)
 - Ground (4×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM50 - Overheat
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Jusmail Town — Grass (Day) (4%)
@@ -65,11 +81,13 @@ Types: Fire / Rock • Egg Groups: Field • Found: Marmaro Island (wild)
 - Flare Blitz (Lv 45)
 - Head Smash (Lv 50)
 
-**TM/HM Moves**
-TM05 - Roar, TM11 - Sunny Day, TM17 - Protect, TM23 - Iron Tail, TM28 - Dig, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM50 - Overheat, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Rock Slide, Sleep Talk, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Rock Slide
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Lumineon (#237)
 <details class="pokemon-card-container" open>
 <summary>Lumineon overview</summary>
-Types: Water / Fairy • Egg Groups: Water 2 • Found: Port Pello
+Types: Water / Fairy • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,27 @@ Types: Water / Fairy • Egg Groups: Water 2 • Found: Port Pello
 - Electric (2×)
 - Grass (2×)
 - Poison (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM05 - Flash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 26
@@ -69,13 +90,27 @@ Lv. 26
 - Soak (Lv 54)
 
 **Egg Moves**
-Sweet Kiss, Charm, Flail, Aqua Tail, Splash, Psybeam, Tickle, Agility, Brine, Aurora Beam, Signal Beam, Confuse Ray
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM05 - Flash, HM07 - Waterfall, HM08 - Dive
+- Sweet Kiss
+- Charm
+- Flail
+- Aqua Tail
+- Splash
+- Psybeam
+- Tickle
+- Agility
+- Brine
+- Aurora Beam
+- Signal Beam
+- Confuse Ray
 
 **Tutor Moves**
-Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Endure
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

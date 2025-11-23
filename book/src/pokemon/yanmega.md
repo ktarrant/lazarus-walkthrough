@@ -1,7 +1,7 @@
 ## Yanmega (#361)
 <details class="pokemon-card-container" open>
 <summary>Yanmega overview</summary>
-Types: Bug / Dragon • Egg Groups: Bug • Found: Corrin Crossing (wild)
+Types: Bug / Dragon • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,26 @@ Types: Bug / Dragon • Egg Groups: Bug • Found: Corrin Crossing (wild)
 - Rock (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM60 - U-Turn
+- HM02 - Fly
+- HM05 - Flash
 
 **Evolution Info**
 Lv. knows Ancient Power
@@ -72,13 +92,28 @@ Lv. knows Ancient Power
 - Draco Meteor (Lv 57)
 
 **Egg Moves**
-Whirlwind, Reversal, Leech Life, Signal Beam, Silver Wind, Feint, Feint Attack, Pursuit, Double-Edge, Secret Power
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM60 - U-Turn, HM02 - Fly, HM05 - Flash
+- Whirlwind
+- Reversal
+- Leech Life
+- Signal Beam
+- Silver Wind
+- Feint
+- Feint Attack
+- Pursuit
+- Double-Edge
+- Secret Power
 
 **Tutor Moves**
-Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Flaaffy (#062)
 <details class="pokemon-card-container" open>
 <summary>Flaaffy overview</summary>
-Types: Electric • Egg Groups: Monster / Field • Found: Mareep (evolve)
+Types: Electric • Egg Groups: Monster / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,32 @@ Types: Electric • Egg Groups: Monster / Field • Found: Mareep (evolve)
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM57 - Dazzling Gleam
+- TM59 - Volt Switch
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 15
@@ -57,13 +83,37 @@ Lv. 15
 - Thunder (Lv 56)
 
 **Egg Moves**
-Take Down, Body Slam, Screech, Odor Sleuth, Charge, Flatter, Sand Attack, Iron Tail, After You, Agility, Eerie Impulse, Electric Terrain
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Take Down
+- Body Slam
+- Screech
+- Odor Sleuth
+- Charge
+- Flatter
+- Sand Attack
+- Iron Tail
+- After You
+- Agility
+- Eerie Impulse
+- Electric Terrain
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dynamic Punch, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

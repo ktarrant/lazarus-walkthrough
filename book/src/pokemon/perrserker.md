@@ -1,7 +1,7 @@
 ## Perrserker (#209)
 <details class="pokemon-card-container" open>
 <summary>Perrserker overview</summary>
-Types: Steel • Egg Groups: Field • Found: The Nyx Trails, Kaptara Island (wild)
+Types: Steel • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,6 +29,24 @@ Types: Steel • Egg Groups: Field • Found: The Nyx Trails, Kaptara Island (wi
 - Fire (2×)
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
 
 **Evolution Info**
 Lv. 27
@@ -74,13 +92,22 @@ Lv. 27
 - Thrash (Lv 45)
 
 **Egg Moves**
-Spite, Double-Edge, Curse, Flail, Night Slash, Covet
-
-**TM/HM Moves**
-TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
+- Spite
+- Double-Edge
+- Curse
+- Flail
+- Night Slash
+- Covet
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Metronome, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

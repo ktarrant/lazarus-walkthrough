@@ -1,7 +1,7 @@
 ## Growlithe (#356)
 <details class="pokemon-card-container" open>
 <summary>Growlithe overview</summary>
-Types: Fire • Egg Groups: Field • Found: Marmaro Island (wild)
+Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,31 @@ Types: Fire • Egg Groups: Field • Found: Marmaro Island (wild)
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM50 - Overheat
+- TM52 - Thunder Fang
+- TM54 - Fire Fang
+- TM55 - Psychic Fangs
+- TM58 - Play Rough
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Jusmail Town — Grass (Day) (4%)
@@ -63,13 +88,30 @@ Types: Fire • Egg Groups: Field • Found: Marmaro Island (wild)
 - Flare Blitz (Lv 45)
 
 **Egg Moves**
-Body Slam, Crunch, Thrash, Fire Spin, Howl, Heat Wave, Double-Edge, Flare Blitz, Morning Sun, Covet, Iron Tail, Double Kick, Close Combat, Burn Up
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM20 - Safeguard, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM35 - Flamethrower, TM38 - Fire Blast, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM50 - Overheat, TM52 - Thunder Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, TM58 - Play Rough, HM04 - Strength, HM06 - Rock Smash
+- Body Slam
+- Crunch
+- Thrash
+- Fire Spin
+- Howl
+- Heat Wave
+- Double-Edge
+- Flare Blitz
+- Morning Sun
+- Covet
+- Iron Tail
+- Double Kick
+- Close Combat
+- Burn Up
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Hoothoot (#141)
 <details class="pokemon-card-container" open>
 <summary>Hoothoot overview</summary>
-Types: Normal / Flying • Egg Groups: Flying • Found: Acrisia City, Bronze Fields N, Pythios Town (wild)
+Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,26 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Acrisia City, Bronze Fi
 - Electric (2×)
 - Ice (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM48 - Skill Swap
+- HM02 - Fly
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia City — Grass (Night) (20%)
@@ -62,13 +82,29 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Acrisia City, Bronze Fi
 - Dream Eater (Lv 46)
 
 **Egg Moves**
-Mirror Move, Supersonic, Feint Attack, Wing Attack, Whirlwind, Sky Attack, Feather Dance, Agility, Night Shade, Defog, Mean Look, Hurricane
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM48 - Skill Swap, HM02 - Fly, HM05 - Flash
+- Mirror Move
+- Supersonic
+- Feint Attack
+- Wing Attack
+- Whirlwind
+- Sky Attack
+- Feather Dance
+- Agility
+- Night Shade
+- Defog
+- Mean Look
+- Hurricane
 
 **Tutor Moves**
-Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

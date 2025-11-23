@@ -1,7 +1,7 @@
 ## Wurmple (#073)
 <details class="pokemon-card-container" open>
 <summary>Wurmple overview</summary>
-Types: Bug • Egg Groups: Bug • Found: Jusmail Town, Riverwalk Trail S (wild)
+Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -47,7 +47,7 @@ Types: Bug • Egg Groups: Bug • Found: Jusmail Town, Riverwalk Trail S (wild)
 - Bug Bite (Lv 15)
 
 **Tutor Moves**
-Snore
+- Snore
 </div>
 </div>
 </details>

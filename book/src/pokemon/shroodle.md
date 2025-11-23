@@ -1,7 +1,7 @@
 ## Shroodle (#216)
 <details class="pokemon-card-container" open>
 <summary>Shroodle overview</summary>
-Types: Poison / Normal • Egg Groups: Field • Found: Kalami City, Asfal Hills (wild)
+Types: Poison / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,18 @@ Types: Poison / Normal • Egg Groups: Field • Found: Kalami City, Asfal Hills
 *Weak to*
 - Ground (2×)
 - Psychic (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
 
 **Encounter Locations**
 - Asfal Hills — Grass (Night) (5%)
@@ -61,13 +73,22 @@ Types: Poison / Normal • Egg Groups: Field • Found: Kalami City, Asfal Hills
 - Gunk Shot (Lv 45)
 
 **Egg Moves**
-Copycat, Cross Poison, Parting Shot, Super Fang, Swagger, Toxic
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM46 - Thief
+- Copycat
+- Cross Poison
+- Parting Shot
+- Super Fang
+- Swagger
+- Toxic
 
 **Tutor Moves**
-Double-Edge, Endure, Metronome, Mud-Slap, Psych Up, Sleep Talk, Swagger, Swords Dance
+- Double-Edge
+- Endure
+- Metronome
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

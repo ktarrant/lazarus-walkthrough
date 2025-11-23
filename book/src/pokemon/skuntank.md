@@ -1,7 +1,7 @@
 ## Skuntank (#221)
 <details class="pokemon-card-container" open>
 <summary>Skuntank overview</summary>
-Types: Poison / Dark • Egg Groups: Field • Found: Stunky (evolve)
+Types: Poison / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,31 @@ Types: Poison / Dark • Egg Groups: Field • Found: Stunky (evolve)
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 34
@@ -62,13 +87,31 @@ Lv. 34
 - Explosion (Lv 45)
 
 **Egg Moves**
-Pursuit, Leer, Smog, Double-Edge, Crunch, Scary Face, Astonish, Punishment, Haze, Iron Tail, Foul Play, Flame Burst, Play Rough
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Pursuit
+- Leer
+- Smog
+- Double-Edge
+- Crunch
+- Scary Face
+- Astonish
+- Punishment
+- Haze
+- Iron Tail
+- Foul Play
+- Flame Burst
+- Play Rough
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Explosion, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Explosion
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

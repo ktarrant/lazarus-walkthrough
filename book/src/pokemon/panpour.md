@@ -1,7 +1,7 @@
 ## Panpour (#032)
 <details class="pokemon-card-container" open>
 <summary>Panpour overview</summary>
-Types: Water / Normal • Egg Groups: Field • Found: Acrisia City (wild)
+Types: Water / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,31 @@ Types: Water / Normal • Egg Groups: Field • Found: Acrisia City (wild)
 - Electric (2×)
 - Grass (2×)
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM03 - Surf
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (5%)
@@ -62,13 +87,24 @@ Types: Water / Normal • Egg Groups: Field • Found: Acrisia City (wild)
 - Take Heart (Lv 46)
 
 **Egg Moves**
-Covet, Low Kick, Tickle, Nasty Plot, Role Play, Astonish, Aqua Ring, Aqua Tail, Mud Sport, Hydro Pump, Disarming Voice
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Covet
+- Low Kick
+- Tickle
+- Nasty Plot
+- Role Play
+- Astonish
+- Aqua Ring
+- Aqua Tail
+- Mud Sport
+- Hydro Pump
+- Disarming Voice
 
 **Tutor Moves**
-Ice Punch, Icy Wind, Sleep Talk, Snore, Swagger
+- Ice Punch
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

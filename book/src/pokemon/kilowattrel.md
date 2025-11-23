@@ -1,7 +1,7 @@
 ## Kilowattrel (#223)
 <details class="pokemon-card-container" open>
 <summary>Kilowattrel overview</summary>
-Types: Electric / Flying • Egg Groups: Water 1 / Flying • Found: Sea of Vulcai (wild)
+Types: Electric / Flying • Egg Groups: Water 1 / Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,16 @@ Types: Electric / Flying • Egg Groups: Water 1 / Flying • Found: Sea of Vulc
 *Weak to*
 - Ice (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- HM02 - Fly
 
 **Evolution Info**
 Lv. 25
@@ -63,13 +73,18 @@ Lv. 25
 - Hurricane (Lv 50)
 
 **Egg Moves**
-Endeavor, Feather Dance, Spit Up, Stockpile, Swallow, Weather Ball
-
-**TM/HM Moves**
-TM15 - Hyper Beam, TM17 - Protect, TM24 - Thunderbolt, TM25 - Thunder, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, HM02 - Fly
+- Endeavor
+- Feather Dance
+- Spit Up
+- Stockpile
+- Swallow
+- Weather Ball
 
 **Tutor Moves**
-Endure, Sleep Talk, Swift, Thunder Wave
+- Endure
+- Sleep Talk
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

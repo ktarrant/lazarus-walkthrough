@@ -1,7 +1,7 @@
 ## Togedemaru (#252)
 <details class="pokemon-card-container" open>
 <summary>Togedemaru overview</summary>
-Types: Electric / Steel • Egg Groups: Field / Fairy • Found: Wanderer`s Woods, Marmaro Island (wild)
+Types: Electric / Steel • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -30,6 +30,21 @@ Types: Electric / Steel • Egg Groups: Field / Fairy • Found: Wanderer`s Wood
 - Fire (2×)
 - Fighting (2×)
 - Ground (4×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
 
 **Encounter Locations**
 - Kaptara Island (East) — Grass (Night) (4%)
@@ -70,13 +85,25 @@ Types: Electric / Steel • Egg Groups: Field / Fairy • Found: Wanderer`s Wood
 - Thunderclap (Lv 55)
 
 **Egg Moves**
-Reversal, Present, Encore, Twineedle, Wish, Fake Out, Tickle, Flail, Disarming Voice
-
-**TM/HM Moves**
-TM06 - Toxic, TM15 - Hyper Beam, TM17 - Protect, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
+- Reversal
+- Present
+- Encore
+- Twineedle
+- Wish
+- Fake Out
+- Tickle
+- Flail
+- Disarming Voice
 
 **Tutor Moves**
-Defense Curl, Endure, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Defense Curl
+- Endure
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

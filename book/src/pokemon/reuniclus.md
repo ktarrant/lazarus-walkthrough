@@ -1,7 +1,7 @@
 ## Reuniclus (#278)
 <details class="pokemon-card-container" open>
 <summary>Reuniclus overview</summary>
-Types: Psychic • Egg Groups: Amorphous • Found: Kaptara Island (wild)
+Types: Psychic • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,32 @@ Types: Psychic • Egg Groups: Amorphous • Found: Kaptara Island (wild)
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 41
@@ -62,13 +88,33 @@ Lv. 41
 - Chloroblast (Lv 52)
 
 **Egg Moves**
-Night Shade, Astonish, Confuse Ray, Acid Armor, Trick, Imprison, Secret Power, Astonish, Helping Hand
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, TM49 - Snatch, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Night Shade
+- Astonish
+- Confuse Ray
+- Acid Armor
+- Trick
+- Imprison
+- Secret Power
+- Astonish
+- Helping Hand
 
 **Tutor Moves**
-Body Slam, Dream Eater, Endure, Explosion, Fire Punch, Ice Punch, Mega Punch, Psych Up, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Dream Eater
+- Endure
+- Explosion
+- Fire Punch
+- Ice Punch
+- Mega Punch
+- Psych Up
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

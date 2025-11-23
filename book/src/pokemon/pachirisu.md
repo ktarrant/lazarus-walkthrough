@@ -1,7 +1,7 @@
 ## Pachirisu (#210)
 <details class="pokemon-card-container" open>
 <summary>Pachirisu overview</summary>
-Types: Electric • Egg Groups: Fairy / Field • Found: Asfal Hills, Port Pello (wild)
+Types: Electric • Egg Groups: Fairy / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,27 @@ Types: Electric • Egg Groups: Fairy / Field • Found: Asfal Hills, Port Pello
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM05 - Flash
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (10%)
@@ -56,13 +77,32 @@ Types: Electric • Egg Groups: Fairy / Field • Found: Asfal Hills, Port Pello
 - Hyper Fang (Lv 49)
 
 **Egg Moves**
-Covet, Bite, Fake Tears, Defense Curl, Rollout, Flatter, Flail, Iron Tail, Tail Whip, Follow Me, Charge, Bestow, Ion Deluge, Baby-Doll Eyes
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash
+- Covet
+- Bite
+- Fake Tears
+- Defense Curl
+- Rollout
+- Flatter
+- Flail
+- Iron Tail
+- Tail Whip
+- Follow Me
+- Charge
+- Bestow
+- Ion Deluge
+- Baby-Doll Eyes
 
 **Tutor Moves**
-Defense Curl, Endure, Mud-Slap, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Defense Curl
+- Endure
+- Mud-Slap
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

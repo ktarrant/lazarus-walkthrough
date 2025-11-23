@@ -1,7 +1,7 @@
 ## Pawmi (#213)
 <details class="pokemon-card-container" open>
 <summary>Pawmi overview</summary>
-Types: Electric • Egg Groups: Field • Found: Asfal Hills (wild)
+Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,17 @@ Types: Electric • Egg Groups: Field • Found: Asfal Hills (wild)
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (15%)
@@ -55,13 +66,16 @@ Types: Electric • Egg Groups: Field • Found: Asfal Hills (wild)
 - Wild Charge (Lv 44)
 
 **Egg Moves**
-Fake Out, Mach Punch, Sweet Kiss, Wish
-
-**TM/HM Moves**
-TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM42 - Facade, TM44 - Rest, TM46 - Thief
+- Fake Out
+- Mach Punch
+- Sweet Kiss
+- Wish
 
 **Tutor Moves**
-Endure, Sleep Talk, Swift, Thunder Wave
+- Endure
+- Sleep Talk
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

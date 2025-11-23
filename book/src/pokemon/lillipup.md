@@ -1,7 +1,7 @@
 ## Lillipup (#034)
 <details class="pokemon-card-container" open>
 <summary>Lillipup overview</summary>
-Types: Normal • Egg Groups: Field • Found: Bronze Fields N, Bronze Fields S, Kalami City (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,24 @@ Types: Normal • Egg Groups: Field • Found: Bronze Fields N, Bronze Fields S,
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (20%)
@@ -56,13 +74,27 @@ Types: Normal • Egg Groups: Field • Found: Bronze Fields N, Bronze Fields S,
 - Play Rough (Lv 45)
 
 **Egg Moves**
-Howl, Sand Attack, Mud-Slap, Lick, Charm, Endure, Yawn, Pursuit, Fire Fang, Thunder Fang, Ice Fang, After You, Psychic Fangs
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM06 - Rock Smash
+- Howl
+- Sand Attack
+- Mud-Slap
+- Lick
+- Charm
+- Endure
+- Yawn
+- Pursuit
+- Fire Fang
+- Thunder Fang
+- Ice Fang
+- After You
+- Psychic Fangs
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Thunder Wave
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

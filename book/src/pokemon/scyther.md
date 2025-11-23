@@ -1,7 +1,7 @@
 ## Scyther (#244)
 <details class="pokemon-card-container" open>
 <summary>Scyther overview</summary>
-Types: Bug / Flying • Egg Groups: Bug • Found: Sea of Asteri, Sea of Vulcai (wild)
+Types: Bug / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,27 @@ Types: Bug / Flying • Egg Groups: Bug • Found: Sea of Asteri, Sea of Vulcai 
 - Ice (2×)
 - Flying (2×)
 - Rock (4×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM60 - U-Turn
+- HM01 - Cut
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Sea of Asteri (West) — Grass (Day) (8%)
@@ -69,13 +90,28 @@ Types: Bug / Flying • Egg Groups: Bug • Found: Sea of Asteri, Sea of Vulcai 
 - Feint (Lv 61)
 
 **Egg Moves**
-Counter, Baton Pass, Razor Wind, Reversal, Endure, Silver Wind, Bug Buzz, Night Slash, Defog, Steel Wing, Quick Guard
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM60 - U-Turn, HM01 - Cut, HM06 - Rock Smash
+- Counter
+- Baton Pass
+- Razor Wind
+- Reversal
+- Endure
+- Silver Wind
+- Bug Buzz
+- Night Slash
+- Defog
+- Steel Wing
+- Quick Guard
 
 **Tutor Moves**
-Counter, Double-Edge, Endure, Fury Cutter, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Counter
+- Double-Edge
+- Endure
+- Fury Cutter
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

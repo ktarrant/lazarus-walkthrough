@@ -1,7 +1,7 @@
 ## Blitzle (#139)
 <details class="pokemon-card-container" open>
 <summary>Blitzle overview</summary>
-Types: Electric • Egg Groups: Field • Found: Wanderer`s Woods (wild)
+Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,22 @@ Types: Electric • Egg Groups: Field • Found: Wanderer`s Woods (wild)
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- HM05 - Flash
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Day) (2%)
@@ -57,13 +73,27 @@ Types: Electric • Egg Groups: Field • Found: Wanderer`s Woods (wild)
 - Thrash (Lv 52)
 
 **Egg Moves**
-Me First, Take Down, Sand Attack, Double Kick, Screech, Rage, Endure, Double-Edge, Shock Wave, Snatch, Feint
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM05 - Flash
+- Me First
+- Take Down
+- Sand Attack
+- Double Kick
+- Screech
+- Rage
+- Endure
+- Double-Edge
+- Shock Wave
+- Snatch
+- Feint
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

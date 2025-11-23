@@ -1,7 +1,7 @@
 ## Anorith (#257)
 <details class="pokemon-card-container" open>
 <summary>Anorith overview</summary>
-Types: Rock / Bug • Egg Groups: Water 3 • Found: Marmaro Island (wild)
+Types: Rock / Bug • Egg Groups: Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,23 @@ Types: Rock / Bug • Egg Groups: Water 3 • Found: Marmaro Island (wild)
 - Water (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM01 - Cut
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (6%)
@@ -59,13 +76,27 @@ Types: Rock / Bug • Egg Groups: Water 3 • Found: Marmaro Island (wild)
 - Stone Axe (Lv 55)
 
 **Egg Moves**
-Rapid Spin, Knock Off, Screech, Sand Attack, Cross Poison, Curse, Iron Defense, Water Pulse, Aqua Jet
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM06 - Rock Smash
+- Rapid Spin
+- Knock Off
+- Screech
+- Sand Attack
+- Cross Poison
+- Curse
+- Iron Defense
+- Water Pulse
+- Aqua Jet
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Fury Cutter, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

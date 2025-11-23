@@ -1,7 +1,7 @@
 ## Komala (#181)
 <details class="pokemon-card-container" open>
 <summary>Komala overview</summary>
-Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -16,6 +16,22 @@ Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM45 - Attract
+- TM46 - Thief
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)
@@ -54,13 +70,23 @@ Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
 - Play Rough (Lv 45)
 
 **Egg Moves**
-Charm, Wish, Play Rough, Sing
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM45 - Attract, TM46 - Thief
+- Charm
+- Wish
+- Play Rough
+- Sing
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Psych Up, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Psych Up
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

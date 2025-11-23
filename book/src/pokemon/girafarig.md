@@ -1,7 +1,7 @@
 ## Girafarig (#346)
 <details class="pokemon-card-container" open>
 <summary>Girafarig overview</summary>
-Types: Normal / Psychic • Egg Groups: Field • Found: Corrin Crossing, Kaptara Island (wild)
+Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,35 @@ Types: Normal / Psychic • Egg Groups: Field • Found: Corrin Crossing, Kaptar
 *Weak to*
 - Bug (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM55 - Psychic Fangs
+- TM56 - Stomping Tantrum
+- TM57 - Dazzling Gleam
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Night) (10%)
@@ -58,13 +87,34 @@ Types: Normal / Psychic • Egg Groups: Field • Found: Corrin Crossing, Kaptar
 - Psychic (Lv 50)
 
 **Egg Moves**
-Take Down, Amnesia, Foresight, Future Sight, Beat Up, Wish, Magic Coat, Double Kick, Mirror Coat, Razor Wind, Skill Swap, Secret Power, Mean Look, Psychic Terrain, Psychic Fangs
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM55 - Psychic Fangs, TM56 - Stomping Tantrum, TM57 - Dazzling Gleam, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Take Down
+- Amnesia
+- Foresight
+- Future Sight
+- Beat Up
+- Wish
+- Magic Coat
+- Double Kick
+- Mirror Coat
+- Razor Wind
+- Skill Swap
+- Secret Power
+- Mean Look
+- Psychic Terrain
+- Psychic Fangs
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

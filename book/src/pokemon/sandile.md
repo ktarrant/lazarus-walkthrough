@@ -1,7 +1,7 @@
 ## Sandile (#099)
 <details class="pokemon-card-container" open>
 <summary>Sandile overview</summary>
-Types: Ground / Dark • Egg Groups: Field • Found: Riverwalk Trail N, Erinys Path W (wild)
+Types: Ground / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -28,8 +28,26 @@ Types: Ground / Dark • Egg Groups: Field • Found: Riverwalk Trail N, Erinys 
 - Bug (2×)
 - Fairy (2×)
 
-**Notable Held Item**
-Black Glasses
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM12 - Taunt
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
 
 **Held Item**
 Black Glasses
@@ -73,13 +91,29 @@ Black Glasses
 - Thrash (Lv 46)
 
 **Egg Moves**
-Double-Edge, Rock Climb, Pursuit, Uproar, Fire Fang, Thunder Fang, Beat Up, Focus Energy, Counter, Mean Look, Me First, Power Trip
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut
+- Double-Edge
+- Rock Climb
+- Pursuit
+- Uproar
+- Fire Fang
+- Thunder Fang
+- Beat Up
+- Focus Energy
+- Counter
+- Mean Look
+- Me First
+- Power Trip
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

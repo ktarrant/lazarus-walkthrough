@@ -1,7 +1,7 @@
 ## Duskull (#371)
 <details class="pokemon-card-container" open>
 <summary>Duskull overview</summary>
-Types: Ghost • Egg Groups: Amorphous • Found: Pythios Cemetery, The Nyx Trails (wild)
+Types: Ghost • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,27 @@ Types: Ghost • Egg Groups: Amorphous • Found: Pythios Cemetery, The Nyx Trai
 *Weak to*
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM05 - Flash
 
 **Encounter Locations**
 - Nyx Trails — Grass (Night) (10%)
@@ -61,13 +82,27 @@ Types: Ghost • Egg Groups: Amorphous • Found: Pythios Cemetery, The Nyx Trai
 - Future Sight (Lv 54)
 
 **Egg Moves**
-Imprison, Destiny Bond, Pain Split, Grudge, Memento, Feint Attack, Ominous Wind, Dark Pulse, Skill Swap, Haze
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+- Imprison
+- Destiny Bond
+- Pain Split
+- Grudge
+- Memento
+- Feint Attack
+- Ominous Wind
+- Dark Pulse
+- Skill Swap
+- Haze
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

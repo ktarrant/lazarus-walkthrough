@@ -1,7 +1,7 @@
 ## Vulpix (#147)
 <details class="pokemon-card-container" open>
 <summary>Vulpix overview</summary>
-Types: Fire / Fairy • Egg Groups: Field • Found: Jusmail Town, Pythios Cemetery (wild)
+Types: Fire / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,23 @@ Types: Fire / Fairy • Egg Groups: Field • Found: Jusmail Town, Pythios Cemet
 - Poison (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM50 - Overheat
 
 **Encounter Locations**
 - Jusmail Town — Grass (Night) (4%)
@@ -68,13 +85,30 @@ Types: Fire / Fairy • Egg Groups: Field • Found: Jusmail Town, Pythios Cemet
 - Inferno (Lv 50)
 
 **Egg Moves**
-Feint Attack, Hypnosis, Flail, Spite, Disable, Howl, Heat Wave, Flare Blitz, Extrasensory, Power Swap, Secret Power, Hex, Tail Slap, Captivate
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM20 - Safeguard, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat
+- Feint Attack
+- Hypnosis
+- Flail
+- Spite
+- Disable
+- Howl
+- Heat Wave
+- Flare Blitz
+- Extrasensory
+- Power Swap
+- Secret Power
+- Hex
+- Tail Slap
+- Captivate
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

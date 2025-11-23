@@ -1,7 +1,7 @@
 ## Florges (#294)
 <details class="pokemon-card-container" open>
 <summary>Florges overview</summary>
-Types: Fairy • Egg Groups: Fairy • Found: Floette (evolve)
+Types: Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -41,7 +41,10 @@ Shiny Stone
 | Total | <span class="stat-value stat-high">552</span> |
 
 **Egg Moves**
-Copycat, Captivate, Camouflage, Tearful Look
+- Copycat
+- Captivate
+- Camouflage
+- Tearful Look
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Alolan Vulpix (#147)
 <details class="pokemon-card-container" open>
 <summary>Alolan Vulpix overview</summary>
-Types: Ice / Fairy • Egg Groups: Field • Found: Jusmail Town, Pythios Cemetery, Froslass Cavern (wild)
+Types: Ice / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,26 @@ Types: Ice / Fairy • Egg Groups: Field • Found: Jusmail Town, Pythios Cemete
 - Poison (2×)
 - Rock (2×)
 - Steel (4×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM53 - Ice Fang
+- TM57 - Dazzling Gleam
+- TM58 - Play Rough
 
 **Encounter Locations**
 - Froslass Cavern BF1 — Grass (Day) (20%)
@@ -64,13 +84,31 @@ Types: Ice / Fairy • Egg Groups: Field • Found: Jusmail Town, Pythios Cemete
 - Moonblast (Lv 52)
 
 **Egg Moves**
-Agility, Charm, Disable, Encore, Extrasensory, Flail, Freeze-Dry, Howl, Hypnosis, Moonblast, Power Swap, Spite, Secret Power, Tail Slap
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM53 - Ice Fang, TM57 - Dazzling Gleam, TM58 - Play Rough
+- Agility
+- Charm
+- Disable
+- Encore
+- Extrasensory
+- Flail
+- Freeze-Dry
+- Howl
+- Hypnosis
+- Moonblast
+- Power Swap
+- Spite
+- Secret Power
+- Tail Slap
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

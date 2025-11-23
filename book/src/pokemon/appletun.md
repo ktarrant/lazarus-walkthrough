@@ -1,7 +1,7 @@
 ## Appletun (#066)
 <details class="pokemon-card-container" open>
 <summary>Appletun overview</summary>
-Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Applin (evolve)
+Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,23 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Applin (evolve)
 - Bug (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
 
 **Evolution Info**
 Sweet Apple
@@ -69,13 +86,18 @@ Sweet Apple
 - Matcha Gotcha (Lv 50)
 
 **Egg Moves**
-Sucker Punch, Rollout, Defense Curl, Recycle
-
-**TM/HM Moves**
-TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM26 - Earthquake, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum
+- Sucker Punch
+- Rollout
+- Defense Curl
+- Recycle
 
 **Tutor Moves**
-Body Slam, Defense Curl, Endure, Rollout, Sleep Talk, Snore
+- Body Slam
+- Defense Curl
+- Endure
+- Rollout
+- Sleep Talk
+- Snore
 </div>
 </div>
 </details>

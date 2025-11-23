@@ -1,7 +1,7 @@
 ## Corsola (#234)
 <details class="pokemon-card-container" open>
 <summary>Corsola overview</summary>
-Types: Water / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Marmaro Island, Myrrini Island
+Types: Water / Rock • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,33 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Mar
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Kipos Town — Fishing (15%)
@@ -69,13 +96,35 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Mar
 - Flail (Lv 50)
 
 **Egg Moves**
-Screech, Mist, Amnesia, Barrier, Ingrain, Confuse Ray, Icicle Spear, Nature Power, Aqua Ring, Curse, Bide, Water Pulse, Head Smash, Camouflage, Liquidation
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+- Screech
+- Mist
+- Amnesia
+- Barrier
+- Ingrain
+- Confuse Ray
+- Icicle Spear
+- Nature Power
+- Aqua Ring
+- Curse
+- Bide
+- Water Pulse
+- Head Smash
+- Camouflage
+- Liquidation
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Explosion, Icy Wind, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Explosion
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

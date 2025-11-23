@@ -1,7 +1,7 @@
 ## Ducklett (#040)
 <details class="pokemon-card-container" open>
 <summary>Ducklett overview</summary>
-Types: Water / Flying • Egg Groups: Flying / Water 1 • Found: Acrisia City, Bronze Fields N, Wanderer`s Woods (wild)
+Types: Water / Flying • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,23 @@ Types: Water / Flying • Egg Groups: Flying / Water 1 • Found: Acrisia City, 
 *Weak to*
 - Electric (4×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
+- HM02 - Fly
+- HM03 - Surf
+- HM08 - Dive
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (10%)
@@ -66,13 +83,24 @@ Types: Water / Flying • Egg Groups: Flying / Water 1 • Found: Acrisia City, 
 - Sandsear Storm (Lv 54)
 
 **Egg Moves**
-Steel Wing, Brine, Gust, Air Cutter, Mirror Move, Me First, Lucky Chant, Mud Sport, Aqua Jet
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, HM02 - Fly, HM03 - Surf, HM08 - Dive
+- Steel Wing
+- Brine
+- Gust
+- Air Cutter
+- Mirror Move
+- Me First
+- Lucky Chant
+- Mud Sport
+- Aqua Jet
 
 **Tutor Moves**
-Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

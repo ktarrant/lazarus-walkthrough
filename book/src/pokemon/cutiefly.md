@@ -1,7 +1,7 @@
 ## Cutiefly (#069)
 <details class="pokemon-card-container" open>
 <summary>Cutiefly overview</summary>
-Types: Bug / Fairy • Egg Groups: Bug / Fairy • Found: Bronze Fields S, Jusmail Town, Riverwalk Trail N (wild)
+Types: Bug / Fairy • Egg Groups: Bug / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,23 @@ Types: Bug / Fairy • Egg Groups: Bug / Fairy • Found: Bronze Fields S, Jusma
 - Flying (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM20 - Safeguard
+- TM29 - Psychic
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
 
 **Encounter Locations**
 - Bronze Fields (South) — Grass (Day) (10%)
@@ -61,13 +78,22 @@ Types: Bug / Fairy • Egg Groups: Bug / Fairy • Found: Bronze Fields S, Jusma
 - Quiver Dance (Lv 41)
 
 **Egg Moves**
-Baton Pass, Skill Swap, Speed Swap, Bestow, Moonblast, Powder, Sticky Web
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM20 - Safeguard, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap
+- Baton Pass
+- Skill Swap
+- Speed Swap
+- Bestow
+- Moonblast
+- Powder
+- Sticky Web
 
 **Tutor Moves**
-Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Dream Eater
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

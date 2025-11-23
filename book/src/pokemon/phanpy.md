@@ -1,7 +1,7 @@
 ## Phanpy (#053)
 <details class="pokemon-card-container" open>
 <summary>Phanpy overview</summary>
-Types: Ground • Egg Groups: Field • Found: Acrisia City, Bronze Fields N (wild)
+Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,27 @@ Types: Ground • Egg Groups: Field • Found: Acrisia City, Bronze Fields N (wi
 - Water (2×)
 - Grass (2×)
 - Ice (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- TM58 - Play Rough
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (10%)
@@ -60,13 +81,32 @@ Types: Ground • Egg Groups: Field • Found: Acrisia City, Bronze Fields N (wi
 - Double-Edge (Lv 42)
 
 **Egg Moves**
-Focus Energy, Body Slam, Ancient Power, Snore, Counter, Fissure, Endeavor, Ice Shard, Head Smash, Mud-Slap, Heavy Slam, Play Rough, High Horsepower
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, TM58 - Play Rough, HM04 - Strength, HM06 - Rock Smash
+- Focus Energy
+- Body Slam
+- Ancient Power
+- Snore
+- Counter
+- Fissure
+- Endeavor
+- Ice Shard
+- Head Smash
+- Mud-Slap
+- Heavy Slam
+- Play Rough
+- High Horsepower
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Endure, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

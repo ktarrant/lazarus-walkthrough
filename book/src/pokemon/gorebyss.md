@@ -1,7 +1,7 @@
 ## Gorebyss (#291)
 <details class="pokemon-card-container" open>
 <summary>Gorebyss overview</summary>
-Types: Water • Egg Groups: Water 1 • Found: Clamperl (evolve)
+Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,26 @@ Types: Water • Egg Groups: Water 1 • Found: Clamperl (evolve)
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Deep Sea Scale
@@ -62,13 +82,29 @@ Deep Sea Scale
 - Hydro Pump (Lv 50)
 
 **Egg Moves**
-Refresh, Mud Sport, Body Slam, Supersonic, Barrier, Confuse Ray, Aqua Ring, Muddy Water, Water Pulse, Brine, Endure
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Refresh
+- Mud Sport
+- Body Slam
+- Supersonic
+- Barrier
+- Confuse Ray
+- Aqua Ring
+- Muddy Water
+- Water Pulse
+- Brine
+- Endure
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

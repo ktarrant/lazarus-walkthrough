@@ -1,7 +1,7 @@
 ## Zigzagoon (#328)
 <details class="pokemon-card-container" open>
 <summary>Zigzagoon overview</summary>
-Types: Normal • Egg Groups: Field • Found: Riverwalk Trail S, Erinys Path W (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -18,8 +18,28 @@ Types: Normal • Egg Groups: Field • Found: Riverwalk Trail S, Erinys Path W 
 *Weak to*
 - Fighting (2×)
 
-**Notable Held Item**
-Potion, Revive
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM03 - Surf
+- HM06 - Rock Smash
 
 **Held Item**
 Potion, Revive
@@ -60,13 +80,31 @@ Potion, Revive
 - Fling (Lv 41)
 
 **Egg Moves**
-Charm, Pursuit, Tickle, Trick, Helping Hand, Mud-Slap, Sleep Talk, Rock Climb, Simple Beam, Extreme Speed
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM06 - Rock Smash
+- Charm
+- Pursuit
+- Tickle
+- Trick
+- Helping Hand
+- Mud-Slap
+- Sleep Talk
+- Rock Climb
+- Simple Beam
+- Extreme Speed
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Fury Cutter, Icy Wind, Mud-Slap, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Fury Cutter
+- Icy Wind
+- Mud-Slap
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

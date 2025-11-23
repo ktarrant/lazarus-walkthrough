@@ -1,7 +1,7 @@
 ## Salandit (#160)
 <details class="pokemon-card-container" open>
 <summary>Salandit overview</summary>
-Types: Poison / Fire • Egg Groups: Monster / Dragon • Found: Erinys Path E, Marmaro Island, Areios Hideout (wild)
+Types: Poison / Fire • Egg Groups: Monster / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,25 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon • Found: Erinys Path E, 
 - Ground (4×)
 - Psychic (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- TM50 - Overheat
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (10%)
@@ -65,13 +84,20 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon • Found: Erinys Path E, 
 - Dragon Pulse (Lv 48)
 
 **Egg Moves**
-Belch, Knock Off, Sand Attack, Snatch, Fake Out
-
-**TM/HM Moves**
-TM02 - Dragon Claw, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM50 - Overheat
+- Belch
+- Knock Off
+- Sand Attack
+- Snatch
+- Fake Out
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

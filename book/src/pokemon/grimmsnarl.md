@@ -1,7 +1,7 @@
 ## Grimmsnarl (#337)
 <details class="pokemon-card-container" open>
 <summary>Grimmsnarl overview</summary>
-Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Port Pello (wild)
+Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,21 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Port Pello (wi
 - Poison (2×)
 - Steel (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM08 - Bulk Up
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM31 - Brick Break
+- TM33 - Reflect
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
 
 **Evolution Info**
 Lv. 42
@@ -63,11 +78,19 @@ Lv. 42
 - Foul Play (Lv 50)
 - Hammer Arm (Lv 55)
 
-**TM/HM Moves**
-TM01 - Focus Punch, TM08 - Bulk Up, TM12 - Taunt, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM31 - Brick Break, TM33 - Reflect, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
-
 **Tutor Moves**
-Body Slam, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Sleep Talk, Snore, Swagger, Thunder Punch, Thunder Wave
+- Body Slam
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

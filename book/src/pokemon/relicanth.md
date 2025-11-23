@@ -1,7 +1,7 @@
 ## Relicanth (#316)
 <details class="pokemon-card-container" open>
 <summary>Relicanth overview</summary>
-Types: Water / Rock • Egg Groups: Water 1 / Water 2 • Found: Palati City (wild)
+Types: Water / Rock • Egg Groups: Water 1 / Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,30 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 2 • Found: Palati City (wi
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
+- HM03 - Surf
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 </div>
 <div class="card-column">
 **Base Stats**
@@ -60,13 +84,30 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 2 • Found: Palati City (wi
 - Head Smash (Lv 56)
 
 **Egg Moves**
-Magnitude, Skull Bash, Water Sport, Amnesia, Sleep Talk, Aqua Tail, Snore, Mud-Slap, Muddy Water, Mud Shot, Brine, Zen Headbutt
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM26 - Earthquake, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, HM03 - Surf, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Magnitude
+- Skull Bash
+- Water Sport
+- Amnesia
+- Sleep Talk
+- Aqua Tail
+- Snore
+- Mud-Slap
+- Muddy Water
+- Mud Shot
+- Brine
+- Zen Headbutt
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Mud-Slap, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Abomasnow (#370)
 <details class="pokemon-card-container" open>
 <summary>Abomasnow overview</summary>
-Types: Grass / Ice • Egg Groups: Grass / Monster • Found: The Nyx Trails (wild)
+Types: Grass / Ice • Egg Groups: Grass / Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,34 @@ Types: Grass / Ice • Egg Groups: Grass / Monster • Found: The Nyx Trails (wi
 - Bug (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM09 - Bullet Seed
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 40
@@ -65,13 +93,32 @@ Lv. 40
 - Sheer Cold (Lv 46)
 
 **Egg Moves**
-Leech Seed, Magical Leaf, Seed Bomb, Growth, Double-Edge, Mist, Stomp, Skull Bash, Avalanche, Natural Gift, Bullet Seed
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM09 - Bullet Seed, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM26 - Earthquake, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Leech Seed
+- Magical Leaf
+- Seed Bomb
+- Growth
+- Double-Edge
+- Mist
+- Stomp
+- Skull Bash
+- Avalanche
+- Natural Gift
+- Bullet Seed
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

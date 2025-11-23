@@ -1,7 +1,7 @@
 ## Bewear (#248)
 <details class="pokemon-card-container" open>
 <summary>Bewear overview</summary>
-Types: Normal / Fighting • Egg Groups: Field • Found: Stufful (evolve)
+Types: Normal / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,25 @@ Types: Normal / Fighting • Egg Groups: Field • Found: Stufful (evolve)
 - Flying (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM26 - Earthquake
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
 
 **Evolution Info**
 Lv. 27
@@ -62,13 +81,29 @@ Lv. 27
 - Superpower (Lv 50)
 
 **Egg Moves**
-Ice Punch, Thunder Punch, Force Palm, Endure, Wide Guard, Mega Kick, Stomping Tantrum
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM08 - Bulk Up, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM26 - Earthquake, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength
+- Ice Punch
+- Thunder Punch
+- Force Palm
+- Endure
+- Wide Guard
+- Mega Kick
+- Stomping Tantrum
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Ice Punch, Mega Kick, Mega Punch, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Punch
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
+- Thunder Punch
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Kabuto (#173)
 <details class="pokemon-card-container" open>
 <summary>Kabuto overview</summary>
-Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path E (wild)
+Types: Rock / Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,29 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path E (
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM28 - Dig
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM06 - Rock Smash
+- HM07 - Waterfall
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -59,13 +82,30 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path E (
 - Wring Out (Lv 50)
 
 **Egg Moves**
-Bubble Beam, Aurora Beam, Rapid Spin, Flail, Knock Off, Confuse Ray, Mud Shot, Icy Wind, Screech, Giga Drain, Foresight, Take Down
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM06 - Rock Smash, HM07 - Waterfall
+- Bubble Beam
+- Aurora Beam
+- Rapid Spin
+- Flail
+- Knock Off
+- Confuse Ray
+- Mud Shot
+- Icy Wind
+- Screech
+- Giga Drain
+- Foresight
+- Take Down
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

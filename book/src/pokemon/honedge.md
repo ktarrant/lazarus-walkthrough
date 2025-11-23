@@ -1,7 +1,7 @@
 ## Honedge (#149)
 <details class="pokemon-card-container" open>
 <summary>Honedge overview</summary>
-Types: Steel / Ghost • Egg Groups: Mineral • Found: Pythios Town (wild)
+Types: Steel / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,6 +29,21 @@ Types: Steel / Ghost • Egg Groups: Mineral • Found: Pythios Town (wild)
 - Ground (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM01 - Cut
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Pythios Town — Grass (Day) (2%)
@@ -70,13 +85,19 @@ Types: Steel / Ghost • Egg Groups: Mineral • Found: Pythios Town (wild)
 - Might Cleave (Lv 55)
 
 **Egg Moves**
-Metal Sound, Shadow Sneak, Destiny Bond, Wide Guard
-
-**TM/HM Moves**
-TM06 - Toxic, TM17 - Protect, TM18 - Rain Dance, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM06 - Rock Smash
+- Metal Sound
+- Shadow Sneak
+- Destiny Bond
+- Wide Guard
 
 **Tutor Moves**
-Endure, Fury Cutter, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Fury Cutter
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

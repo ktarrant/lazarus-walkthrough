@@ -1,7 +1,7 @@
 ## Vullaby (#107)
 <details class="pokemon-card-container" open>
 <summary>Vullaby overview</summary>
-Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields S, Acrisia Mountains, Pythios Town, Sea of Asteri (wild)
+Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,27 @@ Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields S, Acrisia 
 - Ice (2×)
 - Rock (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM49 - Snatch
+- HM01 - Cut
+- HM02 - Fly
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -66,13 +87,22 @@ Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields S, Acrisia 
 - Mirror Move (Lv 64)
 
 **Egg Moves**
-Steel Wing, Mean Look, Roost, Scary Face, Knock Off, Fake Tears, Foul Play
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM30 - Shadow Ball, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM49 - Snatch, HM01 - Cut, HM02 - Fly, HM06 - Rock Smash
+- Steel Wing
+- Mean Look
+- Roost
+- Scary Face
+- Knock Off
+- Fake Tears
+- Foul Play
 
 **Tutor Moves**
-Double-Edge, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Pelipper (#183)
 <details class="pokemon-card-container" open>
 <summary>Pelipper overview</summary>
-Types: Water / Flying • Egg Groups: Water 1 / Flying • Found: ?
+Types: Water / Flying • Egg Groups: Water 1 / Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,28 @@ Types: Water / Flying • Egg Groups: Water 1 / Flying • Found: ?
 *Weak to*
 - Electric (4×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM60 - U-Turn
+- HM02 - Fly
+- HM03 - Surf
+- HM07 - Waterfall
 
 **Evolution Info**
 Lv. 25
@@ -70,13 +92,28 @@ Lv. 25
 - Hurricane (Lv 55)
 
 **Egg Moves**
-Mist, Twister, Agility, Gust, Water Sport, Aqua Ring, Knock Off, Brine, Roost, Soak, Wide Guard
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM60 - U-Turn, HM02 - Fly, HM03 - Surf, HM07 - Waterfall
+- Mist
+- Twister
+- Agility
+- Gust
+- Water Sport
+- Aqua Ring
+- Knock Off
+- Brine
+- Roost
+- Soak
+- Wide Guard
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

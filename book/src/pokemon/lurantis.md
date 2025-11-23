@@ -1,7 +1,7 @@
 ## Lurantis (#325)
 <details class="pokemon-card-container" open>
 <summary>Lurantis overview</summary>
-Types: Grass • Egg Groups: Grass • Found: Kaptara Island, Areios Hideout (wild)
+Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,23 @@ Types: Grass • Egg Groups: Grass • Found: Kaptara Island, Areios Hideout (wi
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Evolution Info**
 Lv. 29, Day
@@ -67,13 +84,19 @@ Lv. 29, Day
 - Sunny Day (Lv 47)
 
 **Egg Moves**
-Weather Ball, Giga Drain, Aromatherapy, Defog, Leaf Storm
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Weather Ball
+- Giga Drain
+- Aromatherapy
+- Defog
+- Leaf Storm
 
 **Tutor Moves**
-Endure, Fury Cutter, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Fury Cutter
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

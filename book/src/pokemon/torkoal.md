@@ -1,7 +1,7 @@
 ## Torkoal (#313)
 <details class="pokemon-card-container" open>
 <summary>Torkoal overview</summary>
-Types: Fire • Egg Groups: Field • Found: Corrin Crossing, Kalami City? (wild)
+Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,28 @@ Types: Fire • Egg Groups: Field • Found: Corrin Crossing, Kalami City? (wild
 - Water (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM50 - Overheat
+- TM56 - Stomping Tantrum
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Day) (2%)
@@ -64,13 +86,27 @@ Types: Fire • Egg Groups: Field • Found: Corrin Crossing, Kalami City? (wild
 - Inferno (Lv 50)
 
 **Egg Moves**
-Eruption, Endure, Sleep Talk, Yawn, Fissure, Skull Bash, Flame Burst, Clear Smog, Superpower
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM22 - Solar Beam, TM23 - Iron Tail, TM26 - Earthquake, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat, TM56 - Stomping Tantrum, HM04 - Strength, HM06 - Rock Smash
+- Eruption
+- Endure
+- Sleep Talk
+- Yawn
+- Fissure
+- Skull Bash
+- Flame Burst
+- Clear Smog
+- Superpower
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Explosion, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Explosion
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

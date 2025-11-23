@@ -1,7 +1,7 @@
 ## Amaura (#205)
 <details class="pokemon-card-container" open>
 <summary>Amaura overview</summary>
-Types: Rock / Ice • Egg Groups: Monster • Found: Froslass Cavern (wild)
+Types: Rock / Ice • Egg Groups: Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,31 @@ Types: Rock / Ice • Egg Groups: Monster • Found: Froslass Cavern (wild)
 - Ground (2×)
 - Rock (2×)
 - Steel (4×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM05 - Roar
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Froslass Cavern BF1 — Grass (Day) (2%)
@@ -64,13 +89,23 @@ Types: Rock / Ice • Egg Groups: Monster • Found: Froslass Cavern (wild)
 - Blizzard (Lv 55)
 
 **Egg Moves**
-Haze, Barrier, Mirror Coat, Magnet Rise, Discharge
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM24 - Thunderbolt, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash, HM06 - Rock Smash
+- Haze
+- Barrier
+- Mirror Coat
+- Magnet Rise
+- Discharge
 
 **Tutor Moves**
-Body Slam, Dream Eater, Endure, Icy Wind, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Thunder Wave
+- Body Slam
+- Dream Eater
+- Endure
+- Icy Wind
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

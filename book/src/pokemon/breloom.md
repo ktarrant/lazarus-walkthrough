@@ -1,7 +1,7 @@
 ## Breloom (#125)
 <details class="pokemon-card-container" open>
 <summary>Breloom overview</summary>
-Types: Grass / Fighting • Egg Groups: Fairy / Grass • Found: The Nyx Trails (wild)
+Types: Grass / Fighting • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,34 @@ Types: Grass / Fighting • Egg Groups: Fairy / Grass • Found: The Nyx Trails 
 - Flying (4×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- HM01 - Cut
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 23
@@ -71,13 +99,35 @@ Lv. 23
 - Dynamic Punch (Lv 50)
 
 **Egg Moves**
-Fake Tears, Charm, Helping Hand, Worry Seed, Wake-Up Slap, Seed Bomb, Bullet Seed, Focus Punch, Natural Gift, Drain Punch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM08 - Bulk Up, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM01 - Cut, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+- Fake Tears
+- Charm
+- Helping Hand
+- Worry Seed
+- Wake-Up Slap
+- Seed Bomb
+- Bullet Seed
+- Focus Punch
+- Natural Gift
+- Drain Punch
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Dynamic Punch, Endure, Fury Cutter, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Swords Dance, Thunder Punch
+- Body Slam
+- Counter
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fury Cutter
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
+- Thunder Punch
 </div>
 </div>
 </details>

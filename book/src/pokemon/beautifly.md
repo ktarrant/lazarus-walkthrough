@@ -1,7 +1,7 @@
 ## Beautifly (#075)
 <details class="pokemon-card-container" open>
 <summary>Beautifly overview</summary>
-Types: Bug / Flying • Egg Groups: Bug • Found: Silcoon (evolve)
+Types: Bug / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,25 @@ Types: Bug / Flying • Egg Groups: Bug • Found: Silcoon (evolve)
 - Ice (2×)
 - Flying (2×)
 - Rock (4×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM60 - U-Turn
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 10
@@ -59,11 +78,13 @@ Lv. 10
 - Rage (Lv 37)
 - Quiver Dance (Lv 40)
 
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM60 - U-Turn, HM05 - Flash
-
 **Tutor Moves**
-Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

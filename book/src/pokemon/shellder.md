@@ -1,7 +1,7 @@
 ## Shellder (#287)
 <details class="pokemon-card-container" open>
 <summary>Shellder overview</summary>
-Types: Water • Egg Groups: Water 3 • Found: Froslass Cavern, Port Pello, Palati City
+Types: Water • Egg Groups: Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,23 @@ Types: Water • Egg Groups: Water 3 • Found: Froslass Cavern, Port Pello, Pal
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (30%)
@@ -71,13 +88,28 @@ Types: Water • Egg Groups: Water 3 • Found: Froslass Cavern, Port Pello, Pal
 - Hydro Pump (Lv 61)
 
 **Egg Moves**
-Bubble Beam, Take Down, Barrier, Rapid Spin, Screech, Icicle Spear, Mud Shot, Rock Blast, Water Pulse, Aqua Ring, Avalanche, Twineedle
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Bubble Beam
+- Take Down
+- Barrier
+- Rapid Spin
+- Screech
+- Icicle Spear
+- Mud Shot
+- Rock Blast
+- Water Pulse
+- Aqua Ring
+- Avalanche
+- Twineedle
 
 **Tutor Moves**
-Double-Edge, Endure, Explosion, Icy Wind, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Explosion
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

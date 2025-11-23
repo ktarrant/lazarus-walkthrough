@@ -1,7 +1,7 @@
 ## Steenee (#132)
 <details class="pokemon-card-container" open>
 <summary>Steenee overview</summary>
-Types: Grass • Egg Groups: Grass • Found: Myrrini Island (wild)
+Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,21 @@ Types: Grass • Egg Groups: Grass • Found: Myrrini Island (wild)
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Evolution Info**
 Lv. 18
@@ -63,13 +78,19 @@ Lv. 18
 - Leaf Storm (Lv 45)
 
 **Egg Moves**
-Grass Whistle, Synthesis, Play Rough, Feint, Charm, Acupressure
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Grass Whistle
+- Synthesis
+- Play Rough
+- Feint
+- Charm
+- Acupressure
 
 **Tutor Moves**
-Endure, Sleep Talk, Snore, Swagger, Swift
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Rowlet (#001)
 <details class="pokemon-card-container" open>
 <summary>Rowlet overview</summary>
-Types: Grass / Flying • Egg Groups: Flying • Found: Starter, 100 Unique Species (event) Sea of Vulcai (wild)
+Types: Grass / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,23 @@ Types: Grass / Flying • Egg Groups: Flying • Found: Starter, 100 Unique Spec
 - Poison (2×)
 - Flying (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -62,13 +79,20 @@ Types: Grass / Flying • Egg Groups: Flying • Found: Starter, 100 Unique Spec
 - U-Turn (Lv 49)
 
 **Egg Moves**
-Curse, Confuse Ray, Ominous Wind, Haze, Baton Pass, Defog
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing
+- Curse
+- Confuse Ray
+- Ominous Wind
+- Haze
+- Baton Pass
+- Defog
 
 **Tutor Moves**
-Endure, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

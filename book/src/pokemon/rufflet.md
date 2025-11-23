@@ -1,7 +1,7 @@
 ## Rufflet (#365)
 <details class="pokemon-card-container" open>
 <summary>Rufflet overview</summary>
-Types: Normal / Flying • Egg Groups: Flying • Found: Pythios Town, Sea of Asteri (wild)
+Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,24 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Pythios Town, Sea of As
 - Electric (2×)
 - Ice (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
+- HM01 - Cut
+- HM02 - Fly
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Pythios Town — Grass (Day) (20%)
@@ -60,11 +78,15 @@ Types: Normal / Flying • Egg Groups: Flying • Found: Pythios Town, Sea of As
 - Brave Bird (Lv 59)
 - Thrash (Lv 64)
 
-**TM/HM Moves**
-TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, HM01 - Cut, HM02 - Fly, HM04 - Strength, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

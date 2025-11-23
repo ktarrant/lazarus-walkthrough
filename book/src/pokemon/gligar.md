@@ -1,7 +1,7 @@
 ## Gligar (#311)
 <details class="pokemon-card-container" open>
 <summary>Gligar overview</summary>
-Types: Ground / Flying • Egg Groups: Bug • Found: Riverwalk Trail N, Fresco Isles (wild)
+Types: Ground / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,36 @@ Types: Ground / Flying • Egg Groups: Bug • Found: Riverwalk Trail N, Fresco 
 *Weak to*
 - Water (2×)
 - Ice (4×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM52 - Thunder Fang
+- TM53 - Ice Fang
+- TM54 - Fire Fang
+- TM55 - Psychic Fangs
+- TM60 - U-Turn
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -64,13 +94,34 @@ Types: Ground / Flying • Egg Groups: Bug • Found: Riverwalk Trail N, Fresco 
 - Guillotine (Lv 55)
 
 **Egg Moves**
-Metal Claw, Wing Attack, Razor Wind, Counter, Sand Tomb, Agility, Baton Pass, Double-Edge, Feint, Night Slash, Cross Poison, Power Trick, Rock Climb, Poison Tail
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM52 - Thunder Fang, TM53 - Ice Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, TM60 - U-Turn, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Metal Claw
+- Wing Attack
+- Razor Wind
+- Counter
+- Sand Tomb
+- Agility
+- Baton Pass
+- Double-Edge
+- Feint
+- Night Slash
+- Cross Poison
+- Power Trick
+- Rock Climb
+- Poison Tail
 
 **Tutor Moves**
-Counter, Double-Edge, Dream Eater, Endure, Fury Cutter, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Counter
+- Double-Edge
+- Dream Eater
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

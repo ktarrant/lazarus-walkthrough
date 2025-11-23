@@ -1,7 +1,7 @@
 ## Stantler (#184)
 <details class="pokemon-card-container" open>
 <summary>Stantler overview</summary>
-Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,33 @@ Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- HM05 - Flash
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Night) (20%)
@@ -57,13 +84,30 @@ Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
 - Me First (Lv 55)
 
 **Egg Moves**
-Spite, Disable, Bite, Extrasensory, Thrash, Double Kick, Zen Headbutt, Megahorn, Mud Sport, Rage, Me First
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, HM05 - Flash
+- Spite
+- Disable
+- Bite
+- Extrasensory
+- Thrash
+- Double Kick
+- Zen Headbutt
+- Megahorn
+- Mud Sport
+- Rage
+- Me First
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

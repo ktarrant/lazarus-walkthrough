@@ -1,7 +1,7 @@
 ## Tinkatuff (#307)
 <details class="pokemon-card-container" open>
 <summary>Tinkatuff overview</summary>
-Types: Fairy / Steel • Egg Groups: Fairy • Found: Sea of Vulcai, Fresco Isles (wild)
+Types: Fairy / Steel • Egg Groups: Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -28,6 +28,19 @@ Types: Fairy / Steel • Egg Groups: Fairy • Found: Sea of Vulcai, Fresco Isle
 *Weak to*
 - Fire (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM16 - Light Screen
+- TM17 - Protect
+- TM31 - Brick Break
+- TM33 - Reflect
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM58 - Play Rough
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 24
@@ -72,13 +85,17 @@ Lv. 24
 - Knock Off (Lv 52)
 
 **Egg Moves**
-Feint, Ice Hammer, Quash
-
-**TM/HM Moves**
-TM16 - Light Screen, TM17 - Protect, TM31 - Brick Break, TM33 - Reflect, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM48 - Skill Swap, TM58 - Play Rough, HM06 - Rock Smash
+- Feint
+- Ice Hammer
+- Quash
 
 **Tutor Moves**
-Endure, Metronome, Rock Slide, Sleep Talk, Swords Dance, Thunder Wave
+- Endure
+- Metronome
+- Rock Slide
+- Sleep Talk
+- Swords Dance
+- Thunder Wave
 </div>
 </div>
 </details>

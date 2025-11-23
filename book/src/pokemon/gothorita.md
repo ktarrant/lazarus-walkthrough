@@ -1,7 +1,7 @@
 ## Gothorita (#274)
 <details class="pokemon-card-container" open>
 <summary>Gothorita overview</summary>
-Types: Psychic • Egg Groups: Human-Like • Found: Kaptara Island (wild)
+Types: Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,30 @@ Types: Psychic • Egg Groups: Human-Like • Found: Kaptara Island (wild)
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 27
@@ -63,13 +87,25 @@ Lv. 27
 - Thunderbolt (Lv 52)
 
 **Egg Moves**
-Mirror Coat, Uproar, Miracle Eye, Captivate, Mean Look, Dark Pulse, Heal Pulse
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM24 - Thunderbolt, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+- Mirror Coat
+- Uproar
+- Miracle Eye
+- Captivate
+- Mean Look
+- Dark Pulse
+- Heal Pulse
 
 **Tutor Moves**
-Dream Eater, Endure, Metronome, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Dream Eater
+- Endure
+- Metronome
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

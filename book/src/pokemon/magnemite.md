@@ -1,7 +1,7 @@
 ## Magnemite (#351)
 <details class="pokemon-card-container" open>
 <summary>Magnemite overview</summary>
-Types: Electric / Steel • Egg Groups: Mineral • Found: Corrin Crossing (wild)
+Types: Electric / Steel • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -30,6 +30,23 @@ Types: Electric / Steel • Egg Groups: Mineral • Found: Corrin Crossing (wild
 - Fire (2×)
 - Fighting (2×)
 - Ground (4×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM37 - Sandstorm
+- TM42 - Facade
+- TM44 - Rest
+- TM59 - Volt Switch
+- HM05 - Flash
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Day) (20%)
@@ -70,11 +87,17 @@ Types: Electric / Steel • Egg Groups: Mineral • Found: Corrin Crossing (wild
 - Gyro Ball (Lv 47)
 - Zap Cannon (Lv 49)
 
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM37 - Sandstorm, TM42 - Facade, TM44 - Rest, TM59 - Volt Switch, HM05 - Flash
-
 **Tutor Moves**
-Double-Edge, Endure, Explosion, Psych Up, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Double-Edge
+- Endure
+- Explosion
+- Psych Up
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

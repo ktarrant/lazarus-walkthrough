@@ -1,7 +1,7 @@
 ## Tyrunt (#203)
 <details class="pokemon-card-container" open>
 <summary>Tyrunt overview</summary>
-Types: Rock / Dragon • Egg Groups: Dragon / Monster • Found: Areios Hideout (wild)
+Types: Rock / Dragon • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,26 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster • Found: Areios Hideout 
 - Dragon (2×)
 - Steel (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM05 - Flash
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (2%)
@@ -62,13 +82,21 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster • Found: Areios Hideout 
 - Horn Drill (Lv 49)
 
 **Egg Moves**
-Dragon Dance, Thunder Fang, Ice Fang, Poison Fang, Rock Polish, Fire Fang, Curse
-
-**TM/HM Moves**
-TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM05 - Flash
+- Dragon Dance
+- Thunder Fang
+- Ice Fang
+- Poison Fang
+- Rock Polish
+- Fire Fang
+- Curse
 
 **Tutor Moves**
-Body Slam, Endure, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

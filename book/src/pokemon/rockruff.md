@@ -1,7 +1,7 @@
 ## Rockruff (#105)
 <details class="pokemon-card-container" open>
 <summary>Rockruff overview</summary>
-Types: Rock • Egg Groups: Field • Found: Acrisia Mountains, Acrisia Mountains Peak (wild)
+Types: Rock • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,20 @@ Types: Rock • Egg Groups: Field • Found: Acrisia Mountains, Acrisia Mountain
 - Fighting (2×)
 - Ground (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM12 - Taunt
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (20%)
@@ -61,13 +75,22 @@ Types: Rock • Egg Groups: Field • Found: Acrisia Mountains, Acrisia Mountain
 - Stone Edge (Lv 48)
 
 **Egg Moves**
-Crush Claw, Fire Fang, Thunder Fang, Sucker Punch, Thrash
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Crush Claw
+- Fire Fang
+- Thunder Fang
+- Sucker Punch
+- Thrash
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

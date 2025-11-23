@@ -1,7 +1,7 @@
 ## Cascoon (#076)
 <details class="pokemon-card-container" open>
 <summary>Cascoon overview</summary>
-Types: Bug • Egg Groups: Bug • Found: Riverwalk Trail S (wild)
+Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">

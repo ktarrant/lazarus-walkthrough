@@ -1,7 +1,7 @@
 ## Espathra (#146)
 <details class="pokemon-card-container" open>
 <summary>Espathra overview</summary>
-Types: Psychic • Egg Groups: Flying • Found: Kaptara Island (wild)
+Types: Psychic • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,23 @@ Types: Psychic • Egg Groups: Flying • Found: Kaptara Island (wild)
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
 
 **Evolution Info**
 Lv. 30
@@ -62,13 +79,18 @@ Lv. 30
 - Last Resort (Lv 50)
 
 **Egg Moves**
-Ally Switch, Hypnosis, Roost
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM33 - Reflect, TM37 - Sandstorm, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM48 - Skill Swap
+- Ally Switch
+- Hypnosis
+- Roost
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Psych Up, Sleep Talk, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

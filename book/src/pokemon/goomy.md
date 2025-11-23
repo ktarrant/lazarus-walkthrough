@@ -1,7 +1,7 @@
 ## Goomy (#331)
 <details class="pokemon-card-container" open>
 <summary>Goomy overview</summary>
-Types: Dragon • Egg Groups: Dragon • Found: Pythios Cemetery, Myrrini Island, Kaptara Island (wild)
+Types: Dragon • Egg Groups: Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,21 @@ Types: Dragon • Egg Groups: Dragon • Found: Pythios Cemetery, Myrrini Island
 - Ice (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Encounter Locations**
 - Kaptara Island (East) — Grass (Day) (10%)
@@ -62,13 +77,21 @@ Types: Dragon • Egg Groups: Dragon • Found: Pythios Cemetery, Myrrini Island
 - Dragon Pulse (Lv 42)
 
 **Egg Moves**
-Acid Armor, Curse, Iron Tail, Poison Tail, Counter, Endure
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM32 - Double Team, TM34 - Shock Wave, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Acid Armor
+- Curse
+- Iron Tail
+- Poison Tail
+- Counter
+- Endure
 
 **Tutor Moves**
-Body Slam, Counter, Endure, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

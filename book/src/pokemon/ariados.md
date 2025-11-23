@@ -1,7 +1,7 @@
 ## Ariados (#178)
 <details class="pokemon-card-container" open>
 <summary>Ariados overview</summary>
-Types: Bug / Poison • Egg Groups: Bug • Found: Areios Hideout (wild)
+Types: Bug / Poison • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,24 @@ Types: Bug / Poison • Egg Groups: Bug • Found: Areios Hideout (wild)
 - Flying (2×)
 - Psychic (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM29 - Psychic
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 22
@@ -73,13 +91,28 @@ Lv. 22
 - Toxic Thread (Lv 55)
 
 **Egg Moves**
-Psybeam, Disable, Sonic Boom, Baton Pass, Pursuit, Signal Beam, Toxic Spikes, Twineedle, Electroweb, Rage Powder, Night Slash, Megahorn, Lunge
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM29 - Psychic, TM32 - Double Team, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM05 - Flash
+- Psybeam
+- Disable
+- Sonic Boom
+- Baton Pass
+- Pursuit
+- Signal Beam
+- Toxic Spikes
+- Twineedle
+- Electroweb
+- Rage Powder
+- Night Slash
+- Megahorn
+- Lunge
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

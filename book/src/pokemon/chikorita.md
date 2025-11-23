@@ -25,6 +25,24 @@ Types: Grass • Egg Groups: Monster / Grass
 - Flying (2×)
 - Bug (2×)
 
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM01 - Cut
+- HM05 - Flash
+
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Day) (4%)
 </div>
@@ -58,13 +76,33 @@ Types: Grass • Egg Groups: Monster / Grass
 - Solar Beam (Lv 45)
 
 **Egg Moves**
-Vine Whip, Leech Seed, Counter, Ancient Power, Flail, Nature Power, Ingrain, Grass Whistle, Leaf Storm, Aromatherapy, Wring Out, Body Slam, Refresh, Heal Pulse, Grassy Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM05 - Flash
+- Vine Whip
+- Leech Seed
+- Counter
+- Ancient Power
+- Flail
+- Nature Power
+- Ingrain
+- Grass Whistle
+- Leaf Storm
+- Aromatherapy
+- Wring Out
+- Body Slam
+- Refresh
+- Heal Pulse
+- Grassy Terrain
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

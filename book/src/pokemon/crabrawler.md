@@ -1,7 +1,7 @@
 ## Crabrawler (#253)
 <details class="pokemon-card-container" open>
 <summary>Crabrawler overview</summary>
-Types: Fighting • Egg Groups: Water 3 • Found: Sea of Asteri, Marmaro Island (wild)
+Types: Fighting • Egg Groups: Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,24 @@ Types: Fighting • Egg Groups: Water 3 • Found: Sea of Asteri, Marmaro Island
 - Flying (2×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Day) (20%)
@@ -60,13 +78,23 @@ Types: Fighting • Egg Groups: Water 3 • Found: Sea of Asteri, Marmaro Island
 - Close Combat (Lv 49)
 
 **Egg Moves**
-Wide Guard, Superpower, Endeavor, Amnesia
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM06 - Rock Smash
+- Wide Guard
+- Superpower
+- Endeavor
+- Amnesia
 
 **Tutor Moves**
-Body Slam, Dynamic Punch, Endure, Ice Punch, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+- Body Slam
+- Dynamic Punch
+- Endure
+- Ice Punch
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
 </div>
 </div>
 </details>

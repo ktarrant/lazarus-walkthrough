@@ -1,7 +1,7 @@
 ## Octillery (#364)
 <details class="pokemon-card-container" open>
 <summary>Octillery overview</summary>
-Types: Water / Fire • Egg Groups: Water 1 / Water 2 • Found: Sea of Vulcai
+Types: Water / Fire • Egg Groups: Water 1 / Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,29 @@ Types: Water / Fire • Egg Groups: Water 1 / Water 2 • Found: Sea of Vulcai
 - Electric (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 27
@@ -69,13 +92,33 @@ Lv. 27
 - Soak (Lv 64)
 
 **Egg Moves**
-Aurora Beam, Octazooka, Supersonic, Haze, Screech, Rock Blast, Snore, Flail, Water Spout, Mud Shot, Swift, Acid Spray, Water Pulse, Entrainment
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Aurora Beam
+- Octazooka
+- Supersonic
+- Haze
+- Screech
+- Rock Blast
+- Snore
+- Flail
+- Water Spout
+- Mud Shot
+- Swift
+- Acid Spray
+- Water Pulse
+- Entrainment
 
 **Tutor Moves**
-Defense Curl, Double-Edge, Endure, Icy Wind, Mud-Slap, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Defense Curl
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

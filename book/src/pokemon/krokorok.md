@@ -1,7 +1,7 @@
 ## Krokorok (#100)
 <details class="pokemon-card-container" open>
 <summary>Krokorok overview</summary>
-Types: Ground / Dark • Egg Groups: Field • Found: Fresco Isles (wild)
+Types: Ground / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,32 @@ Types: Ground / Dark • Egg Groups: Field • Found: Fresco Isles (wild)
 - Fighting (2×)
 - Bug (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM12 - Taunt
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 29
@@ -68,13 +94,31 @@ Lv. 29
 - Thrash (Lv 46)
 
 **Egg Moves**
-Double-Edge, Rock Climb, Pursuit, Uproar, Fire Fang, Thunder Fang, Beat Up, Focus Energy, Counter, Mean Look, Me First, Power Trip
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Double-Edge
+- Rock Climb
+- Pursuit
+- Uproar
+- Fire Fang
+- Thunder Fang
+- Beat Up
+- Focus Energy
+- Counter
+- Mean Look
+- Me First
+- Power Trip
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Gourgeist (#123)
 <details class="pokemon-card-container" open>
 <summary>Gourgeist overview</summary>
-Types: Ghost / Grass • Egg Groups: Amorphous • Found: Pumpkaboo (evolve)
+Types: Ghost / Grass • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -62,7 +62,10 @@ Linking Cord
 - Seed Bomb (Lv 42)
 
 **Egg Moves**
-Disable, Bestow, Destiny Bond, Curse
+- Disable
+- Bestow
+- Destiny Bond
+- Curse
 </div>
 </div>
 </details>

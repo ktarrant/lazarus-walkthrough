@@ -1,7 +1,7 @@
 ## Aron (#111)
 <details class="pokemon-card-container" open>
 <summary>Aron overview</summary>
-Types: Steel / Rock • Egg Groups: Monster • Found: Acrisia Mountains, Riverwalk Trail N (wild)
+Types: Steel / Rock • Egg Groups: Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,28 @@ Types: Steel / Rock • Egg Groups: Monster • Found: Acrisia Mountains, Riverw
 - Water (2×)
 - Fighting (4×)
 - Ground (4×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (8%)
@@ -72,13 +94,31 @@ Types: Steel / Rock • Egg Groups: Monster • Found: Acrisia Mountains, Riverw
 - Metal Burst (Lv 49)
 
 **Egg Moves**
-Endeavor, Body Slam, Stomp, Smelling Salts, Curse, Screech, Iron Head, Dragon Rush, Head Smash, Superpower, Stealth Rock, Reversal
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Endeavor
+- Body Slam
+- Stomp
+- Smelling Salts
+- Curse
+- Screech
+- Iron Head
+- Dragon Rush
+- Head Smash
+- Superpower
+- Stealth Rock
+- Reversal
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Fury Cutter, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

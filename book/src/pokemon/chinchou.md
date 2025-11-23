@@ -1,7 +1,7 @@
 ## Chinchou (#285)
 <details class="pokemon-card-container" open>
 <summary>Chinchou overview</summary>
-Types: Water / Electric • Egg Groups: Water 2 • Found: Sea of Asteri, Marmaro Island, Sea of Vulcai, Fresco Isles
+Types: Water / Electric • Egg Groups: Water 2
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,28 @@ Types: Water / Electric • Egg Groups: Water 2 • Found: Sea of Asteri, Marmar
 *Weak to*
 - Grass (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM57 - Dazzling Gleam
+- TM59 - Volt Switch
+- HM03 - Surf
+- HM05 - Flash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Fresco Isles — Fishing (15%)
@@ -64,13 +86,26 @@ Types: Water / Electric • Egg Groups: Water 2 • Found: Sea of Asteri, Marmar
 - Glitzy Glow (Lv 50)
 
 **Egg Moves**
-Flail, Screech, Amnesia, Psybeam, Whirlpool, Agility, Mist, Shock Wave, Brine, Water Pulse, Soak
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM03 - Surf, HM05 - Flash, HM07 - Waterfall, HM08 - Dive
+- Flail
+- Screech
+- Amnesia
+- Psybeam
+- Whirlpool
+- Agility
+- Mist
+- Shock Wave
+- Brine
+- Water Pulse
+- Soak
 
 **Tutor Moves**
-Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Thunder Wave
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

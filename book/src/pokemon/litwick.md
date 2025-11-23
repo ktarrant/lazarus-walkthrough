@@ -1,7 +1,7 @@
 ## Litwick (#279)
 <details class="pokemon-card-container" open>
 <summary>Litwick overview</summary>
-Types: Ghost / Fire • Egg Groups: Amorphous • Found: Pythios Cemetery (wild)
+Types: Ghost / Fire • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,6 +29,27 @@ Types: Ghost / Fire • Egg Groups: Amorphous • Found: Pythios Cemetery (wild)
 - Rock (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM50 - Overheat
+- HM05 - Flash
 
 **Encounter Locations**
 - Pythios Cemetery — Grass (Night) (20%)
@@ -68,13 +89,22 @@ Types: Ghost / Fire • Egg Groups: Amorphous • Found: Pythios Cemetery (wild)
 - Overheat (Lv 61)
 
 **Egg Moves**
-Acid Armor, Heat Wave, Haze, Endure, Captivate, Acid, Clear Smog, Power Split
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM20 - Safeguard, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM50 - Overheat, HM05 - Flash
+- Acid Armor
+- Heat Wave
+- Haze
+- Endure
+- Captivate
+- Acid
+- Clear Smog
+- Power Split
 
 **Tutor Moves**
-Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger
+- Dream Eater
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

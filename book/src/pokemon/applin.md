@@ -1,7 +1,7 @@
 ## Applin (#064)
 <details class="pokemon-card-container" open>
 <summary>Applin overview</summary>
-Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Kalami City, Wanderer`s Woods (wild)
+Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,9 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Kalami City, Wan
 - Bug (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM45 - Attract
 
 **Encounter Locations**
 - Kalami City — Grass (Day) (10%)
@@ -52,13 +55,14 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Kalami City, Wan
 - Astonish (Lv 1)
 
 **Egg Moves**
-Sucker Punch, Rollout, Defense Curl, Recycle
-
-**TM/HM Moves**
-TM45 - Attract
+- Sucker Punch
+- Rollout
+- Defense Curl
+- Recycle
 
 **Tutor Moves**
-Defense Curl, Rollout
+- Defense Curl
+- Rollout
 </div>
 </div>
 </details>

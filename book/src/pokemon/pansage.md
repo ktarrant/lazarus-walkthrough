@@ -1,7 +1,7 @@
 ## Pansage (#028)
 <details class="pokemon-card-container" open>
 <summary>Pansage overview</summary>
-Types: Grass / Normal • Egg Groups: Field • Found: Acrisia City (wild)
+Types: Grass / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,28 @@ Types: Grass / Normal • Egg Groups: Field • Found: Acrisia City (wild)
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM28 - Dig
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM01 - Cut
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (5%)
@@ -65,13 +87,23 @@ Types: Grass / Normal • Egg Groups: Field • Found: Acrisia City (wild)
 - Spiky Shield (Lv 46)
 
 **Egg Moves**
-Covet, Low Kick, Tickle, Nasty Plot, Role Play, Astonish, Grass Whistle, Magical Leaf, Bullet Seed, Leaf Storm, Disarming Voice, Spiky Shield
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM23 - Iron Tail, TM28 - Dig, TM32 - Double Team, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash, HM06 - Rock Smash
+- Covet
+- Low Kick
+- Tickle
+- Nasty Plot
+- Role Play
+- Astonish
+- Grass Whistle
+- Magical Leaf
+- Bullet Seed
+- Leaf Storm
+- Disarming Voice
+- Spiky Shield
 
 **Tutor Moves**
-Sleep Talk, Snore, Swagger
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

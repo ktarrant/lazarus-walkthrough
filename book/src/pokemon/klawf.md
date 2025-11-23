@@ -1,7 +1,7 @@
 ## Klawf (#117)
 <details class="pokemon-card-container" open>
 <summary>Klawf overview</summary>
-Types: Rock • Egg Groups: Water 3 • Found: Acrisia Mountains, Palati City (wild)
+Types: Rock • Egg Groups: Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,20 @@ Types: Rock • Egg Groups: Water 3 • Found: Acrisia Mountains, Palati City (w
 - Fighting (2×)
 - Ground (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM31 - Brick Break
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (2%)
@@ -66,13 +80,18 @@ Types: Rock • Egg Groups: Water 3 • Found: Acrisia Mountains, Palati City (w
 - Guillotine (Lv 56)
 
 **Egg Moves**
-Ancient Power, Crabhammer, Endeavor, Knock Off
-
-**TM/HM Moves**
-TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM46 - Thief, HM06 - Rock Smash
+- Ancient Power
+- Crabhammer
+- Endeavor
+- Knock Off
 
 **Tutor Moves**
-Body Slam, Endure, Mud-Slap, Rock Slide, Sleep Talk, Swords Dance
+- Body Slam
+- Endure
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Swords Dance
 </div>
 </div>
 </details>

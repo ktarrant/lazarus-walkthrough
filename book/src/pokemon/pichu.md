@@ -1,7 +1,7 @@
 ## Pichu (#228)
 <details class="pokemon-card-container" open>
 <summary>Pichu overview</summary>
-Types: Electric • Egg Groups: - • Found: Acrisia Mountains Peak, Wanderer`s Woods (wild)
+Types: Electric • Egg Groups: -
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -18,6 +18,25 @@ Types: Electric • Egg Groups: - • Found: Acrisia Mountains Peak, Wanderer`s 
 
 *Weak to*
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM58 - Play Rough
+- TM59 - Volt Switch
+- HM03 - Surf
+- HM05 - Flash
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (20%)
@@ -47,13 +66,40 @@ Types: Electric • Egg Groups: - • Found: Acrisia Mountains Peak, Wanderer`s 
 - Thunder Wave (Lv 18)
 
 **Egg Moves**
-Reversal, Bide, Present, Encore, Double Slap, Wish, Charge, Fake Out, Thunder Punch, Tickle, Flail, Endure, Lucky Chant, Bestow, Disarming Voice, Electric Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM58 - Play Rough, TM59 - Volt Switch, HM03 - Surf, HM05 - Flash
+- Reversal
+- Bide
+- Present
+- Encore
+- Double Slap
+- Wish
+- Charge
+- Fake Out
+- Thunder Punch
+- Tickle
+- Flail
+- Endure
+- Lucky Chant
+- Bestow
+- Disarming Voice
+- Electric Terrain
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Endure, Mega Kick, Mega Punch, Mud-Slap, Rollout, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Endure
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rollout
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Togetic (#165)
 <details class="pokemon-card-container" open>
 <summary>Togetic overview</summary>
-Types: Fairy / Flying • Egg Groups: Flying / Fairy • Found: Port Pello (wild)
+Types: Fairy / Flying • Egg Groups: Flying / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,37 @@ Types: Fairy / Flying • Egg Groups: Flying / Fairy • Found: Port Pello (wild
 - Poison (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM47 - Steel Wing
+- TM57 - Dazzling Gleam
+- TM58 - Play Rough
+- HM02 - Fly
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 20
@@ -69,13 +100,39 @@ Lv. 20
 - After You (Lv 53)
 
 **Egg Moves**
-Present, Mirror Move, Peck, Foresight, Future Sight, Nasty Plot, Psycho Shift, Lucky Chant, Extransensory, Secret Power, Stored Power, Morning Sun
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM35 - Flamethrower, TM38 - Fire Blast, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, TM57 - Dazzling Gleam, TM58 - Play Rough, HM02 - Fly, HM05 - Flash, HM06 - Rock Smash
+- Present
+- Mirror Move
+- Peck
+- Foresight
+- Future Sight
+- Nasty Plot
+- Psycho Shift
+- Lucky Chant
+- Extransensory
+- Secret Power
+- Stored Power
+- Morning Sun
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dream Eater, Endure, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Rollout, Seismic Toss, Sleep Talk, Snore, Soft-Boiled, Swagger, Swift, Thunder Wave
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Endure
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Rollout
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Soft-Boiled
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

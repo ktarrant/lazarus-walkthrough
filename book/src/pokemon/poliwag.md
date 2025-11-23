@@ -1,7 +1,7 @@
 ## Poliwag (#118)
 <details class="pokemon-card-container" open>
 <summary>Poliwag overview</summary>
-Types: Water • Egg Groups: Water 1 • Found: Acrisia City, Wanderer`s Woods (wild) Riverwalk Trail N (OR) Acrisia City, Acrisia Mountains, Wanderer`s Woods, Pythios Town (GR)(fish)
+Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,26 @@ Types: Water • Egg Groups: Water 1 • Found: Acrisia City, Wanderer`s Woods (
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM29 - Psychic
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Acrisia City — Fishing (60%)
@@ -63,13 +83,31 @@ Types: Water • Egg Groups: Water 1 • Found: Acrisia City, Wanderer`s Woods (
 - Mud Bomb (Lv 41)
 
 **Egg Moves**
-Mist, Splash, Bubble Beam, Haze, Mind Reader, Water Sport, Ice Ball, Mud Shot, Refresh, Endeavor, Encore, Endure, Water Pulse
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM29 - Psychic, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Mist
+- Splash
+- Bubble Beam
+- Haze
+- Mind Reader
+- Water Sport
+- Ice Ball
+- Mud Shot
+- Refresh
+- Endeavor
+- Encore
+- Endure
+- Water Pulse
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

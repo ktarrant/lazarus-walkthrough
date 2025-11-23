@@ -1,7 +1,7 @@
 ## Mudbray (#059)
 <details class="pokemon-card-container" open>
 <summary>Mudbray overview</summary>
-Types: Ground • Egg Groups: Field • Found: Bronze Fields S, Riverwalk Trail N (wild)
+Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,8 +22,20 @@ Types: Ground • Egg Groups: Field • Found: Bronze Fields S, Riverwalk Trail 
 - Grass (2×)
 - Ice (2×)
 
-**Notable Held Item**
-Light Clay
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Held Item**
 Light Clay
@@ -67,13 +79,23 @@ Light Clay
 - Superpower (Lv 45)
 
 **Egg Moves**
-Body Slam, Double-Edge, Magnitude, Close Combat, Mud Bomb
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM26 - Earthquake, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM06 - Rock Smash
+- Body Slam
+- Double-Edge
+- Magnitude
+- Close Combat
+- Mud Bomb
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Mega Kick, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Mega Kick
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

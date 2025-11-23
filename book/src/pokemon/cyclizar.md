@@ -1,7 +1,7 @@
 ## Cyclizar (#225)
 <details class="pokemon-card-container" open>
 <summary>Cyclizar overview</summary>
-Types: Dragon / Normal • Egg Groups: Field • Found: Fresco Isles (wild)
+Types: Dragon / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">

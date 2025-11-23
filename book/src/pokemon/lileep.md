@@ -1,7 +1,7 @@
 ## Lileep (#255)
 <details class="pokemon-card-container" open>
 <summary>Lileep overview</summary>
-Types: Rock / Grass • Egg Groups: Water 3 • Found: Marmaro Island (wild)
+Types: Rock / Grass • Egg Groups: Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,22 @@ Types: Rock / Grass • Egg Groups: Water 3 • Found: Marmaro Island (wild)
 - Fighting (2×)
 - Bug (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (6%)
@@ -59,13 +75,27 @@ Types: Rock / Grass • Egg Groups: Water 3 • Found: Marmaro Island (wild)
 - Wring Out (Lv 52)
 
 **Egg Moves**
-Barrier, Recover, Mirror Coat, Wring Out, Tickle, Curse, Mega Drain, Endure, Stealth Rock
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM32 - Double Team, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+- Barrier
+- Recover
+- Mirror Coat
+- Wring Out
+- Tickle
+- Curse
+- Mega Drain
+- Endure
+- Stealth Rock
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

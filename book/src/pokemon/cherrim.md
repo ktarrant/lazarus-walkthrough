@@ -1,7 +1,7 @@
 ## Cherrim (#168)
 <details class="pokemon-card-container" open>
 <summary>Cherrim overview</summary>
-Types: Grass / Fire • Egg Groups: Grass / Fairy • Found: Port Pello, Kaptara Island (wild)
+Types: Grass / Fire • Egg Groups: Grass / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,21 @@ Types: Grass / Fire • Egg Groups: Grass / Fairy • Found: Port Pello, Kaptara
 - Poison (2×)
 - Flying (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 25
@@ -62,13 +77,31 @@ Lv. 25
 - Petal Blizzard (Lv 50)
 
 **Egg Moves**
-Razor Leaf, Sweet Scent, Tickle, Nature Power, Grass Whistle, Aromatherapy, Weather Ball, Heal Pulse, Healing Wish, Seed Bomb, Natural Gift, Defense Curl, Rollout, Flower Shield, Grassy Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+- Razor Leaf
+- Sweet Scent
+- Tickle
+- Nature Power
+- Grass Whistle
+- Aromatherapy
+- Weather Ball
+- Heal Pulse
+- Healing Wish
+- Seed Bomb
+- Natural Gift
+- Defense Curl
+- Rollout
+- Flower Shield
+- Grassy Terrain
 
 **Tutor Moves**
-Defense Curl, Double-Edge, Endure, Rollout, Sleep Talk, Snore, Swagger, Swords Dance
+- Defense Curl
+- Double-Edge
+- Endure
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

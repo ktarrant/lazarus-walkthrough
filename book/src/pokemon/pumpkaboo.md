@@ -1,7 +1,7 @@
 ## Pumpkaboo (#122)
 <details class="pokemon-card-container" open>
 <summary>Pumpkaboo overview</summary>
-Types: Ghost / Grass • Egg Groups: Amorphous • Found: Riverwalk Trail S, Wanderer`s Woods, The Nyx Trails (wild)
+Types: Ghost / Grass • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,29 @@ Types: Ghost / Grass • Egg Groups: Amorphous • Found: Riverwalk Trail S, Wan
 - Flying (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Kipos Town — Grass (Night) (8%)
@@ -62,13 +85,19 @@ Types: Ghost / Grass • Egg Groups: Amorphous • Found: Riverwalk Trail S, Wan
 - Seed Bomb (Lv 42)
 
 **Egg Moves**
-Disable, Bestow, Destiny Bond, Curse
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, HM05 - Flash, HM06 - Rock Smash
+- Disable
+- Bestow
+- Destiny Bond
+- Curse
 
 **Tutor Moves**
-Dream Eater, Endure, Explosion, Rock Slide, Sleep Talk, Snore, Swagger
+- Dream Eater
+- Endure
+- Explosion
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

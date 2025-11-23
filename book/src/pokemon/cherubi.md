@@ -1,7 +1,7 @@
 ## Cherubi (#167)
 <details class="pokemon-card-container" open>
 <summary>Cherubi overview</summary>
-Types: Grass • Egg Groups: Grass / Fairy • Found: Erinys Path E, Myrrini Island (wild)
+Types: Grass • Egg Groups: Grass / Fairy
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,20 @@ Types: Grass • Egg Groups: Grass / Fairy • Found: Erinys Path E, Myrrini Isl
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (20%)
@@ -55,13 +69,31 @@ Types: Grass • Egg Groups: Grass / Fairy • Found: Erinys Path E, Myrrini Isl
 - Petal Blizzard (Lv 47)
 
 **Egg Moves**
-Razor Leaf, Sweet Scent, Tickle, Nature Power, Grass Whistle, Aromatherapy, Weather Ball, Heal Pulse, Healing Wish, Seed Bomb, Natural Gift, Defense Curl, Rollout, Flower Shield, Grassy Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+- Razor Leaf
+- Sweet Scent
+- Tickle
+- Nature Power
+- Grass Whistle
+- Aromatherapy
+- Weather Ball
+- Heal Pulse
+- Healing Wish
+- Seed Bomb
+- Natural Gift
+- Defense Curl
+- Rollout
+- Flower Shield
+- Grassy Terrain
 
 **Tutor Moves**
-Defense Curl, Double-Edge, Endure, Rollout, Sleep Talk, Snore, Swagger, Swords Dance
+- Defense Curl
+- Double-Edge
+- Endure
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Dratini (#388)
 <details class="pokemon-card-container" open>
 <summary>Dratini overview</summary>
-Types: Dragon • Egg Groups: Water 1 / Dragon • Found: Pythios Cemetery (GR) Pythios Cemetery (SR)(fish) Fresco Isles
+Types: Dragon • Egg Groups: Water 1 / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,32 @@ Types: Dragon • Egg Groups: Water 1 / Dragon • Found: Pythios Cemetery (GR) 
 - Ice (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM07 - Waterfall
 
 **Encounter Locations**
 - Fresco Isles — Fishing (5%)
@@ -59,13 +85,28 @@ Types: Dragon • Egg Groups: Water 1 / Dragon • Found: Pythios Cemetery (GR) 
 - Hyper Beam (Lv 61)
 
 **Egg Moves**
-Mist, Haze, Supersonic, Dragon Breath, Dragon Dance, Dragon Rush, Extreme Speed, Water Pulse, Aqua Jet, Dragon Pulse, Iron Tail
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall
+- Mist
+- Haze
+- Supersonic
+- Dragon Breath
+- Dragon Dance
+- Dragon Rush
+- Extreme Speed
+- Water Pulse
+- Aqua Jet
+- Dragon Pulse
+- Iron Tail
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

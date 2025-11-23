@@ -1,7 +1,7 @@
 ## Alolan Meowth (#207)
 <details class="pokemon-card-container" open>
 <summary>Alolan Meowth overview</summary>
-Types: Dark • Egg Groups: Field • Found: Kalami City, Pythios Town (wild)
+Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,28 @@ Types: Dark • Egg Groups: Field • Found: Kalami City, Pythios Town (wild)
 - Fighting (2×)
 - Bug (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
 
 **Encounter Locations**
 - Kalami City — Grass (Night) (5%)
@@ -58,13 +80,31 @@ Types: Dark • Egg Groups: Field • Found: Kalami City, Pythios Town (wild)
 - Spirit Break (Lv 55)
 
 **Egg Moves**
-Amnesia, Assist, Charm, Covet, Flail, Flatter, Foul Play, Hypnosis, Parting Shot, Punishment, Snatch, Spite
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch
+- Amnesia
+- Assist
+- Charm
+- Covet
+- Flail
+- Flatter
+- Foul Play
+- Hypnosis
+- Parting Shot
+- Punishment
+- Snatch
+- Spite
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

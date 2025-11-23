@@ -1,7 +1,7 @@
 ## Flittle (#145)
 <details class="pokemon-card-container" open>
 <summary>Flittle overview</summary>
-Types: Psychic • Egg Groups: Flying • Found: Acrisia Mountains Peak, Pythios Town (wild)
+Types: Psychic • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,20 @@ Types: Psychic • Egg Groups: Flying • Found: Acrisia Mountains Peak, Pythios
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (20%)
@@ -54,13 +68,15 @@ Types: Psychic • Egg Groups: Flying • Found: Acrisia Mountains Peak, Pythios
 - Uproar (Lv 34)
 
 **Egg Moves**
-Ally Switch, Hypnosis, Roost
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM33 - Reflect, TM37 - Sandstorm, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM48 - Skill Swap
+- Ally Switch
+- Hypnosis
+- Roost
 
 **Tutor Moves**
-Endure, Mud-Slap, Sleep Talk, Swift
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Swift
 </div>
 </div>
 </details>

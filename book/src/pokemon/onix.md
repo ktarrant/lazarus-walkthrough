@@ -1,7 +1,7 @@
 ## Onix (#179)
 <details class="pokemon-card-container" open>
 <summary>Onix overview</summary>
-Types: Rock / Ground • Egg Groups: Mineral • Found: Erinys Path E, Froslass Cavern (wild)
+Types: Rock / Ground • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,26 @@ Types: Rock / Ground • Egg Groups: Mineral • Found: Erinys Path E, Froslass 
 - Fighting (2×)
 - Ground (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Stomping Tantrum
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -72,13 +92,30 @@ Types: Rock / Ground • Egg Groups: Mineral • Found: Erinys Path E, Froslass 
 - Sandstorm (Lv 52)
 
 **Egg Moves**
-Flail, Block, Defense Curl, Rollout, Rock Blast, Rock Climb, Heavy Slam, Stealth Rock, Rototiller, Wide Guard
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, HM04 - Strength, HM06 - Rock Smash
+- Flail
+- Block
+- Defense Curl
+- Rollout
+- Rock Blast
+- Rock Climb
+- Heavy Slam
+- Stealth Rock
+- Rototiller
+- Wide Guard
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Explosion, Mud-Slap, Psych Up, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Explosion
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

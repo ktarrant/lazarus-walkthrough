@@ -1,7 +1,7 @@
 ## Galarian Ponyta (#232)
 <details class="pokemon-card-container" open>
 <summary>Galarian Ponyta overview</summary>
-Types: Psychic • Egg Groups: Field • Found: Riverwalk Trail N, Myrrini Island (wild)
+Types: Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,17 @@ Types: Psychic • Egg Groups: Field • Found: Riverwalk Trail N, Myrrini Islan
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM29 - Psychic
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Encounter Locations**
 - Lastlight Road — Grass (Night) (10%)
@@ -56,13 +67,20 @@ Types: Psychic • Egg Groups: Field • Found: Riverwalk Trail N, Myrrini Islan
 - Flare Blitz (Lv 49)
 
 **Egg Moves**
-Thrash, Double Kick, Hypnosis, Double-Edge, Horn Drill, Morning Sun
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM17 - Protect, TM23 - Iron Tail, TM29 - Psychic, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Thrash
+- Double Kick
+- Hypnosis
+- Double-Edge
+- Horn Drill
+- Morning Sun
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swift
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swift
 </div>
 </div>
 </details>

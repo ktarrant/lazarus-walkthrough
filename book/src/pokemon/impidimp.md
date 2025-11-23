@@ -1,7 +1,7 @@
 ## Impidimp (#335)
 <details class="pokemon-card-container" open>
 <summary>Impidimp overview</summary>
-Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Wanderer`s Woods (wild)
+Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,17 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Wanderer`s Woo
 - Poison (2×)
 - Steel (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM33 - Reflect
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Night) (20%)
@@ -55,11 +66,15 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like • Found: Wanderer`s Woo
 - Play Rough (Lv 40)
 - Foul Play (Lv 44)
 
-**TM/HM Moves**
-TM12 - Taunt, TM16 - Light Screen, TM17 - Protect, TM33 - Reflect, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
-
 **Tutor Moves**
-Endure, Mega Kick, Mega Punch, Metronome, Sleep Talk, Snore, Swagger, Thunder Wave
+- Endure
+- Mega Kick
+- Mega Punch
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Snorunt (#186)
 <details class="pokemon-card-container" open>
 <summary>Snorunt overview</summary>
-Types: Ice • Egg Groups: Fairy / Mineral • Found: Froslass Cavern (wild)
+Types: Ice • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,6 +20,23 @@ Types: Ice • Egg Groups: Fairy / Mineral • Found: Froslass Cavern (wild)
 - Fighting (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
 
 **Encounter Locations**
 - Froslass Cavern BF1 — Grass (Day) (30%)
@@ -55,13 +72,26 @@ Types: Ice • Egg Groups: Fairy / Mineral • Found: Froslass Cavern (wild)
 - Hail (Lv 50)
 
 **Egg Moves**
-Block, Spikes, Rollout, Disable, Bide, Weather Ball, Avalanche, Hex, Fake Tears, Switcheroo
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM30 - Shadow Ball, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+- Block
+- Spikes
+- Rollout
+- Disable
+- Bide
+- Weather Ball
+- Avalanche
+- Hex
+- Fake Tears
+- Switcheroo
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Icy Wind, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

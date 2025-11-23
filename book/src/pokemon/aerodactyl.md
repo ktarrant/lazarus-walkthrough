@@ -1,7 +1,7 @@
 ## Aerodactyl (#362)
 <details class="pokemon-card-container" open>
 <summary>Aerodactyl overview</summary>
-Types: Rock / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
+Types: Rock / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,38 @@ Types: Rock / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
 - Ice (2×)
 - Rock (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM52 - Thunder Fang
+- TM53 - Ice Fang
+- TM54 - Fire Fang
+- TM55 - Psychic Fangs
+- HM02 - Fly
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Day) (10%)
@@ -69,13 +101,25 @@ Types: Rock / Flying • Egg Groups: Flying • Found: Corrin Crossing (wild)
 - Giga Impact (Lv 81)
 
 **Egg Moves**
-Whirlwind, Pursuit, Foresight, Steel Wing, Dragon Breath, Curse, Assurance, Roost, Tailwind, Wide Guard
-
-**TM/HM Moves**
-TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM32 - Double Team, TM33 - Reflect, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM52 - Thunder Fang, TM53 - Ice Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, HM02 - Fly, HM04 - Strength, HM06 - Rock Smash
+- Whirlwind
+- Pursuit
+- Foresight
+- Steel Wing
+- Dragon Breath
+- Curse
+- Assurance
+- Roost
+- Tailwind
+- Wide Guard
 
 **Tutor Moves**
-Double-Edge, Endure, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

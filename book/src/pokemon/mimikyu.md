@@ -1,7 +1,7 @@
 ## Mimikyu (#231)
 <details class="pokemon-card-container" open>
 <summary>Mimikyu overview</summary>
-Types: Ghost / Fairy • Egg Groups: Amorphous • Found: Pythios Cemetery, Port Pello (wild)
+Types: Ghost / Fairy • Egg Groups: Amorphous
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -19,6 +19,28 @@ Types: Ghost / Fairy • Egg Groups: Amorphous • Found: Pythios Cemetery, Port
 *Weak to*
 - Ghost (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (2%)
@@ -61,13 +83,20 @@ Types: Ghost / Fairy • Egg Groups: Amorphous • Found: Pythios Cemetery, Port
 - Dire Claw (Lv 60)
 
 **Egg Moves**
-Grudge, Destiny Bond, Curse, Nightmare
-
-**TM/HM Moves**
-TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM24 - Thunderbolt, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch
+- Grudge
+- Destiny Bond
+- Curse
+- Nightmare
 
 **Tutor Moves**
-Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Wave
+- Dream Eater
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
+- Thunder Wave
 </div>
 </div>
 </details>

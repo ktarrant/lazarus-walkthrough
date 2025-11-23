@@ -1,7 +1,7 @@
 ## Tentacool (#240)
 <details class="pokemon-card-container" open>
 <summary>Tentacool overview</summary>
-Types: Water / Poison • Egg Groups: Water 3 • Found: Sofos City, Sea of Asteri, Marmaro Island, Myrrini Island, Sea of Vulcai, Fresco Isles
+Types: Water / Poison • Egg Groups: Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,6 +26,29 @@ Types: Water / Poison • Egg Groups: Water 3 • Found: Sofos City, Sea of Aste
 - Electric (2×)
 - Ground (2×)
 - Psychic (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM32 - Double Team
+- TM33 - Reflect
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM57 - Dazzling Gleam
+- HM01 - Cut
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Fresco Isles — Fishing (30%)
@@ -81,13 +104,27 @@ Types: Water / Poison • Egg Groups: Water 3 • Found: Sofos City, Sea of Aste
 - Wring Out (Lv 49)
 
 **Egg Moves**
-Aurora Beam, Mirror Coat, Rapid Spin, Haze, Confuse Ray, Knock Off, Acupressure, Muddy Water, Bubble, Aqua Ring, Tickle
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM32 - Double Team, TM33 - Reflect, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM57 - Dazzling Gleam, HM01 - Cut, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+- Aurora Beam
+- Mirror Coat
+- Rapid Spin
+- Haze
+- Confuse Ray
+- Knock Off
+- Acupressure
+- Muddy Water
+- Bubble
+- Aqua Ring
+- Tickle
 
 **Tutor Moves**
-Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

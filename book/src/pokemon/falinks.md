@@ -1,7 +1,7 @@
 ## Falinks (#300)
 <details class="pokemon-card-container" open>
 <summary>Falinks overview</summary>
-Types: Fighting / Bug • Egg Groups: Fairy / Mineral • Found: Erinys Path E (wild)
+Types: Fighting / Bug • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,18 @@ Types: Fighting / Bug • Egg Groups: Fairy / Mineral • Found: Erinys Path E (
 - Flying (4×)
 - Psychic (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM31 - Brick Break
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -62,11 +74,15 @@ Types: Fighting / Bug • Egg Groups: Fairy / Mineral • Found: Erinys Path E (
 - Megahorn (Lv 56)
 - Counter (Lv 60)
 
-**TM/HM Moves**
-TM08 - Bulk Up, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM31 - Brick Break, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, HM06 - Rock Smash
-
 **Tutor Moves**
-Body Slam, Counter, Endure, Psych Up, Rock Slide, Sleep Talk, Snore, Swords Dance
+- Body Slam
+- Counter
+- Endure
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swords Dance
 </div>
 </div>
 </details>

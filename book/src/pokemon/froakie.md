@@ -1,7 +1,7 @@
 ## Froakie (#016)
 <details class="pokemon-card-container" open>
 <summary>Froakie overview</summary>
-Types: Water • Egg Groups: Water 1 • Found: Starter, 135 Unique Species (event) Sea of Asteri (wild)
+Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,30 @@ Types: Water • Egg Groups: Water 1 • Found: Starter, 135 Unique Species (eve
 *Weak to*
 - Electric (2×)
 - Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Night) (5%)
@@ -57,13 +81,24 @@ Types: Water • Egg Groups: Water 1 • Found: Starter, 135 Unique Species (eve
 - Hydro Pump (Lv 48)
 
 **Egg Moves**
-Bestow, Mind Reader, Toxic Spikes, Mud Sport, Camouflage, Water Sport, Power-Up Punch
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Bestow
+- Mind Reader
+- Toxic Spikes
+- Mud Sport
+- Camouflage
+- Water Sport
+- Power-Up Punch
 
 **Tutor Moves**
-Counter, Endure, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+- Counter
+- Endure
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

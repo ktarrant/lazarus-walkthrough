@@ -1,7 +1,7 @@
 ## Meowth (#207)
 <details class="pokemon-card-container" open>
 <summary>Meowth overview</summary>
-Types: Normal • Egg Groups: Field • Found: Kalami City, Pythios Town (wild)
+Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -17,6 +17,30 @@ Types: Normal • Egg Groups: Field • Found: Kalami City, Pythios Town (wild)
 
 *Weak to*
 - Fighting (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM01 - Cut
+- HM05 - Flash
 
 **Encounter Locations**
 - Kalami City — Grass (Day) (5%)
@@ -53,13 +77,34 @@ Types: Normal • Egg Groups: Field • Found: Kalami City, Pythios Town (wild)
 - Feint (Lv 50)
 
 **Egg Moves**
-Spite, Charm, Hypnosis, Amnesia, Assist, Odor Sleuth, Flail, Last Resort, Punishment, Tail Whip, Snatch, Iron Tail, Foul Play
-
-**TM/HM Moves**
-TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut, HM05 - Flash
+- Spite
+- Charm
+- Hypnosis
+- Amnesia
+- Assist
+- Odor Sleuth
+- Flail
+- Last Resort
+- Punishment
+- Tail Whip
+- Snatch
+- Iron Tail
+- Foul Play
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Dream Eater, Endure, Icy Wind, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Endure
+- Icy Wind
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

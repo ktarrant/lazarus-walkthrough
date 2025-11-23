@@ -1,7 +1,7 @@
 ## Dustox (#077)
 <details class="pokemon-card-container" open>
 <summary>Dustox overview</summary>
-Types: Bug / Poison • Egg Groups: Bug • Found: Cascoon (evolve)
+Types: Bug / Poison • Egg Groups: Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,26 @@ Types: Bug / Poison • Egg Groups: Bug • Found: Cascoon (evolve)
 - Flying (2×)
 - Psychic (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM60 - U-Turn
+- HM05 - Flash
 
 **Evolution Info**
 Lv. 10
@@ -59,11 +79,13 @@ Lv. 10
 - Protect (Lv 37)
 - Quiver Dance (Lv 40)
 
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM36 - Sludge Bomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM60 - U-Turn, HM05 - Flash
-
 **Tutor Moves**
-Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

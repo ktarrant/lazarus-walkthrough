@@ -1,7 +1,7 @@
 ## Trapinch (#301)
 <details class="pokemon-card-container" open>
 <summary>Trapinch overview</summary>
-Types: Ground • Egg Groups: Bug / Dragon • Found: Pythios Cemetery, Fresco Isles (wild)
+Types: Ground • Egg Groups: Bug / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,24 @@ Types: Ground • Egg Groups: Bug / Dragon • Found: Pythios Cemetery, Fresco I
 - Water (2×)
 - Grass (2×)
 - Ice (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (20%)
@@ -61,13 +79,27 @@ Types: Ground • Egg Groups: Bug / Dragon • Found: Pythios Cemetery, Fresco I
 - Fissure (Lv 47)
 
 **Egg Moves**
-Focus Energy, Quick Attack, Gust, Flail, Fury Cutter, Mud Shot, Endure, Earth Power, Bug Bite, Signal Beam
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM06 - Rock Smash
+- Focus Energy
+- Quick Attack
+- Gust
+- Flail
+- Fury Cutter
+- Mud Shot
+- Endure
+- Earth Power
+- Bug Bite
+- Signal Beam
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Fury Cutter, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+- Body Slam
+- Double-Edge
+- Endure
+- Fury Cutter
+- Mud-Slap
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

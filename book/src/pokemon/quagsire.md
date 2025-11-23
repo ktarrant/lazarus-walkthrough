@@ -1,7 +1,7 @@
 ## Quagsire (#135)
 <details class="pokemon-card-container" open>
 <summary>Quagsire overview</summary>
-Types: Water / Ground • Egg Groups: Water 1 / Field • Found: Fresco Isles, Palati City (wild)
+Types: Water / Ground • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,37 @@ Types: Water / Ground • Egg Groups: Water 1 / Field • Found: Fresco Isles, P
 
 *Weak to*
 - Grass (4×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM56 - Stomping Tantrum
+- HM03 - Surf
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
 
 **Evolution Info**
 Lv. 20
@@ -63,13 +94,42 @@ Lv. 20
 - Flip Turn (Lv 56)
 
 **Egg Moves**
-Body Slam, Ancient Power, Curse, Mud Sport, Stockpile, Swallow, Spit Up, Counter, Encore, Double Kick, Recover, After You, Sleep Talk, Acid Spray, Guard Swap, Eerie Impulse, Power-Up Punch
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM03 - Surf, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+- Body Slam
+- Ancient Power
+- Curse
+- Mud Sport
+- Stockpile
+- Swallow
+- Spit Up
+- Counter
+- Encore
+- Double Kick
+- Recover
+- After You
+- Sleep Talk
+- Acid Spray
+- Guard Swap
+- Eerie Impulse
+- Power-Up Punch
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Dynamic Punch, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Rollout, Seismic Toss, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Dwebble (#152)
 <details class="pokemon-card-container" open>
 <summary>Dwebble overview</summary>
-Types: Bug / Rock • Egg Groups: Mineral / Bug • Found: Pythios Town, Marmaro Island (wild)
+Types: Bug / Rock • Egg Groups: Mineral / Bug
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,8 +21,22 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug • Found: Pythios Town, Marmaro
 - Rock (2×)
 - Steel (2×)
 
-**Notable Held Item**
-Hard Rock
+**TM/HM Moves**
+- TM06 - Toxic
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM01 - Cut
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Held Item**
 Hard Rock
@@ -67,13 +81,26 @@ Hard Rock
 - Rock Wrecker (Lv 53)
 
 **Egg Moves**
-Endure, Iron Defense, Night Slash, Sand Tomb, Counter, Curse, Spikes, Block, Wide Guard, Rototiller
-
-**TM/HM Moves**
-TM06 - Toxic, TM17 - Protect, TM22 - Solar Beam, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+- Endure
+- Iron Defense
+- Night Slash
+- Sand Tomb
+- Counter
+- Curse
+- Spikes
+- Block
+- Wide Guard
+- Rototiller
 
 **Tutor Moves**
-Counter, Endure, Fury Cutter, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Counter
+- Endure
+- Fury Cutter
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Dodrio (#305)
 <details class="pokemon-card-container" open>
 <summary>Dodrio overview</summary>
-Types: Ground / Flying • Egg Groups: Flying • Found: Doduo (evolve)
+Types: Ground / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,25 @@ Types: Ground / Flying • Egg Groups: Flying • Found: Doduo (evolve)
 *Weak to*
 - Water (2×)
 - Ice (4×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM56 - Stomping Tantrum
+- HM02 - Fly
 
 **Evolution Info**
 Lv. 31
@@ -67,13 +86,27 @@ Lv. 31
 - Thrash (Lv 50)
 
 **Egg Moves**
-Quick Attack, Supersonic, Haze, Feint Attack, Flail, Endeavor, Mirror Move, Brave Bird, Natural Gift, Assurance
-
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM56 - Stomping Tantrum, HM02 - Fly
+- Quick Attack
+- Supersonic
+- Haze
+- Feint Attack
+- Flail
+- Endeavor
+- Mirror Move
+- Brave Bird
+- Natural Gift
+- Assurance
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

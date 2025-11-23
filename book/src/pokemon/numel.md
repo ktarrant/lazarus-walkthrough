@@ -1,7 +1,7 @@
 ## Numel (#314)
 <details class="pokemon-card-container" open>
 <summary>Numel overview</summary>
-Types: Fire / Ground • Egg Groups: Field • Found: Fresco Isles (wild)
+Types: Fire / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -23,6 +23,27 @@ Types: Fire / Ground • Egg Groups: Field • Found: Fresco Isles (wild)
 *Weak to*
 - Water (4×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM50 - Overheat
+- TM56 - Stomping Tantrum
+- HM04 - Strength
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -60,13 +81,35 @@ Types: Fire / Ground • Egg Groups: Field • Found: Fresco Isles (wild)
 - Double-Edge (Lv 47)
 
 **Egg Moves**
-Howl, Scary Face, Body Slam, Rollout, Defense Curl, Stomp, Yawn, Ancient Power, Mud Bomb, Heat Wave, Stockpile, Swallow, Spit Up, Endure, Iron Head, Growth, Heavy Slam
-
-**TM/HM Moves**
-TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat, TM56 - Stomping Tantrum, HM04 - Strength, HM06 - Rock Smash
+- Howl
+- Scary Face
+- Body Slam
+- Rollout
+- Defense Curl
+- Stomp
+- Yawn
+- Ancient Power
+- Mud Bomb
+- Heat Wave
+- Stockpile
+- Swallow
+- Spit Up
+- Endure
+- Iron Head
+- Growth
+- Heavy Slam
 
 **Tutor Moves**
-Body Slam, Defense Curl, Double-Edge, Endure, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

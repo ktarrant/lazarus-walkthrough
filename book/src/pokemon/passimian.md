@@ -1,7 +1,7 @@
 ## Passimian (#327)
 <details class="pokemon-card-container" open>
 <summary>Passimian overview</summary>
-Types: Normal / Fighting • Egg Groups: Field • Found: Kalami City, Kaptara Island (wild)
+Types: Normal / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,8 +24,29 @@ Types: Normal / Fighting • Egg Groups: Field • Found: Kalami City, Kaptara I
 - Psychic (2×)
 - Fairy (2×)
 
-**Notable Held Item**
-Revive?
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- HM06 - Rock Smash
 
 **Held Item**
 Revive?
@@ -68,13 +89,25 @@ Revive?
 - Giga Impact (Lv 50)
 
 **Egg Moves**
-Seismic Toss, Vital Throw, Quick Guard, Iron Head, Quick Attack, Feint
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM34 - Shock Wave, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM06 - Rock Smash
+- Seismic Toss
+- Vital Throw
+- Quick Guard
+- Iron Head
+- Quick Attack
+- Feint
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Mega Kick, Mega Punch, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Mega Kick
+- Mega Punch
+- Rock Slide
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

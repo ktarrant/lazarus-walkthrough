@@ -1,7 +1,7 @@
 ## Claydol (#159)
 <details class="pokemon-card-container" open>
 <summary>Claydol overview</summary>
-Types: Ground / Psychic • Egg Groups: Mineral • Found: Kaptara Island, The Stygian Caves (wild)
+Types: Ground / Psychic • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,33 @@ Types: Ground / Psychic • Egg Groups: Mineral • Found: Kaptara Island, The S
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM48 - Skill Swap
+- TM57 - Dazzling Gleam
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 36
@@ -71,11 +98,17 @@ Lv. 36
 - Imprison (Lv 52)
 - Explosion (Lv 58)
 
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM48 - Skill Swap, TM57 - Dazzling Gleam, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
-
 **Tutor Moves**
-Double-Edge, Dream Eater, Endure, Explosion, Mud-Slap, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger
+- Double-Edge
+- Dream Eater
+- Endure
+- Explosion
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
 </div>
 </div>
 </details>

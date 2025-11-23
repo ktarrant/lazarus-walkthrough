@@ -1,7 +1,7 @@
 ## Natu (#367)
 <details class="pokemon-card-container" open>
 <summary>Natu overview</summary>
-Types: Psychic / Flying • Egg Groups: Flying • Found: Wanderer`s Woods, Pythios Cemetery (wild)
+Types: Psychic / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,30 @@ Types: Psychic / Flying • Egg Groups: Flying • Found: Wanderer`s Woods, Pyth
 - Rock (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM48 - Skill Swap
+- TM57 - Dazzling Gleam
+- TM60 - U-Turn
+- HM05 - Flash
 
 **Encounter Locations**
 - Pythios Cemetery — Grass (Day) (5%)
@@ -66,13 +90,31 @@ Types: Psychic / Flying • Egg Groups: Flying • Found: Wanderer`s Woods, Pyth
 - Me First (Lv 50)
 
 **Egg Moves**
-Haze, Drill Peck, Quick Attack, Feint Attack, Steel Wing, Feather Dance, Refresh, Zen Headbutt, Sucker Punch, Synchronoise, Roost, Skill Swap, Simple Beam, Ally Switch
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM48 - Skill Swap, TM57 - Dazzling Gleam, TM60 - U-Turn, HM05 - Flash
+- Haze
+- Drill Peck
+- Quick Attack
+- Feint Attack
+- Steel Wing
+- Feather Dance
+- Refresh
+- Zen Headbutt
+- Sucker Punch
+- Synchronoise
+- Roost
+- Skill Swap
+- Simple Beam
+- Ally Switch
 
 **Tutor Moves**
-Double-Edge, Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Double-Edge
+- Dream Eater
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

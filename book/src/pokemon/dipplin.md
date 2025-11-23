@@ -1,7 +1,7 @@
 ## Dipplin (#067)
 <details class="pokemon-card-container" open>
 <summary>Dipplin overview</summary>
-Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Applin (evolve)
+Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,6 +25,17 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon • Found: Applin (evolve)
 - Bug (2×)
 - Dragon (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
 
 **Evolution Info**
 Syrupy Apple
@@ -69,13 +80,17 @@ Syrupy Apple
 - Parting Shot (Lv 54)
 
 **Egg Moves**
-Sucker Punch, Rollout, Defense Curl, Recycle
-
-**TM/HM Moves**
-TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM33 - Reflect, TM42 - Facade, TM44 - Rest
+- Sucker Punch
+- Rollout
+- Defense Curl
+- Recycle
 
 **Tutor Moves**
-Body Slam, Defense Curl, Endure, Rollout, Sleep Talk
+- Body Slam
+- Defense Curl
+- Endure
+- Rollout
+- Sleep Talk
 </div>
 </div>
 </details>

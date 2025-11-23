@@ -1,7 +1,7 @@
 ## Wimpod (#226)
 <details class="pokemon-card-container" open>
 <summary>Wimpod overview</summary>
-Types: Bug / Water • Egg Groups: Bug / Water 3 • Found: Kalami City (wild) Acrisia City, Acrisia Mountains, Wanderer`s Woods, Pythios Cemetery (surf) Acrisia City, Acrisia Mountains (OR)(fish)
+Types: Bug / Water • Egg Groups: Bug / Water 3
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,6 +22,19 @@ Types: Bug / Water • Egg Groups: Bug / Water 3 • Found: Kalami City (wild) A
 - Electric (2×)
 - Flying (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM03 - Surf
+- HM07 - Waterfall
 
 **Encounter Locations**
 - Acrisia City — Fishing (30%)
@@ -53,13 +66,20 @@ Types: Bug / Water • Egg Groups: Bug / Water 3 • Found: Kalami City (wild) A
 - Razor Shell (Lv 25)
 
 **Egg Moves**
-Spikes, Metal Claw, Wide Guard, Harden, Aqua Jet
-
-**TM/HM Moves**
-TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall
+- Spikes
+- Metal Claw
+- Wide Guard
+- Harden
+- Aqua Jet
 
 **Tutor Moves**
-Defense Curl, Endure, Rollout, Sleep Talk, Snore, Swagger, Swift
+- Defense Curl
+- Endure
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

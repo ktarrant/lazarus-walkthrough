@@ -1,7 +1,7 @@
 ## Galarian Zigzagoon (#328)
 <details class="pokemon-card-container" open>
 <summary>Galarian Zigzagoon overview</summary>
-Types: Dark / Normal • Egg Groups: Field • Found: Riverwalk Trail S, Erinys Path W (wild)
+Types: Dark / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,24 @@ Types: Dark / Normal • Egg Groups: Field • Found: Riverwalk Trail S, Erinys 
 - Fighting (4×)
 - Bug (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Night) (10%)
@@ -56,13 +74,20 @@ Types: Dark / Normal • Egg Groups: Field • Found: Riverwalk Trail S, Erinys 
 - Double-Edge (Lv 36)
 
 **Egg Moves**
-Parting Shot, Quick Guard, Knock Off
-
-**TM/HM Moves**
-TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf
+- Parting Shot
+- Quick Guard
+- Knock Off
 
 **Tutor Moves**
-Body Slam, Counter, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swift, Thunder Wave
+- Body Slam
+- Counter
+- Double-Edge
+- Endure
+- Icy Wind
+- Sleep Talk
+- Snore
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

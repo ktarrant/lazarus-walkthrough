@@ -1,7 +1,7 @@
 ## Helioptile (#298)
 <details class="pokemon-card-container" open>
 <summary>Helioptile overview</summary>
-Types: Electric / Normal • Egg Groups: Dragon / Monster • Found: ?
+Types: Electric / Normal • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,26 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster • Found: ?
 *Weak to*
 - Fighting (2×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM01 - Cut
+- HM03 - Surf
+- HM05 - Flash
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (5%)
@@ -58,13 +78,21 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster • Found: ?
 - Thunderbolt (Lv 44)
 
 **Egg Moves**
-Agility, Glare, Camouflage, Electric Terrain
-
-**TM/HM Moves**
-TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM03 - Surf, HM05 - Flash
+- Agility
+- Glare
+- Camouflage
+- Electric Terrain
 
 **Tutor Moves**
-Endure, Mud-Slap, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+- Endure
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
 </div>
 </div>
 </details>

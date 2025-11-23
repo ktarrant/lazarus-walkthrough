@@ -20,9 +20,6 @@ pub fn render_card(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> Str
     if !entry.egg_groups.is_empty() {
         overview_parts.push(format!("Egg Groups: {}", entry.egg_groups.join(" / ")));
     }
-    if let Some(location) = non_empty(&entry.location) {
-        overview_parts.push(format!("Found: {}", location));
-    }
     if !overview_parts.is_empty() {
         writeln!(&mut buf, "{}", overview_parts.join(" • ")).unwrap();
     }
@@ -32,28 +29,20 @@ pub fn render_card(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> Str
 
     append_abilities(&mut left_column, &entry.abilities);
     append_type_matchups(&mut left_column, &entry.types);
-    if let Some(held) = non_empty(&entry.held_item) {
-        writeln!(
-            &mut left_column,
-            "**Notable Held Item**\n{}\n",
-            held
-        )
-        .unwrap();
+    append_move_list(&mut left_column, "TM/HM Moves", &entry.tm_moves);
+    if let Some(item) = non_empty(&entry.held_item) {
+        writeln!(&mut left_column, "**Held Item**\n{}\n", item).unwrap();
     }
     if let Some(evolution) = non_empty(&entry.evolution) {
         writeln!(&mut left_column, "**Evolution Info**\n{}\n", evolution).unwrap();
-    }
-    if let Some(item) = non_empty(&entry.held_item) {
-        writeln!(&mut left_column, "**Held Item**\n{}\n", item).unwrap();
     }
 
     append_encounters_section(&mut left_column, encounters);
 
     append_stats_table(&mut right_column, &entry.stats);
     append_level_up_moves(&mut right_column, &entry.level_up_moves);
-    append_optional_moves(&mut right_column, "Egg Moves", &entry.egg_moves);
-    append_optional_moves(&mut right_column, "TM/HM Moves", &entry.tm_moves);
-    append_optional_moves(&mut right_column, "Tutor Moves", &entry.tutor_moves);
+    append_move_list(&mut right_column, "Egg Moves", &entry.egg_moves);
+    append_move_list(&mut right_column, "Tutor Moves", &entry.tutor_moves);
 
     buf.push_str("\n<div class=\"pokemon-card\">\n");
     buf.push_str("<div class=\"card-column\">\n");
@@ -171,16 +160,20 @@ fn append_level_up_moves(buf: &mut String, moves: &[LevelMove]) {
     buf.push('\n');
 }
 
-fn append_optional_moves(buf: &mut String, heading: &str, moves: &[String]) {
-    let filtered: Vec<_> = moves
+fn append_move_list(buf: &mut String, heading: &str, moves: &[String]) {
+    let entries: Vec<_> = moves
         .iter()
         .map(|m| m.trim())
         .filter(|m| !m.is_empty())
         .collect();
-    if filtered.is_empty() {
+    if entries.is_empty() {
         return;
     }
-    writeln!(buf, "**{}**\n{}\n", heading, filtered.join(", ")).unwrap();
+    writeln!(buf, "**{}**", heading).unwrap();
+    for mv in entries {
+        writeln!(buf, "- {}", mv).unwrap();
+    }
+    buf.push('\n');
 }
 
 #[derive(Debug, Clone, Default)]

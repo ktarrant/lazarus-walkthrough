@@ -1,7 +1,7 @@
 ## Dhelmise (#387)
 <details class="pokemon-card-container" open>
 <summary>Dhelmise overview</summary>
-Types: Ghost / Grass • Egg Groups: Mineral • Found: Palati City (wild)
+Types: Ghost / Grass • Egg Groups: Mineral
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,25 @@ Types: Ghost / Grass • Egg Groups: Mineral • Found: Palati City (wild)
 - Flying (2×)
 - Ghost (2×)
 - Dark (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM26 - Earthquake
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- HM03 - Surf
 
 **Encounter Locations**
 - Davosi Straits — Surfing (5%)
@@ -65,11 +84,13 @@ Types: Ghost / Grass • Egg Groups: Mineral • Found: Palati City (wild)
 - Phantom Force (Lv 50)
 - Power Whip (Lv 55)
 
-**TM/HM Moves**
-TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM26 - Earthquake, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf
-
 **Tutor Moves**
-Endure, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

@@ -1,7 +1,7 @@
 ## Alolan Sandshrew (#097)
 <details class="pokemon-card-container" open>
 <summary>Alolan Sandshrew overview</summary>
-Types: Ice / Steel • Egg Groups: Field • Found: Acrisia Mountains (wild)
+Types: Ice / Steel • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,27 @@ Types: Ice / Steel • Egg Groups: Field • Found: Acrisia Mountains (wild)
 - Fire (4×)
 - Fighting (4×)
 - Ground (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM06 - Toxic
+- TM07 - Hail
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM20 - Safeguard
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Night) (10%)
@@ -65,13 +86,36 @@ Types: Ice / Steel • Egg Groups: Field • Found: Acrisia Mountains (wild)
 - Ceaseless Edge (Lv 49)
 
 **Egg Moves**
-Amnesia, Chip Away, Counter, Crush Claw, Curse, Endure, Flail, Hone Claws, Icicle Crash, Icicle Spear, Metal Claw, Night Slash
-
-**TM/HM Moves**
-TM01 - Focus Punch, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM20 - Safeguard, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
+- Amnesia
+- Chip Away
+- Counter
+- Crush Claw
+- Curse
+- Endure
+- Flail
+- Hone Claws
+- Icicle Crash
+- Icicle Spear
+- Metal Claw
+- Night Slash
 
 **Tutor Moves**
-Body Slam, Counter, Defense Curl, Double-Edge, Endure, Fury Cutter, Ice Punch, Icy Wind, Rock Slide, Rollout, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Endure
+- Fury Cutter
+- Ice Punch
+- Icy Wind
+- Rock Slide
+- Rollout
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>

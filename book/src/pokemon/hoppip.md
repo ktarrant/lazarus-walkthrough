@@ -1,7 +1,7 @@
 ## Hoppip (#042)
 <details class="pokemon-card-container" open>
 <summary>Hoppip overview</summary>
-Types: Grass / Flying • Egg Groups: Fairy / Grass • Found: Bronze Fields N, Bronze Fields S (wild)
+Types: Grass / Flying • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,6 +24,26 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass • Found: Bronze Fields N, 
 - Poison (2×)
 - Flying (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM33 - Reflect
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM57 - Dazzling Gleam
+- TM60 - U-Turn
+- HM05 - Flash
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (10%)
@@ -66,13 +86,28 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass • Found: Bronze Fields N, 
 - Memento (Lv 49)
 
 **Egg Moves**
-Confusion, Encore, Double-Edge, Amnesia, Helping Hand, Aromatherapy, Worry Seed, Cotton Guard, Seed Bomb, Endure, Grassy Terrain, Strength Sap
-
-**TM/HM Moves**
-TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM57 - Dazzling Gleam, TM60 - U-Turn, HM05 - Flash
+- Confusion
+- Encore
+- Double-Edge
+- Amnesia
+- Helping Hand
+- Aromatherapy
+- Worry Seed
+- Cotton Guard
+- Seed Bomb
+- Endure
+- Grassy Terrain
+- Strength Sap
 
 **Tutor Moves**
-Defense Curl, Double-Edge, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swords Dance
+- Defense Curl
+- Double-Edge
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swords Dance
 </div>
 </div>
 </details>

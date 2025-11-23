@@ -1,7 +1,7 @@
 ## Altaria (#339)
 <details class="pokemon-card-container" open>
 <summary>Altaria overview</summary>
-Types: Dragon / Fairy • Egg Groups: Flying / Dragon • Found: Kaptara Island (wild)
+Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,6 +27,33 @@ Types: Dragon / Fairy • Egg Groups: Flying / Dragon • Found: Kaptara Island 
 - Poison (2×)
 - Steel (2×)
 - Fairy (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM57 - Dazzling Gleam
+- TM58 - Play Rough
+- HM02 - Fly
+- HM06 - Rock Smash
 
 **Evolution Info**
 Lv. 35
@@ -75,13 +102,29 @@ Lv. 35
 - Bleakwind Storm (Lv 59)
 
 **Egg Moves**
-Agility, Haze, Pursuit, Rage, Feather Dance, Dragon Rush, Power Swap, Roost, Hyper Voice, Steel Wing, Play Rough
-
-**TM/HM Moves**
-TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM26 - Earthquake, TM32 - Double Team, TM35 - Flamethrower, TM38 - Fire Blast, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM57 - Dazzling Gleam, TM58 - Play Rough, HM02 - Fly, HM06 - Rock Smash
+- Agility
+- Haze
+- Pursuit
+- Rage
+- Feather Dance
+- Dragon Rush
+- Power Swap
+- Roost
+- Hyper Voice
+- Steel Wing
+- Play Rough
 
 **Tutor Moves**
-Body Slam, Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
 </div>
 </div>
 </details>

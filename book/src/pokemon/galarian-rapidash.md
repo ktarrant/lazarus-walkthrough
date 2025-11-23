@@ -1,7 +1,7 @@
 ## Galarian Rapidash (#233)
 <details class="pokemon-card-container" open>
 <summary>Galarian Rapidash overview</summary>
-Types: Psychic / Fairy • Egg Groups: Field • Found: Port Pello (wild)
+Types: Psychic / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -21,6 +21,18 @@ Types: Psychic / Fairy • Egg Groups: Field • Found: Port Pello (wild)
 - Poison (2×)
 - Ghost (2×)
 - Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM29 - Psychic
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
 
 **Evolution Info**
 Lv. 30
@@ -59,13 +71,21 @@ Lv. 30
 - Healing Wish (Lv 55)
 
 **Egg Moves**
-Thrash, Double Kick, Hypnosis, Double-Edge, Horn Drill, Morning Sun
-
-**TM/HM Moves**
-TM04 - Calm Mind, TM15 - Hyper Beam, TM17 - Protect, TM23 - Iron Tail, TM29 - Psychic, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract
+- Thrash
+- Double Kick
+- Hypnosis
+- Double-Edge
+- Horn Drill
+- Morning Sun
 
 **Tutor Moves**
-Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swift, Swords Dance
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swift
+- Swords Dance
 </div>
 </div>
 </details>
