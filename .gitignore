@@ -2,6 +2,4 @@
 *.pyc
 /target
 book/book
-data/api-data-master
-data/pokeapi-api-data.zip
 book/src/SUMMARY.md
