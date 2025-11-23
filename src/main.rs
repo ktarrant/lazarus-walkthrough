@@ -318,12 +318,12 @@ fn render_egg_groups(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> 
     let species_list = encounters::list_species(&manifest)?;
     let mut groups: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
     for name in species_list {
-        let Some(entry) = dex.find(&name) else {
+        let Some((entry, used_slug)) = find_entry(&dex, &name) else {
             eprintln!("Skipped egg group lookup for {name}; species not found");
             continue;
         };
 
-        let slug = encounters::slugify(&name);
+        let slug = used_slug;
         let display = entry.name.clone();
         for group in &entry.egg_groups {
             let label = format_egg_group(group);

@@ -85,12 +85,14 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/goomy.md">Goomy</a></li>
 <li><a href="./pokemon/gyarados.md">Gyarados</a></li>
 <li><a href="./pokemon/helioptile.md">Helioptile</a></li>
+<li><a href="./pokemon/hisuian-sliggoo.md">Hisuian Sliggoo</a></li>
 <li><a href="./pokemon/jangmo-o.md">Jangmo-o</a></li>
 <li><a href="./pokemon/magikarp.md">Magikarp</a></li>
 <li><a href="./pokemon/salandit.md">Salandit</a></li>
 <li><a href="./pokemon/scrafty.md">Scrafty</a></li>
 <li><a href="./pokemon/scraggy.md">Scraggy</a></li>
 <li><a href="./pokemon/skrelp.md">Skrelp</a></li>
+<li><a href="./pokemon/sliggoo.md">Sliggoo</a></li>
 <li><a href="./pokemon/swablu.md">Swablu</a></li>
 <li><a href="./pokemon/trapinch.md">Trapinch</a></li>
 <li><a href="./pokemon/tyrunt.md">Tyrunt</a></li>
@@ -106,6 +108,14 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/cutiefly.md">Cutiefly</a></li>
 <li><a href="./pokemon/dedenne.md">Dedenne</a></li>
 <li><a href="./pokemon/falinks.md">Falinks</a></li>
+<li><a href="./pokemon/flabebe.md">Flabébé</a></li>
+<li><a href="./pokemon/flabebe.md">Flabébé</a></li>
+<li><a href="./pokemon/flabebe.md">Flabébé</a></li>
+<li><a href="./pokemon/flabebe.md">Flabébé</a></li>
+<li><a href="./pokemon/flabebe.md">Flabébé</a></li>
+<li><a href="./pokemon/floette.md">Floette</a></li>
+<li><a href="./pokemon/floette.md">Floette</a></li>
+<li><a href="./pokemon/floette.md">Floette</a></li>
 <li><a href="./pokemon/floette.md">Floette</a></li>
 <li><a href="./pokemon/florges.md">Florges</a></li>
 <li><a href="./pokemon/grimmsnarl.md">Grimmsnarl</a></li>
@@ -179,6 +189,8 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/linoone.md">Linoone</a></li>
 <li><a href="./pokemon/litleo.md">Litleo</a></li>
 <li><a href="./pokemon/litten.md">Litten</a></li>
+<li><a href="./pokemon/lycanroc.md">Lycanroc</a></li>
+<li><a href="./pokemon/lycanroc.md">Lycanroc</a></li>
 <li><a href="./pokemon/mankey.md">Mankey</a></li>
 <li><a href="./pokemon/mareep.md">Mareep</a></li>
 <li><a href="./pokemon/mawile.md">Mawile</a></li>
@@ -230,6 +242,9 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/stunky.md">Stunky</a></li>
 <li><a href="./pokemon/swinub.md">Swinub</a></li>
 <li><a href="./pokemon/tauros.md">Tauros</a></li>
+<li><a href="./pokemon/tauros.md">Tauros</a></li>
+<li><a href="./pokemon/tauros.md">Tauros</a></li>
+<li><a href="./pokemon/tauros.md">Tauros</a></li>
 <li><a href="./pokemon/togedemaru.md">Togedemaru</a></li>
 <li><a href="./pokemon/torkoal.md">Torkoal</a></li>
 <li><a href="./pokemon/vulpix.md">Vulpix</a></li>
@@ -238,6 +253,7 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/wooper.md">Wooper</a></li>
 <li><a href="./pokemon/yamper.md">Yamper</a></li>
 <li><a href="./pokemon/zigzagoon.md">Zigzagoon</a></li>
+<li><a href="./pokemon/zorua.md">Zorua</a></li>
 <li><a href="./pokemon/zorua.md">Zorua</a></li>
 </ul>
 </div>
@@ -351,6 +367,13 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/hisuian-voltorb.md">Hisuian Voltorb</a></li>
 <li><a href="./pokemon/honedge.md">Honedge</a></li>
 <li><a href="./pokemon/magnemite.md">Magnemite</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
+<li><a href="./pokemon/minior.md">Minior</a></li>
 <li><a href="./pokemon/nosepass.md">Nosepass</a></li>
 <li><a href="./pokemon/onix.md">Onix</a></li>
 <li><a href="./pokemon/shedinja.md">Shedinja</a></li>
@@ -387,6 +410,7 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/clawitzer.md">Clawitzer</a></li>
 <li><a href="./pokemon/clodsire.md">Clodsire</a></li>
 <li><a href="./pokemon/corphish.md">Corphish</a></li>
+<li><a href="./pokemon/corsola.md">Corsola</a></li>
 <li><a href="./pokemon/corsola.md">Corsola</a></li>
 <li><a href="./pokemon/crawdaunt.md">Crawdaunt</a></li>
 <li><a href="./pokemon/dragonair.md">Dragonair</a></li>
@@ -429,6 +453,8 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <h3>Water 2</h3>
 <ul>
 <li><a href="./pokemon/barboach.md">Barboach</a></li>
+<li><a href="./pokemon/basculin-red.md">Basculin Red</a></li>
+<li><a href="./pokemon/basculin-white.md">Basculin White</a></li>
 <li><a href="./pokemon/bruxish.md">Bruxish</a></li>
 <li><a href="./pokemon/chinchou.md">Chinchou</a></li>
 <li><a href="./pokemon/finizen.md">Finizen</a></li>
@@ -453,6 +479,7 @@ Pokémon appearing in the Lazarus encounters grouped by egg group.
 <li><a href="./pokemon/clawitzer.md">Clawitzer</a></li>
 <li><a href="./pokemon/cloyster.md">Cloyster</a></li>
 <li><a href="./pokemon/corphish.md">Corphish</a></li>
+<li><a href="./pokemon/corsola.md">Corsola</a></li>
 <li><a href="./pokemon/corsola.md">Corsola</a></li>
 <li><a href="./pokemon/crabominable.md">Crabominable</a></li>
 <li><a href="./pokemon/crabrawler.md">Crabrawler</a></li>
