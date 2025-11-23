@@ -35,12 +35,12 @@ Regenerate the file whenever `src/type_chart.rs` changes.
 
 ### Pokémon cards
 
-1. Convert the official CSV (`Lazarus Data - Raw Data.csv`) into the structured
+1. Convert the official CSV (`Lazarus Data - Pokemon Data.csv`) into the structured
    JSON used by the helper CLI:
    ```sh
    cd parsers
    uv run python convert_lazarus_pokedex.py \
-     "../Lazarus Data - Raw Data.csv" \
+     "../Lazarus Data - Pokemon Data.csv" \
      --json ../data/pokedex/lazarus_pokedex.json
    ```
 2. Generate a card (replace `sprigatito` with any species name or dex number):
