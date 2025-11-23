@@ -29,7 +29,7 @@ class CategoryBlock:
             record = {}
             has_value = False
             for field in self.fields:
-                value = table.cell(field.column_idx, row_idx).strip()
+                value = clean_cell(table.cell(field.column_idx, row_idx).strip())
                 if value:
                     has_value = True
                 record[field.name] = value
@@ -97,6 +97,13 @@ def build_manifest(table: ColumnarPDFTable) -> Dict[str, List[Dict[str, str]]]:
     for category in discover_categories(table):
         manifest[category.name] = category.to_records(table)
     return manifest
+
+
+def clean_cell(text: str) -> str:
+    replacements = {
+        "E(Bldikeer )in Acrisia Mountains": "Elder in Acrisia Mountains",
+    }
+    return replacements.get(text, text)
 
 
 def main() -> None:

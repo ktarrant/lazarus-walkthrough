@@ -44,7 +44,7 @@ Reference data sourced from `data/items/important-items.json`.
 | EXP Share | Gift from Prof. Elia with Pokédex | 
 | DexNav | Gift from Prof. Elia after Gym 2 | 
 | Old Rod | Fishing Guru in Kalami City | 
-| Espathra Whistle | E(Bldikeer )in Acrisia Mountains | 
+| Espathra Whistle | Elder in Acrisia Mountains | 
 | Good Rod | Fishing Guru in Sofos City | 
 | Key Stone | Complete Niko's Quest in Sofos City | 
 | Super Rod | Fishing Guru in Corrin Crossing | 
