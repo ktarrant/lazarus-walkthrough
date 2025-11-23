@@ -1,3 +1,12 @@
+<div class="pokemon-tabs" id="pokemon-tabs-kirlia">
+<input type="radio" name="pokemon-tabs-kirlia-group" id="pokemon-tabs-kirlia-tab-0" checked>
+<label for="pokemon-tabs-kirlia-tab-0">Kirlia</label>
+<input type="radio" name="pokemon-tabs-kirlia-group" id="pokemon-tabs-kirlia-tab-1">
+<label for="pokemon-tabs-kirlia-tab-1">Gallade</label>
+<input type="radio" name="pokemon-tabs-kirlia-group" id="pokemon-tabs-kirlia-tab-2">
+<label for="pokemon-tabs-kirlia-tab-2">Gardevoir</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-kirlia-panel-0">
 ## Kirlia (#080)
 <details class="pokemon-card-container" open>
 <summary>Kirlia overview</summary>
@@ -129,3 +138,281 @@ Lv. 20
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-kirlia-panel-1">
+## Gallade (#082)
+<details class="pokemon-card-container" open>
+<summary>Gallade overview</summary>
+Types: Psychic / Fighting • Egg Groups: Human-Like / Amorphous
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Steadfast
+- Sharpness
+- Justified *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fighting (0.5×)
+- Rock (0.5×)
+
+*Weak to*
+- Flying (2×)
+- Ghost (2×)
+- Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM26 - Earthquake
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- TM57 - Dazzling Gleam
+- HM01 - Cut
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
+
+**Evolution Info**
+Dawn Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-high">125</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">518</span> |
+
+**Level-Up Moves**
+- Slash (Lv 1)
+- Stored Power (Lv 1)
+- Close Combat (Lv 1)
+- Leaf Blade (Lv 1)
+- Night Slash (Lv 1)
+- Leer (Lv 1)
+- Confusion (Lv 4)
+- Double Team (Lv 6)
+- Teleport (Lv 9)
+- Quick Guard (Lv 11)
+- Fury Cutter (Lv 14)
+- Aerial Ace (Lv 17)
+- Heal Pulse (Lv 19)
+- Sky Uppercut (Lv Evo)
+- Wide Guard (Lv 23)
+- Swords Dance (Lv 26)
+- Psycho Cut (Lv 31)
+- Helping Hand (Lv 35)
+- Feint (Lv 40)
+- False Swipe (Lv 44)
+- Protect (Lv 49)
+- Close Combat (Lv 53)
+- Stored Power (Lv 58)
+
+**Egg Moves**
+- Disable
+- Mean Look
+- Memento
+- Destiny Bond
+- Grudge
+- Shadow Sneak
+- Confuse Ray
+- Encore
+- Synchronoise
+- Skill Swap
+- Misty Terrain
+- Ally Switch
+
+**Tutor Moves**
+- Body Slam
+- Dream Eater
+- Endure
+- Fire Punch
+- Fury Cutter
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
+- Thunder Punch
+- Thunder Wave
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-kirlia-panel-2">
+## Gardevoir (#081)
+<details class="pokemon-card-container" open>
+<summary>Gardevoir overview</summary>
+Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Synchronize
+- Trace
+- Telepathy *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fighting (0.25×)
+- Psychic (0.5×)
+- Dragon (0×)
+
+*Weak to*
+- Poison (2×)
+- Ghost (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Snatch
+- TM57 - Dazzling Gleam
+- HM05 - Flash
+
+**Evolution Info**
+Lv. 30
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">125</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">518</span> |
+
+**Level-Up Moves**
+- Moonblast (Lv 1)
+- Stored Power (Lv 1)
+- Misty Terrain (Lv 1)
+- Healing Wish (Lv 1)
+- Growl (Lv 1)
+- Confusion (Lv 4)
+- Double Team (Lv 6)
+- Teleport (Lv 9)
+- Disarming Voice (Lv 11)
+- Wish (Lv 14)
+- Magical Leaf (Lv 17)
+- Heal Pulse (Lv 19)
+- Draining Kiss (Lv 23)
+- Calm Mind (Lv 26)
+- Psychic (Lv 31)
+- Imprison (Lv 35)
+- Future Sight (Lv 40)
+- Captivate (Lv 44)
+- Hypnosis (Lv 49)
+- Dream Eater (Lv 53)
+- Stored Power (Lv 58)
+- Moonblast (Lv 62)
+
+**Egg Moves**
+- Disable
+- Mean Look
+- Memento
+- Destiny Bond
+- Grudge
+- Shadow Sneak
+- Confuse Ray
+- Encore
+- Synchronoise
+- Skill Swap
+- Misty Terrain
+- Ally Switch
+
+**Tutor Moves**
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Dream Eater
+- Endure
+- Fire Punch
+- Ice Punch
+- Icy Wind
+- Mega Kick
+- Mega Punch
+- Metronome
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- Thunder Wave
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-kirlia-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-kirlia-panel-0 { display: block; }
+#pokemon-tabs-kirlia-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-kirlia-panel-1 { display: block; }
+#pokemon-tabs-kirlia-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-kirlia-panel-2 { display: block; }
+</style>

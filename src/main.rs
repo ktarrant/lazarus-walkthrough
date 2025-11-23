@@ -119,8 +119,11 @@ fn render_pokemon_card(pokedex_path: PathBuf, manifest: PathBuf, identifier: Str
     let encounter_map = encounters::species_encounters_map(&manifest)?;
     for candidate in candidate_identifiers(&identifier) {
         if let Some(entry) = dex.find(&candidate) {
-            let refs = encounter_map.get(&entry.slug).cloned().unwrap_or_default();
-            print!("{}", pokemon_card::render_card(entry, &refs));
+            let chain = dex.evolution_chain(&entry.slug);
+            print!(
+                "{}",
+                pokemon_card::render_deck(&chain, &entry.slug, &encounter_map)
+            );
             return Ok(());
         }
     }
@@ -143,8 +146,11 @@ fn render_all_pokemon_cards(
         let slug = encounters::slugify(&name);
         if let Some(entry) = dex.get_by_slug(&slug) {
             let path = out_dir.join(format!("{slug}.md"));
-            let refs = encounter_map.get(&slug).cloned().unwrap_or_default();
-            std::fs::write(path, pokemon_card::render_card(entry, &refs))?;
+            let chain = dex.evolution_chain(&slug);
+            std::fs::write(
+                path,
+                pokemon_card::render_deck(&chain, &entry.slug, &encounter_map),
+            )?;
             index_entries.push((slug, entry.name.clone()));
         } else {
             eprintln!("Failed to generate card for {}; writing placeholder", name);

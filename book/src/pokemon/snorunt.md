@@ -1,3 +1,12 @@
+<div class="pokemon-tabs" id="pokemon-tabs-snorunt">
+<input type="radio" name="pokemon-tabs-snorunt-group" id="pokemon-tabs-snorunt-tab-0" checked>
+<label for="pokemon-tabs-snorunt-tab-0">Snorunt</label>
+<input type="radio" name="pokemon-tabs-snorunt-group" id="pokemon-tabs-snorunt-tab-1">
+<label for="pokemon-tabs-snorunt-tab-1">Froslass</label>
+<input type="radio" name="pokemon-tabs-snorunt-group" id="pokemon-tabs-snorunt-tab-2">
+<label for="pokemon-tabs-snorunt-tab-2">Glalie</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-snorunt-panel-0">
 ## Snorunt (#186)
 <details class="pokemon-card-container" open>
 <summary>Snorunt overview</summary>
@@ -95,3 +104,244 @@ Types: Ice • Egg Groups: Fairy / Mineral
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-snorunt-panel-1">
+## Froslass (#188)
+<details class="pokemon-card-container" open>
+<summary>Froslass overview</summary>
+Types: Ice / Ghost • Egg Groups: Fairy / Mineral
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Snow Cloak
+- Soul-Heart
+- Cursed Body *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0×)
+- Ice (0.5×)
+- Fighting (0×)
+- Poison (0.5×)
+- Bug (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Rock (2×)
+- Ghost (2×)
+- Dark (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Snatch
+- TM53 - Ice Fang
+- HM05 - Flash
+
+**Evolution Info**
+Dawn Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-high">100</span> |
+| Sp. Def | <span class="stat-value stat-mid">71</span> |
+| Speed | <span class="stat-value stat-high">124</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
+
+**Level-Up Moves**
+- Ominous Wind (Lv Evo)
+- Destiny Bond (Lv 1)
+- Powder Snow (Lv 1)
+- Leer (Lv 1)
+- Double Team (Lv 5)
+- Ice Shard (Lv 10)
+- Icy Wind (Lv 14)
+- Astonish (Lv 19)
+- Draining Kiss (Lv 23)
+- Aurora Beam (Lv 25)
+- Shadow Claw (Lv 26)
+- Will-O-Wisp (Lv 28)
+- Confuse Ray (Lv 32)
+- Infernal Parade (Lv 35)
+- Wake-Up Slap (Lv 37)
+- Captivate (Lv 41)
+- Shadow Ball (Lv 42)
+- Ice Beam (Lv 44)
+- Blizzard (Lv 48)
+- Energy Ball (Lv 50)
+- Hail (Lv 54)
+- Destiny Bond (Lv 61)
+
+**Egg Moves**
+- Block
+- Spikes
+- Rollout
+- Disable
+- Bide
+- Weather Ball
+- Avalanche
+- Hex
+- Fake Tears
+- Switcheroo
+
+**Tutor Moves**
+- Body Slam
+- Dream Eater
+- Endure
+- Ice Punch
+- Icy Wind
+- Mud-Slap
+- Psych Up
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- Thunder Wave
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-snorunt-panel-2">
+## Glalie (#187)
+<details class="pokemon-card-container" open>
+<summary>Glalie overview</summary>
+Types: Ice • Egg Groups: Fairy / Mineral
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Strong Jaw
+- Ice Body
+- Moody *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Ice (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Fighting (2×)
+- Rock (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Hail
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM20 - Safeguard
+- TM26 - Earthquake
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
+
+**Evolution Info**
+Lv. 32
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">90</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
+
+**Level-Up Moves**
+- Sheer Cold (Lv 1)
+- Powder Snow (Lv 1)
+- Leer (Lv 1)
+- Double Team (Lv 5)
+- Ice Shard (Lv 10)
+- Icy Wind (Lv 14)
+- Bite (Lv 19)
+- Ice Fang (Lv 23)
+- Headbutt (Lv 28)
+- Freeze-Dry (Lv Evo)
+- Protect (Lv 32)
+- Rock Slide (Lv 35)
+- Frost Breath (Lv 37)
+- Crunch (Lv 41)
+- Avalanche (Lv 45)
+- Blizzard (Lv 48)
+- Hail (Lv 54)
+- Sheer Cold (Lv 61)
+
+**Egg Moves**
+- Block
+- Spikes
+- Rollout
+- Disable
+- Bide
+- Weather Ball
+- Avalanche
+- Hex
+- Fake Tears
+- Switcheroo
+
+**Tutor Moves**
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Explosion
+- Icy Wind
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-snorunt-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-snorunt-panel-0 { display: block; }
+#pokemon-tabs-snorunt-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-snorunt-panel-1 { display: block; }
+#pokemon-tabs-snorunt-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-snorunt-panel-2 { display: block; }
+</style>

@@ -1,3 +1,10 @@
+<div class="pokemon-tabs" id="pokemon-tabs-pansear">
+<input type="radio" name="pokemon-tabs-pansear-group" id="pokemon-tabs-pansear-tab-0" checked>
+<label for="pokemon-tabs-pansear-tab-0">Pansear</label>
+<input type="radio" name="pokemon-tabs-pansear-group" id="pokemon-tabs-pansear-tab-1">
+<label for="pokemon-tabs-pansear-tab-1">Simisear</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-pansear-panel-0">
 ## Pansear (#030)
 <details class="pokemon-card-container" open>
 <summary>Pansear overview</summary>
@@ -109,3 +116,72 @@ Types: Fire / Normal • Egg Groups: Field
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-pansear-panel-1">
+## Simisear (#031)
+<details class="pokemon-card-container" open>
+<summary>Simisear overview</summary>
+Types: Fire • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Gluttony
+- Cud Chew
+- Blaze *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Grass (0.5×)
+- Ice (0.5×)
+- Bug (0.5×)
+- Steel (0.5×)
+- Fairy (0.5×)
+
+*Weak to*
+- Water (2×)
+- Ground (2×)
+- Rock (2×)
+
+**Evolution Info**
+Fire Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">82</span> |
+| Attack | <span class="stat-value stat-high">93</span> |
+| Defense | <span class="stat-value stat-mid">63</span> |
+| Sp. Atk | <span class="stat-value stat-high">103</span> |
+| Sp. Def | <span class="stat-value stat-mid">63</span> |
+| Speed | <span class="stat-value stat-high">101</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
+
+**Egg Moves**
+- Covet
+- Low Kick
+- Tickle
+- Nasty Plot
+- Role Play
+- Astonish
+- Sleep Talk
+- Fire Spin
+- Fire Punch
+- Heat Wave
+- Disarming Voice
+- Belch
+- Flare Blitz
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-pansear-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-pansear-panel-0 { display: block; }
+#pokemon-tabs-pansear-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-pansear-panel-1 { display: block; }
+</style>

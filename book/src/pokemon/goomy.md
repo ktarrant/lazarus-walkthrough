@@ -1,3 +1,12 @@
+<div class="pokemon-tabs" id="pokemon-tabs-goomy">
+<input type="radio" name="pokemon-tabs-goomy-group" id="pokemon-tabs-goomy-tab-0" checked>
+<label for="pokemon-tabs-goomy-tab-0">Goomy</label>
+<input type="radio" name="pokemon-tabs-goomy-group" id="pokemon-tabs-goomy-tab-1">
+<label for="pokemon-tabs-goomy-tab-1">Hisuian Sliggoo?</label>
+<input type="radio" name="pokemon-tabs-goomy-group" id="pokemon-tabs-goomy-tab-2">
+<label for="pokemon-tabs-goomy-tab-2">Hisuian Goodra?</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-goomy-panel-0">
 ## Goomy (#331)
 <details class="pokemon-card-container" open>
 <summary>Goomy overview</summary>
@@ -95,3 +104,222 @@ Types: Dragon • Egg Groups: Dragon
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-goomy-panel-1">
+## Hisuian Sliggoo? (#332)
+<details class="pokemon-card-container" open>
+<summary>Hisuian Sliggoo? overview</summary>
+Types: Dragon / Steel • Egg Groups: Dragon
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Sap Sipper
+- Shell Armor
+- Gooey *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Water (0.5×)
+- Electric (0.5×)
+- Grass (0.25×)
+- Poison (0×)
+- Flying (0.5×)
+- Psychic (0.5×)
+- Bug (0.5×)
+- Rock (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Fighting (2×)
+- Ground (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+
+**Evolution Info**
+Metal Coat?
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">58</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">83</span> |
+| Sp. Atk | <span class="stat-value stat-mid">83</span> |
+| Sp. Def | <span class="stat-value stat-high">113</span> |
+| Speed | <span class="stat-value stat-low">40</span> |
+| Total | <span class="stat-value stat-mid">452</span> |
+
+**Level-Up Moves**
+- Shelter (Lv Evo)
+- Acid Spray (Lv 1)
+- Acid Armor (Lv 1)
+- Tackle (Lv 1)
+- Bubble (Lv 1)
+- Absorb (Lv 5)
+- Protect (Lv 9)
+- Bide (Lv 13)
+- Dragon Breath (Lv 18)
+- Mega Drain (Lv 20)
+- Rain Dance (Lv 25)
+- Flail (Lv 28)
+- Body Slam (Lv 32)
+- Iron Head (Lv 36)
+- Dragon Pulse (Lv 42)
+- Sludge Bomb (Lv 45)
+- Hydro Pump (Lv 50)
+- Outrage (Lv 55)
+
+**Egg Moves**
+- Acid Armor
+- Curse
+- Iron Tail
+- Poison Tail
+- Counter
+- Endure
+
+**Tutor Moves**
+- Body Slam
+- Counter
+- Endure
+- Rock Slide
+- Sleep Talk
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-goomy-panel-2">
+## Hisuian Goodra? (#333)
+<details class="pokemon-card-container" open>
+<summary>Hisuian Goodra? overview</summary>
+Types: Dragon / Steel • Egg Groups: Dragon
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Sap Sipper
+- Shell Armor
+- Gooey *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Water (0.5×)
+- Electric (0.5×)
+- Grass (0.25×)
+- Poison (0×)
+- Flying (0.5×)
+- Psychic (0.5×)
+- Bug (0.5×)
+- Rock (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Fighting (2×)
+- Ground (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM03 - Water Pulse
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM23 - Iron Tail
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- HM03 - Surf
+- HM06 - Rock Smash
+
+**Evolution Info**
+Lv. 50, Overworld Rain?
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">80</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-high">150</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-high">600</span> |
+
+**Level-Up Moves**
+- Acid Spray (Lv 1)
+- Acid Armor (Lv 1)
+- Tackle (Lv 1)
+- Bubble (Lv 1)
+- Absorb (Lv 5)
+- Protect (Lv 9)
+- Bide (Lv 13)
+- Dragon Breath (Lv 18)
+- Mega Drain (Lv 20)
+- Rain Dance (Lv 25)
+- Flail (Lv 28)
+- Body Slam (Lv 32)
+- Iron Head (Lv 36)
+- Dragon Pulse (Lv 42)
+- Sludge Bomb (Lv 45)
+- Shelter (Lv Evo)
+- Hydro Pump (Lv 50)
+- Outrage (Lv 55)
+
+**Egg Moves**
+- Acid Armor
+- Curse
+- Iron Tail
+- Poison Tail
+- Counter
+- Endure
+
+**Tutor Moves**
+- Body Slam
+- Counter
+- Endure
+- Fire Punch
+- Rock Slide
+- Sleep Talk
+- Thunder Punch
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-goomy-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-goomy-panel-0 { display: block; }
+#pokemon-tabs-goomy-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-goomy-panel-1 { display: block; }
+#pokemon-tabs-goomy-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-goomy-panel-2 { display: block; }
+</style>

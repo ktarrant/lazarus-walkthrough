@@ -1,3 +1,10 @@
+<div class="pokemon-tabs" id="pokemon-tabs-gurdurr">
+<input type="radio" name="pokemon-tabs-gurdurr-group" id="pokemon-tabs-gurdurr-tab-0" checked>
+<label for="pokemon-tabs-gurdurr-tab-0">Gurdurr</label>
+<input type="radio" name="pokemon-tabs-gurdurr-group" id="pokemon-tabs-gurdurr-tab-1">
+<label for="pokemon-tabs-gurdurr-tab-1">Conkeldurr</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-gurdurr-panel-0">
 ## Gurdurr (#115)
 <details class="pokemon-card-container" open>
 <summary>Gurdurr overview</summary>
@@ -111,3 +118,88 @@ Lv. 25
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-gurdurr-panel-1">
+## Conkeldurr (#116)
+<details class="pokemon-card-container" open>
+<summary>Conkeldurr overview</summary>
+Types: Fighting • Egg Groups: Human-Like
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Guts
+- Sheer Force
+- Iron Fist *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Bug (0.5×)
+- Rock (0.5×)
+- Dark (0.5×)
+
+*Weak to*
+- Flying (2×)
+- Psychic (2×)
+- Fairy (2×)
+
+**Evolution Info**
+Linking Cord
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">105</span> |
+| Attack | <span class="stat-value stat-high">140</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
+
+**Level-Up Moves**
+- Pound (Lv 1)
+- Leer (Lv 1)
+- Focus Energy (Lv 4)
+- Bide (Lv 8)
+- Low Kick (Lv 12)
+- Rock Throw (Lv 16)
+- Wake-Up Slap (Lv 20)
+- Chip Away (Lv 24)
+- Bulk Up (Lv 28)
+- Slam (Lv 30)
+- Rock Slide (Lv 31)
+- Dynamic Punch (Lv 34)
+- Scary Face (Lv 37)
+- Hammer Arm (Lv 40)
+- Stomping Tantrum (Lv 42)
+- Stone Edge (Lv 44)
+- Focus Punch (Lv 47)
+- Superpower (Lv 50)
+
+**Egg Moves**
+- Drain Punch
+- Endure
+- Counter
+- Comet Punch
+- Foresight
+- Smelling Salts
+- Detect
+- Wide Guard
+- Force Palm
+- Reversal
+- Mach Punch
+- Power-Up Punch
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-gurdurr-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-gurdurr-panel-0 { display: block; }
+#pokemon-tabs-gurdurr-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gurdurr-panel-1 { display: block; }
+</style>

@@ -1,3 +1,10 @@
+<div class="pokemon-tabs" id="pokemon-tabs-finizen">
+<input type="radio" name="pokemon-tabs-finizen-group" id="pokemon-tabs-finizen-tab-0" checked>
+<label for="pokemon-tabs-finizen-tab-0">Finizen</label>
+<input type="radio" name="pokemon-tabs-finizen-group" id="pokemon-tabs-finizen-tab-1">
+<label for="pokemon-tabs-finizen-tab-1">Palafin</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-finizen-panel-0">
 ## Finizen (#162)
 <details class="pokemon-card-container" open>
 <summary>Finizen overview</summary>
@@ -90,3 +97,110 @@ Types: Water • Egg Groups: Field / Water 2
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-finizen-panel-1">
+## Palafin (#163)
+<details class="pokemon-card-container" open>
+<summary>Palafin overview</summary>
+Types: Water • Egg Groups: Field / Water 2
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Zero to Hero
+- Iron Fist *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Water (0.5×)
+- Ice (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Electric (2×)
+- Grass (2×)
+
+**TM/HM Moves**
+- TM01 - Focus Punch
+- TM03 - Water Pulse
+- TM08 - Bulk Up
+- TM12 - Taunt
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM42 - Facade
+- TM44 - Rest
+- HM03 - Surf
+- HM07 - Waterfall
+- HM08 - Dive
+
+**Evolution Info**
+Lv. 38
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">72</span> |
+| Sp. Atk | <span class="stat-value stat-mid">53</span> |
+| Sp. Def | <span class="stat-value stat-mid">62</span> |
+| Speed | <span class="stat-value stat-high">100</span> |
+| Total | <span class="stat-value stat-mid">467</span> |
+
+**Level-Up Moves**
+- Jet Punch (Lv 1)
+- Supersonic (Lv 1)
+- Water Gun (Lv 1)
+- Astonish (Lv 7)
+- Focus Energy (Lv 10)
+- Aqua Jet (Lv 13)
+- Pluck (Lv 15)
+- Double Hit (Lv 17)
+- Dive (Lv 21)
+- Charm (Lv 23)
+- Covet (Lv 26)
+- Acrobatics (Lv 29)
+- Encore (Lv 34)
+- Flip Turn (Lv Evo)
+- Aqua Tail (Lv 39)
+- Jet Punch (Lv 42)
+- Mist (Lv 44)
+- Ice Hammer (Lv 47)
+- Hydro Pump (Lv 50)
+- Meteor Mash (Lv 53)
+- Focus Punch (Lv 55)
+- Wave Crash (Lv 61)
+
+**Egg Moves**
+- Boomburst
+- Bounce
+- Counter
+- Haze
+- Tickle
+
+**Tutor Moves**
+- Body Slam
+- Counter
+- Endure
+- Ice Punch
+- Icy Wind
+- Psych Up
+- Sleep Talk
+- Swift
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-finizen-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-finizen-panel-0 { display: block; }
+#pokemon-tabs-finizen-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-finizen-panel-1 { display: block; }
+</style>

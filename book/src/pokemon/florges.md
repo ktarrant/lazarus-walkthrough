@@ -1,3 +1,109 @@
+<div class="pokemon-tabs" id="pokemon-tabs-florges">
+<input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-0">
+<label for="pokemon-tabs-florges-tab-0">Floette</label>
+<input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-1" checked>
+<label for="pokemon-tabs-florges-tab-1">Florges</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-0">
+## Floette (#293)
+<details class="pokemon-card-container" open>
+<summary>Floette overview</summary>
+Types: Fairy • Egg Groups: Fairy
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Flower Veil
+- Symbiosis *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fighting (0.5×)
+- Bug (0.5×)
+- Dragon (0×)
+- Dark (0.5×)
+
+*Weak to*
+- Poison (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM20 - Safeguard
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- HM05 - Flash
+
+**Evolution Info**
+Lv. 19
+
+**Encounter Locations**
+- Port Pello — Grass (Night) (20%)
+- Péntepetal City — Grass (Day) (20%)
+- Péntepetal City — Grass (Night) (20%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">54</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">47</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-high">98</span> |
+| Speed | <span class="stat-value stat-mid">52</span> |
+| Total | <span class="stat-value stat-mid">371</span> |
+
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Vine Whip (Lv 1)
+- Fairy Wind (Lv 6)
+- Lucky Chant (Lv 10)
+- Razor Leaf (Lv 15)
+- Draining Kiss (Lv Evo)
+- Wish (Lv 20)
+- Magical Leaf (Lv 23)
+- Grassy Terrain (Lv 25)
+- Synthesis (Lv 28)
+- Petal Blizzard (Lv 33)
+- Aromatherapy (Lv 35)
+- Pollen Puff (Lv 38)
+- Misty Terrain (Lv 43)
+- Moonblast (Lv 46)
+- Petal Dance (Lv 51)
+- Solar Beam (Lv 58)
+
+**Egg Moves**
+- Copycat
+- Captivate
+- Camouflage
+- Tearful Look
+
+**Tutor Moves**
+- Endure
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-1">
 ## Florges (#294)
 <details class="pokemon-card-container" open>
 <summary>Florges overview</summary>
@@ -48,3 +154,10 @@ Shiny Stone
 </div>
 </div>
 </details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-florges-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-0 { display: block; }
+#pokemon-tabs-florges-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-1 { display: block; }
+</style>

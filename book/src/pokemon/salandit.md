@@ -1,3 +1,10 @@
+<div class="pokemon-tabs" id="pokemon-tabs-salandit">
+<input type="radio" name="pokemon-tabs-salandit-group" id="pokemon-tabs-salandit-tab-0" checked>
+<label for="pokemon-tabs-salandit-tab-0">Salandit</label>
+<input type="radio" name="pokemon-tabs-salandit-group" id="pokemon-tabs-salandit-tab-1">
+<label for="pokemon-tabs-salandit-tab-1">Salazzle</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-salandit-panel-0">
 ## Salandit (#160)
 <details class="pokemon-card-container" open>
 <summary>Salandit overview</summary>
@@ -101,3 +108,119 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-salandit-panel-1">
+## Salazzle (#161)
+<details class="pokemon-card-container" open>
+<summary>Salazzle overview</summary>
+Types: Poison / Fire • Egg Groups: Monster / Dragon
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Corrosion
+- Oblivious *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Grass (0.25×)
+- Ice (0.5×)
+- Fighting (0.5×)
+- Poison (0.5×)
+- Bug (0.25×)
+- Steel (0.5×)
+- Fairy (0.25×)
+
+*Weak to*
+- Water (2×)
+- Ground (4×)
+- Psychic (2×)
+- Rock (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM49 - Snatch
+- TM50 - Overheat
+
+**Evolution Info**
+Lv. 33, Female
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">68</span> |
+| Attack | <span class="stat-value stat-mid">74</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">111</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-high">117</span> |
+| Total | <span class="stat-value stat-mid">490</span> |
+
+**Level-Up Moves**
+- Disable (Lv 1)
+- Encore (Lv 1)
+- Torment (Lv 1)
+- Swagger (Lv 1)
+- Scratch (Lv 1)
+- Poison Gas (Lv 1)
+- Ember (Lv 5)
+- Sweet Scent (Lv 8)
+- Dragon Rage (Lv 13)
+- Smog (Lv 16)
+- Double Slap (Lv 19)
+- Sludge (Lv 22)
+- Flame Burst (Lv 24)
+- Toxic (Lv 29)
+- Nasty Plot (Lv 32)
+- Captivate (Lv Evo)
+- Fiery Wrath (Lv 35)
+- Venoshock (Lv 37)
+- Flamethrower (Lv 40)
+- Venom Drench (Lv 45)
+- Dragon Pulse (Lv 48)
+
+**Egg Moves**
+- Belch
+- Knock Off
+- Sand Attack
+- Snatch
+- Fake Out
+
+**Tutor Moves**
+- Body Slam
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Wave
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-salandit-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-salandit-panel-0 { display: block; }
+#pokemon-tabs-salandit-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-salandit-panel-1 { display: block; }
+</style>

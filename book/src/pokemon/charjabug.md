@@ -1,3 +1,10 @@
+<div class="pokemon-tabs" id="pokemon-tabs-charjabug">
+<input type="radio" name="pokemon-tabs-charjabug-group" id="pokemon-tabs-charjabug-tab-0" checked>
+<label for="pokemon-tabs-charjabug-tab-0">Charjabug</label>
+<input type="radio" name="pokemon-tabs-charjabug-group" id="pokemon-tabs-charjabug-tab-1">
+<label for="pokemon-tabs-charjabug-tab-1">Vikavolt</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-charjabug-panel-0">
 ## Charjabug (#049)
 <details class="pokemon-card-container" open>
 <summary>Charjabug overview</summary>
@@ -88,3 +95,59 @@ Lv. 20
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-charjabug-panel-1">
+## Vikavolt (#050)
+<details class="pokemon-card-container" open>
+<summary>Vikavolt overview</summary>
+Types: Bug / Electric • Egg Groups: Bug
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Levitate
+- Speed Boost *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Electric (0.5×)
+- Grass (0.5×)
+- Fighting (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Rock (2×)
+
+**Evolution Info**
+Thunder Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">77</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-high">135</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-low">43</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
+
+**Egg Moves**
+- Harden
+- Electroweb
+- Mud Shot
+- Endure
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-charjabug-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-charjabug-panel-0 { display: block; }
+#pokemon-tabs-charjabug-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-charjabug-panel-1 { display: block; }
+</style>

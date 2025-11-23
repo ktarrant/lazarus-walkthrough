@@ -1,10 +1,89 @@
 use crate::encounters::SpeciesEncounter;
 use crate::pokedex::{Abilities, LevelMove, PokemonEntry, Stats};
 use crate::type_chart;
-
+use std::collections::HashMap;
 use std::fmt::Write;
 
-pub fn render_card(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> String {
+pub fn render_deck(
+    chain: &[&PokemonEntry],
+    active_slug: &str,
+    encounters_map: &HashMap<String, Vec<SpeciesEncounter>>,
+) -> String {
+    if chain.is_empty() {
+        return String::new();
+    }
+    if chain.len() == 1 {
+        let entry = chain[0];
+        let encounters = encounters_map
+            .get(&entry.slug)
+            .map(|v| v.as_slice())
+            .unwrap_or(&[]);
+        return render_single(entry, encounters);
+    }
+
+    let active_index = chain
+        .iter()
+        .position(|e| e.slug == active_slug)
+        .unwrap_or(0);
+    let group_name = format!("pokemon-tabs-{}", active_slug);
+    let radio_name = format!("{}-group", group_name);
+    let mut output = String::new();
+    writeln!(
+        &mut output,
+        "<div class=\"pokemon-tabs\" id=\"{}\">",
+        group_name
+    )
+    .unwrap();
+
+    for (idx, entry) in chain.iter().enumerate() {
+        let tab_id = format!("{}-tab-{}", group_name, idx);
+        let checked = if idx == active_index { " checked" } else { "" };
+        writeln!(
+            &mut output,
+            "<input type=\"radio\" name=\"{}\" id=\"{}\"{}>",
+            radio_name, tab_id, checked
+        )
+        .unwrap();
+        writeln!(
+            &mut output,
+            "<label for=\"{}\">{}</label>",
+            tab_id, entry.name
+        )
+        .unwrap();
+    }
+
+    output.push_str("<div class=\"pokemon-tab-panels\">\n");
+    for (idx, entry) in chain.iter().enumerate() {
+        let panel_id = format!("{}-panel-{}", group_name, idx);
+        writeln!(
+            &mut output,
+            "<div class=\"pokemon-tab-panel\" id=\"{}\">",
+            panel_id
+        )
+        .unwrap();
+        let encounters = encounters_map
+            .get(&entry.slug)
+            .map(|v| v.as_slice())
+            .unwrap_or(&[]);
+        output.push_str(&render_single(entry, encounters));
+        output.push_str("</div>\n");
+    }
+    output.push_str("</div>\n</div>\n<style>\n");
+    for idx in 0..chain.len() {
+        let tab_id = format!("{}-tab-{}", group_name, idx);
+        let panel_id = format!("{}-panel-{}", group_name, idx);
+        writeln!(
+            &mut output,
+            "#{}:checked ~ .pokemon-tab-panels #{} {{ display: block; }}",
+            tab_id, panel_id
+        )
+        .unwrap();
+    }
+    output.push_str("</style>\n");
+    output
+}
+
+fn render_single(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> String {
     let mut buf = String::new();
     let dex_label = entry
         .dex

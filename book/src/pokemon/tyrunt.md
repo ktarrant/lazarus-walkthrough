@@ -1,3 +1,10 @@
+<div class="pokemon-tabs" id="pokemon-tabs-tyrunt">
+<input type="radio" name="pokemon-tabs-tyrunt-group" id="pokemon-tabs-tyrunt-tab-0" checked>
+<label for="pokemon-tabs-tyrunt-tab-0">Tyrunt</label>
+<input type="radio" name="pokemon-tabs-tyrunt-group" id="pokemon-tabs-tyrunt-tab-1">
+<label for="pokemon-tabs-tyrunt-tab-1">Tyrantrum</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-tyrunt-panel-0">
 ## Tyrunt (#203)
 <details class="pokemon-card-container" open>
 <summary>Tyrunt overview</summary>
@@ -100,3 +107,118 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-tyrunt-panel-1">
+## Tyrantrum (#204)
+<details class="pokemon-card-container" open>
+<summary>Tyrantrum overview</summary>
+Types: Rock / Dragon • Egg Groups: Dragon / Monster
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Strong Jaw
+- Rock Head *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Fire (0.25×)
+- Electric (0.5×)
+- Poison (0.5×)
+- Flying (0.5×)
+
+*Weak to*
+- Ice (2×)
+- Fighting (2×)
+- Ground (2×)
+- Dragon (2×)
+- Steel (2×)
+- Fairy (2×)
+
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM05 - Roar
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Hyper Beam
+- TM17 - Protect
+- TM23 - Iron Tail
+- TM26 - Earthquake
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM04 - Strength
+- HM05 - Flash
+
+**Evolution Info**
+Lv. 39, Day
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">92</span> |
+| Attack | <span class="stat-value stat-high">121</span> |
+| Defense | <span class="stat-value stat-high">119</span> |
+| Sp. Atk | <span class="stat-value stat-mid">59</span> |
+| Sp. Def | <span class="stat-value stat-mid">59</span> |
+| Speed | <span class="stat-value stat-mid">71</span> |
+| Total | <span class="stat-value stat-mid">521</span> |
+
+**Level-Up Moves**
+- Head Smash (Lv 1)
+- Tail Whip (Lv 1)
+- Tackle (Lv 1)
+- Roar (Lv 6)
+- Stomp (Lv 10)
+- Bide (Lv 12)
+- Stealth Rock (Lv 15)
+- Bite (Lv 17)
+- Glare (Lv 20)
+- Poison Fang (Lv 24)
+- Ancient Power (Lv 26)
+- Dragon Tail (Lv 30)
+- Crunch (Lv 34)
+- Dragon Claw (Lv 37)
+- Rock Slide (Lv Evo)
+- Thrash (Lv 40)
+- Earthquake (Lv 44)
+- Horn Drill (Lv 49)
+- Head Smash (Lv 54)
+- Dragon Energy (Lv 60)
+
+**Egg Moves**
+- Dragon Dance
+- Thunder Fang
+- Ice Fang
+- Poison Fang
+- Rock Polish
+- Fire Fang
+- Curse
+
+**Tutor Moves**
+- Body Slam
+- Endure
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-tyrunt-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-tyrunt-panel-0 { display: block; }
+#pokemon-tabs-tyrunt-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-tyrunt-panel-1 { display: block; }
+</style>

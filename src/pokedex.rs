@@ -1,6 +1,7 @@
 use anyhow::{Context, Result};
 use serde::Deserialize;
 use std::collections::HashMap;
+use std::collections::VecDeque;
 use std::fs;
 use std::path::PathBuf;
 
@@ -82,5 +83,37 @@ impl LazarusPokedex {
 
     pub fn get_by_slug(&self, slug: &str) -> Option<&PokemonEntry> {
         self.entries.get(slug)
+    }
+
+    pub fn evolution_chain(&self, slug: &str) -> Vec<&PokemonEntry> {
+        let Some(root) = self.find_chain_root(slug) else {
+            return Vec::new();
+        };
+        let mut chain = Vec::new();
+        let mut queue = VecDeque::new();
+        queue.push_back(root);
+        while let Some(current) = queue.pop_front() {
+            if let Some(entry) = self.entries.get(current) {
+                chain.push(entry);
+                let mut children: Vec<&String> = entry.evolves_to.iter().collect();
+                children.sort();
+                for child in children {
+                    queue.push_back(child);
+                }
+            }
+        }
+        chain
+    }
+
+    fn find_chain_root(&self, slug: &str) -> Option<&str> {
+        let mut current = self.entries.get(slug)?;
+        while let Some(parent) = current
+            .evolves_from
+            .as_ref()
+            .and_then(|s| self.entries.get(s))
+        {
+            current = parent;
+        }
+        Some(&current.slug)
     }
 }
