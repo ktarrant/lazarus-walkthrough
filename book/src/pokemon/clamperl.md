@@ -1,16 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-clamperl-366">
-<input type="radio" name="pokemon-tabs-clamperl-366-group" id="pokemon-tabs-clamperl-366-tab-0" checked>
-<label for="pokemon-tabs-clamperl-366-tab-0">Clamperl</label>
-<input type="radio" name="pokemon-tabs-clamperl-366-group" id="pokemon-tabs-clamperl-366-tab-1">
-<label for="pokemon-tabs-clamperl-366-tab-1">Huntail</label>
-<input type="radio" name="pokemon-tabs-clamperl-366-group" id="pokemon-tabs-clamperl-366-tab-2">
-<label for="pokemon-tabs-clamperl-366-tab-2">Gorebyss</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-clamperl-366-panel-0">
-## Clamperl (#366)
+## Clamperl (#289)
 <details class="pokemon-card-container" open>
 <summary>Clamperl overview</summary>
-_Bivalve Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 69
+Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery (GR)(fish) Port Pello, Sea of Asteri, Sea of Vulcai, Fresco Isles, Palati City
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,10 +20,6 @@ _Bivalve Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 69
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Clamperl → Huntail (Hold Deep Sea Tooth)
-- Clamperl → Gorebyss (Hold Deep Sea Scale)
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (20%)
@@ -66,117 +53,22 @@ _Bivalve Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 69
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">32</span> |
 | Total | <span class="stat-value stat-mid">345</span> |
-</div>
-</div>
 
-**Flavor Text**
-> When it evolves, it makes a mysterious pearl that amplifies psychic powers when it’s held.
+**Level-Up Moves**
+- Clamp (Lv 1)
+- Water Gun (Lv 1)
+- Whirlpool (Lv 1)
+- Iron Defense (Lv 1)
+- Shell Smash (Lv 50)
+
+**Egg Moves**
+Refresh, Mud Sport, Body Slam, Supersonic, Barrier, Confuse Ray, Aqua Ring, Muddy Water, Water Pulse, Brine, Endure
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Icy Wind, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-clamperl-366-panel-1">
-## Huntail (#367)
-<details class="pokemon-card-container" open>
-<summary>Huntail overview</summary>
-_Deep Sea Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 170
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Swift Swim
-- Water Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Clamperl → Huntail (Hold Deep Sea Tooth)
-- Clamperl → Gorebyss (Hold Deep Sea Scale)
-
-**Encounter Locations**
-- Pollen Road — Fishing (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">55</span> |
-| Attack | <span class="stat-value stat-high">104</span> |
-| Defense | <span class="stat-value stat-high">105</span> |
-| Sp. Atk | <span class="stat-value stat-high">94</span> |
-| Sp. Def | <span class="stat-value stat-mid">75</span> |
-| Speed | <span class="stat-value stat-mid">52</span> |
-| Total | <span class="stat-value stat-mid">485</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-clamperl-366-panel-2">
-## Gorebyss (#368)
-<details class="pokemon-card-container" open>
-<summary>Gorebyss overview</summary>
-_South Sea Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 170
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Swift Swim
-- Hydration *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Clamperl → Huntail (Hold Deep Sea Tooth)
-- Clamperl → Gorebyss (Hold Deep Sea Scale)
-
-**Encounter Locations**
-- Davosi Straits — Fishing (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">55</span> |
-| Attack | <span class="stat-value stat-mid">84</span> |
-| Defense | <span class="stat-value stat-high">105</span> |
-| Sp. Atk | <span class="stat-value stat-high">114</span> |
-| Sp. Def | <span class="stat-value stat-mid">75</span> |
-| Speed | <span class="stat-value stat-mid">52</span> |
-| Total | <span class="stat-value stat-mid">485</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-clamperl-366-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-clamperl-366-panel-0 { display: block; }
-#pokemon-tabs-clamperl-366-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-clamperl-366-panel-1 { display: block; }
-#pokemon-tabs-clamperl-366-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-clamperl-366-panel-2 { display: block; }
-</style>

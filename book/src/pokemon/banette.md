@@ -1,66 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-banette-354">
-<input type="radio" name="pokemon-tabs-banette-354-group" id="pokemon-tabs-banette-354-tab-0">
-<label for="pokemon-tabs-banette-354-tab-0">Shuppet</label>
-<input type="radio" name="pokemon-tabs-banette-354-group" id="pokemon-tabs-banette-354-tab-1" checked>
-<label for="pokemon-tabs-banette-354-tab-1">Banette</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-banette-354-panel-0">
-## Shuppet (#353)
-<details class="pokemon-card-container" open>
-<summary>Shuppet overview</summary>
-_Puppet Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 59
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Insomnia
-- Frisk
-- Cursed Body *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0×)
-- Fighting (0×)
-- Poison (0.5×)
-- Bug (0.5×)
-
-*Weak to*
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Shuppet → Banette (Lv 37)
-
-**Encounter Locations**
-- Nyx Trails — Grass (Night) (10%)
-- Pythios Cemetery — Grass (Day) (8%)
-- Wanderer's Woods (North) — Grass (Night) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">44</span> |
-| Attack | <span class="stat-value stat-mid">75</span> |
-| Defense | <span class="stat-value stat-low">35</span> |
-| Sp. Atk | <span class="stat-value stat-mid">63</span> |
-| Sp. Def | <span class="stat-value stat-low">33</span> |
-| Speed | <span class="stat-value stat-low">45</span> |
-| Total | <span class="stat-value stat-low">295</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It uses its horn to feed on envy and malice-- or so it’s said. It’s very active at night.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-banette-354-panel-1">
-## Banette (#354)
+## Banette (#128)
 <details class="pokemon-card-container" open>
 <summary>Banette overview</summary>
-_Marionette Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 159
+Types: Ghost / Normal • Egg Groups: Amorphous • Found: The Nyx Trails (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -76,13 +17,13 @@ _Marionette Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EX
 - Fighting (0×)
 - Poison (0.5×)
 - Bug (0.5×)
+- Ghost (0×)
 
 *Weak to*
-- Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Shuppet → Banette (Lv 37)
+**Evolution Info**
+Lv. 28
 
 **Encounter Locations**
 - Nyx Trails — Grass (Day) (4%)
@@ -93,23 +34,47 @@ _Marionette Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EX
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">64</span> |
+| HP | <span class="stat-value stat-mid">74</span> |
 | Attack | <span class="stat-value stat-high">115</span> |
-| Defense | <span class="stat-value stat-mid">65</span> |
-| Sp. Atk | <span class="stat-value stat-mid">83</span> |
-| Sp. Def | <span class="stat-value stat-mid">63</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">455</span> |
-</div>
-</div>
+| Defense | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">53</span> |
+| Sp. Def | <span class="stat-value stat-mid">73</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">465</span> |
 
-**Flavor Text**
-> A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.
+**Level-Up Moves**
+- Phantom Force (Lv 1)
+- Knock Off (Lv 1)
+- Screech (Lv 4)
+- Night Shade (Lv 7)
+- Spite (Lv 10)
+- Shadow Sneak (Lv 13)
+- Will-O-Wisp (Lv 16)
+- Feint Attack (Lv 19)
+- Headbutt (Lv 21)
+- Hex (Lv 22)
+- Curse (Lv 26)
+- Darkest Lariat (Lv Evo)
+- Glare (Lv 28)
+- Shadow Ball (Lv 30)
+- Embargo (Lv 34)
+- Body Slam (Lv 36)
+- Sucker Punch (Lv 38)
+- Rage Fist (Lv 40)
+- Snatch (Lv 42)
+- Grudge (Lv 46)
+- Trick (Lv 50)
+- Bitter Blade (Lv 52)
+- Phantom Force (Lv 54)
+
+**Egg Moves**
+Disable, Destiny Bond, Foresight, Astonish, Imprison, Pursuit, Shadow Sneak, Confuse Ray, Ominous Wind, Gunk Shot, Phantom Force
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Metronome, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-banette-354-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-banette-354-panel-0 { display: block; }
-#pokemon-tabs-banette-354-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-banette-354-panel-1 { display: block; }
-</style>

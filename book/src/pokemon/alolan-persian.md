@@ -1,83 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-persian-alola-10108">
-<input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-0">
-<label for="pokemon-tabs-persian-alola-10108-tab-0">Meowth Alola</label>
-<input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-1" checked>
-<label for="pokemon-tabs-persian-alola-10108-tab-1">Persian Alola</label>
-<input type="radio" name="pokemon-tabs-persian-alola-10108-group" id="pokemon-tabs-persian-alola-10108-tab-2">
-<label for="pokemon-tabs-persian-alola-10108-tab-2">Perrserker</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-0">
-## Meowth Alola (#10107)
+## Alolan Persian (#208)
 <details class="pokemon-card-container" open>
-<summary>Meowth Alola overview</summary>
-_Scratch Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 58
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Pickup
-- Technician
-- Rattled *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Psychic (0×)
-- Ghost (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Fighting (2×)
-- Bug (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Meowth → Persian (Lv 28)
-- Meowth → Perrserker (Lv 28)
-
-**Encounter Locations**
-- Kalami City — Grass (Night) (5%)
-- Pythios Town — Grass (Night) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">40</span> |
-| Attack | <span class="stat-value stat-low">35</span> |
-| Defense | <span class="stat-value stat-low">35</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-low">40</span> |
-| Speed | <span class="stat-value stat-mid">90</span> |
-| Total | <span class="stat-value stat-low">290</span> |
-
-**Notable Level-Up Moves**
-- Fake Out (Lv 1)
-- Growl (Lv 1)
-- Feint (Lv 4)
-- Scratch (Lv 8)
-- Pay Day (Lv 12)
-- Bite (Lv 16)
-- Taunt (Lv 20)
-- Assurance (Lv 24)
-- Fury Swipes (Lv 29)
-- Screech (Lv 32)
-- Night Slash (Lv 36)
-- Nasty Plot (Lv 40)
-- Play Rough (Lv 44)
-</div>
-</div>
-
-**Flavor Text**
-> It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-1">
-## Persian Alola (#10108)
-<details class="pokemon-card-container" open>
-<summary>Persian Alola overview</summary>
-_Classy Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 154
+<summary>Alolan Persian overview</summary>
+Types: Dark • Egg Groups: Field • Found: The Nyx Trails (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -98,9 +22,8 @@ _Classy Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 154
 - Bug (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Meowth → Persian (Lv 28)
-- Meowth → Perrserker (Lv 28)
+**Evolution Info**
+Lv. 27
 
 **Encounter Locations**
 - Nyx Trails — Grass (Night) (10%)
@@ -110,122 +33,45 @@ _Classy Cat Pokémon_ • Types: Dark • Egg Groups: Ground • Base EXP: 154
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
-| Attack | <span class="stat-value stat-mid">60</span> |
+| HP | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
 | Defense | <span class="stat-value stat-mid">60</span> |
-| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-high">115</span> |
-| Total | <span class="stat-value stat-mid">440</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 
-**Notable Level-Up Moves**
-- Fake Out (Lv 1)
-- Feint (Lv 1)
-- Growl (Lv 1)
-- Power Gem (Lv 1)
+**Level-Up Moves**
 - Quash (Lv 1)
-- Scratch (Lv 1)
+- Play Rough (Lv 1)
 - Switcheroo (Lv 1)
-- Pay Day (Lv 12)
-- Bite (Lv 16)
-- Taunt (Lv 20)
-- Assurance (Lv 24)
-- Fury Swipes (Lv 31)
-- Screech (Lv 36)
-- Night Slash (Lv 42)
-- Nasty Plot (Lv 48)
-- Play Rough (Lv 54)
-</div>
-</div>
-
-**Flavor Text**
-> Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-persian-alola-10108-panel-2">
-## Perrserker (#863)
-<details class="pokemon-card-container" open>
-<summary>Perrserker overview</summary>
-_Viking Pokémon_ • Types: Steel • Egg Groups: Ground • Base EXP: 154
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Battle Armor
-- Tough Claws
-- Steely Spirit *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0.5×)
-- Grass (0.5×)
-- Ice (0.5×)
-- Poison (0×)
-- Flying (0.5×)
-- Psychic (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dragon (0.5×)
-- Steel (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Fighting (2×)
-- Ground (2×)
-
-**Evolution Paths**
-- Meowth → Persian (Lv 28)
-- Meowth → Perrserker (Lv 28)
-
-**Encounter Locations**
-- Kaptara Island (East) — Grass (Day) (5%)
-- Kaptara Island (East) — Grass (Night) (5%)
-- Nyx Trails — Grass (Day) (10%)
-- Nyx Trails — Grass (Night) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-high">110</span> |
-| Defense | <span class="stat-value stat-high">100</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">440</span> |
-
-**Notable Level-Up Moves**
-- Fake Out (Lv 1)
-- Growl (Lv 1)
-- Hone Claws (Lv 1)
-- Iron Defense (Lv 1)
-- Iron Head (Lv 1)
-- Metal Burst (Lv 1)
 - Scratch (Lv 1)
-- Pay Day (Lv 12)
-- Metal Claw (Lv 16)
-- Taunt (Lv 20)
-- Swagger (Lv 24)
-- Fury Swipes (Lv 31)
-- Screech (Lv 36)
-- Slash (Lv 42)
-- Metal Sound (Lv 48)
-- Thrash (Lv 54)
-</div>
-</div>
+- Growl (Lv 1)
+- Bite (Lv 6)
+- Fake Out (Lv 9)
+- Fury Swipes (Lv 14)
+- Screech (Lv 17)
+- Feint Attack (Lv 22)
+- Taunt (Lv 25)
+- Swift (Lv Evo)
+- Pay Day (Lv 30)
+- Power Gem (Lv 32)
+- Slash (Lv 35)
+- Nasty Plot (Lv 38)
+- Assurance (Lv 41)
+- Captivate (Lv 46)
+- Dark Pulse (Lv 49)
+- Feint (Lv 50)
+- Spirit Break (Lv 55)
 
-**Flavor Text**
-> What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.
+**Egg Moves**
+Amnesia, Assist, Charm, Covet, Flail, Flatter, Foul Play, Hypnosis, Parting Shot, Punishment, Snatch, Spite
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM58 - Play Rough, TM60 - U-Turn
+
+**Tutor Moves**
+Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-persian-alola-10108-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-alola-10108-panel-0 { display: block; }
-#pokemon-tabs-persian-alola-10108-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-alola-10108-panel-1 { display: block; }
-#pokemon-tabs-persian-alola-10108-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-persian-alola-10108-panel-2 { display: block; }
-</style>

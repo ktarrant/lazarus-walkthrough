@@ -1,21 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-muk-alola-10113">
-<input type="radio" name="pokemon-tabs-muk-alola-10113-group" id="pokemon-tabs-muk-alola-10113-tab-0">
-<label for="pokemon-tabs-muk-alola-10113-tab-0">Grimer Alola</label>
-<input type="radio" name="pokemon-tabs-muk-alola-10113-group" id="pokemon-tabs-muk-alola-10113-tab-1" checked>
-<label for="pokemon-tabs-muk-alola-10113-tab-1">Muk Alola</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-muk-alola-10113-panel-0">
-## Grimer Alola (#10112)
+## Alolan Muk (#072)
 <details class="pokemon-card-container" open>
-<summary>Grimer Alola overview</summary>
-_Sludge Pokémon_ • Types: Poison / Dark • Egg Groups: Indeterminate • Base EXP: 65
+<summary>Alolan Muk overview</summary>
+Types: Poison / Dark • Egg Groups: Amorphous • Found: Areios Hideout (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Poison Touch
 - Gluttony
-- Power Of Alchemy *(Hidden)*
+- Power of Alchemy *(Hidden)*
 
 **Type Matchups**
 
@@ -29,59 +22,8 @@ _Sludge Pokémon_ • Types: Poison / Dark • Egg Groups: Indeterminate • Bas
 *Weak to*
 - Ground (2×)
 
-**Evolution Paths**
-- Grimer → Muk (Lv 38)
-
-**Encounter Locations**
-- Acrisia City — Grass (Night) (5%)
-- Péntepetal City — Grass (Night) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">80</span> |
-| Attack | <span class="stat-value stat-mid">80</span> |
-| Defense | <span class="stat-value stat-low">50</span> |
-| Sp. Atk | <span class="stat-value stat-low">40</span> |
-| Sp. Def | <span class="stat-value stat-low">50</span> |
-| Speed | <span class="stat-value stat-low">25</span> |
-| Total | <span class="stat-value stat-mid">325</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Its main source of food is the slimy industrial waste of factories. This Pokémon’s numbers have been decreasing in recent years.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-muk-alola-10113-panel-1">
-## Muk Alola (#10113)
-<details class="pokemon-card-container" open>
-<summary>Muk Alola overview</summary>
-_Sludge Pokémon_ • Types: Poison / Dark • Egg Groups: Indeterminate • Base EXP: 175
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Poison Touch
-- Gluttony
-- Power Of Alchemy *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.5×)
-- Poison (0.5×)
-- Psychic (0×)
-- Ghost (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Ground (2×)
-
-**Evolution Paths**
-- Grimer → Muk (Lv 38)
+**Evolution Info**
+Lv. 36
 
 **Encounter Locations**
 - Areios Hideout — Grass (Night) (10%)
@@ -93,21 +35,39 @@ _Sludge Pokémon_ • Types: Poison / Dark • Egg Groups: Indeterminate • Bas
 | --- | --- |
 | HP | <span class="stat-value stat-high">105</span> |
 | Attack | <span class="stat-value stat-high">105</span> |
-| Defense | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-mid">85</span> |
 | Sp. Atk | <span class="stat-value stat-mid">65</span> |
 | Sp. Def | <span class="stat-value stat-high">100</span> |
-| Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
-</div>
-</div>
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-mid">505</span> |
 
-**Flavor Text**
-> The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that’s a good thing.
+**Level-Up Moves**
+- Pound (Lv 1)
+- Poison Gas (Lv 1)
+- Harden (Lv 4)
+- Bite (Lv 7)
+- Disable (Lv 12)
+- Acid Spray (Lv 15)
+- Poison Fang (Lv 18)
+- Minimize (Lv 21)
+- Fling (Lv 26)
+- Knock Off (Lv 29)
+- Crunch (Lv 32)
+- Venom Drench (Lv Evo)
+- Screech (Lv 37)
+- Gunk Shot (Lv 40)
+- Acid Armor (Lv 46)
+- Belch (Lv 52)
+- Memento (Lv 57)
+
+**Egg Moves**
+Assurance, Clear Smog, Curse, Imprison, Mean Look, Power-Up Punch, Pursuit, Scary Face, Shadow Sneak, Spite, Spit Up, Stockpile, Swallow
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM51 - Poison Fang
+
+**Tutor Moves**
+Body Slam, Endure, Explosion, Fire Punch, Ice Punch, Metronome, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-muk-alola-10113-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-alola-10113-panel-0 { display: block; }
-#pokemon-tabs-muk-alola-10113-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-alola-10113-panel-1 { display: block; }
-</style>

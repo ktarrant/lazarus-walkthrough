@@ -1,19 +1,12 @@
-<div class="pokemon-tabs" id="pokemon-tabs-corsola-222">
-<input type="radio" name="pokemon-tabs-corsola-222-group" id="pokemon-tabs-corsola-222-tab-0" checked>
-<label for="pokemon-tabs-corsola-222-tab-0">Corsola</label>
-<input type="radio" name="pokemon-tabs-corsola-222-group" id="pokemon-tabs-corsola-222-tab-1">
-<label for="pokemon-tabs-corsola-222-tab-1">Cursola</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-corsola-222-panel-0">
-## Corsola (#222)
+## Corsola (#234)
 <details class="pokemon-card-container" open>
 <summary>Corsola overview</summary>
-_Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Base EXP: 144
+Types: Water / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Marmaro Island, Myrrini Island
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Hustle
+- Skill Link
 - Natural Cure
 - Regenerator *(Hidden)*
 
@@ -31,9 +24,6 @@ _Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Bas
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
-
-**Evolution Paths**
-- Corsola → Cursola (Lv 38)
 
 **Encounter Locations**
 - Kipos Town — Fishing (15%)
@@ -56,92 +46,36 @@ _Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Bas
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-mid">410</span> |
 
-**Notable Level-Up Moves**
-- Harden (Lv 1)
+**Level-Up Moves**
 - Tackle (Lv 1)
-- Water Gun (Lv 5)
-- Aqua Ring (Lv 10)
-- Endure (Lv 15)
-- Ancient Power (Lv 20)
-- Bubble Beam (Lv 25)
-- Flail (Lv 30)
-- Life Dew (Lv 35)
-- Power Gem (Lv 40)
-- Earth Power (Lv 45)
-- Recover (Lv 50)
-- Mirror Coat (Lv 55)
-</div>
-</div>
-
-**Flavor Text**
-> It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-corsola-222-panel-1">
-## Cursola (#864)
-<details class="pokemon-card-container" open>
-<summary>Cursola overview</summary>
-_Coral Pokémon_ • Types: Ghost • Egg Groups: Water1 / Water3 • Base EXP: 179
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Weak Armor
-- Perish Body *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0×)
-- Fighting (0×)
-- Poison (0.5×)
-- Bug (0.5×)
-
-*Weak to*
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Corsola → Cursola (Lv 38)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-low">50</span> |
-| Sp. Atk | <span class="stat-value stat-high">145</span> |
-| Sp. Def | <span class="stat-value stat-high">130</span> |
-| Speed | <span class="stat-value stat-low">30</span> |
-| Total | <span class="stat-value stat-mid">510</span> |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
-- Disable (Lv 1)
 - Harden (Lv 1)
-- Perish Song (Lv 1)
-- Tackle (Lv 1)
-- Spite (Lv 15)
-- Ancient Power (Lv 20)
-- Hex (Lv 25)
-- Curse (Lv 30)
-- Strength Sap (Lv 35)
-- Power Gem (Lv 40)
-- Night Shade (Lv 45)
-- Grudge (Lv 50)
-- Mirror Coat (Lv 55)
-</div>
-</div>
+- Bubble (Lv 4)
+- Recover (Lv 8)
+- Bubble Beam (Lv 10)
+- Refresh (Lv 13)
+- Ancient Power (Lv 17)
+- Spike Cannon (Lv 20)
+- Lucky Chant (Lv 23)
+- Pin Missile (Lv 25)
+- Brine (Lv 27)
+- Iron Defense (Lv 29)
+- Rock Blast (Lv 31)
+- Icicle Spear (Lv 34)
+- Endure (Lv 35)
+- Aqua Ring (Lv 38)
+- Power Gem (Lv 41)
+- Mirror Coat (Lv 45)
+- Earth Power (Lv 47)
+- Flail (Lv 50)
 
-**Flavor Text**
-> Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.
+**Egg Moves**
+Screech, Mist, Amnesia, Barrier, Ingrain, Confuse Ray, Icicle Spear, Nature Power, Aqua Ring, Curse, Bide, Water Pulse, Head Smash, Camouflage, Liquidation
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Defense Curl, Double-Edge, Endure, Explosion, Icy Wind, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-corsola-222-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-corsola-222-panel-0 { display: block; }
-#pokemon-tabs-corsola-222-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-corsola-222-panel-1 { display: block; }
-</style>

@@ -1,46 +1,35 @@
-<div class="pokemon-tabs" id="pokemon-tabs-corsola-222">
-<input type="radio" name="pokemon-tabs-corsola-222-group" id="pokemon-tabs-corsola-222-tab-0" checked>
-<label for="pokemon-tabs-corsola-222-tab-0">Corsola</label>
-<input type="radio" name="pokemon-tabs-corsola-222-group" id="pokemon-tabs-corsola-222-tab-1">
-<label for="pokemon-tabs-corsola-222-tab-1">Cursola</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-corsola-222-panel-0">
-## Corsola (#222)
+## Galarian Corsola (#234)
 <details class="pokemon-card-container" open>
-<summary>Corsola overview</summary>
-_Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Base EXP: 144
+<summary>Galarian Corsola overview</summary>
+Types: Ghost / Rock • Egg Groups: Water 1 / Water 3 • Found: Sofos City, Marmaro Island, Myrrini Island
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Hustle
-- Natural Cure
-- Regenerator *(Hidden)*
+- Weak Armor
+- Cursed Body *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Normal (0.5×)
-- Fire (0.25×)
-- Ice (0.5×)
-- Poison (0.5×)
+- Normal (0×)
+- Fire (0.5×)
+- Fighting (0×)
+- Poison (0.25×)
 - Flying (0.5×)
+- Bug (0.5×)
 
 *Weak to*
-- Electric (2×)
-- Grass (4×)
-- Fighting (2×)
+- Water (2×)
+- Grass (2×)
 - Ground (2×)
-
-**Evolution Paths**
-- Corsola → Cursola (Lv 38)
+- Ghost (2×)
+- Dark (2×)
+- Steel (2×)
 
 **Encounter Locations**
-- Kipos Town — Fishing (15%)
 - Kipos Town — Surfing (5%)
-- Marmaro Island — Fishing (15%)
 - Marmaro Island — Surfing (5%)
-- Sofos City — Fishing (15%)
 - Sofos City — Surfing (5%)
 </div>
 <div class="card-column">
@@ -48,100 +37,41 @@ _Coral Pokémon_ • Types: Water / Rock • Egg Groups: Water1 / Water3 • Bas
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
+| HP | <span class="stat-value stat-mid">60</span> |
 | Attack | <span class="stat-value stat-mid">55</span> |
-| Defense | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
 | Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-high">100</span> |
+| Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">410</span> |
 
-**Notable Level-Up Moves**
-- Harden (Lv 1)
+**Level-Up Moves**
 - Tackle (Lv 1)
-- Water Gun (Lv 5)
-- Aqua Ring (Lv 10)
-- Endure (Lv 15)
-- Ancient Power (Lv 20)
-- Bubble Beam (Lv 25)
-- Flail (Lv 30)
-- Life Dew (Lv 35)
-- Power Gem (Lv 40)
-- Earth Power (Lv 45)
-- Recover (Lv 50)
-- Mirror Coat (Lv 55)
-</div>
-</div>
-
-**Flavor Text**
-> It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-corsola-222-panel-1">
-## Cursola (#864)
-<details class="pokemon-card-container" open>
-<summary>Cursola overview</summary>
-_Coral Pokémon_ • Types: Ghost • Egg Groups: Water1 / Water3 • Base EXP: 179
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Weak Armor
-- Perish Body *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0×)
-- Fighting (0×)
-- Poison (0.5×)
-- Bug (0.5×)
-
-*Weak to*
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Corsola → Cursola (Lv 38)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-low">50</span> |
-| Sp. Atk | <span class="stat-value stat-high">145</span> |
-| Sp. Def | <span class="stat-value stat-high">130</span> |
-| Speed | <span class="stat-value stat-low">30</span> |
-| Total | <span class="stat-value stat-mid">510</span> |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
-- Disable (Lv 1)
 - Harden (Lv 1)
-- Perish Song (Lv 1)
-- Tackle (Lv 1)
-- Spite (Lv 15)
+- Astonish (Lv 5)
+- Disable (Lv 10)
+- Spite (Lv 14)
+- Bubble Beam (Lv 18)
 - Ancient Power (Lv 20)
-- Hex (Lv 25)
+- Hex (Lv 23)
+- Rock Blast (Lv 27)
 - Curse (Lv 30)
-- Strength Sap (Lv 35)
+- Strength Sap (Lv 33)
+- Shadow Ball (Lv 37)
 - Power Gem (Lv 40)
-- Night Shade (Lv 45)
+- Night Shade (Lv 43)
+- Infernal Parade (Lv 46)
 - Grudge (Lv 50)
 - Mirror Coat (Lv 55)
-</div>
-</div>
 
-**Flavor Text**
-> Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.
+**Egg Moves**
+Haze, Confuse Ray, Nature Power, Destiny Bond, Water Pulse, Head Smash
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM04 - Calm Mind, TM07 - Hail, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf
+
+**Tutor Moves**
+Body Slam, Endure, Icy Wind, Rollout, Sleep Talk, Snore
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-corsola-222-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-corsola-222-panel-0 { display: block; }
-#pokemon-tabs-corsola-222-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-corsola-222-panel-1 { display: block; }
-</style>

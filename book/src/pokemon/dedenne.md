@@ -1,14 +1,14 @@
-## Dedenne (#702)
+## Dedenne (#259)
 <details class="pokemon-card-container" open>
 <summary>Dedenne overview</summary>
-_Antenna Pokémon_ • Types: Electric / Fairy • Egg Groups: Ground / Fairy • Base EXP: 151
+Types: Electric / Fairy • Egg Groups: Fairy / Field • Found: Acrisia Mountains Peak, Asfal Hills, Marmaro Island, Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Cheek Pouch
-- Pickup
-- Plus *(Hidden)*
+- Pixilate
+- Transistor *(Hidden)*
 
 **Type Matchups**
 
@@ -24,9 +24,6 @@ _Antenna Pokémon_ • Types: Electric / Fairy • Egg Groups: Ground / Fairy �
 - Poison (2×)
 - Ground (2×)
 
-**Evolution Paths**
-- Dedenne
-
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (10%)
 - Asfal Hills — Grass (Night) (10%)
@@ -39,33 +36,41 @@ _Antenna Pokémon_ • Types: Electric / Fairy • Egg Groups: Ground / Fairy �
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">67</span> |
+| HP | <span class="stat-value stat-mid">72</span> |
 | Attack | <span class="stat-value stat-mid">58</span> |
-| Defense | <span class="stat-value stat-mid">57</span> |
-| Sp. Atk | <span class="stat-value stat-mid">81</span> |
-| Sp. Def | <span class="stat-value stat-mid">67</span> |
+| Defense | <span class="stat-value stat-mid">62</span> |
+| Sp. Atk | <span class="stat-value stat-high">91</span> |
+| Sp. Def | <span class="stat-value stat-mid">87</span> |
 | Speed | <span class="stat-value stat-high">101</span> |
-| Total | <span class="stat-value stat-mid">431</span> |
+| Total | <span class="stat-value stat-mid">471</span> |
 
-**Notable Level-Up Moves**
-- Nuzzle (Lv 1)
+**Level-Up Moves**
+- Tackle (Lv 1)
 - Tail Whip (Lv 1)
-- Tackle (Lv 5)
-- Charge (Lv 10)
-- Thunder Shock (Lv 15)
-- Charm (Lv 20)
-- Parabolic Charge (Lv 25)
-- Volt Switch (Lv 30)
-- Rest (Lv 35)
-- Snore (Lv 35)
-- Discharge (Lv 40)
-- Play Rough (Lv 45)
-- Super Fang (Lv 50)
-- Entrainment (Lv 55)
-- Thunder (Lv 60)
-</div>
-</div>
+- Thunder Shock (Lv 7)
+- Charge (Lv 11)
+- Charm (Lv 14)
+- Parabolic Charge (Lv 17)
+- Nuzzle (Lv 20)
+- Thunder Wave (Lv 23)
+- Volt Switch (Lv 26)
+- Rest (Lv 30)
+- Snore (Lv 31)
+- Charge Beam (Lv 33)
+- Dazzling Gleam (Lv 36)
+- Entrainment (Lv 39)
+- Slack Off (Lv 42)
+- Thunder (Lv 45)
+- Discharge (Lv 50)
 
-**Flavor Text**
-> A Dedenne’s whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.
+**Egg Moves**
+Eerie Impulse, Covet, Helping Hand, Natural Gift, Tearful Look
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash
+
+**Tutor Moves**
+Endure, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+</div>
+</div>
 </details>

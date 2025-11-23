@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-cutiefly-742">
-<input type="radio" name="pokemon-tabs-cutiefly-742-group" id="pokemon-tabs-cutiefly-742-tab-0" checked>
-<label for="pokemon-tabs-cutiefly-742-tab-0">Cutiefly</label>
-<input type="radio" name="pokemon-tabs-cutiefly-742-group" id="pokemon-tabs-cutiefly-742-tab-1">
-<label for="pokemon-tabs-cutiefly-742-tab-1">Ribombee</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-cutiefly-742-panel-0">
-## Cutiefly (#742)
+## Cutiefly (#069)
 <details class="pokemon-card-container" open>
 <summary>Cutiefly overview</summary>
-_Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base EXP: 61
+Types: Bug / Fairy • Egg Groups: Bug / Fairy • Found: Bronze Fields S, Jusmail Town, Riverwalk Trail N (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -33,9 +26,6 @@ _Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base E
 - Flying (2×)
 - Rock (2×)
 - Steel (2×)
-
-**Evolution Paths**
-- Cutiefly → Ribombee (Lv 25)
 
 **Encounter Locations**
 - Bronze Fields (South) — Grass (Day) (10%)
@@ -55,99 +45,29 @@ _Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base E
 | Speed | <span class="stat-value stat-mid">84</span> |
 | Total | <span class="stat-value stat-low">304</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Absorb (Lv 1)
-- Fairy Wind (Lv 1)
-- Stun Spore (Lv 6)
-- Sweet Scent (Lv 12)
-- Draining Kiss (Lv 18)
-- Struggle Bug (Lv 24)
-- Aromatherapy (Lv 30)
-- Switcheroo (Lv 36)
-- Dazzling Gleam (Lv 42)
-- Bug Buzz (Lv 48)
-- Quiver Dance (Lv 54)
-</div>
-</div>
+- Fairy Wind (Lv 4)
+- Stun Spore (Lv 7)
+- Struggle Bug (Lv 10)
+- Silver Wind (Lv 13)
+- Draining Kiss (Lv 16)
+- Sweet Scent (Lv 21)
+- Bug Buzz (Lv 26)
+- U-Turn (Lv 29)
+- Dazzling Gleam (Lv 31)
+- Aromatherapy (Lv 34)
+- Syrup Bomb (Lv 38)
+- Quiver Dance (Lv 41)
 
-**Flavor Text**
-> Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur’s pollen.
+**Egg Moves**
+Baton Pass, Skill Swap, Speed Swap, Bestow, Moonblast, Powder, Sticky Web
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM20 - Safeguard, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap
+
+**Tutor Moves**
+Dream Eater, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-cutiefly-742-panel-1">
-## Ribombee (#743)
-<details class="pokemon-card-container" open>
-<summary>Ribombee overview</summary>
-_Bee Fly Pokémon_ • Types: Bug / Fairy • Egg Groups: Bug / Fairy • Base EXP: 162
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Honey Gather
-- Shield Dust
-- Sweet Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.5×)
-- Fighting (0.25×)
-- Ground (0.5×)
-- Bug (0.5×)
-- Dragon (0×)
-- Dark (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Poison (2×)
-- Flying (2×)
-- Rock (2×)
-- Steel (2×)
-
-**Evolution Paths**
-- Cutiefly → Ribombee (Lv 25)
-
-**Encounter Locations**
-- Port Pello — Grass (Day) (10%)
-- Port Pello — Grass (Night) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-mid">55</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
-| Sp. Atk | <span class="stat-value stat-high">95</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-high">124</span> |
-| Total | <span class="stat-value stat-mid">464</span> |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1)
-- Covet (Lv 1)
-- Fairy Wind (Lv 1)
-- Pollen Puff (Lv 1)
-- Stun Spore (Lv 1)
-- Sweet Scent (Lv 1)
-- Draining Kiss (Lv 18)
-- Struggle Bug (Lv 24)
-- Aromatherapy (Lv 32)
-- Switcheroo (Lv 40)
-- Dazzling Gleam (Lv 48)
-- Bug Buzz (Lv 56)
-- Quiver Dance (Lv 64)
-</div>
-</div>
-
-**Flavor Text**
-> It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-cutiefly-742-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cutiefly-742-panel-0 { display: block; }
-#pokemon-tabs-cutiefly-742-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cutiefly-742-panel-1 { display: block; }
-</style>

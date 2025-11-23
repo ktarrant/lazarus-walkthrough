@@ -1,20 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-buizel-418">
-<input type="radio" name="pokemon-tabs-buizel-418-group" id="pokemon-tabs-buizel-418-tab-0" checked>
-<label for="pokemon-tabs-buizel-418-tab-0">Buizel</label>
-<input type="radio" name="pokemon-tabs-buizel-418-group" id="pokemon-tabs-buizel-418-tab-1">
-<label for="pokemon-tabs-buizel-418-tab-1">Floatzel</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-buizel-418-panel-0">
-## Buizel (#418)
+## Buizel (#218)
 <details class="pokemon-card-container" open>
 <summary>Buizel overview</summary>
-_Sea Weasel Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 66
+Types: Water • Egg Groups: Field / Water 1 • Found: Riverwalk Trail S, Kalami City, Asfal Hills (wild) Riverwalk Trail N, Riverwalk Trail S, Kalami City (GR)(fish)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Swift Swim
-- Water Veil *(Hidden)*
+- Water Veil
+- Propeller Tail *(Hidden)*
 
 **Type Matchups**
 
@@ -27,9 +21,6 @@ _Sea Weasel Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base 
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Buizel → Floatzel (Lv 26)
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (5%)
@@ -53,62 +44,31 @@ _Sea Weasel Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base 
 | Sp. Def | <span class="stat-value stat-low">30</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
-</div>
-</div>
 
-**Flavor Text**
-> It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.
+**Level-Up Moves**
+- Sonic Boom (Lv 1)
+- Growl (Lv 4)
+- Water Sport (Lv 7)
+- Quick Attack (Lv 11)
+- Water Gun (Lv 15)
+- Pursuit (Lv 18)
+- Swift (Lv 21)
+- Aqua Jet (Lv 24)
+- Double Hit (Lv 27)
+- Whirlpool (Lv 31)
+- Jet Punch (Lv 35)
+- Flip Turn (Lv 38)
+- Agility (Lv 41)
+- Hydro Pump (Lv 45)
+
+**Egg Moves**
+Mud-Slap, Headbutt, Fury Swipes, Slash, Odor Sleuth, Double Slap, Fury Cutter, Baton Pass, Aqua Tail, Aqua Ring, Me First, Switcheroo, Tail Slap, Soak, Helping Hand
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM08 - Bulk Up, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Endure, Fury Cutter, Ice Punch, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-buizel-418-panel-1">
-## Floatzel (#419)
-<details class="pokemon-card-container" open>
-<summary>Floatzel overview</summary>
-_Sea Weasel Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 173
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Swift Swim
-- Water Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Buizel → Floatzel (Lv 26)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">85</span> |
-| Attack | <span class="stat-value stat-high">105</span> |
-| Defense | <span class="stat-value stat-mid">55</span> |
-| Sp. Atk | <span class="stat-value stat-mid">85</span> |
-| Sp. Def | <span class="stat-value stat-low">50</span> |
-| Speed | <span class="stat-value stat-high">115</span> |
-| Total | <span class="stat-value stat-mid">495</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It floats using its well-developed flotation sac. It assists in the rescues of drowning people.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-buizel-418-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-buizel-418-panel-0 { display: block; }
-#pokemon-tabs-buizel-418-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-buizel-418-panel-1 { display: block; }
-</style>

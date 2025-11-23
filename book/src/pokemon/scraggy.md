@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-scraggy-559">
-<input type="radio" name="pokemon-tabs-scraggy-559-group" id="pokemon-tabs-scraggy-559-tab-0" checked>
-<label for="pokemon-tabs-scraggy-559-tab-0">Scraggy</label>
-<input type="radio" name="pokemon-tabs-scraggy-559-group" id="pokemon-tabs-scraggy-559-tab-1">
-<label for="pokemon-tabs-scraggy-559-tab-1">Scrafty</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-scraggy-559-panel-0">
-## Scraggy (#559)
+## Scraggy (#309)
 <details class="pokemon-card-container" open>
 <summary>Scraggy overview</summary>
-_Shedding Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon • Base EXP: 70
+Types: Dark / Fighting • Egg Groups: Dragon / Field • Found: Pythios Cemetery, Fresco Isles (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,9 +22,6 @@ _Shedding Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon �
 - Fighting (2×)
 - Flying (2×)
 - Fairy (4×)
-
-**Evolution Paths**
-- Scraggy → Scrafty (Lv 39)
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (20%)
@@ -51,100 +41,35 @@ _Shedding Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon �
 | Speed | <span class="stat-value stat-low">48</span> |
 | Total | <span class="stat-value stat-mid">348</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Leer (Lv 1)
-- Low Kick (Lv 1)
-- Payback (Lv 4)
-- Headbutt (Lv 8)
-- Sand Attack (Lv 12)
-- Facade (Lv 16)
-- Protect (Lv 20)
-- Beat Up (Lv 24)
-- Scary Face (Lv 28)
-- Brick Break (Lv 32)
-- Swagger (Lv 36)
-- Crunch (Lv 40)
-- High Jump Kick (Lv 44)
-- Focus Punch (Lv 48)
-- Head Smash (Lv 52)
-</div>
-</div>
-
-**Flavor Text**
-> If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-scraggy-559-panel-1">
-## Scrafty (#560)
-<details class="pokemon-card-container" open>
-<summary>Scrafty overview</summary>
-_Hoodlum Pokémon_ • Types: Dark / Fighting • Egg Groups: Ground / Dragon • Base EXP: 171
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Shed Skin
-- Moxie
-- Intimidate *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Psychic (0×)
-- Rock (0.5×)
-- Ghost (0.5×)
-- Dark (0.25×)
-
-*Weak to*
-- Fighting (2×)
-- Flying (2×)
-- Fairy (4×)
-
-**Evolution Paths**
-- Scraggy → Scrafty (Lv 39)
-
-**Encounter Locations**
-- Areios Hideout — Grass (Night) (8%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
-| Attack | <span class="stat-value stat-mid">90</span> |
-| Defense | <span class="stat-value stat-high">115</span> |
-| Sp. Atk | <span class="stat-value stat-low">45</span> |
-| Sp. Def | <span class="stat-value stat-high">115</span> |
-| Speed | <span class="stat-value stat-mid">58</span> |
-| Total | <span class="stat-value stat-mid">488</span> |
-
-**Notable Level-Up Moves**
 - Headbutt (Lv 1)
-- Leer (Lv 1)
-- Low Kick (Lv 1)
-- Payback (Lv 1)
-- Sand Attack (Lv 12)
-- Facade (Lv 16)
-- Protect (Lv 20)
-- Beat Up (Lv 24)
-- Scary Face (Lv 28)
-- Brick Break (Lv 32)
-- Swagger (Lv 36)
-- Crunch (Lv 42)
-- High Jump Kick (Lv 48)
-- Focus Punch (Lv 54)
-- Head Smash (Lv 60)
-</div>
-</div>
+- Sand Attack (Lv 5)
+- Feint Attack (Lv 9)
+- Swagger (Lv 12)
+- Low Kick (Lv 16)
+- Payback (Lv 19)
+- Brick Break (Lv 21)
+- Poison Jab (Lv 25)
+- Chip Away (Lv 27)
+- High Jump Kick (Lv 31)
+- Scary Face (Lv 34)
+- Crunch (Lv 38)
+- Facade (Lv 42)
+- Rock Climb (Lv 45)
+- Focus Punch (Lv 48)
+- Head Smash (Lv 50)
+- Stomping Tantrum (Lv 53)
+- Wild Charge (Lv 55)
 
-**Flavor Text**
-> As halfhearted as this Pokémon’s kicks may seem, they pack enough power to shatter Conkeldurr’s concrete pillars.
+**Egg Moves**
+Drain Punch, Counter, Dragon Dance, Detect, Fake Out, Fire Punch, Ice Punch, Thunder Punch, Amnesia, Feint Attack, Zen Headbutt, Quick Guard, Power-Up Punch, Acid Spray
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Counter, Double-Edge, Endure, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Rock Slide, Sleep Talk, Snore, Swagger, Thunder Punch
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-scraggy-559-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-scraggy-559-panel-0 { display: block; }
-#pokemon-tabs-scraggy-559-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-scraggy-559-panel-1 { display: block; }
-</style>

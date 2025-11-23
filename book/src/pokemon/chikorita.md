@@ -1,22 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-chikorita-152">
-<input type="radio" name="pokemon-tabs-chikorita-152-group" id="pokemon-tabs-chikorita-152-tab-0" checked>
-<label for="pokemon-tabs-chikorita-152-tab-0">Chikorita</label>
-<input type="radio" name="pokemon-tabs-chikorita-152-group" id="pokemon-tabs-chikorita-152-tab-1">
-<label for="pokemon-tabs-chikorita-152-tab-1">Bayleef</label>
-<input type="radio" name="pokemon-tabs-chikorita-152-group" id="pokemon-tabs-chikorita-152-tab-2">
-<label for="pokemon-tabs-chikorita-152-tab-2">Meganium</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-152-panel-0">
-## Chikorita (#152)
+## Chikorita
 <details class="pokemon-card-container" open>
 <summary>Chikorita overview</summary>
-_Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 64
+Types: Grass • Egg Groups: Monster / Grass
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Overgrow
-- Leaf Guard *(Hidden)*
+- Thick Fat
+- Triage *(Hidden)*
 
 **Type Matchups**
 
@@ -32,9 +24,6 @@ _Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 6
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
-
-**Evolution Paths**
-- Chikorita → Bayleef (Lv 16) → Meganium (Lv 32)
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Day) (4%)
@@ -44,122 +33,38 @@ _Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 6
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-low">45</span> |
+| HP | <span class="stat-value stat-low">50</span> |
 | Attack | <span class="stat-value stat-low">49</span> |
 | Defense | <span class="stat-value stat-mid">65</span> |
 | Sp. Atk | <span class="stat-value stat-low">49</span> |
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-low">45</span> |
-| Total | <span class="stat-value stat-mid">318</span> |
-</div>
-</div>
+| Total | <span class="stat-value stat-mid">323</span> |
 
-**Flavor Text**
-> A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Growl (Lv 1)
+- Razor Leaf (Lv 6)
+- Poison Powder (Lv 9)
+- Synthesis (Lv 12)
+- Reflect (Lv 17)
+- Magical Leaf (Lv 20)
+- Natural Gift (Lv 23)
+- Sweet Scent (Lv 28)
+- Light Screen (Lv 31)
+- Body Slam (Lv 34)
+- Safeguard (Lv 39)
+- Aromatherapy (Lv 42)
+- Solar Beam (Lv 45)
+
+**Egg Moves**
+Vine Whip, Leech Seed, Counter, Ancient Power, Flail, Nature Power, Ingrain, Grass Whistle, Leaf Storm, Aromatherapy, Wring Out, Body Slam, Refresh, Heal Pulse, Grassy Terrain
+
+**TM/HM Moves**
+TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-152-panel-1">
-## Bayleef (#153)
-<details class="pokemon-card-container" open>
-<summary>Bayleef overview</summary>
-_Leaf Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 142
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Overgrow
-- Leaf Guard *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-
-**Evolution Paths**
-- Chikorita → Bayleef (Lv 16) → Meganium (Lv 32)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-mid">62</span> |
-| Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-mid">63</span> |
-| Sp. Def | <span class="stat-value stat-mid">80</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-mid">405</span> |
-</div>
-</div>
-
-**Flavor Text**
-> A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-152-panel-2">
-## Meganium (#154)
-<details class="pokemon-card-container" open>
-<summary>Meganium overview</summary>
-_Herb Pokémon_ • Types: Grass • Egg Groups: Monster / Plant • Base EXP: 236
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Overgrow
-- Leaf Guard *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-
-**Evolution Paths**
-- Chikorita → Bayleef (Lv 16) → Meganium (Lv 32)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">80</span> |
-| Attack | <span class="stat-value stat-mid">82</span> |
-| Defense | <span class="stat-value stat-high">100</span> |
-| Sp. Atk | <span class="stat-value stat-mid">83</span> |
-| Sp. Def | <span class="stat-value stat-high">100</span> |
-| Speed | <span class="stat-value stat-mid">80</span> |
-| Total | <span class="stat-value stat-mid">525</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The aroma that rises from its petals contains a substance that calms aggressive feelings.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-chikorita-152-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-chikorita-152-panel-0 { display: block; }
-#pokemon-tabs-chikorita-152-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-chikorita-152-panel-1 { display: block; }
-#pokemon-tabs-chikorita-152-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-chikorita-152-panel-2 { display: block; }
-</style>

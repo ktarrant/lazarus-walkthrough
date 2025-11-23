@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-wingull-278">
-<input type="radio" name="pokemon-tabs-wingull-278-group" id="pokemon-tabs-wingull-278-tab-0" checked>
-<label for="pokemon-tabs-wingull-278-tab-0">Wingull</label>
-<input type="radio" name="pokemon-tabs-wingull-278-group" id="pokemon-tabs-wingull-278-tab-1">
-<label for="pokemon-tabs-wingull-278-tab-1">Pelipper</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-wingull-278-panel-0">
-## Wingull (#278)
+## Wingull (#182)
 <details class="pokemon-card-container" open>
 <summary>Wingull overview</summary>
-_Seagull Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying • Base EXP: 54
+Types: Water / Flying • Egg Groups: Water 1 / Flying • Found: Kalami City, Pythios Town (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -31,8 +24,11 @@ _Seagull Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying •
 - Electric (4×)
 - Rock (2×)
 
-**Evolution Paths**
-- Wingull → Pelipper (Lv 25)
+**Notable Held Item**
+Pretty Feather
+
+**Held Item**
+Pretty Feather
 
 **Encounter Locations**
 - Kalami City — Grass (Day) (20%)
@@ -56,101 +52,30 @@ _Seagull Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying •
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-low">270</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Growl (Lv 1)
 - Water Gun (Lv 1)
-- Quick Attack (Lv 5)
-- Supersonic (Lv 10)
-- Wing Attack (Lv 15)
-- Water Pulse (Lv 20)
-- Agility (Lv 26)
-- Air Slash (Lv 30)
-- Mist (Lv 35)
-- Roost (Lv 40)
-- Hurricane (Lv 45)
-</div>
-</div>
+- Supersonic (Lv 5)
+- Wing Attack (Lv 8)
+- Mist (Lv 12)
+- Water Pulse (Lv 15)
+- Quick Attack (Lv 19)
+- Air Cutter (Lv 22)
+- Pursuit (Lv 26)
+- Aerial Ace (Lv 29)
+- Roost (Lv 33)
+- Agility (Lv 36)
+- Air Slash (Lv 40)
+- Hurricane (Lv 43)
 
-**Flavor Text**
-> It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.
+**Egg Moves**
+Mist, Twister, Agility, Gust, Water Sport, Aqua Ring, Knock Off, Brine, Roost, Soak, Wide Guard
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM60 - U-Turn, HM02 - Fly, HM03 - Surf, HM07 - Waterfall
+
+**Tutor Moves**
+Double-Edge, Endure, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-wingull-278-panel-1">
-## Pelipper (#279)
-<details class="pokemon-card-container" open>
-<summary>Pelipper overview</summary>
-_Water Bird Pokémon_ • Types: Water / Flying • Egg Groups: Water1 / Flying • Base EXP: 154
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Keen Eye
-- Drizzle
-- Rain Dish *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Fighting (0.5×)
-- Ground (0×)
-- Bug (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (4×)
-- Rock (2×)
-
-**Evolution Paths**
-- Wingull → Pelipper (Lv 25)
-
-**Encounter Locations**
-- Wakewater Isle — Grass (Night) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-low">50</span> |
-| Defense | <span class="stat-value stat-high">100</span> |
-| Sp. Atk | <span class="stat-value stat-high">95</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">440</span> |
-
-**Notable Level-Up Moves**
-- Agility (Lv 1)
-- Air Slash (Lv 1)
-- Growl (Lv 1)
-- Protect (Lv 1)
-- Quick Attack (Lv 1)
-- Soak (Lv 1)
-- Supersonic (Lv 1)
-- Tailwind (Lv 1)
-- Water Gun (Lv 1)
-- Wing Attack (Lv 15)
-- Water Pulse (Lv 20)
-- Spit Up (Lv 28)
-- Stockpile (Lv 28)
-- Swallow (Lv 28)
-- Fling (Lv 34)
-- Mist (Lv 41)
-- Roost (Lv 48)
-- Hurricane (Lv 55)
-- Hydro Pump (Lv 62)
-</div>
-</div>
-
-**Flavor Text**
-> It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-wingull-278-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wingull-278-panel-0 { display: block; }
-#pokemon-tabs-wingull-278-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wingull-278-panel-1 { display: block; }
-</style>

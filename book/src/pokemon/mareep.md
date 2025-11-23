@@ -1,22 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-mareep-179">
-<input type="radio" name="pokemon-tabs-mareep-179-group" id="pokemon-tabs-mareep-179-tab-0" checked>
-<label for="pokemon-tabs-mareep-179-tab-0">Mareep</label>
-<input type="radio" name="pokemon-tabs-mareep-179-group" id="pokemon-tabs-mareep-179-tab-1">
-<label for="pokemon-tabs-mareep-179-tab-1">Flaaffy</label>
-<input type="radio" name="pokemon-tabs-mareep-179-group" id="pokemon-tabs-mareep-179-tab-2">
-<label for="pokemon-tabs-mareep-179-tab-2">Ampharos</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-mareep-179-panel-0">
-## Mareep (#179)
+## Mareep (#061)
 <details class="pokemon-card-container" open>
 <summary>Mareep overview</summary>
-_Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EXP: 56
+Types: Electric • Egg Groups: Monster / Field • Found: Bronze Fields S (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Static
-- Plus *(Hidden)*
+- Illuminate
+- Dazzling *(Hidden)*
 
 **Type Matchups**
 
@@ -27,9 +19,6 @@ _Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EX
 
 *Weak to*
 - Ground (2×)
-
-**Evolution Paths**
-- Mareep → Flaaffy (Lv 15) → Ampharos (Lv 30)
 
 **Encounter Locations**
 - Bronze Fields (South) — Grass (Day) (20%)
@@ -47,108 +36,32 @@ _Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EX
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">280</span> |
-</div>
-</div>
 
-**Flavor Text**
-> Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Growl (Lv 1)
+- Thunder Wave (Lv 4)
+- Thundershock (Lv 8)
+- Cotton Spore (Lv 11)
+- Charge (Lv 15)
+- Take Down (Lv 18)
+- Electro Ball (Lv 22)
+- Confuse Ray (Lv 25)
+- Power Gem (Lv 29)
+- Discharge (Lv 32)
+- Cotton Guard (Lv 36)
+- Signal Beam (Lv 39)
+- Light Screen (Lv 43)
+- Thunder (Lv 46)
+
+**Egg Moves**
+Take Down, Body Slam, Screech, Odor Sleuth, Charge, Flatter, Sand Attack, Iron Tail, After You, Agility, Eerie Impulse, Electric Terrain
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Defense Curl, Double-Edge, Endure, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-mareep-179-panel-1">
-## Flaaffy (#180)
-<details class="pokemon-card-container" open>
-<summary>Flaaffy overview</summary>
-_Wool Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EXP: 128
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Static
-- Plus *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0.5×)
-- Flying (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Ground (2×)
-
-**Evolution Paths**
-- Mareep → Flaaffy (Lv 15) → Ampharos (Lv 30)
-
-**Encounter Locations**
-- Lastlight Road — Grass (Night) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-mid">55</span> |
-| Defense | <span class="stat-value stat-mid">55</span> |
-| Sp. Atk | <span class="stat-value stat-mid">80</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-low">45</span> |
-| Total | <span class="stat-value stat-mid">365</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-mareep-179-panel-2">
-## Ampharos (#181)
-<details class="pokemon-card-container" open>
-<summary>Ampharos overview</summary>
-_Light Pokémon_ • Types: Electric • Egg Groups: Monster / Ground • Base EXP: 230
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Static
-- Plus *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0.5×)
-- Flying (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Ground (2×)
-
-**Evolution Paths**
-- Mareep → Flaaffy (Lv 15) → Ampharos (Lv 30)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">90</span> |
-| Attack | <span class="stat-value stat-mid">75</span> |
-| Defense | <span class="stat-value stat-mid">85</span> |
-| Sp. Atk | <span class="stat-value stat-high">115</span> |
-| Sp. Def | <span class="stat-value stat-mid">90</span> |
-| Speed | <span class="stat-value stat-mid">55</span> |
-| Total | <span class="stat-value stat-mid">510</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The tail’s tip shines brightly and can be seen from far away. It acts as a beacon for lost people.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-mareep-179-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mareep-179-panel-0 { display: block; }
-#pokemon-tabs-mareep-179-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mareep-179-panel-1 { display: block; }
-#pokemon-tabs-mareep-179-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mareep-179-panel-2 { display: block; }
-</style>

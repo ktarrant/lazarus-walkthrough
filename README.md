@@ -11,7 +11,7 @@ reference sections in sync with upstream sources.
 - `src/` – Rust helpers that generate Markdown for reusable artifacts
   (type chart, Pokémon cards, encounter tables).
 - `parsers/` – uv-based Python project for parsing the encounter PDF.
-- `data/` – cached datasets (PokeAPI mirror, parsed encounters JSON).
+- `data/` – cached datasets (custom Pokédex JSON, parsed encounters/items).
 
 ## Prerequisites
 
@@ -35,18 +35,19 @@ Regenerate the file whenever `src/type_chart.rs` changes.
 
 ### Pokémon cards
 
-1. Download the PokeAPI dataset:
+1. Convert the official CSV (`Lazarus Data - Raw Data.csv`) into the structured
+   JSON used by the helper CLI:
    ```sh
-   mkdir -p data
-   curl -L https://github.com/PokeAPI/api-data/archive/refs/heads/master.zip \
-     -o data/pokeapi-api-data.zip
-   unzip -q data/pokeapi-api-data.zip -d data
+   cd parsers
+   uv run python convert_lazarus_pokedex.py \
+     "../Lazarus Data - Raw Data.csv" \
+     --json ../data/pokedex/lazarus_pokedex.json
    ```
 2. Generate a card (replace `sprigatito` with any species name or dex number):
    ```sh
    cargo run -- pokemon-card sprigatito > book/src/pokemon/sprigatito.md
    ```
-   Use `POKEAPI_DATA_DIR=/custom/path` if the dataset lives elsewhere.
+   Pass `--pokedex-json /custom/path.json` if the JSON lives elsewhere.
 3. Embed cards with `{{#include ./pokemon/<name>.md}}` inside the book.
 
 ### Encounter tables

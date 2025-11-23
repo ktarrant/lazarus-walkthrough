@@ -1,12 +1,12 @@
-## Pachirisu (#417)
+## Pachirisu (#210)
 <details class="pokemon-card-container" open>
 <summary>Pachirisu overview</summary>
-_EleSquirrel Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Base EXP: 142
+Types: Electric • Egg Groups: Fairy / Field • Found: Asfal Hills, Port Pello (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Run Away
+- Fur Coat
 - Pickup
 - Volt Absorb *(Hidden)*
 
@@ -19,9 +19,6 @@ _EleSquirrel Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Ba
 
 *Weak to*
 - Ground (2×)
-
-**Evolution Paths**
-- Pachirisu
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (10%)
@@ -36,13 +33,36 @@ _EleSquirrel Pokémon_ • Types: Electric • Egg Groups: Ground / Fairy • Ba
 | HP | <span class="stat-value stat-mid">60</span> |
 | Attack | <span class="stat-value stat-low">45</span> |
 | Defense | <span class="stat-value stat-mid">70</span> |
-| Sp. Atk | <span class="stat-value stat-low">45</span> |
-| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
-| Total | <span class="stat-value stat-mid">405</span> |
-</div>
-</div>
+| Total | <span class="stat-value stat-mid">455</span> |
 
-**Flavor Text**
-> It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.
+**Level-Up Moves**
+- Growl (Lv 1)
+- Bide (Lv 1)
+- Quick Attack (Lv 5)
+- Charm (Lv 9)
+- Spark (Lv 13)
+- Endure (Lv 17)
+- Nuzzle (Lv 19)
+- Swift (Lv 21)
+- Electro Ball (Lv 25)
+- Sweet Kiss (Lv 29)
+- Thunder Wave (Lv 33)
+- Super Fang (Lv 37)
+- Discharge (Lv 41)
+- Last Resort (Lv 45)
+- Hyper Fang (Lv 49)
+
+**Egg Moves**
+Covet, Bite, Fake Tears, Defense Curl, Rollout, Flatter, Flail, Iron Tail, Tail Whip, Follow Me, Charge, Bestow, Ion Deluge, Baby-Doll Eyes
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash
+
+**Tutor Moves**
+Defense Curl, Endure, Mud-Slap, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
+</div>
+</div>
 </details>

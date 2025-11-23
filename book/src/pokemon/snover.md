@@ -1,20 +1,13 @@
-<div class="pokemon-tabs" id="pokemon-tabs-snover-459">
-<input type="radio" name="pokemon-tabs-snover-459-group" id="pokemon-tabs-snover-459-tab-0" checked>
-<label for="pokemon-tabs-snover-459-tab-0">Snover</label>
-<input type="radio" name="pokemon-tabs-snover-459-group" id="pokemon-tabs-snover-459-tab-1">
-<label for="pokemon-tabs-snover-459-tab-1">Abomasnow</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-snover-459-panel-0">
-## Snover (#459)
+## Snover (#369)
 <details class="pokemon-card-container" open>
 <summary>Snover overview</summary>
-_Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant • Base EXP: 67
+Types: Grass / Ice • Egg Groups: Grass / Monster • Found: Acrisia Mountains Peak, The Nyx Trails (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Snow Warning
-- Soundproof *(Hidden)*
+- Long Reach *(Hidden)*
 
 **Type Matchups**
 
@@ -32,9 +25,6 @@ _Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant •
 - Bug (2×)
 - Rock (2×)
 - Steel (2×)
-
-**Evolution Paths**
-- Snover → Abomasnow (Lv 40)
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (10%)
@@ -55,100 +45,31 @@ _Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant •
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">334</span> |
 
-**Notable Level-Up Moves**
-- Leer (Lv 1)
+**Level-Up Moves**
 - Powder Snow (Lv 1)
-- Leafage (Lv 5)
-- Mist (Lv 10)
-- Ice Shard (Lv 15)
-- Razor Leaf (Lv 20)
-- Icy Wind (Lv 25)
-- Swagger (Lv 30)
-- Ingrain (Lv 35)
-- Wood Hammer (Lv 41)
-- Blizzard (Lv 45)
-- Sheer Cold (Lv 50)
-</div>
-</div>
-
-**Flavor Text**
-> It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-snover-459-panel-1">
-## Abomasnow (#460)
-<details class="pokemon-card-container" open>
-<summary>Abomasnow overview</summary>
-_Frost Tree Pokémon_ • Types: Grass / Ice • Egg Groups: Monster / Plant • Base EXP: 173
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Snow Warning
-- Soundproof *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (4×)
-- Fighting (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-- Rock (2×)
-- Steel (2×)
-
-**Evolution Paths**
-- Snover → Abomasnow (Lv 40)
-
-**Encounter Locations**
-- Nyx Trails — Grass (Day) (5%)
-- Nyx Trails — Grass (Night) (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">90</span> |
-| Attack | <span class="stat-value stat-high">92</span> |
-| Defense | <span class="stat-value stat-mid">75</span> |
-| Sp. Atk | <span class="stat-value stat-high">92</span> |
-| Sp. Def | <span class="stat-value stat-mid">85</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-mid">494</span> |
-
-**Notable Level-Up Moves**
-- Aurora Veil (Lv 1)
-- Ice Punch (Lv 1)
-- Leafage (Lv 1)
 - Leer (Lv 1)
-- Mist (Lv 1)
-- Powder Snow (Lv 1)
-- Ice Shard (Lv 15)
-- Razor Leaf (Lv 20)
-- Icy Wind (Lv 25)
-- Swagger (Lv 30)
-- Ingrain (Lv 35)
-- Wood Hammer (Lv 43)
-- Blizzard (Lv 49)
-- Sheer Cold (Lv 56)
-</div>
-</div>
+- Razor Leaf (Lv 5)
+- Icy Wind (Lv 9)
+- Grass Whistle (Lv 13)
+- Swagger (Lv 17)
+- Mist (Lv 21)
+- Ice Shard (Lv 24)
+- Avalanche (Lv 28)
+- Ingrain (Lv 31)
+- Wood Hammer (Lv 34)
+- Horn Leech (Lv 38)
+- Blizzard (Lv 41)
+- Power-Up Punch (Lv 44)
+- Sheer Cold (Lv 46)
 
-**Flavor Text**
-> If it sees any packs of Darumaka going after Snover, it chases them off, swinging its sizable arms like hammers.
+**Egg Moves**
+Leech Seed, Magical Leaf, Seed Bomb, Growth, Double-Edge, Mist, Stomp, Skull Bash, Avalanche, Natural Gift, Bullet Seed
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM09 - Bullet Seed, TM13 - Ice Beam, TM14 - Blizzard, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM30 - Shadow Ball, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Ice Punch, Icy Wind, Mega Punch, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-snover-459-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-snover-459-panel-0 { display: block; }
-#pokemon-tabs-snover-459-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-snover-459-panel-1 { display: block; }
-</style>

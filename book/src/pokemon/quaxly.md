@@ -1,21 +1,13 @@
-<div class="pokemon-tabs" id="pokemon-tabs-quaxly-912">
-<input type="radio" name="pokemon-tabs-quaxly-912-group" id="pokemon-tabs-quaxly-912-tab-0" checked>
-<label for="pokemon-tabs-quaxly-912-tab-0">Quaxly</label>
-<input type="radio" name="pokemon-tabs-quaxly-912-group" id="pokemon-tabs-quaxly-912-tab-1">
-<label for="pokemon-tabs-quaxly-912-tab-1">Quaxwell</label>
-<input type="radio" name="pokemon-tabs-quaxly-912-group" id="pokemon-tabs-quaxly-912-tab-2">
-<label for="pokemon-tabs-quaxly-912-tab-2">Quaquaval</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-quaxly-912-panel-0">
-## Quaxly (#912)
+## Quaxly (#025)
 <details class="pokemon-card-container" open>
 <summary>Quaxly overview</summary>
-_Duckling Pokémon_ • Types: Water • Egg Groups: Flying / Water1 • Base EXP: 62
+Types: Water • Egg Groups: Flying / Water 1 • Found: Starter, 170 Unique Species (event) Sea of Vulcai (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Torrent
+- Strong Legs
 - Moxie *(Hidden)*
 
 **Type Matchups**
@@ -29,9 +21,6 @@ _Duckling Pokémon_ • Types: Water • Egg Groups: Flying / Water1 • Base EX
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Quaxly → Quaxwell (Lv 16) → Quaquaval (Lv 36)
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -48,115 +37,29 @@ _Duckling Pokémon_ • Types: Water • Egg Groups: Flying / Water1 • Base EX
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
 | Total | <span class="stat-value stat-mid">310</span> |
-</div>
-</div>
 
-**Flavor Text**
-> Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things.
+**Level-Up Moves**
+- Pound (Lv 1)
+- Growl (Lv 1)
+- Water Gun (Lv 1)
+- Work Up (Lv 7)
+- Wing Attack (Lv 10)
+- Aqua Jet (Lv 13)
+- Double Hit (Lv 17)
+- Aqua Cutter (Lv 21)
+- Air Slash (Lv 24)
+- Focus Energy (Lv 28)
+- Acrobatics (Lv 31)
+- Liquidation (Lv 35)
+
+**Egg Moves**
+Detect, Last Resort, Rapid Spin, Roost
+
+**TM/HM Moves**
+TM17 - Protect, TM18 - Rain Dance, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, HM03 - Surf
+
+**Tutor Moves**
+Endure, Psych Up, Sleep Talk, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-quaxly-912-panel-1">
-## Quaxwell (#913)
-<details class="pokemon-card-container" open>
-<summary>Quaxwell overview</summary>
-_Practicing Pokémon_ • Types: Water • Egg Groups: Flying / Water1 • Base EXP: 144
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Torrent
-- Moxie *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Quaxly → Quaxwell (Lv 16) → Quaquaval (Lv 36)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-mid">85</span> |
-| Defense | <span class="stat-value stat-mid">65</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">410</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-quaxly-912-panel-2">
-## Quaquaval (#914)
-<details class="pokemon-card-container" open>
-<summary>Quaquaval overview</summary>
-_Dancer Pokémon_ • Types: Water / Fighting • Egg Groups: Flying / Water1 • Base EXP: 265
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Torrent
-- Moxie *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dark (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-- Flying (2×)
-- Psychic (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Quaxly → Quaxwell (Lv 16) → Quaquaval (Lv 36)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">85</span> |
-| Attack | <span class="stat-value stat-high">120</span> |
-| Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-mid">85</span> |
-| Sp. Def | <span class="stat-value stat-mid">75</span> |
-| Speed | <span class="stat-value stat-mid">85</span> |
-| Total | <span class="stat-value stat-mid">530</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-quaxly-912-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-quaxly-912-panel-0 { display: block; }
-#pokemon-tabs-quaxly-912-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-quaxly-912-panel-1 { display: block; }
-#pokemon-tabs-quaxly-912-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-quaxly-912-panel-2 { display: block; }
-</style>

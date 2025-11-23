@@ -1,16 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-pawmi-921">
-<input type="radio" name="pokemon-tabs-pawmi-921-group" id="pokemon-tabs-pawmi-921-tab-0" checked>
-<label for="pokemon-tabs-pawmi-921-tab-0">Pawmi</label>
-<input type="radio" name="pokemon-tabs-pawmi-921-group" id="pokemon-tabs-pawmi-921-tab-1">
-<label for="pokemon-tabs-pawmi-921-tab-1">Pawmo</label>
-<input type="radio" name="pokemon-tabs-pawmi-921-group" id="pokemon-tabs-pawmi-921-tab-2">
-<label for="pokemon-tabs-pawmi-921-tab-2">Pawmot</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-pawmi-921-panel-0">
-## Pawmi (#921)
+## Pawmi (#213)
 <details class="pokemon-card-container" open>
 <summary>Pawmi overview</summary>
-_Mouse Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 48
+Types: Electric • Egg Groups: Field • Found: Asfal Hills (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,9 +20,6 @@ _Mouse Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 48
 *Weak to*
 - Ground (2×)
 
-**Evolution Paths**
-- Pawmi → Pawmo (Lv 18) → Pawmot (Other)
-
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (15%)
 - Asfal Hills — Grass (Night) (15%)
@@ -48,119 +36,32 @@ _Mouse Pokémon_ • Types: Electric • Egg Groups: Ground • Base EXP: 48
 | Sp. Def | <span class="stat-value stat-low">25</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-low">240</span> |
-</div>
-</div>
 
-**Flavor Text**
-> The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.
+**Level-Up Moves**
+- Scratch (Lv 1)
+- Growl (Lv 1)
+- Thunder Shock (Lv 3)
+- Quick Attack (Lv 6)
+- Charge (Lv 8)
+- Nuzzle (Lv 12)
+- Dig (Lv 15)
+- Bite (Lv 19)
+- Spark (Lv 23)
+- Thunder Wave (Lv 27)
+- Entrainment (Lv 31)
+- Slam (Lv 35)
+- Discharge (Lv 38)
+- Agility (Lv 40)
+- Wild Charge (Lv 44)
+
+**Egg Moves**
+Fake Out, Mach Punch, Sweet Kiss, Wish
+
+**TM/HM Moves**
+TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM42 - Facade, TM44 - Rest, TM46 - Thief
+
+**Tutor Moves**
+Endure, Sleep Talk, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-pawmi-921-panel-1">
-## Pawmo (#922)
-<details class="pokemon-card-container" open>
-<summary>Pawmo overview</summary>
-_Mouse Pokémon_ • Types: Electric / Fighting • Egg Groups: Ground • Base EXP: 123
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Volt Absorb
-- Natural Cure
-- Iron Fist *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dark (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Ground (2×)
-- Psychic (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Pawmi → Pawmo (Lv 18) → Pawmot (Other)
-
-**Encounter Locations**
-- Palati City — Grass (Day) (10%)
-- Péntepetal City — Grass (Night) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-mid">75</span> |
-| Defense | <span class="stat-value stat-low">40</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-low">40</span> |
-| Speed | <span class="stat-value stat-mid">85</span> |
-| Total | <span class="stat-value stat-mid">350</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-pawmi-921-panel-2">
-## Pawmot (#923)
-<details class="pokemon-card-container" open>
-<summary>Pawmot overview</summary>
-_Hands-On Pokémon_ • Types: Electric / Fighting • Egg Groups: Ground • Base EXP: 245
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Volt Absorb
-- Natural Cure
-- Iron Fist *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dark (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Ground (2×)
-- Psychic (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Pawmi → Pawmo (Lv 18) → Pawmot (Other)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-high">115</span> |
-| Defense | <span class="stat-value stat-mid">70</span> |
-| Sp. Atk | <span class="stat-value stat-mid">70</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-high">105</span> |
-| Total | <span class="stat-value stat-mid">490</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-pawmi-921-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmi-921-panel-0 { display: block; }
-#pokemon-tabs-pawmi-921-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmi-921-panel-1 { display: block; }
-#pokemon-tabs-pawmi-921-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmi-921-panel-2 { display: block; }
-</style>

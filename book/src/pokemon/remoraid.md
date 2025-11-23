@@ -1,19 +1,12 @@
-<div class="pokemon-tabs" id="pokemon-tabs-remoraid-223">
-<input type="radio" name="pokemon-tabs-remoraid-223-group" id="pokemon-tabs-remoraid-223-tab-0" checked>
-<label for="pokemon-tabs-remoraid-223-tab-0">Remoraid</label>
-<input type="radio" name="pokemon-tabs-remoraid-223-group" id="pokemon-tabs-remoraid-223-tab-1">
-<label for="pokemon-tabs-remoraid-223-tab-1">Octillery</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-remoraid-223-panel-0">
-## Remoraid (#223)
+## Remoraid (#363)
 <details class="pokemon-card-container" open>
 <summary>Remoraid overview</summary>
-_Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 60
+Types: Water • Egg Groups: Water 1 / Water 2 • Found: Acrisia City, Acrisia Mountains, Riverwalk Trail N, Pythios Cemetery (surf) Acrisia City, Acrisia Mountains, Kalami City, Riverwalk Trail N, Riverwalk Trail S, Wanderer`s Woods, Pythios Town (SR)(fish) Froslass Cavern, Sea of Vulcai, Fresco Isles
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Hustle
+- Mega Launcher
 - Sniper
 - Moody *(Hidden)*
 
@@ -28,9 +21,6 @@ _Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 60
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Remoraid → Octillery (Lv 25)
 
 **Encounter Locations**
 - Acrisia City — Fishing (40%)
@@ -60,108 +50,36 @@ _Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 60
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-low">35</span> |
-| Attack | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">55</span> |
 | Defense | <span class="stat-value stat-low">35</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
 | Sp. Def | <span class="stat-value stat-low">35</span> |
 | Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-low">300</span> |
+| Total | <span class="stat-value stat-low">305</span> |
 
-**Notable Level-Up Moves**
-- Helping Hand (Lv 1)
+**Level-Up Moves**
 - Water Gun (Lv 1)
-- Water Pulse (Lv 4)
-- Focus Energy (Lv 8)
-- Psybeam (Lv 12)
-- Aurora Beam (Lv 16)
-- Bubble Beam (Lv 20)
-- Lock On (Lv 24)
-- Bullet Seed (Lv 28)
-- Ice Beam (Lv 32)
-- Hydro Pump (Lv 36)
-- Soak (Lv 40)
-- Hyper Beam (Lv 44)
-</div>
-</div>
-
-**Flavor Text**
-> The water they shoot from their mouths can hit moving prey from more than 300 feet away.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-remoraid-223-panel-1">
-## Octillery (#224)
-<details class="pokemon-card-container" open>
-<summary>Octillery overview</summary>
-_Jet Pokémon_ • Types: Water • Egg Groups: Water1 / Water2 • Base EXP: 168
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Suction Cups
-- Sniper
-- Moody *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Remoraid → Octillery (Lv 25)
-
-**Encounter Locations**
-- Davosi Straits — Fishing (40%)
-- Pollen Road — Fishing (40%)
-- Sea of Vulcai — Surfing (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">75</span> |
-| Attack | <span class="stat-value stat-high">105</span> |
-| Defense | <span class="stat-value stat-mid">75</span> |
-| Sp. Atk | <span class="stat-value stat-high">105</span> |
-| Sp. Def | <span class="stat-value stat-mid">75</span> |
-| Speed | <span class="stat-value stat-low">45</span> |
-| Total | <span class="stat-value stat-mid">480</span> |
-
-**Notable Level-Up Moves**
-- Focus Energy (Lv 1)
-- Gunk Shot (Lv 1)
-- Helping Hand (Lv 1)
-- Octazooka (Lv 1)
-- Rock Blast (Lv 1)
-- Water Gun (Lv 1)
-- Water Pulse (Lv 1)
-- Wrap (Lv 1)
-- Psybeam (Lv 12)
-- Aurora Beam (Lv 16)
-- Bubble Beam (Lv 20)
-- Lock On (Lv 24)
-- Bullet Seed (Lv 30)
-- Ice Beam (Lv 36)
+- Lock-On (Lv 6)
+- Psybeam (Lv 10)
+- Aurora Beam (Lv 14)
+- Bubble Beam (Lv 18)
+- Focus Energy (Lv 22)
+- Water Pulse (Lv 26)
+- Signal Beam (Lv 30)
+- Ice Beam (Lv 34)
+- Bullet Seed (Lv 38)
 - Hydro Pump (Lv 42)
-- Soak (Lv 48)
-- Hyper Beam (Lv 54)
-</div>
-</div>
+- Hyper Beam (Lv 46)
+- Soak (Lv 50)
 
-**Flavor Text**
-> It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.
+**Egg Moves**
+Aurora Beam, Octazooka, Supersonic, Haze, Screech, Rock Blast, Snore, Flail, Water Spout, Mud Shot, Swift, Acid Spray, Water Pulse, Entrainment
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM32 - Double Team, TM35 - Flamethrower, TM38 - Fire Blast, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Defense Curl, Double-Edge, Endure, Icy Wind, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-remoraid-223-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-remoraid-223-panel-0 { display: block; }
-#pokemon-tabs-remoraid-223-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-remoraid-223-panel-1 { display: block; }
-</style>

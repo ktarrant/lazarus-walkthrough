@@ -1,7 +1,7 @@
-## Bruxish (#779)
+## Bruxish (#334)
 <details class="pokemon-card-container" open>
 <summary>Bruxish overview</summary>
-_Gnash Teeth Pokémon_ • Types: Water / Psychic • Egg Groups: Water2 • Base EXP: 166
+Types: Water / Psychic • Egg Groups: Water 2 • Found: Port Pello (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,9 +27,6 @@ _Gnash Teeth Pokémon_ • Types: Water / Psychic • Egg Groups: Water2 • Bas
 - Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Bruxish
-
 **Encounter Locations**
 - Corrin Crossing — Fishing (20%)
 - Corrin Crossing — Surfing (10%)
@@ -49,12 +46,36 @@ _Gnash Teeth Pokémon_ • Types: Water / Psychic • Egg Groups: Water2 • Bas
 | Attack | <span class="stat-value stat-high">105</span> |
 | Defense | <span class="stat-value stat-mid">70</span> |
 | Sp. Atk | <span class="stat-value stat-mid">70</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-high">92</span> |
-| Total | <span class="stat-value stat-mid">475</span> |
-</div>
-</div>
+| Total | <span class="stat-value stat-mid">480</span> |
 
-**Flavor Text**
-> When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.
+**Level-Up Moves**
+- Water Gun (Lv 1)
+- Astonish (Lv 4)
+- Confusion (Lv 9)
+- Bite (Lv 12)
+- Aqua Jet (Lv 17)
+- Disable (Lv 20)
+- Draining Kiss (Lv 22)
+- Ice Fang (Lv 24)
+- Psywave (Lv 26)
+- Crunch (Lv 28)
+- Covet (Lv 30)
+- Aqua Tail (Lv 33)
+- Screech (Lv 36)
+- Psychic Fangs (Lv 39)
+- Poison Fang (Lv 41)
+- Synchronoise (Lv 44)
+
+**Egg Moves**
+Water Pulse, Poison Fang, Ice Fang, Rage
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM23 - Iron Tail, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM03 - Surf, HM07 - Waterfall
+
+**Tutor Moves**
+Dream Eater, Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>

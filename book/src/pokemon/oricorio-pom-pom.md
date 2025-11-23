@@ -1,7 +1,7 @@
-## Oricorio Baile (#741)
+## Oricorio Pom-Pom (#096)
 <details class="pokemon-card-container" open>
-<summary>Oricorio Baile overview</summary>
-_Dancing Pokémon_ • Types: Fire / Flying • Egg Groups: Flying • Base EXP: 167
+<summary>Oricorio Pom-Pom overview</summary>
+Types: Electric / Flying • Egg Groups: Flying • Found: Myrrini Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -11,25 +11,18 @@ _Dancing Pokémon_ • Types: Fire / Flying • Egg Groups: Flying • Base EXP:
 **Type Matchups**
 
 *Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.25×)
+- Grass (0.5×)
 - Fighting (0.5×)
 - Ground (0×)
-- Bug (0.25×)
+- Flying (0.5×)
+- Bug (0.5×)
 - Steel (0.5×)
-- Fairy (0.5×)
 
 *Weak to*
-- Water (2×)
-- Electric (2×)
-- Rock (4×)
-
-**Evolution Paths**
-- Oricorio
+- Ice (2×)
+- Rock (2×)
 
 **Encounter Locations**
-- Jusmail Town — Grass (Day) (2%)
-- Jusmail Town — Grass (Night) (2%)
 - Myrrini Island — Grass (Day) (5%)
 - Myrrini Island — Grass (Night) (5%)
 </div>
@@ -38,16 +31,44 @@ _Dancing Pokémon_ • Types: Fire / Flying • Egg Groups: Flying • Base EXP:
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">75</span> |
-| Attack | <span class="stat-value stat-mid">70</span> |
+| HP | <span class="stat-value stat-mid">76</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
 | Defense | <span class="stat-value stat-mid">70</span> |
 | Sp. Atk | <span class="stat-value stat-high">98</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-high">93</span> |
-| Total | <span class="stat-value stat-mid">476</span> |
-</div>
-</div>
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-high">116</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
-**Flavor Text**
-> It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.
+**Level-Up Moves**
+- Pound (Lv 1)
+- Growl (Lv 4)
+- Peck (Lv 6)
+- Helping Hand (Lv 10)
+- Air Cutter (Lv 13)
+- Baton Pass (Lv 16)
+- Feather Dance (Lv 20)
+- Double Slap (Lv 23)
+- Revelation Step (Lv 25)
+- Teeter Dance (Lv 28)
+- Roost (Lv 30)
+- Aqua Step (Lv 31)
+- Captivate (Lv 33)
+- Air Slash (Lv 35)
+- Fiery Dance (Lv 38)
+- Revelation Dance (Lv 40)
+- Mirror Move (Lv 43)
+- Petal Dance (Lv 45)
+- Quiver Dance (Lv 47)
+- Hurricane (Lv 50)
+
+**Egg Moves**
+Pluck, Tailwind, Safeguard, Captivate
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM32 - Double Team, TM37 - Sandstorm, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, HM02 - Fly
+
+**Tutor Moves**
+Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+</div>
+</div>
 </details>

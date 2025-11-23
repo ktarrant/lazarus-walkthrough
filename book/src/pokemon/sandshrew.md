@@ -1,20 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-sandshrew-27">
-<input type="radio" name="pokemon-tabs-sandshrew-27-group" id="pokemon-tabs-sandshrew-27-tab-0" checked>
-<label for="pokemon-tabs-sandshrew-27-tab-0">Sandshrew</label>
-<input type="radio" name="pokemon-tabs-sandshrew-27-group" id="pokemon-tabs-sandshrew-27-tab-1">
-<label for="pokemon-tabs-sandshrew-27-tab-1">Sandslash</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-sandshrew-27-panel-0">
-## Sandshrew (#027)
+## Sandshrew (#097)
 <details class="pokemon-card-container" open>
 <summary>Sandshrew overview</summary>
-_Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 60
+Types: Ground • Egg Groups: Field • Found: Acrisia City, Acrisia Mountains (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Sand Veil
-- Sand Rush *(Hidden)*
+- Sand Rush
+- Earth Eater *(Hidden)*
 
 **Type Matchups**
 
@@ -27,9 +21,6 @@ _Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 60
 - Water (2×)
 - Grass (2×)
 - Ice (2×)
-
-**Evolution Paths**
-- Sandshrew → Sandslash (Lv 22)
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (20%)
@@ -50,100 +41,34 @@ _Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 60
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-low">300</span> |
 
-**Notable Level-Up Moves**
-- Defense Curl (Lv 1)
+**Level-Up Moves**
 - Scratch (Lv 1)
-- Poison Sting (Lv 3)
-- Sand Attack (Lv 6)
-- Rollout (Lv 9)
-- Fury Cutter (Lv 12)
-- Rapid Spin (Lv 15)
-- Bulldoze (Lv 18)
-- Swift (Lv 21)
-- Fury Swipes (Lv 24)
-- Agility (Lv 27)
-- Slash (Lv 30)
-- Dig (Lv 33)
-- Gyro Ball (Lv 36)
-- Swords Dance (Lv 39)
-- Sandstorm (Lv 42)
-- Earthquake (Lv 45)
-</div>
-</div>
-
-**Flavor Text**
-> It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-sandshrew-27-panel-1">
-## Sandslash (#028)
-<details class="pokemon-card-container" open>
-<summary>Sandslash overview</summary>
-_Mouse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 158
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Sand Veil
-- Sand Rush *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0×)
-- Poison (0.5×)
-- Rock (0.5×)
-
-*Weak to*
-- Water (2×)
-- Grass (2×)
-- Ice (2×)
-
-**Evolution Paths**
-- Sandshrew → Sandslash (Lv 22)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">75</span> |
-| Attack | <span class="stat-value stat-high">100</span> |
-| Defense | <span class="stat-value stat-high">110</span> |
-| Sp. Atk | <span class="stat-value stat-low">45</span> |
-| Sp. Def | <span class="stat-value stat-mid">55</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">450</span> |
-
-**Notable Level-Up Moves**
-- Crush Claw (Lv 1)
 - Defense Curl (Lv 1)
-- Poison Sting (Lv 1)
-- Sand Attack (Lv 1)
-- Scratch (Lv 1)
-- Rollout (Lv 9)
-- Fury Cutter (Lv 12)
-- Rapid Spin (Lv 15)
-- Bulldoze (Lv 18)
-- Swift (Lv 21)
-- Fury Swipes (Lv 26)
-- Sand Tomb (Lv 31)
-- Slash (Lv 36)
-- Dig (Lv 41)
-- Gyro Ball (Lv 46)
-- Swords Dance (Lv 51)
-- Sandstorm (Lv 56)
-- Earthquake (Lv 61)
-</div>
-</div>
+- Sand Attack (Lv 3)
+- Poison Sting (Lv 5)
+- Rollout (Lv 7)
+- Rapid Spin (Lv 9)
+- Fury Cutter (Lv 11)
+- Magnitude (Lv 14)
+- Swift (Lv 17)
+- Fury Swipes (Lv 20)
+- Sand Tomb (Lv 23)
+- Cross Poison (Lv 26)
+- Night Slash (Lv 26)
+- Dig (Lv 30)
+- Gyro Ball (Lv 34)
+- Swords Dance (Lv 38)
+- Dire Claw (Lv 42)
+- Earthquake (Lv 46)
 
-**Flavor Text**
-> The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.
+**Egg Moves**
+Flail, Counter, Rapid Spin, Metal Claw, Crush Claw, Night Slash, Mud Shot, Endure, Chip Away, Rock Climb, Rototiller, Hone Claws
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM20 - Safeguard, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Defense Curl, Double-Edge, Dynamic Punch, Endure, Fury Cutter, Mud-Slap, Rock Slide, Rollout, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-sandshrew-27-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-sandshrew-27-panel-0 { display: block; }
-#pokemon-tabs-sandshrew-27-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-sandshrew-27-panel-1 { display: block; }
-</style>

@@ -1,7 +1,7 @@
-## Heracross (#214)
+## Heracross (#126)
 <details class="pokemon-card-container" open>
 <summary>Heracross overview</summary>
-_Single Horn Pokémon_ • Types: Bug / Fighting • Egg Groups: Bug • Base EXP: 175
+Types: Bug / Fighting • Egg Groups: Bug • Found: Wanderer`s Woods, Sea of Asteri (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,9 +25,6 @@ _Single Horn Pokémon_ • Types: Bug / Fighting • Egg Groups: Bug • Base EX
 - Psychic (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Heracross
-
 **Encounter Locations**
 - Sea of Asteri (West) — Grass (Night) (4%)
 - Wanderer's Woods (North) — Grass (Day) (5%)
@@ -39,32 +36,45 @@ _Single Horn Pokémon_ • Types: Bug / Fighting • Egg Groups: Bug • Base EX
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">80</span> |
+| HP | <span class="stat-value stat-mid">85</span> |
 | Attack | <span class="stat-value stat-high">125</span> |
-| Defense | <span class="stat-value stat-mid">75</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
 | Sp. Atk | <span class="stat-value stat-low">40</span> |
 | Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-mid">85</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 
-**Notable Level-Up Moves**
-- Leer (Lv 1)
+**Level-Up Moves**
+- Bullet Seed (Lv 1)
+- Night Slash (Lv 1)
 - Tackle (Lv 1)
-- Fury Attack (Lv 5)
-- Endure (Lv 10)
-- Aerial Ace (Lv 15)
-- Horn Attack (Lv 20)
-- Counter (Lv 25)
-- Brick Break (Lv 30)
-- Pin Missile (Lv 35)
-- Throat Chop (Lv 40)
-- Thrash (Lv 45)
-- Swords Dance (Lv 50)
-- Megahorn (Lv 55)
-- Close Combat (Lv 60)
-</div>
-</div>
+- Leer (Lv 1)
+- Horn Attack (Lv 1)
+- Endure (Lv 1)
+- Feint (Lv 7)
+- Aerial Ace (Lv 10)
+- Arm Thrust (Lv 14)
+- Chip Away (Lv 16)
+- Counter (Lv 19)
+- Fury Attack (Lv 23)
+- Brick Break (Lv 26)
+- Ceaseless Edge (Lv 30)
+- X-Scissor (Lv 31)
+- Megahorn (Lv 34)
+- Headlong Rush (Lv 37)
+- Close Combat (Lv 43)
+- No Retreat (Lv 46)
+- Reversal (Lv 46)
+- First Impression (Lv 50)
 
-**Flavor Text**
-> Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.
+**Egg Moves**
+Harden, Bide, Flail, Revenge, Pursuit, Double-Edge, Seismic Toss, Focus Punch, Megahorn, Rock Blast
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM08 - Bulk Up, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>

@@ -1,37 +1,26 @@
-<div class="pokemon-tabs" id="pokemon-tabs-ekans-23">
-<input type="radio" name="pokemon-tabs-ekans-23-group" id="pokemon-tabs-ekans-23-tab-0" checked>
-<label for="pokemon-tabs-ekans-23-tab-0">Ekans</label>
-<input type="radio" name="pokemon-tabs-ekans-23-group" id="pokemon-tabs-ekans-23-tab-1">
-<label for="pokemon-tabs-ekans-23-tab-1">Arbok</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-ekans-23-panel-0">
-## Ekans (#023)
+## Ekans (#265)
 <details class="pokemon-card-container" open>
 <summary>Ekans overview</summary>
-_Snake Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP: 58
+Types: Poison / Dark • Egg Groups: Field / Dragon • Found: Riverwalk Trail S, Pythios Cemetery, Sea of Asteri (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Intimidate
 - Shed Skin
-- Unnerve *(Hidden)*
+- Strong Jaw *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
 - Grass (0.5×)
-- Fighting (0.5×)
 - Poison (0.5×)
-- Bug (0.5×)
-- Fairy (0.5×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
 
 *Weak to*
 - Ground (2×)
-- Psychic (2×)
-
-**Evolution Paths**
-- Ekans → Arbok (Lv 22)
 
 **Encounter Locations**
 - Pythios Cemetery — Grass (Night) (20%)
@@ -51,67 +40,34 @@ _Snake Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP:
 | Sp. Def | <span class="stat-value stat-mid">54</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-low">288</span> |
-</div>
-</div>
 
-**Flavor Text**
-> The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.
+**Level-Up Moves**
+- Wrap (Lv 1)
+- Leer (Lv 1)
+- Poison Sting (Lv 4)
+- Bite (Lv 9)
+- Glare (Lv 12)
+- Screech (Lv 17)
+- Acid (Lv 20)
+- Stockpile (Lv 25)
+- Swallow (Lv 25)
+- Spit Up (Lv 25)
+- Acid Spray (Lv 28)
+- Mud Bomb (Lv 33)
+- Gastro Acid (Lv 36)
+- Belch (Lv 38)
+- Haze (Lv 41)
+- Coil (Lv 44)
+- Gunk Shot (Lv 49)
+
+**Egg Moves**
+Pursuit, Slam, Spite, Beat Up, Poison Fang, Scary Face, Poison Tail, Disable, Switcheroo, Iron Tail, Sucker Punch, Snatch
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM51 - Poison Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, HM04 - Strength
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-ekans-23-panel-1">
-## Arbok (#024)
-<details class="pokemon-card-container" open>
-<summary>Arbok overview</summary>
-_Cobra Pokémon_ • Types: Poison • Egg Groups: Ground / Dragon • Base EXP: 157
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Intimidate
-- Shed Skin
-- Unnerve *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.5×)
-- Fighting (0.5×)
-- Poison (0.5×)
-- Bug (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Ground (2×)
-- Psychic (2×)
-
-**Evolution Paths**
-- Ekans → Arbok (Lv 22)
-
-**Encounter Locations**
-- Kaptara Island (East) — Grass (Night) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-mid">69</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-mid">79</span> |
-| Speed | <span class="stat-value stat-mid">80</span> |
-| Total | <span class="stat-value stat-mid">448</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-ekans-23-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ekans-23-panel-0 { display: block; }
-#pokemon-tabs-ekans-23-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ekans-23-panel-1 { display: block; }
-</style>

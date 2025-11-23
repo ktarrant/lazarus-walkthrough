@@ -1,21 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-paras-46">
-<input type="radio" name="pokemon-tabs-paras-46-group" id="pokemon-tabs-paras-46-tab-0" checked>
-<label for="pokemon-tabs-paras-46-tab-0">Paras</label>
-<input type="radio" name="pokemon-tabs-paras-46-group" id="pokemon-tabs-paras-46-tab-1">
-<label for="pokemon-tabs-paras-46-tab-1">Parasect</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-paras-46-panel-0">
-## Paras (#046)
+## Paras (#051)
 <details class="pokemon-card-container" open>
 <summary>Paras overview</summary>
-_Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base EXP: 57
+Types: Bug / Grass • Egg Groups: Bug / Grass • Found: Bronze Fields N, Pythios Cemetery (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Effect Spore
-- Dry Skin
-- Damp *(Hidden)*
+- Damp
+- Poison Touch *(Hidden)*
 
 **Type Matchups**
 
@@ -33,9 +26,6 @@ _Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base 
 - Flying (4×)
 - Bug (2×)
 - Rock (2×)
-
-**Evolution Paths**
-- Paras → Parasect (Lv 24)
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Night) (20%)
@@ -55,68 +45,32 @@ _Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base 
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-low">25</span> |
 | Total | <span class="stat-value stat-low">285</span> |
-</div>
-</div>
 
-**Flavor Text**
-> No matter how much it eats, the mushrooms growing on its back steal away most of the nutrients it consumes.
+**Level-Up Moves**
+- Scratch (Lv 1)
+- Stun Spore (Lv 6)
+- Poison Powder (Lv 6)
+- Absorb (Lv 11)
+- Fury Cutter (Lv 14)
+- Leafage (Lv 18)
+- Spore (Lv 22)
+- Slash (Lv 25)
+- False Swipe (Lv 28)
+- Leech Life (Lv 30)
+- Growth (Lv 33)
+- Giga Drain (Lv 38)
+- Aromatherapy (Lv 43)
+- Rage Powder (Lv 49)
+- X-Scissor (Lv 54)
+
+**Egg Moves**
+Screech, Counter, Psybeam, Flail, Sweet Scent, Pursuit, Metal Claw, Bug Bite, Cross Poison, Agility, Endure, Natural Gift, Leech Seed, Wide Guard, Rototiller, Fell Stinger, Grassy Terrain
+
+**TM/HM Moves**
+TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM36 - Sludge Bomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM05 - Flash, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-paras-46-panel-1">
-## Parasect (#047)
-<details class="pokemon-card-container" open>
-<summary>Parasect overview</summary>
-_Mushroom Pokémon_ • Types: Bug / Grass • Egg Groups: Bug / Plant • Base EXP: 142
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Effect Spore
-- Dry Skin
-- Damp *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.25×)
-- Fighting (0.5×)
-- Ground (0.25×)
-
-*Weak to*
-- Fire (4×)
-- Ice (2×)
-- Poison (2×)
-- Flying (4×)
-- Bug (2×)
-- Rock (2×)
-
-**Evolution Paths**
-- Paras → Parasect (Lv 24)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-mid">80</span> |
-| Speed | <span class="stat-value stat-low">30</span> |
-| Total | <span class="stat-value stat-mid">405</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The large mushroom on its back controls it. It often fights over territory with Shiinotic.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-paras-46-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-paras-46-panel-0 { display: block; }
-#pokemon-tabs-paras-46-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-paras-46-panel-1 { display: block; }
-</style>

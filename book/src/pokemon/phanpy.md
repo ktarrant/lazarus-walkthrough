@@ -1,19 +1,13 @@
-<div class="pokemon-tabs" id="pokemon-tabs-phanpy-231">
-<input type="radio" name="pokemon-tabs-phanpy-231-group" id="pokemon-tabs-phanpy-231-tab-0" checked>
-<label for="pokemon-tabs-phanpy-231-tab-0">Phanpy</label>
-<input type="radio" name="pokemon-tabs-phanpy-231-group" id="pokemon-tabs-phanpy-231-tab-1">
-<label for="pokemon-tabs-phanpy-231-tab-1">Donphan</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-phanpy-231-panel-0">
-## Phanpy (#231)
+## Phanpy (#053)
 <details class="pokemon-card-container" open>
 <summary>Phanpy overview</summary>
-_Long Nose Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 66
+Types: Ground • Egg Groups: Field • Found: Acrisia City, Bronze Fields N (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Pickup
+- Stamina
 - Sand Veil *(Hidden)*
 
 **Type Matchups**
@@ -27,9 +21,6 @@ _Long Nose Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 66
 - Water (2×)
 - Grass (2×)
 - Ice (2×)
-
-**Evolution Paths**
-- Phanpy → Donphan (Lv 25)
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (10%)
@@ -44,67 +35,38 @@ _Long Nose Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 66
 | --- | --- |
 | HP | <span class="stat-value stat-mid">90</span> |
 | Attack | <span class="stat-value stat-mid">60</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
 | Sp. Atk | <span class="stat-value stat-low">40</span> |
-| Sp. Def | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">50</span> |
 | Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">330</span> |
-</div>
-</div>
+| Total | <span class="stat-value stat-mid">345</span> |
 
-**Flavor Text**
-> As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying.
+**Level-Up Moves**
+- Odor Sleuth (Lv 1)
+- Tackle (Lv 1)
+- Growl (Lv 1)
+- Defense Curl (Lv 1)
+- Flail (Lv 6)
+- Rollout (Lv 10)
+- Natural Gift (Lv 13)
+- Magnitude (Lv 16)
+- Endure (Lv 19)
+- Knock Off (Lv 22)
+- Slam (Lv 24)
+- Take Down (Lv 28)
+- Charm (Lv 33)
+- Play Rough (Lv 36)
+- Last Resort (Lv 37)
+- Double-Edge (Lv 42)
+
+**Egg Moves**
+Focus Energy, Body Slam, Ancient Power, Snore, Counter, Fissure, Endeavor, Ice Shard, Head Smash, Mud-Slap, Heavy Slam, Play Rough, High Horsepower
+
+**TM/HM Moves**
+TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, TM58 - Play Rough, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Defense Curl, Double-Edge, Endure, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-phanpy-231-panel-1">
-## Donphan (#232)
-<details class="pokemon-card-container" open>
-<summary>Donphan overview</summary>
-_Armor Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 175
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Sturdy
-- Sand Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0×)
-- Poison (0.5×)
-- Rock (0.5×)
-
-*Weak to*
-- Water (2×)
-- Grass (2×)
-- Ice (2×)
-
-**Evolution Paths**
-- Phanpy → Donphan (Lv 25)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">90</span> |
-| Attack | <span class="stat-value stat-high">120</span> |
-| Defense | <span class="stat-value stat-high">120</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It has sharp, hard tusks and a rugged hide. Its Tackle is strong enough to knock down a house.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-phanpy-231-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-phanpy-231-panel-0 { display: block; }
-#pokemon-tabs-phanpy-231-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-phanpy-231-panel-1 { display: block; }
-</style>

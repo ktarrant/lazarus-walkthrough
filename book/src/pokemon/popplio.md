@@ -1,22 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-popplio-728">
-<input type="radio" name="pokemon-tabs-popplio-728-group" id="pokemon-tabs-popplio-728-tab-0" checked>
-<label for="pokemon-tabs-popplio-728-tab-0">Popplio</label>
-<input type="radio" name="pokemon-tabs-popplio-728-group" id="pokemon-tabs-popplio-728-tab-1">
-<label for="pokemon-tabs-popplio-728-tab-1">Brionne</label>
-<input type="radio" name="pokemon-tabs-popplio-728-group" id="pokemon-tabs-popplio-728-tab-2">
-<label for="pokemon-tabs-popplio-728-tab-2">Primarina</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-popplio-728-panel-0">
-## Popplio (#728)
+## Popplio (#007)
 <details class="pokemon-card-container" open>
 <summary>Popplio overview</summary>
-_Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 64
+Types: Water • Egg Groups: Water 1 / Field • Found: Starter, 100 Unique Species (event) Sea of Vulcai (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Torrent
-- Liquid Voice *(Hidden)*
+- Liquid Voice
+- Propeller Tail *(Hidden)*
 
 **Type Matchups**
 
@@ -29,9 +21,6 @@ _Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EX
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Popplio → Brionne (Lv 17) → Primarina (Lv 34)
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -49,161 +38,32 @@ _Sea Lion Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EX
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
 
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Pound (Lv 1)
-- Water Gun (Lv 3)
-- Disarming Voice (Lv 6)
-- Aqua Jet (Lv 9)
-- Baby Doll Eyes (Lv 12)
-- Icy Wind (Lv 15)
-- Sing (Lv 18)
-- Bubble Beam (Lv 21)
-- Encore (Lv 24)
-- Misty Terrain (Lv 27)
-- Hyper Voice (Lv 30)
-- Moonblast (Lv 33)
-- Hydro Pump (Lv 36)
-</div>
-</div>
-
-**Flavor Text**
-> It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-popplio-728-panel-1">
-## Brionne (#729)
-<details class="pokemon-card-container" open>
-<summary>Brionne overview</summary>
-_Pop Star Pokémon_ • Types: Water • Egg Groups: Water1 / Ground • Base EXP: 147
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Torrent
-- Liquid Voice *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Popplio → Brionne (Lv 17) → Primarina (Lv 34)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-mid">69</span> |
-| Defense | <span class="stat-value stat-mid">69</span> |
-| Sp. Atk | <span class="stat-value stat-high">91</span> |
-| Sp. Def | <span class="stat-value stat-mid">81</span> |
-| Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">420</span> |
-
-**Notable Level-Up Moves**
-- Disarming Voice (Lv 1)
-- Growl (Lv 1)
+**Level-Up Moves**
 - Pound (Lv 1)
 - Water Gun (Lv 1)
-- Aqua Jet (Lv 9)
-- Baby Doll Eyes (Lv 12)
-- Icy Wind (Lv 15)
-- Sing (Lv 20)
-- Bubble Beam (Lv 25)
-- Encore (Lv 30)
-- Misty Terrain (Lv 35)
-- Hyper Voice (Lv 40)
-- Moonblast (Lv 45)
-- Hydro Pump (Lv 50)
-</div>
-</div>
+- Growl (Lv 4)
+- Disarming Voice (Lv 8)
+- Baby-Doll Eyes (Lv 11)
+- Aqua Jet (Lv 14)
+- Icy Wind (Lv 16)
+- Encore (Lv 18)
+- Bubble Beam (Lv 22)
+- Sing (Lv 25)
+- Ice Shard (Lv 29)
+- Hyper Voice (Lv 32)
+- Moonblast (Lv 36)
+- Captivate (Lv 39)
+- Hydro Pump (Lv 43)
+- Misty Terrain (Lv 46)
 
-**Flavor Text**
-> As if dancing, it artfully dodges the attacks of its enemies. All the while, it’s busy forming a bunch of balloons to overwhelm its foes.
+**Egg Moves**
+Charm, Amnesia, Aqua Ring, Aromatic Mist, Perish Song, Wonder Room
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Endure, Icy Wind, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-popplio-728-panel-2">
-## Primarina (#730)
-<details class="pokemon-card-container" open>
-<summary>Primarina overview</summary>
-_Soloist Pokémon_ • Types: Water / Fairy • Egg Groups: Water1 / Ground • Base EXP: 239
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Torrent
-- Liquid Voice *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Fighting (0.5×)
-- Bug (0.5×)
-- Dragon (0×)
-- Dark (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-- Poison (2×)
-
-**Evolution Paths**
-- Popplio → Brionne (Lv 17) → Primarina (Lv 34)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">80</span> |
-| Attack | <span class="stat-value stat-mid">74</span> |
-| Defense | <span class="stat-value stat-mid">74</span> |
-| Sp. Atk | <span class="stat-value stat-high">126</span> |
-| Sp. Def | <span class="stat-value stat-high">116</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-mid">530</span> |
-
-**Notable Level-Up Moves**
-- Disarming Voice (Lv 1)
-- Growl (Lv 1)
-- Pound (Lv 1)
-- Sparkling Aria (Lv 1)
-- Water Gun (Lv 1)
-- Aqua Jet (Lv 9)
-- Baby Doll Eyes (Lv 12)
-- Icy Wind (Lv 15)
-- Sing (Lv 20)
-- Bubble Beam (Lv 25)
-- Encore (Lv 30)
-- Misty Terrain (Lv 37)
-- Hyper Voice (Lv 44)
-- Moonblast (Lv 51)
-- Hydro Pump (Lv 58)
-</div>
-</div>
-
-**Flavor Text**
-> With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-popplio-728-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-popplio-728-panel-0 { display: block; }
-#pokemon-tabs-popplio-728-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-popplio-728-panel-1 { display: block; }
-#pokemon-tabs-popplio-728-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-popplio-728-panel-2 { display: block; }
-</style>

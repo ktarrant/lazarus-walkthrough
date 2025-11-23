@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-mudbray-749">
-<input type="radio" name="pokemon-tabs-mudbray-749-group" id="pokemon-tabs-mudbray-749-tab-0" checked>
-<label for="pokemon-tabs-mudbray-749-tab-0">Mudbray</label>
-<input type="radio" name="pokemon-tabs-mudbray-749-group" id="pokemon-tabs-mudbray-749-tab-1">
-<label for="pokemon-tabs-mudbray-749-tab-1">Mudsdale</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-mudbray-749-panel-0">
-## Mudbray (#749)
+## Mudbray (#059)
 <details class="pokemon-card-container" open>
 <summary>Mudbray overview</summary>
-_Donkey Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 77
+Types: Ground • Egg Groups: Field • Found: Bronze Fields S, Riverwalk Trail N (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -29,8 +22,11 @@ _Donkey Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 77
 - Grass (2×)
 - Ice (2×)
 
-**Evolution Paths**
-- Mudbray → Mudsdale (Lv 30)
+**Notable Held Item**
+Light Clay
+
+**Held Item**
+Light Clay
 
 **Encounter Locations**
 - Bronze Fields (South) — Grass (Day) (9%)
@@ -53,92 +49,31 @@ _Donkey Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 77
 | Speed | <span class="stat-value stat-low">45</span> |
 | Total | <span class="stat-value stat-mid">385</span> |
 
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1)
-- Rock Smash (Lv 1)
-- Iron Defense (Lv 4)
-- Double Kick (Lv 8)
-- Bulldoze (Lv 12)
-- Stomp (Lv 16)
-- Strength (Lv 20)
-- Counter (Lv 24)
-- High Horsepower (Lv 28)
-- Heavy Slam (Lv 32)
-- Earthquake (Lv 36)
-- Mega Kick (Lv 40)
-- Superpower (Lv 44)
-</div>
-</div>
+**Level-Up Moves**
+- Mud-Slap (Lv 1)
+- Mud Sport (Lv 3)
+- Rototiller (Lv 8)
+- Bulldoze (Lv 10)
+- Double Kick (Lv 15)
+- Stomp (Lv 17)
+- Bide (Lv 22)
+- High Horsepower (Lv 24)
+- Rock Smash (Lv 27)
+- Iron Defense (Lv 29)
+- Heavy Slam (Lv 31)
+- Counter (Lv 36)
+- Earthquake (Lv 38)
+- Mega Kick (Lv 43)
+- Superpower (Lv 45)
 
-**Flavor Text**
-> Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It’s skilled at making use of mud.
+**Egg Moves**
+Body Slam, Double-Edge, Magnitude, Close Combat, Mud Bomb
+
+**TM/HM Moves**
+TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM26 - Earthquake, TM32 - Double Team, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Mega Kick, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-mudbray-749-panel-1">
-## Mudsdale (#750)
-<details class="pokemon-card-container" open>
-<summary>Mudsdale overview</summary>
-_Draft Horse Pokémon_ • Types: Ground • Egg Groups: Ground • Base EXP: 175
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Own Tempo
-- Stamina
-- Inner Focus *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0×)
-- Poison (0.5×)
-- Rock (0.5×)
-
-*Weak to*
-- Water (2×)
-- Grass (2×)
-- Ice (2×)
-
-**Evolution Paths**
-- Mudbray → Mudsdale (Lv 30)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">100</span> |
-| Attack | <span class="stat-value stat-high">125</span> |
-| Defense | <span class="stat-value stat-high">100</span> |
-| Sp. Atk | <span class="stat-value stat-mid">55</span> |
-| Sp. Def | <span class="stat-value stat-mid">85</span> |
-| Speed | <span class="stat-value stat-low">35</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
-
-**Notable Level-Up Moves**
-- Double Kick (Lv 1)
-- Iron Defense (Lv 1)
-- Mud Slap (Lv 1)
-- Rock Smash (Lv 1)
-- Bulldoze (Lv 12)
-- Stomp (Lv 16)
-- Strength (Lv 20)
-- Counter (Lv 24)
-- High Horsepower (Lv 28)
-- Heavy Slam (Lv 34)
-- Earthquake (Lv 40)
-- Mega Kick (Lv 46)
-- Superpower (Lv 52)
-</div>
-</div>
-
-**Flavor Text**
-> Mud that hardens around a Mudsdale’s legs sets harder than stone. It’s so hard that it allows this Pokémon to scrap a truck with a single kick.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-mudbray-749-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mudbray-749-panel-0 { display: block; }
-#pokemon-tabs-mudbray-749-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mudbray-749-panel-1 { display: block; }
-</style>

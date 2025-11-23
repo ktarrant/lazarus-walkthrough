@@ -1,102 +1,29 @@
-<div class="pokemon-tabs" id="pokemon-tabs-cherrim-421">
-<input type="radio" name="pokemon-tabs-cherrim-421-group" id="pokemon-tabs-cherrim-421-tab-0">
-<label for="pokemon-tabs-cherrim-421-tab-0">Cherubi</label>
-<input type="radio" name="pokemon-tabs-cherrim-421-group" id="pokemon-tabs-cherrim-421-tab-1" checked>
-<label for="pokemon-tabs-cherrim-421-tab-1">Cherrim</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-cherrim-421-panel-0">
-## Cherubi (#420)
-<details class="pokemon-card-container" open>
-<summary>Cherubi overview</summary>
-_Cherry Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 55
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Chlorophyll
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-
-**Evolution Paths**
-- Cherubi → Cherrim (Lv 25)
-
-**Encounter Locations**
-- Erinys Path (East) — Grass (Day) (20%)
-- Myrrini Island — Grass (Day) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">45</span> |
-| Attack | <span class="stat-value stat-low">35</span> |
-| Defense | <span class="stat-value stat-low">45</span> |
-| Sp. Atk | <span class="stat-value stat-mid">62</span> |
-| Sp. Def | <span class="stat-value stat-mid">53</span> |
-| Speed | <span class="stat-value stat-low">35</span> |
-| Total | <span class="stat-value stat-low">275</span> |
-
-**Notable Level-Up Moves**
-- Morning Sun (Lv 1)
-- Tackle (Lv 1)
-- Leafage (Lv 5)
-- Growth (Lv 10)
-- Helping Hand (Lv 15)
-- Magical Leaf (Lv 20)
-- Leech Seed (Lv 26)
-- Take Down (Lv 30)
-- Petal Blizzard (Lv 35)
-- Worry Seed (Lv 40)
-- Solar Beam (Lv 45)
-</div>
-</div>
-
-**Flavor Text**
-> It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-cherrim-421-panel-1">
-## Cherrim (#421)
+## Cherrim (#168)
 <details class="pokemon-card-container" open>
 <summary>Cherrim overview</summary>
-_Blossom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 158
+Types: Grass / Fire • Egg Groups: Grass / Fairy • Found: Port Pello, Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Flower Gift
+- Drought *(Hidden)*
 
 **Type Matchups**
 
 *Resists / Immune to*
-- Water (0.5×)
 - Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
+- Grass (0.25×)
+- Steel (0.5×)
+- Fairy (0.5×)
 
 *Weak to*
-- Fire (2×)
-- Ice (2×)
 - Poison (2×)
 - Flying (2×)
-- Bug (2×)
+- Rock (2×)
 
-**Evolution Paths**
-- Cherubi → Cherrim (Lv 25)
+**Evolution Info**
+Lv. 25
 
 **Encounter Locations**
 - Kaptara Island (East) — Grass (Day) (4%)
@@ -110,37 +37,38 @@ _Blossom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 
 | --- | --- |
 | HP | <span class="stat-value stat-mid">70</span> |
 | Attack | <span class="stat-value stat-mid">60</span> |
-| Defense | <span class="stat-value stat-mid">70</span> |
-| Sp. Atk | <span class="stat-value stat-mid">87</span> |
-| Sp. Def | <span class="stat-value stat-mid">78</span> |
+| Defense | <span class="stat-value stat-mid">80</span> |
+| Sp. Atk | <span class="stat-value stat-high">97</span> |
+| Sp. Def | <span class="stat-value stat-mid">88</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
-| Total | <span class="stat-value stat-mid">450</span> |
+| Total | <span class="stat-value stat-mid">480</span> |
 
-**Notable Level-Up Moves**
-- Flower Shield (Lv 1)
-- Growth (Lv 1)
-- Leafage (Lv 1)
+**Level-Up Moves**
 - Morning Sun (Lv 1)
-- Sunny Day (Lv 1)
 - Tackle (Lv 1)
-- Helping Hand (Lv 15)
-- Magical Leaf (Lv 20)
-- Leech Seed (Lv 28)
-- Take Down (Lv 34)
-- Petal Blizzard (Lv 41)
-- Worry Seed (Lv 48)
-- Solar Beam (Lv 55)
-- Petal Dance (Lv 62)
-</div>
-</div>
+- Growth (Lv 7)
+- Leech Seed (Lv 10)
+- Helping Hand (Lv 13)
+- Magical Leaf (Lv 19)
+- Sunny Day (Lv 22)
+- Petal Dance (Lv Evo)
+- Sunny Day (Lv Evo)
+- Flame Burst (Lv 27)
+- Worry Seed (Lv 30)
+- Flame Burst (Lv 35)
+- Solar Beam (Lv 38)
+- Fiery Dance (Lv 43)
+- Lucky Chant (Lv 48)
+- Petal Blizzard (Lv 50)
 
-**Flavor Text**
-> As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.
+**Egg Moves**
+Razor Leaf, Sweet Scent, Tickle, Nature Power, Grass Whistle, Aromatherapy, Weather Ball, Heal Pulse, Healing Wish, Seed Bomb, Natural Gift, Defense Curl, Rollout, Flower Shield, Grassy Terrain
+
+**TM/HM Moves**
+TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM05 - Flash
+
+**Tutor Moves**
+Defense Curl, Double-Edge, Endure, Rollout, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-cherrim-421-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cherrim-421-panel-0 { display: block; }
-#pokemon-tabs-cherrim-421-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cherrim-421-panel-1 { display: block; }
-</style>

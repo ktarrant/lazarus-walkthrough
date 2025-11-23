@@ -1,66 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-muk-89">
-<input type="radio" name="pokemon-tabs-muk-89-group" id="pokemon-tabs-muk-89-tab-0">
-<label for="pokemon-tabs-muk-89-tab-0">Grimer</label>
-<input type="radio" name="pokemon-tabs-muk-89-group" id="pokemon-tabs-muk-89-tab-1" checked>
-<label for="pokemon-tabs-muk-89-tab-1">Muk</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-muk-89-panel-0">
-## Grimer (#088)
-<details class="pokemon-card-container" open>
-<summary>Grimer overview</summary>
-_Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 65
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Stench
-- Sticky Hold
-- Poison Touch *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.5×)
-- Fighting (0.5×)
-- Poison (0.5×)
-- Bug (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Ground (2×)
-- Psychic (2×)
-
-**Evolution Paths**
-- Grimer → Muk (Lv 38)
-
-**Encounter Locations**
-- Acrisia City — Grass (Day) (5%)
-- Péntepetal City — Grass (Day) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">80</span> |
-| Attack | <span class="stat-value stat-mid">80</span> |
-| Defense | <span class="stat-value stat-low">50</span> |
-| Sp. Atk | <span class="stat-value stat-low">40</span> |
-| Sp. Def | <span class="stat-value stat-low">50</span> |
-| Speed | <span class="stat-value stat-low">25</span> |
-| Total | <span class="stat-value stat-mid">325</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Its main source of food is the slimy industrial waste of factories. This Pokémon’s numbers have been decreasing in recent years.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-muk-89-panel-1">
-## Muk (#089)
+## Muk (#072)
 <details class="pokemon-card-container" open>
 <summary>Muk overview</summary>
-_Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 175
+Types: Poison • Egg Groups: Amorphous • Found: Areios Hideout (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -82,8 +23,8 @@ _Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 
 - Ground (2×)
 - Psychic (2×)
 
-**Evolution Paths**
-- Grimer → Muk (Lv 38)
+**Evolution Info**
+Lv. 34
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (10%)
@@ -93,23 +34,41 @@ _Sludge Pokémon_ • Types: Poison • Egg Groups: Indeterminate • Base EXP: 
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-high">105</span> |
+| HP | <span class="stat-value stat-high">110</span> |
 | Attack | <span class="stat-value stat-high">105</span> |
 | Defense | <span class="stat-value stat-mid">75</span> |
 | Sp. Atk | <span class="stat-value stat-mid">65</span> |
 | Sp. Def | <span class="stat-value stat-high">100</span> |
 | Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
-</div>
-</div>
+| Total | <span class="stat-value stat-mid">505</span> |
 
-**Flavor Text**
-> The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that’s a good thing.
+**Level-Up Moves**
+- Pound (Lv 1)
+- Poison Gas (Lv 1)
+- Harden (Lv 4)
+- Mud-Slap (Lv 7)
+- Disable (Lv 12)
+- Sludge (Lv 15)
+- Mud Bomb (Lv 18)
+- Minimize (Lv 21)
+- Poison Fang (Lv 26)
+- Sludge Bomb (Lv 29)
+- Fire Punch (Lv 32)
+- Venom Drench (Lv Evo)
+- Screech (Lv 37)
+- Gunk Shot (Lv 40)
+- Acid Armor (Lv 46)
+- Belch (Lv 52)
+- Memento (Lv 57)
+
+**Egg Moves**
+Haze, Mean Look, Lick, Imprison, Curse, Shadow Punch, Shadow Sneak, Stockpile, Swallow, Spit Up, Scary Face, Acid Spray, Power-Up Punch
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Dynamic Punch, Endure, Explosion, Fire Punch, Ice Punch, Metronome, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Punch
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-muk-89-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-89-panel-0 { display: block; }
-#pokemon-tabs-muk-89-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-muk-89-panel-1 { display: block; }
-</style>

@@ -1,91 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-krokorok-552">
-<input type="radio" name="pokemon-tabs-krokorok-552-group" id="pokemon-tabs-krokorok-552-tab-0">
-<label for="pokemon-tabs-krokorok-552-tab-0">Sandile</label>
-<input type="radio" name="pokemon-tabs-krokorok-552-group" id="pokemon-tabs-krokorok-552-tab-1" checked>
-<label for="pokemon-tabs-krokorok-552-tab-1">Krokorok</label>
-<input type="radio" name="pokemon-tabs-krokorok-552-group" id="pokemon-tabs-krokorok-552-tab-2">
-<label for="pokemon-tabs-krokorok-552-tab-2">Krookodile</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-krokorok-552-panel-0">
-## Sandile (#551)
-<details class="pokemon-card-container" open>
-<summary>Sandile overview</summary>
-_Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base EXP: 58
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Intimidate
-- Moxie
-- Anger Point *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0×)
-- Poison (0.5×)
-- Psychic (0×)
-- Rock (0.5×)
-- Ghost (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Water (2×)
-- Grass (2×)
-- Ice (2×)
-- Fighting (2×)
-- Bug (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Sandile → Krokorok (Lv 29) → Krookodile (Lv 40)
-
-**Encounter Locations**
-- Erinys Path (West) — Grass (Day) (20%)
-- Riverwalk Trail (West) — Grass (Day) (5%)
-- Riverwalk Trail (West) — Grass (Night) (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">50</span> |
-| Attack | <span class="stat-value stat-mid">72</span> |
-| Defense | <span class="stat-value stat-low">35</span> |
-| Sp. Atk | <span class="stat-value stat-low">35</span> |
-| Sp. Def | <span class="stat-value stat-low">35</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-low">292</span> |
-
-**Notable Level-Up Moves**
-- Leer (Lv 1)
-- Power Trip (Lv 1)
-- Sand Attack (Lv 3)
-- Hone Claws (Lv 6)
-- Sand Tomb (Lv 9)
-- Scary Face (Lv 12)
-- Bite (Lv 15)
-- Torment (Lv 18)
-- Dig (Lv 21)
-- Swagger (Lv 24)
-- Crunch (Lv 27)
-- Sandstorm (Lv 30)
-- Foul Play (Lv 33)
-- Earthquake (Lv 36)
-- Thrash (Lv 39)
-</div>
-</div>
-
-**Flavor Text**
-> The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-krokorok-552-panel-1">
-## Krokorok (#552)
+## Krokorok (#100)
 <details class="pokemon-card-container" open>
 <summary>Krokorok overview</summary>
-_Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base EXP: 123
+Types: Ground / Dark • Egg Groups: Field • Found: Fresco Isles (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -112,8 +28,8 @@ _Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base 
 - Bug (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Sandile → Krokorok (Lv 29) → Krookodile (Lv 40)
+**Evolution Info**
+Lv. 29
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (5%)
@@ -131,104 +47,34 @@ _Desert Croc Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base 
 | Speed | <span class="stat-value stat-mid">74</span> |
 | Total | <span class="stat-value stat-mid">351</span> |
 
-**Notable Level-Up Moves**
-- Hone Claws (Lv 1)
+**Level-Up Moves**
 - Leer (Lv 1)
-- Power Trip (Lv 1)
-- Sand Attack (Lv 1)
-- Sand Tomb (Lv 9)
-- Scary Face (Lv 12)
-- Bite (Lv 15)
-- Torment (Lv 18)
-- Dig (Lv 21)
+- Rage (Lv 1)
+- Bite (Lv 4)
+- Sand Attack (Lv 7)
+- Torment (Lv 10)
+- Sand Tomb (Lv 13)
+- Assurance (Lv 16)
+- Bulldoze (Lv 19)
+- Embargo (Lv 22)
 - Swagger (Lv 24)
-- Crunch (Lv 27)
-- Sandstorm (Lv 32)
-- Foul Play (Lv 35)
-- Earthquake (Lv 42)
-- Thrash (Lv 47)
-</div>
-</div>
+- Skitter Smack (Lv 27)
+- Crunch (Lv 30)
+- Dig (Lv 31)
+- Scary Face (Lv 34)
+- Foul Play (Lv 37)
+- Sandstorm (Lv 40)
+- Earthquake (Lv 43)
+- Thrash (Lv 46)
 
-**Flavor Text**
-> Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.
+**Egg Moves**
+Double-Edge, Rock Climb, Pursuit, Uproar, Fire Fang, Thunder Fang, Beat Up, Focus Energy, Counter, Mean Look, Me First, Power Trip
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM02 - Dragon Claw, TM05 - Roar, TM06 - Toxic, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-krokorok-552-panel-2">
-## Krookodile (#553)
-<details class="pokemon-card-container" open>
-<summary>Krookodile overview</summary>
-_Intimidation Pokémon_ • Types: Ground / Dark • Egg Groups: Ground • Base EXP: 234
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Intimidate
-- Moxie
-- Anger Point *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0×)
-- Poison (0.5×)
-- Psychic (0×)
-- Rock (0.5×)
-- Ghost (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Water (2×)
-- Grass (2×)
-- Ice (2×)
-- Fighting (2×)
-- Bug (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Sandile → Krokorok (Lv 29) → Krookodile (Lv 40)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">95</span> |
-| Attack | <span class="stat-value stat-high">117</span> |
-| Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-high">92</span> |
-| Total | <span class="stat-value stat-mid">519</span> |
-
-**Notable Level-Up Moves**
-- Hone Claws (Lv 1)
-- Leer (Lv 1)
-- Power Trip (Lv 1)
-- Sand Attack (Lv 1)
-- Sand Tomb (Lv 9)
-- Scary Face (Lv 12)
-- Bite (Lv 15)
-- Torment (Lv 18)
-- Dig (Lv 21)
-- Swagger (Lv 24)
-- Crunch (Lv 27)
-- Sandstorm (Lv 32)
-- Foul Play (Lv 35)
-- Earthquake (Lv 44)
-- Thrash (Lv 51)
-- Outrage (Lv 58)
-</div>
-</div>
-
-**Flavor Text**
-> This Pokémon is known as the Bully of the Sands. Krookodile’s mighty jaws can bite through heavy plates of iron with almost no effort at all.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-krokorok-552-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-krokorok-552-panel-0 { display: block; }
-#pokemon-tabs-krokorok-552-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-krokorok-552-panel-1 { display: block; }
-#pokemon-tabs-krokorok-552-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-krokorok-552-panel-2 { display: block; }
-</style>

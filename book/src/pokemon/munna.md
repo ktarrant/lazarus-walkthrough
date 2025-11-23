@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-munna-517">
-<input type="radio" name="pokemon-tabs-munna-517-group" id="pokemon-tabs-munna-517-tab-0" checked>
-<label for="pokemon-tabs-munna-517-tab-0">Munna</label>
-<input type="radio" name="pokemon-tabs-munna-517-group" id="pokemon-tabs-munna-517-tab-1">
-<label for="pokemon-tabs-munna-517-tab-1">Musharna</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-munna-517-panel-0">
-## Munna (#517)
+## Munna (#319)
 <details class="pokemon-card-container" open>
 <summary>Munna overview</summary>
-_Dream Eater Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 58
+Types: Psychic • Egg Groups: Field • Found: Acrisia City, Corrin Crossing, Palati City (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,9 +20,6 @@ _Dream Eater Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 5
 - Bug (2×)
 - Ghost (2×)
 - Dark (2×)
-
-**Evolution Paths**
-- Munna → Musharna (Use Moon Stone)
 
 **Encounter Locations**
 - Acrisia City — Grass (Night) (10%)
@@ -50,99 +40,35 @@ _Dream Eater Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 5
 | Speed | <span class="stat-value stat-low">24</span> |
 | Total | <span class="stat-value stat-low">292</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
+- Psywave (Lv 1)
 - Defense Curl (Lv 1)
-- Stored Power (Lv 1)
-- Hypnosis (Lv 4)
-- Psybeam (Lv 8)
-- Imprison (Lv 12)
-- Moonlight (Lv 16)
-- Magic Coat (Lv 20)
-- Zen Headbutt (Lv 24)
-- Calm Mind (Lv 28)
-- Yawn (Lv 32)
+- Lucky Chant (Lv 5)
+- Yawn (Lv 7)
+- Psybeam (Lv 11)
+- Imprison (Lv 13)
+- Moonlight (Lv 17)
+- Hypnosis (Lv 19)
+- Clear Smog (Lv 23)
+- Synchronoise (Lv 25)
+- Nightmare (Lv 29)
+- Future Sight (Lv 31)
+- Calm Mind (Lv 34)
 - Psychic (Lv 36)
-- Moonblast (Lv 40)
-- Dream Eater (Lv 44)
-- Future Sight (Lv 48)
-- Wonder Room (Lv 52)
-</div>
-</div>
+- Strange Steam (Lv 39)
+- Dream Eater (Lv 41)
+- Telekinesis (Lv 43)
+- Stored Power (Lv 47)
+- Hydro Steam (Lv 50)
 
-**Flavor Text**
-> Late at night, it appears beside people’s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.
+**Egg Moves**
+Sleep Talk, Secret Power, Barrier, Magic Coat, Helping Hand, Baton Pass, Swift, Curse, Sonic Boom, Healing Wish
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, HM05 - Flash
+
+**Tutor Moves**
+Defense Curl, Dream Eater, Endure, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-munna-517-panel-1">
-## Musharna (#518)
-<details class="pokemon-card-container" open>
-<summary>Musharna overview</summary>
-_Drowsing Pokémon_ • Types: Psychic • Egg Groups: Ground • Base EXP: 170
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Forewarn
-- Synchronize
-- Telepathy *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fighting (0.5×)
-- Psychic (0.5×)
-
-*Weak to*
-- Bug (2×)
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Munna → Musharna (Use Moon Stone)
-
-**Encounter Locations**
-- Corrin Crossing — Grass (Night) (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">116</span> |
-| Attack | <span class="stat-value stat-mid">55</span> |
-| Defense | <span class="stat-value stat-mid">85</span> |
-| Sp. Atk | <span class="stat-value stat-high">107</span> |
-| Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-low">29</span> |
-| Total | <span class="stat-value stat-mid">487</span> |
-
-**Notable Level-Up Moves**
-- Calm Mind (Lv 1)
-- Defense Curl (Lv 1)
-- Dream Eater (Lv 1)
-- Future Sight (Lv 1)
-- Hypnosis (Lv 1)
-- Imprison (Lv 1)
-- Magic Coat (Lv 1)
-- Moonblast (Lv 1)
-- Moonlight (Lv 1)
-- Psybeam (Lv 1)
-- Psychic (Lv 1)
-- Psychic Terrain (Lv 1)
-- Stored Power (Lv 1)
-- Wonder Room (Lv 1)
-- Yawn (Lv 1)
-- Zen Headbutt (Lv 1)
-</div>
-</div>
-
-**Flavor Text**
-> When dark mists emanate from its body, don’t get too near. If you do, your nightmares will become reality.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-munna-517-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-munna-517-panel-0 { display: block; }
-#pokemon-tabs-munna-517-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-munna-517-panel-1 { display: block; }
-</style>

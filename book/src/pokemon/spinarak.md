@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-spinarak-167">
-<input type="radio" name="pokemon-tabs-spinarak-167-group" id="pokemon-tabs-spinarak-167-tab-0" checked>
-<label for="pokemon-tabs-spinarak-167-tab-0">Spinarak</label>
-<input type="radio" name="pokemon-tabs-spinarak-167-group" id="pokemon-tabs-spinarak-167-tab-1">
-<label for="pokemon-tabs-spinarak-167-tab-1">Ariados</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-spinarak-167-panel-0">
-## Spinarak (#167)
+## Spinarak (#177)
 <details class="pokemon-card-container" open>
 <summary>Spinarak overview</summary>
-_String Spit Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP: 50
+Types: Bug / Poison • Egg Groups: Bug • Found: Acrisia Mountains Peak, Erinys Path E (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -31,9 +24,6 @@ _String Spit Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP:
 - Flying (2×)
 - Psychic (2×)
 - Rock (2×)
-
-**Evolution Paths**
-- Spinarak → Ariados (Lv 22)
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (20%)
@@ -51,69 +41,34 @@ _String Spit Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP:
 | Sp. Def | <span class="stat-value stat-low">40</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-low">250</span> |
-</div>
-</div>
 
-**Flavor Text**
-> It waits intently until its preferred prey, Cutiefly, gets caught in its web. In fact, it’s quite a patient Pokémon.
+**Level-Up Moves**
+- Poison Sting (Lv 1)
+- String Shot (Lv 1)
+- Constrict (Lv 1)
+- Absorb (Lv 5)
+- Infestation (Lv 8)
+- Scary Face (Lv 12)
+- Night Shade (Lv 15)
+- Shadow Sneak (Lv 19)
+- Bug Bite (Lv 22)
+- Sucker Punch (Lv 26)
+- Spider Web (Lv 29)
+- Agility (Lv 33)
+- Pin Missile (Lv 36)
+- Cross Poison (Lv 40)
+- Poison Jab (Lv 43)
+- Cross Poison (Lv 47)
+- Sticky Web (Lv 50)
+
+**Egg Moves**
+Psybeam, Disable, Sonic Boom, Baton Pass, Pursuit, Signal Beam, Toxic Spikes, Twineedle, Electroweb, Rage Powder, Night Slash, Megahorn, Lunge
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM19 - Giga Drain, TM22 - Solar Beam, TM28 - Dig, TM29 - Psychic, TM32 - Double Team, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-spinarak-167-panel-1">
-## Ariados (#168)
-<details class="pokemon-card-container" open>
-<summary>Ariados overview</summary>
-_Long Leg Pokémon_ • Types: Bug / Poison • Egg Groups: Bug • Base EXP: 140
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Swarm
-- Insomnia
-- Sniper *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.25×)
-- Fighting (0.25×)
-- Poison (0.5×)
-- Bug (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Flying (2×)
-- Psychic (2×)
-- Rock (2×)
-
-**Evolution Paths**
-- Spinarak → Ariados (Lv 22)
-
-**Encounter Locations**
-- Areios Hideout — Grass (Day) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-mid">90</span> |
-| Defense | <span class="stat-value stat-mid">70</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">400</span> |
-</div>
-</div>
-
-**Flavor Text**
-> There are some areas where people use the string Ariados spins for their own weaving. The resulting cloth is popular for its strength.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-spinarak-167-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-spinarak-167-panel-0 { display: block; }
-#pokemon-tabs-spinarak-167-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-spinarak-167-panel-1 { display: block; }
-</style>

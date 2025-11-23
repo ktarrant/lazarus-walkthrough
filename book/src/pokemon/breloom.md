@@ -1,70 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-breloom-286">
-<input type="radio" name="pokemon-tabs-breloom-286-group" id="pokemon-tabs-breloom-286-tab-0">
-<label for="pokemon-tabs-breloom-286-tab-0">Shroomish</label>
-<input type="radio" name="pokemon-tabs-breloom-286-group" id="pokemon-tabs-breloom-286-tab-1" checked>
-<label for="pokemon-tabs-breloom-286-tab-1">Breloom</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-breloom-286-panel-0">
-## Shroomish (#285)
-<details class="pokemon-card-container" open>
-<summary>Shroomish overview</summary>
-_Mushroom Pokémon_ • Types: Grass • Egg Groups: Fairy / Plant • Base EXP: 59
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Effect Spore
-- Poison Heal
-- Quick Feet *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-
-**Evolution Paths**
-- Shroomish → Breloom (Lv 23)
-
-**Encounter Locations**
-- Acrisia City — Grass (Day) (10%)
-- Acrisia City — Grass (Night) (10%)
-- Wanderer's Woods (North) — Grass (Day) (20%)
-- Wanderer's Woods (North) — Grass (Night) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-low">40</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
-| Sp. Atk | <span class="stat-value stat-low">40</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-low">35</span> |
-| Total | <span class="stat-value stat-low">295</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-breloom-286-panel-1">
-## Breloom (#286)
+## Breloom (#125)
 <details class="pokemon-card-container" open>
 <summary>Breloom overview</summary>
-_Mushroom Pokémon_ • Types: Grass / Fighting • Egg Groups: Fairy / Plant • Base EXP: 161
+Types: Grass / Fighting • Egg Groups: Fairy / Grass • Found: The Nyx Trails (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -91,8 +28,8 @@ _Mushroom Pokémon_ • Types: Grass / Fighting • Egg Groups: Fairy / Plant �
 - Psychic (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Shroomish → Breloom (Lv 23)
+**Evolution Info**
+Lv. 23
 
 **Encounter Locations**
 - Lastlight Road — Grass (Day) (5%)
@@ -107,20 +44,40 @@ _Mushroom Pokémon_ • Types: Grass / Fighting • Egg Groups: Fairy / Plant �
 | HP | <span class="stat-value stat-mid">60</span> |
 | Attack | <span class="stat-value stat-high">130</span> |
 | Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-mid">70</span> |
-| Total | <span class="stat-value stat-mid">460</span> |
-</div>
-</div>
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-mid">66</span> |
+| Speed | <span class="stat-value stat-mid">79</span> |
+| Total | <span class="stat-value stat-mid">470</span> |
 
-**Flavor Text**
-> Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.
+**Level-Up Moves**
+- Absorb (Lv 1)
+- Tackle (Lv 1)
+- Stun Spore (Lv 5)
+- Leech Seed (Lv 8)
+- Mega Drain (Lv 12)
+- Headbutt (Lv 15)
+- Feint (Lv 19)
+- Counter (Lv 22)
+- Mach Punch (Lv Evo)
+- Dizzy Punch (Lv 25)
+- Force Palm (Lv 28)
+- Power-Up Punch (Lv 30)
+- Trop Kick (Lv 33)
+- False Swipe (Lv 35)
+- Mind Reader (Lv 37)
+- Sky Uppercut (Lv 39)
+- Spore (Lv 42)
+- Seed Bomb (Lv 44)
+- Dynamic Punch (Lv 50)
+
+**Egg Moves**
+Fake Tears, Charm, Helping Hand, Worry Seed, Wake-Up Slap, Seed Bomb, Bullet Seed, Focus Punch, Natural Gift, Drain Punch
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM06 - Toxic, TM08 - Bulk Up, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, HM01 - Cut, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Dynamic Punch, Endure, Fury Cutter, Mega Kick, Mega Punch, Mud-Slap, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swift, Swords Dance, Thunder Punch
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-breloom-286-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-breloom-286-panel-0 { display: block; }
-#pokemon-tabs-breloom-286-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-breloom-286-panel-1 { display: block; }
-</style>

@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-flittle-955">
-<input type="radio" name="pokemon-tabs-flittle-955-group" id="pokemon-tabs-flittle-955-tab-0" checked>
-<label for="pokemon-tabs-flittle-955-tab-0">Flittle</label>
-<input type="radio" name="pokemon-tabs-flittle-955-group" id="pokemon-tabs-flittle-955-tab-1">
-<label for="pokemon-tabs-flittle-955-tab-1">Espathra</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-flittle-955-panel-0">
-## Flittle (#955)
+## Flittle (#145)
 <details class="pokemon-card-container" open>
 <summary>Flittle overview</summary>
-_Frill Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 51
+Types: Psychic • Egg Groups: Flying • Found: Acrisia Mountains Peak, Pythios Town (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -28,9 +21,6 @@ _Frill Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 51
 - Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Flittle → Espathra (Lv 35)
-
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (20%)
 - Acrisia Mountains (Peak) — Grass (Night) (20%)
@@ -42,73 +32,35 @@ _Frill Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 51
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-low">30</span> |
+| HP | <span class="stat-value stat-low">40</span> |
 | Attack | <span class="stat-value stat-low">35</span> |
-| Defense | <span class="stat-value stat-low">30</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
 | Sp. Atk | <span class="stat-value stat-mid">55</span> |
-| Sp. Def | <span class="stat-value stat-low">30</span> |
-| Speed | <span class="stat-value stat-mid">75</span> |
-| Total | <span class="stat-value stat-low">255</span> |
-</div>
-</div>
+| Sp. Def | <span class="stat-value stat-low">44</span> |
+| Speed | <span class="stat-value stat-mid">71</span> |
+| Total | <span class="stat-value stat-low">285</span> |
 
-**Flavor Text**
-> It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.
+**Level-Up Moves**
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Confusion (Lv 5)
+- Baby-Doll Eyes (Lv 8)
+- Disarming Voice (Lv 11)
+- Quick Attack (Lv 14)
+- Teeter Dance (Lv 17)
+- Psybeam (Lv 19)
+- Pluck (Lv 24)
+- Agility (Lv 29)
+- Uproar (Lv 34)
+
+**Egg Moves**
+Ally Switch, Hypnosis, Roost
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM33 - Reflect, TM37 - Sandstorm, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM48 - Skill Swap
+
+**Tutor Moves**
+Endure, Mud-Slap, Sleep Talk, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-flittle-955-panel-1">
-## Espathra (#956)
-<details class="pokemon-card-container" open>
-<summary>Espathra overview</summary>
-_Ostrich Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 168
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Opportunist
-- Frisk
-- Speed Boost *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fighting (0.5×)
-- Psychic (0.5×)
-
-*Weak to*
-- Bug (2×)
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Flittle → Espathra (Lv 35)
-
-**Encounter Locations**
-- Kaptara Island (West) — Grass (Night) (10%)
-- Pollen Road — Grass (Night) (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">95</span> |
-| Attack | <span class="stat-value stat-mid">60</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
-| Sp. Atk | <span class="stat-value stat-high">101</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-high">105</span> |
-| Total | <span class="stat-value stat-mid">481</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-flittle-955-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-flittle-955-panel-0 { display: block; }
-#pokemon-tabs-flittle-955-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-flittle-955-panel-1 { display: block; }
-</style>

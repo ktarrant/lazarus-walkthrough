@@ -1,7 +1,7 @@
-## Tauros (#128)
+## Tauros (#224)
 <details class="pokemon-card-container" open>
 <summary>Tauros overview</summary>
-_Wild Bull Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 172
+Types: Normal • Egg Groups: Field • Found: Asfal Hills, Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -18,9 +18,6 @@ _Wild Bull Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 172
 *Weak to*
 - Fighting (2×)
 
-**Evolution Paths**
-- Tauros
-
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (20%)
 - Kaptara Island (East) — Grass (Day) (10%)
@@ -31,31 +28,37 @@ _Wild Bull Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 172
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-mid">75</span> |
-| Attack | <span class="stat-value stat-high">100</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
 | Defense | <span class="stat-value stat-high">95</span> |
 | Sp. Atk | <span class="stat-value stat-low">40</span> |
 | Sp. Def | <span class="stat-value stat-mid">70</span> |
 | Speed | <span class="stat-value stat-high">110</span> |
-| Total | <span class="stat-value stat-mid">490</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Work Up (Lv 5)
-- Payback (Lv 10)
-- Assurance (Lv 15)
-- Horn Attack (Lv 20)
-- Scary Face (Lv 25)
-- Zen Headbutt (Lv 30)
-- Take Down (Lv 35)
-- Rest (Lv 40)
-- Swagger (Lv 45)
-- Thrash (Lv 50)
-- Double Edge (Lv 55)
-- Giga Impact (Lv 60)
-</div>
-</div>
+- Tail Whip (Lv 3)
+- Rage (Lv 5)
+- Horn Attack (Lv 8)
+- Scary Face (Lv 11)
+- Pursuit (Lv 15)
+- Rest (Lv 19)
+- Payback (Lv 24)
+- Work Up (Lv 29)
+- Horn Leech (Lv 33)
+- Body Slam (Lv 35)
+- Zen Headbutt (Lv 41)
+- Stomping Tantrum (Lv 43)
+- Swagger (Lv 48)
+- Thrash (Lv 55)
+- Double-Edge (Lv 63)
+- Giga Impact (Lv 71)
 
-**Flavor Text**
-> When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM11 - Sunny Day, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM28 - Dig, TM30 - Shadow Ball, TM32 - Double Team, TM34 - Shock Wave, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM56 - Stomping Tantrum, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Icy Wind, Rock Slide, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>

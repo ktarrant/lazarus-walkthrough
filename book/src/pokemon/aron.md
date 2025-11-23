@@ -1,16 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-aron-304">
-<input type="radio" name="pokemon-tabs-aron-304-group" id="pokemon-tabs-aron-304-tab-0" checked>
-<label for="pokemon-tabs-aron-304-tab-0">Aron</label>
-<input type="radio" name="pokemon-tabs-aron-304-group" id="pokemon-tabs-aron-304-tab-1">
-<label for="pokemon-tabs-aron-304-tab-1">Lairon</label>
-<input type="radio" name="pokemon-tabs-aron-304-group" id="pokemon-tabs-aron-304-tab-2">
-<label for="pokemon-tabs-aron-304-tab-2">Aggron</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-aron-304-panel-0">
-## Aron (#304)
+## Aron (#111)
 <details class="pokemon-card-container" open>
 <summary>Aron overview</summary>
-_Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base EXP: 66
+Types: Steel / Rock • Egg Groups: Monster • Found: Acrisia Mountains, Riverwalk Trail N (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -36,9 +27,6 @@ _Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base E
 - Water (2×)
 - Fighting (4×)
 - Ground (4×)
-
-**Evolution Paths**
-- Aron → Lairon (Lv 32) → Aggron (Lv 42)
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (8%)
@@ -59,179 +47,38 @@ _Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base E
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
 
-**Notable Level-Up Moves**
-- Harden (Lv 1)
+**Level-Up Moves**
 - Tackle (Lv 1)
-- Metal Claw (Lv 4)
-- Rock Tomb (Lv 8)
-- Roar (Lv 12)
-- Headbutt (Lv 16)
-- Protect (Lv 20)
-- Rock Slide (Lv 24)
-- Iron Head (Lv 28)
-- Metal Sound (Lv 33)
-- Take Down (Lv 36)
-- Autotomize (Lv 40)
-- Iron Tail (Lv 44)
-- Iron Defense (Lv 48)
-- Heavy Slam (Lv 52)
-- Double Edge (Lv 56)
-- Metal Burst (Lv 60)
-</div>
-</div>
-
-**Flavor Text**
-> It eats iron ore—and sometimes railroad tracks— to build up the steel armor that protects its body.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-aron-304-panel-1">
-## Lairon (#305)
-<details class="pokemon-card-container" open>
-<summary>Lairon overview</summary>
-_Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base EXP: 151
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Sturdy
-- Rock Head
-- Heavy Metal *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0.25×)
-- Ice (0.5×)
-- Poison (0×)
-- Flying (0.25×)
-- Psychic (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dragon (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Water (2×)
-- Fighting (4×)
-- Ground (4×)
-
-**Evolution Paths**
-- Aron → Lairon (Lv 32) → Aggron (Lv 42)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-mid">90</span> |
-| Defense | <span class="stat-value stat-high">140</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-low">50</span> |
-| Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">430</span> |
-
-**Notable Level-Up Moves**
 - Harden (Lv 1)
-- Metal Claw (Lv 1)
-- Rock Tomb (Lv 1)
-- Tackle (Lv 1)
-- Roar (Lv 12)
-- Headbutt (Lv 16)
-- Protect (Lv 20)
-- Rock Slide (Lv 24)
-- Iron Head (Lv 28)
-- Metal Sound (Lv 35)
-- Take Down (Lv 40)
-- Autotomize (Lv 46)
-- Iron Tail (Lv 52)
-- Iron Defense (Lv 58)
-- Heavy Slam (Lv 64)
-- Double Edge (Lv 70)
-- Metal Burst (Lv 76)
-</div>
-</div>
+- Mud-Slap (Lv 4)
+- Headbutt (Lv 7)
+- Metal Claw (Lv 10)
+- Rock Tomb (Lv 13)
+- Protect (Lv 16)
+- Roar (Lv 19)
+- Magnitude (Lv 21)
+- Iron Head (Lv 22)
+- Rock Slide (Lv 25)
+- Take Down (Lv 28)
+- Stomping Tantrum (Lv 30)
+- Metal Sound (Lv 31)
+- Iron Tail (Lv 34)
+- Salt Cure (Lv 34)
+- Iron Defense (Lv 37)
+- Body Press (Lv 37)
+- Double-Edge (Lv 40)
+- Autotomize (Lv 43)
+- Heavy Slam (Lv 46)
+- Metal Burst (Lv 49)
 
-**Flavor Text**
-> Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.
+**Egg Moves**
+Endeavor, Body Slam, Stomp, Smelling Salts, Curse, Screech, Iron Head, Dragon Rush, Head Smash, Superpower, Stealth Rock, Reversal
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Defense Curl, Double-Edge, Endure, Fury Cutter, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-aron-304-panel-2">
-## Aggron (#306)
-<details class="pokemon-card-container" open>
-<summary>Aggron overview</summary>
-_Iron Armor Pokémon_ • Types: Steel / Rock • Egg Groups: Monster • Base EXP: 239
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Sturdy
-- Rock Head
-- Heavy Metal *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0.25×)
-- Ice (0.5×)
-- Poison (0×)
-- Flying (0.25×)
-- Psychic (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dragon (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Water (2×)
-- Fighting (4×)
-- Ground (4×)
-
-**Evolution Paths**
-- Aron → Lairon (Lv 32) → Aggron (Lv 42)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-high">110</span> |
-| Defense | <span class="stat-value stat-high">180</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">530</span> |
-
-**Notable Level-Up Moves**
-- Harden (Lv 1)
-- Metal Claw (Lv 1)
-- Rock Tomb (Lv 1)
-- Tackle (Lv 1)
-- Roar (Lv 12)
-- Headbutt (Lv 16)
-- Protect (Lv 20)
-- Rock Slide (Lv 24)
-- Iron Head (Lv 28)
-- Metal Sound (Lv 35)
-- Take Down (Lv 40)
-- Autotomize (Lv 48)
-- Iron Tail (Lv 56)
-- Iron Defense (Lv 64)
-- Heavy Slam (Lv 72)
-- Double Edge (Lv 80)
-- Metal Burst (Lv 88)
-</div>
-</div>
-
-**Flavor Text**
-> Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-aron-304-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-aron-304-panel-0 { display: block; }
-#pokemon-tabs-aron-304-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-aron-304-panel-1 { display: block; }
-#pokemon-tabs-aron-304-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-aron-304-panel-2 { display: block; }
-</style>

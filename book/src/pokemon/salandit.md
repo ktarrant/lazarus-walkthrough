@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-salandit-757">
-<input type="radio" name="pokemon-tabs-salandit-757-group" id="pokemon-tabs-salandit-757-tab-0" checked>
-<label for="pokemon-tabs-salandit-757-tab-0">Salandit</label>
-<input type="radio" name="pokemon-tabs-salandit-757-group" id="pokemon-tabs-salandit-757-tab-1">
-<label for="pokemon-tabs-salandit-757-tab-1">Salazzle</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-salandit-757-panel-0">
-## Salandit (#757)
+## Salandit (#160)
 <details class="pokemon-card-container" open>
 <summary>Salandit overview</summary>
-_Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Dragon • Base EXP: 64
+Types: Poison / Fire • Egg Groups: Monster / Dragon • Found: Erinys Path E, Marmaro Island, Areios Hideout (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -33,9 +26,6 @@ _Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Drago
 - Ground (4×)
 - Psychic (2×)
 - Rock (2×)
-
-**Evolution Paths**
-- Salandit → Salazzle (Lv 33)
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (10%)
@@ -56,106 +46,32 @@ _Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Drago
 | Speed | <span class="stat-value stat-mid">77</span> |
 | Total | <span class="stat-value stat-mid">320</span> |
 
-**Notable Level-Up Moves**
-- Poison Gas (Lv 1)
+**Level-Up Moves**
 - Scratch (Lv 1)
-- Smog (Lv 5)
-- Ember (Lv 10)
-- Poison Fang (Lv 15)
-- Sweet Scent (Lv 20)
-- Nasty Plot (Lv 25)
-- Incinerate (Lv 30)
-- Venoshock (Lv 35)
-- Dragon Pulse (Lv 40)
-- Venom Drench (Lv 45)
-- Flamethrower (Lv 50)
-- Toxic (Lv 55)
-- Endeavor (Lv 60)
-</div>
-</div>
-
-**Flavor Text**
-> Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit’s poisonous gas.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-salandit-757-panel-1">
-## Salazzle (#758)
-<details class="pokemon-card-container" open>
-<summary>Salazzle overview</summary>
-_Toxic Lizard Pokémon_ • Types: Poison / Fire • Egg Groups: Monster / Dragon • Base EXP: 168
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Corrosion
-- Oblivious *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.25×)
-- Ice (0.5×)
-- Fighting (0.5×)
-- Poison (0.5×)
-- Bug (0.25×)
-- Steel (0.5×)
-- Fairy (0.25×)
-
-*Weak to*
-- Water (2×)
-- Ground (4×)
-- Psychic (2×)
-- Rock (2×)
-
-**Evolution Paths**
-- Salandit → Salazzle (Lv 33)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">68</span> |
-| Attack | <span class="stat-value stat-mid">64</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
-| Sp. Atk | <span class="stat-value stat-high">111</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-high">117</span> |
-| Total | <span class="stat-value stat-mid">480</span> |
-
-**Notable Level-Up Moves**
-- Disable (Lv 1)
-- Ember (Lv 1)
-- Encore (Lv 1)
-- Endeavor (Lv 1)
-- Fire Lash (Lv 1)
-- Knock Off (Lv 1)
 - Poison Gas (Lv 1)
-- Pound (Lv 1)
-- Scratch (Lv 1)
-- Smog (Lv 1)
-- Swagger (Lv 1)
-- Torment (Lv 1)
-- Poison Fang (Lv 15)
-- Sweet Scent (Lv 20)
-- Nasty Plot (Lv 25)
-- Incinerate (Lv 30)
+- Ember (Lv 5)
+- Sweet Scent (Lv 8)
+- Dragon Rage (Lv 13)
+- Smog (Lv 16)
+- Double Slap (Lv 19)
+- Sludge (Lv 22)
+- Flame Burst (Lv 24)
+- Toxic (Lv 29)
+- Nasty Plot (Lv 32)
+- Fiery Wrath (Lv 35)
 - Venoshock (Lv 37)
-- Dragon Pulse (Lv 44)
-- Venom Drench (Lv 51)
-- Flamethrower (Lv 58)
-- Toxic (Lv 65)
-</div>
-</div>
+- Flamethrower (Lv 40)
+- Venom Drench (Lv 45)
+- Dragon Pulse (Lv 48)
 
-**Flavor Text**
-> Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.
+**Egg Moves**
+Belch, Knock Off, Sand Attack, Snatch, Fake Out
+
+**TM/HM Moves**
+TM02 - Dragon Claw, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM23 - Iron Tail, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM50 - Overheat
+
+**Tutor Moves**
+Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-salandit-757-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-salandit-757-panel-0 { display: block; }
-#pokemon-tabs-salandit-757-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-salandit-757-panel-1 { display: block; }
-</style>

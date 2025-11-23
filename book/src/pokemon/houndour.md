@@ -1,21 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-houndour-228">
-<input type="radio" name="pokemon-tabs-houndour-228-group" id="pokemon-tabs-houndour-228-tab-0" checked>
-<label for="pokemon-tabs-houndour-228-tab-0">Houndour</label>
-<input type="radio" name="pokemon-tabs-houndour-228-group" id="pokemon-tabs-houndour-228-tab-1">
-<label for="pokemon-tabs-houndour-228-tab-1">Houndoom</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-houndour-228-panel-0">
-## Houndour (#228)
+## Houndour (#169)
 <details class="pokemon-card-container" open>
 <summary>Houndour overview</summary>
-_Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 66
+Types: Dark / Fire • Egg Groups: Field • Found: Erinys Path E (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Early Bird
+- Unnerve
 - Flash Fire
-- Unnerve *(Hidden)*
+- Dark Aura *(Hidden)*
 
 **Type Matchups**
 
@@ -33,9 +26,6 @@ _Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 66
 - Fighting (2×)
 - Ground (2×)
 - Rock (2×)
-
-**Evolution Paths**
-- Houndour → Houndoom (Lv 24)
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -50,74 +40,37 @@ _Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 66
 | Defense | <span class="stat-value stat-low">30</span> |
 | Sp. Atk | <span class="stat-value stat-mid">80</span> |
 | Sp. Def | <span class="stat-value stat-low">50</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">330</span> |
-</div>
-</div>
+| Speed | <span class="stat-value stat-mid">70</span> |
+| Total | <span class="stat-value stat-mid">335</span> |
 
-**Flavor Text**
-> Around dawn, its ominous howl echoes through the area to announce that this is its territory.
+**Level-Up Moves**
+- Leer (Lv 1)
+- Ember (Lv 1)
+- Howl (Lv 4)
+- Smog (Lv 8)
+- Roar (Lv 13)
+- Bite (Lv 16)
+- Pounce (Lv 18)
+- Odor Sleuth (Lv 20)
+- Fire Fang (Lv 24)
+- Work Up (Lv 26)
+- Beat Up (Lv 28)
+- Crunch (Lv 32)
+- Embargo (Lv 36)
+- Flamethrower (Lv 39)
+- Foul Play (Lv 42)
+- Dark Pulse (Lv 45)
+- Nasty Plot (Lv 46)
+- Inferno (Lv 56)
+
+**Egg Moves**
+Fire Spin, Rage, Pursuit, Counter, Spite, Reversal, Beat Up, Fire Fang, Thunder Fang, Nasty Plot, Punishment, Feint, Sucker Punch, Destiny Bond
+
+**TM/HM Moves**
+TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM30 - Shadow Ball, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM38 - Fire Blast, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM49 - Snatch, TM50 - Overheat, TM52 - Thunder Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Dream Eater, Endure, Mud-Slap, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-houndour-228-panel-1">
-## Houndoom (#229)
-<details class="pokemon-card-container" open>
-<summary>Houndoom overview</summary>
-_Dark Pokémon_ • Types: Dark / Fire • Egg Groups: Ground • Base EXP: 175
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Early Bird
-- Flash Fire
-- Unnerve *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.5×)
-- Ice (0.5×)
-- Psychic (0×)
-- Ghost (0.5×)
-- Dark (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Water (2×)
-- Fighting (2×)
-- Ground (2×)
-- Rock (2×)
-
-**Evolution Paths**
-- Houndour → Houndoom (Lv 24)
-
-**Encounter Locations**
-- Areios Hideout — Grass (Day) (20%)
-- Areios Hideout — Grass (Night) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">75</span> |
-| Attack | <span class="stat-value stat-mid">90</span> |
-| Defense | <span class="stat-value stat-low">50</span> |
-| Sp. Atk | <span class="stat-value stat-high">110</span> |
-| Sp. Def | <span class="stat-value stat-mid">80</span> |
-| Speed | <span class="stat-value stat-high">95</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
-</div>
-</div>
-
-**Flavor Text**
-> Long ago, people imagined its eerie howls to be the call of the grim reaper.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-houndour-228-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-houndour-228-panel-0 { display: block; }
-#pokemon-tabs-houndour-228-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-houndour-228-panel-1 { display: block; }
-</style>

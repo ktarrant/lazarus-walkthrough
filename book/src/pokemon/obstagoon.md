@@ -1,146 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-obstagoon-862">
-<input type="radio" name="pokemon-tabs-obstagoon-862-group" id="pokemon-tabs-obstagoon-862-tab-0">
-<label for="pokemon-tabs-obstagoon-862-tab-0">Zigzagoon</label>
-<input type="radio" name="pokemon-tabs-obstagoon-862-group" id="pokemon-tabs-obstagoon-862-tab-1">
-<label for="pokemon-tabs-obstagoon-862-tab-1">Linoone</label>
-<input type="radio" name="pokemon-tabs-obstagoon-862-group" id="pokemon-tabs-obstagoon-862-tab-2" checked>
-<label for="pokemon-tabs-obstagoon-862-tab-2">Obstagoon</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-obstagoon-862-panel-0">
-## Zigzagoon (#263)
-<details class="pokemon-card-container" open>
-<summary>Zigzagoon overview</summary>
-_Tiny Raccoon Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 56
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Pickup
-- Gluttony
-- Quick Feet *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Ghost (0×)
-
-*Weak to*
-- Fighting (2×)
-
-**Evolution Paths**
-- Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
-
-**Encounter Locations**
-- Erinys Path (West) — Grass (Day) (10%)
-- Riverwalk Trail (South) — Grass (Day) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">38</span> |
-| Attack | <span class="stat-value stat-low">30</span> |
-| Defense | <span class="stat-value stat-low">41</span> |
-| Sp. Atk | <span class="stat-value stat-low">30</span> |
-| Sp. Def | <span class="stat-value stat-low">41</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-low">240</span> |
-
-**Notable Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Sand Attack (Lv 3)
-- Tail Whip (Lv 6)
-- Covet (Lv 9)
-- Headbutt (Lv 12)
-- Baby Doll Eyes (Lv 15)
-- Pin Missile (Lv 18)
-- Rest (Lv 21)
-- Take Down (Lv 24)
-- Fling (Lv 27)
-- Flail (Lv 30)
-- Belly Drum (Lv 33)
-- Double Edge (Lv 36)
-</div>
-</div>
-
-**Flavor Text**
-> It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-obstagoon-862-panel-1">
-## Linoone (#264)
-<details class="pokemon-card-container" open>
-<summary>Linoone overview</summary>
-_Rushing Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 147
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Pickup
-- Gluttony
-- Quick Feet *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Ghost (0×)
-
-*Weak to*
-- Fighting (2×)
-
-**Evolution Paths**
-- Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
-
-**Encounter Locations**
-- Port Pello — Grass (Day) (10%)
-- Péntepetal City — Grass (Day) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">78</span> |
-| Attack | <span class="stat-value stat-mid">70</span> |
-| Defense | <span class="stat-value stat-mid">61</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-mid">61</span> |
-| Speed | <span class="stat-value stat-high">100</span> |
-| Total | <span class="stat-value stat-mid">420</span> |
-
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1)
-- Growl (Lv 1)
-- Pin Missile (Lv 1)
-- Sand Attack (Lv 1)
-- Slash (Lv 1)
-- Switcheroo (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Covet (Lv 9)
-- Headbutt (Lv 12)
-- Hone Claws (Lv 15)
-- Fury Swipes (Lv 18)
-- Rest (Lv 23)
-- Take Down (Lv 28)
-- Fling (Lv 33)
-- Flail (Lv 38)
-- Belly Drum (Lv 43)
-- Double Edge (Lv 48)
-</div>
-</div>
-
-**Flavor Text**
-> Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-obstagoon-862-panel-2">
-## Obstagoon (#862)
+## Obstagoon (#330)
 <details class="pokemon-card-container" open>
 <summary>Obstagoon overview</summary>
-_Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP: 260
+Types: Dark / Normal • Egg Groups: Field • Found: Areios Hideout (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -161,8 +22,8 @@ _Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP
 - Bug (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Zigzagoon → Linoone (Lv 20) → Obstagoon (Lv 35)
+**Evolution Info**
+Lv. 35, Night
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (10%)
@@ -174,46 +35,44 @@ _Blocking Pokémon_ • Types: Dark / Normal • Egg Groups: Ground • Base EXP
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-high">93</span> |
-| Attack | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">100</span> |
 | Defense | <span class="stat-value stat-high">101</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
 | Sp. Def | <span class="stat-value stat-mid">81</span> |
 | Speed | <span class="stat-value stat-high">95</span> |
 | Total | <span class="stat-value stat-mid">520</span> |
 
-**Notable Level-Up Moves**
-- Baby Doll Eyes (Lv 1)
+**Level-Up Moves**
 - Cross Chop (Lv 1)
-- Leer (Lv 1)
-- Lick (Lv 1)
-- Night Slash (Lv 1)
-- Obstruct (Lv 1)
-- Pin Missile (Lv 1)
-- Sand Attack (Lv 1)
 - Submission (Lv 1)
+- Night Slash (Lv 1)
 - Switcheroo (Lv 1)
+- Pin Missile (Lv 1)
+- Baby-Doll Eyes (Lv 1)
 - Tackle (Lv 1)
+- Leer (Lv 1)
+- Sand Attack (Lv 1)
+- Lick (Lv 1)
 - Snarl (Lv 9)
 - Headbutt (Lv 12)
 - Hone Claws (Lv 15)
 - Fury Swipes (Lv 18)
 - Rest (Lv 23)
 - Take Down (Lv 28)
+- Obstruct (Lv Evo)
 - Scary Face (Lv 35)
 - Counter (Lv 42)
 - Taunt (Lv 49)
-- Double Edge (Lv 56)
-</div>
-</div>
+- Double-Edge (Lv 56)
 
-**Flavor Text**
-> Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.
+**Egg Moves**
+Parting Shot, Quick Guard, Knock Off
+
+**TM/HM Moves**
+TM08 - Bulk Up, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM30 - Shadow Ball, TM31 - Brick Break, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Fire Punch, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Sleep Talk, Snore, Swift, Thunder Punch, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-obstagoon-862-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-obstagoon-862-panel-0 { display: block; }
-#pokemon-tabs-obstagoon-862-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-obstagoon-862-panel-1 { display: block; }
-#pokemon-tabs-obstagoon-862-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-obstagoon-862-panel-2 { display: block; }
-</style>

@@ -1,67 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-grafaiai-945">
-<input type="radio" name="pokemon-tabs-grafaiai-945-group" id="pokemon-tabs-grafaiai-945-tab-0">
-<label for="pokemon-tabs-grafaiai-945-tab-0">Shroodle</label>
-<input type="radio" name="pokemon-tabs-grafaiai-945-group" id="pokemon-tabs-grafaiai-945-tab-1" checked>
-<label for="pokemon-tabs-grafaiai-945-tab-1">Grafaiai</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-grafaiai-945-panel-0">
-## Shroodle (#944)
-<details class="pokemon-card-container" open>
-<summary>Shroodle overview</summary>
-_Toxic Mouse Pokémon_ • Types: Poison / Normal • Egg Groups: Ground • Base EXP: 58
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Unburden
-- Pickpocket
-- Prankster *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.5×)
-- Poison (0.5×)
-- Bug (0.5×)
-- Ghost (0×)
-- Fairy (0.5×)
-
-*Weak to*
-- Ground (2×)
-- Psychic (2×)
-
-**Evolution Paths**
-- Shroodle → Grafaiai (Lv 28)
-
-**Encounter Locations**
-- Asfal Hills — Grass (Night) (5%)
-- Kalami City — Grass (Day) (9%)
-- Kalami City — Grass (Night) (9%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">40</span> |
-| Attack | <span class="stat-value stat-mid">65</span> |
-| Defense | <span class="stat-value stat-low">35</span> |
-| Sp. Atk | <span class="stat-value stat-low">40</span> |
-| Sp. Def | <span class="stat-value stat-low">35</span> |
-| Speed | <span class="stat-value stat-mid">75</span> |
-| Total | <span class="stat-value stat-low">290</span> |
-</div>
-</div>
-
-**Flavor Text**
-> To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-grafaiai-945-panel-1">
-## Grafaiai (#945)
+## Grafaiai (#217)
 <details class="pokemon-card-container" open>
 <summary>Grafaiai overview</summary>
-_Toxic Monkey Pokémon_ • Types: Poison / Normal • Egg Groups: Ground • Base EXP: 170
+Types: Poison / Normal • Egg Groups: Field • Found: Palati City (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -83,8 +23,8 @@ _Toxic Monkey Pokémon_ • Types: Poison / Normal • Egg Groups: Ground • Ba
 - Ground (2×)
 - Psychic (2×)
 
-**Evolution Paths**
-- Shroodle → Grafaiai (Lv 28)
+**Evolution Info**
+Lv. 28
 
 **Encounter Locations**
 - Palati City — Grass (Night) (10%)
@@ -94,23 +34,43 @@ _Toxic Monkey Pokémon_ • Types: Poison / Normal • Egg Groups: Ground • Ba
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">63</span> |
+| HP | <span class="stat-value stat-mid">73</span> |
 | Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-mid">65</span> |
-| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
+| Sp. Atk | <span class="stat-value stat-mid">78</span> |
 | Sp. Def | <span class="stat-value stat-mid">72</span> |
-| Speed | <span class="stat-value stat-high">110</span> |
-| Total | <span class="stat-value stat-mid">485</span> |
-</div>
-</div>
+| Speed | <span class="stat-value stat-high">112</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
-**Flavor Text**
-> Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life.
+**Level-Up Moves**
+- Scratch (Lv 1)
+- Leer (Lv 1)
+- Acid Spray (Lv 5)
+- Fury Swipes (Lv 8)
+- Switcheroo (Lv 11)
+- Poison Fang (Lv 14)
+- Pounce (Lv 16)
+- Flatter (Lv 18)
+- Slash (Lv 21)
+- U-Turn (Lv 25)
+- Doodle (Lv Evo)
+- Poison Jab (Lv 29)
+- Taunt (Lv 33)
+- Jungle Healing (Lv 35)
+- Substitute (Lv 37)
+- Knock Off (Lv 40)
+- Gunk Shot (Lv 43)
+- Flower Trick (Lv 46)
+- Barb Barrage (Lv 50)
+
+**Egg Moves**
+Copycat, Cross Poison, Parting Shot, Super Fang, Swagger, Toxic
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM36 - Sludge Bomb, TM42 - Facade, TM44 - Rest, TM46 - Thief
+
+**Tutor Moves**
+Double-Edge, Endure, Metronome, Mud-Slap, Psych Up, Sleep Talk, Swagger, Swords Dance
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-grafaiai-945-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-grafaiai-945-panel-0 { display: block; }
-#pokemon-tabs-grafaiai-945-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-grafaiai-945-panel-1 { display: block; }
-</style>

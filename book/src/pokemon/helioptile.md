@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-helioptile-694">
-<input type="radio" name="pokemon-tabs-helioptile-694-group" id="pokemon-tabs-helioptile-694-tab-0" checked>
-<label for="pokemon-tabs-helioptile-694-tab-0">Helioptile</label>
-<input type="radio" name="pokemon-tabs-helioptile-694-group" id="pokemon-tabs-helioptile-694-tab-1">
-<label for="pokemon-tabs-helioptile-694-tab-1">Heliolisk</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-helioptile-694-panel-0">
-## Helioptile (#694)
+## Helioptile (#298)
 <details class="pokemon-card-container" open>
 <summary>Helioptile overview</summary>
-_Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Dragon • Base EXP: 58
+Types: Electric / Normal • Egg Groups: Dragon / Monster • Found: ?
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -28,9 +21,6 @@ _Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Drag
 *Weak to*
 - Fighting (2×)
 - Ground (2×)
-
-**Evolution Paths**
-- Helioptile → Heliolisk (Use Sun Stone)
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (5%)
@@ -51,94 +41,30 @@ _Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Drag
 | Speed | <span class="stat-value stat-mid">70</span> |
 | Total | <span class="stat-value stat-low">289</span> |
 
-**Notable Level-Up Moves**
-- Mud Slap (Lv 1)
-- Tail Whip (Lv 1)
-- Pound (Lv 4)
-- Thunder Shock (Lv 8)
-- Quick Attack (Lv 12)
-- Charge (Lv 16)
-- Bulldoze (Lv 20)
-- Volt Switch (Lv 24)
-- Parabolic Charge (Lv 28)
-- Thunder Wave (Lv 32)
-- Thunderbolt (Lv 36)
-- Electrify (Lv 40)
-- Thunder (Lv 44)
-</div>
-</div>
-
-**Flavor Text**
-> When spread, the frills on its head act like solar panels, generating the power behind this Pokémon’s electric moves.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-helioptile-694-panel-1">
-## Heliolisk (#695)
-<details class="pokemon-card-container" open>
-<summary>Heliolisk overview</summary>
-_Generator Pokémon_ • Types: Electric / Normal • Egg Groups: Monster / Dragon • Base EXP: 168
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Dry Skin
-- Sand Veil
-- Solar Power *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0.5×)
-- Flying (0.5×)
-- Ghost (0×)
-- Steel (0.5×)
-
-*Weak to*
-- Fighting (2×)
-- Ground (2×)
-
-**Evolution Paths**
-- Helioptile → Heliolisk (Use Sun Stone)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">62</span> |
-| Attack | <span class="stat-value stat-mid">55</span> |
-| Defense | <span class="stat-value stat-mid">52</span> |
-| Sp. Atk | <span class="stat-value stat-high">109</span> |
-| Sp. Def | <span class="stat-value stat-high">94</span> |
-| Speed | <span class="stat-value stat-high">109</span> |
-| Total | <span class="stat-value stat-mid">481</span> |
-
-**Notable Level-Up Moves**
-- Bulldoze (Lv 1)
-- Charge (Lv 1)
-- Discharge (Lv 1)
-- Eerie Impulse (Lv 1)
-- Electrify (Lv 1)
-- Mud Slap (Lv 1)
-- Parabolic Charge (Lv 1)
+**Level-Up Moves**
 - Pound (Lv 1)
-- Quick Attack (Lv 1)
 - Tail Whip (Lv 1)
-- Thunder (Lv 1)
-- Thunder Shock (Lv 1)
-- Thunder Wave (Lv 1)
-- Thunderbolt (Lv 1)
-- Volt Switch (Lv 1)
-</div>
-</div>
+- Thunder Shock (Lv 6)
+- Charge (Lv 11)
+- Mud-Slap (Lv 13)
+- Quick Attack (Lv 17)
+- Uproar (Lv 22)
+- Parabolic Charge (Lv 25)
+- Nuzzle (Lv 27)
+- Thunder Wave (Lv 31)
+- Bulldoze (Lv 34)
+- Volt Switch (Lv 37)
+- Electrify (Lv 40)
+- Thunderbolt (Lv 44)
 
-**Flavor Text**
-> A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.
+**Egg Moves**
+Agility, Glare, Camouflage, Electric Terrain
+
+**TM/HM Moves**
+TM06 - Toxic, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM28 - Dig, TM32 - Double Team, TM34 - Shock Wave, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM01 - Cut, HM03 - Surf, HM05 - Flash
+
+**Tutor Moves**
+Endure, Mud-Slap, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-helioptile-694-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-helioptile-694-panel-0 { display: block; }
-#pokemon-tabs-helioptile-694-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-helioptile-694-panel-1 { display: block; }
-</style>

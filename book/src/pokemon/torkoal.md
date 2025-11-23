@@ -1,7 +1,7 @@
-## Torkoal (#324)
+## Torkoal (#313)
 <details class="pokemon-card-container" open>
 <summary>Torkoal overview</summary>
-_Coal Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 165
+Types: Fire • Egg Groups: Field • Found: Corrin Crossing, Kalami City? (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,9 +25,6 @@ _Coal Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 165
 - Ground (2×)
 - Rock (2×)
 
-**Evolution Paths**
-- Torkoal
-
 **Encounter Locations**
 - Corrin Crossing — Grass (Day) (2%)
 - Corrin Crossing — Grass (Night) (2%)
@@ -45,28 +42,35 @@ _Coal Pokémon_ • Types: Fire • Egg Groups: Ground • Base EXP: 165
 | Speed | <span class="stat-value stat-low">20</span> |
 | Total | <span class="stat-value stat-mid">470</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Ember (Lv 1)
-- Smog (Lv 1)
-- Withdraw (Lv 4)
-- Rapid Spin (Lv 8)
-- Smokescreen (Lv 12)
-- Clear Smog (Lv 16)
-- Flame Wheel (Lv 20)
-- Protect (Lv 24)
-- Lava Plume (Lv 28)
-- Body Slam (Lv 32)
-- Iron Defense (Lv 36)
-- Flamethrower (Lv 40)
-- Curse (Lv 44)
-- Heat Wave (Lv 48)
-- Amnesia (Lv 52)
-- Inferno (Lv 56)
-- Shell Smash (Lv 60)
-- Eruption (Lv 64)
-</div>
-</div>
+- Smog (Lv 4)
+- Withdraw (Lv 7)
+- Rapid Spin (Lv 10)
+- Fire Spin (Lv 13)
+- Smokescreen (Lv 15)
+- Flame Wheel (Lv 18)
+- Rollout (Lv 20)
+- Curse (Lv 22)
+- Lava Plume (Lv 25)
+- Body Slam (Lv 27)
+- Protect (Lv 30)
+- Flamethrower (Lv 34)
+- Iron Defense (Lv 38)
+- Amnesia (Lv 40)
+- Flail (Lv 42)
+- Heat Wave (Lv 45)
+- Shell Smash (Lv 47)
+- Inferno (Lv 50)
 
-**Flavor Text**
-> It burns coal inside its shell for energy. It blows out black soot if it is endangered.
+**Egg Moves**
+Eruption, Endure, Sleep Talk, Yawn, Fissure, Skull Bash, Flame Burst, Clear Smog, Superpower
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM22 - Solar Beam, TM23 - Iron Tail, TM26 - Earthquake, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat, TM56 - Stomping Tantrum, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Explosion, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>

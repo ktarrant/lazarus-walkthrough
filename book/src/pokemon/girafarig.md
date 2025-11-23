@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-girafarig-203">
-<input type="radio" name="pokemon-tabs-girafarig-203-group" id="pokemon-tabs-girafarig-203-tab-0" checked>
-<label for="pokemon-tabs-girafarig-203-tab-0">Girafarig</label>
-<input type="radio" name="pokemon-tabs-girafarig-203-group" id="pokemon-tabs-girafarig-203-tab-1">
-<label for="pokemon-tabs-girafarig-203-tab-1">Farigiraf</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-girafarig-203-panel-0">
-## Girafarig (#203)
+## Girafarig (#346)
 <details class="pokemon-card-container" open>
 <summary>Girafarig overview</summary>
-_Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 159
+Types: Normal / Psychic • Egg Groups: Field • Found: Corrin Crossing, Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -26,9 +19,6 @@ _Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base
 *Weak to*
 - Bug (2×)
 - Dark (2×)
-
-**Evolution Paths**
-- Girafarig → Farigiraf (Learn Twin Beam)
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Night) (10%)
@@ -48,65 +38,33 @@ _Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">455</span> |
-</div>
-</div>
 
-**Flavor Text**
-> While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep.
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Growl (Lv 1)
+- Astonish (Lv 1)
+- Power Swap (Lv 1)
+- Guard Swap (Lv 1)
+- Confusion (Lv 5)
+- Assurance (Lv 10)
+- Stomp (Lv 14)
+- Psybeam (Lv 19)
+- Agility (Lv 23)
+- Double Hit (Lv 28)
+- Twin Beam (Lv 32)
+- Crunch (Lv 37)
+- Baton Pass (Lv 41)
+- Nasty Plot (Lv 46)
+- Psychic (Lv 50)
+
+**Egg Moves**
+Take Down, Amnesia, Foresight, Future Sight, Beat Up, Wish, Magic Coat, Double Kick, Mirror Coat, Razor Wind, Skill Swap, Secret Power, Mean Look, Psychic Terrain, Psychic Fangs
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM55 - Psychic Fangs, TM56 - Stomping Tantrum, TM57 - Dazzling Gleam, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-girafarig-203-panel-1">
-## Farigiraf (#981)
-<details class="pokemon-card-container" open>
-<summary>Farigiraf overview</summary>
-_Long Neck Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 260
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Cud Chew
-- Armor Tail
-- Sap Sipper *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Psychic (0.5×)
-- Ghost (0×)
-
-*Weak to*
-- Bug (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Girafarig → Farigiraf (Learn Twin Beam)
-
-**Encounter Locations**
-- Corrin Crossing — Grass (Night) (5%)
-- Wakewater Isle — Grass (Day) (2%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">120</span> |
-| Attack | <span class="stat-value stat-mid">90</span> |
-| Defense | <span class="stat-value stat-mid">70</span> |
-| Sp. Atk | <span class="stat-value stat-high">110</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-mid">520</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-girafarig-203-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-girafarig-203-panel-0 { display: block; }
-#pokemon-tabs-girafarig-203-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-girafarig-203-panel-1 { display: block; }
-</style>

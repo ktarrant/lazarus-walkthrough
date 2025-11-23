@@ -1,16 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-duskull-355">
-<input type="radio" name="pokemon-tabs-duskull-355-group" id="pokemon-tabs-duskull-355-tab-0" checked>
-<label for="pokemon-tabs-duskull-355-tab-0">Duskull</label>
-<input type="radio" name="pokemon-tabs-duskull-355-group" id="pokemon-tabs-duskull-355-tab-1">
-<label for="pokemon-tabs-duskull-355-tab-1">Dusclops</label>
-<input type="radio" name="pokemon-tabs-duskull-355-group" id="pokemon-tabs-duskull-355-tab-2">
-<label for="pokemon-tabs-duskull-355-tab-2">Dusknoir</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-duskull-355-panel-0">
-## Duskull (#355)
+## Duskull (#371)
 <details class="pokemon-card-container" open>
 <summary>Duskull overview</summary>
-_Requiem Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 59
+Types: Ghost • Egg Groups: Amorphous • Found: Pythios Cemetery, The Nyx Trails (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -30,9 +21,6 @@ _Requiem Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 
 - Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Duskull → Dusclops (Lv 37) → Dusknoir (Hold Reaper Cloth)
-
 **Encounter Locations**
 - Nyx Trails — Grass (Night) (10%)
 - Pythios Cemetery — Grass (Night) (8%)
@@ -51,170 +39,35 @@ _Requiem Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 
 | Speed | <span class="stat-value stat-low">25</span> |
 | Total | <span class="stat-value stat-low">295</span> |
 
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
+**Level-Up Moves**
 - Leer (Lv 1)
-- Disable (Lv 4)
-- Shadow Sneak (Lv 8)
-- Confuse Ray (Lv 12)
-- Night Shade (Lv 16)
-- Payback (Lv 20)
-- Will O Wisp (Lv 24)
-- Mean Look (Lv 28)
-- Hex (Lv 32)
-- Curse (Lv 36)
-- Shadow Ball (Lv 40)
-- Future Sight (Lv 44)
-</div>
-</div>
+- Night Shade (Lv 1)
+- Disable (Lv 6)
+- Astonish (Lv 9)
+- Foresight (Lv 14)
+- Shadow Sneak (Lv 17)
+- Pursuit (Lv 22)
+- Will-O-Wisp (Lv 25)
+- Headbutt (Lv 27)
+- Confuse Ray (Lv 30)
+- Curse (Lv 33)
+- Hex (Lv 38)
+- Shadow Ball (Lv 41)
+- Body Slam (Lv 43)
+- Infernal Parade (Lv 45)
+- Mean Look (Lv 46)
+- Payback (Lv 49)
+- Fiery Wrath (Lv 51)
+- Future Sight (Lv 54)
 
-**Flavor Text**
-> If it finds bad children who won’t listen to their parents, it will spirit them away—or so it’s said.
+**Egg Moves**
+Imprison, Destiny Bond, Pain Split, Grudge, Memento, Feint Attack, Ominous Wind, Dark Pulse, Skill Swap, Haze
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, TM49 - Snatch, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-duskull-355-panel-1">
-## Dusclops (#356)
-<details class="pokemon-card-container" open>
-<summary>Dusclops overview</summary>
-_Beckon Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 159
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Pressure
-- Frisk *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0×)
-- Fighting (0×)
-- Poison (0.5×)
-- Bug (0.5×)
-
-*Weak to*
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Duskull → Dusclops (Lv 37) → Dusknoir (Hold Reaper Cloth)
-
-**Encounter Locations**
-- Nyx Trails — Grass (Day) (4%)
-- Nyx Trails — Grass (Night) (4%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">40</span> |
-| Attack | <span class="stat-value stat-mid">70</span> |
-| Defense | <span class="stat-value stat-high">130</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-high">130</span> |
-| Speed | <span class="stat-value stat-low">25</span> |
-| Total | <span class="stat-value stat-mid">455</span> |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
-- Bind (Lv 1)
-- Disable (Lv 1)
-- Fire Punch (Lv 1)
-- Gravity (Lv 1)
-- Ice Punch (Lv 1)
-- Leer (Lv 1)
-- Shadow Punch (Lv 1)
-- Shadow Sneak (Lv 1)
-- Thunder Punch (Lv 1)
-- Confuse Ray (Lv 12)
-- Night Shade (Lv 16)
-- Payback (Lv 20)
-- Will O Wisp (Lv 24)
-- Mean Look (Lv 28)
-- Hex (Lv 32)
-- Curse (Lv 36)
-- Shadow Ball (Lv 42)
-- Future Sight (Lv 48)
-</div>
-</div>
-
-**Flavor Text**
-> Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-duskull-355-panel-2">
-## Dusknoir (#477)
-<details class="pokemon-card-container" open>
-<summary>Dusknoir overview</summary>
-_Gripper Pokémon_ • Types: Ghost • Egg Groups: Indeterminate • Base EXP: 236
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Pressure
-- Frisk *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0×)
-- Fighting (0×)
-- Poison (0.5×)
-- Bug (0.5×)
-
-*Weak to*
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Duskull → Dusclops (Lv 37) → Dusknoir (Hold Reaper Cloth)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">45</span> |
-| Attack | <span class="stat-value stat-high">100</span> |
-| Defense | <span class="stat-value stat-high">135</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-high">135</span> |
-| Speed | <span class="stat-value stat-low">45</span> |
-| Total | <span class="stat-value stat-mid">525</span> |
-
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
-- Bind (Lv 1)
-- Disable (Lv 1)
-- Fire Punch (Lv 1)
-- Gravity (Lv 1)
-- Ice Punch (Lv 1)
-- Leer (Lv 1)
-- Shadow Punch (Lv 1)
-- Shadow Sneak (Lv 1)
-- Thunder Punch (Lv 1)
-- Confuse Ray (Lv 12)
-- Night Shade (Lv 16)
-- Payback (Lv 20)
-- Will O Wisp (Lv 24)
-- Mean Look (Lv 28)
-- Hex (Lv 32)
-- Curse (Lv 36)
-- Shadow Ball (Lv 42)
-- Future Sight (Lv 48)
-- Destiny Bond (Lv 54)
-</div>
-</div>
-
-**Flavor Text**
-> At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-duskull-355-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-duskull-355-panel-0 { display: block; }
-#pokemon-tabs-duskull-355-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-duskull-355-panel-1 { display: block; }
-#pokemon-tabs-duskull-355-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-duskull-355-panel-2 { display: block; }
-</style>

@@ -1,19 +1,12 @@
-<div class="pokemon-tabs" id="pokemon-tabs-kabuto-140">
-<input type="radio" name="pokemon-tabs-kabuto-140-group" id="pokemon-tabs-kabuto-140-tab-0" checked>
-<label for="pokemon-tabs-kabuto-140-tab-0">Kabuto</label>
-<input type="radio" name="pokemon-tabs-kabuto-140-group" id="pokemon-tabs-kabuto-140-tab-1">
-<label for="pokemon-tabs-kabuto-140-tab-1">Kabutops</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-kabuto-140-panel-0">
-## Kabuto (#140)
+## Kabuto (#173)
 <details class="pokemon-card-container" open>
 <summary>Kabuto overview</summary>
-_Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Base EXP: 71
+Types: Rock / Water • Egg Groups: Water 1 / Water 3 • Found: Erinys Path E (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Swift Swim
+- Sharpness
 - Battle Armor
 - Weak Armor *(Hidden)*
 
@@ -31,9 +24,6 @@ _Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 •
 - Grass (4×)
 - Fighting (2×)
 - Ground (2×)
-
-**Evolution Paths**
-- Kabuto → Kabutops (Lv 40)
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -52,100 +42,30 @@ _Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 •
 | Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">355</span> |
 
-**Notable Level-Up Moves**
-- Absorb (Lv 1)
-- Harden (Lv 1)
-- Scratch (Lv 5)
-- Sand Attack (Lv 10)
-- Aqua Jet (Lv 15)
-- Leer (Lv 20)
-- Mud Shot (Lv 25)
-- Ancient Power (Lv 30)
-- Brine (Lv 35)
-- Protect (Lv 41)
-- Leech Life (Lv 45)
-- Liquidation (Lv 50)
-- Metal Sound (Lv 55)
-- Stone Edge (Lv 60)
-</div>
-</div>
-
-**Flavor Text**
-> This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-kabuto-140-panel-1">
-## Kabutops (#141)
-<details class="pokemon-card-container" open>
-<summary>Kabutops overview</summary>
-_Shellfish Pokémon_ • Types: Rock / Water • Egg Groups: Water1 / Water3 • Base EXP: 173
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Swift Swim
-- Battle Armor
-- Weak Armor *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0.5×)
-- Fire (0.25×)
-- Ice (0.5×)
-- Poison (0.5×)
-- Flying (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (4×)
-- Fighting (2×)
-- Ground (2×)
-
-**Evolution Paths**
-- Kabuto → Kabutops (Lv 40)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-high">115</span> |
-| Defense | <span class="stat-value stat-high">105</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-mid">70</span> |
-| Speed | <span class="stat-value stat-mid">80</span> |
-| Total | <span class="stat-value stat-mid">495</span> |
-
-**Notable Level-Up Moves**
-- Absorb (Lv 1)
-- Feint (Lv 1)
-- Harden (Lv 1)
-- Night Slash (Lv 1)
-- Sand Attack (Lv 1)
+**Level-Up Moves**
 - Scratch (Lv 1)
-- Slash (Lv 1)
-- Aqua Jet (Lv 15)
-- Leer (Lv 20)
-- Mud Shot (Lv 25)
-- Ancient Power (Lv 30)
-- Brine (Lv 35)
-- Protect (Lv 43)
-- Leech Life (Lv 49)
-- Liquidation (Lv 56)
-- Metal Sound (Lv 63)
-- Stone Edge (Lv 70)
-</div>
-</div>
+- Harden (Lv 1)
+- Absorb (Lv 6)
+- Leer (Lv 11)
+- Mud Shot (Lv 16)
+- Sand Attack (Lv 21)
+- Fury Cutter (Lv 26)
+- Endure (Lv 29)
+- Aqua Jet (Lv 31)
+- Aqua Cutter (Lv 36)
+- Cross Poison (Lv 39)
+- Stone Axe (Lv 41)
+- Ancient Power (Lv 46)
+- Wring Out (Lv 50)
 
-**Flavor Text**
-> Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.
+**Egg Moves**
+Bubble Beam, Aurora Beam, Rapid Spin, Flail, Knock Off, Confuse Ray, Mud Shot, Icy Wind, Screech, Giga Drain, Foresight, Take Down
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM28 - Dig, TM32 - Double Team, TM33 - Reflect, TM37 - Sandstorm, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM06 - Rock Smash, HM07 - Waterfall
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Icy Wind, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-kabuto-140-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-kabuto-140-panel-0 { display: block; }
-#pokemon-tabs-kabuto-140-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-kabuto-140-panel-1 { display: block; }
-</style>

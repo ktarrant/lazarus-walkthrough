@@ -1,7 +1,7 @@
-## Klawf (#950)
+## Klawf (#117)
 <details class="pokemon-card-container" open>
 <summary>Klawf overview</summary>
-_Ambush Pokémon_ • Types: Rock • Egg Groups: Water3 • Base EXP: 158
+Types: Rock • Egg Groups: Water 3 • Found: Acrisia Mountains, Palati City (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,9 +25,6 @@ _Ambush Pokémon_ • Types: Rock • Egg Groups: Water3 • Base EXP: 158
 - Ground (2×)
 - Steel (2×)
 
-**Evolution Paths**
-- Klawf
-
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (2%)
 - Acrisia Mountains — Grass (Night) (10%)
@@ -46,9 +43,36 @@ _Ambush Pokémon_ • Types: Rock • Egg Groups: Water3 • Base EXP: 158
 | Sp. Def | <span class="stat-value stat-mid">55</span> |
 | Speed | <span class="stat-value stat-mid">75</span> |
 | Total | <span class="stat-value stat-mid">450</span> |
-</div>
-</div>
 
-**Flavor Text**
-> This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws.
+**Level-Up Moves**
+- Vise Grip (Lv 1)
+- Rock Throw (Lv 1)
+- Harden (Lv 6)
+- Rock Smash (Lv 9)
+- Rock Tomb (Lv 13)
+- Fury Cutter (Lv 15)
+- Metal Claw (Lv 17)
+- Protect (Lv 21)
+- Rock Blast (Lv 24)
+- Crush Claw (Lv 27)
+- X-Scissor (Lv 29)
+- Swords Dance (Lv 33)
+- Crabhammer (Lv 35)
+- Flail (Lv 37)
+- Rock Slide (Lv 42)
+- High Horsepower (Lv 45)
+- Strength (Lv 48)
+- Iron Defense (Lv 51)
+- Guillotine (Lv 56)
+
+**Egg Moves**
+Ancient Power, Crabhammer, Endeavor, Knock Off
+
+**TM/HM Moves**
+TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM37 - Sandstorm, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM46 - Thief, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Endure, Mud-Slap, Rock Slide, Sleep Talk, Swords Dance
+</div>
+</div>
 </details>

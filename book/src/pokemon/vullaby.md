@@ -1,19 +1,12 @@
-<div class="pokemon-tabs" id="pokemon-tabs-vullaby-629">
-<input type="radio" name="pokemon-tabs-vullaby-629-group" id="pokemon-tabs-vullaby-629-tab-0" checked>
-<label for="pokemon-tabs-vullaby-629-tab-0">Vullaby</label>
-<input type="radio" name="pokemon-tabs-vullaby-629-group" id="pokemon-tabs-vullaby-629-tab-1">
-<label for="pokemon-tabs-vullaby-629-tab-1">Mandibuzz</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-629-panel-0">
-## Vullaby (#629)
+## Vullaby (#107)
 <details class="pokemon-card-container" open>
 <summary>Vullaby overview</summary>
-_Diapered Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP: 74
+Types: Dark / Flying • Egg Groups: Flying • Found: Bronze Fields S, Acrisia Mountains, Pythios Town, Sea of Asteri (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Big Pecks
+- Regenerator
 - Overcoat
 - Weak Armor *(Hidden)*
 
@@ -31,9 +24,6 @@ _Diapered Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP
 - Ice (2×)
 - Rock (2×)
 - Fairy (2×)
-
-**Evolution Paths**
-- Vullaby → Mandibuzz (Lv 54)
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -55,100 +45,34 @@ _Diapered Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">370</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Gust (Lv 1)
 - Leer (Lv 1)
-- Flatter (Lv 6)
-- Pluck (Lv 12)
-- Tailwind (Lv 18)
-- Knock Off (Lv 24)
-- Iron Defense (Lv 30)
-- Whirlwind (Lv 36)
-- Air Slash (Lv 42)
-- Dark Pulse (Lv 48)
-- Nasty Plot (Lv 54)
-- Defog (Lv 60)
-- Attract (Lv 66)
-- Brave Bird (Lv 72)
-</div>
-</div>
+- Pursuit (Lv 5)
+- Pluck (Lv 10)
+- Work Up (Lv 14)
+- Flatter (Lv 19)
+- Feint Attack (Lv 23)
+- U-Turn (Lv 28)
+- Defog (Lv 32)
+- Tailwind (Lv 37)
+- Shadow Bone (Lv 39)
+- Drill Peck (Lv 41)
+- False Surrender (Lv 46)
+- Leech Life (Lv 50)
+- Embargo (Lv 52)
+- Whirlwind (Lv 55)
+- Brave Bird (Lv 59)
+- Mirror Move (Lv 64)
 
-**Flavor Text**
-> It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.
+**Egg Moves**
+Steel Wing, Mean Look, Roost, Scary Face, Knock Off, Fake Tears, Foul Play
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM18 - Rain Dance, TM30 - Shadow Ball, TM32 - Double Team, TM39 - Rock Tomb, TM40 - Aerial Ace, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM47 - Steel Wing, TM49 - Snatch, HM01 - Cut, HM02 - Fly, HM06 - Rock Smash
+
+**Tutor Moves**
+Double-Edge, Endure, Psych Up, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-629-panel-1">
-## Mandibuzz (#630)
-<details class="pokemon-card-container" open>
-<summary>Mandibuzz overview</summary>
-_Bone Vulture Pokémon_ • Types: Dark / Flying • Egg Groups: Flying • Base EXP: 179
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Big Pecks
-- Overcoat
-- Weak Armor *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Grass (0.5×)
-- Ground (0×)
-- Psychic (0×)
-- Ghost (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Ice (2×)
-- Rock (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Vullaby → Mandibuzz (Lv 54)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">110</span> |
-| Attack | <span class="stat-value stat-mid">65</span> |
-| Defense | <span class="stat-value stat-high">105</span> |
-| Sp. Atk | <span class="stat-value stat-mid">55</span> |
-| Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-mid">80</span> |
-| Total | <span class="stat-value stat-mid">510</span> |
-
-**Notable Level-Up Moves**
-- Bone Rush (Lv 1)
-- Flatter (Lv 1)
-- Gust (Lv 1)
-- Leer (Lv 1)
-- Pluck (Lv 1)
-- Sky Attack (Lv 1)
-- Toxic (Lv 1)
-- Tailwind (Lv 18)
-- Knock Off (Lv 24)
-- Iron Defense (Lv 30)
-- Whirlwind (Lv 36)
-- Air Slash (Lv 42)
-- Dark Pulse (Lv 48)
-- Nasty Plot (Lv 57)
-- Defog (Lv 64)
-- Attract (Lv 72)
-- Brave Bird (Lv 80)
-</div>
-</div>
-
-**Flavor Text**
-> Although it’s a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they’re ready to leave the nest.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-vullaby-629-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-629-panel-0 { display: block; }
-#pokemon-tabs-vullaby-629-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-629-panel-1 { display: block; }
-</style>

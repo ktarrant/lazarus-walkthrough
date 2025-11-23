@@ -1,21 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-stantler-234">
-<input type="radio" name="pokemon-tabs-stantler-234-group" id="pokemon-tabs-stantler-234-tab-0" checked>
-<label for="pokemon-tabs-stantler-234-tab-0">Stantler</label>
-<input type="radio" name="pokemon-tabs-stantler-234-group" id="pokemon-tabs-stantler-234-tab-1">
-<label for="pokemon-tabs-stantler-234-tab-1">Wyrdeer</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-stantler-234-panel-0">
-## Stantler (#234)
+## Stantler (#184)
 <details class="pokemon-card-container" open>
 <summary>Stantler overview</summary>
-_Big Horn Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 163
+Types: Normal • Egg Groups: Field • Found: Erinys Path W (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Intimidate
-- Frisk
-- Sap Sipper *(Hidden)*
+- Sap Sipper
+- Frisk *(Hidden)*
 
 **Type Matchups**
 
@@ -24,9 +17,6 @@ _Big Horn Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 163
 
 *Weak to*
 - Fighting (2×)
-
-**Evolution Paths**
-- Stantler → Wyrdeer (Learn Psyshield Bash)
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Night) (20%)
@@ -39,67 +29,41 @@ _Big Horn Pokémon_ • Types: Normal • Egg Groups: Ground • Base EXP: 163
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-mid">73</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
 | Defense | <span class="stat-value stat-mid">62</span> |
-| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
 | Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">465</span> |
-</div>
-</div>
 
-**Flavor Text**
-> Staring at its antlers creates an odd sensation as if one were being drawn into their centers.
+**Level-Up Moves**
+- Me First (Lv 1)
+- Tackle (Lv 1)
+- Leer (Lv 3)
+- Astonish (Lv 7)
+- Hypnosis (Lv 10)
+- Stomp (Lv 13)
+- Sand Attack (Lv 16)
+- Confusion (Lv 18)
+- Take Down (Lv 21)
+- Confuse Ray (Lv 23)
+- Calm Mind (Lv 27)
+- Psyshield Bash (Lv 30)
+- Role Play (Lv 33)
+- Zen Headbutt (Lv 38)
+- Jump Kick (Lv 43)
+- Imprison (Lv 49)
+- Captivate (Lv 50)
+- Me First (Lv 55)
+
+**Egg Moves**
+Spite, Disable, Bite, Extrasensory, Thrash, Double Kick, Zen Headbutt, Megahorn, Mud Sport, Rage, Me First
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, TM48 - Skill Swap, HM05 - Flash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Dream Eater, Endure, Mud-Slap, Psych Up, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-stantler-234-panel-1">
-## Wyrdeer (#899)
-<details class="pokemon-card-container" open>
-<summary>Wyrdeer overview</summary>
-_Big Horn Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 263
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Intimidate
-- Frisk
-- Sap Sipper *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Psychic (0.5×)
-- Ghost (0×)
-
-*Weak to*
-- Bug (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Stantler → Wyrdeer (Learn Psyshield Bash)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">103</span> |
-| Attack | <span class="stat-value stat-high">105</span> |
-| Defense | <span class="stat-value stat-mid">72</span> |
-| Sp. Atk | <span class="stat-value stat-high">105</span> |
-| Sp. Def | <span class="stat-value stat-mid">75</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">525</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-stantler-234-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-stantler-234-panel-0 { display: block; }
-#pokemon-tabs-stantler-234-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-stantler-234-panel-1 { display: block; }
-</style>

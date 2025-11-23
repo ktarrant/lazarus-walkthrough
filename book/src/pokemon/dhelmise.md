@@ -1,7 +1,7 @@
-## Dhelmise (#781)
+## Dhelmise (#387)
 <details class="pokemon-card-container" open>
 <summary>Dhelmise overview</summary>
-_Sea Creeper Pokémon_ • Types: Ghost / Grass • Egg Groups: Mineral • Base EXP: 181
+Types: Ghost / Grass • Egg Groups: Mineral • Found: Palati City (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -25,9 +25,6 @@ _Sea Creeper Pokémon_ • Types: Ghost / Grass • Egg Groups: Mineral • Base
 - Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Dhelmise
-
 **Encounter Locations**
 - Davosi Straits — Surfing (5%)
 - Palati City — Fishing (5%)
@@ -38,36 +35,41 @@ _Sea Creeper Pokémon_ • Types: Ghost / Grass • Egg Groups: Mineral • Base
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
+| HP | <span class="stat-value stat-mid">80</span> |
 | Attack | <span class="stat-value stat-high">131</span> |
-| Defense | <span class="stat-value stat-high">100</span> |
-| Sp. Atk | <span class="stat-value stat-mid">86</span> |
-| Sp. Def | <span class="stat-value stat-mid">90</span> |
-| Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">517</span> |
+| Defense | <span class="stat-value stat-high">120</span> |
+| Sp. Atk | <span class="stat-value stat-mid">76</span> |
+| Sp. Def | <span class="stat-value stat-high">93</span> |
+| Speed | <span class="stat-value stat-low">20</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
+- Switcheroo (Lv 1)
 - Absorb (Lv 1)
+- Growth (Lv 1)
 - Rapid Spin (Lv 1)
-- Astonish (Lv 4)
-- Wrap (Lv 8)
-- Mega Drain (Lv 12)
-- Growth (Lv 16)
-- Gyro Ball (Lv 20)
-- Switcheroo (Lv 24)
-- Giga Drain (Lv 28)
-- Whirlpool (Lv 32)
-- Heavy Slam (Lv 36)
-- Slam (Lv 40)
-- Shadow Ball (Lv 44)
-- Metal Sound (Lv 48)
-- Anchor Shot (Lv 52)
-- Energy Ball (Lv 56)
-- Phantom Force (Lv 60)
-- Power Whip (Lv 64)
-</div>
-</div>
+- Astonish (Lv 1)
+- Mega Drain (Lv 5)
+- Wrap (Lv 9)
+- Gyro Ball (Lv 14)
+- Metal Sound (Lv 18)
+- Giga Drain (Lv 23)
+- Razor Shell (Lv 25)
+- Whirlpool (Lv 27)
+- Anchor Shot (Lv 30)
+- Shadow Ball (Lv 34)
+- Flip Turn (Lv 37)
+- Energy Ball (Lv 41)
+- Slam (Lv 43)
+- Heavy Slam (Lv 47)
+- Phantom Force (Lv 50)
+- Power Whip (Lv 55)
 
-**Flavor Text**
-> After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM22 - Solar Beam, TM26 - Earthquake, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf
+
+**Tutor Moves**
+Endure, Rock Slide, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>

@@ -1,12 +1,12 @@
-## Togedemaru (#777)
+## Togedemaru (#252)
 <details class="pokemon-card-container" open>
 <summary>Togedemaru overview</summary>
-_Roly-Poly Pokémon_ • Types: Electric / Steel • Egg Groups: Ground / Fairy • Base EXP: 152
+Types: Electric / Steel • Egg Groups: Field / Fairy • Found: Wanderer`s Woods, Marmaro Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Iron Barbs
+- Spiked Shell
 - Lightning Rod
 - Sturdy *(Hidden)*
 
@@ -31,9 +31,6 @@ _Roly-Poly Pokémon_ • Types: Electric / Steel • Egg Groups: Ground / Fairy 
 - Fighting (2×)
 - Ground (4×)
 
-**Evolution Paths**
-- Togedemaru
-
 **Encounter Locations**
 - Kaptara Island (East) — Grass (Night) (4%)
 - Marmaro Island — Grass (Night) (8%)
@@ -45,32 +42,41 @@ _Roly-Poly Pokémon_ • Types: Electric / Steel • Egg Groups: Ground / Fairy 
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
+| HP | <span class="stat-value stat-mid">85</span> |
 | Attack | <span class="stat-value stat-high">98</span> |
-| Defense | <span class="stat-value stat-mid">63</span> |
+| Defense | <span class="stat-value stat-mid">83</span> |
 | Sp. Atk | <span class="stat-value stat-low">40</span> |
 | Sp. Def | <span class="stat-value stat-mid">73</span> |
 | Speed | <span class="stat-value stat-high">96</span> |
-| Total | <span class="stat-value stat-mid">435</span> |
+| Total | <span class="stat-value stat-mid">475</span> |
 
-**Notable Level-Up Moves**
-- Nuzzle (Lv 1)
+**Level-Up Moves**
 - Tackle (Lv 1)
+- Thunder Shock (Lv 1)
 - Defense Curl (Lv 5)
-- Charge (Lv 10)
-- Thunder Shock (Lv 15)
-- Fell Stinger (Lv 20)
-- Spark (Lv 25)
-- Pin Missile (Lv 30)
-- Magnet Rise (Lv 35)
-- Zing Zap (Lv 40)
-- Discharge (Lv 45)
-- Electric Terrain (Lv 50)
-- Wild Charge (Lv 55)
-- Spiky Shield (Lv 60)
-</div>
-</div>
+- Rollout (Lv 9)
+- Charge (Lv 13)
+- Spark (Lv 17)
+- Nuzzle (Lv 21)
+- Magnet Rise (Lv 25)
+- Discharge (Lv 29)
+- Zing Zap (Lv 33)
+- Iron Head (Lv 35)
+- Electric Terrain (Lv 37)
+- Wild Charge (Lv 41)
+- Pin Missile (Lv 43)
+- Spiky Shield (Lv 46)
+- Fell Stinger (Lv 48)
+- Thunderclap (Lv 55)
 
-**Flavor Text**
-> With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.
+**Egg Moves**
+Reversal, Present, Encore, Twineedle, Wish, Fake Out, Tickle, Flail, Disarming Voice
+
+**TM/HM Moves**
+TM06 - Toxic, TM15 - Hyper Beam, TM17 - Protect, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief
+
+**Tutor Moves**
+Defense Curl, Endure, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Wave
+</div>
+</div>
 </details>

@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-magikarp-129">
-<input type="radio" name="pokemon-tabs-magikarp-129-group" id="pokemon-tabs-magikarp-129-tab-0" checked>
-<label for="pokemon-tabs-magikarp-129-tab-0">Magikarp</label>
-<input type="radio" name="pokemon-tabs-magikarp-129-group" id="pokemon-tabs-magikarp-129-tab-1">
-<label for="pokemon-tabs-magikarp-129-tab-1">Gyarados</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-magikarp-129-panel-0">
-## Magikarp (#129)
+## Magikarp (#322)
 <details class="pokemon-card-container" open>
 <summary>Magikarp overview</summary>
-_Fish Pokémon_ • Types: Water • Egg Groups: Water2 / Dragon • Base EXP: 40
+Types: Water • Egg Groups: Water 2 / Dragon • Found: Acrisia City, Acrisia Mountains, Riverwalk Trail N, Riverwalk Trail S, Kalami City, Wanderer`s Woods, Pythios Town, Pythios Cemetery (OR)(fish) Froslass Cavern, Port Pello, Sofos City, Sea of Asteri, Marmaro Island, Myrrini  Island, Sea of Vulcai, Fresco Isles, Palati City
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -27,9 +20,6 @@ _Fish Pokémon_ • Types: Water • Egg Groups: Water2 / Dragon • Base EXP: 4
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Magikarp → Gyarados (Lv 20)
 
 **Encounter Locations**
 - Acrisia City — Fishing (70%)
@@ -71,89 +61,10 @@ _Fish Pokémon_ • Types: Water • Egg Groups: Water2 / Dragon • Base EXP: 4
 | Speed | <span class="stat-value stat-mid">80</span> |
 | Total | <span class="stat-value stat-low">200</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Splash (Lv 1)
 - Tackle (Lv 15)
-- Flail (Lv 25)
+- Flail (Lv 30)
 </div>
 </div>
-
-**Flavor Text**
-> It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-magikarp-129-panel-1">
-## Gyarados (#130)
-<details class="pokemon-card-container" open>
-<summary>Gyarados overview</summary>
-_Atrocious Pokémon_ • Types: Water / Flying • Egg Groups: Water2 / Dragon • Base EXP: 189
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Intimidate
-- Moxie *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Fighting (0.5×)
-- Ground (0×)
-- Bug (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (4×)
-- Rock (2×)
-
-**Evolution Paths**
-- Magikarp → Gyarados (Lv 20)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">95</span> |
-| Attack | <span class="stat-value stat-high">125</span> |
-| Defense | <span class="stat-value stat-mid">79</span> |
-| Sp. Atk | <span class="stat-value stat-mid">60</span> |
-| Sp. Def | <span class="stat-value stat-high">100</span> |
-| Speed | <span class="stat-value stat-mid">81</span> |
-| Total | <span class="stat-value stat-mid">540</span> |
-
-**Notable Level-Up Moves**
-- Bite (Lv 1)
-- Flail (Lv 1)
-- Leer (Lv 1)
-- Splash (Lv 1)
-- Tackle (Lv 1)
-- Twister (Lv 1)
-- Whirlpool (Lv 4)
-- Ice Fang (Lv 8)
-- Brine (Lv 12)
-- Scary Face (Lv 16)
-- Waterfall (Lv 21)
-- Crunch (Lv 24)
-- Rain Dance (Lv 28)
-- Aqua Tail (Lv 32)
-- Dragon Dance (Lv 36)
-- Hydro Pump (Lv 40)
-- Hurricane (Lv 44)
-- Thrash (Lv 48)
-- Hyper Beam (Lv 52)
-</div>
-</div>
-
-**Flavor Text**
-> It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-magikarp-129-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-magikarp-129-panel-0 { display: block; }
-#pokemon-tabs-magikarp-129-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-magikarp-129-panel-1 { display: block; }
-</style>

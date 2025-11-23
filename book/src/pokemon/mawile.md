@@ -1,14 +1,14 @@
-## Mawile (#303)
+## Mawile (#104)
 <details class="pokemon-card-container" open>
 <summary>Mawile overview</summary>
-_Deceiver Pokémon_ • Types: Steel / Fairy • Egg Groups: Ground / Fairy • Base EXP: 133
+Types: Steel / Fairy • Egg Groups: Field / Fairy • Found: Acrisia Mountains, The Stygian Caves (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Hyper Cutter
 - Intimidate
-- Sheer Force *(Hidden)*
+- Huge Power *(Hidden)*
 
 **Type Matchups**
 
@@ -29,9 +29,6 @@ _Deceiver Pokémon_ • Types: Steel / Fairy • Egg Groups: Ground / Fairy • 
 - Fire (2×)
 - Ground (2×)
 
-**Evolution Paths**
-- Mawile
-
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (5%)
 - Acrisia Mountains — Grass (Night) (5%)
@@ -44,34 +41,48 @@ _Deceiver Pokémon_ • Types: Steel / Fairy • Egg Groups: Ground / Fairy • 
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-low">50</span> |
+| HP | <span class="stat-value stat-mid">55</span> |
 | Attack | <span class="stat-value stat-mid">85</span> |
-| Defense | <span class="stat-value stat-mid">85</span> |
-| Sp. Atk | <span class="stat-value stat-mid">55</span> |
-| Sp. Def | <span class="stat-value stat-mid">55</span> |
-| Speed | <span class="stat-value stat-low">50</span> |
-| Total | <span class="stat-value stat-mid">380</span> |
+| Defense | <span class="stat-value stat-high">95</span> |
+| Sp. Atk | <span class="stat-value stat-low">50</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">415</span> |
 
-**Notable Level-Up Moves**
-- Astonish (Lv 1)
+**Level-Up Moves**
+- Play Rough (Lv 1)
+- Iron Head (Lv 1)
+- Taunt (Lv 1)
 - Growl (Lv 1)
-- Fairy Wind (Lv 4)
-- Baton Pass (Lv 8)
-- Bite (Lv 12)
-- Spit Up (Lv 16)
-- Stockpile (Lv 16)
-- Swallow (Lv 16)
-- Sucker Punch (Lv 20)
-- Iron Defense (Lv 24)
-- Crunch (Lv 28)
-- Sweet Scent (Lv 32)
-- Iron Head (Lv 36)
-- Taunt (Lv 40)
-- Fake Tears (Lv 44)
-- Play Rough (Lv 48)
-</div>
-</div>
+- Fairy Wind (Lv 1)
+- Astonish (Lv 1)
+- Fake Tears (Lv 5)
+- Bite (Lv 9)
+- Metal Claw (Lv 13)
+- Vice Grip (Lv 16)
+- Covet (Lv 20)
+- Feint Attack (Lv 21)
+- Baton Pass (Lv 25)
+- Thunder Fang (Lv 27)
+- Fire Fang (Lv 27)
+- Ice Fang (Lv 27)
+- Crunch (Lv 29)
+- Iron Defense (Lv 33)
+- Sucker Punch (Lv 37)
+- Stockpile (Lv 41)
+- Swallow (Lv 41)
+- Spit Up (Lv 41)
+- Iron Head (Lv 45)
+- Play Rough (Lv 49)
 
-**Flavor Text**
-> It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.
+**Egg Moves**
+Poison Fang, Ancient Power, Tickle, Sucker Punch, Ice Fang, Fire Fang, Thunder Fang, Punishment, Guard Swap, Captivate, Slam, Metal Burst, Misty Terrain, Seismic Toss, Power-Up Punch
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM13 - Ice Beam, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM22 - Solar Beam, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM35 - Flamethrower, TM36 - Sludge Bomb, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM49 - Snatch, TM51 - Poison Fang, TM52 - Thunder Fang, TM53 - Ice Fang, TM54 - Fire Fang, TM55 - Psychic Fangs, TM58 - Play Rough, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Dynamic Punch, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mud-Slap, Psych Up, Rock Slide, Seismic Toss, Sleep Talk, Snore, Swagger, Swords Dance, Thunder Punch
+</div>
+</div>
 </details>

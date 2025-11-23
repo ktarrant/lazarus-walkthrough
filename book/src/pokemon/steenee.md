@@ -1,82 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-steenee-762">
-<input type="radio" name="pokemon-tabs-steenee-762-group" id="pokemon-tabs-steenee-762-tab-0">
-<label for="pokemon-tabs-steenee-762-tab-0">Bounsweet</label>
-<input type="radio" name="pokemon-tabs-steenee-762-group" id="pokemon-tabs-steenee-762-tab-1" checked>
-<label for="pokemon-tabs-steenee-762-tab-1">Steenee</label>
-<input type="radio" name="pokemon-tabs-steenee-762-group" id="pokemon-tabs-steenee-762-tab-2">
-<label for="pokemon-tabs-steenee-762-tab-2">Tsareena</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-steenee-762-panel-0">
-## Bounsweet (#761)
-<details class="pokemon-card-container" open>
-<summary>Bounsweet overview</summary>
-_Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 42
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Leaf Guard
-- Oblivious
-- Sweet Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-
-**Evolution Paths**
-- Bounsweet → Steenee (Lv 18) → Tsareena (Learn Stomp)
-
-**Encounter Locations**
-- Jusmail Town — Grass (Day) (10%)
-- Riverwalk Trail (South) — Grass (Day) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">42</span> |
-| Attack | <span class="stat-value stat-low">30</span> |
-| Defense | <span class="stat-value stat-low">38</span> |
-| Sp. Atk | <span class="stat-value stat-low">30</span> |
-| Sp. Def | <span class="stat-value stat-low">38</span> |
-| Speed | <span class="stat-value stat-low">32</span> |
-| Total | <span class="stat-value stat-low">210</span> |
-
-**Notable Level-Up Moves**
-- Splash (Lv 1)
-- Play Nice (Lv 4)
-- Rapid Spin (Lv 8)
-- Razor Leaf (Lv 12)
-- Sweet Scent (Lv 16)
-- Magical Leaf (Lv 20)
-- Flail (Lv 24)
-- Teeter Dance (Lv 28)
-- Aromatic Mist (Lv 32)
-- Aromatherapy (Lv 36)
-</div>
-</div>
-
-**Flavor Text**
-> Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-steenee-762-panel-1">
-## Steenee (#762)
+## Steenee (#132)
 <details class="pokemon-card-container" open>
 <summary>Steenee overview</summary>
-_Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 102
+Types: Grass • Egg Groups: Grass • Found: Myrrini Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -100,8 +25,8 @@ _Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 102
 - Flying (2×)
 - Bug (2×)
 
-**Evolution Paths**
-- Bounsweet → Steenee (Lv 18) → Tsareena (Learn Stomp)
+**Evolution Info**
+Lv. 18
 
 **Encounter Locations**
 - Kipos Town — Grass (Day) (8%)
@@ -115,105 +40,36 @@ _Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 102
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-mid">52</span> |
-| Attack | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
 | Defense | <span class="stat-value stat-low">48</span> |
 | Sp. Atk | <span class="stat-value stat-low">40</span> |
 | Sp. Def | <span class="stat-value stat-low">48</span> |
 | Speed | <span class="stat-value stat-mid">62</span> |
-| Total | <span class="stat-value stat-low">290</span> |
+| Total | <span class="stat-value stat-low">295</span> |
 
-**Notable Level-Up Moves**
-- Flail (Lv 1)
-- Play Nice (Lv 1)
-- Rapid Spin (Lv 1)
-- Razor Leaf (Lv 1)
+**Level-Up Moves**
 - Splash (Lv 1)
-- Sweet Scent (Lv 16)
-- Magical Leaf (Lv 22)
-- Stomp (Lv 28)
-- Teeter Dance (Lv 34)
-- Aromatic Mist (Lv 40)
-- Aromatherapy (Lv 46)
-- Leaf Storm (Lv 52)
-</div>
-</div>
+- Play Nice (Lv 5)
+- Rapid Spin (Lv 9)
+- Razor Leaf (Lv 13)
+- Sweet Scent (Lv 17)
+- Double Slap (Lv Evo)
+- Magical Leaf (Lv 21)
+- Teeter Dance (Lv 25)
+- Stomp (Lv 29)
+- Aromatic Mist (Lv 33)
+- Captivate (Lv 37)
+- Aromatherapy (Lv 41)
+- Leaf Storm (Lv 45)
 
-**Flavor Text**
-> As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness.
+**Egg Moves**
+Grass Whistle, Synthesis, Play Rough, Feint, Charm, Acupressure
+
+**TM/HM Moves**
+TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM16 - Light Screen, TM17 - Protect, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract
+
+**Tutor Moves**
+Endure, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-steenee-762-panel-2">
-## Tsareena (#763)
-<details class="pokemon-card-container" open>
-<summary>Tsareena overview</summary>
-_Fruit Pokémon_ • Types: Grass • Egg Groups: Plant • Base EXP: 230
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Leaf Guard
-- Queenly Majesty
-- Sweet Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (2×)
-- Bug (2×)
-
-**Evolution Paths**
-- Bounsweet → Steenee (Lv 18) → Tsareena (Learn Stomp)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">72</span> |
-| Attack | <span class="stat-value stat-high">120</span> |
-| Defense | <span class="stat-value stat-high">98</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-high">98</span> |
-| Speed | <span class="stat-value stat-mid">72</span> |
-| Total | <span class="stat-value stat-mid">510</span> |
-
-**Notable Level-Up Moves**
-- Flail (Lv 1)
-- Play Nice (Lv 1)
-- Power Whip (Lv 1)
-- Rapid Spin (Lv 1)
-- Razor Leaf (Lv 1)
-- Splash (Lv 1)
-- Swagger (Lv 1)
-- Trop Kick (Lv 1)
-- Sweet Scent (Lv 16)
-- Magical Leaf (Lv 22)
-- Stomp (Lv 28)
-- Teeter Dance (Lv 34)
-- Aromatic Mist (Lv 40)
-- Aromatherapy (Lv 46)
-- Leaf Storm (Lv 52)
-- High Jump Kick (Lv 58)
-</div>
-</div>
-
-**Flavor Text**
-> This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-steenee-762-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-steenee-762-panel-0 { display: block; }
-#pokemon-tabs-steenee-762-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-steenee-762-panel-1 { display: block; }
-#pokemon-tabs-steenee-762-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-steenee-762-panel-2 { display: block; }
-</style>

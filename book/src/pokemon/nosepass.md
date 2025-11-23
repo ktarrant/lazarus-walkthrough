@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-nosepass-299">
-<input type="radio" name="pokemon-tabs-nosepass-299-group" id="pokemon-tabs-nosepass-299-tab-0" checked>
-<label for="pokemon-tabs-nosepass-299-tab-0">Nosepass</label>
-<input type="radio" name="pokemon-tabs-nosepass-299-group" id="pokemon-tabs-nosepass-299-tab-1">
-<label for="pokemon-tabs-nosepass-299-tab-1">Probopass</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-nosepass-299-panel-0">
-## Nosepass (#299)
+## Nosepass (#102)
 <details class="pokemon-card-container" open>
 <summary>Nosepass overview</summary>
-_Compass Pokémon_ • Types: Rock • Egg Groups: Mineral • Base EXP: 75
+Types: Rock • Egg Groups: Mineral • Found: Acrisia Mountains (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -32,9 +25,6 @@ _Compass Pokémon_ • Types: Rock • Egg Groups: Mineral • Base EXP: 75
 - Ground (2×)
 - Steel (2×)
 
-**Evolution Paths**
-- Nosepass → Probopass (Level at Mt Coronet)
-
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
 - Sofos City — Grass (Day) (5%)
@@ -52,69 +42,35 @@ _Compass Pokémon_ • Types: Rock • Egg Groups: Mineral • Base EXP: 75
 | Sp. Def | <span class="stat-value stat-mid">90</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
 | Total | <span class="stat-value stat-mid">375</span> |
-</div>
-</div>
 
-**Flavor Text**
-> The magnet in Nosepass’s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Harden (Lv 4)
+- Block (Lv 7)
+- Rock Throw (Lv 10)
+- Thunder Wave (Lv 13)
+- Rest (Lv 16)
+- Spark (Lv 19)
+- Rock Slide (Lv 22)
+- Power Gem (Lv 25)
+- Rock Blast (Lv 28)
+- Discharge (Lv 31)
+- Sandstorm (Lv 34)
+- Earth Power (Lv 37)
+- Stone Edge (Lv 40)
+- Lock-On (Lv 43)
+- Zap Cannon (Lv 43)
+- Shore Up (Lv 46)
+- Electro Drift (Lv 52)
+
+**Egg Moves**
+Magnitude, Rollout, Double-Edge, Block, Stealth Rock, Endure, Wide Guard
+
+**TM/HM Moves**
+TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM17 - Protect, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM32 - Double Team, TM34 - Shock Wave, TM37 - Sandstorm, TM39 - Rock Tomb, TM41 - Torment, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM56 - Stomping Tantrum, TM57 - Dazzling Gleam, TM59 - Volt Switch, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Defense Curl, Double-Edge, Dynamic Punch, Endure, Explosion, Fire Punch, Ice Punch, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Thunder Punch, Thunder Wave
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-nosepass-299-panel-1">
-## Probopass (#476)
-<details class="pokemon-card-container" open>
-<summary>Probopass overview</summary>
-_Compass Pokémon_ • Types: Rock / Steel • Egg Groups: Mineral • Base EXP: 184
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Sturdy
-- Magnet Pull
-- Sand Force *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0.25×)
-- Ice (0.5×)
-- Poison (0×)
-- Flying (0.25×)
-- Psychic (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dragon (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Water (2×)
-- Fighting (4×)
-- Ground (4×)
-
-**Evolution Paths**
-- Nosepass → Probopass (Level at Mt Coronet)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-mid">55</span> |
-| Defense | <span class="stat-value stat-high">145</span> |
-| Sp. Atk | <span class="stat-value stat-mid">75</span> |
-| Sp. Def | <span class="stat-value stat-high">150</span> |
-| Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">525</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It radiates such a powerful magnetic field that nearby electrical appliances become unusable.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-nosepass-299-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-nosepass-299-panel-0 { display: block; }
-#pokemon-tabs-nosepass-299-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-nosepass-299-panel-1 { display: block; }
-</style>

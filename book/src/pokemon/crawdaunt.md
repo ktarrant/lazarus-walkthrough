@@ -1,85 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-crawdaunt-342">
-<input type="radio" name="pokemon-tabs-crawdaunt-342-group" id="pokemon-tabs-crawdaunt-342-tab-0">
-<label for="pokemon-tabs-crawdaunt-342-tab-0">Corphish</label>
-<input type="radio" name="pokemon-tabs-crawdaunt-342-group" id="pokemon-tabs-crawdaunt-342-tab-1" checked>
-<label for="pokemon-tabs-crawdaunt-342-tab-1">Crawdaunt</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-crawdaunt-342-panel-0">
-## Corphish (#341)
-<details class="pokemon-card-container" open>
-<summary>Corphish overview</summary>
-_Ruffian Pokémon_ • Types: Water • Egg Groups: Water1 / Water3 • Base EXP: 62
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Hyper Cutter
-- Shell Armor
-- Adaptability *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Corphish → Crawdaunt (Lv 30)
-
-**Encounter Locations**
-- Erinys Path (East) — Fishing (20%)
-- Pythios Town — Fishing (30%)
-- Sea of Asteri (East) — Underwater (10%)
-- Sofos City — Grass (Day) (8%)
-- Sofos City — Grass (Night) (8%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">43</span> |
-| Attack | <span class="stat-value stat-mid">80</span> |
-| Defense | <span class="stat-value stat-mid">65</span> |
-| Sp. Atk | <span class="stat-value stat-low">50</span> |
-| Sp. Def | <span class="stat-value stat-low">35</span> |
-| Speed | <span class="stat-value stat-low">35</span> |
-| Total | <span class="stat-value stat-mid">308</span> |
-
-**Notable Level-Up Moves**
-- Harden (Lv 1)
-- Water Gun (Lv 1)
-- Leer (Lv 4)
-- Taunt (Lv 8)
-- Bubble Beam (Lv 12)
-- Knock Off (Lv 16)
-- Double Hit (Lv 20)
-- Protect (Lv 24)
-- Night Slash (Lv 28)
-- Razor Shell (Lv 32)
-- Swords Dance (Lv 36)
-- Crunch (Lv 40)
-- Crabhammer (Lv 44)
-- Endeavor (Lv 48)
-- Guillotine (Lv 52)
-</div>
-</div>
-
-**Flavor Text**
-> No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-crawdaunt-342-panel-1">
-## Crawdaunt (#342)
+## Crawdaunt (#378)
 <details class="pokemon-card-container" open>
 <summary>Crawdaunt overview</summary>
-_Rogue Pokémon_ • Types: Water / Dark • Egg Groups: Water1 / Water3 • Base EXP: 164
+Types: Water / Dark • Egg Groups: Water 1 / Water 3 • Found: Corphish (evolve)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,8 +28,8 @@ _Rogue Pokémon_ • Types: Water / Dark • Egg Groups: Water1 / Water3 • Bas
 - Bug (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Corphish → Crawdaunt (Lv 30)
+**Evolution Info**
+Lv. 30
 
 **Encounter Locations**
 - Wakewater Isle — Grass (Day) (4%)
@@ -120,39 +42,39 @@ _Rogue Pokémon_ • Types: Water / Dark • Egg Groups: Water1 / Water3 • Bas
 | --- | --- |
 | HP | <span class="stat-value stat-mid">63</span> |
 | Attack | <span class="stat-value stat-high">120</span> |
-| Defense | <span class="stat-value stat-mid">85</span> |
-| Sp. Atk | <span class="stat-value stat-mid">90</span> |
-| Sp. Def | <span class="stat-value stat-mid">55</span> |
+| Defense | <span class="stat-value stat-high">100</span> |
+| Sp. Atk | <span class="stat-value stat-mid">70</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
 | Speed | <span class="stat-value stat-mid">55</span> |
-| Total | <span class="stat-value stat-mid">468</span> |
+| Total | <span class="stat-value stat-mid">473</span> |
 
-**Notable Level-Up Moves**
-- Harden (Lv 1)
-- Leer (Lv 1)
-- Swift (Lv 1)
-- Taunt (Lv 1)
-- Water Gun (Lv 1)
-- Bubble Beam (Lv 12)
-- Knock Off (Lv 16)
+**Level-Up Moves**
+- Bubble (Lv 1)
+- Harden (Lv 5)
+- Vice Grip (Lv 7)
+- Leer (Lv 10)
+- Bubble Beam (Lv 14)
+- Protect (Lv 17)
 - Double Hit (Lv 20)
-- Protect (Lv 24)
-- Night Slash (Lv 28)
-- Razor Shell (Lv 34)
+- Knock Off (Lv 23)
+- Night Slash (Lv 26)
+- Swift (Lv Evo)
+- Razor Shell (Lv 32)
+- Taunt (Lv 36)
 - Swords Dance (Lv 40)
-- Crunch (Lv 46)
-- Crabhammer (Lv 52)
-- Endeavor (Lv 58)
-- Guillotine (Lv 64)
-</div>
-</div>
+- Crunch (Lv 43)
+- Crabhammer (Lv 48)
+- Dire Claw (Lv 50)
+- Guillotine (Lv 54)
 
-**Flavor Text**
-> A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.
+**Egg Moves**
+Mud Sport, Endeavor, Body Slam, Ancient Power, Knock Off, Superpower, Metal Claw, Dragon Dance, Trump Card, Chip Away, Double-Edge, Aqua Jet, Switcheroo
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM12 - Taunt, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM28 - Dig, TM31 - Brick Break, TM32 - Double Team, TM36 - Sludge Bomb, TM39 - Rock Tomb, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM01 - Cut, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Body Slam, Counter, Double-Edge, Endure, Fury Cutter, Icy Wind, Mud-Slap, Rock Slide, Sleep Talk, Snore, Swagger, Swift, Swords Dance
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-crawdaunt-342-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-crawdaunt-342-panel-0 { display: block; }
-#pokemon-tabs-crawdaunt-342-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-crawdaunt-342-panel-1 { display: block; }
-</style>

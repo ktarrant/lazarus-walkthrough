@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-shellder-90">
-<input type="radio" name="pokemon-tabs-shellder-90-group" id="pokemon-tabs-shellder-90-tab-0" checked>
-<label for="pokemon-tabs-shellder-90-tab-0">Shellder</label>
-<input type="radio" name="pokemon-tabs-shellder-90-group" id="pokemon-tabs-shellder-90-tab-1">
-<label for="pokemon-tabs-shellder-90-tab-1">Cloyster</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-shellder-90-panel-0">
-## Shellder (#090)
+## Shellder (#287)
 <details class="pokemon-card-container" open>
 <summary>Shellder overview</summary>
-_Bivalve Pokémon_ • Types: Water • Egg Groups: Water3 • Base EXP: 61
+Types: Water • Egg Groups: Water 3 • Found: Froslass Cavern, Port Pello, Palati City
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -28,9 +21,6 @@ _Bivalve Pokémon_ • Types: Water • Egg Groups: Water3 • Base EXP: 61
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Shellder → Cloyster (Use Water Stone)
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (30%)
@@ -61,102 +51,33 @@ _Bivalve Pokémon_ • Types: Water • Egg Groups: Water3 • Base EXP: 61
 | Speed | <span class="stat-value stat-low">40</span> |
 | Total | <span class="stat-value stat-low">305</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Tackle (Lv 1)
 - Water Gun (Lv 1)
 - Withdraw (Lv 4)
-- Ice Shard (Lv 8)
-- Leer (Lv 12)
-- Whirlpool (Lv 16)
-- Supersonic (Lv 20)
-- Aurora Beam (Lv 24)
-- Protect (Lv 28)
+- Supersonic (Lv 8)
+- Icicle Spear (Lv 13)
+- Protect (Lv 16)
+- Leer (Lv 20)
+- Clamp (Lv 25)
+- Ice Shard (Lv 28)
 - Razor Shell (Lv 32)
-- Iron Defense (Lv 36)
-- Ice Beam (Lv 40)
-- Shell Smash (Lv 44)
-- Hydro Pump (Lv 48)
-</div>
-</div>
+- Aurora Beam (Lv 37)
+- Whirlpool (Lv 40)
+- Brine (Lv 44)
+- Iron Defense (Lv 49)
+- Ice Beam (Lv 52)
+- Shell Smash (Lv 56)
+- Hydro Pump (Lv 61)
 
-**Flavor Text**
-> It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.
+**Egg Moves**
+Bubble Beam, Take Down, Barrier, Rapid Spin, Screech, Icicle Spear, Mud Shot, Rock Blast, Water Pulse, Aqua Ring, Avalanche, Twineedle
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Double-Edge, Endure, Explosion, Icy Wind, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-shellder-90-panel-1">
-## Cloyster (#091)
-<details class="pokemon-card-container" open>
-<summary>Cloyster overview</summary>
-_Bivalve Pokémon_ • Types: Water / Ice • Egg Groups: Water3 • Base EXP: 184
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Shell Armor
-- Skill Link
-- Overcoat *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Ice (0.25×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-- Fighting (2×)
-- Rock (2×)
-
-**Evolution Paths**
-- Shellder → Cloyster (Use Water Stone)
-
-**Encounter Locations**
-- Davosi Straits — Fishing (15%)
-- Pollen Road — Fishing (15%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">50</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-high">180</span> |
-| Sp. Atk | <span class="stat-value stat-mid">85</span> |
-| Sp. Def | <span class="stat-value stat-low">45</span> |
-| Speed | <span class="stat-value stat-mid">70</span> |
-| Total | <span class="stat-value stat-mid">525</span> |
-
-**Notable Level-Up Moves**
-- Aurora Beam (Lv 1)
-- Hydro Pump (Lv 1)
-- Ice Beam (Lv 1)
-- Ice Shard (Lv 1)
-- Icicle Crash (Lv 1)
-- Icicle Spear (Lv 1)
-- Iron Defense (Lv 1)
-- Leer (Lv 1)
-- Protect (Lv 1)
-- Razor Shell (Lv 1)
-- Shell Smash (Lv 1)
-- Spikes (Lv 1)
-- Supersonic (Lv 1)
-- Tackle (Lv 1)
-- Toxic Spikes (Lv 1)
-- Water Gun (Lv 1)
-- Whirlpool (Lv 1)
-- Withdraw (Lv 1)
-</div>
-</div>
-
-**Flavor Text**
-> Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-shellder-90-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-shellder-90-panel-0 { display: block; }
-#pokemon-tabs-shellder-90-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-shellder-90-panel-1 { display: block; }
-</style>

@@ -1,21 +1,14 @@
-<div class="pokemon-tabs" id="pokemon-tabs-finneon-456">
-<input type="radio" name="pokemon-tabs-finneon-456-group" id="pokemon-tabs-finneon-456-tab-0" checked>
-<label for="pokemon-tabs-finneon-456-tab-0">Finneon</label>
-<input type="radio" name="pokemon-tabs-finneon-456-group" id="pokemon-tabs-finneon-456-tab-1">
-<label for="pokemon-tabs-finneon-456-tab-1">Lumineon</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-finneon-456-panel-0">
-## Finneon (#456)
+## Finneon (#236)
 <details class="pokemon-card-container" open>
 <summary>Finneon overview</summary>
-_Wing Fish Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 66
+Types: Water / Fairy • Egg Groups: Water 2 • Found: Acrisia City, Acrisia Mountains, Riverwalk Trail N (surf) Acrisia City, Acrisia Mountains, Riverwalk Trail N, Wanderer`s Woods, Pythios Town (SR) Pythios Cemetery (GR)(fish) Froslass Cavern, Sofos City, Sea of Asteri, Marmaro Island, Myrrini Island, Sea of Vulcai, Fresco Isles
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
 - Swift Swim
 - Storm Drain
-- Water Veil *(Hidden)*
+- Dazzling *(Hidden)*
 
 **Type Matchups**
 
@@ -23,14 +16,15 @@ _Wing Fish Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 66
 - Fire (0.5×)
 - Water (0.5×)
 - Ice (0.5×)
-- Steel (0.5×)
+- Fighting (0.5×)
+- Bug (0.5×)
+- Dragon (0×)
+- Dark (0.5×)
 
 *Weak to*
 - Electric (2×)
 - Grass (2×)
-
-**Evolution Paths**
-- Finneon → Lumineon (Lv 31)
+- Poison (2×)
 
 **Encounter Locations**
 - Acrisia City — Fishing (40%)
@@ -65,74 +59,41 @@ _Wing Fish Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 66
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-low">49</span> |
-| Attack | <span class="stat-value stat-low">49</span> |
+| Attack | <span class="stat-value stat-low">39</span> |
 | Defense | <span class="stat-value stat-mid">56</span> |
-| Sp. Atk | <span class="stat-value stat-low">49</span> |
+| Sp. Atk | <span class="stat-value stat-mid">59</span> |
 | Sp. Def | <span class="stat-value stat-mid">61</span> |
 | Speed | <span class="stat-value stat-mid">66</span> |
 | Total | <span class="stat-value stat-mid">330</span> |
-</div>
-</div>
 
-**Flavor Text**
-> It absorbs sunlight with the pink areas of its skin, which then shine. This appears to be a form of camouflage.
+**Level-Up Moves**
+- Pound (Lv 1)
+- Water Gun (Lv 6)
+- Attract (Lv 10)
+- Rain Dance (Lv 13)
+- Gust (Lv 17)
+- Draining Kiss (Lv 20)
+- Water Pulse (Lv 22)
+- Captivate (Lv 26)
+- Safeguard (Lv 29)
+- Aqua Ring (Lv 31)
+- Dazzling Gleam (Lv 34)
+- Whirlpool (Lv 37)
+- Air Cutter (Lv 40)
+- U-Turn (Lv 43)
+- Bounce (Lv 45)
+- Silver Wind (Lv 49)
+- Moonblast (Lv 52)
+- Soak (Lv 54)
+
+**Egg Moves**
+Sweet Kiss, Charm, Flail, Aqua Tail, Splash, Psybeam, Tickle, Agility, Brine, Aurora Beam, Signal Beam, Confuse Ray
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM05 - Flash, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Endure, Icy Wind, Psych Up, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-finneon-456-panel-1">
-## Lumineon (#457)
-<details class="pokemon-card-container" open>
-<summary>Lumineon overview</summary>
-_Neon Pokémon_ • Types: Water • Egg Groups: Water2 • Base EXP: 161
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Swift Swim
-- Storm Drain
-- Water Veil *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Finneon → Lumineon (Lv 31)
-
-**Encounter Locations**
-- Corrin Crossing — Surfing (30%)
-- Nyx Trails — Surfing (30%)
-- Port Pello — Surfing (30%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">69</span> |
-| Attack | <span class="stat-value stat-mid">69</span> |
-| Defense | <span class="stat-value stat-mid">76</span> |
-| Sp. Atk | <span class="stat-value stat-mid">69</span> |
-| Sp. Def | <span class="stat-value stat-mid">86</span> |
-| Speed | <span class="stat-value stat-high">91</span> |
-| Total | <span class="stat-value stat-mid">460</span> |
-</div>
-</div>
-
-**Flavor Text**
-> With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-finneon-456-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-finneon-456-panel-0 { display: block; }
-#pokemon-tabs-finneon-456-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-finneon-456-panel-1 { display: block; }
-</style>

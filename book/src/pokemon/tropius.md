@@ -1,12 +1,12 @@
-## Tropius (#357)
+## Tropius (#078)
 <details class="pokemon-card-container" open>
 <summary>Tropius overview</summary>
-_Fruit Pokémon_ • Types: Grass / Flying • Egg Groups: Monster / Plant • Base EXP: 161
+Types: Grass / Flying • Egg Groups: Monster / Grass • Found: Riverwalk Trail S, Port Pello (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Chlorophyll
+- Thick Fat
 - Solar Power
 - Harvest *(Hidden)*
 
@@ -25,9 +25,6 @@ _Fruit Pokémon_ • Types: Grass / Flying • Egg Groups: Monster / Plant • B
 - Flying (2×)
 - Rock (2×)
 
-**Evolution Paths**
-- Tropius
-
 **Encounter Locations**
 - Port Pello — Grass (Day) (10%)
 - Port Pello — Grass (Night) (10%)
@@ -38,16 +35,49 @@ _Fruit Pokémon_ • Types: Grass / Flying • Egg Groups: Monster / Plant • B
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-high">99</span> |
-| Attack | <span class="stat-value stat-mid">68</span> |
-| Defense | <span class="stat-value stat-mid">83</span> |
-| Sp. Atk | <span class="stat-value stat-mid">72</span> |
+| HP | <span class="stat-value stat-high">109</span> |
+| Attack | <span class="stat-value stat-high">93</span> |
+| Defense | <span class="stat-value stat-high">91</span> |
+| Sp. Atk | <span class="stat-value stat-high">93</span> |
 | Sp. Def | <span class="stat-value stat-mid">87</span> |
-| Speed | <span class="stat-value stat-mid">51</span> |
-| Total | <span class="stat-value stat-mid">460</span> |
-</div>
-</div>
+| Speed | <span class="stat-value stat-low">42</span> |
+| Total | <span class="stat-value stat-mid">515</span> |
 
-**Flavor Text**
-> It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.
+**Level-Up Moves**
+- Leaf Storm (Lv 1)
+- Body Slam (Lv 1)
+- Dragon Dance (Lv 1)
+- Leer (Lv 1)
+- Gust (Lv 1)
+- Growth (Lv 1)
+- Razor Leaf (Lv 1)
+- Sweet Scent (Lv 6)
+- Stomp (Lv 10)
+- Magical Leaf (Lv 16)
+- Headbutt (Lv 19)
+- Whirlwind (Lv 21)
+- Dragon Breath (Lv 24)
+- Leaf Tornado (Lv 26)
+- Natural Gift (Lv 30)
+- Air Slash (Lv 32)
+- Flower Trick (Lv 35)
+- Pollen Puff (Lv 39)
+- Hyper Voice (Lv 41)
+- Bestow (Lv 43)
+- Quiver Dance (Lv 46)
+- Synthesis (Lv 48)
+- Dragon Pulse (Lv 51)
+- Solar Beam (Lv 54)
+- Leaf Storm (Lv 57)
+
+**Egg Moves**
+Headbutt, Slam, Razor Wind, Leech Seed, Nature Power, Leaf Storm, Synthesis, Curse, Leaf Blade, Dragon Dance, Bullet Seed, Natural Gift, Dragon Hammer
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM05 - Roar, TM06 - Toxic, TM09 - Bullet Seed, TM11 - Sunny Day, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM19 - Giga Drain, TM20 - Safeguard, TM22 - Solar Beam, TM26 - Earthquake, TM32 - Double Team, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM47 - Steel Wing, TM56 - Stomping Tantrum, TM60 - U-Turn, HM01 - Cut, HM02 - Fly, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Fury Cutter, Mud-Slap, Sleep Talk, Snore, Swagger, Swords Dance
+</div>
+</div>
 </details>

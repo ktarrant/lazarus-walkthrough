@@ -1,7 +1,7 @@
-## Lapras (#131)
+## Lapras (#345)
 <details class="pokemon-card-container" open>
 <summary>Lapras overview</summary>
-_Transport Pokémon_ • Types: Water / Ice • Egg Groups: Monster / Water1 • Base EXP: 187
+Types: Water / Ice • Egg Groups: Monster / Water 1 • Found: Froslass Cavern (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -22,9 +22,6 @@ _Transport Pokémon_ • Types: Water / Ice • Egg Groups: Monster / Water1 •
 - Fighting (2×)
 - Rock (2×)
 
-**Evolution Paths**
-- Lapras
-
 **Encounter Locations**
 - Froslass Cavern BF2 — Surfing (1%)
 - Péntepetal City — Fishing (5%)
@@ -36,32 +33,39 @@ _Transport Pokémon_ • Types: Water / Ice • Egg Groups: Monster / Water1 •
 | Stat | Value |
 | --- | --- |
 | HP | <span class="stat-value stat-high">130</span> |
-| Attack | <span class="stat-value stat-mid">85</span> |
+| Attack | <span class="stat-value stat-mid">75</span> |
 | Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-mid">85</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
 | Sp. Def | <span class="stat-value stat-high">95</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
 | Total | <span class="stat-value stat-mid">535</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
+- Sing (Lv 1)
 - Growl (Lv 1)
 - Water Gun (Lv 1)
-- Sing (Lv 5)
-- Mist (Lv 10)
-- Life Dew (Lv 15)
-- Ice Shard (Lv 20)
-- Confuse Ray (Lv 25)
-- Water Pulse (Lv 30)
-- Brine (Lv 35)
-- Body Slam (Lv 40)
-- Ice Beam (Lv 45)
-- Rain Dance (Lv 50)
-- Hydro Pump (Lv 55)
-- Perish Song (Lv 60)
-- Sheer Cold (Lv 65)
-</div>
-</div>
+- Mist (Lv 4)
+- Confuse Ray (Lv 7)
+- Ice Shard (Lv 10)
+- Water Pulse (Lv 14)
+- Body Slam (Lv 18)
+- Rain Dance (Lv 22)
+- Perish Song (Lv 27)
+- Ice Beam (Lv 32)
+- Extrasensory (Lv 35)
+- Brine (Lv 37)
+- Safeguard (Lv 43)
+- Hydro Pump (Lv 47)
+- Sheer Cold (Lv 50)
 
-**Flavor Text**
-> A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.
+**Egg Moves**
+Foresight, Tickle, Refresh, Dragon Dance, Curse, Sleep Talk, Horn Drill, Ancient Power, Whirlpool, Fissure, Dragon Pulse, Avalanche, Future Sight, Freeze-Dry
+
+**TM/HM Moves**
+TM03 - Water Pulse, TM05 - Roar, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM15 - Hyper Beam, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM22 - Solar Beam, TM23 - Iron Tail, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM42 - Facade, TM44 - Rest, TM45 - Attract, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Body Slam, Double-Edge, Dream Eater, Endure, Icy Wind, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>

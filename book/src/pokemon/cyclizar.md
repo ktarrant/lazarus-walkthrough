@@ -1,7 +1,7 @@
-## Cyclizar (#967)
+## Cyclizar (#225)
 <details class="pokemon-card-container" open>
 <summary>Cyclizar overview</summary>
-_Mount Pokémon_ • Types: Dragon / Normal • Egg Groups: Ground • Base EXP: 175
+Types: Dragon / Normal • Egg Groups: Field • Found: Fresco Isles (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -24,9 +24,6 @@ _Mount Pokémon_ • Types: Dragon / Normal • Egg Groups: Ground • Base EXP:
 - Dragon (2×)
 - Fairy (2×)
 
-**Evolution Paths**
-- Cyclizar
-
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (4%)
 - Fresco Isles — Grass (Night) (4%)
@@ -47,7 +44,4 @@ _Mount Pokémon_ • Types: Dragon / Normal • Egg Groups: Ground • Base EXP:
 | Total | <span class="stat-value stat-mid">501</span> |
 </div>
 </div>
-
-**Flavor Text**
-> It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.
 </details>

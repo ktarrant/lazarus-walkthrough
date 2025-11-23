@@ -1,148 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-reuniclus-579">
-<input type="radio" name="pokemon-tabs-reuniclus-579-group" id="pokemon-tabs-reuniclus-579-tab-0">
-<label for="pokemon-tabs-reuniclus-579-tab-0">Solosis</label>
-<input type="radio" name="pokemon-tabs-reuniclus-579-group" id="pokemon-tabs-reuniclus-579-tab-1">
-<label for="pokemon-tabs-reuniclus-579-tab-1">Duosion</label>
-<input type="radio" name="pokemon-tabs-reuniclus-579-group" id="pokemon-tabs-reuniclus-579-tab-2" checked>
-<label for="pokemon-tabs-reuniclus-579-tab-2">Reuniclus</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-reuniclus-579-panel-0">
-## Solosis (#577)
-<details class="pokemon-card-container" open>
-<summary>Solosis overview</summary>
-_Cell Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 58
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Overcoat
-- Magic Guard
-- Regenerator *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fighting (0.5×)
-- Psychic (0.5×)
-
-*Weak to*
-- Bug (2×)
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Solosis → Duosion (Lv 32) → Reuniclus (Lv 41)
-
-**Encounter Locations**
-- Erinys Path (West) — Grass (Day) (20%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">45</span> |
-| Attack | <span class="stat-value stat-low">30</span> |
-| Defense | <span class="stat-value stat-low">40</span> |
-| Sp. Atk | <span class="stat-value stat-high">105</span> |
-| Sp. Def | <span class="stat-value stat-low">50</span> |
-| Speed | <span class="stat-value stat-low">20</span> |
-| Total | <span class="stat-value stat-low">290</span> |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1)
-- Protect (Lv 1)
-- Recover (Lv 4)
-- Endeavor (Lv 8)
-- Psybeam (Lv 12)
-- Charm (Lv 16)
-- Psyshock (Lv 20)
-- Light Screen (Lv 24)
-- Reflect (Lv 24)
-- Ally Switch (Lv 28)
-- Pain Split (Lv 33)
-- Psychic (Lv 36)
-- Skill Swap (Lv 40)
-- Future Sight (Lv 44)
-- Wonder Room (Lv 48)
-</div>
-</div>
-
-**Flavor Text**
-> It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-reuniclus-579-panel-1">
-## Duosion (#578)
-<details class="pokemon-card-container" open>
-<summary>Duosion overview</summary>
-_Mitosis Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 130
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Overcoat
-- Magic Guard
-- Regenerator *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fighting (0.5×)
-- Psychic (0.5×)
-
-*Weak to*
-- Bug (2×)
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Solosis → Duosion (Lv 32) → Reuniclus (Lv 41)
-
-**Encounter Locations**
-- Kaptara Island (West) — Grass (Day) (8%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
-| Attack | <span class="stat-value stat-low">40</span> |
-| Defense | <span class="stat-value stat-low">50</span> |
-| Sp. Atk | <span class="stat-value stat-high">125</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-low">30</span> |
-| Total | <span class="stat-value stat-mid">370</span> |
-
-**Notable Level-Up Moves**
-- Confusion (Lv 1)
-- Endeavor (Lv 1)
-- Protect (Lv 1)
-- Recover (Lv 1)
-- Psybeam (Lv 12)
-- Charm (Lv 16)
-- Psyshock (Lv 20)
-- Light Screen (Lv 24)
-- Reflect (Lv 24)
-- Ally Switch (Lv 28)
-- Pain Split (Lv 35)
-- Psychic (Lv 40)
-- Skill Swap (Lv 46)
-- Future Sight (Lv 52)
-- Wonder Room (Lv 58)
-</div>
-</div>
-
-**Flavor Text**
-> Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-reuniclus-579-panel-2">
-## Reuniclus (#579)
+## Reuniclus (#278)
 <details class="pokemon-card-container" open>
 <summary>Reuniclus overview</summary>
-_Multiplying Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base EXP: 221
+Types: Psychic • Egg Groups: Amorphous • Found: Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -162,8 +21,8 @@ _Multiplying Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base
 - Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Solosis → Duosion (Lv 32) → Reuniclus (Lv 41)
+**Evolution Info**
+Lv. 41
 
 **Encounter Locations**
 - Kaptara Island (West) — Grass (Day) (2%)
@@ -173,42 +32,43 @@ _Multiplying Pokémon_ • Types: Psychic • Egg Groups: Indeterminate • Base
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-high">110</span> |
+| HP | <span class="stat-value stat-high">120</span> |
 | Attack | <span class="stat-value stat-mid">65</span> |
 | Defense | <span class="stat-value stat-mid">75</span> |
 | Sp. Atk | <span class="stat-value stat-high">125</span> |
 | Sp. Def | <span class="stat-value stat-mid">85</span> |
 | Speed | <span class="stat-value stat-low">30</span> |
-| Total | <span class="stat-value stat-mid">490</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
-**Notable Level-Up Moves**
-- Confusion (Lv 1)
-- Endeavor (Lv 1)
-- Hammer Arm (Lv 1)
-- Protect (Lv 1)
-- Recover (Lv 1)
-- Psybeam (Lv 12)
-- Charm (Lv 16)
-- Psyshock (Lv 20)
-- Light Screen (Lv 24)
-- Reflect (Lv 24)
-- Ally Switch (Lv 28)
-- Pain Split (Lv 35)
-- Psychic (Lv 40)
-- Skill Swap (Lv 48)
-- Future Sight (Lv 56)
-- Wonder Room (Lv 64)
+**Level-Up Moves**
+- Psywave (Lv 1)
+- Reflect (Lv 3)
+- Rollout (Lv 7)
+- Snatch (Lv 10)
+- Hidden Power (Lv 14)
+- Light Screen (Lv 16)
+- Charm (Lv 19)
+- Recover (Lv 24)
+- Psyshock (Lv 25)
+- Endeavor (Lv 28)
+- Giga Drain (Lv 30)
+- Future Sight (Lv 31)
+- Pain Split (Lv 33)
+- Psychic (Lv 37)
+- Skill Swap (Lv 40)
+- Vacuum Wave (Lv Evo)
+- Heal Block (Lv 46)
+- Wonder Room (Lv 48)
+- Chloroblast (Lv 52)
+
+**Egg Moves**
+Night Shade, Astonish, Confuse Ray, Acid Armor, Trick, Imprison, Secret Power, Astonish, Helping Hand
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM25 - Thunder, TM29 - Psychic, TM30 - Shadow Ball, TM32 - Double Team, TM33 - Reflect, TM34 - Shock Wave, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, TM49 - Snatch, HM04 - Strength, HM05 - Flash, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Dream Eater, Endure, Explosion, Fire Punch, Ice Punch, Mega Punch, Psych Up, Rock Slide, Rollout, Sleep Talk, Snore, Swagger, Swift, Thunder Punch, Thunder Wave
 </div>
 </div>
-
-**Flavor Text**
-> While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-reuniclus-579-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-reuniclus-579-panel-0 { display: block; }
-#pokemon-tabs-reuniclus-579-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-reuniclus-579-panel-1 { display: block; }
-#pokemon-tabs-reuniclus-579-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-reuniclus-579-panel-2 { display: block; }
-</style>

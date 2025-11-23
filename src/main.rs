@@ -1,6 +1,7 @@
 mod encounters;
 mod items;
-mod pokeapi;
+mod pokedex;
+mod pokemon_card;
 mod type_chart;
 
 use anyhow::Result;
@@ -11,13 +12,13 @@ use std::path::PathBuf;
 #[derive(Parser)]
 #[command(about = "Content helpers for the Pokémon walkthrough")]
 struct Cli {
-    /// Location of the downloaded PokeAPI dataset
+    /// Path to the structured Lazarus Pokédex JSON
     #[arg(
         long,
-        env = "POKEAPI_DATA_DIR",
-        default_value = "data/api-data-master/data/api/v2"
+        env = "POKEMON_LAZARUS_POKEDEX_JSON",
+        default_value = "data/pokedex/lazarus_pokedex.json"
     )]
-    data_dir: PathBuf,
+    pokedex_json: PathBuf,
     /// Path to the parsed encounter manifest JSON
     #[arg(
         long,
@@ -83,15 +84,19 @@ fn main() -> Result<()> {
     let cli = Cli::parse();
     match cli.command {
         Command::TypeChart => render_type_chart(),
-        Command::PokemonCard { identifier } => {
-            render_pokemon_card(cli.data_dir, cli.encounters_json.clone(), identifier)?
-        }
+        Command::PokemonCard { identifier } => render_pokemon_card(
+            cli.pokedex_json.clone(),
+            cli.encounters_json.clone(),
+            identifier,
+        )?,
         Command::PokemonCardsAll { out_dir } => {
-            render_all_pokemon_cards(cli.data_dir, cli.encounters_json, out_dir)?
+            render_all_pokemon_cards(cli.pokedex_json.clone(), cli.encounters_json, out_dir)?
         }
         Command::Encounters { area_id } => render_encounters(cli.encounters_json, area_id)?,
         Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
-        Command::EggGroups { out } => render_egg_groups(cli.data_dir, cli.encounters_json, out)?,
+        Command::EggGroups { out } => {
+            render_egg_groups(cli.pokedex_json.clone(), cli.encounters_json, out)?
+        }
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
     }
@@ -109,20 +114,25 @@ fn render_type_chart() {
     print!("{}", type_chart::colored_table());
 }
 
-fn render_pokemon_card(data_dir: PathBuf, manifest: PathBuf, identifier: String) -> Result<()> {
-    let repo = pokeapi::Repository::new(data_dir);
+fn render_pokemon_card(pokedex_path: PathBuf, manifest: PathBuf, identifier: String) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
     let encounter_map = encounters::species_encounters_map(&manifest)?;
     for candidate in candidate_identifiers(&identifier) {
-        if let Ok(deck) = repo.build_card_deck(&candidate) {
-            print!("{}", deck.render_markdown_with_encounters(&encounter_map));
+        if let Some(entry) = dex.find(&candidate) {
+            let refs = encounter_map.get(&entry.slug).cloned().unwrap_or_default();
+            print!("{}", pokemon_card::render_card(entry, &refs));
             return Ok(());
         }
     }
     anyhow::bail!("No Pokémon species named {identifier} found in cache")
 }
 
-fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
-    let repo = pokeapi::Repository::new(data_dir);
+fn render_all_pokemon_cards(
+    pokedex_path: PathBuf,
+    manifest: PathBuf,
+    out_dir: PathBuf,
+) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
     let species = encounters::list_species(&manifest)?;
     let encounter_map = encounters::species_encounters_map(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
@@ -130,21 +140,14 @@ fn render_all_pokemon_cards(data_dir: PathBuf, manifest: PathBuf, out_dir: PathB
     let total = species.len();
     for (idx, name) in species.into_iter().enumerate() {
         println!("Generating card {}/{}: {}", idx + 1, total, name);
-        let mut deck = None;
-        for candidate in candidate_identifiers(&name) {
-            if let Ok(d) = repo.build_card_deck(&candidate) {
-                deck = Some(d);
-                break;
-            }
-        }
-        if let Some(deck) = deck {
-            let slug = encounters::slugify(&name);
+        let slug = encounters::slugify(&name);
+        if let Some(entry) = dex.get_by_slug(&slug) {
             let path = out_dir.join(format!("{slug}.md"));
-            std::fs::write(path, deck.render_markdown_with_encounters(&encounter_map))?;
-            index_entries.push((slug, name));
+            let refs = encounter_map.get(&slug).cloned().unwrap_or_default();
+            std::fs::write(path, pokemon_card::render_card(entry, &refs))?;
+            index_entries.push((slug, entry.name.clone()));
         } else {
             eprintln!("Failed to generate card for {}; writing placeholder", name);
-            let slug = encounters::slugify(&name);
             let path = out_dir.join(format!("{slug}.md"));
             std::fs::write(
                 path,
@@ -269,27 +272,20 @@ fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
     Ok(())
 }
 
-fn render_egg_groups(data_dir: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
-    let repo = pokeapi::Repository::new(data_dir);
+fn render_egg_groups(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
     let species_list = encounters::list_species(&manifest)?;
     let mut groups: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
     for name in species_list {
-        let mut species_record = None;
-        for candidate in candidate_identifiers(&name) {
-            if let Ok(species) = repo.load_species(&candidate) {
-                species_record = Some(species);
-                break;
-            }
-        }
-        let Some(species) = species_record else {
+        let Some(entry) = dex.find(&name) else {
             eprintln!("Skipped egg group lookup for {name}; species not found");
             continue;
         };
 
         let slug = encounters::slugify(&name);
-        let display = name.clone();
-        for group in species.egg_groups {
-            let label = format_egg_group(&group.name);
+        let display = entry.name.clone();
+        for group in &entry.egg_groups {
+            let label = format_egg_group(group);
             groups
                 .entry(label)
                 .or_default()

@@ -1,66 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-espathra-956">
-<input type="radio" name="pokemon-tabs-espathra-956-group" id="pokemon-tabs-espathra-956-tab-0">
-<label for="pokemon-tabs-espathra-956-tab-0">Flittle</label>
-<input type="radio" name="pokemon-tabs-espathra-956-group" id="pokemon-tabs-espathra-956-tab-1" checked>
-<label for="pokemon-tabs-espathra-956-tab-1">Espathra</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-espathra-956-panel-0">
-## Flittle (#955)
-<details class="pokemon-card-container" open>
-<summary>Flittle overview</summary>
-_Frill Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 51
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Anticipation
-- Frisk
-- Speed Boost *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fighting (0.5×)
-- Psychic (0.5×)
-
-*Weak to*
-- Bug (2×)
-- Ghost (2×)
-- Dark (2×)
-
-**Evolution Paths**
-- Flittle → Espathra (Lv 35)
-
-**Encounter Locations**
-- Acrisia Mountains (Peak) — Grass (Day) (20%)
-- Acrisia Mountains (Peak) — Grass (Night) (20%)
-- Pythios Town — Grass (Day) (10%)
-- Pythios Town — Grass (Night) (10%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">30</span> |
-| Attack | <span class="stat-value stat-low">35</span> |
-| Defense | <span class="stat-value stat-low">30</span> |
-| Sp. Atk | <span class="stat-value stat-mid">55</span> |
-| Sp. Def | <span class="stat-value stat-low">30</span> |
-| Speed | <span class="stat-value stat-mid">75</span> |
-| Total | <span class="stat-value stat-low">255</span> |
-</div>
-</div>
-
-**Flavor Text**
-> It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-espathra-956-panel-1">
-## Espathra (#956)
+## Espathra (#146)
 <details class="pokemon-card-container" open>
 <summary>Espathra overview</summary>
-_Ostrich Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 168
+Types: Psychic • Egg Groups: Flying • Found: Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -80,8 +21,8 @@ _Ostrich Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 168
 - Ghost (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Flittle → Espathra (Lv 35)
+**Evolution Info**
+Lv. 30
 
 **Encounter Locations**
 - Kaptara Island (West) — Grass (Night) (10%)
@@ -94,21 +35,40 @@ _Ostrich Pokémon_ • Types: Psychic • Egg Groups: Flying • Base EXP: 168
 | --- | --- |
 | HP | <span class="stat-value stat-high">95</span> |
 | Attack | <span class="stat-value stat-mid">60</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-mid">70</span> |
 | Sp. Atk | <span class="stat-value stat-high">101</span> |
-| Sp. Def | <span class="stat-value stat-mid">60</span> |
-| Speed | <span class="stat-value stat-high">105</span> |
-| Total | <span class="stat-value stat-mid">481</span> |
-</div>
-</div>
+| Sp. Def | <span class="stat-value stat-mid">74</span> |
+| Speed | <span class="stat-value stat-high">101</span> |
+| Total | <span class="stat-value stat-mid">501</span> |
 
-**Flavor Text**
-> It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.
+**Level-Up Moves**
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Drill Peck (Lv 1)
+- Feather Dance (Lv 1)
+- Confusion (Lv 5)
+- Baby-Doll Eyes (Lv 8)
+- Disarming Voice (Lv 11)
+- Quick Attack (Lv 14)
+- Teeter Dance (Lv 17)
+- Psybeam (Lv 19)
+- Pluck (Lv 24)
+- Agility (Lv 29)
+- Lumina Crash (Lv Evo)
+- Uproar (Lv 34)
+- Dazzling Gleam (Lv 37)
+- Psychic (Lv 43)
+- No Retreat (Lv 45)
+- Last Resort (Lv 50)
+
+**Egg Moves**
+Ally Switch, Hypnosis, Roost
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM11 - Sunny Day, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM29 - Psychic, TM30 - Shadow Ball, TM33 - Reflect, TM37 - Sandstorm, TM40 - Aerial Ace, TM42 - Facade, TM44 - Rest, TM46 - Thief, TM48 - Skill Swap
+
+**Tutor Moves**
+Body Slam, Double-Edge, Endure, Mud-Slap, Psych Up, Sleep Talk, Swift
+</div>
+</div>
 </details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-espathra-956-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-espathra-956-panel-0 { display: block; }
-#pokemon-tabs-espathra-956-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-espathra-956-panel-1 { display: block; }
-</style>

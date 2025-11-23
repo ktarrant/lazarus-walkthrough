@@ -1,91 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-poliwhirl-61">
-<input type="radio" name="pokemon-tabs-poliwhirl-61-group" id="pokemon-tabs-poliwhirl-61-tab-0">
-<label for="pokemon-tabs-poliwhirl-61-tab-0">Poliwag</label>
-<input type="radio" name="pokemon-tabs-poliwhirl-61-group" id="pokemon-tabs-poliwhirl-61-tab-1" checked>
-<label for="pokemon-tabs-poliwhirl-61-tab-1">Poliwhirl</label>
-<input type="radio" name="pokemon-tabs-poliwhirl-61-group" id="pokemon-tabs-poliwhirl-61-tab-2">
-<label for="pokemon-tabs-poliwhirl-61-tab-2">Poliwrath</label>
-<input type="radio" name="pokemon-tabs-poliwhirl-61-group" id="pokemon-tabs-poliwhirl-61-tab-3">
-<label for="pokemon-tabs-poliwhirl-61-tab-3">Politoed</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-poliwhirl-61-panel-0">
-## Poliwag (#060)
-<details class="pokemon-card-container" open>
-<summary>Poliwag overview</summary>
-_Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 60
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Water Absorb
-- Damp
-- Swift Swim *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Poliwag → Poliwhirl (Lv 25) → Poliwrath (Use Water Stone)
-- Poliwag → Poliwhirl (Lv 25) → Politoed (Hold Kings Rock)
-
-**Encounter Locations**
-- Acrisia City — Fishing (60%)
-- Acrisia City — Grass (Day) (10%)
-- Acrisia City — Grass (Night) (10%)
-- Acrisia Mountains — Fishing (60%)
-- Erinys Path (East) — Fishing (60%)
-- Pythios Town — Fishing (60%)
-- Riverwalk Trail (West) — Fishing (30%)
-- Wanderer's Woods (North) — Fishing (60%)
-- Wanderer's Woods (North) — Grass (Day) (5%)
-- Wanderer's Woods (North) — Grass (Night) (5%)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-low">40</span> |
-| Attack | <span class="stat-value stat-low">50</span> |
-| Defense | <span class="stat-value stat-low">40</span> |
-| Sp. Atk | <span class="stat-value stat-low">40</span> |
-| Sp. Def | <span class="stat-value stat-low">40</span> |
-| Speed | <span class="stat-value stat-mid">90</span> |
-| Total | <span class="stat-value stat-low">300</span> |
-
-**Notable Level-Up Moves**
-- Hypnosis (Lv 1)
-- Water Gun (Lv 1)
-- Pound (Lv 6)
-- Mud Shot (Lv 12)
-- Bubble Beam (Lv 18)
-- Rain Dance (Lv 24)
-- Body Slam (Lv 30)
-- Earth Power (Lv 36)
-- Hydro Pump (Lv 42)
-- Belly Drum (Lv 48)
-- Double Edge (Lv 54)
-</div>
-</div>
-
-**Flavor Text**
-> For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-poliwhirl-61-panel-1">
-## Poliwhirl (#061)
+## Poliwhirl (#119)
 <details class="pokemon-card-container" open>
 <summary>Poliwhirl overview</summary>
-_Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 135
+Types: Water • Egg Groups: Water 1 • Found: Pythios Cemetery, Froslass Cavern? (SR)(fish)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -106,9 +22,8 @@ _Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 135
 - Electric (2×)
 - Grass (2×)
 
-**Evolution Paths**
-- Poliwag → Poliwhirl (Lv 25) → Poliwrath (Use Water Stone)
-- Poliwag → Poliwhirl (Lv 25) → Politoed (Hold Kings Rock)
+**Evolution Info**
+Lv. 25
 
 **Encounter Locations**
 - Froslass Cavern BF2 — Fishing (60%)
@@ -128,166 +43,29 @@ _Tadpole Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 135
 | Speed | <span class="stat-value stat-mid">90</span> |
 | Total | <span class="stat-value stat-mid">385</span> |
 
-**Notable Level-Up Moves**
-- Hypnosis (Lv 1)
-- Mud Shot (Lv 1)
-- Pound (Lv 1)
-- Water Gun (Lv 1)
-- Bubble Beam (Lv 18)
-- Rain Dance (Lv 24)
-- Body Slam (Lv 32)
-- Earth Power (Lv 40)
+**Level-Up Moves**
+- Water Sport (Lv 1)
+- Water Gun (Lv 5)
+- Hypnosis (Lv 8)
+- Bubble (Lv 11)
+- Double Slap (Lv 15)
+- Rain Dance (Lv 18)
+- Body Slam (Lv 21)
+- Bubble Beam (Lv 27)
+- Mud Shot (Lv 32)
+- Belly Drum (Lv 37)
+- Wake-Up Slap (Lv 43)
 - Hydro Pump (Lv 48)
-- Belly Drum (Lv 56)
-- Double Edge (Lv 66)
-</div>
-</div>
+- Mud Bomb (Lv 53)
 
-**Flavor Text**
-> Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.
+**Egg Moves**
+Mist, Splash, Bubble Beam, Haze, Mind Reader, Water Sport, Ice Ball, Mud Shot, Refresh, Endeavor, Encore, Endure, Water Pulse
+
+**TM/HM Moves**
+TM01 - Focus Punch, TM03 - Water Pulse, TM06 - Toxic, TM07 - Hail, TM13 - Ice Beam, TM14 - Blizzard, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM29 - Psychic, TM31 - Brick Break, TM32 - Double Team, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM46 - Thief, HM03 - Surf, HM04 - Strength, HM06 - Rock Smash, HM07 - Waterfall, HM08 - Dive
+
+**Tutor Moves**
+Body Slam, Counter, Defense Curl, Double-Edge, Endure, Ice Punch, Icy Wind, Mega Kick, Mega Punch, Metronome, Mud-Slap, Psych Up, Seismic Toss, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-poliwhirl-61-panel-2">
-## Poliwrath (#062)
-<details class="pokemon-card-container" open>
-<summary>Poliwrath overview</summary>
-_Tadpole Pokémon_ • Types: Water / Fighting • Egg Groups: Water1 • Base EXP: 230
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Water Absorb
-- Damp
-- Swift Swim *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dark (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-- Flying (2×)
-- Psychic (2×)
-- Fairy (2×)
-
-**Evolution Paths**
-- Poliwag → Poliwhirl (Lv 25) → Poliwrath (Use Water Stone)
-- Poliwag → Poliwhirl (Lv 25) → Politoed (Hold Kings Rock)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">90</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-high">95</span> |
-| Sp. Atk | <span class="stat-value stat-mid">70</span> |
-| Sp. Def | <span class="stat-value stat-mid">90</span> |
-| Speed | <span class="stat-value stat-mid">70</span> |
-| Total | <span class="stat-value stat-mid">510</span> |
-
-**Notable Level-Up Moves**
-- Belly Drum (Lv 1)
-- Body Slam (Lv 1)
-- Bubble Beam (Lv 1)
-- Circle Throw (Lv 1)
-- Double Edge (Lv 1)
-- Dynamic Punch (Lv 1)
-- Earth Power (Lv 1)
-- Hydro Pump (Lv 1)
-- Hypnosis (Lv 1)
-- Mind Reader (Lv 1)
-- Mud Shot (Lv 1)
-- Pound (Lv 1)
-- Rain Dance (Lv 1)
-- Submission (Lv 1)
-- Water Gun (Lv 1)
-</div>
-</div>
-
-**Flavor Text**
-> Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-poliwhirl-61-panel-3">
-## Politoed (#186)
-<details class="pokemon-card-container" open>
-<summary>Politoed overview</summary>
-_Frog Pokémon_ • Types: Water • Egg Groups: Water1 • Base EXP: 225
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Water Absorb
-- Damp
-- Drizzle *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**Evolution Paths**
-- Poliwag → Poliwhirl (Lv 25) → Poliwrath (Use Water Stone)
-- Poliwag → Poliwhirl (Lv 25) → Politoed (Hold Kings Rock)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">90</span> |
-| Attack | <span class="stat-value stat-mid">75</span> |
-| Defense | <span class="stat-value stat-mid">75</span> |
-| Sp. Atk | <span class="stat-value stat-mid">90</span> |
-| Sp. Def | <span class="stat-value stat-high">100</span> |
-| Speed | <span class="stat-value stat-mid">70</span> |
-| Total | <span class="stat-value stat-mid">500</span> |
-
-**Notable Level-Up Moves**
-- Belly Drum (Lv 1)
-- Body Slam (Lv 1)
-- Bounce (Lv 1)
-- Bubble Beam (Lv 1)
-- Double Edge (Lv 1)
-- Earth Power (Lv 1)
-- Hydro Pump (Lv 1)
-- Hyper Voice (Lv 1)
-- Hypnosis (Lv 1)
-- Mud Shot (Lv 1)
-- Perish Song (Lv 1)
-- Pound (Lv 1)
-- Rain Dance (Lv 1)
-- Swagger (Lv 1)
-- Water Gun (Lv 1)
-</div>
-</div>
-
-**Flavor Text**
-> At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-poliwhirl-61-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-poliwhirl-61-panel-0 { display: block; }
-#pokemon-tabs-poliwhirl-61-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-poliwhirl-61-panel-1 { display: block; }
-#pokemon-tabs-poliwhirl-61-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-poliwhirl-61-panel-2 { display: block; }
-#pokemon-tabs-poliwhirl-61-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-poliwhirl-61-panel-3 { display: block; }
-</style>

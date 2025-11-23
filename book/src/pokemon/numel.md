@@ -1,14 +1,7 @@
-<div class="pokemon-tabs" id="pokemon-tabs-numel-322">
-<input type="radio" name="pokemon-tabs-numel-322-group" id="pokemon-tabs-numel-322-tab-0" checked>
-<label for="pokemon-tabs-numel-322-tab-0">Numel</label>
-<input type="radio" name="pokemon-tabs-numel-322-group" id="pokemon-tabs-numel-322-tab-1">
-<label for="pokemon-tabs-numel-322-tab-1">Camerupt</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-numel-322-panel-0">
-## Numel (#322)
+## Numel (#314)
 <details class="pokemon-card-container" open>
 <summary>Numel overview</summary>
-_Numb Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 61
+Types: Fire / Ground • Egg Groups: Field • Found: Fresco Isles (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -31,9 +24,6 @@ _Numb Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 61
 - Water (4×)
 - Ground (2×)
 
-**Evolution Paths**
-- Numel → Camerupt (Lv 33)
-
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
 </div>
@@ -49,65 +39,34 @@ _Numb Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 61
 | Sp. Def | <span class="stat-value stat-low">45</span> |
 | Speed | <span class="stat-value stat-low">35</span> |
 | Total | <span class="stat-value stat-low">305</span> |
-</div>
-</div>
 
-**Flavor Text**
-> Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.
+**Level-Up Moves**
+- Growl (Lv 1)
+- Tackle (Lv 1)
+- Ember (Lv 5)
+- Focus Energy (Lv 8)
+- Magnitude (Lv 12)
+- Flame Burst (Lv 15)
+- Headbutt (Lv 17)
+- Amnesia (Lv 19)
+- Lava Plume (Lv 22)
+- Earth Power (Lv 26)
+- Curse (Lv 29)
+- Body Slam (Lv 31)
+- Yawn (Lv 34)
+- Scald (Lv 37)
+- Earthquake (Lv 40)
+- Flamethrower (Lv 43)
+- Double-Edge (Lv 47)
+
+**Egg Moves**
+Howl, Scary Face, Body Slam, Rollout, Defense Curl, Stomp, Yawn, Ancient Power, Mud Bomb, Heat Wave, Stockpile, Swallow, Spit Up, Endure, Iron Head, Growth, Heavy Slam
+
+**TM/HM Moves**
+TM05 - Roar, TM06 - Toxic, TM11 - Sunny Day, TM17 - Protect, TM18 - Rain Dance, TM26 - Earthquake, TM28 - Dig, TM32 - Double Team, TM35 - Flamethrower, TM37 - Sandstorm, TM38 - Fire Blast, TM39 - Rock Tomb, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM50 - Overheat, TM56 - Stomping Tantrum, HM04 - Strength, HM06 - Rock Smash
+
+**Tutor Moves**
+Body Slam, Defense Curl, Double-Edge, Endure, Mud-Slap, Rock Slide, Rollout, Sleep Talk, Snore, Swagger
+</div>
+</div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-numel-322-panel-1">
-## Camerupt (#323)
-<details class="pokemon-card-container" open>
-<summary>Camerupt overview</summary>
-_Eruption Pokémon_ • Types: Fire / Ground • Egg Groups: Ground • Base EXP: 161
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Magma Armor
-- Solid Rock
-- Anger Point *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Electric (0×)
-- Poison (0.5×)
-- Bug (0.5×)
-- Steel (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Water (4×)
-- Ground (2×)
-
-**Evolution Paths**
-- Numel → Camerupt (Lv 33)
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
-| Attack | <span class="stat-value stat-high">100</span> |
-| Defense | <span class="stat-value stat-mid">70</span> |
-| Sp. Atk | <span class="stat-value stat-high">105</span> |
-| Sp. Def | <span class="stat-value stat-mid">75</span> |
-| Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">460</span> |
-</div>
-</div>
-
-**Flavor Text**
-> The volcanoes on its back have a major eruption every 10 years--or whenever it becomes really angry.
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-numel-322-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-numel-322-panel-0 { display: block; }
-#pokemon-tabs-numel-322-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-numel-322-panel-1 { display: block; }
-</style>

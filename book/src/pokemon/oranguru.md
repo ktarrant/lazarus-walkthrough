@@ -1,7 +1,7 @@
-## Oranguru (#765)
+## Oranguru (#326)
 <details class="pokemon-card-container" open>
 <summary>Oranguru overview</summary>
-_Sage Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP: 172
+Types: Normal / Psychic • Egg Groups: Field • Found: Kalami City, Kaptara Island (wild)
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -20,9 +20,6 @@ _Sage Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP:
 - Bug (2×)
 - Dark (2×)
 
-**Evolution Paths**
-- Oranguru
-
 **Encounter Locations**
 - Kalami City — Grass (Night) (2%)
 - Kaptara Island (West) — Grass (Day) (10%)
@@ -33,32 +30,41 @@ _Sage Pokémon_ • Types: Normal / Psychic • Egg Groups: Ground • Base EXP:
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">90</span> |
+| HP | <span class="stat-value stat-high">100</span> |
 | Attack | <span class="stat-value stat-mid">60</span> |
 | Defense | <span class="stat-value stat-mid">80</span> |
 | Sp. Atk | <span class="stat-value stat-mid">90</span> |
 | Sp. Def | <span class="stat-value stat-high">110</span> |
 | Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-mid">490</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
 
-**Notable Level-Up Moves**
+**Level-Up Moves**
 - Confusion (Lv 1)
-- Taunt (Lv 1)
-- After You (Lv 5)
-- Calm Mind (Lv 10)
+- After You (Lv 4)
+- Taunt (Lv 8)
+- Quash (Lv 11)
 - Stored Power (Lv 15)
-- Psych Up (Lv 20)
-- Quash (Lv 25)
-- Nasty Plot (Lv 30)
-- Zen Headbutt (Lv 35)
-- Trick Room (Lv 40)
-- Psychic (Lv 45)
-- Instruct (Lv 50)
-- Foul Play (Lv 55)
-- Future Sight (Lv 60)
-</div>
-</div>
+- Psych Up (Lv 18)
+- Leafage (Lv 20)
+- Feint Attack (Lv 22)
+- Nasty Plot (Lv 25)
+- Magical Leaf (Lv 29)
+- Instruct (Lv 32)
+- Foul Play (Lv 36)
+- Calm Mind (Lv 38)
+- Psychic (Lv 40)
+- Uproar (Lv 43)
+- Future Sight (Lv 46)
+- Trick Room (Lv 50)
 
-**Flavor Text**
-> With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.
+**Egg Moves**
+Extrasensory, Wonder Room, Psychic Terrain
+
+**TM/HM Moves**
+TM04 - Calm Mind, TM06 - Toxic, TM11 - Sunny Day, TM12 - Taunt, TM15 - Hyper Beam, TM16 - Light Screen, TM17 - Protect, TM18 - Rain Dance, TM20 - Safeguard, TM24 - Thunderbolt, TM25 - Thunder, TM26 - Earthquake, TM29 - Psychic, TM30 - Shadow Ball, TM31 - Brick Break, TM32 - Double Team, TM33 - Reflect, TM42 - Facade, TM44 - Rest, TM45 - Attract, TM48 - Skill Swap, TM49 - Snatch
+
+**Tutor Moves**
+Body Slam, Dream Eater, Endure, Mega Kick, Mega Punch, Psych Up, Rock Slide, Sleep Talk, Snore, Swagger, Swift
+</div>
+</div>
 </details>
