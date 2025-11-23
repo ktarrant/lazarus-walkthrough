@@ -11,13 +11,12 @@
 # Requirements:
 #   pip install pdfplumber
 #
-import json
 import argparse
-from pathlib import Path
-import pprint
+import json
 import re
+from pathlib import Path
 
-import pdfplumber  # type: ignore
+from pdf_table import ColumnarPDFTable  # type: ignore
 
 species_re = re.compile(r'^\s*(.*?)\s*\(([\d.]+%)\)\s*$')
 
@@ -41,44 +40,28 @@ def main():
     pdf_path = Path(args.pdf)
     out_file = Path(args.out) if args.out else pdf_path.with_name(f"encounters.json")
 
-    combined_table = {}
-    
-    with pdfplumber.open(pdf_path) as pdf:
-        for pidx, page in enumerate(pdf.pages, start=1):
-            tables = page.extract_tables() or []
-            for tidx, table in enumerate(tables, start=1):
-                # Normalize and skip fully empty rows
-                cleaned = [[(c or "").strip() for c in row] for row in table]
-                for r_idx, row in enumerate(cleaned, start=1):
-                    for c_idx, cell in enumerate(row, start=1):
-                        key = c_idx - 1 + (pidx - 1) * 16
-                        try:
-                            column = combined_table[key]
-                        except KeyError:
-                            column = {}
-                            combined_table[key] = column
-                        column[r_idx] = cell
-                        combined_table[key] = column
+    table = ColumnarPDFTable.from_pdf(pdf_path, columns_per_page=16)
 
     headers = {
-        header[:-1]: rowid
-        for (rowid, header) in combined_table[0].items()
+        header: rowid for header, rowid in table.header_map().items()
         if header
     }
     cur_location = None
     encounters = {}
-    for c_idx in combined_table.keys():
-        if c_idx == 0: continue
-        location = combined_table[c_idx][headers["Location"]]
+    for c_idx, column in table.iter_columns():
+        if c_idx == 0:
+            continue
+        location = column.get(headers["Location"], "")
         if location:
             cur_location = location
             encounters[location] = {}
-            for row_idx in combined_table[c_idx]:
+            for row_idx, cell in column.items():
                 header = get_header_from_ridx(headers, row_idx)
-                if not header: continue
-                cell = combined_table[c_idx][row_idx]
+                if not header:
+                    continue
                 cell_match = species_re.match(cell)
-                if not cell_match: continue
+                if not cell_match:
+                    continue
                 try:
                     enc_cat = encounters[location][header]
                 except KeyError:
@@ -96,7 +79,7 @@ def main():
             except KeyError:
                 continue
             for entry in fishing:
-                rod_type = combined_table[c_idx][entry.pop("ridx")]
+                rod_type = table.cell(c_idx, entry.pop("ridx"))
                 entry["Rod"] = rod_type
 
     with open(out_file, "w") as fobj:
