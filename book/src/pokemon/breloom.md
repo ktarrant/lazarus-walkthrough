@@ -1,3 +1,124 @@
+<div class="pokemon-tabs" id="pokemon-tabs-breloom">
+<input type="radio" name="pokemon-tabs-breloom-group" id="pokemon-tabs-breloom-tab-0">
+<label for="pokemon-tabs-breloom-tab-0">Shroomish</label>
+<input type="radio" name="pokemon-tabs-breloom-group" id="pokemon-tabs-breloom-tab-1" checked>
+<label for="pokemon-tabs-breloom-tab-1">Breloom</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-breloom-panel-0">
+## Shroomish (#124)
+<details class="pokemon-card-container" open>
+<summary>Shroomish overview</summary>
+Types: Grass • Egg Groups: Fairy / Grass
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Effect Spore
+- Poison Heal
+- Quick Feet *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Water (0.5×)
+- Electric (0.5×)
+- Grass (0.5×)
+- Ground (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Ice (2×)
+- Poison (2×)
+- Flying (2×)
+- Bug (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- HM05 - Flash
+
+**Held Item**
+Tiny Mushroom
+
+**Encounter Locations**
+- Acrisia City — Grass (Day) (10%)
+- Acrisia City — Grass (Night) (10%)
+- Wanderer's Woods (North) — Grass (Day) (20%)
+- Wanderer's Woods (North) — Grass (Night) (20%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">60</span> |
+| Speed | <span class="stat-value stat-low">35</span> |
+| Total | <span class="stat-value stat-low">295</span> |
+
+**Level-Up Moves**
+- Absorb (Lv 1)
+- Tackle (Lv 1)
+- Stun Spore (Lv 5)
+- Leech Seed (Lv 8)
+- Mega Drain (Lv 12)
+- Headbutt (Lv 15)
+- Poison Powder (Lv 19)
+- Worry Seed (Lv 22)
+- Giga Drain (Lv 26)
+- Growth (Lv 29)
+- Toxic (Lv 33)
+- Seeb Bomb (Lv 36)
+- Spore (Lv 40)
+
+**Egg Moves**
+- Fake Tears
+- Charm
+- Helping Hand
+- Worry Seed
+- Wake-Up Slap
+- Seed Bomb
+- Bullet Seed
+- Focus Punch
+- Natural Gift
+- Drain Punch
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Swords Dance
+- 285
+- 1 HP
+- 0.4
+- 4.5
+- 59
+- 255
+- 15
+- 50
+- Fluctuating
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-breloom-panel-1">
 ## Breloom (#125)
 <details class="pokemon-card-container" open>
 <summary>Breloom overview</summary>
@@ -29,18 +150,15 @@ Types: Grass / Fighting • Egg Groups: Fairy / Grass
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
+- TM20 - Poison Jab
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -50,11 +168,15 @@ Types: Grass / Fighting • Egg Groups: Fairy / Grass
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM49 - Snatch
+- TM49 - Bulldoze
+- TM53 - Power-Up Punch
 - HM01 - Cut
 - HM04 - Strength
 - HM05 - Flash
 - HM06 - Rock Smash
+
+**Held Item**
+Tiny Mushroom
 
 **Evolution Info**
 Lv. 23
@@ -78,6 +200,7 @@ Lv. 23
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
+- Mach Punch (Lv Evo)
 - Absorb (Lv 1)
 - Tackle (Lv 1)
 - Stun Spore (Lv 5)
@@ -86,7 +209,6 @@ Lv. 23
 - Headbutt (Lv 15)
 - Feint (Lv 19)
 - Counter (Lv 22)
-- Mach Punch (Lv Evo)
 - Dizzy Punch (Lv 25)
 - Force Palm (Lv 28)
 - Power-Up Punch (Lv 30)
@@ -128,6 +250,22 @@ Lv. 23
 - Swift
 - Swords Dance
 - Thunder Punch
+- 286
+- 2 Atk
+- 1.2
+- 39.2
+- 161
+- 90
+- 15
+- 50
+- Fluctuating
 </div>
 </div>
 </details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-breloom-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-breloom-panel-0 { display: block; }
+#pokemon-tabs-breloom-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-breloom-panel-1 { display: block; }
+</style>

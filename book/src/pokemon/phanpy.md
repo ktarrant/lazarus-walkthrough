@@ -30,12 +30,10 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM32 - Double Team
@@ -45,8 +43,7 @@ Types: Ground • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM56 - Stomping Tantrum
-- TM58 - Play Rough
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -114,6 +111,15 @@ Types: Ground • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 231
+- 1 HP
+- 0.5
+- 33.5
+- 66
+- 120
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -144,13 +150,11 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM26 - Earthquake
 - TM28 - Dig
 - TM32 - Double Team
@@ -160,11 +164,7 @@ Types: Ground • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM52 - Thunder Fang
-- TM53 - Ice Fang
-- TM54 - Fire Fang
-- TM56 - Stomping Tantrum
-- TM58 - Play Rough
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -185,6 +185,7 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
+- Headbutt (Lv Evo)
 - Fire Fang (Lv 1)
 - Thunder Fang (Lv 1)
 - Horn Attack (Lv 1)
@@ -198,7 +199,6 @@ Lv. 25
 - Magnitude (Lv 16)
 - Knock Off (Lv 19)
 - Slam (Lv 24)
-- Headbutt (Lv Evo)
 - Bulldoze (Lv 28)
 - Body Slam (Lv 33)
 - Play Rough (Lv 36)
@@ -233,6 +233,15 @@ Lv. 25
 - Sleep Talk
 - Snore
 - Swagger
+- 232
+- 1 Atk, 1 Def
+- 1.1
+- 120.0
+- 175
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

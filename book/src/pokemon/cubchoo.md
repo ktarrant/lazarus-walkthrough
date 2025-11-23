@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-cubchoo-tab-1">Beartic</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cubchoo-panel-0">
-## Cubchoo (#354)
+## Cubchoo (#374)
 <details class="pokemon-card-container" open>
 <summary>Cubchoo overview</summary>
 Types: Ice • Egg Groups: Field
@@ -29,10 +29,8 @@ Types: Ice • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
@@ -46,6 +44,10 @@ Types: Ice • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
+- TM52 - Frost Breath
+- TM53 - Power-Up Punch
+- TM55 - Snarl
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
@@ -111,12 +113,21 @@ Types: Ice • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 613
+- 1 Atk
+- 0.5
+- 8.5
+- 61
+- 129
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cubchoo-panel-1">
-## Beartic (#355)
+## Beartic (#375)
 <details class="pokemon-card-container" open>
 <summary>Beartic overview</summary>
 Types: Ice • Egg Groups: Field
@@ -140,16 +151,12 @@ Types: Ice • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM08 - Bulk Up
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM26 - Earthquake
@@ -162,6 +169,10 @@ Types: Ice • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
+- TM52 - Frost Breath
+- TM53 - Power-Up Punch
+- TM55 - Snarl
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
@@ -185,6 +196,7 @@ Lv. 37
 | Total | <span class="stat-value stat-mid">515</span> |
 
 **Level-Up Moves**
+- Icicle Crash (Lv Evolve)
 - Sheer Cold (Lv 1)
 - Thrash (Lv 1)
 - Superpower (Lv 1)
@@ -200,7 +212,6 @@ Lv. 37
 - Avalanche (Lv 29)
 - Slash (Lv 33)
 - Flail (Lv 36)
-- Icicle Crash (Lv Evolve)
 - Liquidation (Lv 40)
 - Rest (Lv 42)
 - Crush Claw (Lv 45)
@@ -234,6 +245,15 @@ Lv. 37
 - Snore
 - Swagger
 - Swords Dance
+- 614
+- 2 Atk
+- 2.6
+- 260.0
+- 177
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

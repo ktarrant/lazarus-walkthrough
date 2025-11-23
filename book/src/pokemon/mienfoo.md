@@ -30,7 +30,6 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM04 - Calm Mind
 - TM06 - Toxic
 - TM08 - Bulk Up
@@ -38,6 +37,7 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM20 - Poison Jab
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -47,6 +47,7 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM53 - Power-Up Punch
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -81,7 +82,7 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Jump Kick (Lv 38)
 - Calm Mind (Lv 41)
 - Quick Guard (Lv 45)
-- Bounce (Lv 49)
+- Fire Lash (Lv 48)
 - High Jump Kick (Lv 50)
 - Reversal (Lv 53)
 - Aura Sphere (Lv 57)
@@ -108,6 +109,15 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Swagger
 - Swift
 - Swords Dance
+- 619
+- 1 Atk
+- 0.9
+- 20.0
+- 70
+- 180
+- 25
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -138,15 +148,14 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM04 - Calm Mind
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM20 - Poison Jab
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -156,6 +165,7 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM53 - Power-Up Punch
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -176,6 +186,7 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
+- Aerial Ace (Lv Evo)
 - Aura Sphere (Lv 1)
 - Reversal (Lv 1)
 - Pound (Lv 1)
@@ -189,10 +200,9 @@ Lv. 40
 - Drain Punch (Lv 33)
 - Poison Jab (Lv 35)
 - Jump Kick (Lv 38)
-- Aerial Ace (Lv Evo)
 - Calm Mind (Lv 41)
 - Quick Guard (Lv 45)
-- Bounce (Lv 49)
+- Fire Lash (Lv 48)
 - High Jump Kick (Lv 50)
 - Reversal (Lv 53)
 - Aura Sphere (Lv 57)
@@ -220,6 +230,15 @@ Lv. 40
 - Swagger
 - Swift
 - Swords Dance
+- 620
+- 2 Atk
+- 1.4
+- 35.5
+- 179
+- 45
+- 25
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

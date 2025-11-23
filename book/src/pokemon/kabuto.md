@@ -35,7 +35,7 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
@@ -51,6 +51,7 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
 - HM03 - Surf
 - HM06 - Rock Smash
 - HM07 - Waterfall
@@ -113,6 +114,15 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - Sleep Talk
 - Snore
 - Swagger
+- 140
+- 1 Def
+- 0.5
+- 11.5
+- 71
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -148,10 +158,9 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
@@ -166,6 +175,7 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
 - HM01 - Cut
 - HM03 - Surf
 - HM06 - Rock Smash
@@ -189,6 +199,7 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
+- Slash (Lv Evo)
 - Night Slash (Lv 1)
 - Scratch (Lv 1)
 - Harden (Lv 1)
@@ -201,7 +212,6 @@ Lv. 40
 - Aqua Jet (Lv 31)
 - Aqua Cutter (Lv 36)
 - Cross Poison (Lv 39)
-- Slash (Lv Evo)
 - Stone Axe (Lv 41)
 - Ancient Power (Lv 46)
 - Wring Out (Lv 50)
@@ -236,6 +246,15 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
+- 141
+- 2 Atk
+- 1.3
+- 40.5
+- 173
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -86,6 +86,15 @@ Types: Grass • Egg Groups: Field / Grass
 - Mud-Slap
 - Sleep Talk
 - Swift
+- 906
+- 1 Spe
+- 0.4
+- 4.1
+- 62
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -173,6 +182,15 @@ Lv. 16
 - Sleep Talk
 - Swift
 - Thunder Punch
+- 907
+- 2 Spe
+- 0.9
+- 12.2
+- 144
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -213,7 +231,6 @@ Types: Grass / Dark • Egg Groups: Field / Grass
 **TM/HM Moves**
 - TM09 - Bullet Seed
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM19 - Giga Drain
 - TM22 - Solar Beam
@@ -225,6 +242,7 @@ Types: Grass / Dark • Egg Groups: Field / Grass
 - TM44 - Rest
 - TM46 - Thief
 - TM48 - Skill Swap
+- TM59 - Dark Pulse
 
 **Evolution Info**
 Lv. 36
@@ -243,6 +261,7 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Flower Trick (Lv Evo)
 - Double Team (Lv 1)
 - Trick (Lv 1)
 - Leafage (Lv 1)
@@ -256,7 +275,6 @@ Lv. 36
 - U-Turn (Lv 24)
 - Worry Seed (Lv 29)
 - Slash (Lv 33)
-- Flower Trick (Lv Evo)
 - Night Slash (Lv 38)
 - Energy Ball (Lv 40)
 - Play Rough (Lv 43)
@@ -278,6 +296,15 @@ Lv. 36
 - Sleep Talk
 - Swift
 - Thunder Punch
+- 908
+- 3 Spe
+- 1.5
+- 31.2
+- 265
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

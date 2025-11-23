@@ -1,4 +1,4 @@
-## Dhelmise (#387)
+## Dhelmise (#417)
 <details class="pokemon-card-container" open>
 <summary>Dhelmise overview</summary>
 Types: Ghost / Grass • Egg Groups: Mineral
@@ -27,12 +27,13 @@ Types: Ghost / Grass • Egg Groups: Mineral
 
 **TM/HM Moves**
 - TM06 - Toxic
+- TM07 - Whirlpool
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM26 - Earthquake
 - TM30 - Shadow Ball
 - TM31 - Brick Break
@@ -42,6 +43,7 @@ Types: Ghost / Grass • Egg Groups: Mineral
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
 - HM03 - Surf
 
 **Encounter Locations**
@@ -84,6 +86,9 @@ Types: Ghost / Grass • Egg Groups: Mineral
 - Phantom Force (Lv 50)
 - Power Whip (Lv 55)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Endure
 - Rock Slide
@@ -91,6 +96,15 @@ Types: Ghost / Grass • Egg Groups: Mineral
 - Snore
 - Swagger
 - Swords Dance
+- 781
+- 2 Atk
+- 3.9
+- 210.0
+- 181
+- 25
+- 25
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -13,7 +13,7 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Thick Fat
+- Thick Layers
 - Ice Scales
 - Ice Body *(Hidden)*
 
@@ -32,18 +32,17 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM32 - Double Team
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM50 - Deepwater Curse
 - HM03 - Surf
 - HM04 - Strength
 - HM07 - Waterfall
@@ -86,6 +85,7 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 - Dive (Lv 41)
 - Aqua Tail (Lv 43)
 - Ice Beam (Lv 47)
+- Deepwater Curse (Lv 48)
 - Safeguard (Lv 51)
 - Hail (Lv 53)
 
@@ -116,6 +116,15 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 - Sleep Talk
 - Snore
 - Swagger
+- 86
+- 1 Sp. Def
+- 1.1
+- 90.0
+- 65
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -129,7 +138,7 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Thick Fat
+- Thick Layers
 - Ice Scales
 - Ice Body *(Hidden)*
 
@@ -148,20 +157,18 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM32 - Double Team
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM58 - Play Rough
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
 - HM03 - Surf
 - HM04 - Strength
 - HM07 - Waterfall
@@ -184,6 +191,7 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
+- Sheer Cold (Lv Evo)
 - Headbutt (Lv 1)
 - Growl (Lv 3)
 - Signal Beam (Lv 7)
@@ -195,12 +203,12 @@ Lv. 34
 - Aurora Beam (Lv 27)
 - Aqua Jet (Lv 31)
 - Brine (Lv 33)
-- Sheer Cold (Lv Evo)
 - Megahorn (Lv 35)
 - Take Down (Lv 39)
 - Dive (Lv 45)
 - Aqua Tail (Lv 49)
 - Ice Beam (Lv 55)
+- Deepwater Curse (Lv 55)
 - Safeguard (Lv 61)
 - Hail (Lv 65)
 
@@ -231,6 +239,15 @@ Lv. 34
 - Sleep Talk
 - Snore
 - Swagger
+- 87
+- 2 Sp. Def
+- 1.7
+- 120.0
+- 166
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

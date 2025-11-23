@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-buizel-tab-1">Floatzel</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-buizel-panel-0">
-## Buizel (#218)
+## Buizel (#238)
 <details class="pokemon-card-container" open>
 <summary>Buizel overview</summary>
 Types: Water • Egg Groups: Field / Water 1
@@ -30,18 +30,15 @@ Types: Water • Egg Groups: Field / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM08 - Bulk Up
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -50,6 +47,8 @@ Types: Water • Egg Groups: Field / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM53 - Power-Up Punch
+- TM56 - Scald
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -122,12 +121,21 @@ Types: Water • Egg Groups: Field / Water 1
 - Snore
 - Swagger
 - Swift
+- 418
+- 1 Spe
+- 0.7
+- 29.5
+- 66
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-buizel-panel-1">
-## Floatzel (#219)
+## Floatzel (#239)
 <details class="pokemon-card-container" open>
 <summary>Floatzel overview</summary>
 Types: Water • Egg Groups: Field / Water 1
@@ -152,19 +160,15 @@ Types: Water • Egg Groups: Field / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM08 - Bulk Up
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -174,6 +178,9 @@ Types: Water • Egg Groups: Field / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM53 - Power-Up Punch
+- TM55 - Snarl
+- TM56 - Scald
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -197,6 +204,7 @@ Lv. 26
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Ice Fang (Lv Evo)
 - Ice Shard (Lv 1)
 - Crunch (Lv 1)
 - Sonic Boom (Lv 1)
@@ -207,7 +215,6 @@ Lv. 26
 - Pursuit (Lv 18)
 - Swift (Lv 21)
 - Aqua Jet (Lv 24)
-- Ice Fang (Lv Evo)
 - Double Hit (Lv 27)
 - Whirlpool (Lv 31)
 - Jet Punch (Lv 35)
@@ -246,6 +253,15 @@ Lv. 26
 - Snore
 - Swagger
 - Swift
+- 419
+- 2 Spe
+- 1.1
+- 33.5
+- 173
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

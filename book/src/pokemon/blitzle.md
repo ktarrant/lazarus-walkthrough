@@ -40,7 +40,7 @@ Types: Electric • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM49 - Snatch
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Encounter Locations**
@@ -100,7 +100,15 @@ Types: Electric • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 522
+- 1 Spe
+- 0.8
+- 29.8
+- 59
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -129,11 +137,9 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -144,8 +150,8 @@ Types: Electric • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM49 - Snatch
-- TM50 - Overheat
+- TM49 - Bulldoze
+- TM58 - Thunder Wave
 - HM05 - Flash
 - HM06 - Rock Smash
 
@@ -206,7 +212,15 @@ Lv. 27
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 523
+- 2 Spe
+- 1.6
+- 79.5
+- 174
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

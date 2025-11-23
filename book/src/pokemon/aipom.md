@@ -26,7 +26,6 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM06 - Toxic
 - TM11 - Sunny Day
@@ -34,7 +33,6 @@ Types: Normal • Egg Groups: Field
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -47,8 +45,8 @@ Types: Normal • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
-- TM60 - U-Turn
+- TM53 - Power-Up Punch
+- TM58 - Thunder Wave
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -126,7 +124,15 @@ Types: Normal • Egg Groups: Field
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 190
+- 1 Spe
+- 0.8
+- 11.5
+- 72
+- 45
+- 20
+- 50
+- Fast
 </div>
 </div>
 </details>
@@ -153,16 +159,13 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -175,8 +178,8 @@ Types: Normal • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
-- TM60 - U-Turn
+- TM53 - Power-Up Punch
+- TM58 - Thunder Wave
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -198,6 +201,7 @@ Lv. knows Double Hit
 | Total | <span class="stat-value stat-mid">482</span> |
 
 **Level-Up Moves**
+- Dual Chop (Lv Evo)
 - Scratch (Lv 1)
 - Tail Whip (Lv 1)
 - Sand Attack (Lv 4)
@@ -210,7 +214,6 @@ Lv. knows Double Hit
 - Screech (Lv 25)
 - Agility (Lv 29)
 - Double Hit (Lv 32)
-- Dual Chop (Lv Evo)
 - Throat Chop (Lv 36)
 - Double Iron Bash (Lv 39)
 - Last Resort (Lv 43)
@@ -248,7 +251,15 @@ Lv. knows Double Hit
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 424
+- 2 Spe
+- 1.2
+- 20.3
+- 169
+- 45
+- 20
+- 100
+- Fast
 </div>
 </div>
 </details>

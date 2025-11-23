@@ -35,11 +35,9 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 
 **TM/HM Moves**
 - TM02 - Dragon Claw
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -48,10 +46,14 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - TM39 - Rock Tomb
 - TM40 - Aerial Ace
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM59 - Dark Pulse
+- TM60 - Dragon Dance
 - HM04 - Strength
-- HM05 - Flash
+- HM06 - Rock Smash
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (2%)
@@ -104,6 +106,15 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - Sleep Talk
 - Snore
 - Swagger
+- 696
+- 1 Atk
+- 0.8
+- 26.0
+- 72
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -139,12 +150,9 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 
 **TM/HM Moves**
 - TM02 - Dragon Claw
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -153,13 +161,17 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - TM39 - Rock Tomb
 - TM40 - Aerial Ace
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM59 - Dark Pulse
+- TM60 - Dragon Dance
 - HM04 - Strength
-- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
-Lv. 39, Day
+Lv. 34, Day
 </div>
 <div class="card-column">
 **Base Stats**
@@ -175,6 +187,7 @@ Lv. 39, Day
 | Total | <span class="stat-value stat-mid">521</span> |
 
 **Level-Up Moves**
+- Rock Slide (Lv Evo)
 - Head Smash (Lv 1)
 - Tail Whip (Lv 1)
 - Tackle (Lv 1)
@@ -189,7 +202,6 @@ Lv. 39, Day
 - Dragon Tail (Lv 30)
 - Crunch (Lv 34)
 - Dragon Claw (Lv 37)
-- Rock Slide (Lv Evo)
 - Thrash (Lv 40)
 - Earthquake (Lv 44)
 - Horn Drill (Lv 49)
@@ -212,6 +224,15 @@ Lv. 39, Day
 - Sleep Talk
 - Snore
 - Swagger
+- 697
+- 2 Atk
+- 2.5
+- 270.0
+- 182
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

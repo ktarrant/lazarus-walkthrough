@@ -7,7 +7,7 @@
 <label for="pokemon-tabs-chikorita-tab-2">Meganium</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-panel-0">
-## Chikorita
+## Chikorita (#211)
 <details class="pokemon-card-container" open>
 <summary>Chikorita overview</summary>
 Types: Grass • Egg Groups: Monster / Grass
@@ -16,7 +16,7 @@ Types: Grass • Egg Groups: Monster / Grass
 <div class="card-column">
 **Abilities**
 - Overgrow
-- Thick Fat
+- Thick Layers
 - Triage *(Hidden)*
 
 **Type Matchups**
@@ -41,9 +41,7 @@ Types: Grass • Egg Groups: Monster / Grass
 - TM16 - Light Screen
 - TM17 - Protect
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM32 - Double Team
 - TM33 - Reflect
 - TM42 - Facade
@@ -112,12 +110,21 @@ Types: Grass • Egg Groups: Monster / Grass
 - Snore
 - Swagger
 - Swords Dance
+- 152
+- 1 Sp. Def
+- 0.9
+- 6.4
+- 64
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-panel-1">
-## Bayleef
+## Bayleef (#212)
 <details class="pokemon-card-container" open>
 <summary>Bayleef overview</summary>
 Types: Grass • Egg Groups: Monster / Grass
@@ -126,7 +133,7 @@ Types: Grass • Egg Groups: Monster / Grass
 <div class="card-column">
 **Abilities**
 - Overgrow
-- Thick Fat
+- Thick Layers
 - Triage *(Hidden)*
 
 **Type Matchups**
@@ -151,15 +158,12 @@ Types: Grass • Egg Groups: Monster / Grass
 - TM16 - Light Screen
 - TM17 - Protect
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM32 - Double Team
 - TM33 - Reflect
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM56 - Stomping Tantrum
 - HM01 - Cut
 - HM04 - Strength
 - HM05 - Flash
@@ -173,15 +177,16 @@ Lv. 16
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">70</span> |
+| HP | <span class="stat-value stat-mid">80</span> |
 | Attack | <span class="stat-value stat-mid">62</span> |
 | Defense | <span class="stat-value stat-mid">80</span> |
 | Sp. Atk | <span class="stat-value stat-mid">63</span> |
-| Sp. Def | <span class="stat-value stat-mid">80</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
+| Sp. Def | <span class="stat-value stat-mid">75</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
 | Total | <span class="stat-value stat-mid">415</span> |
 
 **Level-Up Moves**
+- Dragon Rage (Lv Evo)
 - Tackle (Lv 1)
 - Growl (Lv 1)
 - Razor Leaf (Lv 6)
@@ -230,12 +235,21 @@ Lv. 16
 - Snore
 - Swagger
 - Swords Dance
+- 153
+- 1 Def, 1 Sp. Def
+- 1.2
+- 15.8
+- 142
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-panel-2">
-## Meganium
+## Meganium (#213)
 <details class="pokemon-card-container" open>
 <summary>Meganium overview</summary>
 Types: Grass / Fairy • Egg Groups: Monster / Grass
@@ -244,7 +258,7 @@ Types: Grass / Fairy • Egg Groups: Monster / Grass
 <div class="card-column">
 **Abilities**
 - Overgrow
-- Thick Fat
+- Thick Layers
 - Triage *(Hidden)*
 
 **Type Matchups**
@@ -269,20 +283,17 @@ Types: Grass / Fairy • Egg Groups: Monster / Grass
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM32 - Double Team
 - TM33 - Reflect
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
 - HM01 - Cut
 - HM04 - Strength
 - HM05 - Flash
@@ -305,7 +316,9 @@ Lv. 32
 | Total | <span class="stat-value stat-mid">545</span> |
 
 **Level-Up Moves**
+- Petal Dance (Lv Evo)
 - Petal Blizzard (Lv 1)
+- Dragon Rage (Lv 1)
 - Tackle (Lv 1)
 - Growl (Lv 1)
 - Razor Leaf (Lv 6)
@@ -318,7 +331,6 @@ Lv. 32
 - Natural Gift (Lv 26)
 - Dazzling Gleam (Lv 30)
 - Sweet Scent (Lv 32)
-- Petal Dance (Lv Evo)
 - Light Screen (Lv 36)
 - Body Slam (Lv 40)
 - Moonblast (Lv 43)
@@ -356,6 +368,15 @@ Lv. 32
 - Snore
 - Swagger
 - Swords Dance
+- 154
+- 1 Def, 2 Sp. Def
+- 1.8
+- 100.5
+- 236
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

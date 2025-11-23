@@ -35,13 +35,11 @@ Types: Fire / Normal • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM17 - Protect
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM32 - Double Team
 - TM35 - Flamethrower
@@ -52,7 +50,7 @@ Types: Fire / Normal • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
 - HM01 - Cut
 - HM06 - Rock Smash
 
@@ -113,6 +111,15 @@ Types: Fire / Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 513
+- 1 Spe
+- 0.6
+- 11.0
+- 63
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -121,7 +128,7 @@ Types: Fire / Normal • Egg Groups: Field
 ## Simisear (#031)
 <details class="pokemon-card-container" open>
 <summary>Simisear overview</summary>
-Types: Fire • Egg Groups: Field
+Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -137,13 +144,37 @@ Types: Fire • Egg Groups: Field
 - Grass (0.5×)
 - Ice (0.5×)
 - Bug (0.5×)
+- Ghost (0×)
 - Steel (0.5×)
 - Fairy (0.5×)
 
 *Weak to*
 - Water (2×)
+- Fighting (2×)
 - Ground (2×)
 - Rock (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM51 - Will-O-Wisp
+- TM53 - Power-Up Punch
+- HM01 - Cut
+- HM06 - Rock Smash
 
 **Evolution Info**
 Fire Stone
@@ -161,6 +192,26 @@ Fire Stone
 | Speed | <span class="stat-value stat-high">101</span> |
 | Total | <span class="stat-value stat-mid">505</span> |
 
+**Level-Up Moves**
+- Scratch (Lv 1)
+- Play Nice (Lv 1)
+- Leer (Lv 4)
+- Lick (Lv 7)
+- Incinerate (Lv 10)
+- Fury Swipes (Lv 13)
+- Yawn (Lv 16)
+- Snarl (Lv 19)
+- Flame Burst (Lv 22)
+- Amnesia (Lv 25)
+- Fling (Lv 28)
+- Chatter (Lv 30)
+- Acrobatics (Lv 32)
+- Fire Blast (Lv 34)
+- Recycle (Lv 37)
+- Natural Gift (Lv 40)
+- Hyper Voice (Lv 43)
+- Burning Bulwark (Lv 46)
+
 **Egg Moves**
 - Covet
 - Low Kick
@@ -175,6 +226,22 @@ Fire Stone
 - Disarming Voice
 - Belch
 - Flare Blitz
+
+**Tutor Moves**
+- Fire Punch
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- 514
+- 2 Spe
+- 1.0
+- 28.0
+- 174
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

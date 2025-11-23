@@ -27,7 +27,6 @@ Types: Rock • Egg Groups: Water 3
 
 **TM/HM Moves**
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM28 - Dig
@@ -37,6 +36,7 @@ Types: Rock • Egg Groups: Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM46 - Thief
+- TM49 - Bulldoze
 - HM06 - Rock Smash
 
 **Encounter Locations**
@@ -92,6 +92,15 @@ Types: Rock • Egg Groups: Water 3
 - Rock Slide
 - Sleep Talk
 - Swords Dance
+- 950
+- 2 Def
+- 1.3
+- 79.0
+- 158
+- 120
+- 35
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

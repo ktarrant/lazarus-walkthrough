@@ -7,7 +7,7 @@
 <label for="pokemon-tabs-magnemite-tab-2">Magnezone</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-magnemite-panel-0">
-## Magnemite (#351)
+## Magnemite (#371)
 <details class="pokemon-card-container" open>
 <summary>Magnemite overview</summary>
 Types: Electric / Steel • Egg Groups: Mineral
@@ -54,8 +54,11 @@ Types: Electric / Steel • Egg Groups: Mineral
 - TM37 - Sandstorm
 - TM42 - Facade
 - TM44 - Rest
-- TM59 - Volt Switch
+- TM58 - Thunder Wave
 - HM05 - Flash
+
+**Held Item**
+Metal Coat
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Day) (20%)
@@ -96,6 +99,9 @@ Types: Electric / Steel • Egg Groups: Mineral
 - Gyro Ball (Lv 47)
 - Zap Cannon (Lv 49)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Double-Edge
 - Endure
@@ -106,13 +112,21 @@ Types: Electric / Steel • Egg Groups: Mineral
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 81
+- 1 Sp. Atk
+- 0.3
+- 6.0
+- 65
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-magnemite-panel-1">
-## Magneton (#352)
+## Magneton (#372)
 <details class="pokemon-card-container" open>
 <summary>Magneton overview</summary>
 Types: Electric / Steel • Egg Groups: Mineral
@@ -148,7 +162,6 @@ Types: Electric / Steel • Egg Groups: Mineral
 **TM/HM Moves**
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -160,8 +173,11 @@ Types: Electric / Steel • Egg Groups: Mineral
 - TM37 - Sandstorm
 - TM42 - Facade
 - TM44 - Rest
-- TM59 - Volt Switch
+- TM58 - Thunder Wave
 - HM05 - Flash
+
+**Held Item**
+Metal Coat
 
 **Evolution Info**
 Lv. 30
@@ -180,6 +196,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">465</span> |
 
 **Level-Up Moves**
+- Tri Attack (Lv Evo)
 - Zap Cannon (Lv 1)
 - Electric Terrain (Lv 1)
 - Supersonic (Lv 1)
@@ -193,7 +210,6 @@ Lv. 30
 - Mirror Shot (Lv 23)
 - Metal Sound (Lv 25)
 - Electro Ball (Lv 29)
-- Tri Attack (Lv Evo)
 - Flash Cannon (Lv 33)
 - Screech (Lv 39)
 - Discharge (Lv 43)
@@ -201,6 +217,9 @@ Lv. 30
 - Magnet Rise (Lv 53)
 - Gyro Ball (Lv 59)
 - Zap Cannon (Lv 63)
+
+**Egg Moves**
+- Incompatible
 
 **Tutor Moves**
 - Double-Edge
@@ -212,13 +231,21 @@ Lv. 30
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 82
+- 2 Sp. Atk
+- 1.0
+- 60.0
+- 163
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-magnemite-panel-2">
-## Magnezone (#353)
+## Magnezone (#373)
 <details class="pokemon-card-container" open>
 <summary>Magnezone overview</summary>
 Types: Electric / Steel • Egg Groups: Mineral
@@ -254,7 +281,6 @@ Types: Electric / Steel • Egg Groups: Mineral
 **TM/HM Moves**
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -266,8 +292,11 @@ Types: Electric / Steel • Egg Groups: Mineral
 - TM37 - Sandstorm
 - TM42 - Facade
 - TM44 - Rest
-- TM59 - Volt Switch
+- TM58 - Thunder Wave
 - HM05 - Flash
+
+**Held Item**
+Metal Coat
 
 **Evolution Info**
 Thunder Stone
@@ -311,6 +340,9 @@ Thunder Stone
 - Gyro Ball (Lv 59)
 - Zap Cannon (Lv 63)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Body Slam
 - Double-Edge
@@ -322,7 +354,15 @@ Thunder Stone
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 462
+- 3 Sp. Atk
+- 1.2
+- 180.0
+- 268
+- 30
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

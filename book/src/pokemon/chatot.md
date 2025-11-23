@@ -1,4 +1,4 @@
-## Chatot (#260)
+## Chatot (#280)
 <details class="pokemon-card-container" open>
 <summary>Chatot overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
@@ -8,7 +8,7 @@ Types: Normal / Flying • Egg Groups: Flying
 **Abilities**
 - Keen Eye
 - Big Pecks
-- Punk Rock *(Hidden)*
+- Vocalist (Punk Rock) *(Hidden)*
 
 **Type Matchups**
 
@@ -37,7 +37,12 @@ Types: Normal / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
+- TM55 - Snarl
+- TM57 - Roost
 - HM02 - Fly
+
+**Held Item**
+Metronome
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (6%)
@@ -97,6 +102,15 @@ Types: Normal / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
+- 441
+- 1 Atk
+- 0.5
+- 1.9
+- 144
+- 30
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>

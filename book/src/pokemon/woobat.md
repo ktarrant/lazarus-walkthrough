@@ -34,13 +34,13 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM12 - Taunt
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -54,6 +54,8 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - TM46 - Thief
 - TM47 - Steel Wing
 - TM48 - Skill Swap
+- TM57 - Roost
+- TM58 - Thunder Wave
 - HM02 - Fly
 - HM05 - Flash
 
@@ -115,7 +117,15 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 527
+- 1 Spe
+- 0.4
+- 2.1
+- 65
+- 190
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -150,14 +160,13 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -171,6 +180,8 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - TM46 - Thief
 - TM47 - Steel Wing
 - TM48 - Skill Swap
+- TM57 - Roost
+- TM58 - Thunder Wave
 - HM02 - Fly
 - HM05 - Flash
 
@@ -191,6 +202,7 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
+- Leech Life (Lv Evo)
 - Confusion (Lv 1)
 - Odor Sleuth (Lv 4)
 - Gust (Lv 8)
@@ -199,7 +211,6 @@ Lv. 24
 - Mega Drain (Lv 18)
 - Imprison (Lv 19)
 - Air Cutter (Lv 21)
-- Leech Life (Lv Evo)
 - Attract (Lv 25)
 - Amnesia (Lv 29)
 - Calm Mind (Lv 29)
@@ -231,7 +242,15 @@ Lv. 24
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 528
+- 2 Spe
+- 0.9
+- 10.5
+- 149
+- 45
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

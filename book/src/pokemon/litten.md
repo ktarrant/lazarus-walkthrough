@@ -35,7 +35,6 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
@@ -48,7 +47,7 @@ Types: Fire • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -101,6 +100,15 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swords Dance
+- 725
+- 1 Spe
+- 0.4
+- 4.3
+- 64
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -134,7 +142,6 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
@@ -147,7 +154,7 @@ Types: Fire • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
 
 **Evolution Info**
 Lv. 17
@@ -201,6 +208,15 @@ Lv. 17
 - Snore
 - Swagger
 - Swords Dance
+- 726
+- 2 Spe
+- 0.7
+- 25.0
+- 147
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -236,13 +252,10 @@ Types: Fire / Dark • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
-- TM05 - Roar
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM26 - Earthquake
 - TM31 - Brick Break
@@ -255,8 +268,10 @@ Types: Fire / Dark • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
-- TM50 - Overheat
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
+- TM59 - Dark Pulse
 
 **Evolution Info**
 Lv. 34
@@ -275,6 +290,7 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Darkest Lariat (Lv Evo)
 - Bulk Up (Lv 1)
 - Throat Chop (Lv 1)
 - Scratch (Lv 1)
@@ -289,7 +305,6 @@ Lv. 34
 - Swagger (Lv 25)
 - Fury Swipes (Lv 29)
 - Thrash (Lv 32)
-- Darkest Lariat (Lv Evo)
 - Flamethrower (Lv 35)
 - Parting Shot (Lv 39)
 - Crush Claw (Lv 42)
@@ -318,6 +333,15 @@ Lv. 34
 - Swagger
 - Swords Dance
 - Thunder Punch
+- 727
+- 3 Atk
+- 1.8
+- 83.0
+- 239
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

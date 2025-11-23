@@ -7,7 +7,7 @@
 <label for="pokemon-tabs-swinub-tab-2">Mamoswine</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-swinub-panel-0">
-## Swinub (#374)
+## Swinub (#397)
 <details class="pokemon-card-container" open>
 <summary>Swinub overview</summary>
 Types: Ice / Ground • Egg Groups: Field
@@ -16,7 +16,7 @@ Types: Ice / Ground • Egg Groups: Field
 <div class="card-column">
 **Abilities**
 - Oblivious
-- Thick Fat
+- Thick Layers
 - Fur Coat *(Hidden)*
 
 **Type Matchups**
@@ -33,9 +33,7 @@ Types: Ice / Ground • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM16 - Light Screen
@@ -50,8 +48,7 @@ Types: Ice / Ground • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM53 - Ice Fang
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -117,12 +114,21 @@ Types: Ice / Ground • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 220
+- 1 Atk
+- 0.4
+- 6.5
+- 50
+- 225
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-swinub-panel-1">
-## Piloswine (#375)
+## Piloswine (#398)
 <details class="pokemon-card-container" open>
 <summary>Piloswine overview</summary>
 Types: Ice / Ground • Egg Groups: Field
@@ -131,7 +137,7 @@ Types: Ice / Ground • Egg Groups: Field
 <div class="card-column">
 **Abilities**
 - Oblivious
-- Thick Fat
+- Thick Layers
 - Fur Coat *(Hidden)*
 
 **Type Matchups**
@@ -148,12 +154,9 @@ Types: Ice / Ground • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -166,8 +169,7 @@ Types: Ice / Ground • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM53 - Ice Fang
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -188,6 +190,7 @@ Lv. 28
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
+- Slack Off (Lv Evo)
 - Ancient Power (Lv 1)
 - Peck (Lv 1)
 - Odor Sleuth (Lv 1)
@@ -199,7 +202,6 @@ Lv. 28
 - Icy Wind (Lv 21)
 - Ice Fang (Lv 24)
 - Headbutt (Lv 27)
-- Slack Off (Lv Evo)
 - Bulldoze (Lv 30)
 - Icicle Crash (Lv 33)
 - Mist (Lv 35)
@@ -236,12 +238,21 @@ Lv. 28
 - Sleep Talk
 - Snore
 - Swagger
+- 221
+- 1 HP, 1 Atk
+- 1.1
+- 55.8
+- 158
+- 75
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-swinub-panel-2">
-## Mamoswine (#376)
+## Mamoswine (#399)
 <details class="pokemon-card-container" open>
 <summary>Mamoswine overview</summary>
 Types: Ice / Ground • Egg Groups: Field
@@ -250,7 +261,7 @@ Types: Ice / Ground • Egg Groups: Field
 <div class="card-column">
 **Abilities**
 - Oblivious
-- Thick Fat
+- Thick Layers
 - Fur Coat *(Hidden)*
 
 **Type Matchups**
@@ -267,12 +278,9 @@ Types: Ice / Ground • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -285,8 +293,7 @@ Types: Ice / Ground • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM53 - Ice Fang
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -356,6 +363,15 @@ Lv. knows Ancient Power
 - Sleep Talk
 - Snore
 - Swagger
+- 473
+- 3 Atk
+- 2.5
+- 291.0
+- 239
+- 50
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

@@ -1,11 +1,110 @@
 <div class="pokemon-tabs" id="pokemon-tabs-florges">
 <input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-0">
-<label for="pokemon-tabs-florges-tab-0">Floette</label>
-<input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-1" checked>
-<label for="pokemon-tabs-florges-tab-1">Florges</label>
+<label for="pokemon-tabs-florges-tab-0">Flabébé</label>
+<input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-1">
+<label for="pokemon-tabs-florges-tab-1">Floette</label>
+<input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-2" checked>
+<label for="pokemon-tabs-florges-tab-2">Florges</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-0">
-## Floette (#293)
+## Flabébé (#312)
+<details class="pokemon-card-container" open>
+<summary>Flabébé overview</summary>
+Types: Fairy • Egg Groups: Fairy
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Flower Veil
+- Symbiosis *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fighting (0.5×)
+- Bug (0.5×)
+- Dragon (0×)
+- Dark (0.5×)
+
+*Weak to*
+- Poison (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Draining Kiss
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM54 - Dazzling Gleam
+- HM05 - Flash
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-low">44</span> |
+| Attack | <span class="stat-value stat-low">38</span> |
+| Defense | <span class="stat-value stat-low">39</span> |
+| Sp. Atk | <span class="stat-value stat-mid">61</span> |
+| Sp. Def | <span class="stat-value stat-mid">79</span> |
+| Speed | <span class="stat-value stat-low">42</span> |
+| Total | <span class="stat-value stat-low">303</span> |
+
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Vine Whip (Lv 1)
+- Fairy Wind (Lv 6)
+- Lucky Chant (Lv 10)
+- Razor Leaf (Lv 15)
+- Wish (Lv 20)
+- Magical Leaf (Lv 22)
+- Grassy Terrain (Lv 24)
+- Petal Blizzard (Lv 28)
+- Aromatherapy (Lv 33)
+- Misty Terrain (Lv 37)
+- Moonblast (Lv 41)
+- Petal Dance (Lv 45)
+- Solar Beam (Lv 48)
+
+**Egg Moves**
+- Copycat
+- Captivate
+- Camouflage
+- Tearful Look
+
+**Tutor Moves**
+- Endure
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 669
+- 1 Sp. Def
+- 0.1
+- 0.1
+- 61
+- 225
+- 20
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-1">
+## Floette (#313)
 <details class="pokemon-card-container" open>
 <summary>Floette overview</summary>
 Types: Fairy • Egg Groups: Fairy
@@ -29,14 +128,15 @@ Types: Fairy • Egg Groups: Fairy
 - Steel (2×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM04 - Calm Mind
 - TM06 - Toxic
 - TM11 - Sunny Day
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
 - TM29 - Psychic
 - TM32 - Double Team
@@ -44,6 +144,7 @@ Types: Fairy • Egg Groups: Fairy
 - TM44 - Rest
 - TM45 - Attract
 - TM48 - Skill Swap
+- TM54 - Dazzling Gleam
 - HM05 - Flash
 
 **Evolution Info**
@@ -68,12 +169,12 @@ Lv. 19
 | Total | <span class="stat-value stat-mid">371</span> |
 
 **Level-Up Moves**
+- Draining Kiss (Lv Evo)
 - Tackle (Lv 1)
 - Vine Whip (Lv 1)
 - Fairy Wind (Lv 6)
 - Lucky Chant (Lv 10)
 - Razor Leaf (Lv 15)
-- Draining Kiss (Lv Evo)
 - Wish (Lv 20)
 - Magical Leaf (Lv 23)
 - Grassy Terrain (Lv 25)
@@ -99,12 +200,21 @@ Lv. 19
 - Snore
 - Swagger
 - Swift
+- 670
+- 2 Sp. Def
+- 0.2
+- 0.9
+- 130
+- 120
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-1">
-## Florges (#294)
+<div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-2">
+## Florges (#314)
 <details class="pokemon-card-container" open>
 <summary>Florges overview</summary>
 Types: Fairy • Egg Groups: Fairy
@@ -127,6 +237,26 @@ Types: Fairy • Egg Groups: Fairy
 - Poison (2×)
 - Steel (2×)
 
+**TM/HM Moves**
+- TM01 - Wish
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM15 - Draining Kiss
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM48 - Skill Swap
+- TM54 - Dazzling Gleam
+- HM05 - Flash
+
 **Evolution Info**
 Shiny Stone
 
@@ -146,11 +276,49 @@ Shiny Stone
 | Speed | <span class="stat-value stat-mid">75</span> |
 | Total | <span class="stat-value stat-high">552</span> |
 
+**Level-Up Moves**
+- Giga Drain (Lv Evo)
+- Disarming Voice (Lv 1)
+- Draining Kiss (Lv 1)
+- Tackle (Lv 1)
+- Vine Whip (Lv 1)
+- Fairy Wind (Lv 6)
+- Lucky Chant (Lv 10)
+- Razor Leaf (Lv 15)
+- Wish (Lv 20)
+- Magical Leaf (Lv 23)
+- Grassy Terrain (Lv 25)
+- Synthesis (Lv 28)
+- Petal Blizzard (Lv 33)
+- Aromatherapy (Lv 35)
+- Pollen Puff (Lv 38)
+- Misty Terrain (Lv 43)
+- Moonblast (Lv 46)
+- Petal Dance (Lv 51)
+- Solar Beam (Lv 58)
+
 **Egg Moves**
 - Copycat
 - Captivate
 - Camouflage
 - Tearful Look
+
+**Tutor Moves**
+- Endure
+- Metronome
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 671
+- 3 Sp. Def
+- 1.1
+- 10.0
+- 276
+- 45
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -160,4 +328,5 @@ Shiny Stone
 <style>
 #pokemon-tabs-florges-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-0 { display: block; }
 #pokemon-tabs-florges-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-1 { display: block; }
+#pokemon-tabs-florges-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-2 { display: block; }
 </style>

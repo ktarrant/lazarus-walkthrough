@@ -1,3 +1,12 @@
+<div class="pokemon-tabs" id="pokemon-tabs-lillipup">
+<input type="radio" name="pokemon-tabs-lillipup-group" id="pokemon-tabs-lillipup-tab-0" checked>
+<label for="pokemon-tabs-lillipup-tab-0">Lillipup</label>
+<input type="radio" name="pokemon-tabs-lillipup-group" id="pokemon-tabs-lillipup-tab-1">
+<label for="pokemon-tabs-lillipup-tab-1">Herdier</label>
+<input type="radio" name="pokemon-tabs-lillipup-group" id="pokemon-tabs-lillipup-tab-2">
+<label for="pokemon-tabs-lillipup-tab-2">Stoutland</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-lillipup-panel-0">
 ## Lillipup (#034)
 <details class="pokemon-card-container" open>
 <summary>Lillipup overview</summary>
@@ -19,7 +28,6 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
@@ -34,6 +42,8 @@ Types: Normal • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM55 - Snarl
+- TM58 - Thunder Wave
 - HM06 - Rock Smash
 
 **Encounter Locations**
@@ -94,7 +104,248 @@ Types: Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- Thunder Wave
+- 506
+- 1 Atk
+- 0.4
+- 4.1
+- 55
+- 255
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-lillipup-panel-1">
+## Herdier (#035)
+<details class="pokemon-card-container" open>
+<summary>Herdier overview</summary>
+Types: Normal • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Intimidate
+- Sand Rush
+- Scrappy *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Ghost (0×)
+
+*Weak to*
+- Fighting (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM55 - Snarl
+- TM58 - Thunder Wave
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+
+**Evolution Info**
+Lv. 16
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">80</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">370</span> |
+
+**Level-Up Moves**
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Odor Sleuth (Lv 5)
+- Bite (Lv 8)
+- Helping Hand (Lv 12)
+- Take Down (Lv 15)
+- Work Up (Lv 20)
+- Crunch (Lv 24)
+- Roar (Lv 27)
+- Bulldoze (Lv 29)
+- Retaliate (Lv 33)
+- Reversal (Lv 37)
+- High Horsepower (Lv 39)
+- Last Resort (Lv 42)
+- Lunge (Lv 46)
+- Play Rough (Lv 50)
+
+**Egg Moves**
+- Howl
+- Sand Attack
+- Mud-Slap
+- Lick
+- Charm
+- Endure
+- Yawn
+- Pursuit
+- Fire Fang
+- Thunder Fang
+- Ice Fang
+- After You
+- Psychic Fangs
+
+**Tutor Moves**
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- 507
+- 2 Atk
+- 0.9
+- 14.7
+- 130
+- 120
+- 15
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-lillipup-panel-2">
+## Stoutland (#036)
+<details class="pokemon-card-container" open>
+<summary>Stoutland overview</summary>
+Types: Normal • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Intimidate
+- Sand Rush
+- Scrappy *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Ghost (0×)
+
+*Weak to*
+- Fighting (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM34 - Shock Wave
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM55 - Snarl
+- TM58 - Thunder Wave
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+
+**Evolution Info**
+Lv. 32
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">105</span> |
+| Attack | <span class="stat-value stat-high">110</span> |
+| Defense | <span class="stat-value stat-mid">90</span> |
+| Sp. Atk | <span class="stat-value stat-low">45</span> |
+| Sp. Def | <span class="stat-value stat-mid">90</span> |
+| Speed | <span class="stat-value stat-mid">80</span> |
+| Total | <span class="stat-value stat-mid">520</span> |
+
+**Level-Up Moves**
+- Body Slam (Lv Evo)
+- Ice Fang (Lv 1)
+- Fire Fang (Lv 1)
+- Thunder Fang (Lv 1)
+- Leer (Lv 1)
+- Tackle (Lv 1)
+- Odor Sleuth (Lv 5)
+- Bite (Lv 8)
+- Helping Hand (Lv 12)
+- Take Down (Lv 15)
+- Work Up (Lv 20)
+- Crunch (Lv 24)
+- Roar (Lv 27)
+- Bulldoze (Lv 29)
+- Retaliate (Lv 33)
+- Reversal (Lv 37)
+- High Horsepower (Lv 39)
+- Last Resort (Lv 42)
+- Lunge (Lv 46)
+- Play Rough (Lv 50)
+
+**Egg Moves**
+- Howl
+- Sand Attack
+- Mud-Slap
+- Lick
+- Charm
+- Endure
+- Yawn
+- Pursuit
+- Fire Fang
+- Thunder Fang
+- Ice Fang
+- After You
+- Psychic Fangs
+
+**Tutor Moves**
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- 508
+- 3 Atk
+- 1.2
+- 61.0
+- 225
+- 45
+- 15
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-lillipup-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-lillipup-panel-0 { display: block; }
+#pokemon-tabs-lillipup-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-lillipup-panel-1 { display: block; }
+#pokemon-tabs-lillipup-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-lillipup-panel-2 { display: block; }
+</style>

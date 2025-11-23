@@ -34,16 +34,17 @@ Types: Water • Egg Groups: Water 1 / Field
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
+- TM15 - Draining Kiss
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM32 - Double Team
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -97,6 +98,15 @@ Types: Water • Egg Groups: Water 1 / Field
 - Snore
 - Swagger
 - Swift
+- 728
+- 1 Sp. Atk
+- 0.4
+- 7.5
+- 50
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -129,16 +139,17 @@ Types: Water • Egg Groups: Water 1 / Field
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
+- TM15 - Draining Kiss
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM32 - Double Team
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -195,6 +206,15 @@ Lv. 17
 - Snore
 - Swagger
 - Swift
+- 729
+- 2 Sp. Atk
+- 0.6
+- 17.5
+- 147
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -232,14 +252,13 @@ Types: Water / Fairy • Egg Groups: Water 1 / Field
 - TM03 - Water Pulse
 - TM04 - Calm Mind
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -247,6 +266,8 @@ Types: Water / Fairy • Egg Groups: Water 1 / Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM54 - Dazzling Gleam
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -268,6 +289,7 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Sparkling Aria (Lv Evo)
 - Pound (Lv 1)
 - Water Gun (Lv 1)
 - Growl (Lv 4)
@@ -281,7 +303,6 @@ Lv. 34
 - Sing (Lv 28)
 - Ice Shard (Lv 30)
 - Hyper Voice (Lv 34)
-- Sparkling Aria (Lv Evo)
 - Dazzling Gleam (Lv 37)
 - Captivate (Lv 41)
 - Moonblast (Lv 44)
@@ -305,6 +326,15 @@ Lv. 34
 - Snore
 - Swagger
 - Swift
+- 730
+- 3 Sp. Atk
+- 1.8
+- 44.0
+- 239
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

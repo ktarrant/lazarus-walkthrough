@@ -31,6 +31,7 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug
 **TM/HM Moves**
 - TM06 - Toxic
 - TM17 - Protect
+- TM20 - Poison Jab
 - TM22 - Solar Beam
 - TM26 - Earthquake
 - TM28 - Dig
@@ -41,12 +42,13 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
 
 **Held Item**
-Hard Rock
+Red Shard
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (20%)
@@ -108,6 +110,15 @@ Hard Rock
 - Snore
 - Swagger
 - Swords Dance
+- 557
+- 1 Def
+- 0.3
+- 14.5
+- 65
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -138,8 +149,8 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug
 
 **TM/HM Moves**
 - TM06 - Toxic
-- TM15 - Hyper Beam
 - TM17 - Protect
+- TM20 - Poison Jab
 - TM22 - Solar Beam
 - TM26 - Earthquake
 - TM28 - Dig
@@ -150,9 +161,13 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Hard Rock
 
 **Evolution Info**
 Lv. 30
@@ -211,6 +226,15 @@ Lv. 30
 - Snore
 - Swagger
 - Swords Dance
+- 558
+- 2 Def
+- 1.4
+- 200.0
+- 170
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

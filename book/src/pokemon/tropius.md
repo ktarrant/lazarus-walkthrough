@@ -6,7 +6,7 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 <div class="pokemon-card">
 <div class="card-column">
 **Abilities**
-- Thick Fat
+- Thick Layers
 - Solar Power
 - Harvest *(Hidden)*
 
@@ -27,15 +27,12 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
 - TM26 - Earthquake
 - TM32 - Double Team
@@ -44,8 +41,9 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 - TM44 - Rest
 - TM45 - Attract
 - TM47 - Steel Wing
-- TM56 - Stomping Tantrum
-- TM60 - U-Turn
+- TM49 - Bulldoze
+- TM57 - Roost
+- TM60 - Dragon Dance
 - HM01 - Cut
 - HM02 - Fly
 - HM04 - Strength
@@ -122,6 +120,15 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 - Snore
 - Swagger
 - Swords Dance
+- 357
+- 2 HP
+- 2.0
+- 100.0
+- 161
+- 200
+- 25
+- 50
+- Slow
 </div>
 </div>
 </details>

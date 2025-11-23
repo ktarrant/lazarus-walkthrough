@@ -1,4 +1,4 @@
-## Togedemaru (#252)
+## Togedemaru (#272)
 <details class="pokemon-card-container" open>
 <summary>Togedemaru overview</summary>
 Types: Electric / Steel • Egg Groups: Field / Fairy
@@ -32,10 +32,10 @@ Types: Electric / Steel • Egg Groups: Field / Fairy
 - Ground (4×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM06 - Toxic
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM32 - Double Team
@@ -45,6 +45,10 @@ Types: Electric / Steel • Egg Groups: Field / Fairy
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM58 - Thunder Wave
+
+**Held Item**
+Electric Seed
 
 **Encounter Locations**
 - Kaptara Island (East) — Grass (Night) (4%)
@@ -103,7 +107,15 @@ Types: Electric / Steel • Egg Groups: Field / Fairy
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 777
+- 2 Atk
+- 0.3
+- 3.3
+- 152
+- 180
+- 10
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

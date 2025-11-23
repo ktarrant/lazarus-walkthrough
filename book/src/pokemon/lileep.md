@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-lileep-tab-1">Cradily</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-lileep-panel-0">
-## Lileep (#255)
+## Lileep (#275)
 <details class="pokemon-card-container" open>
 <summary>Lileep overview</summary>
 Types: Rock / Grass • Egg Groups: Water 3
@@ -43,6 +43,9 @@ Types: Rock / Grass • Egg Groups: Water 3
 - TM44 - Rest
 - TM45 - Attract
 - HM05 - Flash
+
+**Held Item**
+Big Root
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (6%)
@@ -103,12 +106,21 @@ Types: Rock / Grass • Egg Groups: Water 3
 - Snore
 - Swagger
 - Swords Dance
+- 345
+- 1 Sp. Def
+- 1.0
+- 23.8
+- 71
+- 45
+- 30
+- 50
+- Erratic
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lileep-panel-1">
-## Cradily (#256)
+## Cradily (#276)
 <details class="pokemon-card-container" open>
 <summary>Cradily overview</summary>
 Types: Rock / Grass • Egg Groups: Water 3
@@ -135,7 +147,6 @@ Types: Rock / Grass • Egg Groups: Water 3
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM19 - Giga Drain
 - TM22 - Solar Beam
@@ -148,9 +159,13 @@ Types: Rock / Grass • Egg Groups: Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM05 - Flash
 - HM06 - Rock Smash
+
+**Held Item**
+Big Root
 
 **Evolution Info**
 Lv. 40
@@ -210,6 +225,15 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
+- 346
+- 2 Sp. Def
+- 1.5
+- 60.4
+- 173
+- 45
+- 30
+- 50
+- Erratic
 </div>
 </div>
 </details>

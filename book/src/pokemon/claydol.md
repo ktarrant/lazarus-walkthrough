@@ -1,3 +1,138 @@
+<div class="pokemon-tabs" id="pokemon-tabs-claydol">
+<input type="radio" name="pokemon-tabs-claydol-group" id="pokemon-tabs-claydol-tab-0">
+<label for="pokemon-tabs-claydol-tab-0">Baltoy</label>
+<input type="radio" name="pokemon-tabs-claydol-group" id="pokemon-tabs-claydol-tab-1" checked>
+<label for="pokemon-tabs-claydol-tab-1">Claydol</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-claydol-panel-0">
+## Baltoy (#158)
+<details class="pokemon-card-container" open>
+<summary>Baltoy overview</summary>
+Types: Ground / Psychic • Egg Groups: Mineral
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Levitate
+- Hustle *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Electric (0×)
+- Fighting (0.5×)
+- Poison (0.5×)
+- Psychic (0.5×)
+- Rock (0.5×)
+
+*Weak to*
+- Water (2×)
+- Grass (2×)
+- Ice (2×)
+- Bug (2×)
+- Ghost (2×)
+- Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Psyshock
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM23 - Hex
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM48 - Skill Swap
+- TM49 - Bulldoze
+- TM54 - Dazzling Gleam
+- HM05 - Flash
+
+**Held Item**
+Light Clay
+
+**Encounter Locations**
+- Erinys Path (West) — Grass (Day) (10%)
+- Erinys Path (West) — Grass (Night) (20%)
+- Palati City — Grass (Day) (20%)
+- Palati City — Grass (Night) (20%)
+- Sofos City — Grass (Night) (10%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">40</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-mid">70</span> |
+| Speed | <span class="stat-value stat-mid">55</span> |
+| Total | <span class="stat-value stat-mid">310</span> |
+
+**Level-Up Moves**
+- Harden (Lv 1)
+- Confusion (Lv 1)
+- Rapid Spin (Lv 4)
+- Mud-Slap (Lv 7)
+- Heal Block (Lv 10)
+- Rock Tomb (Lv 13)
+- Psybeam (Lv 16)
+- Ancient Power (Lv 19)
+- Cosmic Power (Lv 22)
+- Power Trick (Lv 25)
+- Self-Destruct (Lv 28)
+- Extrasensory (Lv 31)
+- Psyshield Bash (Lv 31)
+- Guard Split (Lv 34)
+- Power Split (Lv 34)
+- Body Slam (Lv 37)
+- Earth Power (Lv 40)
+- Sandstorm (Lv 46)
+- Diamond Storm (Lv 48)
+- Imprison (Lv 52)
+- Explosion (Lv 58)
+
+**Egg Moves**
+- Incompatible
+
+**Tutor Moves**
+- Double-Edge
+- Dream Eater
+- Endure
+- Explosion
+- Mud-Slap
+- Psych Up
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- 343
+- 1 Sp. Def
+- 0.5
+- 21.5
+- 60
+- 255
+- 20
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-claydol-panel-1">
 ## Claydol (#159)
 <details class="pokemon-card-container" open>
 <summary>Claydol overview</summary>
@@ -28,15 +163,15 @@ Types: Ground / Psychic • Egg Groups: Mineral
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM13 - Ice Beam
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM26 - Earthquake
 - TM28 - Dig
 - TM29 - Psychic
@@ -48,10 +183,14 @@ Types: Ground / Psychic • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM48 - Skill Swap
-- TM57 - Dazzling Gleam
+- TM49 - Bulldoze
+- TM54 - Dazzling Gleam
 - HM04 - Strength
 - HM05 - Flash
 - HM06 - Rock Smash
+
+**Held Item**
+Light Clay
 
 **Evolution Info**
 Lv. 36
@@ -73,6 +212,7 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
+- Signal Beam (Lv Evo)
 - Hyper Beam (Lv 1)
 - Teleport (Lv 1)
 - Harden (Lv 1)
@@ -90,13 +230,15 @@ Lv. 36
 - Psyshield Bash (Lv 31)
 - Guard Split (Lv 34)
 - Power Split (Lv 34)
-- Signal Beam (Lv Evo)
 - Body Slam (Lv 37)
 - Earth Power (Lv 40)
 - Sandstorm (Lv 46)
 - Diamond Storm (Lv 48)
 - Imprison (Lv 52)
 - Explosion (Lv 58)
+
+**Egg Moves**
+- Incompatible
 
 **Tutor Moves**
 - Double-Edge
@@ -109,6 +251,22 @@ Lv. 36
 - Sleep Talk
 - Snore
 - Swagger
+- 344
+- 2 Sp. Def
+- 1.5
+- 108.0
+- 175
+- 90
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-claydol-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-claydol-panel-0 { display: block; }
+#pokemon-tabs-claydol-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-claydol-panel-1 { display: block; }
+</style>

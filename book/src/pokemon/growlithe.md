@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-growlithe-tab-1">Arcanine</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-growlithe-panel-0">
-## Growlithe (#356)
+## Growlithe (#376)
 <details class="pokemon-card-container" open>
 <summary>Growlithe overview</summary>
 Types: Fire • Egg Groups: Field
@@ -33,12 +33,9 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM32 - Double Team
 - TM33 - Reflect
@@ -49,11 +46,8 @@ Types: Fire • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM50 - Overheat
-- TM52 - Thunder Fang
-- TM54 - Fire Fang
-- TM55 - Psychic Fangs
-- TM58 - Play Rough
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -119,12 +113,21 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 58
+- 1 Atk
+- 0.7
+- 19.0
+- 70
+- 190
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-growlithe-panel-1">
-## Arcanine (#357)
+## Arcanine (#377)
 <details class="pokemon-card-container" open>
 <summary>Arcanine overview</summary>
 Types: Fire • Egg Groups: Field
@@ -152,14 +155,10 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM20 - Safeguard
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM32 - Double Team
 - TM33 - Reflect
@@ -170,11 +169,9 @@ Types: Fire • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM50 - Overheat
-- TM52 - Thunder Fang
-- TM54 - Fire Fang
-- TM55 - Psychic Fangs
-- TM58 - Play Rough
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -241,6 +238,15 @@ Fire Stone
 - Snore
 - Swagger
 - Swift
+- 59
+- 2 Atk
+- 1.9
+- 155.0
+- 194
+- 75
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

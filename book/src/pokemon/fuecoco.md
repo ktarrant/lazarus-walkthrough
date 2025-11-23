@@ -35,7 +35,6 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM11 - Sunny Day
 - TM17 - Protect
 - TM28 - Dig
@@ -43,7 +42,8 @@ Types: Fire • Egg Groups: Field
 - TM38 - Fire Blast
 - TM42 - Facade
 - TM44 - Rest
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -86,6 +86,15 @@ Types: Fire • Egg Groups: Field
 - Endure
 - Mud-Slap
 - Sleep Talk
+- 909
+- 1 HP
+- 0.4
+- 9.8
+- 62
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -119,7 +128,6 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM11 - Sunny Day
 - TM17 - Protect
 - TM28 - Dig
@@ -127,7 +135,8 @@ Types: Fire • Egg Groups: Field
 - TM38 - Fire Blast
 - TM42 - Facade
 - TM44 - Rest
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
 
 **Evolution Info**
 Lv. 16
@@ -172,6 +181,15 @@ Lv. 16
 - Endure
 - Mud-Slap
 - Sleep Talk
+- 910
+- 2 Sp. Atk
+- 1.0
+- 30.7
+- 144
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -210,11 +228,10 @@ Types: Fire / Ghost • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM26 - Earthquake
 - TM28 - Dig
 - TM30 - Shadow Ball
@@ -222,7 +239,8 @@ Types: Fire / Ghost • Egg Groups: Field
 - TM38 - Fire Blast
 - TM42 - Facade
 - TM44 - Rest
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
 
 **Evolution Info**
 Lv. 36
@@ -241,6 +259,7 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Torch Song (Lv Evo)
 - Sing (Lv 1)
 - Yawn (Lv 1)
 - Ember (Lv 1)
@@ -254,7 +273,6 @@ Lv. 36
 - Snarl (Lv 24)
 - Roar (Lv 28)
 - Flamethrower (Lv 32)
-- Torch Song (Lv Evo)
 - Shadow Ball (Lv 38)
 - Hyper Voice (Lv 40)
 - Will-O-Wisp (Lv 43)
@@ -273,6 +291,15 @@ Lv. 36
 - Endure
 - Mud-Slap
 - Sleep Talk
+- 911
+- 3 Sp. Atk
+- 1.6
+- 326.5
+- 265
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

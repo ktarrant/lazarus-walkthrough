@@ -5,9 +5,11 @@
 <label for="pokemon-tabs-cyndaquil-tab-1">Quilava</label>
 <input type="radio" name="pokemon-tabs-cyndaquil-group" id="pokemon-tabs-cyndaquil-tab-2">
 <label for="pokemon-tabs-cyndaquil-tab-2">Typhlosion</label>
+<input type="radio" name="pokemon-tabs-cyndaquil-group" id="pokemon-tabs-cyndaquil-tab-3">
+<label for="pokemon-tabs-cyndaquil-tab-3">Hisuian Typhlosion</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cyndaquil-panel-0">
-## Cyndaquil
+## Cyndaquil (#214)
 <details class="pokemon-card-container" open>
 <summary>Cyndaquil overview</summary>
 Types: Fire • Egg Groups: Field
@@ -35,11 +37,9 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM32 - Double Team
 - TM35 - Flamethrower
@@ -48,9 +48,7 @@ Types: Fire • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
-- TM54 - Fire Fang
-- TM58 - Play Rough
+- TM51 - Will-O-Wisp
 - HM01 - Cut
 
 **Encounter Locations**
@@ -115,12 +113,21 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 155
+- 1 Spe
+- 0.5
+- 7.9
+- 62
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cyndaquil-panel-1">
-## Quilava
+## Quilava (#215)
 <details class="pokemon-card-container" open>
 <summary>Quilava overview</summary>
 Types: Fire • Egg Groups: Field
@@ -148,12 +155,9 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -163,9 +167,7 @@ Types: Fire • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
-- TM54 - Fire Fang
-- TM58 - Play Rough
+- TM51 - Will-O-Wisp
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -236,12 +238,21 @@ Lv. 14
 - Snore
 - Swagger
 - Swift
+- 156
+- 1 Sp. Atk, 1 Spe
+- 0.9
+- 19.0
+- 142
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cyndaquil-panel-2">
-## Typhlosion
+## Typhlosion (#216)
 <details class="pokemon-card-container" open>
 <summary>Typhlosion overview</summary>
 Types: Fire / Ground • Egg Groups: Field
@@ -268,14 +279,10 @@ Types: Fire / Ground • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM30 - Shadow Ball
@@ -288,10 +295,9 @@ Types: Fire / Ground • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
-- TM54 - Fire Fang
-- TM56 - Stomping Tantrum
-- TM58 - Play Rough
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- TM53 - Power-Up Punch
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -313,6 +319,7 @@ Lv. 36
 | Total | <span class="stat-value stat-high">559</span> |
 
 **Level-Up Moves**
+- Burning Bulwark (Lv Evo)
 - Eruption (Lv 1)
 - Double-Edge (Lv 1)
 - Gyro Ball (Lv 1)
@@ -327,7 +334,6 @@ Lv. 36
 - Dig (Lv 27)
 - Swift (Lv 31)
 - Flame Charge (Lv 35)
-- Burning Bulwark (Lv Evo)
 - Earth Power (Lv 39)
 - Lava Plume (Lv 42)
 - Flamethrower (Lv 46)
@@ -374,6 +380,150 @@ Lv. 36
 - Swagger
 - Swift
 - Thunder Punch
+- 157
+- 3 Sp. Atk
+- 1.7
+- 79.5
+- 267
+- 45
+- 20
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-cyndaquil-panel-3">
+## Hisuian Typhlosion (#216)
+<details class="pokemon-card-container" open>
+<summary>Hisuian Typhlosion overview</summary>
+Types: Fire / Ghost • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Blaze
+- Frisk
+- Comatose *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0×)
+- Fire (0.5×)
+- Grass (0.5×)
+- Ice (0.5×)
+- Fighting (0×)
+- Poison (0.5×)
+- Bug (0.25×)
+- Steel (0.5×)
+- Fairy (0.5×)
+
+*Weak to*
+- Water (2×)
+- Ground (2×)
+- Rock (2×)
+- Ghost (2×)
+- Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM23 - Hex
+- TM26 - Earthquake
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- HM06 - Rock Smash
+
+**Evolution Info**
+Dusk Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">83</span> |
+| Attack | <span class="stat-value stat-mid">84</span> |
+| Defense | <span class="stat-value stat-mid">83</span> |
+| Sp. Atk | <span class="stat-value stat-high">129</span> |
+| Sp. Def | <span class="stat-value stat-mid">85</span> |
+| Speed | <span class="stat-value stat-high">95</span> |
+| Total | <span class="stat-value stat-high">559</span> |
+
+**Level-Up Moves**
+- Hex (Lv Evo)
+- Eruption (Lv 1)
+- Double-Edge (Lv 1)
+- Gyro Ball (Lv 1)
+- Tackle (Lv 1)
+- Leer (Lv 1)
+- Smokescreen (Lv 6)
+- Ember (Lv 10)
+- Quick Attack (Lv 13)
+- Mud-Slap (Lv 17)
+- Flame Wheel (Lv 20)
+- Defense Curl (Lv 24)
+- Dig (Lv 27)
+- Swift (Lv 31)
+- Flame Charge (Lv 35)
+- Will-O-Wisp (Lv 38)
+- Infernal Parade (Lv 40)
+- Lava Plume (Lv 42)
+- Flamethrower (Lv 46)
+- Extrasensory (Lv 49)
+- Shadow Ball (Lv 53)
+- Dark Pulse (Lv 57)
+- Double-Edge (Lv 64)
+- Burn Up (Lv 68)
+- Eruption (Lv 75)
+
+**Egg Moves**
+- Fury Swipes
+- Quick Attack
+- Reversal
+- Thrash
+- Foresight
+- Covet
+- Howl
+- Crush Claw
+- Double-Edge
+- Double Kick
+- Flare Blitz
+- Extrasensory
+- Nature Power
+- Flame Burst
+
+**Tutor Moves**
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Fire Punch
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Swift
+- Thunder Punch
+- 157a
+- 3 Sp. Atk
+- 1.6
+- 69.8
+- 267
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -384,4 +534,5 @@ Lv. 36
 #pokemon-tabs-cyndaquil-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cyndaquil-panel-0 { display: block; }
 #pokemon-tabs-cyndaquil-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cyndaquil-panel-1 { display: block; }
 #pokemon-tabs-cyndaquil-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-cyndaquil-panel-2 { display: block; }
+#pokemon-tabs-cyndaquil-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-cyndaquil-panel-3 { display: block; }
 </style>

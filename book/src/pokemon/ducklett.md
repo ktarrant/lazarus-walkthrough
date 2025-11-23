@@ -34,7 +34,7 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -44,6 +44,8 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM47 - Steel Wing
+- TM56 - Scald
+- TM57 - Roost
 - HM02 - Fly
 - HM03 - Surf
 - HM08 - Dive
@@ -108,6 +110,15 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 - Snore
 - Swagger
 - Swift
+- 580
+- 1 HP
+- 0.5
+- 5.5
+- 61
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -142,9 +153,8 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM32 - Double Team
@@ -153,6 +163,8 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM47 - Steel Wing
+- TM56 - Scald
+- TM57 - Roost
 - HM02 - Fly
 - HM03 - Surf
 - HM08 - Dive
@@ -218,6 +230,15 @@ Lv. 31
 - Snore
 - Swagger
 - Swift
+- 581
+- 2 Spe
+- 1.3
+- 24.2
+- 166
+- 45
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -31,24 +31,26 @@ Types: Ice / Fairy • Egg Groups: Field
 - Steel (4×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
+- TM15 - Draining Kiss
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
+- TM23 - Hex
 - TM28 - Dig
 - TM32 - Double Team
 - TM33 - Reflect
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM53 - Ice Fang
-- TM57 - Dazzling Gleam
-- TM58 - Play Rough
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+- TM54 - Dazzling Gleam
+- TM59 - Dark Pulse
+
+**Held Item**
+Snowball
 
 **Encounter Locations**
 - Froslass Cavern BF1 — Grass (Day) (20%)
@@ -76,7 +78,7 @@ Types: Ice / Fairy • Egg Groups: Field
 - Confuse Ray (Lv 12)
 - Icy Wind (Lv 15)
 - Payback (Lv 18)
-- Mist (Lv 20)
+- Deepwater Curse (Lv 20)
 - Feint Attack (Lv 23)
 - Hex (Lv 26)
 - Aurora Beam (Lv 28)
@@ -116,6 +118,15 @@ Types: Ice / Fairy • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 37a
+- 1 Spe
+- 0.6
+- 9.9
+- 60
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -148,26 +159,28 @@ Types: Ice / Fairy • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
+- TM05 - Psyshock
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM22 - Solar Beam
-- TM23 - Iron Tail
+- TM23 - Hex
 - TM28 - Dig
 - TM32 - Double Team
 - TM33 - Reflect
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM53 - Ice Fang
-- TM57 - Dazzling Gleam
-- TM58 - Play Rough
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+- TM54 - Dazzling Gleam
+- TM59 - Dark Pulse
+
+**Held Item**
+Snowball
 
 **Evolution Info**
 Ice Stone
@@ -199,7 +212,7 @@ Ice Stone
 - Confuse Ray (Lv 12)
 - Icy Wind (Lv 15)
 - Payback (Lv 18)
-- Mist (Lv 20)
+- Deepwater Curse (Lv 20)
 - Feint Attack (Lv 23)
 - Hex (Lv 26)
 - Aurora Beam (Lv 28)
@@ -240,6 +253,15 @@ Ice Stone
 - Snore
 - Swagger
 - Swift
+- 38a
+- 2 Spe
+- 1.1
+- 19.9
+- 177
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

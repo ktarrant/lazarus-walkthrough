@@ -7,7 +7,7 @@
 <label for="pokemon-tabs-lampent-tab-2">Chandelure</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-lampent-panel-0">
-## Litwick (#279)
+## Litwick (#299)
 <details class="pokemon-card-container" open>
 <summary>Litwick overview</summary>
 Types: Ghost / Fire • Egg Groups: Amorphous
@@ -45,8 +45,8 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM17 - Protect
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -57,7 +57,8 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM59 - Dark Pulse
 - HM05 - Flash
 
 **Encounter Locations**
@@ -114,12 +115,21 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - Sleep Talk
 - Snore
 - Swagger
+- 607
+- 1 Sp. Atk
+- 0.3
+- 3.1
+- 55
+- 190
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lampent-panel-1">
-## Lampent (#280)
+## Lampent (#300)
 <details class="pokemon-card-container" open>
 <summary>Lampent overview</summary>
 Types: Ghost / Fire • Egg Groups: Amorphous
@@ -157,8 +167,8 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM17 - Protect
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -169,7 +179,8 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM59 - Dark Pulse
 - HM05 - Flash
 
 **Evolution Info**
@@ -230,12 +241,21 @@ Lv. 26
 - Sleep Talk
 - Snore
 - Swagger
+- 608
+- 2 Sp. Atk
+- 0.6
+- 13.0
+- 130
+- 90
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lampent-panel-2">
-## Chandelure (#281)
+## Chandelure (#301)
 <details class="pokemon-card-container" open>
 <summary>Chandelure overview</summary>
 Types: Ghost / Fire • Egg Groups: Amorphous
@@ -272,10 +292,9 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -286,7 +305,8 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM59 - Dark Pulse
 - HM05 - Flash
 
 **Evolution Info**
@@ -343,6 +363,15 @@ Dusk Stone
 - Sleep Talk
 - Snore
 - Swagger
+- 609
+- 3 Sp. Atk
+- 1.0
+- 34.3
+- 260
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

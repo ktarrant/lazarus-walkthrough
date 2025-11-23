@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-voltorb-tab-1">Electrode</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-voltorb-panel-0">
-## Voltorb (#343)
+## Voltorb (#363)
 <details class="pokemon-card-container" open>
 <summary>Voltorb overview</summary>
 Types: Electric • Egg Groups: Mineral
@@ -42,7 +42,7 @@ Types: Electric • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM46 - Thief
-- TM59 - Volt Switch
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Encounter Locations**
@@ -81,6 +81,9 @@ Types: Electric • Egg Groups: Mineral
 - Gyro Ball (Lv 46)
 - Mirror Coat (Lv 48)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Double-Edge
 - Endure
@@ -90,13 +93,21 @@ Types: Electric • Egg Groups: Mineral
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 100
+- 1 Spe
+- 0.5
+- 10.4
+- 66
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-voltorb-panel-1">
-## Electrode (#344)
+## Electrode (#364)
 <details class="pokemon-card-container" open>
 <summary>Electrode overview</summary>
 Types: Electric • Egg Groups: Mineral
@@ -121,7 +132,6 @@ Types: Electric • Egg Groups: Mineral
 **TM/HM Moves**
 - TM06 - Toxic
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -134,7 +144,7 @@ Types: Electric • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM46 - Thief
-- TM59 - Volt Switch
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Evolution Info**
@@ -173,6 +183,9 @@ Lv. 30
 - Gyro Ball (Lv 54)
 - Mirror Coat (Lv 58)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Double-Edge
 - Endure
@@ -182,7 +195,15 @@ Lv. 30
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 101
+- 2 Spe
+- 1.2
+- 66.6
+- 172
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

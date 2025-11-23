@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-crabominable-tab-1">Crabominable</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-crabominable-panel-0">
-## Crabrawler (#253)
+## Crabrawler (#273)
 <details class="pokemon-card-container" open>
 <summary>Crabrawler overview</summary>
 Types: Fighting • Egg Groups: Water 3
@@ -30,7 +30,6 @@ Types: Fighting • Egg Groups: Water 3
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
@@ -45,7 +44,14 @@ Types: Fighting • Egg Groups: Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
+- TM52 - Frost Breath
+- TM53 - Power-Up Punch
+- TM56 - Scald
 - HM06 - Rock Smash
+
+**Held Item**
+Aspear Berry
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Day) (20%)
@@ -102,12 +108,21 @@ Types: Fighting • Egg Groups: Water 3
 - Swagger
 - Swift
 - Thunder Punch
+- 739
+- 1 Atk
+- 0.6
+- 7.0
+- 68
+- 225
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-crabominable-panel-1">
-## Crabominable (#254)
+## Crabominable (#274)
 <details class="pokemon-card-container" open>
 <summary>Crabominable overview</summary>
 Types: Fighting / Ice • Egg Groups: Water 3
@@ -135,14 +150,11 @@ Types: Fighting / Ice • Egg Groups: Water 3
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
-- TM07 - Hail
 - TM08 - Bulk Up
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM26 - Earthquake
@@ -154,7 +166,15 @@ Types: Fighting / Ice • Egg Groups: Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+- TM53 - Power-Up Punch
+- TM56 - Scald
 - HM06 - Rock Smash
+
+**Held Item**
+Cheri Berry
 
 **Evolution Info**
 Ice Stone
@@ -178,6 +198,7 @@ Ice Stone
 
 **Level-Up Moves**
 - Ice Punch (Lv Evo)
+- Deepwater Curse (Lv 1)
 - Bubble (Lv 1)
 - Rock Smash (Lv 5)
 - Leer (Lv 9)
@@ -214,6 +235,15 @@ Ice Stone
 - Swagger
 - Swift
 - Thunder Punch
+- 740
+- 2 Atk
+- 1.7
+- 180.0
+- 167
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

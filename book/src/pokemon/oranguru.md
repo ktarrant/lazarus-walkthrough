@@ -1,4 +1,4 @@
-## Oranguru (#326)
+## Oranguru (#346)
 <details class="pokemon-card-container" open>
 <summary>Oranguru overview</summary>
 Types: Normal / Psychic • Egg Groups: Field
@@ -22,14 +22,13 @@ Types: Normal / Psychic • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM26 - Earthquake
@@ -42,7 +41,7 @@ Types: Normal / Psychic • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM48 - Skill Swap
-- TM49 - Snatch
+- TM49 - Bulldoze
 
 **Encounter Locations**
 - Kalami City — Grass (Night) (2%)
@@ -98,6 +97,15 @@ Types: Normal / Psychic • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 765
+- 2 Sp. Def
+- 1.5
+- 76.0
+- 172
+- 45
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

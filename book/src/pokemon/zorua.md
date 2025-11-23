@@ -30,12 +30,12 @@ Types: Dark • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM23 - Hex
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -46,7 +46,8 @@ Types: Dark • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM55 - Snarl
+- TM59 - Dark Pulse
 - HM01 - Cut
 
 **Encounter Locations**
@@ -106,6 +107,15 @@ Types: Dark • Egg Groups: Field
 - Swagger
 - Swift
 - Swords Dance
+- 570
+- 1 Sp. Atk
+- 0.7
+- 12.5
+- 66
+- 75
+- 25
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -136,13 +146,12 @@ Types: Dark • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM23 - Hex
 - TM28 - Dig
 - TM29 - Psychic
 - TM30 - Shadow Ball
@@ -156,7 +165,8 @@ Types: Dark • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM55 - Snarl
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM06 - Rock Smash
 
@@ -177,6 +187,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
+- Foul Play (Lv Evo)
 - Night Slash (Lv 1)
 - Night Daze (Lv 1)
 - Imprison (Lv 1)
@@ -191,7 +202,6 @@ Lv. 30
 - Scary Face (Lv 21)
 - Taunt (Lv 25)
 - Knock Off (Lv 28)
-- Foul Play (Lv Evo)
 - Torment (Lv 32)
 - Dark Pulse (Lv 35)
 - Agility (Lv 37)
@@ -225,6 +235,15 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
+- 571
+- 2 Sp. Atk
+- 1.6
+- 81.1
+- 179
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

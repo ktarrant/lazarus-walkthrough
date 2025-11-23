@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-doduo-tab-1">Dodrio</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-doduo-panel-0">
-## Doduo (#304)
+## Doduo (#324)
 <details class="pokemon-card-container" open>
 <summary>Doduo overview</summary>
 Types: Ground / Flying • Egg Groups: Flying
@@ -43,7 +43,11 @@ Types: Ground / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
+- TM57 - Roost
 - HM02 - Fly
+
+**Held Item**
+Sharp Beak
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -74,7 +78,7 @@ Types: Ground / Flying • Egg Groups: Flying
 - Fury Attack (Lv 12)
 - Pursuit (Lv 15)
 - Pluck (Lv 19)
-- Double Hit (Lv 22)
+- Double Kick (Lv 22)
 - Bulldoze (Lv 26)
 - Uproar (Lv 29)
 - Blaze Kick (Lv 33)
@@ -107,12 +111,21 @@ Types: Ground / Flying • Egg Groups: Flying
 - Swagger
 - Swift
 - Swords Dance
+- 84
+- 1 Atk
+- 1.4
+- 39.2
+- 62
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-doduo-panel-1">
-## Dodrio (#305)
+## Dodrio (#325)
 <details class="pokemon-card-container" open>
 <summary>Dodrio overview</summary>
 Types: Ground / Flying • Egg Groups: Flying
@@ -141,7 +154,6 @@ Types: Ground / Flying • Egg Groups: Flying
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM32 - Double Team
@@ -153,8 +165,11 @@ Types: Ground / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM56 - Stomping Tantrum
+- TM57 - Roost
 - HM02 - Fly
+
+**Held Item**
+Sharp Beak
 
 **Evolution Info**
 Lv. 31
@@ -178,6 +193,7 @@ Lv. 31
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
+- Tri Attack (Lv Evo)
 - Thunderous Kick (Lv 1)
 - Peck (Lv 1)
 - Growl (Lv 1)
@@ -187,10 +203,9 @@ Lv. 31
 - Fury Attack (Lv 12)
 - Pursuit (Lv 15)
 - Pluck (Lv 19)
-- Double Hit (Lv 22)
+- Double Kick (Lv 22)
 - Bulldoze (Lv 26)
 - Uproar (Lv 29)
-- Tri Attack (Lv Evo)
 - Blaze Kick (Lv 33)
 - Swords Dance (Lv 36)
 - Drill Run (Lv 38)
@@ -221,6 +236,15 @@ Lv. 31
 - Swagger
 - Swift
 - Swords Dance
+- 85
+- 2 Atk
+- 1.8
+- 85.2
+- 165
+- 45
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

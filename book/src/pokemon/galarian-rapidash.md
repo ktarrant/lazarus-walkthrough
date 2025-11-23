@@ -1,4 +1,107 @@
-## Galarian Rapidash (#233)
+<div class="pokemon-tabs" id="pokemon-tabs-galarian-rapidash">
+<input type="radio" name="pokemon-tabs-galarian-rapidash-group" id="pokemon-tabs-galarian-rapidash-tab-0">
+<label for="pokemon-tabs-galarian-rapidash-tab-0">Galarian Ponyta</label>
+<input type="radio" name="pokemon-tabs-galarian-rapidash-group" id="pokemon-tabs-galarian-rapidash-tab-1" checked>
+<label for="pokemon-tabs-galarian-rapidash-tab-1">Galarian Rapidash</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-galarian-rapidash-panel-0">
+## Galarian Ponyta (#252)
+<details class="pokemon-card-container" open>
+<summary>Galarian Ponyta overview</summary>
+Types: Psychic • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Run Away
+- Pastel Veil
+- Anticipation *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fighting (0.5×)
+- Psychic (0.5×)
+
+*Weak to*
+- Bug (2×)
+- Ghost (2×)
+- Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM17 - Protect
+- TM29 - Psychic
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM54 - Dazzling Gleam
+
+**Encounter Locations**
+- Lastlight Road — Grass (Night) (10%)
+- Riverwalk Trail (West) — Grass (Night) (20%)
+- Sofos City — Grass (Night) (10%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-mid">55</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-mid">90</span> |
+| Total | <span class="stat-value stat-mid">410</span> |
+
+**Level-Up Moves**
+- Tackle (Lv 1)
+- Growl (Lv 1)
+- Tail Whip (Lv 5)
+- Confusion (Lv 10)
+- Fairy Wind (Lv 15)
+- Agility (Lv 20)
+- Psybeam (Lv 25)
+- Stomp (Lv 30)
+- Heal Pulse (Lv 35)
+- Take Down (Lv 41)
+- Spirit Break (Lv 45)
+- Psychic (Lv 50)
+- Healing Wish (Lv 55)
+
+**Egg Moves**
+- Thrash
+- Double Kick
+- Hypnosis
+- Double-Edge
+- Horn Drill
+- Morning Sun
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Sleep Talk
+- Snore
+- Swift
+- 77g
+- 1 Spe
+- 0.8
+- 24.0
+- 82
+- 190
+- 20
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-galarian-rapidash-panel-1">
+## Galarian Rapidash (#253)
 <details class="pokemon-card-container" open>
 <summary>Galarian Rapidash overview</summary>
 Types: Psychic / Fairy • Egg Groups: Field
@@ -24,15 +127,15 @@ Types: Psychic / Fairy • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM29 - Psychic
 - TM35 - Flamethrower
 - TM38 - Fire Blast
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM54 - Dazzling Gleam
 
 **Evolution Info**
 Lv. 30
@@ -54,6 +157,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
+- Psycho Cut (Lv Evo)
 - Megahorn (Lv 1)
 - Tackle (Lv 1)
 - Growl (Lv 1)
@@ -62,7 +166,6 @@ Lv. 30
 - Fairy Wind (Lv 15)
 - Agility (Lv 20)
 - Psybeam (Lv 25)
-- Psycho Cut (Lv Evo)
 - Stomp (Lv 30)
 - Heal Pulse (Lv 35)
 - Take Down (Lv 41)
@@ -86,6 +189,22 @@ Lv. 30
 - Snore
 - Swift
 - Swords Dance
+- 78g
+- 2 Spe
+- 1.7
+- 80.0
+- 175
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-galarian-rapidash-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-rapidash-panel-0 { display: block; }
+#pokemon-tabs-galarian-rapidash-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-rapidash-panel-1 { display: block; }
+</style>

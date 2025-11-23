@@ -33,7 +33,6 @@ Types: Poison / Fighting • Egg Groups: Field
 - Psychic (4×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM04 - Calm Mind
 - TM06 - Toxic
 - TM08 - Bulk Up
@@ -41,16 +40,22 @@ Types: Poison / Fighting • Egg Groups: Field
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM31 - Brick Break
 - TM36 - Sludge Bomb
 - TM40 - Aerial Ace
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM46 - Thief
+- TM53 - Power-Up Punch
+- TM55 - Snarl
 - HM06 - Rock Smash
+
+**Held Item**
+Quick Claw
 
 **Encounter Locations**
 - Froslass Cavern F1 — Grass (Day) (20%)
@@ -89,12 +94,25 @@ Types: Poison / Fighting • Egg Groups: Field
 - Dire Claw (Lv 44)
 - Close Combat (Lv 47)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
+- Acid Spray
 - Counter
 - Endure
 - Sleep Talk
 - Swift
 - Swords Dance
+- 215h
+- 1 Spe
+- 0.9
+- 28.0
+- 86
+- 60
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>
@@ -128,7 +146,6 @@ Types: Fighting / Poison • Egg Groups: Field
 - Psychic (4×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM04 - Calm Mind
 - TM06 - Toxic
 - TM08 - Bulk Up
@@ -136,15 +153,19 @@ Types: Fighting / Poison • Egg Groups: Field
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM31 - Brick Break
 - TM36 - Sludge Bomb
+- TM39 - Rock Tomb
 - TM40 - Aerial Ace
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM46 - Thief
+- TM53 - Power-Up Punch
+- TM55 - Snarl
 - HM06 - Rock Smash
 
 **Evolution Info**
@@ -184,12 +205,27 @@ Razor Claw
 - Dire Claw (Lv 44)
 - Close Combat (Lv 47)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
+- Acid Spray
 - Counter
 - Endure
+- Fire Punch
+- Rock Slide
 - Sleep Talk
 - Swift
 - Swords Dance
+- 903
+- 1 Atk, 1 Spe
+- 1.3
+- 43.0
+- 199
+- 45
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>

@@ -7,7 +7,7 @@
 <label for="pokemon-tabs-charcadet-tab-2">Ceruledge</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-charcadet-panel-0">
-## Charcadet (#282)
+## Charcadet (#302)
 <details class="pokemon-card-container" open>
 <summary>Charcadet overview</summary>
 Types: Fire • Egg Groups: Human-Like
@@ -41,7 +41,7 @@ Types: Fire • Egg Groups: Human-Like
 - TM38 - Fire Blast
 - TM42 - Facade
 - TM44 - Rest
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Day) (5%)
@@ -81,12 +81,21 @@ Types: Fire • Egg Groups: Human-Like
 **Tutor Moves**
 - Endure
 - Sleep Talk
+- 935
+- 1 Sp. Atk
+- 0.6
+- 10.5
+- 51
+- 90
+- 35
+- 50
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-charcadet-panel-1">
-## Armarouge (#283)
+## Armarouge (#303)
 <details class="pokemon-card-container" open>
 <summary>Armarouge overview</summary>
 Types: Fire / Psychic • Egg Groups: Human-Like
@@ -95,6 +104,7 @@ Types: Fire / Psychic • Egg Groups: Human-Like
 <div class="card-column">
 **Abilities**
 - Flash Fire
+- Mega Launcher
 - Weak Armor *(Hidden)*
 
 **Type Matchups**
@@ -115,6 +125,24 @@ Types: Fire / Psychic • Egg Groups: Human-Like
 - Ghost (2×)
 - Dark (2×)
 
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Psyshock
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM51 - Will-O-Wisp
+- TM59 - Dark Pulse
+
 **Evolution Info**
 Auspicious Armor
 
@@ -134,16 +162,52 @@ Auspicious Armor
 | Speed | <span class="stat-value stat-mid">75</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
 
+**Level-Up Moves**
+- Psyshock (Lv Evo)
+- Leer (Lv 1)
+- Ember (Lv 1)
+- Mystical Fire (Lv 1)
+- Astonish (Lv 1)
+- Wide Guard (Lv 1)
+- Clear Smog (Lv 8)
+- Fire Spin (Lv 12)
+- Will-O-Wisp (Lv 16)
+- Night Shade (Lv 20)
+- Flame Charge (Lv 24)
+- Incinerate (Lv 28)
+- Lava Plume (Lv 32)
+- Aura Sphere (Lv 34)
+- Calm Mind (Lv 37)
+- Ally Switch (Lv 39)
+- Flamethrower (Lv 41)
+- Expanding Force (Lv 45)
+- Armor Cannon (Lv 50)
+
 **Egg Moves**
 - Destiny Bond
 - Disable
 - Spite
+
+**Tutor Moves**
+- Acid Spray
+- Endure
+- Psych Up
+- Sleep Talk
+- 936
+- 2 Sp. Atk
+- 1.5
+- 85.0
+- 263
+- 25
+- 35
+- 20
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-charcadet-panel-2">
-## Ceruledge (#284)
+## Ceruledge (#304)
 <details class="pokemon-card-container" open>
 <summary>Ceruledge overview</summary>
 Types: Fire / Ghost • Egg Groups: Human-Like
@@ -152,6 +216,7 @@ Types: Fire / Ghost • Egg Groups: Human-Like
 <div class="card-column">
 **Abilities**
 - Flash Fire
+- Sharpness
 - Weak Armor *(Hidden)*
 
 **Type Matchups**
@@ -174,6 +239,24 @@ Types: Fire / Ghost • Egg Groups: Human-Like
 - Ghost (2×)
 - Dark (2×)
 
+**TM/HM Moves**
+- TM02 - Dragon Claw
+- TM08 - Bulk Up
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM20 - Poison Jab
+- TM23 - Hex
+- TM30 - Shadow Ball
+- TM31 - Brick Break
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM51 - Will-O-Wisp
+
 **Evolution Info**
 Malicious Armor
 
@@ -193,10 +276,48 @@ Malicious Armor
 | Speed | <span class="stat-value stat-mid">85</span> |
 | Total | <span class="stat-value stat-mid">525</span> |
 
+**Level-Up Moves**
+- Shadow Claw (Lv Evo)
+- Night Slash (Lv 1)
+- Shadow Sneak (Lv 1)
+- Quick Guard (Lv 1)
+- Solar Blade (Lv 1)
+- Leer (Lv 1)
+- Ember (Lv 1)
+- Astonish (Lv 1)
+- Clear Smog (Lv 8)
+- Fire Spin (Lv 12)
+- Will-O-Wisp (Lv 16)
+- Night Shade (Lv 20)
+- Flame Charge (Lv 24)
+- Incinerate (Lv 28)
+- Lava Plume (Lv 32)
+- Sacred Sword (Lv 34)
+- Swords Dance (Lv 37)
+- Ally Switch (Lv 39)
+- Bitter Blade (Lv 41)
+- Psycho Cut (Lv 45)
+- Flare Blitz (Lv 50)
+
 **Egg Moves**
 - Destiny Bond
 - Disable
 - Spite
+
+**Tutor Moves**
+- Endure
+- Psych Up
+- Sleep Talk
+- Swords Dance
+- 937
+- 2 Atk
+- 1.6
+- 62.0
+- 263
+- 25
+- 35
+- 20
+- Slow
 </div>
 </div>
 </details>

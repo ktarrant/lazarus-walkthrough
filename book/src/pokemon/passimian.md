@@ -1,4 +1,4 @@
-## Passimian (#327)
+## Passimian (#347)
 <details class="pokemon-card-container" open>
 <summary>Passimian overview</summary>
 Types: Normal / Fighting • Egg Groups: Field
@@ -25,15 +25,12 @@ Types: Normal / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM30 - Shadow Ball
 - TM31 - Brick Break
@@ -45,11 +42,8 @@ Types: Normal / Fighting • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM49 - Bulldoze
 - HM06 - Rock Smash
-
-**Held Item**
-Revive?
 
 **Encounter Locations**
 - Kalami City — Grass (Day) (2%)
@@ -108,6 +102,15 @@ Revive?
 - Sleep Talk
 - Snore
 - Swagger
+- 766
+- 2 Atk
+- 2.0
+- 82.8
+- 172
+- 45
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

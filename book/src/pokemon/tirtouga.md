@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-tirtouga-tab-1">Carracosta</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tirtouga-panel-0">
-## Tirtouga (#380)
+## Tirtouga (#404)
 <details class="pokemon-card-container" open>
 <summary>Tirtouga overview</summary>
 Types: Water / Rock • Egg Groups: Water 3 / Water 1
@@ -115,12 +115,21 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1
 - Sleep Talk
 - Snore
 - Swagger
+- 564
+- 1 Def
+- 0.7
+- 16.5
+- 71
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tirtouga-panel-1">
-## Carracosta (#381)
+## Carracosta (#405)
 <details class="pokemon-card-container" open>
 <summary>Carracosta overview</summary>
 Types: Water / Rock • Egg Groups: Water 3 / Water 1
@@ -230,6 +239,15 @@ Lv. 33
 - Sleep Talk
 - Snore
 - Swagger
+- 565
+- 2 Def
+- 1.2
+- 81.0
+- 173
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

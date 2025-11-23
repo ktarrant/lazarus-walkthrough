@@ -1,4 +1,4 @@
-## Mimikyu (#231)
+## Mimikyu (#251)
 <details class="pokemon-card-container" open>
 <summary>Mimikyu overview</summary>
 Types: Ghost / Fairy • Egg Groups: Amorphous
@@ -25,12 +25,12 @@ Types: Ghost / Fairy • Egg Groups: Amorphous
 - TM08 - Bulk Up
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
+- TM23 - Hex
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM29 - Psychic
@@ -40,7 +40,13 @@ Types: Ghost / Fairy • Egg Groups: Amorphous
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM51 - Will-O-Wisp
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
+- TM59 - Dark Pulse
+
+**Held Item**
+Chesto Berry
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (2%)
@@ -96,7 +102,15 @@ Types: Ghost / Fairy • Egg Groups: Amorphous
 - Snore
 - Swagger
 - Swords Dance
-- Thunder Wave
+- 778
+- 2 Sp. Def
+- 0.2
+- 0.7
+- 167
+- 45
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

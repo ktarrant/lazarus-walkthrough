@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-shellder-tab-1">Cloyster</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-shellder-panel-0">
-## Shellder (#287)
+## Shellder (#307)
 <details class="pokemon-card-container" open>
 <summary>Shellder overview</summary>
 Types: Water • Egg Groups: Water 3
@@ -32,7 +32,7 @@ Types: Water • Egg Groups: Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
@@ -45,6 +45,9 @@ Types: Water • Egg Groups: Water 3
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
+
+**Held Item**
+Pearl
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (30%)
@@ -83,13 +86,17 @@ Types: Water • Egg Groups: Water 3
 - Icicle Spear (Lv 13)
 - Protect (Lv 16)
 - Leer (Lv 20)
-- Clamp (Lv 25)
-- Ice Shard (Lv 28)
-- Razor Shell (Lv 32)
+- Clamp (Lv 23)
+- Ice Shard (Lv 26)
+- Razor Shell (Lv 29)
+- Spike Cannon (Lv 32)
+- Spikes (Lv 35)
 - Aurora Beam (Lv 37)
-- Whirlpool (Lv 40)
+- Whirlpool (Lv 39)
+- Icicle Spear (Lv 42)
 - Brine (Lv 44)
-- Iron Defense (Lv 49)
+- Iron Defense (Lv 47)
+- Icicle Crash (Lv 50)
 - Ice Beam (Lv 52)
 - Shell Smash (Lv 56)
 - Hydro Pump (Lv 61)
@@ -117,12 +124,21 @@ Types: Water • Egg Groups: Water 3
 - Snore
 - Swagger
 - Swift
+- 90
+- 1 Def
+- 0.3
+- 4.0
+- 61
+- 190
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-shellder-panel-1">
-## Cloyster (#288)
+## Cloyster (#308)
 <details class="pokemon-card-container" open>
 <summary>Cloyster overview</summary>
 Types: Water / Ice • Egg Groups: Water 3
@@ -149,22 +165,26 @@ Types: Water / Ice • Egg Groups: Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM20 - Poison Jab
 - TM32 - Double Team
 - TM33 - Reflect
 - TM41 - Torment
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM52 - Frost Breath
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
+
+**Held Item**
+Pearl
 
 **Evolution Info**
 Water Stone
@@ -188,15 +208,27 @@ Water Stone
 
 **Level-Up Moves**
 - Spike Cannon (Lv Evo)
-- Hydro Pump (Lv 1)
-- Shell Smash (Lv 1)
-- Toxic Spikes (Lv 1)
-- Withdraw (Lv 1)
-- Supersonic (Lv 1)
-- Protect (Lv 1)
-- Aurora Beam (Lv 1)
-- Spikes (Lv 28)
+- Tackle (Lv 1)
+- Water Gun (Lv 1)
+- Withdraw (Lv 4)
+- Supersonic (Lv 8)
+- Icicle Spear (Lv 13)
+- Protect (Lv 16)
+- Leer (Lv 20)
+- Clamp (Lv 23)
+- Ice Shard (Lv 26)
+- Razor Shell (Lv 29)
+- Spike Cannon (Lv 32)
+- Spikes (Lv 35)
+- Aurora Beam (Lv 37)
+- Whirlpool (Lv 39)
+- Icicle Spear (Lv 42)
+- Brine (Lv 44)
+- Iron Defense (Lv 47)
 - Icicle Crash (Lv 50)
+- Ice Beam (Lv 52)
+- Shell Smash (Lv 56)
+- Hydro Pump (Lv 61)
 
 **Egg Moves**
 - Bubble Beam
@@ -222,6 +254,15 @@ Water Stone
 - Snore
 - Swagger
 - Swift
+- 91
+- 2 Def
+- 1.5
+- 132.5
+- 184
+- 60
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

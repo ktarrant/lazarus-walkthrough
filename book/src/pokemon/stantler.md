@@ -3,6 +3,8 @@
 <label for="pokemon-tabs-stantler-tab-0">Stantler</label>
 <input type="radio" name="pokemon-tabs-stantler-group" id="pokemon-tabs-stantler-tab-1">
 <label for="pokemon-tabs-stantler-tab-1">Wyrdeer</label>
+<input type="radio" name="pokemon-tabs-stantler-group" id="pokemon-tabs-stantler-tab-2">
+<label for="pokemon-tabs-stantler-tab-2">Mega Wyrdeer</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-stantler-panel-0">
 ## Stantler (#184)
@@ -27,15 +29,13 @@ Types: Normal • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM26 - Earthquake
@@ -50,6 +50,8 @@ Types: Normal • Egg Groups: Field
 - TM45 - Attract
 - TM46 - Thief
 - TM48 - Skill Swap
+- TM49 - Bulldoze
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Encounter Locations**
@@ -114,7 +116,15 @@ Types: Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 234
+- 1 Atk
+- 1.4
+- 71.2
+- 163
+- 45
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
@@ -130,7 +140,7 @@ Types: Normal / Psychic • Egg Groups: Field
 **Abilities**
 - Intimidate
 - Sap Sipper
-- Fur Coat *(Hidden)*
+- Analytic *(Hidden)*
 
 **Type Matchups**
 
@@ -144,14 +154,12 @@ Types: Normal / Psychic • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
+- TM05 - Psyshock
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM26 - Earthquake
@@ -163,6 +171,8 @@ Types: Normal / Psychic • Egg Groups: Field
 - TM44 - Rest
 - TM46 - Thief
 - TM48 - Skill Swap
+- TM49 - Bulldoze
+- TM58 - Thunder Wave
 
 **Evolution Info**
 Lv. after using Psyshield Bash 20x
@@ -220,7 +230,127 @@ Lv. after using Psyshield Bash 20x
 - Psych Up
 - Sleep Talk
 - Swift
-- Thunder Wave
+- 899
+- 1 Atk, 1 Sp. Atk
+- 1.8
+- 95.1
+- 263
+- 45
+- 20
+- 50
+- Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-stantler-panel-2">
+## Mega Wyrdeer (#185)
+<details class="pokemon-card-container" open>
+<summary>Mega Wyrdeer overview</summary>
+Types: Normal / Psychic • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Fur Coat
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Psychic (0.5×)
+- Ghost (0×)
+
+*Weak to*
+- Bug (2×)
+- Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Psyshock
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM22 - Solar Beam
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM26 - Earthquake
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Bulldoze
+- TM58 - Thunder Wave
+
+**Evolution Info**
+Wyrdeerite
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">103</span> |
+| Attack | <span class="stat-value stat-high">120</span> |
+| Defense | <span class="stat-value stat-high">97</span> |
+| Sp. Atk | <span class="stat-value stat-high">140</span> |
+| Sp. Def | <span class="stat-value stat-high">115</span> |
+| Speed | <span class="stat-value stat-low">50</span> |
+| Total | <span class="stat-value stat-high">625</span> |
+
+**Level-Up Moves**
+- Me First (Lv 1)
+- Tackle (Lv 1)
+- Leer (Lv 3)
+- Astonish (Lv 7)
+- Hypnosis (Lv 10)
+- Stomp (Lv 13)
+- Sand Attack (Lv 16)
+- Take Down (Lv 21)
+- Confuse Ray (Lv 23)
+- Calm Mind (Lv 27)
+- Psyshield Bash (Lv 30)
+- Role Play (Lv 33)
+- Horn Leech (Lv 36)
+- Psychic (Lv 38)
+- Jump Kick (Lv 43)
+- Imprison (Lv 49)
+- Captivate (Lv 50)
+- Me First (Lv 55)
+
+**Egg Moves**
+- Spite
+- Disable
+- Bite
+- Extrasensory
+- Thrash
+- Double Kick
+- Zen Headbutt
+- Megahorn
+- Mud Sport
+- Rage
+- Me First
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Psych Up
+- Sleep Talk
+- Swift
+- 899M
+- 1 Atk, 1 Sp. Atk
+- 1.8
+- 95.1
+- 263
+- 45
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
@@ -230,4 +360,5 @@ Lv. after using Psyshield Bash 20x
 <style>
 #pokemon-tabs-stantler-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-stantler-panel-0 { display: block; }
 #pokemon-tabs-stantler-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-stantler-panel-1 { display: block; }
+#pokemon-tabs-stantler-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-stantler-panel-2 { display: block; }
 </style>

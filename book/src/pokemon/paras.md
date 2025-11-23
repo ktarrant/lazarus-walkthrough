@@ -56,6 +56,9 @@ Types: Bug / Grass • Egg Groups: Bug / Grass
 - HM05 - Flash
 - HM06 - Rock Smash
 
+**Held Item**
+Tiny Mushroom
+
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Night) (20%)
 - Pythios Cemetery — Grass (Day) (10%)
@@ -121,6 +124,15 @@ Types: Bug / Grass • Egg Groups: Bug / Grass
 - Snore
 - Swagger
 - Swords Dance
+- 46
+- 1 Atk
+- 0.3
+- 5.4
+- 57
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -159,7 +171,6 @@ Types: Bug / Ghost • Egg Groups: Bug / Grass
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM19 - Giga Drain
@@ -178,6 +189,9 @@ Types: Bug / Ghost • Egg Groups: Bug / Grass
 - HM05 - Flash
 - HM06 - Rock Smash
 
+**Held Item**
+Tiny Mushroom
+
 **Evolution Info**
 Lv. 24
 </div>
@@ -195,6 +209,7 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">435</span> |
 
 **Level-Up Moves**
+- Shadow Claw (Lv Evo)
 - Cross Poison (Lv 1)
 - Scratch (Lv 1)
 - Stun Spore (Lv 6)
@@ -203,7 +218,6 @@ Lv. 24
 - Fury Cutter (Lv 14)
 - Leafage (Lv 18)
 - Spore (Lv 22)
-- Shadow Claw (Lv Evo)
 - Slash (Lv 25)
 - False Swipe (Lv 28)
 - Leech Life (Lv 30)
@@ -243,6 +257,15 @@ Lv. 24
 - Snore
 - Swagger
 - Swords Dance
+- 47
+- 2 Atk, 1 Def
+- 1.0
+- 29.5
+- 142
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

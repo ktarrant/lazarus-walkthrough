@@ -40,18 +40,22 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM17 - Protect
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM32 - Double Team
 - TM35 - Flamethrower
 - TM36 - Sludge Bomb
 - TM38 - Fire Blast
 - TM41 - Torment
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM58 - Thunder Wave
+
+**Held Item**
+Smoke Ball
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (10%)
@@ -98,13 +102,22 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon
 - Fake Out
 
 **Tutor Moves**
+- Acid Spray
 - Endure
 - Mud-Slap
 - Sleep Talk
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 757
+- 1 Spe
+- 0.6
+- 4.8
+- 64
+- 120
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -144,20 +157,24 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM32 - Double Team
 - TM35 - Flamethrower
 - TM36 - Sludge Bomb
 - TM38 - Fire Blast
 - TM41 - Torment
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM58 - Thunder Wave
+- TM60 - Dragon Dance
+
+**Held Item**
+Smoke Ball
 
 **Evolution Info**
 Lv. 33, Female
@@ -176,6 +193,7 @@ Lv. 33, Female
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
+- Captivate (Lv Evo)
 - Disable (Lv 1)
 - Encore (Lv 1)
 - Torment (Lv 1)
@@ -191,7 +209,6 @@ Lv. 33, Female
 - Flame Burst (Lv 24)
 - Toxic (Lv 29)
 - Nasty Plot (Lv 32)
-- Captivate (Lv Evo)
 - Fiery Wrath (Lv 35)
 - Venoshock (Lv 37)
 - Flamethrower (Lv 40)
@@ -206,6 +223,7 @@ Lv. 33, Female
 - Fake Out
 
 **Tutor Moves**
+- Acid Spray
 - Body Slam
 - Endure
 - Mud-Slap
@@ -213,7 +231,15 @@ Lv. 33, Female
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 758
+- 2 Spe
+- 1.2
+- 22.2
+- 168
+- 45
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

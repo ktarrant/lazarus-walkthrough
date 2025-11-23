@@ -30,7 +30,6 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
@@ -41,6 +40,7 @@ Types: Ground • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
 
@@ -103,6 +103,15 @@ Light Clay
 - Sleep Talk
 - Snore
 - Swagger
+- 749
+- 1 Atk
+- 1.0
+- 110.0
+- 77
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -133,10 +142,8 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM26 - Earthquake
 - TM32 - Double Team
@@ -145,8 +152,12 @@ Types: Ground • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Light Clay
 
 **Evolution Info**
 Lv. 30
@@ -199,6 +210,15 @@ Lv. 30
 - Sleep Talk
 - Snore
 - Swagger
+- 750
+- 2 Atk
+- 2.5
+- 920.0
+- 175
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-corphish-tab-1">Crawdaunt</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-corphish-panel-0">
-## Corphish (#377)
+## Corphish (#400)
 <details class="pokemon-card-container" open>
 <summary>Corphish overview</summary>
 Types: Water • Egg Groups: Water 1 / Water 3
@@ -32,7 +32,7 @@ Types: Water • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
@@ -48,6 +48,8 @@ Types: Water • Egg Groups: Water 1 / Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
+- TM60 - Dragon Dance
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
@@ -119,12 +121,21 @@ Types: Water • Egg Groups: Water 1 / Water 3
 - Snore
 - Swagger
 - Swords Dance
+- 341
+- 1 Atk
+- 0.6
+- 11.5
+- 62
+- 205
+- 15
+- 50
+- Fluctuating
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-corphish-panel-1">
-## Crawdaunt (#378)
+## Crawdaunt (#401)
 <details class="pokemon-card-container" open>
 <summary>Crawdaunt overview</summary>
 Types: Water / Dark • Egg Groups: Water 1 / Water 3
@@ -157,11 +168,10 @@ Types: Water / Dark • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM28 - Dig
@@ -174,6 +184,10 @@ Types: Water / Dark • Egg Groups: Water 1 / Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM55 - Snarl
+- TM56 - Scald
+- TM59 - Dark Pulse
+- TM60 - Dragon Dance
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
@@ -202,6 +216,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">473</span> |
 
 **Level-Up Moves**
+- Swift (Lv Evo)
 - Bubble (Lv 1)
 - Harden (Lv 5)
 - Vice Grip (Lv 7)
@@ -211,7 +226,6 @@ Lv. 30
 - Double Hit (Lv 20)
 - Knock Off (Lv 23)
 - Night Slash (Lv 26)
-- Swift (Lv Evo)
 - Razor Shell (Lv 32)
 - Taunt (Lv 36)
 - Swords Dance (Lv 40)
@@ -249,6 +263,15 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
+- 342
+- 2 Atk
+- 1.1
+- 32.8
+- 164
+- 155
+- 15
+- 50
+- Fluctuating
 </div>
 </div>
 </details>

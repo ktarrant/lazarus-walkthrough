@@ -1,4 +1,4 @@
-## Torkoal (#313)
+## Torkoal (#333)
 <details class="pokemon-card-container" open>
 <summary>Torkoal overview</summary>
 Types: Fire • Egg Groups: Field
@@ -28,10 +28,8 @@ Types: Fire • Egg Groups: Field
 **TM/HM Moves**
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM32 - Double Team
 - TM35 - Flamethrower
@@ -42,10 +40,13 @@ Types: Fire • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Charcoal
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Day) (2%)
@@ -107,6 +108,15 @@ Types: Fire • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 324
+- 2 Def
+- 0.5
+- 80.4
+- 165
+- 90
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

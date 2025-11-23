@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-gligar-tab-1">Gliscor</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gligar-panel-0">
-## Gligar (#311)
+## Gligar (#331)
 <details class="pokemon-card-container" open>
 <summary>Gligar overview</summary>
 Types: Ground / Flying • Egg Groups: Bug
@@ -36,7 +36,7 @@ Types: Ground / Flying • Egg Groups: Bug
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -51,11 +51,9 @@ Types: Ground / Flying • Egg Groups: Bug
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM52 - Thunder Fang
-- TM53 - Ice Fang
-- TM54 - Fire Fang
-- TM55 - Psychic Fangs
-- TM60 - U-Turn
+- TM49 - Bulldoze
+- TM57 - Roost
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -98,7 +96,7 @@ Types: Ground / Flying • Egg Groups: Bug
 - Poison Jab (Lv 45)
 - Toxic (Lv 48)
 - Swords Dance (Lv 50)
-- Guillotine (Lv 55)
+- Flying Press (Lv 55)
 
 **Egg Moves**
 - Metal Claw
@@ -129,12 +127,21 @@ Types: Ground / Flying • Egg Groups: Bug
 - Swagger
 - Swift
 - Swords Dance
+- 207
+- 1 Def
+- 1.1
+- 64.8
+- 86
+- 60
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gligar-panel-1">
-## Gliscor (#312)
+## Gliscor (#332)
 <details class="pokemon-card-container" open>
 <summary>Gliscor overview</summary>
 Types: Ground / Flying • Egg Groups: Bug
@@ -163,10 +170,9 @@ Types: Ground / Flying • Egg Groups: Bug
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -181,11 +187,9 @@ Types: Ground / Flying • Egg Groups: Bug
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM52 - Thunder Fang
-- TM53 - Ice Fang
-- TM54 - Fire Fang
-- TM55 - Psychic Fangs
-- TM60 - U-Turn
+- TM49 - Bulldoze
+- TM57 - Roost
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -207,7 +211,7 @@ Razor Fang
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Flying Press (Lv Evo)
+- Fly (Lv Evo)
 - Guillotine (Lv 1)
 - Thunder Fang (Lv 1)
 - Ice Fang (Lv 1)
@@ -230,7 +234,7 @@ Razor Fang
 - Poison Jab (Lv 45)
 - Toxic (Lv 48)
 - Swords Dance (Lv 50)
-- Guillotine (Lv 55)
+- Flying Press (Lv 55)
 
 **Egg Moves**
 - Metal Claw
@@ -260,6 +264,15 @@ Razor Fang
 - Swagger
 - Swift
 - Swords Dance
+- 472
+- 2 Def
+- 2.0
+- 42.5
+- 179
+- 30
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

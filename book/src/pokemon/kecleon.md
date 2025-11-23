@@ -1,4 +1,4 @@
-## Kecleon (#321)
+## Kecleon (#341)
 <details class="pokemon-card-container" open>
 <summary>Kecleon overview</summary>
 Types: Normal • Egg Groups: Field
@@ -19,7 +19,6 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM06 - Toxic
 - TM11 - Sunny Day
@@ -28,7 +27,6 @@ Types: Normal • Egg Groups: Field
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -45,7 +43,8 @@ Types: Normal • Egg Groups: Field
 - TM45 - Attract
 - TM46 - Thief
 - TM48 - Skill Swap
-- TM49 - Snatch
+- TM53 - Power-Up Punch
+- TM58 - Thunder Wave
 - HM01 - Cut
 - HM04 - Strength
 - HM05 - Flash
@@ -134,7 +133,15 @@ Types: Normal • Egg Groups: Field
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 352
+- 1 Sp. Def
+- 1.0
+- 22.0
+- 154
+- 200
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

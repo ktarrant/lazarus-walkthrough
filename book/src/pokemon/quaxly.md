@@ -32,11 +32,13 @@ Types: Water • Egg Groups: Flying / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
+- TM07 - Whirlpool
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM40 - Aerial Ace
 - TM42 - Facade
 - TM44 - Rest
+- TM57 - Roost
 - HM03 - Surf
 
 **Encounter Locations**
@@ -80,6 +82,15 @@ Types: Water • Egg Groups: Flying / Water 1
 - Psych Up
 - Sleep Talk
 - Swift
+- 912
+- 1 Atk
+- 0.5
+- 6.1
+- 62
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -111,11 +122,13 @@ Types: Water • Egg Groups: Flying / Water 1
 
 **TM/HM Moves**
 - TM03 - Water Pulse
+- TM07 - Whirlpool
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM40 - Aerial Ace
 - TM42 - Facade
 - TM44 - Rest
+- TM57 - Roost
 - HM03 - Surf
 
 **Evolution Info**
@@ -162,6 +175,15 @@ Lv. 16
 - Psych Up
 - Sleep Talk
 - Swift
+- 913
+- 2 Atk
+- 1.2
+- 21.5
+- 144
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -199,15 +221,16 @@ Types: Water / Fighting • Egg Groups: Flying / Water 1
 
 **TM/HM Moves**
 - TM03 - Water Pulse
+- TM07 - Whirlpool
 - TM08 - Bulk Up
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM31 - Brick Break
 - TM40 - Aerial Ace
 - TM42 - Facade
 - TM44 - Rest
+- TM57 - Roost
 - HM03 - Surf
 
 **Evolution Info**
@@ -227,6 +250,7 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Aqua Step (Lv Evo)
 - Counter (Lv 1)
 - Pound (Lv 1)
 - Growl (Lv 1)
@@ -240,7 +264,6 @@ Lv. 36
 - Aqua Cutter (Lv 21)
 - Air Slash (Lv 27)
 - Focus Energy (Lv 32)
-- Aqua Step (Lv Evo)
 - Mega Kick (Lv 38)
 - Acrobatics (Lv 40)
 - Liquidation (Lv 43)
@@ -263,6 +286,15 @@ Lv. 36
 - Sleep Talk
 - Swift
 - Swords Dance
+- 914
+- 3 Atk
+- 1.8
+- 61.9
+- 265
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

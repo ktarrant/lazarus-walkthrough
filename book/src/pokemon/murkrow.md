@@ -37,9 +37,9 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -50,8 +50,10 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM49 - Snatch
-- TM60 - U-Turn
+- TM55 - Snarl
+- TM57 - Roost
+- TM58 - Thunder Wave
+- TM59 - Dark Pulse
 - HM02 - Fly
 
 **Encounter Locations**
@@ -78,6 +80,7 @@ Types: Dark / Flying • Egg Groups: Flying
 - Pursuit (Lv 5)
 - Haze (Lv 11)
 - Wing Attack (Lv 15)
+- Thief (Lv 18)
 - Night Shade (Lv 21)
 - Assurance (Lv 25)
 - Dual Wingbeat (Lv 29)
@@ -121,7 +124,15 @@ Types: Dark / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 198
+- 1 Spe
+- 0.5
+- 2.1
+- 81
+- 30
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>
@@ -159,9 +170,9 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -172,8 +183,10 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM49 - Snatch
-- TM60 - U-Turn
+- TM55 - Snarl
+- TM57 - Roost
+- TM58 - Thunder Wave
+- TM59 - Dark Pulse
 - HM02 - Fly
 
 **Evolution Info**
@@ -199,6 +212,7 @@ Dusk Stone
 - Pursuit (Lv 5)
 - Haze (Lv 11)
 - Wing Attack (Lv 15)
+- Thief (Lv 18)
 - Night Shade (Lv 21)
 - Assurance (Lv 25)
 - Dual Wingbeat (Lv 29)
@@ -242,7 +256,15 @@ Dusk Stone
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 430
+- 2 Atk
+- 0.9
+- 27.3
+- 177
+- 30
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>

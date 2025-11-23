@@ -2,21 +2,21 @@
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-0" checked>
 <label for="pokemon-tabs-eevee-tab-0">Eevee</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-1">
-<label for="pokemon-tabs-eevee-tab-1">Espeon</label>
+<label for="pokemon-tabs-eevee-tab-1">Vaporeon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-2">
-<label for="pokemon-tabs-eevee-tab-2">Flareon</label>
+<label for="pokemon-tabs-eevee-tab-2">Jolteon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-3">
-<label for="pokemon-tabs-eevee-tab-3">Glaceon</label>
+<label for="pokemon-tabs-eevee-tab-3">Flareon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-4">
-<label for="pokemon-tabs-eevee-tab-4">Jolteon</label>
+<label for="pokemon-tabs-eevee-tab-4">Espeon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-5">
-<label for="pokemon-tabs-eevee-tab-5">Leafeon</label>
+<label for="pokemon-tabs-eevee-tab-5">Umbreon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-6">
-<label for="pokemon-tabs-eevee-tab-6">Sylveon</label>
+<label for="pokemon-tabs-eevee-tab-6">Leafeon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-7">
-<label for="pokemon-tabs-eevee-tab-7">Umbreon</label>
+<label for="pokemon-tabs-eevee-tab-7">Glaceon</label>
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-8">
-<label for="pokemon-tabs-eevee-tab-8">Vaporeon</label>
+<label for="pokemon-tabs-eevee-tab-8">Sylveon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-0">
 ## Eevee (#083)
@@ -40,13 +40,12 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -118,11 +117,385 @@ Types: Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 133
+- 1 Sp. Def
+- 0.3
+- 6.5
+- 65
+- 45
+- 35
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-1">
+## Vaporeon (#084)
+<details class="pokemon-card-container" open>
+<summary>Vaporeon overview</summary>
+Types: Water • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Water Absorb
+- Adaptability
+- Piscivore (Aqua Ring on entry) *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Water (0.5×)
+- Ice (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Electric (2×)
+- Grass (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM07 - Whirlpool
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM56 - Scald
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
+
+**Evolution Info**
+Water Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">135</span> |
+| Attack | <span class="stat-value stat-mid">65</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">110</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
+
+**Level-Up Moves**
+- Water Gun (Lv Evo)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 5)
+- Baby-Doll Eyes (Lv 9)
+- Quick Attack (Lv 13)
+- Water Pulse (Lv 17)
+- Aurora Beam (Lv 20)
+- Aqua Ring (Lv 25)
+- Acid Armor (Lv 29)
+- Draining Kiss (Lv 31)
+- Haze (Lv 33)
+- Muddy Water (Lv 37)
+- Calm Mind (Lv 39)
+- Last Resort (Lv 41)
+- Hydro Pump (Lv 45)
+
+**Egg Moves**
+- Charm
+- Flail
+- Endure
+- Curse
+- Tickle
+- Wish
+- Yawn
+- Fake Tears
+- Covet
+- Detect
+- Natural Gift
+- Stored Power
+- Synchronoise
+- Captivate
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 134
+- 2 HP
+- 1.0
+- 29.0
+- 184
+- 45
+- 35
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-2">
+## Jolteon (#085)
+<details class="pokemon-card-container" open>
+<summary>Jolteon overview</summary>
+Types: Electric • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Volt Absorb
+- Adaptability
+- Strong Legs *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Electric (0.5×)
+- Flying (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Ground (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM58 - Thunder Wave
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
+
+**Evolution Info**
+Thunder Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-mid">65</span> |
+| Sp. Atk | <span class="stat-value stat-high">115</span> |
+| Sp. Def | <span class="stat-value stat-mid">65</span> |
+| Speed | <span class="stat-value stat-high">130</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
+
+**Level-Up Moves**
+- Thundershock (Lv Evo)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 5)
+- Baby-Doll Eyes (Lv 9)
+- Quick Attack (Lv 13)
+- Double Kick (Lv 17)
+- Thunder Fang (Lv 20)
+- Pin Missile (Lv 25)
+- Agility (Lv 29)
+- Triple Kick (Lv 31)
+- Thunder Wave (Lv 33)
+- Discharge (Lv 37)
+- Trop Kick (Lv 41)
+- Victory Dance (Lv 44)
+- Extreme Speed (Lv 47)
+- Thunder (Lv 50)
+
+**Egg Moves**
+- Charm
+- Flail
+- Endure
+- Curse
+- Tickle
+- Wish
+- Yawn
+- Fake Tears
+- Covet
+- Detect
+- Natural Gift
+- Stored Power
+- Synchronoise
+- Captivate
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 135
+- 2 Spe
+- 0.8
+- 24.5
+- 184
+- 45
+- 35
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-3">
+## Flareon (#086)
+<details class="pokemon-card-container" open>
+<summary>Flareon overview</summary>
+Types: Fire • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Fur Coat
+- Adaptability
+- Strong Legs *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Grass (0.5×)
+- Ice (0.5×)
+- Bug (0.5×)
+- Steel (0.5×)
+- Fairy (0.5×)
+
+*Weak to*
+- Water (2×)
+- Ground (2×)
+- Rock (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM35 - Flamethrower
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM51 - Will-O-Wisp
+- HM04 - Strength
+- HM06 - Rock Smash
+
+**Evolution Info**
+Fire Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">75</span> |
+| Attack | <span class="stat-value stat-high">130</span> |
+| Defense | <span class="stat-value stat-mid">60</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
+
+**Level-Up Moves**
+- Ember (Lv Evo)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 5)
+- Baby-Doll Eyes (Lv 9)
+- Quick Attack (Lv 13)
+- Bite (Lv 17)
+- Fire Fang (Lv 20)
+- Fire Spin (Lv 25)
+- Scary Face (Lv 29)
+- Trop Kick (Lv 31)
+- Blaze Kick (Lv 33)
+- Lava Plume (Lv 37)
+- Thunderous Kick (Lv 41)
+- Triple Kick (Lv 45)
+- Flare Blitz (Lv 48)
+
+**Egg Moves**
+- Charm
+- Flail
+- Endure
+- Curse
+- Tickle
+- Wish
+- Yawn
+- Fake Tears
+- Covet
+- Detect
+- Natural Gift
+- Stored Power
+- Synchronoise
+- Captivate
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 136
+- 2 Atk
+- 0.9
+- 25.0
+- 184
+- 45
+- 35
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-4">
 ## Espeon (#087)
 <details class="pokemon-card-container" open>
 <summary>Espeon overview</summary>
@@ -147,15 +520,15 @@ Types: Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM04 - Calm Mind
-- TM05 - Roar
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM29 - Psychic
 - TM30 - Shadow Ball
@@ -165,8 +538,8 @@ Types: Psychic • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM48 - Skill Swap
-- TM55 - Psychic Fangs
-- TM57 - Dazzling Gleam
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM01 - Cut
 - HM05 - Flash
 - HM06 - Rock Smash
@@ -233,353 +606,147 @@ Sun Stone
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
-</div>
-</div>
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-2">
-## Flareon (#086)
-<details class="pokemon-card-container" open>
-<summary>Flareon overview</summary>
-Types: Fire • Egg Groups: Field
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Flash Fire
-- Adaptability
-- Strong Legs *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Grass (0.5×)
-- Ice (0.5×)
-- Bug (0.5×)
-- Steel (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Water (2×)
-- Ground (2×)
-- Rock (2×)
-
-**TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Roar
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Hyper Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM50 - Overheat
-- TM54 - Fire Fang
-- HM04 - Strength
-- HM06 - Rock Smash
-
-**Evolution Info**
-Fire Stone
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">75</span> |
-| Attack | <span class="stat-value stat-high">130</span> |
-| Defense | <span class="stat-value stat-mid">60</span> |
-| Sp. Atk | <span class="stat-value stat-high">95</span> |
-| Sp. Def | <span class="stat-value stat-high">110</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">535</span> |
-
-**Level-Up Moves**
-- Ember (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Bite (Lv 17)
-- Fire Fang (Lv 20)
-- Fire Spin (Lv 25)
-- Scary Face (Lv 29)
-- Trop Kick (Lv 31)
-- Blaze Kick (Lv 33)
-- Lava Plume (Lv 37)
-- Thunderous Kick (Lv 41)
-- Triple Kick (Lv 45)
-- Flare Blitz (Lv 48)
-
-**Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
-
-**Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-</div>
-</div>
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-3">
-## Glaceon (#090)
-<details class="pokemon-card-container" open>
-<summary>Glaceon overview</summary>
-Types: Ice • Egg Groups: Field
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Snow Cloak
-- Adaptability
-- Ice Body *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Ice (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Fighting (2×)
-- Rock (2×)
-- Steel (2×)
-
-**TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Roar
-- TM06 - Toxic
-- TM07 - Hail
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Hyper Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM53 - Ice Fang
-- HM04 - Strength
-- HM06 - Rock Smash
-
-**Evolution Info**
-Ice Stone
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
-| Attack | <span class="stat-value stat-mid">60</span> |
-| Defense | <span class="stat-value stat-high">110</span> |
-| Sp. Atk | <span class="stat-value stat-high">130</span> |
-| Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-mid">75</span> |
-| Total | <span class="stat-value stat-mid">535</span> |
-
-**Level-Up Moves**
-- Icy Wind (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Bite (Lv 17)
-- Ice Fang (Lv 20)
-- Ice Shard (Lv 25)
-- Barrier (Lv 29)
-- Chilling Water (Lv 31)
-- Mirror Coat (Lv 33)
-- Hail (Lv 37)
-- Last Resort (Lv 41)
-- Blizzard (Lv 45)
-
-**Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
-
-**Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-</div>
-</div>
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-4">
-## Jolteon (#085)
-<details class="pokemon-card-container" open>
-<summary>Jolteon overview</summary>
-Types: Electric • Egg Groups: Field
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Volt Absorb
-- Adaptability
-- Strong Legs *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Electric (0.5×)
-- Flying (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Ground (2×)
-
-**TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Roar
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Hyper Beam
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM52 - Thunder Fang
-- TM59 - Volt Switch
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
-
-**Evolution Info**
-Thunder Stone
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
-| Attack | <span class="stat-value stat-high">95</span> |
-| Defense | <span class="stat-value stat-mid">65</span> |
-| Sp. Atk | <span class="stat-value stat-high">115</span> |
-| Sp. Def | <span class="stat-value stat-mid">65</span> |
-| Speed | <span class="stat-value stat-high">130</span> |
-| Total | <span class="stat-value stat-mid">535</span> |
-
-**Level-Up Moves**
-- Thundershock (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Double Kick (Lv 17)
-- Thunder Fang (Lv 20)
-- Pin Missile (Lv 25)
-- Agility (Lv 29)
-- Triple Kick (Lv 31)
-- Thunder Wave (Lv 33)
-- Discharge (Lv 37)
-- Trop Kick (Lv 41)
-- Victory Dance (Lv 44)
-- Extreme Speed (Lv 47)
-- Thunder (Lv 50)
-
-**Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
-
-**Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Wave
+- 196
+- 2 Sp. Atk
+- 0.9
+- 26.5
+- 184
+- 45
+- 35
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-5">
+## Umbreon (#088)
+<details class="pokemon-card-container" open>
+<summary>Umbreon overview</summary>
+Types: Dark • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Synchronize
+- Adaptability
+- Inner Focus *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
+
+*Weak to*
+- Fighting (2×)
+- Bug (2×)
+- Fairy (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM33 - Reflect
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM55 - Snarl
+- TM58 - Thunder Wave
+- TM59 - Dark Pulse
+- HM01 - Cut
+- HM05 - Flash
+- HM06 - Rock Smash
+
+**Evolution Info**
+Moon Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">95</span> |
+| Attack | <span class="stat-value stat-mid">70</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-mid">65</span> |
+| Sp. Def | <span class="stat-value stat-high">130</span> |
+| Speed | <span class="stat-value stat-mid">65</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
+
+**Level-Up Moves**
+- Pursuit (Lv Evo)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 5)
+- Baby-Doll Eyes (Lv 9)
+- Quick Attack (Lv 13)
+- Confuse Ray (Lv 17)
+- Feint Attack (Lv 20)
+- Assurance (Lv 25)
+- Screech (Lv 29)
+- Frost Breath (Lv 31)
+- Moonlight (Lv 33)
+- Mean Look (Lv 35)
+- Foul Play (Lv 38)
+- Last Resort (Lv 41)
+- Guard Swap (Lv 45)
+
+**Egg Moves**
+- Charm
+- Flail
+- Endure
+- Curse
+- Tickle
+- Wish
+- Yawn
+- Fake Tears
+- Covet
+- Detect
+- Natural Gift
+- Stored Power
+- Synchronoise
+- Captivate
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Dream Eater
+- Endure
+- Mud-Slap
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 197
+- 2 Sp. Def
+- 1.0
+- 27.0
+- 184
+- 45
+- 35
+- 35
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-6">
 ## Leafeon (#089)
 <details class="pokemon-card-container" open>
 <summary>Leafeon overview</summary>
@@ -608,17 +775,15 @@ Types: Grass • Egg Groups: Field
 - Bug (2×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -691,11 +856,138 @@ Leaf Stone
 - Swagger
 - Swift
 - Swords Dance
+- 470
+- 2 Def
+- 1.0
+- 25.5
+- 184
+- 45
+- 35
+- 35
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-6">
+<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-7">
+## Glaceon (#090)
+<details class="pokemon-card-container" open>
+<summary>Glaceon overview</summary>
+Types: Ice • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Snow Cloak
+- Adaptability
+- Ice Body *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Ice (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Fighting (2×)
+- Rock (2×)
+- Steel (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM03 - Water Pulse
+- TM04 - Calm Mind
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM28 - Dig
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+- HM04 - Strength
+- HM06 - Rock Smash
+
+**Evolution Info**
+Ice Stone
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">65</span> |
+| Attack | <span class="stat-value stat-mid">60</span> |
+| Defense | <span class="stat-value stat-high">110</span> |
+| Sp. Atk | <span class="stat-value stat-high">130</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-mid">535</span> |
+
+**Level-Up Moves**
+- Icy Wind (Lv Evo)
+- Helping Hand (Lv 1)
+- Tackle (Lv 1)
+- Tail Whip (Lv 1)
+- Sand Attack (Lv 5)
+- Baby-Doll Eyes (Lv 9)
+- Quick Attack (Lv 13)
+- Bite (Lv 17)
+- Ice Fang (Lv 20)
+- Ice Shard (Lv 25)
+- Barrier (Lv 29)
+- Chilling Water (Lv 31)
+- Mirror Coat (Lv 33)
+- Hail (Lv 37)
+- Last Resort (Lv 41)
+- Deepwater Curse (Lv 45)
+
+**Egg Moves**
+- Charm
+- Flail
+- Endure
+- Curse
+- Tickle
+- Wish
+- Yawn
+- Fake Tears
+- Covet
+- Detect
+- Natural Gift
+- Stored Power
+- Synchronoise
+- Captivate
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Icy Wind
+- Mud-Slap
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 471
+- 2 Sp. Atk
+- 0.8
+- 25.9
+- 184
+- 45
+- 35
+- 35
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-8">
 ## Sylveon (#091)
 <details class="pokemon-card-container" open>
 <summary>Sylveon overview</summary>
@@ -721,16 +1013,15 @@ Types: Fairy • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM04 - Calm Mind
-- TM05 - Roar
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM29 - Psychic
 - TM30 - Shadow Ball
@@ -740,8 +1031,7 @@ Types: Fairy • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM48 - Skill Swap
-- TM57 - Dazzling Gleam
-- TM58 - Play Rough
+- TM54 - Dazzling Gleam
 - HM01 - Cut
 - HM05 - Flash
 - HM06 - Rock Smash
@@ -807,241 +1097,15 @@ Shiny Stone
 - Snore
 - Swagger
 - Swift
-</div>
-</div>
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-7">
-## Umbreon (#088)
-<details class="pokemon-card-container" open>
-<summary>Umbreon overview</summary>
-Types: Dark • Egg Groups: Field
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Synchronize
-- Adaptability
-- Inner Focus *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Psychic (0×)
-- Ghost (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Fighting (2×)
-- Bug (2×)
-- Fairy (2×)
-
-**TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Roar
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Hyper Beam
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Snatch
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
-
-**Evolution Info**
-Moon Stone
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">95</span> |
-| Attack | <span class="stat-value stat-mid">70</span> |
-| Defense | <span class="stat-value stat-high">110</span> |
-| Sp. Atk | <span class="stat-value stat-mid">65</span> |
-| Sp. Def | <span class="stat-value stat-high">130</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">535</span> |
-
-**Level-Up Moves**
-- Pursuit (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Confuse Ray (Lv 17)
-- Feint Attack (Lv 20)
-- Assurance (Lv 25)
-- Screech (Lv 29)
-- Frost Breath (Lv 31)
-- Moonlight (Lv 33)
-- Mean Look (Lv 35)
-- Foul Play (Lv 38)
-- Last Resort (Lv 41)
-- Guard Swap (Lv 45)
-
-**Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
-
-**Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Wave
-</div>
-</div>
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-eevee-panel-8">
-## Vaporeon (#084)
-<details class="pokemon-card-container" open>
-<summary>Vaporeon overview</summary>
-Types: Water • Egg Groups: Field
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Water Absorb
-- Adaptability
-- Hydration *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Fire (0.5×)
-- Water (0.5×)
-- Ice (0.5×)
-- Steel (0.5×)
-
-*Weak to*
-- Electric (2×)
-- Grass (2×)
-
-**TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Roar
-- TM06 - Toxic
-- TM07 - Hail
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Hyper Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
-
-**Evolution Info**
-Water Stone
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-high">135</span> |
-| Attack | <span class="stat-value stat-mid">65</span> |
-| Defense | <span class="stat-value stat-mid">65</span> |
-| Sp. Atk | <span class="stat-value stat-high">110</span> |
-| Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-mid">65</span> |
-| Total | <span class="stat-value stat-mid">535</span> |
-
-**Level-Up Moves**
-- Water Gun (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Water Pulse (Lv 17)
-- Aurora Beam (Lv 20)
-- Aqua Ring (Lv 25)
-- Acid Armor (Lv 29)
-- Draining Kiss (Lv 31)
-- Haze (Lv 33)
-- Muddy Water (Lv 37)
-- Calm Mind (Lv 39)
-- Last Resort (Lv 41)
-- Hydro Pump (Lv 45)
-
-**Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
-
-**Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- 700
+- 2 Sp. Def
+- 1.0
+- 23.5
+- 184
+- 45
+- 35
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

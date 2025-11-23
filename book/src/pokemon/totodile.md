@@ -7,7 +7,7 @@
 <label for="pokemon-tabs-totodile-tab-2">Feraligatr</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-totodile-panel-0">
-## Totodile
+## Totodile (#217)
 <details class="pokemon-card-container" open>
 <summary>Totodile overview</summary>
 Types: Water • Egg Groups: Monster / Water 1
@@ -32,16 +32,14 @@ Types: Water • Egg Groups: Monster / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM02 - Dragon Claw
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -51,7 +49,9 @@ Types: Water • Egg Groups: Monster / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM53 - Ice Fang
+- TM53 - Power-Up Punch
+- TM56 - Scald
+- TM60 - Dragon Dance
 - HM01 - Cut
 - HM03 - Surf
 - HM07 - Waterfall
@@ -125,12 +125,21 @@ Types: Water • Egg Groups: Monster / Water 1
 - Snore
 - Swagger
 - Swords Dance
+- 158
+- 1 Atk
+- 0.6
+- 9.5
+- 63
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-totodile-panel-1">
-## Croconaw
+## Croconaw (#218)
 <details class="pokemon-card-container" open>
 <summary>Croconaw overview</summary>
 Types: Water • Egg Groups: Monster / Water 1
@@ -155,17 +164,14 @@ Types: Water • Egg Groups: Monster / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM02 - Dragon Claw
 - TM03 - Water Pulse
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM31 - Brick Break
 - TM32 - Double Team
@@ -175,8 +181,9 @@ Types: Water • Egg Groups: Monster / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM53 - Ice Fang
-- TM55 - Psychic Fangs
+- TM53 - Power-Up Punch
+- TM56 - Scald
+- TM60 - Dragon Dance
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
@@ -254,12 +261,21 @@ Lv. 18
 - Snore
 - Swagger
 - Swords Dance
+- 159
+- 1 Atk, 1 Def
+- 1.1
+- 25.0
+- 142
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-totodile-panel-2">
-## Feraligatr
+## Feraligatr (#219)
 <details class="pokemon-card-container" open>
 <summary>Feraligatr overview</summary>
 Types: Water / Dark • Egg Groups: Monster / Water 1
@@ -290,18 +306,14 @@ Types: Water / Dark • Egg Groups: Monster / Water 1
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM02 - Dragon Claw
 - TM03 - Water Pulse
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -312,9 +324,11 @@ Types: Water / Dark • Egg Groups: Monster / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM53 - Ice Fang
-- TM55 - Psychic Fangs
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
+- TM53 - Power-Up Punch
+- TM55 - Snarl
+- TM56 - Scald
+- TM60 - Dragon Dance
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
@@ -339,6 +353,7 @@ Lv. 30
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
+- Jaw Lock (Lv Evo)
 - Agility (Lv 1)
 - Scratch (Lv 1)
 - Leer (Lv 1)
@@ -349,7 +364,6 @@ Lv. 30
 - Ice Fang (Lv 21)
 - Flail (Lv 24)
 - Crunch (Lv 27)
-- Jaw Lock (Lv Evo)
 - Chip Away (Lv 33)
 - Poison Fang (Lv 36)
 - Slash (Lv 39)
@@ -394,6 +408,15 @@ Lv. 30
 - Snore
 - Swagger
 - Swords Dance
+- 160
+- 2 Atk, 1 Def
+- 2.3
+- 88.8
+- 239
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

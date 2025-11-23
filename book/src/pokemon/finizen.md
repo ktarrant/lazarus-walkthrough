@@ -14,6 +14,7 @@ Types: Water • Egg Groups: Field / Water 2
 <div class="card-column">
 **Abilities**
 - Water Veil
+- Water Veil *(Hidden)*
 
 **Type Matchups**
 
@@ -31,10 +32,12 @@ Types: Water • Egg Groups: Field / Water 2
 - TM03 - Water Pulse
 - TM13 - Ice Beam
 - TM14 - Blizzard
+- TM15 - Draining Kiss
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM42 - Facade
 - TM44 - Rest
+- TM50 - Deepwater Curse
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -94,6 +97,15 @@ Types: Water • Egg Groups: Field / Water 2
 - Psych Up
 - Sleep Talk
 - Swift
+- 963
+- 1 Spe
+- 1.3
+- 60.2
+- 63
+- 200
+- 40
+- 50
+- Slow
 </div>
 </div>
 </details>
@@ -123,17 +135,18 @@ Types: Water • Egg Groups: Field / Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
+- TM07 - Whirlpool
 - TM08 - Bulk Up
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM42 - Facade
 - TM44 - Rest
+- TM50 - Deepwater Curse
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -155,6 +168,7 @@ Lv. 38
 | Total | <span class="stat-value stat-mid">467</span> |
 
 **Level-Up Moves**
+- Flip Turn (Lv Evo)
 - Jet Punch (Lv 1)
 - Supersonic (Lv 1)
 - Water Gun (Lv 1)
@@ -168,10 +182,9 @@ Lv. 38
 - Covet (Lv 26)
 - Acrobatics (Lv 29)
 - Encore (Lv 34)
-- Flip Turn (Lv Evo)
 - Aqua Tail (Lv 39)
 - Jet Punch (Lv 42)
-- Mist (Lv 44)
+- Deepwater Curse (Lv 44)
 - Ice Hammer (Lv 47)
 - Hydro Pump (Lv 50)
 - Meteor Mash (Lv 53)
@@ -194,6 +207,15 @@ Lv. 38
 - Psych Up
 - Sleep Talk
 - Swift
+- 964
+- 2 HP
+- 1.3
+- 60.2
+- 160
+- 45
+- 40
+- 50
+- Slow
 </div>
 </div>
 </details>

@@ -39,13 +39,14 @@ Types: Steel / Psychic • Egg Groups: Mineral
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM26 - Earthquake
 - TM29 - Psychic
 - TM30 - Shadow Ball
@@ -56,7 +57,11 @@ Types: Steel / Psychic • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM48 - Skill Swap
+- TM49 - Bulldoze
 - HM05 - Flash
+
+**Held Item**
+Metal Coat
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (10%)
@@ -97,6 +102,9 @@ Types: Steel / Psychic • Egg Groups: Mineral
 - Heavy Slam (Lv 49)
 - Clangorous Soul (Lv 54)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Body Slam
 - Dream Eater
@@ -107,6 +115,15 @@ Types: Steel / Psychic • Egg Groups: Mineral
 - Sleep Talk
 - Snore
 - Swagger
+- 436
+- 1 Def
+- 0.5
+- 60.5
+- 60
+- 255
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -146,14 +163,14 @@ Types: Steel / Psychic • Egg Groups: Mineral
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM26 - Earthquake
 - TM29 - Psychic
 - TM30 - Shadow Ball
@@ -164,9 +181,13 @@ Types: Steel / Psychic • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM48 - Skill Swap
+- TM49 - Bulldoze
 - HM04 - Strength
 - HM05 - Flash
 - HM06 - Rock Smash
+
+**Held Item**
+Metal Coat
 
 **Evolution Info**
 Lv. 33
@@ -185,6 +206,7 @@ Lv. 33
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
+- Block (Lv Evo)
 - Sunny Day (Lv 1)
 - Rain Dance (Lv 1)
 - Tackle (Lv 1)
@@ -199,7 +221,6 @@ Lv. 33
 - Safeguard (Lv 26)
 - Future Sight (Lv 29)
 - Metal Sound (Lv 31)
-- Block (Lv Evo)
 - Gyro Ball (Lv 33)
 - Relic Song (Lv 37)
 - Extrasensory (Lv 39)
@@ -207,6 +228,9 @@ Lv. 33
 - Heal Block (Lv 45)
 - Heavy Slam (Lv 49)
 - Clangorous Soul (Lv 54)
+
+**Egg Moves**
+- Incompatible
 
 **Tutor Moves**
 - Body Slam
@@ -219,6 +243,15 @@ Lv. 33
 - Sleep Talk
 - Snore
 - Swagger
+- 437
+- 1 Def, 1 Sp. Def
+- 1.3
+- 187.0
+- 175
+- 90
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

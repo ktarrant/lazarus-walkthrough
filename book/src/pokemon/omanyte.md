@@ -35,7 +35,7 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
@@ -48,6 +48,7 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
 - HM03 - Surf
 - HM06 - Rock Smash
 - HM07 - Waterfall
@@ -113,6 +114,15 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - Sleep Talk
 - Snore
 - Swagger
+- 138
+- 1 Def
+- 0.4
+- 7.5
+- 71
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -148,10 +158,9 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM32 - Double Team
@@ -162,6 +171,7 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
 - HM03 - Surf
 - HM06 - Rock Smash
 - HM07 - Waterfall
@@ -184,6 +194,7 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
+- Spike Cannon (Lv Evo)
 - Constrict (Lv 1)
 - Withdraw (Lv 1)
 - Bite (Lv 7)
@@ -195,7 +206,6 @@ Lv. 40
 - Icicle Spear (Lv 31)
 - Protect (Lv 34)
 - Ancient Power (Lv 37)
-- Spike Cannon (Lv Evo)
 - Tickle (Lv 43)
 - Rock Blast (Lv 45)
 - Shell Smash (Lv 50)
@@ -228,6 +238,15 @@ Lv. 40
 - Sleep Talk
 - Snore
 - Swagger
+- 139
+- 2 Def
+- 1.0
+- 35.0
+- 173
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

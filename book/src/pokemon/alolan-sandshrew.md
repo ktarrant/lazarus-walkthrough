@@ -36,15 +36,12 @@ Types: Ice / Steel • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
-- TM07 - Hail
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
-- TM20 - Safeguard
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -55,6 +52,12 @@ Types: Ice / Steel • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+
+**Held Item**
+Blue Shard
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Night) (10%)
@@ -123,6 +126,15 @@ Types: Ice / Steel • Egg Groups: Field
 - Swagger
 - Swift
 - Swords Dance
+- 27a
+- 1 Def
+- 0.7
+- 40.0
+- 60
+- 255
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -159,16 +171,12 @@ Types: Ice / Steel • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
-- TM07 - Hail
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM20 - Safeguard
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -179,6 +187,12 @@ Types: Ice / Steel • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+
+**Held Item**
+Grip Claw
 
 **Evolution Info**
 Ice Stone
@@ -216,6 +230,7 @@ Ice Stone
 - Iron Head (Lv 30)
 - Gyro Ball (Lv 34)
 - Swords Dance (Lv 38)
+- Deepwater Curse (Lv 40)
 - Hail (Lv 42)
 - Icicle Crash (Lv 45)
 - Ceaseless Edge (Lv 49)
@@ -251,6 +266,15 @@ Ice Stone
 - Swagger
 - Swift
 - Swords Dance
+- 28a
+- 2 Def
+- 1.2
+- 55.0
+- 158
+- 90
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

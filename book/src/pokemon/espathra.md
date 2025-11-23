@@ -1,3 +1,105 @@
+<div class="pokemon-tabs" id="pokemon-tabs-espathra">
+<input type="radio" name="pokemon-tabs-espathra-group" id="pokemon-tabs-espathra-tab-0">
+<label for="pokemon-tabs-espathra-tab-0">Flittle</label>
+<input type="radio" name="pokemon-tabs-espathra-group" id="pokemon-tabs-espathra-tab-1" checked>
+<label for="pokemon-tabs-espathra-tab-1">Espathra</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-espathra-panel-0">
+## Flittle (#145)
+<details class="pokemon-card-container" open>
+<summary>Flittle overview</summary>
+Types: Psychic • Egg Groups: Flying
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Anticipation
+- Frisk
+- Speed Boost *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fighting (0.5×)
+- Psychic (0.5×)
+
+*Weak to*
+- Bug (2×)
+- Ghost (2×)
+- Dark (2×)
+
+**TM/HM Moves**
+- TM04 - Calm Mind
+- TM05 - Psyshock
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM29 - Psychic
+- TM33 - Reflect
+- TM37 - Sandstorm
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM54 - Dazzling Gleam
+
+**Encounter Locations**
+- Acrisia Mountains (Peak) — Grass (Day) (20%)
+- Acrisia Mountains (Peak) — Grass (Night) (20%)
+- Pythios Town — Grass (Day) (10%)
+- Pythios Town — Grass (Night) (10%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-low">40</span> |
+| Attack | <span class="stat-value stat-low">35</span> |
+| Defense | <span class="stat-value stat-low">40</span> |
+| Sp. Atk | <span class="stat-value stat-mid">55</span> |
+| Sp. Def | <span class="stat-value stat-low">44</span> |
+| Speed | <span class="stat-value stat-mid">71</span> |
+| Total | <span class="stat-value stat-low">285</span> |
+
+**Level-Up Moves**
+- Growl (Lv 1)
+- Peck (Lv 1)
+- Confusion (Lv 5)
+- Baby-Doll Eyes (Lv 8)
+- Disarming Voice (Lv 11)
+- Quick Attack (Lv 14)
+- Teeter Dance (Lv 17)
+- Psybeam (Lv 19)
+- Pluck (Lv 24)
+- Agility (Lv 29)
+- Uproar (Lv 34)
+
+**Egg Moves**
+- Ally Switch
+- Hypnosis
+- Roost
+
+**Tutor Moves**
+- Endure
+- Mud-Slap
+- Sleep Talk
+- Swift
+- 955
+- 1 Spe
+- 0.2
+- 1.5
+- 51
+- 120
+- 20
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-espathra-panel-1">
 ## Espathra (#146)
 <details class="pokemon-card-container" open>
 <summary>Espathra overview</summary>
@@ -23,11 +125,12 @@ Types: Psychic • Egg Groups: Flying
 
 **TM/HM Moves**
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM33 - Reflect
@@ -37,6 +140,8 @@ Types: Psychic • Egg Groups: Flying
 - TM44 - Rest
 - TM46 - Thief
 - TM48 - Skill Swap
+- TM54 - Dazzling Gleam
+- TM57 - Roost
 
 **Evolution Info**
 Lv. 30
@@ -59,6 +164,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">501</span> |
 
 **Level-Up Moves**
+- Lumina Crash (Lv Evo)
 - Growl (Lv 1)
 - Peck (Lv 1)
 - Drill Peck (Lv 1)
@@ -71,7 +177,6 @@ Lv. 30
 - Psybeam (Lv 19)
 - Pluck (Lv 24)
 - Agility (Lv 29)
-- Lumina Crash (Lv Evo)
 - Uproar (Lv 34)
 - Dazzling Gleam (Lv 37)
 - Psychic (Lv 43)
@@ -91,6 +196,22 @@ Lv. 30
 - Psych Up
 - Sleep Talk
 - Swift
+- 956
+- 2 Spe
+- 1.9
+- 90.0
+- 168
+- 60
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-espathra-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-espathra-panel-0 { display: block; }
+#pokemon-tabs-espathra-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-espathra-panel-1 { display: block; }
+</style>

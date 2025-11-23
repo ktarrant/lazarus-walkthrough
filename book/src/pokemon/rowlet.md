@@ -4,9 +4,9 @@
 <input type="radio" name="pokemon-tabs-rowlet-group" id="pokemon-tabs-rowlet-tab-1">
 <label for="pokemon-tabs-rowlet-tab-1">Dartrix</label>
 <input type="radio" name="pokemon-tabs-rowlet-group" id="pokemon-tabs-rowlet-tab-2">
-<label for="pokemon-tabs-rowlet-tab-2">Decidueye</label>
+<label for="pokemon-tabs-rowlet-tab-2">Hisuian Decidueye</label>
 <input type="radio" name="pokemon-tabs-rowlet-group" id="pokemon-tabs-rowlet-tab-3">
-<label for="pokemon-tabs-rowlet-tab-3">Hisuian Decidueye</label>
+<label for="pokemon-tabs-rowlet-tab-3">Decidueye</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-0">
 ## Rowlet (#001)
@@ -44,7 +44,6 @@ Types: Grass / Flying • Egg Groups: Flying
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
 - TM32 - Double Team
 - TM40 - Aerial Ace
@@ -52,6 +51,7 @@ Types: Grass / Flying • Egg Groups: Flying
 - TM44 - Rest
 - TM45 - Attract
 - TM47 - Steel Wing
+- TM57 - Roost
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -104,6 +104,15 @@ Types: Grass / Flying • Egg Groups: Flying
 - Swagger
 - Swift
 - Swords Dance
+- 722
+- 1 HP
+- 0.3
+- 1.5
+- 64
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -144,7 +153,6 @@ Types: Grass / Flying • Egg Groups: Flying
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
 - TM32 - Double Team
 - TM40 - Aerial Ace
@@ -152,6 +160,7 @@ Types: Grass / Flying • Egg Groups: Flying
 - TM44 - Rest
 - TM45 - Attract
 - TM47 - Steel Wing
+- TM57 - Roost
 
 **Evolution Info**
 Lv. 17
@@ -204,11 +213,138 @@ Lv. 17
 - Swagger
 - Swift
 - Swords Dance
+- 723
+- 2 HP
+- 0.7
+- 16.0
+- 147
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-2">
+## Hisuian Decidueye (#003)
+<details class="pokemon-card-container" open>
+<summary>Hisuian Decidueye overview</summary>
+Types: Grass / Fighting • Egg Groups: Flying
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Overgrow
+- Strong Legs
+- Fluffy *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Water (0.5×)
+- Electric (0.5×)
+- Grass (0.5×)
+- Ground (0.5×)
+- Rock (0.5×)
+- Dark (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Ice (2×)
+- Poison (2×)
+- Flying (4×)
+- Psychic (2×)
+- Fairy (2×)
+
+**TM/HM Moves**
+- TM08 - Bulk Up
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM57 - Roost
+- HM06 - Rock Smash
+
+**Evolution Info**
+Lv. 34, Day
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">93</span> |
+| Attack | <span class="stat-value stat-high">122</span> |
+| Defense | <span class="stat-value stat-mid">81</span> |
+| Sp. Atk | <span class="stat-value stat-mid">75</span> |
+| Sp. Def | <span class="stat-value stat-high">95</span> |
+| Speed | <span class="stat-value stat-mid">64</span> |
+| Total | <span class="stat-value stat-mid">530</span> |
+
+**Level-Up Moves**
+- Rock Smash (Lv Evo)
+- Jump Kick (Lv 1)
+- Leaf Storm (Lv 1)
+- U-Turn (Lv 1)
+- Mach Punch (Lv 1)
+- Tackle (Lv 1)
+- Leafage (Lv 1)
+- Growl (Lv 4)
+- Peck (Lv 8)
+- Astonish (Lv 11)
+- Razor Leaf (Lv 14)
+- Ominous Wind (Lv 16)
+- Foresight (Lv 18)
+- Pluck (Lv 22)
+- Synthesis (Lv 25)
+- Swords Dance (Lv 29)
+- Sucker Punch (Lv 32)
+- Dual Wingbeat (Lv 35)
+- Leaf Blade (Lv 37)
+- Feather Dance (Lv 39)
+- Triple Arrows (Lv 41)
+- Brave Bird (Lv 45)
+- Trop Kick (Lv 48)
+- Triple Axel (Lv 52)
+
+**Egg Moves**
+- Curse
+- Confuse Ray
+- Ominous Wind
+- Haze
+- Baton Pass
+- Defog
+
+**Tutor Moves**
+- Endure
+- Sleep Talk
+- Swift
+- Swords Dance
+- 724h
+- 3 Atk
+- 1.6
+- 37.0
+- 265
+- 45
+- 15
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-3">
 ## Decidueye (#003)
 <details class="pokemon-card-container" open>
 <summary>Decidueye overview</summary>
@@ -242,13 +378,12 @@ Types: Grass / Ghost • Egg Groups: Flying
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM30 - Shadow Ball
 - TM32 - Double Team
 - TM40 - Aerial Ace
@@ -256,6 +391,7 @@ Types: Grass / Ghost • Egg Groups: Flying
 - TM44 - Rest
 - TM45 - Attract
 - TM47 - Steel Wing
+- TM57 - Roost
 
 **Evolution Info**
 Lv. 34, Night
@@ -274,6 +410,7 @@ Lv. 34, Night
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- Spirit Shackle (Lv Evo)
 - Phantom Force (Lv 1)
 - Leaf Storm (Lv 1)
 - U-Turn (Lv 1)
@@ -290,7 +427,6 @@ Lv. 34, Night
 - Synthesis (Lv 25)
 - Swords Dance (Lv 29)
 - Sucker Punch (Lv 32)
-- Spirit Shackle (Lv Evo)
 - Dual Wingbeat (Lv 35)
 - Leaf Blade (Lv 37)
 - Feather Dance (Lv 39)
@@ -314,116 +450,15 @@ Lv. 34, Night
 - Swagger
 - Swift
 - Swords Dance
-</div>
-</div>
-</details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-3">
-## Hisuian Decidueye (#003)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Decidueye overview</summary>
-Types: Grass / Fighting • Egg Groups: Flying
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Overgrow
-- Strong Legs
-- Fluffy *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Water (0.5×)
-- Electric (0.5×)
-- Grass (0.5×)
-- Ground (0.5×)
-- Rock (0.5×)
-- Dark (0.5×)
-
-*Weak to*
-- Fire (2×)
-- Ice (2×)
-- Poison (2×)
-- Flying (4×)
-- Psychic (2×)
-- Fairy (2×)
-
-**TM/HM Moves**
-- TM01 - Focus Punch
-- TM08 - Bulk Up
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Hyper Beam
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- HM06 - Rock Smash
-
-**Evolution Info**
-Lv. 34, Day
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">88</span> |
-| Attack | <span class="stat-value stat-high">112</span> |
-| Defense | <span class="stat-value stat-mid">80</span> |
-| Sp. Atk | <span class="stat-value stat-high">95</span> |
-| Sp. Def | <span class="stat-value stat-high">95</span> |
-| Speed | <span class="stat-value stat-mid">60</span> |
-| Total | <span class="stat-value stat-mid">530</span> |
-
-**Level-Up Moves**
-- Jump Kick (Lv 1)
-- Leaf Storm (Lv 1)
-- U-Turn (Lv 1)
-- Mach Punch (Lv 1)
-- Tackle (Lv 1)
-- Leafage (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 8)
-- Astonish (Lv 11)
-- Razor Leaf (Lv 14)
-- Ominous Wind (Lv 16)
-- Foresight (Lv 18)
-- Pluck (Lv 22)
-- Synthesis (Lv 25)
-- Swords Dance (Lv 29)
-- Sucker Punch (Lv 32)
-- Rock Smash (Lv Evo)
-- Dual Wingbeat (Lv 35)
-- Leaf Blade (Lv 37)
-- Feather Dance (Lv 39)
-- Triple Arrows (Lv 41)
-- Brave Bird (Lv 45)
-- Trop Kick (Lv 48)
-- Triple Axel (Lv 52)
-
-**Egg Moves**
-- Curse
-- Confuse Ray
-- Ominous Wind
-- Haze
-- Baton Pass
-- Defog
-
-**Tutor Moves**
-- Endure
-- Sleep Talk
-- Swift
-- Swords Dance
+- 724
+- 3 Atk
+- 1.6
+- 36.6
+- 265
+- 45
+- 15
+- 50
+- Medium Slow
 </div>
 </div>
 </details>

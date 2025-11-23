@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-wimpod-tab-1">Golisopod</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wimpod-panel-0">
-## Wimpod (#226)
+## Wimpod (#246)
 <details class="pokemon-card-container" open>
 <summary>Wimpod overview</summary>
 Types: Bug / Water • Egg Groups: Bug / Water 3
@@ -32,7 +32,6 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 
 **TM/HM Moves**
 - TM06 - Toxic
-- TM07 - Hail
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -40,6 +39,7 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
 
@@ -87,12 +87,21 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - Snore
 - Swagger
 - Swift
+- 767
+- 1 Spe
+- 0.5
+- 12.0
+- 46
+- 90
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wimpod-panel-1">
-## Golisopod (#227)
+## Golisopod (#247)
 <details class="pokemon-card-container" open>
 <summary>Golisopod overview</summary>
 Types: Bug / Water • Egg Groups: Bug / Water 3
@@ -120,14 +129,13 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
 - TM08 - Bulk Up
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
+- TM20 - Poison Jab
 - TM31 - Brick Break
 - TM32 - Double Team
 - TM36 - Sludge Bomb
@@ -136,6 +144,10 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM52 - Frost Breath
+- TM55 - Snarl
+- TM56 - Scald
+- TM59 - Dark Pulse
 - HM03 - Surf
 - HM06 - Rock Smash
 - HM07 - Waterfall
@@ -158,6 +170,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
+- First Impression (Lv Evo)
 - Struggle Bug (Lv 1)
 - Sand Attack (Lv 1)
 - Fury Cutter (Lv 4)
@@ -167,7 +180,6 @@ Lv. 30
 - Swords Dance (Lv 16)
 - Slash (Lv 21)
 - Razor Shell (Lv 26)
-- First Impression (Lv Evo)
 - Sucker Punch (Lv 31)
 - Pounce (Lv 34)
 - Iron Defense (Lv 36)
@@ -196,6 +208,15 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
+- 768
+- 2 Def
+- 2.0
+- 108.0
+- 186
+- 45
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-anorith-tab-1">Armaldo</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-anorith-panel-0">
-## Anorith (#257)
+## Anorith (#277)
 <details class="pokemon-card-container" open>
 <summary>Anorith overview</summary>
 Types: Rock / Bug • Egg Groups: Water 3
@@ -104,12 +104,21 @@ Types: Rock / Bug • Egg Groups: Water 3
 - Snore
 - Swagger
 - Swords Dance
+- 347
+- 1 Atk
+- 0.7
+- 12.5
+- 71
+- 45
+- 30
+- 50
+- Erratic
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-anorith-panel-1">
-## Armaldo (#258)
+## Armaldo (#278)
 <details class="pokemon-card-container" open>
 <summary>Armaldo overview</summary>
 Types: Rock / Bug • Egg Groups: Water 3
@@ -135,9 +144,7 @@ Types: Rock / Bug • Egg Groups: Water 3
 - TM03 - Water Pulse
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -148,7 +155,7 @@ Types: Rock / Bug • Egg Groups: Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -211,6 +218,15 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
+- 348
+- 2 Atk
+- 1.5
+- 68.2
+- 173
+- 45
+- 30
+- 50
+- Erratic
 </div>
 </div>
 </details>

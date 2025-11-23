@@ -1,4 +1,4 @@
-## Bruxish (#334)
+## Bruxish (#354)
 <details class="pokemon-card-container" open>
 <summary>Bruxish overview</summary>
 Types: Water / Psychic • Egg Groups: Water 2
@@ -30,28 +30,32 @@ Types: Water / Psychic • Egg Groups: Water 2
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
+- TM07 - Whirlpool
 - TM08 - Bulk Up
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM29 - Psychic
 - TM32 - Double Team
 - TM33 - Reflect
 - TM40 - Aerial Ace
 - TM41 - Torment
 - TM42 - Facade
+- TM43 - Poison Fang
 - TM44 - Rest
 - TM45 - Attract
-- TM49 - Snatch
+- TM52 - Frost Breath
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
+
+**Held Item**
+Razor Fang
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (20%)
@@ -108,6 +112,15 @@ Types: Water / Psychic • Egg Groups: Water 2
 - Snore
 - Swagger
 - Swords Dance
+- 779
+- 2 Atk
+- 0.9
+- 19.0
+- 166
+- 80
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

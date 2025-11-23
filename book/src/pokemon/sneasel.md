@@ -34,18 +34,17 @@ Types: Dark / Ice • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM04 - Calm Mind
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM31 - Brick Break
@@ -57,11 +56,16 @@ Types: Dark / Ice • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM53 - Power-Up Punch
+- TM55 - Snarl
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Quick Claw
 
 **Encounter Locations**
 - Froslass Cavern F1 — Grass (Day) (20%)
@@ -123,13 +127,13 @@ Types: Dark / Ice • Egg Groups: Field
 - Defense Curl
 - Double-Edge
 - Dream Eater
+- Dynamic Punch
 - Endure
 - Fury Cutter
 - Ice Punch
 - Icy Wind
 - Mega Kick
 - Mega Punch
-- Metronome
 - Mud-Slap
 - Psych Up
 - Sleep Talk
@@ -137,6 +141,15 @@ Types: Dark / Ice • Egg Groups: Field
 - Swagger
 - Swift
 - Swords Dance
+- 215
+- 1 Spe
+- 0.9
+- 28.0
+- 86
+- 60
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>
@@ -170,19 +183,17 @@ Types: Dark / Ice • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM04 - Calm Mind
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM31 - Brick Break
@@ -194,11 +205,16 @@ Types: Dark / Ice • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM53 - Power-Up Punch
+- TM55 - Snarl
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Quick Claw
 
 **Evolution Info**
 Razor Claw
@@ -276,6 +292,15 @@ Razor Claw
 - Swagger
 - Swift
 - Swords Dance
+- 461
+- 1 Atk, 1 Spe
+- 1.1
+- 34.0
+- 179
+- 45
+- 20
+- 35
+- Medium Slow
 </div>
 </div>
 </details>

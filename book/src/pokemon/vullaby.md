@@ -3,6 +3,8 @@
 <label for="pokemon-tabs-vullaby-tab-0">Vullaby</label>
 <input type="radio" name="pokemon-tabs-vullaby-group" id="pokemon-tabs-vullaby-tab-1">
 <label for="pokemon-tabs-vullaby-tab-1">Mandibuzz</label>
+<input type="radio" name="pokemon-tabs-vullaby-group" id="pokemon-tabs-vullaby-tab-2">
+<label for="pokemon-tabs-vullaby-tab-2">Mega Mandibuzz</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-panel-0">
 ## Vullaby (#107)
@@ -48,7 +50,9 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM49 - Snatch
+- TM55 - Snarl
+- TM57 - Roost
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM02 - Fly
 - HM06 - Rock Smash
@@ -81,6 +85,7 @@ Types: Dark / Flying • Egg Groups: Flying
 - Work Up (Lv 14)
 - Flatter (Lv 19)
 - Feint Attack (Lv 23)
+- Bone Club (Lv 25)
 - U-Turn (Lv 28)
 - Defog (Lv 32)
 - Tailwind (Lv 37)
@@ -110,6 +115,15 @@ Types: Dark / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
+- 629
+- 1 Def
+- 0.5
+- 9.0
+- 74
+- 190
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
@@ -146,7 +160,6 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM30 - Shadow Ball
@@ -160,7 +173,9 @@ Types: Dark / Flying • Egg Groups: Flying
 - TM45 - Attract
 - TM46 - Thief
 - TM47 - Steel Wing
-- TM49 - Snatch
+- TM55 - Snarl
+- TM57 - Roost
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM02 - Fly
 - HM06 - Rock Smash
@@ -182,6 +197,7 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
+- Bone Rush (Lv Evo)
 - Bonemerang (Lv 1)
 - Mirror Move (Lv 1)
 - Brave Bird (Lv 1)
@@ -193,9 +209,9 @@ Lv. 34
 - Work Up (Lv 14)
 - Flatter (Lv 19)
 - Feint Attack (Lv 23)
+- Bone Club (Lv 25)
 - U-Turn (Lv 28)
 - Defog (Lv 32)
-- Bone Rush (Lv Evo)
 - Tailwind (Lv 37)
 - Shadow Bone (Lv 39)
 - Drill Peck (Lv 41)
@@ -223,6 +239,137 @@ Lv. 34
 - Snore
 - Swagger
 - Swift
+- 630
+- 2 Sp. Atk
+- 1.2
+- 39.5
+- 179
+- 60
+- 20
+- 50
+- Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-panel-2">
+## Mega Mandibuzz (#108)
+<details class="pokemon-card-container" open>
+<summary>Mega Mandibuzz overview</summary>
+Types: Dark / Flying • Egg Groups: Flying
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Scavenger (Leftovers effect?)
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Grass (0.5×)
+- Ground (0×)
+- Psychic (0×)
+- Ghost (0.5×)
+- Dark (0.5×)
+
+*Weak to*
+- Electric (2×)
+- Ice (2×)
+- Rock (2×)
+- Fairy (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM47 - Steel Wing
+- TM55 - Snarl
+- TM57 - Roost
+- TM59 - Dark Pulse
+- HM01 - Cut
+- HM02 - Fly
+- HM06 - Rock Smash
+
+**Evolution Info**
+Mandibite
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">115</span> |
+| Attack | <span class="stat-value stat-high">115</span> |
+| Defense | <span class="stat-value stat-high">145</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-high">125</span> |
+| Speed | <span class="stat-value stat-mid">75</span> |
+| Total | <span class="stat-value stat-high">610</span> |
+
+**Level-Up Moves**
+- Bone Rush (Lv Evo)
+- Bonemerang (Lv 1)
+- Mirror Move (Lv 1)
+- Brave Bird (Lv 1)
+- Whirlwind (Lv 1)
+- Gust (Lv 1)
+- Leer (Lv 1)
+- Pursuit (Lv 5)
+- Pluck (Lv 10)
+- Work Up (Lv 14)
+- Flatter (Lv 19)
+- Feint Attack (Lv 23)
+- Bone Club (Lv 25)
+- U-Turn (Lv 28)
+- Defog (Lv 32)
+- Tailwind (Lv 37)
+- Shadow Bone (Lv 39)
+- Drill Peck (Lv 41)
+- False Surrender (Lv 46)
+- Leech Life (Lv 50)
+- Embargo (Lv 52)
+- Whirlwind (Lv 55)
+- Brave Bird (Lv 59)
+- Mirror Move (Lv 64)
+
+**Egg Moves**
+- Steel Wing
+- Mean Look
+- Roost
+- Scary Face
+- Knock Off
+- Fake Tears
+- Foul Play
+
+**Tutor Moves**
+- Double-Edge
+- Endure
+- Psych Up
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- 630M
+- 2 Atk
+- 1.2
+- 39.5
+- 179
+- 60
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
@@ -232,4 +379,5 @@ Lv. 34
 <style>
 #pokemon-tabs-vullaby-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-panel-0 { display: block; }
 #pokemon-tabs-vullaby-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-panel-1 { display: block; }
+#pokemon-tabs-vullaby-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-panel-2 { display: block; }
 </style>

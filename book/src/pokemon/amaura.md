@@ -35,17 +35,12 @@ Types: Rock / Ice • Egg Groups: Monster
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM32 - Double Team
 - TM33 - Reflect
@@ -54,6 +49,11 @@ Types: Rock / Ice • Egg Groups: Monster
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+- TM58 - Thunder Wave
+- TM59 - Dark Pulse
 - HM05 - Flash
 - HM06 - Rock Smash
 
@@ -112,7 +112,15 @@ Types: Rock / Ice • Egg Groups: Monster
 - Sleep Talk
 - Snore
 - Swagger
-- Thunder Wave
+- 698
+- 1 HP
+- 1.3
+- 25.2
+- 72
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -148,17 +156,12 @@ Types: Rock / Ice • Egg Groups: Monster
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM04 - Calm Mind
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM26 - Earthquake
@@ -170,11 +173,16 @@ Types: Rock / Ice • Egg Groups: Monster
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM50 - Deepwater Curse
+- TM52 - Frost Breath
+- TM58 - Thunder Wave
+- TM59 - Dark Pulse
 - HM05 - Flash
 - HM06 - Rock Smash
 
 **Evolution Info**
-Lv. 39, Night
+Lv. 34, Night
 </div>
 <div class="card-column">
 **Base Stats**
@@ -190,6 +198,8 @@ Lv. 39, Night
 | Total | <span class="stat-value stat-mid">521</span> |
 
 **Level-Up Moves**
+- Freeze-Dry (Lv Evo)
+- Deepwater Curse (Lv 1)
 - Growl (Lv 1)
 - Powder Snow (Lv 1)
 - Thunder Wave (Lv 5)
@@ -203,7 +213,6 @@ Lv. 39, Night
 - Avalanche (Lv 30)
 - Hail (Lv 34)
 - Nature Power (Lv 38)
-- Freeze-Dry (Lv Evo)
 - Encore (Lv 40)
 - Light Screen (Lv 42)
 - Ice Beam (Lv 46)
@@ -227,7 +236,15 @@ Lv. 39, Night
 - Sleep Talk
 - Snore
 - Swagger
-- Thunder Wave
+- 699
+- 2 HP
+- 2.7
+- 225.0
+- 104
+- 45
+- 30
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

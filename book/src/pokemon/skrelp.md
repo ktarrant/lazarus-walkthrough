@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-skrelp-tab-1">Dragalge</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-skrelp-panel-0">
-## Skrelp (#271)
+## Skrelp (#291)
 <details class="pokemon-card-container" open>
 <summary>Skrelp overview</summary>
 Types: Poison / Water • Egg Groups: Dragon / Water 1
@@ -37,10 +37,9 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -50,6 +49,7 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -106,18 +106,28 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 - Venom Drench
 
 **Tutor Moves**
+- Acid Spray
 - Endure
 - Icy Wind
 - Mud-Slap
 - Sleep Talk
 - Snore
 - Swagger
+- 690
+- 1 Sp. Def
+- 0.5
+- 7.3
+- 64
+- 225
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-skrelp-panel-1">
-## Dragalge (#272)
+## Dragalge (#292)
 <details class="pokemon-card-container" open>
 <summary>Dragalge overview</summary>
 Types: Poison / Dragon • Egg Groups: Dragon / Water 1
@@ -149,11 +159,9 @@ Types: Poison / Dragon • Egg Groups: Dragon / Water 1
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
-- TM15 - Hyper Beam
+- TM07 - Whirlpool
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM30 - Shadow Ball
@@ -164,6 +172,7 @@ Types: Poison / Dragon • Egg Groups: Dragon / Water 1
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM56 - Scald
 - HM03 - Surf
 - HM07 - Waterfall
 - HM08 - Dive
@@ -185,6 +194,7 @@ Lv. 37
 | Total | <span class="stat-value stat-mid">494</span> |
 
 **Level-Up Moves**
+- Twister (Lv Evo)
 - Dragon Tail (Lv 1)
 - Tackle (Lv 1)
 - Smokescreen (Lv 1)
@@ -200,7 +210,6 @@ Lv. 37
 - Toxic (Lv 32)
 - Dragon Dance (Lv 35)
 - Aqua Tail (Lv 35)
-- Twister (Lv Evo)
 - Sludge Bomb (Lv 38)
 - Poison Jab (Lv 40)
 - Hydro Pump (Lv 42)
@@ -215,12 +224,22 @@ Lv. 37
 - Venom Drench
 
 **Tutor Moves**
+- Acid Spray
 - Endure
 - Icy Wind
 - Mud-Slap
 - Sleep Talk
 - Snore
 - Swagger
+- 691
+- 2 Sp. Def
+- 1.8
+- 81.5
+- 173
+- 55
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -1,13 +1,17 @@
 <div class="pokemon-tabs" id="pokemon-tabs-tinkatuff">
-<input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-0" checked>
-<label for="pokemon-tabs-tinkatuff-tab-0">Tinkatuff</label>
-<input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-1">
-<label for="pokemon-tabs-tinkatuff-tab-1">Tinkaton</label>
+<input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-0">
+<label for="pokemon-tabs-tinkatuff-tab-0">Tinkatink</label>
+<input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-1" checked>
+<label for="pokemon-tabs-tinkatuff-tab-1">Tinkatuff</label>
+<input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-2">
+<label for="pokemon-tabs-tinkatuff-tab-2">Tinkaton</label>
+<input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-3">
+<label for="pokemon-tabs-tinkatuff-tab-3">Mega Tinkaton</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tinkatuff-panel-0">
-## Tinkatuff (#307)
+## Tinkatink (#326)
 <details class="pokemon-card-container" open>
-<summary>Tinkatuff overview</summary>
+<summary>Tinkatink overview</summary>
 Types: Fairy / Steel • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -15,7 +19,7 @@ Types: Fairy / Steel • Egg Groups: Fairy
 **Abilities**
 - Mold Breaker
 - Unaware
-- Huge Power *(Hidden)*
+- Sheer Force *(Hidden)*
 
 **Type Matchups**
 
@@ -37,6 +41,114 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
+- TM15 - Draining Kiss
+- TM16 - Light Screen
+- TM17 - Protect
+- TM33 - Reflect
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM58 - Thunder Wave
+- HM06 - Rock Smash
+
+**Encounter Locations**
+- Marmaro Island — Grass (Day) (10%)
+- Marmaro Island — Grass (Night) (10%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-low">50</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">35</span> |
+| Sp. Def | <span class="stat-value stat-mid">64</span> |
+| Speed | <span class="stat-value stat-mid">58</span> |
+| Total | <span class="stat-value stat-low">297</span> |
+
+**Level-Up Moves**
+- Fairy Wind (Lv 1)
+- Astonish (Lv 1)
+- Baby-Doll Eyes (Lv 5)
+- Metal Claw (Lv 8)
+- Covet (Lv 11)
+- Rock Smash (Lv 14)
+- Draining Kiss (Lv 17)
+- Sweet Kiss (Lv 21)
+- Brutal Swing (Lv 23)
+- Spikes (Lv 25)
+- Slam (Lv 27)
+- Iron Head (Lv 31)
+- Spirit Break (Lv 35)
+- Fake Out (Lv 39)
+- Flatter (Lv 43)
+- Mortal Spin (Lv 45)
+- Baton Pass (Lv 45)
+- Skitter Smack (Lv 47)
+- Knock Off (Lv 52)
+
+**Egg Moves**
+- Feint
+- Ice Hammer
+- Quash
+
+**Tutor Moves**
+- Endure
+- Metronome
+- Rock Slide
+- Sleep Talk
+- Swords Dance
+- 957
+- 1 Sp. Def
+- 0.4
+- 8.9
+- 59
+- 190
+- 20
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-tinkatuff-panel-1">
+## Tinkatuff (#327)
+<details class="pokemon-card-container" open>
+<summary>Tinkatuff overview</summary>
+Types: Fairy / Steel • Egg Groups: Fairy
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Mold Breaker
+- Unaware
+- Sheer Force *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Grass (0.5×)
+- Ice (0.5×)
+- Poison (0×)
+- Flying (0.5×)
+- Psychic (0.5×)
+- Bug (0.25×)
+- Rock (0.5×)
+- Dragon (0×)
+- Dark (0.5×)
+- Fairy (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Ground (2×)
+
+**TM/HM Moves**
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM31 - Brick Break
@@ -46,11 +158,11 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - TM44 - Rest
 - TM46 - Thief
 - TM48 - Skill Swap
-- TM58 - Play Rough
+- TM58 - Thunder Wave
 - HM06 - Rock Smash
 
 **Evolution Info**
-Lv. 24
+Lv. 22
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -102,13 +214,21 @@ Lv. 24
 - Rock Slide
 - Sleep Talk
 - Swords Dance
-- Thunder Wave
+- 958
+- 2 Sp. Def
+- 0.7
+- 59.1
+- 133
+- 90
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-tinkatuff-panel-1">
-## Tinkaton (#308)
+<div class="pokemon-tab-panel" id="pokemon-tabs-tinkatuff-panel-2">
+## Tinkaton (#328)
 <details class="pokemon-card-container" open>
 <summary>Tinkaton overview</summary>
 Types: Fairy / Steel • Egg Groups: Fairy
@@ -118,7 +238,7 @@ Types: Fairy / Steel • Egg Groups: Fairy
 **Abilities**
 - Mold Breaker
 - Unaware
-- Huge Power *(Hidden)*
+- Sheer Force *(Hidden)*
 
 **Type Matchups**
 
@@ -140,6 +260,7 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM31 - Brick Break
@@ -149,7 +270,8 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - TM44 - Rest
 - TM46 - Thief
 - TM48 - Skill Swap
-- TM58 - Play Rough
+- TM49 - Bulldoze
+- TM58 - Thunder Wave
 - HM06 - Rock Smash
 
 **Evolution Info**
@@ -169,6 +291,7 @@ Lv. 38
 | Total | <span class="stat-value stat-mid">516</span> |
 
 **Level-Up Moves**
+- Gigaton Hammer (Lv Evo)
 - Fairy Wind (Lv 1)
 - Astonish (Lv 1)
 - Baby-Doll Eyes (Lv 5)
@@ -182,7 +305,113 @@ Lv. 38
 - Slam (Lv 27)
 - Iron Head (Lv 31)
 - Spirit Break (Lv 35)
+- Fake Out (Lv 39)
+- Flatter (Lv 43)
+- Mortal Spin (Lv 45)
+- Baton Pass (Lv 45)
+- Skitter Smack (Lv 47)
+- Knock Off (Lv 52)
+
+**Egg Moves**
+- Feint
+- Ice Hammer
+- Quash
+
+**Tutor Moves**
+- Endure
+- Metronome
+- Rock Slide
+- Sleep Talk
+- Swords Dance
+- 959
+- 3 Sp. Def
+- 0.7
+- 112.8
+- 253
+- 45
+- 20
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-tinkatuff-panel-3">
+## Mega Tinkaton (#328)
+<details class="pokemon-card-container" open>
+<summary>Mega Tinkaton overview</summary>
+Types: Fairy / Steel • Egg Groups: Fairy
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Huge Power
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Normal (0.5×)
+- Grass (0.5×)
+- Ice (0.5×)
+- Poison (0×)
+- Flying (0.5×)
+- Psychic (0.5×)
+- Bug (0.25×)
+- Rock (0.5×)
+- Dragon (0×)
+- Dark (0.5×)
+- Fairy (0.5×)
+
+*Weak to*
+- Fire (2×)
+- Ground (2×)
+
+**TM/HM Moves**
+- TM15 - Draining Kiss
+- TM16 - Light Screen
+- TM17 - Protect
+- TM31 - Brick Break
+- TM33 - Reflect
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM49 - Bulldoze
+- TM58 - Thunder Wave
+- HM06 - Rock Smash
+
+**Evolution Info**
+Tinkatite
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-high">112</span> |
+| Sp. Atk | <span class="stat-value stat-mid">80</span> |
+| Sp. Def | <span class="stat-value stat-high">135</span> |
+| Speed | <span class="stat-value stat-high">114</span> |
+| Total | <span class="stat-value stat-high">616</span> |
+
+**Level-Up Moves**
 - Gigaton Hammer (Lv Evo)
+- Fairy Wind (Lv 1)
+- Astonish (Lv 1)
+- Baby-Doll Eyes (Lv 5)
+- Metal Claw (Lv 8)
+- Covet (Lv 11)
+- Rock Smash (Lv 14)
+- Draining Kiss (Lv 17)
+- Sweet Kiss (Lv 21)
+- Brutal Swing (Lv 23)
+- Spikes (Lv 25)
+- Slam (Lv 27)
+- Iron Head (Lv 31)
+- Spirit Break (Lv 35)
 - Fake Out (Lv 39)
 - Flatter (Lv 43)
 - Mortal Spin (Lv 45)
@@ -202,6 +431,15 @@ Lv. 38
 - Sleep Talk
 - Swords Dance
 - Thunder Wave
+- 959M
+- 3 Sp. Def
+- 0.7
+- 112.8
+- 253
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -211,4 +449,6 @@ Lv. 38
 <style>
 #pokemon-tabs-tinkatuff-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-tinkatuff-panel-0 { display: block; }
 #pokemon-tabs-tinkatuff-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-tinkatuff-panel-1 { display: block; }
+#pokemon-tabs-tinkatuff-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-tinkatuff-panel-2 { display: block; }
+#pokemon-tabs-tinkatuff-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-tinkatuff-panel-3 { display: block; }
 </style>

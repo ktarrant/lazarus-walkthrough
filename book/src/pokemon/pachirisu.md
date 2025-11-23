@@ -23,11 +23,9 @@ Types: Electric • Egg Groups: Fairy / Field
 **TM/HM Moves**
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -38,6 +36,7 @@ Types: Electric • Egg Groups: Fairy / Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM58 - Thunder Wave
 - HM01 - Cut
 - HM05 - Flash
 
@@ -102,7 +101,15 @@ Types: Electric • Egg Groups: Fairy / Field
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 417
+- 1 Spe
+- 0.4
+- 3.9
+- 142
+- 200
+- 10
+- 100
+- Medium Fast
 </div>
 </div>
 </details>

@@ -1,11 +1,106 @@
 <div class="pokemon-tabs" id="pokemon-tabs-pawmo">
-<input type="radio" name="pokemon-tabs-pawmo-group" id="pokemon-tabs-pawmo-tab-0" checked>
-<label for="pokemon-tabs-pawmo-tab-0">Pawmo</label>
-<input type="radio" name="pokemon-tabs-pawmo-group" id="pokemon-tabs-pawmo-tab-1">
-<label for="pokemon-tabs-pawmo-tab-1">Pawmott</label>
+<input type="radio" name="pokemon-tabs-pawmo-group" id="pokemon-tabs-pawmo-tab-0">
+<label for="pokemon-tabs-pawmo-tab-0">Pawmi</label>
+<input type="radio" name="pokemon-tabs-pawmo-group" id="pokemon-tabs-pawmo-tab-1" checked>
+<label for="pokemon-tabs-pawmo-tab-1">Pawmo</label>
+<input type="radio" name="pokemon-tabs-pawmo-group" id="pokemon-tabs-pawmo-tab-2">
+<label for="pokemon-tabs-pawmo-tab-2">Pawmott</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-pawmo-panel-0">
-## Pawmo (#214)
+## Pawmi (#233)
+<details class="pokemon-card-container" open>
+<summary>Pawmi overview</summary>
+Types: Electric • Egg Groups: Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Static
+- Natural Cure
+- Iron Fist *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Electric (0.5×)
+- Flying (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Ground (2×)
+
+**TM/HM Moves**
+- TM01 - Wish
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM58 - Thunder Wave
+
+**Encounter Locations**
+- Asfal Hills — Grass (Day) (15%)
+- Asfal Hills — Grass (Night) (15%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-low">45</span> |
+| Attack | <span class="stat-value stat-low">50</span> |
+| Defense | <span class="stat-value stat-low">20</span> |
+| Sp. Atk | <span class="stat-value stat-low">40</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-low">240</span> |
+
+**Level-Up Moves**
+- Scratch (Lv 1)
+- Growl (Lv 1)
+- Thunder Shock (Lv 3)
+- Quick Attack (Lv 6)
+- Charge (Lv 8)
+- Nuzzle (Lv 12)
+- Dig (Lv 15)
+- Bite (Lv 19)
+- Spark (Lv 23)
+- Thunder Wave (Lv 27)
+- Entrainment (Lv 31)
+- Slam (Lv 35)
+- Discharge (Lv 38)
+- Agility (Lv 40)
+- Wild Charge (Lv 44)
+
+**Egg Moves**
+- Fake Out
+- Mach Punch
+- Sweet Kiss
+- Wish
+
+**Tutor Moves**
+- Endure
+- Sleep Talk
+- Swift
+- 921
+- 1 Spe
+- 0.3
+- 2.5
+- 48
+- 190
+- 15
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-pawmo-panel-1">
+## Pawmo (#234)
 <details class="pokemon-card-container" open>
 <summary>Pawmo overview</summary>
 Types: Electric / Fighting • Egg Groups: Field
@@ -32,7 +127,7 @@ Types: Electric / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
+- TM01 - Wish
 - TM11 - Sunny Day
 - TM17 - Protect
 - TM18 - Rain Dance
@@ -42,6 +137,7 @@ Types: Electric / Fighting • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM46 - Thief
+- TM58 - Thunder Wave
 
 **Evolution Info**
 Lv. 20
@@ -64,6 +160,7 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Level-Up Moves**
+- Arm Thrust (Lv Evo)
 - Scratch (Lv 1)
 - Growl (Lv 1)
 - Thunder Shock (Lv 3)
@@ -72,7 +169,6 @@ Lv. 20
 - Nuzzle (Lv 12)
 - Dig (Lv 15)
 - Bite (Lv 19)
-- Arm Thrust (Lv Evo)
 - Spark (Lv 23)
 - Thunder Wave (Lv 27)
 - Slam (Lv 32)
@@ -93,13 +189,21 @@ Lv. 20
 - Sleep Talk
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 922
+- 2 Spe
+- 0.4
+- 6.5
+- 123
+- 80
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-pawmo-panel-1">
-## Pawmott (#215)
+<div class="pokemon-tab-panel" id="pokemon-tabs-pawmo-panel-2">
+## Pawmott (#235)
 <details class="pokemon-card-container" open>
 <summary>Pawmott overview</summary>
 Types: Electric / Fighting • Egg Groups: Field
@@ -126,10 +230,9 @@ Types: Electric / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
+- TM01 - Wish
 - TM08 - Bulk Up
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM24 - Thunderbolt
@@ -140,9 +243,10 @@ Types: Electric / Fighting • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM46 - Thief
+- TM58 - Thunder Wave
 
 **Evolution Info**
-Lv. after 1000 Steps
+Lv. after 1000 Steps as Follower
 </div>
 <div class="card-column">
 **Base Stats**
@@ -158,6 +262,7 @@ Lv. after 1000 Steps
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
+- Revival Blessing (Lv Evo)
 - Ice Punch (Lv 1)
 - Fire Punch (Lv 1)
 - Rage Fist (Lv 1)
@@ -170,7 +275,6 @@ Lv. after 1000 Steps
 - Nuzzle (Lv 12)
 - Dig (Lv 15)
 - Bite (Lv 19)
-- Revival Blessing (Lv Evo)
 - Spark (Lv 23)
 - Arm Thrust (Lv 25)
 - Thunder Wave (Lv 29)
@@ -198,7 +302,15 @@ Lv. after 1000 Steps
 - Sleep Talk
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 923
+- 3 Atk
+- 0.9
+- 41.0
+- 245
+- 45
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -208,4 +320,5 @@ Lv. after 1000 Steps
 <style>
 #pokemon-tabs-pawmo-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmo-panel-0 { display: block; }
 #pokemon-tabs-pawmo-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmo-panel-1 { display: block; }
+#pokemon-tabs-pawmo-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmo-panel-2 { display: block; }
 </style>

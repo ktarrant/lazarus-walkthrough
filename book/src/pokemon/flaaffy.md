@@ -5,6 +5,8 @@
 <label for="pokemon-tabs-flaaffy-tab-1">Flaaffy</label>
 <input type="radio" name="pokemon-tabs-flaaffy-group" id="pokemon-tabs-flaaffy-tab-2">
 <label for="pokemon-tabs-flaaffy-tab-2">Ampharos</label>
+<input type="radio" name="pokemon-tabs-flaaffy-group" id="pokemon-tabs-flaaffy-tab-3">
+<label for="pokemon-tabs-flaaffy-tab-3">Mega Ampharos</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-flaaffy-panel-0">
 ## Mareep (#061)
@@ -35,8 +37,6 @@ Types: Electric • Egg Groups: Monster / Field
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -46,8 +46,8 @@ Types: Electric • Egg Groups: Monster / Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM57 - Dazzling Gleam
-- TM59 - Volt Switch
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Encounter Locations**
@@ -71,7 +71,7 @@ Types: Electric • Egg Groups: Monster / Field
 - Tackle (Lv 1)
 - Growl (Lv 1)
 - Thunder Wave (Lv 4)
-- Thundershock (Lv 8)
+- Thunder Shock (Lv 8)
 - Cotton Spore (Lv 11)
 - Charge (Lv 15)
 - Take Down (Lv 18)
@@ -107,7 +107,15 @@ Types: Electric • Egg Groups: Monster / Field
 - Snore
 - Swagger
 - Swift
-- Thunder Wave
+- 179
+- 1 Sp. Atk
+- 0.6
+- 7.8
+- 56
+- 235
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -136,15 +144,11 @@ Types: Electric • Egg Groups: Monster / Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -155,8 +159,9 @@ Types: Electric • Egg Groups: Monster / Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM57 - Dazzling Gleam
-- TM59 - Volt Switch
+- TM53 - Power-Up Punch
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM04 - Strength
 - HM05 - Flash
 - HM06 - Rock Smash
@@ -184,7 +189,7 @@ Lv. 15
 - Tackle (Lv 1)
 - Growl (Lv 1)
 - Thunder Wave (Lv 4)
-- Thundershock (Lv 8)
+- Thunder Shock (Lv 8)
 - Cotton Spore (Lv 11)
 - Charge (Lv 16)
 - Take Down (Lv 20)
@@ -228,7 +233,15 @@ Lv. 15
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 180
+- 2 Sp. Atk
+- 0.8
+- 13.3
+- 128
+- 120
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -257,16 +270,11 @@ Types: Electric • Egg Groups: Monster / Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -277,9 +285,10 @@ Types: Electric • Egg Groups: Monster / Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM56 - Stomping Tantrum
-- TM57 - Dazzling Gleam
-- TM59 - Volt Switch
+- TM49 - Bulldoze
+- TM53 - Power-Up Punch
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM04 - Strength
 - HM05 - Flash
 - HM06 - Rock Smash
@@ -301,6 +310,7 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
+- Signal Beam (Lv Evo)
 - Zap Cannon (Lv 1)
 - Magnetic Flux (Lv 1)
 - Ion Deluge (Lv 1)
@@ -308,13 +318,12 @@ Lv. 30
 - Tackle (Lv 1)
 - Growl (Lv 1)
 - Thunder Wave (Lv 4)
-- Thundershock (Lv 8)
+- Thunder Shock (Lv 8)
 - Cotton Spore (Lv 11)
 - Charge (Lv 16)
 - Take Down (Lv 20)
 - Electro Ball (Lv 25)
 - Confuse Ray (Lv 29)
-- Signal Beam (Lv Evo)
 - Power Gem (Lv 35)
 - Discharge (Lv 38)
 - Dragon Pulse (Lv 43)
@@ -357,7 +366,152 @@ Lv. 30
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 181
+- 3 Sp. Atk
+- 1.4
+- 61.5
+- 255
+- 45
+- 20
+- 50
+- Medium Slow
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-flaaffy-panel-3">
+## Mega Ampharos (#063)
+<details class="pokemon-card-container" open>
+<summary>Mega Ampharos overview</summary>
+Types: Electric / Dragon • Egg Groups: Monster / Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Mold Breaker
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Water (0.5×)
+- Electric (0.25×)
+- Grass (0.5×)
+- Flying (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Ice (2×)
+- Ground (2×)
+- Dragon (2×)
+- Fairy (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM24 - Thunderbolt
+- TM25 - Thunder
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM33 - Reflect
+- TM34 - Shock Wave
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Bulldoze
+- TM53 - Power-Up Punch
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
+- HM04 - Strength
+- HM05 - Flash
+- HM06 - Rock Smash
+
+**Evolution Info**
+Ampharosite
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">90</span> |
+| Attack | <span class="stat-value stat-high">95</span> |
+| Defense | <span class="stat-value stat-high">105</span> |
+| Sp. Atk | <span class="stat-value stat-high">165</span> |
+| Sp. Def | <span class="stat-value stat-high">110</span> |
+| Speed | <span class="stat-value stat-low">45</span> |
+| Total | <span class="stat-value stat-high">610</span> |
+
+**Level-Up Moves**
+- Signal Beam (Lv Evo)
+- Zap Cannon (Lv 1)
+- Magnetic Flux (Lv 1)
+- Ion Deluge (Lv 1)
+- Fire Punch (Lv 1)
+- Tackle (Lv 1)
+- Growl (Lv 1)
+- Thunder Wave (Lv 4)
+- Thunder Shock (Lv 8)
+- Cotton Spore (Lv 11)
+- Charge (Lv 16)
+- Take Down (Lv 20)
+- Electro Ball (Lv 25)
+- Confuse Ray (Lv 29)
+- Power Gem (Lv 35)
+- Discharge (Lv 38)
+- Dragon Pulse (Lv 43)
+- Cotton Guard (Lv 46)
+- Dazzling Gleam (Lv 50)
+- Glitzy Glow (Lv 53)
+- Light Screen (Lv 57)
+- Barrier (Lv 57)
+- Thunder (Lv 62)
+- Dragon Pulse (Lv 65)
+
+**Egg Moves**
+- Take Down
+- Body Slam
+- Screech
+- Odor Sleuth
+- Charge
+- Flatter
+- Sand Attack
+- Iron Tail
+- After You
+- Agility
+- Eerie Impulse
+- Electric Terrain
+
+**Tutor Moves**
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Fire Punch
+- Ice Punch
+- Mega Kick
+- Mega Punch
+- Seismic Toss
+- Sleep Talk
+- Snore
+- Swagger
+- Swift
+- Thunder Punch
+- 181M
+- 3 Sp. Atk
+- 1.4
+- 61.5
+- 275
+- 45
+- 20
+- 50
+- Medium Slow
 </div>
 </div>
 </details>
@@ -368,4 +522,5 @@ Lv. 30
 #pokemon-tabs-flaaffy-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-flaaffy-panel-0 { display: block; }
 #pokemon-tabs-flaaffy-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-flaaffy-panel-1 { display: block; }
 #pokemon-tabs-flaaffy-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-flaaffy-panel-2 { display: block; }
+#pokemon-tabs-flaaffy-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-flaaffy-panel-3 { display: block; }
 </style>

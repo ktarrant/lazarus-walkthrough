@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-drowzee-tab-1">Hypno</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-drowzee-panel-0">
-## Drowzee (#263)
+## Drowzee (#283)
 <details class="pokemon-card-container" open>
 <summary>Drowzee overview</summary>
 Types: Psychic • Egg Groups: Human-Like
@@ -29,15 +29,15 @@ Types: Psychic • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM31 - Brick Break
@@ -49,8 +49,9 @@ Types: Psychic • Egg Groups: Human-Like
 - TM45 - Attract
 - TM46 - Thief
 - TM48 - Skill Swap
-- TM49 - Snatch
-- TM57 - Dazzling Gleam
+- TM53 - Power-Up Punch
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Encounter Locations**
@@ -127,13 +128,21 @@ Types: Psychic • Egg Groups: Human-Like
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 96
+- 1 Sp. Def
+- 1.0
+- 32.4
+- 66
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-drowzee-panel-1">
-## Hypno (#264)
+## Hypno (#284)
 <details class="pokemon-card-container" open>
 <summary>Hypno overview</summary>
 Types: Psychic / Dark • Egg Groups: Human-Like
@@ -155,16 +164,16 @@ Types: Psychic / Dark • Egg Groups: Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM04 - Calm Mind
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM31 - Brick Break
@@ -176,8 +185,9 @@ Types: Psychic / Dark • Egg Groups: Human-Like
 - TM45 - Attract
 - TM46 - Thief
 - TM48 - Skill Swap
-- TM49 - Snatch
-- TM57 - Dazzling Gleam
+- TM53 - Power-Up Punch
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM05 - Flash
 
 **Evolution Info**
@@ -197,6 +207,7 @@ Lv. 26
 | Total | <span class="stat-value stat-mid">488</span> |
 
 **Level-Up Moves**
+- Nasty Plot (Lv Evo)
 - Future Sight (Lv 1)
 - Nightmare (Lv 1)
 - Switcheroo (Lv 1)
@@ -208,7 +219,6 @@ Lv. 26
 - Poison Gas (Lv 17)
 - Meditate (Lv 21)
 - Psybeam (Lv 23)
-- Nasty Plot (Lv Evo)
 - Knock Off (Lv 26)
 - Poison Jab (Lv 29)
 - Psych Up (Lv 33)
@@ -256,7 +266,15 @@ Lv. 26
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 97
+- 2 Sp. Def
+- 1.6
+- 75.6
+- 169
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

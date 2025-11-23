@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-stufful-tab-1">Bewear</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-stufful-panel-0">
-## Stufful (#247)
+## Stufful (#267)
 <details class="pokemon-card-container" open>
 <summary>Stufful overview</summary>
 Types: Normal / Fighting • Egg Groups: Field
@@ -32,8 +32,6 @@ Types: Normal / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
-- TM05 - Roar
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM12 - Taunt
@@ -46,6 +44,7 @@ Types: Normal / Fighting • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM04 - Strength
 
 **Encounter Locations**
@@ -104,12 +103,21 @@ Types: Normal / Fighting • Egg Groups: Field
 - Swagger
 - Swords Dance
 - Thunder Punch
+- 759
+- 1 Atk
+- 0.5
+- 6.8
+- 68
+- 140
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-stufful-panel-1">
-## Bewear (#248)
+## Bewear (#268)
 <details class="pokemon-card-container" open>
 <summary>Bewear overview</summary>
 Types: Normal / Fighting • Egg Groups: Field
@@ -136,13 +144,10 @@ Types: Normal / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM02 - Dragon Claw
-- TM05 - Roar
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM26 - Earthquake
 - TM31 - Brick Break
@@ -152,6 +157,7 @@ Types: Normal / Fighting • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
 - HM04 - Strength
 
 **Evolution Info**
@@ -175,6 +181,7 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
+- Bind (Lv Evo)
 - Tackle (Lv 1)
 - Leer (Lv 1)
 - Bide (Lv 5)
@@ -182,7 +189,6 @@ Lv. 27
 - Brutal Swing (Lv 14)
 - Flail (Lv 19)
 - Payback (Lv 23)
-- Bind (Lv Evo)
 - Take Down (Lv 28)
 - Hammer Arm (Lv 32)
 - Slack Off (Lv 35)
@@ -215,6 +221,15 @@ Lv. 27
 - Swagger
 - Swords Dance
 - Thunder Punch
+- 760
+- 2 Atk
+- 2.1
+- 135.0
+- 175
+- 70
+- 15
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

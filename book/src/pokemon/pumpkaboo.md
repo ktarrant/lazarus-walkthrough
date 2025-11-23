@@ -41,8 +41,8 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - TM16 - Light Screen
 - TM17 - Protect
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM29 - Psychic
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -54,6 +54,8 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - TM45 - Attract
 - TM46 - Thief
 - TM48 - Skill Swap
+- TM51 - Will-O-Wisp
+- TM59 - Dark Pulse
 - HM05 - Flash
 - HM06 - Rock Smash
 
@@ -105,6 +107,15 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - Sleep Talk
 - Snore
 - Swagger
+- 710
+- 1 Def
+- 0.4
+- 5.0
+- 67
+- 120
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -139,6 +150,31 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - Ghost (2×)
 - Dark (2×)
 
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM16 - Light Screen
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM23 - Hex
+- TM29 - Psychic
+- TM30 - Shadow Ball
+- TM32 - Double Team
+- TM35 - Flamethrower
+- TM36 - Sludge Bomb
+- TM38 - Fire Blast
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM48 - Skill Swap
+- TM51 - Will-O-Wisp
+- TM59 - Dark Pulse
+- HM05 - Flash
+- HM06 - Rock Smash
+
 **Evolution Info**
 Linking Cord
 
@@ -150,15 +186,17 @@ Linking Cord
 
 | Stat | Value |
 | --- | --- |
-| HP | <span class="stat-value stat-mid">65</span> |
+| HP | <span class="stat-value stat-mid">75</span> |
 | Attack | <span class="stat-value stat-mid">90</span> |
 | Defense | <span class="stat-value stat-high">122</span> |
 | Sp. Atk | <span class="stat-value stat-mid">58</span> |
 | Sp. Def | <span class="stat-value stat-mid">75</span> |
 | Speed | <span class="stat-value stat-mid">84</span> |
-| Total | <span class="stat-value stat-mid">494</span> |
+| Total | <span class="stat-value stat-mid">504</span> |
 
 **Level-Up Moves**
+- Chloroblast (Lv Evo)
+- Phantom Force (Lv 1)
 - Trick (Lv 1)
 - Astonish (Lv 1)
 - Confuse Ray (Lv 1)
@@ -166,18 +204,38 @@ Linking Cord
 - Worry Seed (Lv 11)
 - Razor Leaf (Lv 16)
 - Leech Seed (Lv 20)
-- Trick-or-Treat (Lv 23)
 - Bullet Seed (Lv 26)
 - Shadow Sneak (Lv 30)
+- Trick-or-Treat (Lv 33)
 - Shadow Ball (Lv 36)
 - Pain Split (Lv 40)
 - Seed Bomb (Lv 42)
+- Phantom Force (Lv 44)
+- Explosion (Lv 50)
 
 **Egg Moves**
 - Disable
 - Bestow
 - Destiny Bond
 - Curse
+
+**Tutor Moves**
+- Dream Eater
+- Endure
+- Explosion
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- 711
+- 2 Def
+- 0.9
+- 12.5
+- 173
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

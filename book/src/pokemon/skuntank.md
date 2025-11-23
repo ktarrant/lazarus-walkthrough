@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-skuntank-tab-1">Skuntank</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-skuntank-panel-0">
-## Stunky (#220)
+## Stunky (#240)
 <details class="pokemon-card-container" open>
 <summary>Stunky overview</summary>
 Types: Poison / Dark • Egg Groups: Field
@@ -30,13 +30,13 @@ Types: Poison / Dark • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
+- TM23 - Hex
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -48,7 +48,8 @@ Types: Poison / Dark • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM55 - Snarl
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM06 - Rock Smash
 
@@ -105,6 +106,7 @@ Types: Poison / Dark • Egg Groups: Field
 - Play Rough
 
 **Tutor Moves**
+- Acid Spray
 - Body Slam
 - Double-Edge
 - Endure
@@ -115,12 +117,21 @@ Types: Poison / Dark • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 434
+- 1 Spe
+- 0.4
+- 19.2
+- 66
+- 225
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-skuntank-panel-1">
-## Skuntank (#221)
+## Skuntank (#241)
 <details class="pokemon-card-container" open>
 <summary>Skuntank overview</summary>
 Types: Poison / Dark • Egg Groups: Field
@@ -145,14 +156,13 @@ Types: Poison / Dark • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM12 - Taunt
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
+- TM20 - Poison Jab
+- TM23 - Hex
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -164,7 +174,8 @@ Types: Poison / Dark • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM49 - Snatch
+- TM55 - Snarl
+- TM59 - Dark Pulse
 - HM01 - Cut
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -189,6 +200,7 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">489</span> |
 
 **Level-Up Moves**
+- Flamethrower (Lv Evo)
 - Scratch (Lv 1)
 - Focus Energy (Lv 1)
 - Poison Gas (Lv 3)
@@ -202,7 +214,6 @@ Lv. 34
 - Toxic (Lv 27)
 - Night Slash (Lv 31)
 - Memento (Lv 33)
-- Flamethrower (Lv Evo)
 - Venom Drench (Lv 37)
 - Sucker Punch (Lv 39)
 - Belch (Lv 43)
@@ -224,6 +235,7 @@ Lv. 34
 - Play Rough
 
 **Tutor Moves**
+- Acid Spray
 - Body Slam
 - Double-Edge
 - Endure
@@ -234,6 +246,15 @@ Lv. 34
 - Snore
 - Swagger
 - Swift
+- 435
+- 2 HP
+- 1.0
+- 38.0
+- 168
+- 60
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

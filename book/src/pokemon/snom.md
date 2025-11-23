@@ -35,6 +35,9 @@ Types: Ice / Bug • Egg Groups: Bug
 - TM44 - Rest
 - TM45 - Attract
 
+**Held Item**
+Snowball
+
 **Encounter Locations**
 - Froslass Cavern BF2 — Grass (Day) (5%)
 - Pythios Cemetery — Grass (Night) (10%)
@@ -67,6 +70,15 @@ Types: Ice / Bug • Egg Groups: Bug
 - Icy Wind
 - Sleep Talk
 - Snore
+- 872
+- 1 Sp. Atk
+- 0.3
+- 3.8
+- 37
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -98,18 +110,16 @@ Types: Ice / Bug • Egg Groups: Bug
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM07 - Hail
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM19 - Giga Drain
-- TM20 - Safeguard
 - TM33 - Reflect
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM54 - Dazzling Gleam
 
 **Evolution Info**
 Ice Stone
@@ -163,6 +173,15 @@ Ice Stone
 - Sleep Talk
 - Snore
 - Swift
+- 873
+- 2 Sp. Atk
+- 1.3
+- 42.0
+- 166
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

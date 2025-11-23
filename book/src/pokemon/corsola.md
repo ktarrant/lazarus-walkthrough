@@ -1,4 +1,4 @@
-## Corsola (#234)
+## Corsola (#254)
 <details class="pokemon-card-container" open>
 <summary>Corsola overview</summary>
 Types: Water / Rock • Egg Groups: Water 1 / Water 3
@@ -29,14 +29,13 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 3
 - TM03 - Water Pulse
 - TM04 - Calm Mind
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM26 - Earthquake
 - TM28 - Dig
 - TM29 - Psychic
@@ -48,9 +47,14 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM56 - Scald
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Luminous Moss
 
 **Encounter Locations**
 - Kipos Town — Fishing (15%)
@@ -125,6 +129,15 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 3
 - Sleep Talk
 - Snore
 - Swagger
+- 222
+- 1 Def, 1 Sp. Def
+- 0.6
+- 5.0
+- 144
+- 60
+- 20
+- 50
+- Fast
 </div>
 </div>
 </details>

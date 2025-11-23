@@ -1,4 +1,4 @@
-## Tauros (#224)
+## Tauros (#244)
 <details class="pokemon-card-container" open>
 <summary>Tauros overview</summary>
 Types: Normal • Egg Groups: Field
@@ -21,14 +21,13 @@ Types: Normal • Egg Groups: Field
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM06 - Toxic
+- TM07 - Whirlpool
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM26 - Earthquake
@@ -44,7 +43,7 @@ Types: Normal • Egg Groups: Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -85,6 +84,9 @@ Types: Normal • Egg Groups: Field
 - Double-Edge (Lv 63)
 - Giga Impact (Lv 71)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Body Slam
 - Double-Edge
@@ -94,6 +96,15 @@ Types: Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 128
+- 1 Atk, 1 Spe
+- 1.4
+- 88.4
+- 172
+- 45
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-hisuian-growlithe-tab-1">Hisuian Arcanine</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-growlithe-panel-0">
-## Hisuian Growlithe (#356)
+## Hisuian Growlithe (#376)
 <details class="pokemon-card-container" open>
 <summary>Hisuian Growlithe overview</summary>
 Types: Fire / Rock • Egg Groups: Field
@@ -35,10 +35,8 @@ Types: Fire / Rock • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM11 - Sunny Day
 - TM17 - Protect
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM35 - Flamethrower
 - TM37 - Sandstorm
@@ -47,7 +45,8 @@ Types: Fire / Rock • Egg Groups: Field
 - TM40 - Aerial Ace
 - TM42 - Facade
 - TM44 - Rest
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
 - HM06 - Rock Smash
 
 **Encounter Locations**
@@ -88,6 +87,9 @@ Types: Fire / Rock • Egg Groups: Field
 - Flare Blitz (Lv 45)
 - Head Smash (Lv 50)
 
+**Egg Moves**
+- Incompatible
+
 **Tutor Moves**
 - Body Slam
 - Double-Edge
@@ -95,12 +97,21 @@ Types: Fire / Rock • Egg Groups: Field
 - Rock Slide
 - Sleep Talk
 - Swift
+- 58h
+- 1 Atk
+- 0.8
+- 22.7
+- 70
+- 190
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-growlithe-panel-1">
-## Hisuian Arcanine (#357)
+## Hisuian Arcanine (#377)
 <details class="pokemon-card-container" open>
 <summary>Hisuian Arcanine overview</summary>
 Types: Fire / Rock • Egg Groups: Field
@@ -129,6 +140,24 @@ Types: Fire / Rock • Egg Groups: Field
 - Ground (4×)
 - Rock (2×)
 
+**TM/HM Moves**
+- TM11 - Sunny Day
+- TM17 - Protect
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM35 - Flamethrower
+- TM37 - Sandstorm
+- TM38 - Fire Blast
+- TM39 - Rock Tomb
+- TM40 - Aerial Ace
+- TM42 - Facade
+- TM44 - Rest
+- TM46 - Thief
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
+- HM06 - Rock Smash
+
 **Evolution Info**
 Fire Stone
 </div>
@@ -146,7 +175,7 @@ Fire Stone
 | Total | <span class="stat-value stat-high">555</span> |
 
 **Level-Up Moves**
-- Extreme Speed (Lv Evo)
+- Accelerock (Lv Evo)
 - Bite (Lv 1)
 - Roar (Lv 1)
 - Ember (Lv 6)
@@ -166,6 +195,26 @@ Fire Stone
 - Outrage (Lv 43)
 - Flare Blitz (Lv 45)
 - Head Smash (Lv 50)
+
+**Egg Moves**
+- Incompatible
+
+**Tutor Moves**
+- Body Slam
+- Double-Edge
+- Endure
+- Rock Slide
+- Sleep Talk
+- Swift
+- 59h
+- 2 Atk
+- 2.0
+- 168.0
+- 194
+- 75
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

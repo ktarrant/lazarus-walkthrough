@@ -1,10 +1,3 @@
-<div class="pokemon-tabs" id="pokemon-tabs-nosepass">
-<input type="radio" name="pokemon-tabs-nosepass-group" id="pokemon-tabs-nosepass-tab-0" checked>
-<label for="pokemon-tabs-nosepass-tab-0">Nosepass</label>
-<input type="radio" name="pokemon-tabs-nosepass-group" id="pokemon-tabs-nosepass-tab-1">
-<label for="pokemon-tabs-nosepass-tab-1">Probopass</label>
-<div class="pokemon-tab-panels">
-<div class="pokemon-tab-panel" id="pokemon-tabs-nosepass-panel-0">
 ## Nosepass (#102)
 <details class="pokemon-card-container" open>
 <summary>Nosepass overview</summary>
@@ -48,11 +41,14 @@ Types: Rock • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM56 - Stomping Tantrum
-- TM57 - Dazzling Gleam
-- TM59 - Volt Switch
+- TM49 - Bulldoze
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM04 - Strength
 - HM06 - Rock Smash
+
+**Held Item**
+Magnet
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -117,137 +113,15 @@ Types: Rock • Egg Groups: Mineral
 - Snore
 - Swagger
 - Thunder Punch
-- Thunder Wave
+- 299
+- 1 Def
+- 1.0
+- 97.0
+- 75
+- 255
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
-</div>
-<div class="pokemon-tab-panel" id="pokemon-tabs-nosepass-panel-1">
-## Probopass (#103)
-<details class="pokemon-card-container" open>
-<summary>Probopass overview</summary>
-Types: Rock / Steel • Egg Groups: Mineral
-
-<div class="pokemon-card">
-<div class="card-column">
-**Abilities**
-- Sturdy
-- Magnet Pull
-- Sand Force *(Hidden)*
-
-**Type Matchups**
-
-*Resists / Immune to*
-- Normal (0.25×)
-- Ice (0.5×)
-- Poison (0×)
-- Flying (0.25×)
-- Psychic (0.5×)
-- Bug (0.5×)
-- Rock (0.5×)
-- Dragon (0.5×)
-- Fairy (0.5×)
-
-*Weak to*
-- Water (2×)
-- Fighting (4×)
-- Ground (4×)
-
-**TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Hyper Beam
-- TM17 - Protect
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Stomping Tantrum
-- TM57 - Dazzling Gleam
-- TM59 - Volt Switch
-- HM04 - Strength
-- HM06 - Rock Smash
-
-**Evolution Info**
-Thunder Stone
-</div>
-<div class="card-column">
-**Base Stats**
-
-| Stat | Value |
-| --- | --- |
-| HP | <span class="stat-value stat-mid">60</span> |
-| Attack | <span class="stat-value stat-low">50</span> |
-| Defense | <span class="stat-value stat-high">145</span> |
-| Sp. Atk | <span class="stat-value stat-mid">80</span> |
-| Sp. Def | <span class="stat-value stat-high">150</span> |
-| Speed | <span class="stat-value stat-low">40</span> |
-| Total | <span class="stat-value stat-mid">525</span> |
-
-**Level-Up Moves**
-- Tri Attack (Lv Evo)
-- Magnetic Flux (Lv 1)
-- Magnet Rise (Lv 1)
-- Gravity (Lv 1)
-- Wide Guard (Lv 1)
-- Tackle (Lv 1)
-- Harden (Lv 4)
-- Block (Lv 7)
-- Rock Throw (Lv 10)
-- Thunder Wave (Lv 13)
-- Rest (Lv 16)
-- Spark (Lv 19)
-- Rock Slide (Lv 22)
-- Power Gem (Lv 25)
-- Rock Blast (Lv 28)
-- Discharge (Lv 31)
-- Sandstorm (Lv 34)
-- Earth Power (Lv 37)
-- Stone Edge (Lv 40)
-- Lock-On (Lv 43)
-- Zap Cannon (Lv 43)
-- Shore Up (Lv 46)
-- Electro Drift (Lv 52)
-
-**Egg Moves**
-- Magnitude
-- Rollout
-- Double-Edge
-- Block
-- Stealth Rock
-- Endure
-- Wide Guard
-
-**Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
-- Thunder Wave
-</div>
-</div>
-</details>
-</div>
-</div>
-</div>
-<style>
-#pokemon-tabs-nosepass-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-nosepass-panel-0 { display: block; }
-#pokemon-tabs-nosepass-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-nosepass-panel-1 { display: block; }
-</style>

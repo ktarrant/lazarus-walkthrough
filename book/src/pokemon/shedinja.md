@@ -28,10 +28,10 @@ Types: Bug / Ghost • Egg Groups: Mineral
 **TM/HM Moves**
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM19 - Giga Drain
 - TM22 - Solar Beam
+- TM23 - Hex
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -40,6 +40,7 @@ Types: Bug / Ghost • Egg Groups: Mineral
 - TM42 - Facade
 - TM44 - Rest
 - TM46 - Thief
+- TM51 - Will-O-Wisp
 - HM01 - Cut
 - HM05 - Flash
 
@@ -99,6 +100,15 @@ Lv. 20, empty party slot, PokéBall
 - Sleep Talk
 - Snore
 - Swagger
+- 292
+- 2 HP
+- 0.8
+- 1.2
+- 83
+- 45
+- 15
+- 50
+- Erratic
 </div>
 </div>
 </details>

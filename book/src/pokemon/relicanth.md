@@ -1,4 +1,4 @@
-## Relicanth (#316)
+## Relicanth (#336)
 <details class="pokemon-card-container" open>
 <summary>Relicanth overview</summary>
 Types: Water / Rock • Egg Groups: Water 1 / Water 2
@@ -29,13 +29,11 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 2
 - TM03 - Water Pulse
 - TM04 - Calm Mind
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
 - TM26 - Earthquake
 - TM32 - Double Team
 - TM37 - Sandstorm
@@ -43,11 +41,15 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 2
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
+- TM56 - Scald
 - HM03 - Surf
 - HM06 - Rock Smash
 - HM07 - Waterfall
 - HM08 - Dive
+
+**Held Item**
+Deep Sea Scale
 </div>
 <div class="card-column">
 **Base Stats**
@@ -108,6 +110,15 @@ Types: Water / Rock • Egg Groups: Water 1 / Water 2
 - Sleep Talk
 - Snore
 - Swagger
+- 369
+- 1 HP, 1 Def
+- 1.0
+- 23.4
+- 170
+- 25
+- 40
+- 50
+- Slow
 </div>
 </div>
 </details>

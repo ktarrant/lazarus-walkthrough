@@ -1,4 +1,11 @@
-## Wailmer (#238)
+<div class="pokemon-tabs" id="pokemon-tabs-wailmer">
+<input type="radio" name="pokemon-tabs-wailmer-group" id="pokemon-tabs-wailmer-tab-0" checked>
+<label for="pokemon-tabs-wailmer-tab-0">Wailmer</label>
+<input type="radio" name="pokemon-tabs-wailmer-group" id="pokemon-tabs-wailmer-tab-1">
+<label for="pokemon-tabs-wailmer-tab-1">Wailord</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-wailmer-panel-0">
+## Wailmer (#258)
 <details class="pokemon-card-container" open>
 <summary>Wailmer overview</summary>
 Types: Water • Egg Groups: Field / Water 2
@@ -24,9 +31,8 @@ Types: Water • Egg Groups: Field / Water 2
 
 **TM/HM Moves**
 - TM03 - Water Pulse
-- TM05 - Roar
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
 - TM17 - Protect
@@ -37,6 +43,8 @@ Types: Water • Egg Groups: Field / Water 2
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM56 - Scald
 - HM03 - Surf
 - HM04 - Strength
 - HM06 - Rock Smash
@@ -124,6 +132,145 @@ Types: Water • Egg Groups: Field / Water 2
 - Sleep Talk
 - Snore
 - Swagger
+- 320
+- 1 HP
+- 2.0
+- 130.0
+- 80
+- 125
+- 40
+- 50
+- Fluctuating
 </div>
 </div>
 </details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-wailmer-panel-1">
+## Wailord (#259)
+<details class="pokemon-card-container" open>
+<summary>Wailord overview</summary>
+Types: Water • Egg Groups: Field / Water 2
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Water Veil
+- Oblivious
+- Liquid Voice *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Water (0.5×)
+- Ice (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Electric (2×)
+- Grass (2×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Whirlpool
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Bulldoze
+- TM56 - Scald
+- HM03 - Surf
+- HM04 - Strength
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
+
+**Evolution Info**
+Lv. 40
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-high">170</span> |
+| Attack | <span class="stat-value stat-mid">85</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-high">95</span> |
+| Sp. Def | <span class="stat-value stat-low">45</span> |
+| Speed | <span class="stat-value stat-mid">60</span> |
+| Total | <span class="stat-value stat-mid">500</span> |
+
+**Level-Up Moves**
+- Hyper Voice (Lv Evo)
+- Splash (Lv 1)
+- Growl (Lv 4)
+- Water Gun (Lv 7)
+- Rollout (Lv 10)
+- Whirlpool (Lv 13)
+- Astonish (Lv 16)
+- Water Pulse (Lv 19)
+- Echoed Voice (Lv 22)
+- Mist (Lv 23)
+- Brine (Lv 25)
+- Rest (Lv 29)
+- Water Spout (Lv 33)
+- Amnesia (Lv 37)
+- Slack Off (Lv 39)
+- Dive (Lv 41)
+- Bounce (Lv 45)
+- Hydro Pump (Lv 49)
+- Boomburst (Lv 50)
+- Hard Press (Lv 53)
+
+**Egg Moves**
+- Double-Edge
+- Thrash
+- Snore
+- Sleep Talk
+- Curse
+- Fissure
+- Tickle
+- Defense Curl
+- Body Slam
+- Aqua Ring
+- Soak
+- Zen Headbutt
+- Clear Smog
+
+**Tutor Moves**
+- Body Slam
+- Defense Curl
+- Double-Edge
+- Endure
+- Icy Wind
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- 321
+- 2 HP
+- 14.5
+- 398.0
+- 175
+- 60
+- 40
+- 50
+- Fluctuating
+</div>
+</div>
+</details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-wailmer-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wailmer-panel-0 { display: block; }
+#pokemon-tabs-wailmer-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wailmer-panel-1 { display: block; }
+</style>

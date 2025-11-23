@@ -1,3 +1,146 @@
+<div class="pokemon-tabs" id="pokemon-tabs-quagsire">
+<input type="radio" name="pokemon-tabs-quagsire-group" id="pokemon-tabs-quagsire-tab-0">
+<label for="pokemon-tabs-quagsire-tab-0">Wooper</label>
+<input type="radio" name="pokemon-tabs-quagsire-group" id="pokemon-tabs-quagsire-tab-1" checked>
+<label for="pokemon-tabs-quagsire-tab-1">Quagsire</label>
+<div class="pokemon-tab-panels">
+<div class="pokemon-tab-panel" id="pokemon-tabs-quagsire-panel-0">
+## Wooper (#134)
+<details class="pokemon-card-container" open>
+<summary>Wooper overview</summary>
+Types: Water / Ground • Egg Groups: Water 1 / Field
+
+<div class="pokemon-card">
+<div class="card-column">
+**Abilities**
+- Damp
+- Water Absorb
+- Unaware *(Hidden)*
+
+**Type Matchups**
+
+*Resists / Immune to*
+- Fire (0.5×)
+- Electric (0×)
+- Poison (0.5×)
+- Rock (0.5×)
+- Steel (0.5×)
+
+*Weak to*
+- Grass (4×)
+
+**TM/HM Moves**
+- TM03 - Water Pulse
+- TM06 - Toxic
+- TM07 - Whirlpool
+- TM13 - Ice Beam
+- TM14 - Blizzard
+- TM17 - Protect
+- TM18 - Rain Dance
+- TM26 - Earthquake
+- TM28 - Dig
+- TM32 - Double Team
+- TM36 - Sludge Bomb
+- TM37 - Sandstorm
+- TM39 - Rock Tomb
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM49 - Bulldoze
+- TM53 - Power-Up Punch
+- TM56 - Scald
+- HM03 - Surf
+- HM05 - Flash
+- HM06 - Rock Smash
+- HM07 - Waterfall
+- HM08 - Dive
+
+**Encounter Locations**
+- Acrisia City — Fishing (40%)
+- Acrisia Mountains — Fishing (40%)
+- Riverwalk Trail (South) — Grass (Day) (20%)
+- Riverwalk Trail (South) — Grass (Night) (20%)
+- Wanderer's Woods (North) — Fishing (40%)
+- Wanderer's Woods (North) — Grass (Day) (10%)
+- Wanderer's Woods (South) — Grass (Day) (10%)
+</div>
+<div class="card-column">
+**Base Stats**
+
+| Stat | Value |
+| --- | --- |
+| HP | <span class="stat-value stat-mid">60</span> |
+| Attack | <span class="stat-value stat-low">45</span> |
+| Defense | <span class="stat-value stat-low">45</span> |
+| Sp. Atk | <span class="stat-value stat-low">25</span> |
+| Sp. Def | <span class="stat-value stat-low">25</span> |
+| Speed | <span class="stat-value stat-low">15</span> |
+| Total | <span class="stat-value stat-low">215</span> |
+
+**Level-Up Moves**
+- Water Gun (Lv 1)
+- Tail Whip (Lv 1)
+- Mud Sport (Lv 5)
+- Mud Shot (Lv 9)
+- Slam (Lv 15)
+- Mud Bomb (Lv 19)
+- Amnesia (Lv 23)
+- Yawn (Lv 29)
+- Earthquake (Lv 33)
+- Rain Dance (Lv 37)
+- Mist (Lv 43)
+- Haze (Lv 43)
+- Muddy Water (Lv 47)
+
+**Egg Moves**
+- Body Slam
+- Ancient Power
+- Curse
+- Mud Sport
+- Stockpile
+- Swallow
+- Spit Up
+- Counter
+- Encore
+- Double Kick
+- Recover
+- After You
+- Sleep Talk
+- Acid Spray
+- Guard Swap
+- Eerie Impulse
+- Power-Up Punch
+
+**Tutor Moves**
+- Acid Spray
+- Body Slam
+- Counter
+- Defense Curl
+- Double-Edge
+- Dynamic Punch
+- Endure
+- Ice Punch
+- Icy Wind
+- Mud-Slap
+- Rock Slide
+- Rollout
+- Sleep Talk
+- Snore
+- Swagger
+- 194
+- 1 HP
+- 0.4
+- 8.5
+- 42
+- 255
+- 20
+- 50
+- Medium Fast
+</div>
+</div>
+</details>
+</div>
+<div class="pokemon-tab-panel" id="pokemon-tabs-quagsire-panel-1">
 ## Quagsire (#135)
 <details class="pokemon-card-container" open>
 <summary>Quagsire overview</summary>
@@ -23,17 +166,13 @@ Types: Water / Ground • Egg Groups: Water 1 / Field
 - Grass (4×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM03 - Water Pulse
 - TM06 - Toxic
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM20 - Safeguard
-- TM23 - Iron Tail
 - TM26 - Earthquake
 - TM28 - Dig
 - TM31 - Brick Break
@@ -45,7 +184,9 @@ Types: Water / Ground • Egg Groups: Water 1 / Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
-- TM56 - Stomping Tantrum
+- TM49 - Bulldoze
+- TM53 - Power-Up Punch
+- TM56 - Scald
 - HM03 - Surf
 - HM04 - Strength
 - HM05 - Flash
@@ -113,6 +254,7 @@ Lv. 20
 - Power-Up Punch
 
 **Tutor Moves**
+- Acid Spray
 - Body Slam
 - Counter
 - Defense Curl
@@ -130,6 +272,22 @@ Lv. 20
 - Sleep Talk
 - Snore
 - Swagger
+- 195
+- 2 HP
+- 1.4
+- 75.0
+- 151
+- 90
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
+</div>
+</div>
+</div>
+<style>
+#pokemon-tabs-quagsire-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-quagsire-panel-0 { display: block; }
+#pokemon-tabs-quagsire-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-quagsire-panel-1 { display: block; }
+</style>

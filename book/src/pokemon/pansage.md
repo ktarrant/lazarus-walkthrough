@@ -35,7 +35,6 @@ Types: Grass / Normal • Egg Groups: Field
 - Bug (2×)
 
 **TM/HM Moves**
-- TM01 - Focus Punch
 - TM06 - Toxic
 - TM09 - Bullet Seed
 - TM11 - Sunny Day
@@ -43,7 +42,6 @@ Types: Grass / Normal • Egg Groups: Field
 - TM17 - Protect
 - TM19 - Giga Drain
 - TM22 - Solar Beam
-- TM23 - Iron Tail
 - TM28 - Dig
 - TM32 - Double Team
 - TM39 - Rock Tomb
@@ -111,6 +109,15 @@ Types: Grass / Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
+- 511
+- 1 Spe
+- 0.6
+- 10.5
+- 63
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -119,7 +126,7 @@ Types: Grass / Normal • Egg Groups: Field
 ## Simisage (#029)
 <details class="pokemon-card-container" open>
 <summary>Simisage overview</summary>
-Types: Grass • Egg Groups: Field
+Types: Grass / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
 <div class="card-column">
@@ -135,13 +142,37 @@ Types: Grass • Egg Groups: Field
 - Electric (0.5×)
 - Grass (0.5×)
 - Ground (0.5×)
+- Ghost (0×)
 
 *Weak to*
 - Fire (2×)
 - Ice (2×)
+- Fighting (2×)
 - Poison (2×)
 - Flying (2×)
 - Bug (2×)
+
+**TM/HM Moves**
+- TM06 - Toxic
+- TM09 - Bullet Seed
+- TM11 - Sunny Day
+- TM12 - Taunt
+- TM17 - Protect
+- TM19 - Giga Drain
+- TM22 - Solar Beam
+- TM28 - Dig
+- TM31 - Brick Break
+- TM32 - Double Team
+- TM39 - Rock Tomb
+- TM41 - Torment
+- TM42 - Facade
+- TM44 - Rest
+- TM45 - Attract
+- TM46 - Thief
+- TM53 - Power-Up Punch
+- HM01 - Cut
+- HM05 - Flash
+- HM06 - Rock Smash
 
 **Evolution Info**
 Leaf Stone
@@ -159,6 +190,26 @@ Leaf Stone
 | Speed | <span class="stat-value stat-high">103</span> |
 | Total | <span class="stat-value stat-mid">505</span> |
 
+**Level-Up Moves**
+- Scratch (Lv 1)
+- Play Nice (Lv 1)
+- Leer (Lv 4)
+- Lick (Lv 7)
+- Vine Whip (Lv 10)
+- Fury Swipes (Lv 13)
+- Leech Seed (Lv 16)
+- Bite (Lv 19)
+- Seed Bomb (Lv 22)
+- Torment (Lv 25)
+- Fling (Lv 28)
+- Slam (Lv 30)
+- Acrobatics (Lv 32)
+- Grass Knot (Lv 34)
+- Recycle (Lv 37)
+- Natural Gift (Lv 40)
+- Crunch (Lv 43)
+- Spiky Shield (Lv 46)
+
 **Egg Moves**
 - Covet
 - Low Kick
@@ -172,6 +223,21 @@ Leaf Stone
 - Leaf Storm
 - Disarming Voice
 - Spiky Shield
+
+**Tutor Moves**
+- Rock Slide
+- Sleep Talk
+- Snore
+- Swagger
+- 512
+- 2 Spe
+- 1.1
+- 30.5
+- 174
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

@@ -1,4 +1,4 @@
-## Dedenne (#259)
+## Dedenne (#279)
 <details class="pokemon-card-container" open>
 <summary>Dedenne overview</summary>
 Types: Electric / Fairy • Egg Groups: Fairy / Field
@@ -27,11 +27,10 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field
 **TM/HM Moves**
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
+- TM15 - Draining Kiss
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
-- TM23 - Iron Tail
 - TM24 - Thunderbolt
 - TM25 - Thunder
 - TM28 - Dig
@@ -42,6 +41,8 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field
 - TM44 - Rest
 - TM45 - Attract
 - TM46 - Thief
+- TM54 - Dazzling Gleam
+- TM58 - Thunder Wave
 - HM01 - Cut
 - HM05 - Flash
 
@@ -71,8 +72,9 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field
 - Thunder Shock (Lv 7)
 - Charge (Lv 11)
 - Charm (Lv 14)
-- Parabolic Charge (Lv 17)
-- Nuzzle (Lv 20)
+- Disarming Voice (Lv 16)
+- Parabolic Charge (Lv 19)
+- Nuzzle (Lv 21)
 - Thunder Wave (Lv 23)
 - Volt Switch (Lv 26)
 - Rest (Lv 30)
@@ -98,7 +100,15 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field
 - Swagger
 - Swift
 - Thunder Punch
-- Thunder Wave
+- 702
+- 2 Spe
+- 0.2
+- 2.2
+- 151
+- 180
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>

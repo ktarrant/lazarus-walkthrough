@@ -18,11 +18,11 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
+- TM01 - Wish
 - TM04 - Calm Mind
 - TM06 - Toxic
 - TM08 - Bulk Up
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM26 - Earthquake
@@ -32,6 +32,7 @@ Types: Normal • Egg Groups: Field
 - TM42 - Facade
 - TM45 - Attract
 - TM46 - Thief
+- TM49 - Bulldoze
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)
@@ -87,6 +88,15 @@ Types: Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swords Dance
+- 775
+- 2 Atk
+- 0.4
+- 19.9
+- 168
+- 45
+- 20
+- 50
+- Slow
 </div>
 </div>
 </details>

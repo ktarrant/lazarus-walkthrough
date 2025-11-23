@@ -5,7 +5,7 @@
 <label for="pokemon-tabs-galarian-corsola-tab-1">Cursola</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-corsola-panel-0">
-## Galarian Corsola (#234)
+## Galarian Corsola (#254)
 <details class="pokemon-card-container" open>
 <summary>Galarian Corsola overview</summary>
 Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
@@ -37,7 +37,7 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM04 - Calm Mind
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
@@ -45,7 +45,7 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
+- TM23 - Hex
 - TM26 - Earthquake
 - TM28 - Dig
 - TM29 - Psychic
@@ -56,6 +56,9 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- TM56 - Scald
 - HM03 - Surf
 
 **Encounter Locations**
@@ -110,12 +113,21 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - Rollout
 - Sleep Talk
 - Snore
+- 222g
+- 1 Sp. Def
+- 0.6
+- 0.5
+- 144
+- 60
+- 20
+- 50
+- Fast
 </div>
 </div>
 </details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-corsola-panel-1">
-## Cursola (#235)
+## Cursola (#255)
 <details class="pokemon-card-container" open>
 <summary>Cursola overview</summary>
 Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
@@ -147,16 +159,15 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 **TM/HM Moves**
 - TM03 - Water Pulse
 - TM04 - Calm Mind
-- TM07 - Hail
+- TM07 - Whirlpool
 - TM11 - Sunny Day
 - TM13 - Ice Beam
 - TM14 - Blizzard
-- TM15 - Hyper Beam
 - TM16 - Light Screen
 - TM17 - Protect
 - TM18 - Rain Dance
 - TM19 - Giga Drain
-- TM20 - Safeguard
+- TM23 - Hex
 - TM26 - Earthquake
 - TM28 - Dig
 - TM29 - Psychic
@@ -167,6 +178,9 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
+- TM49 - Bulldoze
+- TM51 - Will-O-Wisp
+- TM56 - Scald
 - HM03 - Surf
 
 **Evolution Info**
@@ -186,6 +200,7 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
+- Perish Song (Lv Evo)
 - Tackle (Lv 1)
 - Harden (Lv 1)
 - Astonish (Lv 5)
@@ -197,7 +212,6 @@ Lv. 34
 - Rock Blast (Lv 27)
 - Curse (Lv 30)
 - Strength Sap (Lv 33)
-- Perish Song (Lv Evo)
 - Shadow Ball (Lv 37)
 - Power Gem (Lv 40)
 - Night Shade (Lv 43)
@@ -220,6 +234,15 @@ Lv. 34
 - Rollout
 - Sleep Talk
 - Snore
+- 864
+- 2 Sp. Atk
+- 1.0
+- 0.4
+- 179
+- 30
+- 20
+- 50
+- Fast
 </div>
 </div>
 </details>

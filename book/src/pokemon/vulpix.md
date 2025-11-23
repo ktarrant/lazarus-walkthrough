@@ -35,12 +35,10 @@ Types: Fire / Fairy • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM05 - Roar
 - TM06 - Toxic
 - TM11 - Sunny Day
 - TM17 - Protect
-- TM20 - Safeguard
-- TM23 - Iron Tail
+- TM23 - Hex
 - TM28 - Dig
 - TM32 - Double Team
 - TM33 - Reflect
@@ -49,7 +47,12 @@ Types: Fire / Fairy • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
+- TM59 - Dark Pulse
+
+**Held Item**
+Charcoal
 
 **Encounter Locations**
 - Jusmail Town — Grass (Night) (4%)
@@ -116,6 +119,15 @@ Types: Fire / Fairy • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
+- 37
+- 1 Spe
+- 0.6
+- 9.9
+- 60
+- 190
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
@@ -152,14 +164,12 @@ Types: Fire / Fairy • Egg Groups: Field
 
 **TM/HM Moves**
 - TM04 - Calm Mind
-- TM05 - Roar
+- TM05 - Psyshock
 - TM06 - Toxic
 - TM11 - Sunny Day
-- TM15 - Hyper Beam
 - TM17 - Protect
-- TM20 - Safeguard
 - TM22 - Solar Beam
-- TM23 - Iron Tail
+- TM23 - Hex
 - TM28 - Dig
 - TM30 - Shadow Ball
 - TM32 - Double Team
@@ -169,7 +179,12 @@ Types: Fire / Fairy • Egg Groups: Field
 - TM42 - Facade
 - TM44 - Rest
 - TM45 - Attract
-- TM50 - Overheat
+- TM51 - Will-O-Wisp
+- TM55 - Snarl
+- TM59 - Dark Pulse
+
+**Held Item**
+Charcoal
 
 **Evolution Info**
 Fire Stone
@@ -237,6 +252,15 @@ Fire Stone
 - Snore
 - Swagger
 - Swift
+- 38
+- 1 Sp. Def, 1 Spe
+- 1.1
+- 19.9
+- 177
+- 75
+- 20
+- 50
+- Medium Fast
 </div>
 </div>
 </details>
