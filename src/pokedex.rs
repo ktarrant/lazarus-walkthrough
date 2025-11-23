@@ -17,7 +17,6 @@ pub struct PokemonEntry {
     pub abilities: Abilities,
     pub evolution: String,
     pub held_item: String,
-    pub location: String,
     pub egg_groups: Vec<String>,
     #[serde(default)]
     pub level_up_moves: Vec<LevelMove>,

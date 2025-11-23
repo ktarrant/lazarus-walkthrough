@@ -1,7 +1,7 @@
 # Type Matchups (Gen 6+)
 
-This table is generated from the structured data in `src/type_chart.rs`. Rebuild
-the helper binary whenever the source data changes to refresh this page.
+This table is generated from the structured data in `src/type_chart.rs`.
+Run `cargo run -- type-chart > book/src/type-matchups.md` whenever the source data changes.
 
 <table class="type-chart">
 <thead><tr><th>Att \ Def</th><th><abbr title="Normal">Nor</abbr></th><th><abbr title="Fire">Fir</abbr></th><th><abbr title="Water">Wat</abbr></th><th><abbr title="Electric">Ele</abbr></th><th><abbr title="Grass">Gra</abbr></th><th><abbr title="Ice">Ice</abbr></th><th><abbr title="Fighting">Fig</abbr></th><th><abbr title="Poison">Poi</abbr></th><th><abbr title="Ground">Gro</abbr></th><th><abbr title="Flying">Fly</abbr></th><th><abbr title="Psychic">Psy</abbr></th><th><abbr title="Bug">Bug</abbr></th><th><abbr title="Rock">Roc</abbr></th><th><abbr title="Ghost">Gho</abbr></th><th><abbr title="Dragon">Dra</abbr></th><th><abbr title="Dark">Dar</abbr></th><th><abbr title="Steel">Ste</abbr></th><th><abbr title="Fairy">Fai</abbr></th></tr></thead>
