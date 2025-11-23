@@ -87,6 +87,21 @@ The output groups each category (e.g., Evolutionary Items, Key Items, TMs) and
 lists the fields shown in the PDF. Reference the JSON when generating new
 documentation pages.
 
+Render the curated Markdown pages and commit them to `book/src`:
+
+```sh
+cargo run -- items-all --out-dir book/src
+```
+
+This produces:
+
+- `items-evolution-key.md`
+- `items-tms-hms.md`
+- `items-decorations-outfits.md`
+
+Include these pages anywhere in the walkthrough via
+`{{#include ./items-evolution-key.md}}` (or the respective filename).
+
 ### Egg group reference
 
 Generate a Markdown index that lists every egg group represented in the encounter

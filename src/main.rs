@@ -1,4 +1,5 @@
 mod encounters;
+mod items;
 mod pokeapi;
 mod type_chart;
 
@@ -24,6 +25,13 @@ struct Cli {
         default_value = "data/encounters/encounters.json"
     )]
     encounters_json: PathBuf,
+    /// Path to the parsed important items manifest JSON
+    #[arg(
+        long,
+        env = "POKEMON_LAZARUS_ITEMS_JSON",
+        default_value = "data/items/important-items.json"
+    )]
+    items_json: PathBuf,
 
     #[command(subcommand)]
     command: Command,
@@ -55,6 +63,20 @@ enum Command {
         #[arg(long, default_value = "book/src/egg-groups.md")]
         out: PathBuf,
     },
+    /// Generate item reference pages from the items manifest
+    Items {
+        #[arg(value_enum)]
+        page: items::ItemsPage,
+        /// Output path for the generated Markdown file
+        #[arg(long)]
+        out: PathBuf,
+    },
+    /// Generate all curated item reference pages
+    ItemsAll {
+        /// Output directory for generated Markdown files
+        #[arg(long, default_value = "book/src")]
+        out_dir: PathBuf,
+    },
 }
 
 fn main() -> Result<()> {
@@ -70,6 +92,8 @@ fn main() -> Result<()> {
         Command::Encounters { area_id } => render_encounters(cli.encounters_json, area_id)?,
         Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
         Command::EggGroups { out } => render_egg_groups(cli.data_dir, cli.encounters_json, out)?,
+        Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
+        Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
     }
     Ok(())
 }
