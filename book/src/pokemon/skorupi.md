@@ -120,15 +120,6 @@ Poison Barb
 - Snore
 - Swagger
 - Swords Dance
-- 451
-- 1 Def
-- 0.8
-- 12.0
-- 66
-- 120
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -254,15 +245,6 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
-- 452
-- 2 Def
-- 1.3
-- 61.5
-- 175
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

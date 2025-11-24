@@ -96,15 +96,6 @@ Grassy Seed
 - Snore
 - Swagger
 - Swift
-- 761
-- 1 HP
-- 0.3
-- 3.2
-- 42
-- 235
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -208,15 +199,6 @@ Lv. 18
 - Snore
 - Swagger
 - Swift
-- 762
-- 2 Spe
-- 0.7
-- 8.2
-- 102
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -322,15 +304,6 @@ Lv. knows Stomp
 - Snore
 - Swagger
 - Swift
-- 763
-- 3 Atk
-- 1.2
-- 21.4
-- 255
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

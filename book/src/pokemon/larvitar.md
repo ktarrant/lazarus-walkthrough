@@ -117,15 +117,6 @@ Types: Rock / Ground • Egg Groups: Monster
 - Sleep Talk
 - Snore
 - Swagger
-- 246
-- 1 Atk
-- 0.6
-- 72.0
-- 60
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -239,15 +230,6 @@ Lv. 30
 - Sleep Talk
 - Snore
 - Swagger
-- 247
-- 2 Atk
-- 1.2
-- 152.0
-- 144
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -391,15 +373,6 @@ Lv. 55
 - Snore
 - Swagger
 - Thunder Punch
-- 248
-- 3 Atk
-- 2.0
-- 202.0
-- 300
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -542,15 +515,6 @@ Tyranitarite
 - Snore
 - Swagger
 - Thunder Punch
-- 248M
-- 3 Atk
-- 2.5
-- 255.0
-- 315
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>

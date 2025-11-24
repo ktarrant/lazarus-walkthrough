@@ -103,15 +103,6 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 77
-- 1 Spe
-- 1.0
-- 30.0
-- 82
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -221,15 +212,6 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
-- 78
-- 2 Spe
-- 1.7
-- 95.0
-- 175
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

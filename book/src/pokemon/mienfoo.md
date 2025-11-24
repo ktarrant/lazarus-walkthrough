@@ -109,15 +109,6 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Swagger
 - Swift
 - Swords Dance
-- 619
-- 1 Atk
-- 0.9
-- 20.0
-- 70
-- 180
-- 25
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -230,15 +221,6 @@ Lv. 40
 - Swagger
 - Swift
 - Swords Dance
-- 620
-- 2 Atk
-- 1.4
-- 35.5
-- 179
-- 45
-- 25
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

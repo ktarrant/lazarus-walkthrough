@@ -120,15 +120,6 @@ Types: Fire / Ground • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 322
-- 1 Sp. Atk
-- 0.7
-- 24.0
-- 61
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -251,15 +242,6 @@ Lv. 33
 - Sleep Talk
 - Snore
 - Swagger
-- 323
-- 1 Atk, 1 Sp. Atk
-- 1.9
-- 220.0
-- 161
-- 150
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -380,15 +362,6 @@ Cameruptite
 - Sleep Talk
 - Snore
 - Swagger
-- 323M
-- 1 Atk, 1 Sp. Atk
-- 2.5
-- 320.0
-- 196
-- 150
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

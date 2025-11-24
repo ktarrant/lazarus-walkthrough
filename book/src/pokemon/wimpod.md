@@ -87,15 +87,6 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - Snore
 - Swagger
 - Swift
-- 767
-- 1 Spe
-- 0.5
-- 12.0
-- 46
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -208,15 +199,6 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
-- 768
-- 2 Def
-- 2.0
-- 108.0
-- 186
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

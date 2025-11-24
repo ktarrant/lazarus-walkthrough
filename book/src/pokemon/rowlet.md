@@ -104,15 +104,6 @@ Types: Grass / Flying • Egg Groups: Flying
 - Swagger
 - Swift
 - Swords Dance
-- 722
-- 1 HP
-- 0.3
-- 1.5
-- 64
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -213,15 +204,6 @@ Lv. 17
 - Swagger
 - Swift
 - Swords Dance
-- 723
-- 2 HP
-- 0.7
-- 16.0
-- 147
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -331,15 +313,6 @@ Lv. 34, Day
 - Sleep Talk
 - Swift
 - Swords Dance
-- 724h
-- 3 Atk
-- 1.6
-- 37.0
-- 265
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -450,15 +423,6 @@ Lv. 34, Night
 - Swagger
 - Swift
 - Swords Dance
-- 724
-- 3 Atk
-- 1.6
-- 36.6
-- 265
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

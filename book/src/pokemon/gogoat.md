@@ -109,15 +109,6 @@ Types: Grass • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 672
-- 1 HP
-- 0.9
-- 31.0
-- 70
-- 200
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 30
 - Sleep Talk
 - Snore
 - Swagger
-- 673
-- 2 HP
-- 1.7
-- 91.0
-- 186
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -345,15 +327,6 @@ Gogoatite
 - Sleep Talk
 - Snore
 - Swagger
-- 673M
-- 2 HP
-- 1.7
-- 91.0
-- 186
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

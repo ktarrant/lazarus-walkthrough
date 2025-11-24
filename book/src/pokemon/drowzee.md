@@ -128,15 +128,6 @@ Types: Psychic • Egg Groups: Human-Like
 - Swagger
 - Swift
 - Thunder Punch
-- 96
-- 1 Sp. Def
-- 1.0
-- 32.4
-- 66
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -266,15 +257,6 @@ Lv. 26
 - Swagger
 - Swift
 - Thunder Punch
-- 97
-- 2 Sp. Def
-- 1.6
-- 75.6
-- 169
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -126,15 +126,6 @@ Black Sludge
 - Snore
 - Swagger
 - Thunder Punch
-- 88
-- 1 HP
-- 0.9
-- 30.0
-- 65
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -268,15 +259,6 @@ Lv. 34
 - Swagger
 - Swift
 - Thunder Punch
-- 89
-- 1 HP, 1 Atk
-- 1.2
-- 30.0
-- 175
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -115,15 +115,6 @@ Types: Poison / Dark • Egg Groups: Field / Dragon
 - Sleep Talk
 - Snore
 - Swagger
-- 23
-- 1 Atk
-- 2.0
-- 6.9
-- 58
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -243,15 +234,6 @@ Lv. 22
 - Sleep Talk
 - Snore
 - Swagger
-- 24
-- 2 Atk
-- 3.5
-- 65.0
-- 157
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

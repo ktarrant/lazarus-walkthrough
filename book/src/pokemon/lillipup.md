@@ -104,15 +104,6 @@ Types: Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 506
-- 1 Atk
-- 0.4
-- 4.1
-- 55
-- 255
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -214,15 +205,6 @@ Lv. 16
 - Sleep Talk
 - Snore
 - Swagger
-- 507
-- 2 Atk
-- 0.9
-- 14.7
-- 130
-- 120
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -329,15 +311,6 @@ Lv. 32
 - Sleep Talk
 - Snore
 - Swagger
-- 508
-- 3 Atk
-- 1.2
-- 61.0
-- 225
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

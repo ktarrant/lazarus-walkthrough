@@ -137,15 +137,6 @@ Types: Fighting / Psychic • Egg Groups: Human-Like
 - Swagger
 - Swift
 - Thunder Punch
-- 307
-- 1 Spe
-- 0.6
-- 11.2
-- 56
-- 180
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -281,15 +272,6 @@ Lv. 33
 - Swagger
 - Swift
 - Thunder Punch
-- 308
-- 2 Spe
-- 1.3
-- 31.5
-- 144
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -424,15 +406,6 @@ Medichamite
 - Swagger
 - Swift
 - Thunder Punch
-- 308M
-- 2 Spe
-- 1.3
-- 31.5
-- 179
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

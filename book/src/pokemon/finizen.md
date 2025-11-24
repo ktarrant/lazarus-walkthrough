@@ -97,15 +97,6 @@ Types: Water • Egg Groups: Field / Water 2
 - Psych Up
 - Sleep Talk
 - Swift
-- 963
-- 1 Spe
-- 1.3
-- 60.2
-- 63
-- 200
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -207,15 +198,6 @@ Lv. 38
 - Psych Up
 - Sleep Talk
 - Swift
-- 964
-- 2 HP
-- 1.3
-- 60.2
-- 160
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>

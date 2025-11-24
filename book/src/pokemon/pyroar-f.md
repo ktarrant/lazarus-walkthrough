@@ -109,15 +109,6 @@ Types: Fire / Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 667
-- 1 Sp. Atk
-- 0.6
-- 13.5
-- 74
-- 220
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 31, Male
 - Snore
 - Swagger
 - Swift
-- 668
-- 2 Sp. Atk
-- 1.5
-- 81.5
-- 177
-- 65
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -353,15 +335,6 @@ Lv. 31, Female
 - Snore
 - Swagger
 - Swift
-- 668f
-- 2 Sp. Atk
-- 1.5
-- 81.5
-- 177
-- 65
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

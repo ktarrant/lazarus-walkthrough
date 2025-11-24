@@ -113,15 +113,6 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 155
-- 1 Spe
-- 0.5
-- 7.9
-- 62
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -238,15 +229,6 @@ Lv. 14
 - Snore
 - Swagger
 - Swift
-- 156
-- 1 Sp. Atk, 1 Spe
-- 0.9
-- 19.0
-- 142
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -380,15 +362,6 @@ Lv. 36
 - Swagger
 - Swift
 - Thunder Punch
-- 157
-- 3 Sp. Atk
-- 1.7
-- 79.5
-- 267
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -515,15 +488,6 @@ Dusk Stone
 - Sleep Talk
 - Swift
 - Thunder Punch
-- 157a
-- 3 Sp. Atk
-- 1.6
-- 69.8
-- 267
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

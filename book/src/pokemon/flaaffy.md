@@ -107,15 +107,6 @@ Types: Electric • Egg Groups: Monster / Field
 - Snore
 - Swagger
 - Swift
-- 179
-- 1 Sp. Atk
-- 0.6
-- 7.8
-- 56
-- 235
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -233,15 +224,6 @@ Lv. 15
 - Swagger
 - Swift
 - Thunder Punch
-- 180
-- 2 Sp. Atk
-- 0.8
-- 13.3
-- 128
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -366,15 +348,6 @@ Lv. 30
 - Swagger
 - Swift
 - Thunder Punch
-- 181
-- 3 Sp. Atk
-- 1.4
-- 61.5
-- 255
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -503,15 +476,6 @@ Ampharosite
 - Swagger
 - Swift
 - Thunder Punch
-- 181M
-- 3 Sp. Atk
-- 1.4
-- 61.5
-- 275
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

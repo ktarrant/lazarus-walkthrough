@@ -128,15 +128,6 @@ Black Sludge
 - Swagger
 - Swift
 - Thunder Punch
-- 88a
-- 1 HP
-- 0.7
-- 42.0
-- 65
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -268,15 +259,6 @@ Lv. 36
 - Swagger
 - Swift
 - Thunder Punch
-- 89a
-- 1 HP, 1 Atk
-- 1.0
-- 52.0
-- 175
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -119,15 +119,6 @@ Types: Grass • Egg Groups: Field
 - Swift
 - Swords Dance
 - Thunder Punch
-- 650
-- 1 Def
-- 0.4
-- 9.0
-- 63
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -244,15 +235,6 @@ Lv. 16
 - Swift
 - Swords Dance
 - Thunder Punch
-- 651
-- 2 Def
-- 0.7
-- 29.0
-- 142
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -382,15 +364,6 @@ Lv. 36
 - Swift
 - Swords Dance
 - Thunder Punch
-- 652
-- 3 Def
-- 1.6
-- 90.0
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -518,15 +491,6 @@ Chesnaughtite
 - Swift
 - Swords Dance
 - Thunder Punch
-- 652M
-- 3 Def
-- 1.6
-- 90.0
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

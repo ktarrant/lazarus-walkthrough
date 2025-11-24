@@ -111,15 +111,6 @@ Types: Ground • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 231
-- 1 HP
-- 0.5
-- 33.5
-- 66
-- 120
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -233,15 +224,6 @@ Lv. 25
 - Sleep Talk
 - Snore
 - Swagger
-- 232
-- 1 Atk, 1 Def
-- 1.1
-- 120.0
-- 175
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

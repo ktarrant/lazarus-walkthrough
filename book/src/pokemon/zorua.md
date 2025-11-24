@@ -107,15 +107,6 @@ Types: Dark • Egg Groups: Field
 - Swagger
 - Swift
 - Swords Dance
-- 570
-- 1 Sp. Atk
-- 0.7
-- 12.5
-- 66
-- 75
-- 25
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -235,15 +226,6 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
-- 571
-- 2 Sp. Atk
-- 1.6
-- 81.1
-- 179
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

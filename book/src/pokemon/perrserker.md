@@ -107,15 +107,6 @@ Types: Steel • Egg Groups: Field
 - Snore
 - Swagger
 - Swords Dance
-- 52g
-- 1 Atk
-- 0.4
-- 7.5
-- 58
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swords Dance
-- 863
-- 2 Atk
-- 0.8
-- 28.0
-- 154
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -86,15 +86,6 @@ Types: Grass • Egg Groups: Field / Grass
 - Mud-Slap
 - Sleep Talk
 - Swift
-- 906
-- 1 Spe
-- 0.4
-- 4.1
-- 62
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -182,15 +173,6 @@ Lv. 16
 - Sleep Talk
 - Swift
 - Thunder Punch
-- 907
-- 2 Spe
-- 0.9
-- 12.2
-- 144
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -296,15 +278,6 @@ Lv. 36
 - Sleep Talk
 - Swift
 - Thunder Punch
-- 908
-- 3 Spe
-- 1.5
-- 31.2
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

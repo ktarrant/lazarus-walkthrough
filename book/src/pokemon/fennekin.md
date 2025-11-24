@@ -110,15 +110,6 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 653
-- 1 Sp. Atk
-- 0.4
-- 9.4
-- 61
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -229,15 +220,6 @@ Lv. 16
 - Swagger
 - Swift
 - Thunder Punch
-- 654
-- 2 Sp. Atk
-- 1.0
-- 14.5
-- 143
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -361,15 +343,6 @@ Lv. 36
 - Swagger
 - Swift
 - Thunder Punch
-- 655
-- 3 Sp. Atk
-- 1.5
-- 39.0
-- 267
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -491,15 +464,6 @@ Delphoxite
 - Swagger
 - Swift
 - Thunder Punch
-- 655M
-- 3 Sp. Atk
-- 1.5
-- 39.0
-- 267
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

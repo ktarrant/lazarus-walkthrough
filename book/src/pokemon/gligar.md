@@ -127,15 +127,6 @@ Types: Ground / Flying • Egg Groups: Bug
 - Swagger
 - Swift
 - Swords Dance
-- 207
-- 1 Def
-- 1.1
-- 64.8
-- 86
-- 60
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -264,15 +255,6 @@ Razor Fang
 - Swagger
 - Swift
 - Swords Dance
-- 472
-- 2 Def
-- 2.0
-- 42.5
-- 179
-- 30
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

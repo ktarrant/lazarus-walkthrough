@@ -116,15 +116,6 @@ Deep Sea Scale
 - Sleep Talk
 - Snore
 - Swagger
-- 170
-- 1 HP
-- 0.5
-- 12.0
-- 66
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -249,15 +240,6 @@ Lv. 27
 - Sleep Talk
 - Snore
 - Swagger
-- 171
-- 2 HP
-- 1.2
-- 22.5
-- 161
-- 75
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

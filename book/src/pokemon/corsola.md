@@ -129,15 +129,6 @@ Luminous Moss
 - Sleep Talk
 - Snore
 - Swagger
-- 222
-- 1 Def, 1 Sp. Def
-- 0.6
-- 5.0
-- 144
-- 60
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>

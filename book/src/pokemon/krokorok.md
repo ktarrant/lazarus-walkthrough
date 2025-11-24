@@ -123,15 +123,6 @@ Black Glasses
 - Sleep Talk
 - Snore
 - Swagger
-- 551
-- 1 Atk
-- 0.7
-- 15.2
-- 58
-- 180
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -261,15 +252,6 @@ Lv. 29
 - Sleep Talk
 - Snore
 - Swagger
-- 552
-- 2 Atk
-- 1.0
-- 33.4
-- 123
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -400,15 +382,6 @@ Lv. 40
 - Sleep Talk
 - Snore
 - Swagger
-- 553
-- 3 Atk
-- 1.5
-- 96.3
-- 260
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

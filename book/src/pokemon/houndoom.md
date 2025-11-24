@@ -121,15 +121,6 @@ Types: Dark / Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 228
-- 1 Sp. Atk
-- 0.6
-- 10.8
-- 66
-- 120
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -257,15 +248,6 @@ Lv. 24
 - Snore
 - Swagger
 - Swift
-- 229
-- 2 Sp. Atk
-- 1.4
-- 35.0
-- 175
-- 45
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -387,15 +369,6 @@ Houndoominite
 - Snore
 - Swagger
 - Swift
-- 229M
-- 2 Sp. Atk
-- 1.9
-- 49.5
-- 210
-- 45
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>

@@ -86,15 +86,6 @@ Types: Electric • Egg Groups: Field
 - Endure
 - Sleep Talk
 - Swift
-- 921
-- 1 Spe
-- 0.3
-- 2.5
-- 48
-- 190
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -189,15 +180,6 @@ Lv. 20
 - Sleep Talk
 - Swift
 - Thunder Punch
-- 922
-- 2 Spe
-- 0.4
-- 6.5
-- 123
-- 80
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -302,15 +284,6 @@ Lv. after 1000 Steps as Follower
 - Sleep Talk
 - Swift
 - Thunder Punch
-- 923
-- 3 Atk
-- 0.9
-- 41.0
-- 245
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

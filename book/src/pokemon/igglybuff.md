@@ -113,15 +113,6 @@ Types: Normal / Fairy • Egg Groups: -
 - Snore
 - Swagger
 - Swift
-- 174
-- 1 HP
-- 0.3
-- 1.0
-- 42
-- 170
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -272,15 +263,6 @@ Lv. 12
 - Swagger
 - Swift
 - Thunder Punch
-- 39
-- 2 HP
-- 0.5
-- 5.5
-- 95
-- 170
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -431,15 +413,6 @@ Moon Stone
 - Swagger
 - Swift
 - Thunder Punch
-- 40
-- 3 HP
-- 1.0
-- 12.0
-- 218
-- 50
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>

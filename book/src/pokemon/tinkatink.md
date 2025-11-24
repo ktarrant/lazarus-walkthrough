@@ -102,15 +102,6 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Rock Slide
 - Sleep Talk
 - Swords Dance
-- 957
-- 1 Sp. Def
-- 0.4
-- 8.9
-- 59
-- 190
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -214,15 +205,6 @@ Lv. 22
 - Rock Slide
 - Sleep Talk
 - Swords Dance
-- 958
-- 2 Sp. Def
-- 0.7
-- 59.1
-- 133
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -323,15 +305,6 @@ Lv. 38
 - Rock Slide
 - Sleep Talk
 - Swords Dance
-- 959
-- 3 Sp. Def
-- 0.7
-- 112.8
-- 253
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -431,15 +404,6 @@ Tinkatite
 - Sleep Talk
 - Swords Dance
 - Thunder Wave
-- 959M
-- 3 Sp. Def
-- 0.7
-- 112.8
-- 253
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

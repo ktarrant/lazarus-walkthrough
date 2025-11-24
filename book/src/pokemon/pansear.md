@@ -111,15 +111,6 @@ Types: Fire / Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 513
-- 1 Spe
-- 0.6
-- 11.0
-- 63
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -233,15 +224,6 @@ Fire Stone
 - Sleep Talk
 - Snore
 - Swagger
-- 514
-- 2 Spe
-- 1.0
-- 28.0
-- 174
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

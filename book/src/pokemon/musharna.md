@@ -112,15 +112,6 @@ Types: Psychic • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 517
-- 1 HP
-- 0.6
-- 23.3
-- 58
-- 190
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -234,15 +225,6 @@ Moon Stone
 - Snore
 - Swagger
 - Swift
-- 518
-- 2 HP
-- 1.1
-- 60.5
-- 170
-- 75
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>

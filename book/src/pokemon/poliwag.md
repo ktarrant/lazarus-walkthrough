@@ -122,15 +122,6 @@ Types: Water • Egg Groups: Water 1
 - Snore
 - Swagger
 - Swift
-- 60
-- 1 Spe
-- 0.6
-- 12.4
-- 60
-- 255
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -260,15 +251,6 @@ Lv. 25
 - Snore
 - Swagger
 - Swift
-- 61
-- 2 Spe
-- 1.0
-- 20.0
-- 135
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -408,15 +390,6 @@ Water Stone
 - Snore
 - Swagger
 - Swift
-- 62
-- 3 Def
-- 1.3
-- 54.0
-- 230
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -548,15 +521,6 @@ King's Rock
 - Snore
 - Swagger
 - Swift
-- 186
-- 3 Sp. Def
-- 1.1
-- 33.9
-- 225
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

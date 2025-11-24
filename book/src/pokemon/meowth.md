@@ -116,15 +116,6 @@ Quick Claw
 - Snore
 - Swagger
 - Swift
-- 52
-- 1 Spe
-- 0.4
-- 4.2
-- 58
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swift
-- 53
-- 2 Spe
-- 1.0
-- 32.0
-- 154
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

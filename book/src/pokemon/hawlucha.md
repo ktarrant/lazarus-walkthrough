@@ -125,15 +125,6 @@ King`s Rock
 - Swift
 - Swords Dance
 - Thunder Punch
-- 701
-- 2 Atk
-- 0.8
-- 21.5
-- 175
-- 100
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -252,15 +243,6 @@ Hawluchite
 - Swift
 - Swords Dance
 - Thunder Punch
-- 701M
-- 2 Atk
-- 0.8
-- 21.5
-- 175
-- 100
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

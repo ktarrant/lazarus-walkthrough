@@ -121,15 +121,6 @@ Types: Bug / Fighting • Egg Groups: Bug
 - Snore
 - Swagger
 - Swords Dance
-- 214
-- 2 Atk
-- 1.5
-- 54.0
-- 175
-- 45
-- 25
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Heracronite
 - Snore
 - Swagger
 - Swords Dance
-- 214M
-- 2 Atk
-- 1.7
-- 62.5
-- 210
-- 45
-- 25
-- 50
-- Slow
 </div>
 </div>
 </details>

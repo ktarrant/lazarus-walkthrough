@@ -126,15 +126,6 @@ Blue Shard
 - Swagger
 - Swift
 - Swords Dance
-- 27a
-- 1 Def
-- 0.7
-- 40.0
-- 60
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -266,15 +257,6 @@ Ice Stone
 - Swagger
 - Swift
 - Swords Dance
-- 28a
-- 2 Def
-- 1.2
-- 55.0
-- 158
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

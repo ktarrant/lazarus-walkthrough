@@ -87,15 +87,6 @@ Types: Psychic • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swift
-- 77g
-- 1 Spe
-- 0.8
-- 24.0
-- 82
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -189,15 +180,6 @@ Lv. 30
 - Snore
 - Swift
 - Swords Dance
-- 78g
-- 2 Spe
-- 1.7
-- 80.0
-- 175
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

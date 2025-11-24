@@ -119,15 +119,6 @@ Types: Fighting • Egg Groups: Human-Like
 - Snore
 - Swagger
 - Thunder Punch
-- 532
-- 1 Atk
-- 0.6
-- 12.5
-- 61
-- 180
-- 20
-- 70
-- Medium Slow
 </div>
 </div>
 </details>
@@ -244,15 +235,6 @@ Lv. 25
 - Snore
 - Swagger
 - Thunder Punch
-- 533
-- 2 Atk
-- 1.2
-- 40.0
-- 142
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -370,15 +352,6 @@ Linking Cord
 - Snore
 - Swagger
 - Thunder Punch
-- 534
-- 3 Atk
-- 1.4
-- 87.0
-- 253
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

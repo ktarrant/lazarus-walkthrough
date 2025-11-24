@@ -116,15 +116,6 @@ Lagging Tail
 - Sleep Talk
 - Snore
 - Swagger
-- 878
-- 1 Atk
-- 1.2
-- 100.0
-- 66
-- 190
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -240,15 +231,6 @@ Lv. 34
 - Sleep Talk
 - Snore
 - Swagger
-- 879
-- 2 Atk
-- 3.0
-- 650.0
-- 175
-- 90
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -362,15 +344,6 @@ Copperajite
 - Sleep Talk
 - Snore
 - Swagger
-- 879M
-- 2 Atk
-- 23.0
-- 0.0
-- 175
-- 90
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

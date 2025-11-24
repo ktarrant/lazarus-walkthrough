@@ -123,15 +123,6 @@ Types: Ice / Water • Egg Groups: Water 1 / Field
 - Sleep Talk
 - Snore
 - Swagger
-- 363
-- 1 HP
-- 0.8
-- 39.5
-- 58
-- 255
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -256,15 +247,6 @@ Lv. 24
 - Sleep Talk
 - Snore
 - Swagger
-- 364
-- 2 HP
-- 1.1
-- 87.6
-- 144
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -389,15 +371,6 @@ Lv. 44
 - Snore
 - Swagger
 - Swords Dance
-- 365
-- 3 HP
-- 1.4
-- 150.6
-- 239
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

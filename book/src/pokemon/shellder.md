@@ -124,15 +124,6 @@ Pearl
 - Snore
 - Swagger
 - Swift
-- 90
-- 1 Def
-- 0.3
-- 4.0
-- 61
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -254,15 +245,6 @@ Water Stone
 - Snore
 - Swagger
 - Swift
-- 91
-- 2 Def
-- 1.5
-- 132.5
-- 184
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

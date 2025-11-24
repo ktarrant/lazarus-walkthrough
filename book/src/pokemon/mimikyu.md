@@ -102,15 +102,6 @@ Chesto Berry
 - Snore
 - Swagger
 - Swords Dance
-- 778
-- 2 Sp. Def
-- 0.2
-- 0.7
-- 167
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

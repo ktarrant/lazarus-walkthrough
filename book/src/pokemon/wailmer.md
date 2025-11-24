@@ -132,15 +132,6 @@ Types: Water • Egg Groups: Field / Water 2
 - Sleep Talk
 - Snore
 - Swagger
-- 320
-- 1 HP
-- 2.0
-- 130.0
-- 80
-- 125
-- 40
-- 50
-- Fluctuating
 </div>
 </div>
 </details>
@@ -255,15 +246,6 @@ Lv. 40
 - Sleep Talk
 - Snore
 - Swagger
-- 321
-- 2 HP
-- 14.5
-- 398.0
-- 175
-- 60
-- 40
-- 50
-- Fluctuating
 </div>
 </div>
 </details>

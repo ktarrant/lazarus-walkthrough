@@ -124,15 +124,6 @@ Types: Dark / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
-- 198
-- 1 Spe
-- 0.5
-- 2.1
-- 81
-- 30
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>
@@ -256,15 +247,6 @@ Dusk Stone
 - Snore
 - Swagger
 - Swift
-- 430
-- 2 Atk
-- 0.9
-- 27.3
-- 177
-- 30
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>

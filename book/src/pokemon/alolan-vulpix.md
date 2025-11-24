@@ -118,15 +118,6 @@ Snowball
 - Snore
 - Swagger
 - Swift
-- 37a
-- 1 Spe
-- 0.6
-- 9.9
-- 60
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -253,15 +244,6 @@ Ice Stone
 - Snore
 - Swagger
 - Swift
-- 38a
-- 2 Spe
-- 1.1
-- 19.9
-- 177
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

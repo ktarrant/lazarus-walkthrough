@@ -109,15 +109,6 @@ Honey
 - Snore
 - Swagger
 - Swift
-- 742
-- 1 Spe
-- 0.1
-- 0.2
-- 61
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -230,15 +221,6 @@ Lv. 25
 - Snore
 - Swagger
 - Swift
-- 743
-- 2 Spe
-- 0.2
-- 0.5
-- 162
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -342,15 +324,6 @@ Ribombite
 - Snore
 - Swagger
 - Swift
-- 743M
-- 2 Spe
-- 0.2
-- 0.5
-- 162
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

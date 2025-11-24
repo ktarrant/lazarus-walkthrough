@@ -113,15 +113,6 @@ Sun Stone
 - Swagger
 - Swift
 - Thunder Punch
-- 695
-- 1 Sp. Atk, 1 Spe
-- 1.0
-- 21.0
-- 168
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -228,15 +219,6 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster
 - Snore
 - Swagger
 - Swift
-- 694
-- 1 Spe
-- 0.5
-- 6.0
-- 58
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -346,15 +328,6 @@ Heliolite
 - Swagger
 - Swift
 - Thunder Punch
-- 695M
-- 1 Sp. Atk, 1 Spe
-- 1.0
-- 21.0
-- 168
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

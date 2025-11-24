@@ -111,15 +111,6 @@ Red Nectar
 - Swagger
 - Swift
 - Swords Dance
-- 741
-- 2 Sp. Atk
-- 0.6
-- 3.4
-- 167
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -223,15 +214,6 @@ Yellow Nectar
 - Swagger
 - Swift
 - Swords Dance
-- 741pp
-- 2 Sp. Atk
-- 0.6
-- 3.4
-- 167
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -336,15 +318,6 @@ Pink Nectar
 - Swagger
 - Swift
 - Swords Dance
-- 741pu
-- 2 Sp. Atk
-- 0.6
-- 3.4
-- 167
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -452,15 +425,6 @@ Purple Nectar
 - Swagger
 - Swift
 - Swords Dance
-- 741s
-- 2 Sp. Atk
-- 0.6
-- 3.4
-- 167
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

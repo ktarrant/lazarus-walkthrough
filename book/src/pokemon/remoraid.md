@@ -130,15 +130,6 @@ Types: Water • Egg Groups: Water 1 / Water 2
 - Snore
 - Swagger
 - Swift
-- 223
-- 1 Sp. Atk
-- 0.6
-- 12.0
-- 60
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -267,15 +258,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swift
-- 224
-- 1 Atk, 1 Sp. Atk
-- 0.9
-- 28.5
-- 168
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

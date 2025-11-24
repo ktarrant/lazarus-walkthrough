@@ -100,15 +100,6 @@ Oran Berry
 - Snore
 - Swagger
 - Swords Dance
-- 731
-- 1 Atk
-- 0.3
-- 1.2
-- 53
-- 255
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -212,15 +203,6 @@ Lv. 14
 - Swagger
 - Swift
 - Swords Dance
-- 732
-- 2 Atk
-- 0.6
-- 14.8
-- 124
-- 120
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -324,15 +306,6 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
-- 733
-- 3 Atk
-- 1.1
-- 26.0
-- 243
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -434,15 +407,6 @@ Toucannonite
 - Swagger
 - Swift
 - Swords Dance
-- 733M
-- 3 Atk
-- 1.1
-- 26.0
-- 243
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -70,15 +70,6 @@ Pecha Berry
 
 **Tutor Moves**
 - Snore
-- 265
-- 1 HP
-- 0.3
-- 3.6
-- 56
-- 255
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -133,17 +124,6 @@ Lv. 7
 
 **Egg Moves**
 - Incompatible
-
-**Tutor Moves**
-- 266
-- 2 Def
-- 0.6
-- 10.0
-- 72
-- 120
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -240,15 +220,6 @@ Lv. 10
 - Snore
 - Swagger
 - Swift
-- 267
-- 3 Sp. Atk
-- 1.0
-- 28.4
-- 178
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -303,17 +274,6 @@ Lv. 7
 
 **Egg Moves**
 - Incompatible
-
-**Tutor Moves**
-- 268
-- 2 Def
-- 0.7
-- 11.5
-- 72
-- 120
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -412,15 +372,6 @@ Lv. 10
 - Snore
 - Swagger
 - Swift
-- 269
-- 3 Sp. Def
-- 1.2
-- 31.6
-- 173
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

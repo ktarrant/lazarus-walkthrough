@@ -140,15 +140,6 @@ Poison Barb
 - Swagger
 - Swift
 - Swords Dance
-- 72
-- 1 Sp. Def
-- 0.9
-- 45.5
-- 67
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -278,15 +269,6 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
-- 73
-- 2 Sp. Def
-- 1.6
-- 55.0
-- 180
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

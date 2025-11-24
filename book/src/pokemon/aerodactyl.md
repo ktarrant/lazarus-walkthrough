@@ -123,15 +123,6 @@ Types: Rock / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
-- 142
-- 2 Spe
-- 1.8
-- 59.0
-- 180
-- 45
-- 35
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -252,15 +243,6 @@ Aerodactylite
 - Snore
 - Swagger
 - Swift
-- 142M
-- 2 Spe
-- 2.1
-- 79.0
-- 215
-- 45
-- 35
-- 50
-- Slow
 </div>
 </div>
 </details>

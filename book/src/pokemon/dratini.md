@@ -119,15 +119,6 @@ Dragon Scale
 - Snore
 - Swagger
 - Swift
-- 147
-- 1 Atk
-- 1.8
-- 3.3
-- 60
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Lv. 30
 - Snore
 - Swagger
 - Swift
-- 148
-- 2 Atk
-- 4.0
-- 16.5
-- 147
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -400,15 +382,6 @@ Lv. 55
 - Swagger
 - Swift
 - Thunder Punch
-- 149
-- 3 Atk
-- 2.2
-- 210.0
-- 300
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -553,15 +526,6 @@ Dragonite-ite
 - Swagger
 - Swift
 - Thunder Punch
-- 149M
-- 3 Atk
-- 2.2
-- 210.0
-- 300
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>

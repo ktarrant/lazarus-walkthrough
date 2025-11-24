@@ -102,15 +102,6 @@ Types: Rock • Egg Groups: Field
 - Snore
 - Swagger
 - Swords Dance
-- 744
-- 1 Atk
-- 0.5
-- 9.2
-- 56
-- 190
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -216,15 +207,6 @@ Lv. 25, Day
 - Swagger
 - Swift
 - Swords Dance
-- 745
-- 2 Atk
-- 0.8
-- 25.0
-- 170
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -339,15 +321,6 @@ Lv. 25, Night
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 745m
-- 2 Atk
-- 1.1
-- 25.0
-- 170
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -456,15 +429,6 @@ Lv. 25, Dusk (7-8pm)
 - Snore
 - Swagger
 - Swords Dance
-- 745d
-- 2 Atk
-- 0.8
-- 25.0
-- 170
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

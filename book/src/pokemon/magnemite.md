@@ -112,15 +112,6 @@ Metal Coat
 - Snore
 - Swagger
 - Swift
-- 81
-- 1 Sp. Atk
-- 0.3
-- 6.0
-- 65
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 30
 - Snore
 - Swagger
 - Swift
-- 82
-- 2 Sp. Atk
-- 1.0
-- 60.0
-- 163
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -354,15 +336,6 @@ Thunder Stone
 - Snore
 - Swagger
 - Swift
-- 462
-- 3 Sp. Atk
-- 1.2
-- 180.0
-- 268
-- 30
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -107,15 +107,6 @@ Types: Poison / Ground • Egg Groups: Water 1 / Field
 - Mud-Slap
 - Rock Slide
 - Sleep Talk
-- 194p
-- 1 HP
-- 0.4
-- 11.0
-- 42
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -224,15 +215,6 @@ Lv. 20
 - Mud-Slap
 - Rock Slide
 - Sleep Talk
-- 980
-- 2 HP
-- 1.8
-- 223.0
-- 151
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

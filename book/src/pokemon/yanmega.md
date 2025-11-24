@@ -115,15 +115,6 @@ Wide Lens
 - Swagger
 - Swift
 - Swords Dance
-- 193
-- 1 Spe
-- 1.2
-- 38.0
-- 78
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Lv. knows Ancient Power
 - Swagger
 - Swift
 - Swords Dance
-- 469
-- 2 Atk
-- 1.9
-- 51.5
-- 180
-- 30
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -117,15 +117,6 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - Snore
 - Swagger
 - Swift
-- 527
-- 1 Spe
-- 0.4
-- 2.1
-- 65
-- 190
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -242,15 +233,6 @@ Lv. 24
 - Snore
 - Swagger
 - Swift
-- 528
-- 2 Spe
-- 0.9
-- 10.5
-- 149
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

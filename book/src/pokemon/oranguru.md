@@ -97,15 +97,6 @@ Types: Normal / Psychic • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 765
-- 2 Sp. Def
-- 1.5
-- 76.0
-- 172
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

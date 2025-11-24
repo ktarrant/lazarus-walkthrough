@@ -123,15 +123,6 @@ Yellow Shard
 - Swagger
 - Swift
 - Swords Dance
-- 27
-- 1 Def
-- 0.6
-- 12.0
-- 60
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -253,15 +244,6 @@ Lv. 22
 - Swagger
 - Swift
 - Swords Dance
-- 28
-- 2 Def
-- 1.0
-- 29.5
-- 158
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

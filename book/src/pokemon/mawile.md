@@ -148,15 +148,6 @@ Iron Ball
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 303
-- 1 Atk, 1 Def
-- 0.6
-- 11.5
-- 133
-- 45
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -299,15 +290,6 @@ Mawilite
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 303M
-- 1 Atk, 1 Def
-- 1.0
-- 23.5
-- 168
-- 45
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>

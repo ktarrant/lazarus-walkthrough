@@ -105,15 +105,6 @@ Misty Seed
 - Snore
 - Swagger
 - Swift
-- 764
-- 2 Sp. Def
-- 0.1
-- 0.3
-- 170
-- 60
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>

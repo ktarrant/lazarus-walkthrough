@@ -112,15 +112,6 @@ Razor Fang
 - Snore
 - Swagger
 - Swords Dance
-- 779
-- 2 Atk
-- 0.9
-- 19.0
-- 166
-- 80
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

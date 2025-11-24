@@ -112,15 +112,6 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying
 - Snore
 - Swagger
 - Swift
-- 566
-- 1 Atk
-- 0.5
-- 9.5
-- 71
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -234,15 +225,6 @@ Lv. 33
 - Snore
 - Swagger
 - Swift
-- 567
-- 2 Atk
-- 1.4
-- 32.0
-- 177
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -355,12 +337,6 @@ Archeopsite
 - Snore
 - Swagger
 - Swift
-- 567M
-- 2 Atk
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

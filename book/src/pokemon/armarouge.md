@@ -81,15 +81,6 @@ Types: Fire • Egg Groups: Human-Like
 **Tutor Moves**
 - Endure
 - Sleep Talk
-- 935
-- 1 Sp. Atk
-- 0.6
-- 10.5
-- 51
-- 90
-- 35
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -193,15 +184,6 @@ Auspicious Armor
 - Endure
 - Psych Up
 - Sleep Talk
-- 936
-- 2 Sp. Atk
-- 1.5
-- 85.0
-- 263
-- 25
-- 35
-- 20
-- Slow
 </div>
 </div>
 </details>
@@ -309,15 +291,6 @@ Malicious Armor
 - Psych Up
 - Sleep Talk
 - Swords Dance
-- 937
-- 2 Atk
-- 1.6
-- 62.0
-- 263
-- 25
-- 35
-- 20
-- Slow
 </div>
 </div>
 </details>

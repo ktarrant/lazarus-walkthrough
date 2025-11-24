@@ -100,15 +100,6 @@ Types: Electric • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 522
-- 1 Spe
-- 0.8
-- 29.8
-- 59
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -212,15 +203,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swift
-- 523
-- 2 Spe
-- 1.6
-- 79.5
-- 174
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

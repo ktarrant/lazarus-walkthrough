@@ -86,15 +86,6 @@ Types: Fire • Egg Groups: Field
 - Endure
 - Mud-Slap
 - Sleep Talk
-- 909
-- 1 HP
-- 0.4
-- 9.8
-- 62
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -181,15 +172,6 @@ Lv. 16
 - Endure
 - Mud-Slap
 - Sleep Talk
-- 910
-- 2 Sp. Atk
-- 1.0
-- 30.7
-- 144
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -291,15 +273,6 @@ Lv. 36
 - Endure
 - Mud-Slap
 - Sleep Talk
-- 911
-- 3 Sp. Atk
-- 1.6
-- 326.5
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

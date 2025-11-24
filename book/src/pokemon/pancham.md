@@ -107,15 +107,6 @@ Mental Herb
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 674
-- 1 Atk
-- 0.6
-- 8.0
-- 70
-- 220
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

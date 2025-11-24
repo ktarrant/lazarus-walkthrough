@@ -79,15 +79,6 @@ Leftovers
 **Tutor Moves**
 - Defense Curl
 - Rollout
-- 840
-- 1 Def
-- 0.2
-- 0.5
-- 52
-- 255
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -189,15 +180,6 @@ Tart Apple
 - Rollout
 - Sleep Talk
 - Snore
-- 841
-- 2 Atk
-- 0.3
-- 1.0
-- 170
-- 45
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -301,15 +283,6 @@ Sweet Apple
 - Rollout
 - Sleep Talk
 - Snore
-- 842
-- 2 HP
-- 0.4
-- 13.0
-- 170
-- 45
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -407,15 +380,6 @@ Syrupy Apple
 - Endure
 - Rollout
 - Sleep Talk
-- 1011
-- 2 Def
-- 0.4
-- 4.4
-- 170
-- 45
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -510,15 +474,6 @@ Lv. 40
 - Double-Edge
 - Endure
 - Sleep Talk
-- 1019
-- 3 Sp. Atk
-- 1.8
-- 93.0
-- 270
-- 10
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>

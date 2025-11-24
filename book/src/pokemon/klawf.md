@@ -92,15 +92,6 @@ Types: Rock • Egg Groups: Water 3
 - Rock Slide
 - Sleep Talk
 - Swords Dance
-- 950
-- 2 Def
-- 1.3
-- 79.0
-- 158
-- 120
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

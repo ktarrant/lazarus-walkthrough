@@ -82,15 +82,6 @@ Types: Water • Egg Groups: Flying / Water 1
 - Psych Up
 - Sleep Talk
 - Swift
-- 912
-- 1 Atk
-- 0.5
-- 6.1
-- 62
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -175,15 +166,6 @@ Lv. 16
 - Psych Up
 - Sleep Talk
 - Swift
-- 913
-- 2 Atk
-- 1.2
-- 21.5
-- 144
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -286,15 +268,6 @@ Lv. 36
 - Sleep Talk
 - Swift
 - Swords Dance
-- 914
-- 3 Atk
-- 1.8
-- 61.9
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

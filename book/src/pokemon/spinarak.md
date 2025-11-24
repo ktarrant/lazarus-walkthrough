@@ -109,15 +109,6 @@ Types: Bug / Poison • Egg Groups: Bug
 - Sleep Talk
 - Snore
 - Swagger
-- 167
-- 1 Atk
-- 0.5
-- 8.5
-- 50
-- 255
-- 15
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -239,15 +230,6 @@ Lv. 22
 - Snore
 - Swagger
 - Swords Dance
-- 168
-- 2 Atk
-- 1.1
-- 33.5
-- 140
-- 90
-- 15
-- 50
-- Fast
 </div>
 </div>
 </details>

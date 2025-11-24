@@ -109,15 +109,6 @@ Types: Grass / Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 511
-- 1 Spe
-- 0.6
-- 10.5
-- 63
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -229,15 +220,6 @@ Leaf Stone
 - Sleep Talk
 - Snore
 - Swagger
-- 512
-- 2 Spe
-- 1.1
-- 30.5
-- 174
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

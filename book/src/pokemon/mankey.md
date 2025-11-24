@@ -130,15 +130,6 @@ Types: Fighting • Egg Groups: Field
 - Swagger
 - Swift
 - Thunder Punch
-- 56
-- 1 Atk
-- 0.5
-- 28.0
-- 61
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -274,15 +265,6 @@ Lv. 28
 - Swagger
 - Swift
 - Thunder Punch
-- 57
-- 2 Atk
-- 1.0
-- 32.0
-- 159
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -404,15 +386,6 @@ Lv. after using Rage Fist 20x
 - Swagger
 - Swift
 - Thunder Punch
-- 979
-- 3 Atk
-- 1.2
-- 56.0
-- 268
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

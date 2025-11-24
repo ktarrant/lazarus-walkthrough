@@ -110,15 +110,6 @@ Types: Water / Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 515
-- 1 Spe
-- 0.6
-- 13.5
-- 63
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Water Stone
 - Sleep Talk
 - Snore
 - Swagger
-- 516
-- 2 Spe
-- 1.0
-- 29.0
-- 174
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

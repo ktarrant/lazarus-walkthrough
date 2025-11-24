@@ -124,15 +124,6 @@ Types: Rock / Ground • Egg Groups: Mineral
 - Sleep Talk
 - Snore
 - Swagger
-- 95
-- 1 Def
-- 8.8
-- 210.0
-- 77
-- 45
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -263,15 +254,6 @@ Metal Coat
 - Sleep Talk
 - Snore
 - Swagger
-- 208
-- 2 Def
-- 9.2
-- 400.0
-- 179
-- 25
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -400,15 +382,6 @@ Steelixite
 - Sleep Talk
 - Snore
 - Swagger
-- 208M
-- 2 Def
-- 10.5
-- 740.0
-- 214
-- 25
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

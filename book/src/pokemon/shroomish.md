@@ -105,15 +105,6 @@ Tiny Mushroom
 - Swagger
 - Swift
 - Swords Dance
-- 285
-- 1 HP
-- 0.4
-- 4.5
-- 59
-- 255
-- 15
-- 50
-- Fluctuating
 </div>
 </div>
 </details>
@@ -250,15 +241,6 @@ Lv. 23
 - Swift
 - Swords Dance
 - Thunder Punch
-- 286
-- 2 Atk
-- 1.2
-- 39.2
-- 161
-- 90
-- 15
-- 50
-- Fluctuating
 </div>
 </div>
 </details>

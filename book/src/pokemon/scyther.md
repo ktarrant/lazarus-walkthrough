@@ -121,15 +121,6 @@ Types: Bug / Flying • Egg Groups: Bug
 - Swagger
 - Swift
 - Swords Dance
-- 123
-- 1 Atk
-- 1.5
-- 56.0
-- 100
-- 45
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -244,15 +235,6 @@ Metal Coat
 - Swagger
 - Swift
 - Swords Dance
-- 212
-- 2 Atk
-- 1.8
-- 118.0
-- 175
-- 25
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -365,15 +347,6 @@ Scizorite
 - Swagger
 - Swift
 - Swords Dance
-- 212M
-- 2 Atk
-- 2.0
-- 125.0
-- 210
-- 25
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -470,15 +443,6 @@ Black Augurite
 - Sleep Talk
 - Swift
 - Swords Dance
-- 900
-- 3 Atk
-- 1.8
-- 89.0
-- 175
-- 15
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

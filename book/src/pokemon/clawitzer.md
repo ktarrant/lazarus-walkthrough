@@ -106,15 +106,6 @@ Types: Water • Egg Groups: Water 3 / Water 1
 - Snore
 - Swagger
 - Swords Dance
-- 692
-- 1 Sp. Atk
-- 0.5
-- 8.3
-- 66
-- 225
-- 15
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -221,15 +212,6 @@ Lv. 37
 - Snore
 - Swagger
 - Swords Dance
-- 693
-- 2 Sp. Atk
-- 1.3
-- 35.3
-- 100
-- 55
-- 15
-- 50
-- Slow
 </div>
 </div>
 </details>

@@ -110,15 +110,6 @@ Red Shard
 - Snore
 - Swagger
 - Swords Dance
-- 557
-- 1 Def
-- 0.3
-- 14.5
-- 65
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -226,15 +217,6 @@ Lv. 30
 - Snore
 - Swagger
 - Swords Dance
-- 558
-- 2 Def
-- 1.4
-- 200.0
-- 170
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

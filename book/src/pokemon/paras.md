@@ -124,15 +124,6 @@ Tiny Mushroom
 - Snore
 - Swagger
 - Swords Dance
-- 46
-- 1 Atk
-- 0.3
-- 5.4
-- 57
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -257,15 +248,6 @@ Lv. 24
 - Snore
 - Swagger
 - Swords Dance
-- 47
-- 2 Atk, 1 Def
-- 1.0
-- 29.5
-- 142
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

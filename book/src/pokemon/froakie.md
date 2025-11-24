@@ -111,15 +111,6 @@ Types: Water • Egg Groups: Water 1
 - Snore
 - Swagger
 - Swift
-- 656
-- 1 Spe
-- 0.3
-- 7.0
-- 63
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 16
 - Swagger
 - Swift
 - Swords Dance
-- 657
-- 2 Spe
-- 0.6
-- 10.9
-- 142
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -367,15 +349,6 @@ Lv. 36
 - Swagger
 - Swift
 - Swords Dance
-- 658
-- 3 Spe
-- 1.5
-- 40.0
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -501,15 +474,6 @@ Greninjite
 - Swagger
 - Swift
 - Swords Dance
-- 658M
-- 3 Spe
-- 1.5
-- 40.0
-- 265
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

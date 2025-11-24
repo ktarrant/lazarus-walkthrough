@@ -107,15 +107,6 @@ Electric Seed
 - Snore
 - Swagger
 - Swift
-- 777
-- 2 Atk
-- 0.3
-- 3.3
-- 152
-- 180
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

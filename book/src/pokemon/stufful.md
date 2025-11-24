@@ -103,15 +103,6 @@ Types: Normal / Fighting • Egg Groups: Field
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 759
-- 1 Atk
-- 0.5
-- 6.8
-- 68
-- 140
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -221,15 +212,6 @@ Lv. 27
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 760
-- 2 Atk
-- 2.1
-- 135.0
-- 175
-- 70
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

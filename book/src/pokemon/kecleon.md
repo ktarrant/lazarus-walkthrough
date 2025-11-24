@@ -133,15 +133,6 @@ Types: Normal • Egg Groups: Field
 - Swagger
 - Swift
 - Thunder Punch
-- 352
-- 1 Sp. Def
-- 1.0
-- 22.0
-- 154
-- 200
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

@@ -120,15 +120,6 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 - Snore
 - Swagger
 - Swords Dance
-- 357
-- 2 HP
-- 2.0
-- 100.0
-- 161
-- 200
-- 25
-- 50
-- Slow
 </div>
 </div>
 </details>

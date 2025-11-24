@@ -116,15 +116,6 @@ Types: Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 234
-- 1 Atk
-- 1.4
-- 71.2
-- 163
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -230,15 +221,6 @@ Lv. after using Psyshield Bash 20x
 - Psych Up
 - Sleep Talk
 - Swift
-- 899
-- 1 Atk, 1 Sp. Atk
-- 1.8
-- 95.1
-- 263
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -342,15 +324,6 @@ Wyrdeerite
 - Psych Up
 - Sleep Talk
 - Swift
-- 899M
-- 1 Atk, 1 Sp. Atk
-- 1.8
-- 95.1
-- 263
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

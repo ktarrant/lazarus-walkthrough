@@ -113,15 +113,6 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - Rollout
 - Sleep Talk
 - Snore
-- 222g
-- 1 Sp. Def
-- 0.6
-- 0.5
-- 144
-- 60
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -234,15 +225,6 @@ Lv. 34
 - Rollout
 - Sleep Talk
 - Snore
-- 864
-- 2 Sp. Atk
-- 1.0
-- 0.4
-- 179
-- 30
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>

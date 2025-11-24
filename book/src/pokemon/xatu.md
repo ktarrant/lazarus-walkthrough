@@ -127,15 +127,6 @@ Green Shard
 - Snore
 - Swagger
 - Swift
-- 177
-- 1 Sp. Atk
-- 0.2
-- 2.0
-- 64
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -262,15 +253,6 @@ Lv. 25
 - Snore
 - Swagger
 - Swift
-- 178
-- 1 Sp. Atk, 1 Spe
-- 1.5
-- 15.0
-- 165
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

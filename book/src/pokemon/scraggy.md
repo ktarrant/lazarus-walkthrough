@@ -130,15 +130,6 @@ Shed Shell
 - Snore
 - Swagger
 - Thunder Punch
-- 559
-- 1 Atk
-- 0.6
-- 11.8
-- 70
-- 180
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -272,15 +263,6 @@ Lv. 30
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 560
-- 1 Def, 1 Sp. Def
-- 1.1
-- 30.0
-- 171
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -409,15 +391,6 @@ Scraftite
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 560M
-- 1 Def, 1 Sp. Def
-- 1.1
-- 30.0
-- 171
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

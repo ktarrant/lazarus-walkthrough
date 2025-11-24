@@ -101,15 +101,6 @@ Types: Electric • Egg Groups: Fairy / Field
 - Swagger
 - Swift
 - Thunder Punch
-- 417
-- 1 Spe
-- 0.4
-- 3.9
-- 142
-- 200
-- 10
-- 100
-- Medium Fast
 </div>
 </div>
 </details>

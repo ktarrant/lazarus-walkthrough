@@ -104,15 +104,6 @@ Types: Rock / Bug • Egg Groups: Water 3
 - Snore
 - Swagger
 - Swords Dance
-- 347
-- 1 Atk
-- 0.7
-- 12.5
-- 71
-- 45
-- 30
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -218,15 +209,6 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
-- 348
-- 2 Atk
-- 1.5
-- 68.2
-- 173
-- 45
-- 30
-- 50
-- Erratic
 </div>
 </div>
 </details>

@@ -117,15 +117,6 @@ Types: Flying / Fairy • Egg Groups: Flying / Dragon
 - Snore
 - Swagger
 - Swift
-- 333
-- 1 Sp. Def
-- 0.4
-- 1.2
-- 62
-- 255
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -257,15 +248,6 @@ Lv. 35
 - Snore
 - Swagger
 - Swift
-- 334
-- 2 Sp. Def
-- 1.1
-- 20.6
-- 172
-- 45
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -390,15 +372,6 @@ Altarianite
 - Snore
 - Swagger
 - Swift
-- 334M
-- 2 Sp. Def
-- 1.5
-- 20.6
-- 207
-- 45
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>

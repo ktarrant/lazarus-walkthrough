@@ -126,15 +126,6 @@ Spell Tag
 - Sleep Talk
 - Snore
 - Swagger
-- 353
-- 1 Atk
-- 0.6
-- 2.3
-- 59
-- 225
-- 25
-- 35
-- Fast
 </div>
 </div>
 </details>
@@ -264,15 +255,6 @@ Lv. 28
 - Snore
 - Swagger
 - Swords Dance
-- 354
-- 2 Atk
-- 1.1
-- 12.5
-- 159
-- 45
-- 25
-- 35
-- Fast
 </div>
 </div>
 </details>
@@ -395,15 +377,6 @@ Banettite
 - Snore
 - Swagger
 - Swords Dance
-- 354M
-- 2 Atk
-- 1.2
-- 13.0
-- 194
-- 45
-- 25
-- 35
-- Fast
 </div>
 </div>
 </details>

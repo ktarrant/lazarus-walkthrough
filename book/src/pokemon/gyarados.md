@@ -83,15 +83,6 @@ Types: Water • Egg Groups: Water 2 / Dragon
 
 **Tutor Moves**
 - Incompatible
-- 129
-- 1 Spe
-- 0.9
-- 10.0
-- 40
-- 255
-- 5
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -201,15 +192,6 @@ Lv. 20
 - Sleep Talk
 - Snore
 - Swagger
-- 130
-- 2 Atk
-- 6.5
-- 235.0
-- 189
-- 45
-- 5
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -322,15 +304,6 @@ Gyaradosite
 - Sleep Talk
 - Snore
 - Swagger
-- 130M
-- 2 Atk
-- 6.5
-- 305.0
-- 224
-- 45
-- 5
-- 50
-- Slow
 </div>
 </div>
 </details>

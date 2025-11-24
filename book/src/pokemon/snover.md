@@ -118,15 +118,6 @@ Never-Melt Ice
 - Snore
 - Swagger
 - Swords Dance
-- 459
-- 1 Atk
-- 1.0
-- 50.5
-- 67
-- 120
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -253,15 +244,6 @@ Lv. 36
 - Snore
 - Swagger
 - Swords Dance
-- 460
-- 1 Atk, 1 Sp. Atk
-- 2.2
-- 135.5
-- 173
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -383,15 +365,6 @@ Abomasite
 - Snore
 - Swagger
 - Swords Dance
-- 460M
-- 1 Atk, 1 Sp. Atk
-- 2.7
-- 185.0
-- 208
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

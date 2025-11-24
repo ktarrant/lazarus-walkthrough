@@ -113,15 +113,6 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 - Sleep Talk
 - Snore
 - Swagger
-- 690
-- 1 Sp. Def
-- 0.5
-- 7.3
-- 64
-- 225
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 37
 - Sleep Talk
 - Snore
 - Swagger
-- 691
-- 2 Sp. Def
-- 1.8
-- 81.5
-- 173
-- 55
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

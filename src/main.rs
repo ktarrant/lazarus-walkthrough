@@ -174,31 +174,19 @@ fn render_all_pokemon_cards(
     out_dir: PathBuf,
 ) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
-    let species = encounters::list_species(&manifest)?;
     let encounter_map = encounters::species_encounters_map(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
-    let total = species.len();
-    for (idx, name) in species.into_iter().enumerate() {
-        println!("Generating card {}/{}: {}", idx + 1, total, name);
-        let slug = encounters::slugify(&name);
-        if let Some((entry, _used_slug)) = find_entry(&dex, &name) {
-            let path = out_dir.join(format!("{slug}.md"));
-            let chain = dex.evolution_chain(&entry.slug);
-            std::fs::write(
-                path,
-                pokemon_card::render_deck(&chain, &entry.slug, &encounter_map),
-            )?;
-        } else {
-            eprintln!("Failed to generate card for {}; writing placeholder", name);
-            let path = out_dir.join(format!("{slug}.md"));
-            std::fs::write(
-                path,
-                format!(
-                    "## {}\n\n_Data for this form is not available in the local cache._\n",
-                    name
-                ),
-            )?;
-        }
+    let entries = dex.all_entries();
+    let total = entries.len();
+    for (idx, entry) in entries.into_iter().enumerate() {
+        println!("Generating card {}/{}: {}", idx + 1, total, entry.name);
+        let slug = entry.slug.clone();
+        let path = out_dir.join(format!("{slug}.md"));
+        let chain = dex.evolution_chain(&entry.slug);
+        std::fs::write(
+            path,
+            pokemon_card::render_deck(&chain, &entry.slug, &encounter_map),
+        )?;
     }
     println!("Finished generating {} Pokémon cards", total);
     Ok(())

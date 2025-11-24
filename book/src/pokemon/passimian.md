@@ -102,15 +102,6 @@ Types: Normal / Fighting • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 766
-- 2 Atk
-- 2.0
-- 82.8
-- 172
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

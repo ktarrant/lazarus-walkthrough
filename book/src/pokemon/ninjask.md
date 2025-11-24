@@ -99,15 +99,6 @@ Soft Sand
 - Sleep Talk
 - Snore
 - Swagger
-- 290
-- 1 Def
-- 0.5
-- 5.5
-- 53
-- 255
-- 15
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -224,15 +215,6 @@ Lv. 20
 - Swagger
 - Swift
 - Swords Dance
-- 291
-- 2 Spe
-- 0.8
-- 12.0
-- 160
-- 120
-- 15
-- 50
-- Erratic
 </div>
 </div>
 </details>

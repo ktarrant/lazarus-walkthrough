@@ -117,15 +117,6 @@ Types: Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 133
-- 1 Sp. Def
-- 0.3
-- 6.5
-- 65
-- 45
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -241,15 +232,6 @@ Water Stone
 - Snore
 - Swagger
 - Swift
-- 134
-- 2 HP
-- 1.0
-- 29.0
-- 184
-- 45
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -361,15 +343,6 @@ Thunder Stone
 - Snore
 - Swagger
 - Swift
-- 135
-- 2 Spe
-- 0.8
-- 24.5
-- 184
-- 45
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -482,15 +455,6 @@ Fire Stone
 - Snore
 - Swagger
 - Swift
-- 136
-- 2 Atk
-- 0.9
-- 25.0
-- 184
-- 45
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -606,15 +570,6 @@ Sun Stone
 - Snore
 - Swagger
 - Swift
-- 196
-- 2 Sp. Atk
-- 0.9
-- 26.5
-- 184
-- 45
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -733,15 +688,6 @@ Moon Stone
 - Snore
 - Swagger
 - Swift
-- 197
-- 2 Sp. Def
-- 1.0
-- 27.0
-- 184
-- 45
-- 35
-- 35
-- Medium Fast
 </div>
 </div>
 </details>
@@ -856,15 +802,6 @@ Leaf Stone
 - Swagger
 - Swift
 - Swords Dance
-- 470
-- 2 Def
-- 1.0
-- 25.5
-- 184
-- 45
-- 35
-- 35
-- Medium Fast
 </div>
 </div>
 </details>
@@ -974,15 +911,6 @@ Ice Stone
 - Snore
 - Swagger
 - Swift
-- 471
-- 2 Sp. Atk
-- 0.8
-- 25.9
-- 184
-- 45
-- 35
-- 35
-- Medium Fast
 </div>
 </div>
 </details>
@@ -1097,15 +1025,6 @@ Shiny Stone
 - Snore
 - Swagger
 - Swift
-- 700
-- 2 Sp. Def
-- 1.0
-- 23.5
-- 184
-- 45
-- 35
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

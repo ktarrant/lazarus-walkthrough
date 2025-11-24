@@ -115,15 +115,6 @@ Types: Dark / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
-- 629
-- 1 Def
-- 0.5
-- 9.0
-- 74
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -239,15 +230,6 @@ Lv. 34
 - Snore
 - Swagger
 - Swift
-- 630
-- 2 Sp. Atk
-- 1.2
-- 39.5
-- 179
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -361,15 +343,6 @@ Mandibite
 - Snore
 - Swagger
 - Swift
-- 630M
-- 2 Atk
-- 1.2
-- 39.5
-- 179
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

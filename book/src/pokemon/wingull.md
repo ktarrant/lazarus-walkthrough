@@ -116,15 +116,6 @@ Pretty Feather
 - Snore
 - Swagger
 - Swift
-- 278
-- 1 Spe
-- 0.6
-- 9.5
-- 54
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -249,15 +240,6 @@ Lv. 25
 - Snore
 - Swagger
 - Swift
-- 279
-- 2 Def
-- 1.2
-- 28.0
-- 154
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

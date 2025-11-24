@@ -91,15 +91,6 @@ Types: Electric / Flying • Egg Groups: Water 1 / Flying
 - Endure
 - Sleep Talk
 - Swift
-- 940
-- 1 Spe
-- 0.4
-- 3.6
-- 56
-- 180
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -193,15 +184,6 @@ Lv. 25
 - Endure
 - Sleep Talk
 - Swift
-- 941
-- 2 Spe
-- 1.4
-- 38.6
-- 172
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

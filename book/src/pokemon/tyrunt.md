@@ -106,15 +106,6 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - Sleep Talk
 - Snore
 - Swagger
-- 696
-- 1 Atk
-- 0.8
-- 26.0
-- 72
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -224,15 +215,6 @@ Lv. 34, Day
 - Sleep Talk
 - Snore
 - Swagger
-- 697
-- 2 Atk
-- 2.5
-- 270.0
-- 182
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

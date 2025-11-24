@@ -113,15 +113,6 @@ Types: Electric • Egg Groups: -
 - Swagger
 - Swift
 - Thunder Punch
-- 172
-- 1 Spe
-- 0.3
-- 2.0
-- 41
-- 190
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -252,15 +243,6 @@ Lv. 15
 - Swagger
 - Swift
 - Thunder Punch
-- 25
-- 2 Spe
-- 0.4
-- 6.0
-- 112
-- 190
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -387,15 +369,6 @@ Thunder Stone
 - Swagger
 - Swift
 - Thunder Punch
-- 26
-- 3 Spe
-- 0.8
-- 30.0
-- 243
-- 75
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -517,15 +490,6 @@ Raichuite X
 - Swagger
 - Swift
 - Thunder Punch
-- 26MX
-- 3 Spe
-- 0.8
-- 30.0
-- 243
-- 75
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -647,15 +611,6 @@ Raichuite Y
 - Swagger
 - Swift
 - Thunder Punch
-- 26MY
-- 3 Spe
-- 0.8
-- 30.0
-- 243
-- 75
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -786,15 +741,6 @@ Shiny Stone
 - Swagger
 - Swift
 - Thunder Punch
-- 26a
-- 3 Spe
-- 0.7
-- 21.0
-- 243
-- 75
-- 10
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

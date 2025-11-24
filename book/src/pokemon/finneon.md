@@ -139,15 +139,6 @@ Heart Scale
 - Snore
 - Swagger
 - Swift
-- 456
-- 1 Spe
-- 0.4
-- 7.0
-- 66
-- 190
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -267,15 +258,6 @@ Lv. 26
 - Snore
 - Swagger
 - Swift
-- 457
-- 2 Spe
-- 1.2
-- 24.0
-- 161
-- 75
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>

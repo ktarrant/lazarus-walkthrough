@@ -100,15 +100,6 @@ Lv. 20, empty party slot, PokéBall
 - Sleep Talk
 - Snore
 - Swagger
-- 292
-- 2 HP
-- 0.8
-- 1.2
-- 83
-- 45
-- 15
-- 50
-- Erratic
 </div>
 </div>
 </details>

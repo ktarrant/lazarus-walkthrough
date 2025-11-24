@@ -108,15 +108,6 @@ Aspear Berry
 - Swagger
 - Swift
 - Thunder Punch
-- 739
-- 1 Atk
-- 0.6
-- 7.0
-- 68
-- 225
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -235,15 +226,6 @@ Ice Stone
 - Swagger
 - Swift
 - Thunder Punch
-- 740
-- 2 Atk
-- 1.7
-- 180.0
-- 167
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -111,15 +111,6 @@ Pearl
 - Sleep Talk
 - Snore
 - Swagger
-- 366
-- 1 Def
-- 0.4
-- 52.5
-- 69
-- 255
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Deep Sea Tooth
 - Snore
 - Swagger
 - Swift
-- 367
-- 1 Atk, 1 Def
-- 1.7
-- 27.0
-- 170
-- 60
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -359,15 +341,6 @@ Deep Sea Scale
 - Snore
 - Swagger
 - Swift
-- 368
-- 2 Sp. Atk
-- 1.8
-- 22.6
-- 170
-- 60
-- 20
-- 50
-- Erratic
 </div>
 </div>
 </details>

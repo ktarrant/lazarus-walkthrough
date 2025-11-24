@@ -89,15 +89,6 @@ Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 - Sleep Talk
 - Snore
 - Swift
-- 885
-- 1 Spe
-- 0.5
-- 2.0
-- 54
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -213,15 +204,6 @@ Lv. 28
 - Sleep Talk
 - Snore
 - Swift
-- 886
-- 2 Spe
-- 1.4
-- 11.0
-- 144
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -340,15 +322,6 @@ Lv. 60
 - Sleep Talk
 - Snore
 - Swift
-- 887
-- 3 Spe
-- 3.0
-- 50.0
-- 300
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>

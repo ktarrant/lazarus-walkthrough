@@ -91,15 +91,6 @@ Types: Fire / Bug • Egg Groups: Bug
 - Rollout
 - Sleep Talk
 - Snore
-- 850
-- 1 Atk
-- 0.7
-- 1.0
-- 61
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -193,15 +184,6 @@ Lv. 28
 - Rollout
 - Sleep Talk
 - Snore
-- 851
-- 2 Atk
-- 3.0
-- 120.0
-- 184
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -293,15 +275,6 @@ Centiskite
 - Rollout
 - Sleep Talk
 - Snore
-- 851M
-- 2 Atk
-- ?
-- ?
-- 184
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

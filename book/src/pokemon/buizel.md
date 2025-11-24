@@ -121,15 +121,6 @@ Types: Water • Egg Groups: Field / Water 1
 - Snore
 - Swagger
 - Swift
-- 418
-- 1 Spe
-- 0.7
-- 29.5
-- 66
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -253,15 +244,6 @@ Lv. 26
 - Snore
 - Swagger
 - Swift
-- 419
-- 2 Spe
-- 1.1
-- 33.5
-- 173
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

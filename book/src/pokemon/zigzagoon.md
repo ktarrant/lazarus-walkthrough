@@ -112,15 +112,6 @@ Potion
 - Snore
 - Swagger
 - Swift
-- 263
-- 1 Spe
-- 0.4
-- 17.5
-- 56
-- 255
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -241,15 +232,6 @@ Lv. 20
 - Snore
 - Swagger
 - Swift
-- 264
-- 2 Spe
-- 0.5
-- 32.5
-- 147
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

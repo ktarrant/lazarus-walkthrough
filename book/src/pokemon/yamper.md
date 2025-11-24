@@ -90,15 +90,6 @@ Types: Electric • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swift
-- 835
-- 1 HP
-- 0.3
-- 13.5
-- 54
-- 255
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -193,15 +184,6 @@ Lv. 25
 - Sleep Talk
 - Snore
 - Swift
-- 836
-- 2 Spe
-- 1.0
-- 34.0
-- 172
-- 45
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>

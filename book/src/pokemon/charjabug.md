@@ -88,15 +88,6 @@ Types: Bug • Egg Groups: Bug
 - Sleep Talk
 - Snore
 - Swagger
-- 736
-- 1 Atk
-- 0.4
-- 4.4
-- 60
-- 255
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -194,15 +185,6 @@ Lv. 20
 - Sleep Talk
 - Snore
 - Swagger
-- 737
-- 2 Def
-- 0.5
-- 10.5
-- 140
-- 120
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -299,15 +281,6 @@ Thunder Stone
 - Snore
 - Swagger
 - Swift
-- 738
-- 3 Sp. Atk
-- 1.5
-- 45.0
-- 250
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

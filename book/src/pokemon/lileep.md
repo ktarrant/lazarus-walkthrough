@@ -106,15 +106,6 @@ Big Root
 - Snore
 - Swagger
 - Swords Dance
-- 345
-- 1 Sp. Def
-- 1.0
-- 23.8
-- 71
-- 45
-- 30
-- 50
-- Erratic
 </div>
 </div>
 </details>
@@ -225,15 +216,6 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
-- 346
-- 2 Sp. Def
-- 1.5
-- 60.4
-- 173
-- 45
-- 30
-- 50
-- Erratic
 </div>
 </div>
 </details>

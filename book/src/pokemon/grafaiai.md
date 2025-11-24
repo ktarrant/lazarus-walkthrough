@@ -99,15 +99,6 @@ Types: Poison / Normal • Egg Groups: Field
 - Sleep Talk
 - Swagger
 - Swords Dance
-- 944
-- 1 Spe
-- 0.2
-- 0.7
-- 58
-- 190
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -210,15 +201,6 @@ Lv. 28
 - Sleep Talk
 - Swagger
 - Swords Dance
-- 945
-- 2 Spe
-- 0.7
-- 27.2
-- 170
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

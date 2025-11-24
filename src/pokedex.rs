@@ -84,6 +84,12 @@ impl LazarusPokedex {
         self.entries.get(slug)
     }
 
+    pub fn all_entries(&self) -> Vec<&PokemonEntry> {
+        let mut list: Vec<&PokemonEntry> = self.entries.values().collect();
+        list.sort_by(|a, b| a.slug.cmp(&b.slug));
+        list
+    }
+
     pub fn evolution_chain(&self, slug: &str) -> Vec<&PokemonEntry> {
         let Some(root) = self.find_chain_root(slug) else {
             return Vec::new();

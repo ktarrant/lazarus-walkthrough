@@ -110,15 +110,6 @@ Types: Grass • Egg Groups: Monster / Grass
 - Snore
 - Swagger
 - Swords Dance
-- 152
-- 1 Sp. Def
-- 0.9
-- 6.4
-- 64
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -235,15 +226,6 @@ Lv. 16
 - Snore
 - Swagger
 - Swords Dance
-- 153
-- 1 Def, 1 Sp. Def
-- 1.2
-- 15.8
-- 142
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -368,15 +350,6 @@ Lv. 32
 - Snore
 - Swagger
 - Swords Dance
-- 154
-- 1 Def, 2 Sp. Def
-- 1.8
-- 100.5
-- 236
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

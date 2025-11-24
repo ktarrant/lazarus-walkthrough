@@ -119,15 +119,6 @@ Light Clay
 - Sleep Talk
 - Snore
 - Swagger
-- 343
-- 1 Sp. Def
-- 0.5
-- 21.5
-- 60
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -251,15 +242,6 @@ Lv. 36
 - Sleep Talk
 - Snore
 - Swagger
-- 344
-- 2 Sp. Def
-- 1.5
-- 108.0
-- 175
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

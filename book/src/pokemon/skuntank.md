@@ -117,15 +117,6 @@ Types: Poison / Dark • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 434
-- 1 Spe
-- 0.4
-- 19.2
-- 66
-- 225
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Lv. 34
 - Snore
 - Swagger
 - Swift
-- 435
-- 2 HP
-- 1.0
-- 38.0
-- 168
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -93,15 +93,6 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 - Sleep Talk
 - Snore
 - Swagger
-- 859
-- 1 Sp. Atk
-- 0.4
-- 5.5
-- 53
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -198,15 +189,6 @@ Lv. 24
 - Sleep Talk
 - Snore
 - Swagger
-- 860
-- 2 Sp. Atk
-- 0.8
-- 12.5
-- 130
-- 120
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -311,15 +293,6 @@ Lv. 42
 - Snore
 - Swagger
 - Thunder Punch
-- 861
-- 3 Atk
-- 1.5
-- 61.0
-- 255
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -419,15 +392,6 @@ Grimmsnarlite
 - Snore
 - Swagger
 - Thunder Punch
-- 861M
-- 3 Atk
-- !1.5
-- 0.0
-- 255
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

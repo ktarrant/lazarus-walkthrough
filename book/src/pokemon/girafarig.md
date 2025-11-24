@@ -121,15 +121,6 @@ Types: Normal / Psychic • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 203
-- 2 Sp. Atk
-- 1.5
-- 41.5
-- 159
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -243,15 +234,6 @@ Lv. knows Twin Beam
 - Psych Up
 - Sleep Talk
 - Swift
-- 981
-- 3 HP
-- 3.2
-- 160.0
-- 260
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

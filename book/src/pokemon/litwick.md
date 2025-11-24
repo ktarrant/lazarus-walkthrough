@@ -115,15 +115,6 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - Sleep Talk
 - Snore
 - Swagger
-- 607
-- 1 Sp. Atk
-- 0.3
-- 3.1
-- 55
-- 190
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -241,15 +232,6 @@ Lv. 26
 - Sleep Talk
 - Snore
 - Swagger
-- 608
-- 2 Sp. Atk
-- 0.6
-- 13.0
-- 130
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -363,15 +345,6 @@ Dusk Stone
 - Sleep Talk
 - Snore
 - Swagger
-- 609
-- 3 Sp. Atk
-- 1.0
-- 34.3
-- 260
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

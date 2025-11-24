@@ -125,15 +125,6 @@ Types: Water • Egg Groups: Monster / Water 1
 - Snore
 - Swagger
 - Swords Dance
-- 158
-- 1 Atk
-- 0.6
-- 9.5
-- 63
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -261,15 +252,6 @@ Lv. 18
 - Snore
 - Swagger
 - Swords Dance
-- 159
-- 1 Atk, 1 Def
-- 1.1
-- 25.0
-- 142
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -408,15 +390,6 @@ Lv. 30
 - Snore
 - Swagger
 - Swords Dance
-- 160
-- 2 Atk, 1 Def
-- 2.3
-- 88.8
-- 239
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

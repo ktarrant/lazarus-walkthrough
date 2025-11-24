@@ -102,15 +102,6 @@ Metronome
 - Snore
 - Swagger
 - Swift
-- 441
-- 1 Atk
-- 0.5
-- 1.9
-- 144
-- 30
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>

@@ -103,15 +103,6 @@ Light Clay
 - Sleep Talk
 - Snore
 - Swagger
-- 749
-- 1 Atk
-- 1.0
-- 110.0
-- 77
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -210,15 +201,6 @@ Lv. 30
 - Sleep Talk
 - Snore
 - Swagger
-- 750
-- 2 Atk
-- 2.5
-- 920.0
-- 175
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

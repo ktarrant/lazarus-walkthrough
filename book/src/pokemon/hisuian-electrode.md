@@ -87,15 +87,6 @@ Types: Electric / Grass • Egg Groups: Mineral
 - Rollout
 - Sleep Talk
 - Swift
-- 100h
-- 1 Spe
-- 0.5
-- 13.0
-- 66
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -188,15 +179,6 @@ Leaf Stone
 - Rollout
 - Sleep Talk
 - Swift
-- 101h
-- 2 Spe
-- 1.2
-- 71.0
-- 172
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

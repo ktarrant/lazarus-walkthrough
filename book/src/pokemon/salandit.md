@@ -109,15 +109,6 @@ Smoke Ball
 - Snore
 - Swagger
 - Swift
-- 757
-- 1 Spe
-- 0.6
-- 4.8
-- 64
-- 120
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -231,15 +222,6 @@ Lv. 33, Female
 - Snore
 - Swagger
 - Swift
-- 758
-- 2 Spe
-- 1.2
-- 22.2
-- 168
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

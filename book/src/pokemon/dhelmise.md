@@ -96,15 +96,6 @@ Types: Ghost / Grass • Egg Groups: Mineral
 - Snore
 - Swagger
 - Swords Dance
-- 781
-- 2 Atk
-- 3.9
-- 210.0
-- 181
-- 25
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

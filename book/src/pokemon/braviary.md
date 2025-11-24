@@ -100,15 +100,6 @@ Types: Normal / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
-- 627
-- 1 Atk
-- 0.5
-- 10.5
-- 70
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -214,15 +205,6 @@ Lv. 34, Day
 - Snore
 - Swagger
 - Swift
-- 628
-- 2 Atk
-- 1.5
-- 41.0
-- 179
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -328,15 +310,6 @@ Lv. 34, Night
 - Rock Slide
 - Sleep Talk
 - Swift
-- 628h
-- 2 Sp. Atk
-- 1.7
-- 43.4
-- 179
-- 60
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

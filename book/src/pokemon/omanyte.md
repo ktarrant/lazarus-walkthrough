@@ -114,15 +114,6 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - Sleep Talk
 - Snore
 - Swagger
-- 138
-- 1 Def
-- 0.4
-- 7.5
-- 71
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -238,15 +229,6 @@ Lv. 40
 - Sleep Talk
 - Snore
 - Swagger
-- 139
-- 2 Def
-- 1.0
-- 35.0
-- 173
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

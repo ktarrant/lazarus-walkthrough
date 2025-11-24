@@ -106,15 +106,6 @@ Snowball
 - Sleep Talk
 - Snore
 - Swagger
-- 361
-- 1 HP
-- 0.7
-- 16.8
-- 60
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -226,15 +217,6 @@ Lv. 32
 - Sleep Talk
 - Snore
 - Swagger
-- 362
-- 2 HP
-- 1.5
-- 256.5
-- 168
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -344,15 +326,6 @@ Glalitite
 - Sleep Talk
 - Snore
 - Swagger
-- 362M
-- 2 HP
-- 2.1
-- 350.2
-- 203
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -479,15 +452,6 @@ Dawn Stone
 - Sleep Talk
 - Snore
 - Swagger
-- 478
-- 2 Spe
-- 1.3
-- 26.6
-- 268
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

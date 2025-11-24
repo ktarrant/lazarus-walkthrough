@@ -97,15 +97,6 @@ Types: Fire / Rock • Egg Groups: Field
 - Rock Slide
 - Sleep Talk
 - Swift
-- 58h
-- 1 Atk
-- 0.8
-- 22.7
-- 70
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -206,15 +197,6 @@ Fire Stone
 - Rock Slide
 - Sleep Talk
 - Swift
-- 59h
-- 2 Atk
-- 2.0
-- 168.0
-- 194
-- 75
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

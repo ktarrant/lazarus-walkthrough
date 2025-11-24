@@ -110,15 +110,6 @@ Deep Sea Scale
 - Sleep Talk
 - Snore
 - Swagger
-- 369
-- 1 HP, 1 Def
-- 1.0
-- 23.4
-- 170
-- 25
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>

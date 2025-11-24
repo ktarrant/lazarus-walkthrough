@@ -116,15 +116,6 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 - Sleep Talk
 - Snore
 - Swagger
-- 86
-- 1 Sp. Def
-- 1.1
-- 90.0
-- 65
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -239,15 +230,6 @@ Lv. 34
 - Sleep Talk
 - Snore
 - Swagger
-- 87
-- 2 Sp. Def
-- 1.7
-- 120.0
-- 166
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

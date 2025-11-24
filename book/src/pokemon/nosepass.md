@@ -113,15 +113,6 @@ Magnet
 - Snore
 - Swagger
 - Thunder Punch
-- 299
-- 1 Def
-- 1.0
-- 97.0
-- 75
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

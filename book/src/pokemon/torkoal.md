@@ -108,15 +108,6 @@ Charcoal
 - Sleep Talk
 - Snore
 - Swagger
-- 324
-- 2 Def
-- 0.5
-- 80.4
-- 165
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

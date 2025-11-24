@@ -70,15 +70,6 @@ Snowball
 - Icy Wind
 - Sleep Talk
 - Snore
-- 872
-- 1 Sp. Atk
-- 0.3
-- 3.8
-- 37
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -173,15 +164,6 @@ Ice Stone
 - Sleep Talk
 - Snore
 - Swift
-- 873
-- 2 Sp. Atk
-- 1.3
-- 42.0
-- 166
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

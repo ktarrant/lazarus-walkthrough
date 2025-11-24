@@ -114,15 +114,6 @@ Types: Ice / Ground • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 220
-- 1 Atk
-- 0.4
-- 6.5
-- 50
-- 225
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -238,15 +229,6 @@ Lv. 28
 - Sleep Talk
 - Snore
 - Swagger
-- 221
-- 1 HP, 1 Atk
-- 1.1
-- 55.8
-- 158
-- 75
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -363,15 +345,6 @@ Lv. knows Ancient Power
 - Sleep Talk
 - Snore
 - Swagger
-- 473
-- 3 Atk
-- 2.5
-- 291.0
-- 239
-- 50
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

@@ -114,15 +114,6 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - Sleep Talk
 - Snore
 - Swagger
-- 140
-- 1 Def
-- 0.5
-- 11.5
-- 71
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Lv. 40
 - Snore
 - Swagger
 - Swords Dance
-- 141
-- 2 Atk
-- 1.3
-- 40.5
-- 173
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

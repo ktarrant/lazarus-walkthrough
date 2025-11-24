@@ -106,15 +106,6 @@ Razor Claw
 - Snore
 - Swagger
 - Swords Dance
-- 782
-- 1 Def
-- 0.6
-- 29.7
-- 60
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -227,15 +218,6 @@ Lv. 24
 - Snore
 - Swagger
 - Swords Dance
-- 783
-- 2 Def
-- 1.2
-- 47.0
-- 147
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -360,15 +342,6 @@ Lv. 45
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 784
-- 3 Def
-- 1.6
-- 78.2
-- 270
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>

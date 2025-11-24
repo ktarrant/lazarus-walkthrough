@@ -141,15 +141,6 @@ Quick Claw
 - Swagger
 - Swift
 - Swords Dance
-- 215
-- 1 Spe
-- 0.9
-- 28.0
-- 86
-- 60
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>
@@ -292,15 +283,6 @@ Razor Claw
 - Swagger
 - Swift
 - Swords Dance
-- 461
-- 1 Atk, 1 Spe
-- 1.1
-- 34.0
-- 179
-- 45
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>

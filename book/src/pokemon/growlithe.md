@@ -113,15 +113,6 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swift
-- 58
-- 1 Atk
-- 0.7
-- 19.0
-- 70
-- 190
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -238,15 +229,6 @@ Fire Stone
 - Snore
 - Swagger
 - Swift
-- 59
-- 2 Atk
-- 1.9
-- 155.0
-- 194
-- 75
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

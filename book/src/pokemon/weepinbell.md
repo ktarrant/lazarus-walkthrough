@@ -117,15 +117,6 @@ Types: Grass / Poison • Egg Groups: Grass
 - Snore
 - Swagger
 - Swords Dance
-- 69
-- 1 Atk
-- 0.7
-- 4.0
-- 60
-- 255
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -243,15 +234,6 @@ Lv. 21
 - Swagger
 - Swift
 - Swords Dance
-- 70
-- 2 Atk
-- 1.0
-- 6.4
-- 137
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -372,15 +354,6 @@ Leaf Stone
 - Swagger
 - Swift
 - Swords Dance
-- 71
-- 3 Atk
-- 1.7
-- 15.5
-- 245
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -495,15 +468,6 @@ Victreebite
 - Swagger
 - Swift
 - Swords Dance
-- 71M
-- 3 Atk
-- 1.7
-- 15.5
-- 245
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

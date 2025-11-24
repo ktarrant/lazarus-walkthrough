@@ -121,15 +121,6 @@ Types: Water • Egg Groups: Water 1 / Water 3
 - Snore
 - Swagger
 - Swords Dance
-- 341
-- 1 Atk
-- 0.6
-- 11.5
-- 62
-- 205
-- 15
-- 50
-- Fluctuating
 </div>
 </div>
 </details>
@@ -263,15 +254,6 @@ Lv. 30
 - Swagger
 - Swift
 - Swords Dance
-- 342
-- 2 Atk
-- 1.1
-- 32.8
-- 164
-- 155
-- 15
-- 50
-- Fluctuating
 </div>
 </div>
 </details>

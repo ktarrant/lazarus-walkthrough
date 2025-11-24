@@ -100,15 +100,6 @@ Types: Fire • Egg Groups: Field
 - Snore
 - Swagger
 - Swords Dance
-- 725
-- 1 Spe
-- 0.4
-- 4.3
-- 64
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -208,15 +199,6 @@ Lv. 17
 - Snore
 - Swagger
 - Swords Dance
-- 726
-- 2 Spe
-- 0.7
-- 25.0
-- 147
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -333,15 +315,6 @@ Lv. 34
 - Swagger
 - Swords Dance
 - Thunder Punch
-- 727
-- 3 Atk
-- 1.8
-- 83.0
-- 239
-- 45
-- 15
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

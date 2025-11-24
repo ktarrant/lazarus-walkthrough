@@ -104,15 +104,6 @@ Quick Claw
 - Sleep Talk
 - Swift
 - Swords Dance
-- 215h
-- 1 Spe
-- 0.9
-- 28.0
-- 86
-- 60
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>
@@ -217,15 +208,6 @@ Razor Claw
 - Sleep Talk
 - Swift
 - Swords Dance
-- 903
-- 1 Atk, 1 Spe
-- 1.3
-- 43.0
-- 199
-- 45
-- 20
-- 35
-- Medium Slow
 </div>
 </div>
 </details>

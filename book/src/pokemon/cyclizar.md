@@ -101,15 +101,6 @@ Types: Dragon / Normal • Egg Groups: Field
 - Endure
 - Mud-Slap
 - Sleep Talk
-- 967
-- 2 Spe
-- 1.6
-- 63.0
-- 175
-- 190
-- 30
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -208,15 +199,6 @@ Cyclizite S
 - Endure
 - Mud-Slap
 - Sleep Talk
-- 967MS
-- 2 Spe
-- 1.6
-- 63.0
-- 175
-- 190
-- 30
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -313,15 +295,6 @@ Cyclizite V
 - Endure
 - Mud-Slap
 - Sleep Talk
-- 967MV
-- 2 Spe
-- 1.6
-- 63.0
-- 175
-- 190
-- 30
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

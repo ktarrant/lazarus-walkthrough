@@ -117,15 +117,6 @@ Spell Tag
 - Sleep Talk
 - Snore
 - Swagger
-- 355
-- 1 Sp. Def
-- 0.8
-- 15.0
-- 59
-- 190
-- 25
-- 35
-- Fast
 </div>
 </div>
 </details>
@@ -268,15 +259,6 @@ Lv. 30
 - Snore
 - Swagger
 - Thunder Punch
-- 356
-- 1 Def, 1 Sp. Def
-- 1.6
-- 30.6
-- 159
-- 90
-- 25
-- 35
-- Fast
 </div>
 </div>
 </details>
@@ -413,15 +395,6 @@ Reaper Cloth
 - Swagger
 - Swift
 - Thunder Punch
-- 477
-- 1 Def, 2 Sp. Def
-- 2.2
-- 106.6
-- 236
-- 45
-- 25
-- 35
-- Fast
 </div>
 </div>
 </details>

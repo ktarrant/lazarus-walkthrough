@@ -107,15 +107,6 @@ Types: Steel / Ghost • Egg Groups: Mineral
 - Snore
 - Swagger
 - Swords Dance
-- 679
-- 1 Def
-- 0.8
-- 2.0
-- 65
-- 180
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -222,15 +213,6 @@ Lv. 32
 - Snore
 - Swagger
 - Swords Dance
-- 680
-- 2 Def
-- 0.8
-- 4.5
-- 157
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -336,15 +318,6 @@ Dusk Stone
 - Snore
 - Swagger
 - Swords Dance
-- 681
-- 2 Def, 1 Sp. Def
-- 1.7
-- 53.0
-- 250
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

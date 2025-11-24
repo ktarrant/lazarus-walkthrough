@@ -108,15 +108,6 @@ Shed Shell
 - Sleep Talk
 - Snore
 - Swagger
-- 704
-- 1 Sp. Def
-- 0.3
-- 2.8
-- 60
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -218,15 +209,6 @@ Lv. 30
 - Sleep Talk
 - Snore
 - Swagger
-- 705
-- 2 Sp. Def
-- 0.8
-- 17.5
-- 158
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -341,15 +323,6 @@ Lv. 50, Overworld Rain
 - Snore
 - Swagger
 - Thunder Punch
-- 706
-- 3 Sp. Def
-- 2.0
-- 150.5
-- 300
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -454,15 +427,6 @@ Metal Coat?
 - Endure
 - Rock Slide
 - Sleep Talk
-- 705h
-- 2 Sp. Def
-- 0.7
-- 68.5
-- 158
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -573,15 +537,6 @@ Lv. 50, Overworld Rain?
 - Rock Slide
 - Sleep Talk
 - Thunder Punch
-- 706h
-- 3 Sp. Def
-- 1.7
-- 334.1
-- 300
-- 45
-- 40
-- 35
-- Slow
 </div>
 </div>
 </details>

@@ -110,15 +110,6 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 - Snore
 - Swagger
 - Swift
-- 580
-- 1 HP
-- 0.5
-- 5.5
-- 61
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -230,15 +221,6 @@ Lv. 31
 - Snore
 - Swagger
 - Swift
-- 581
-- 2 Spe
-- 1.3
-- 24.2
-- 166
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

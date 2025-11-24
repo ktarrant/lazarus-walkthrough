@@ -113,15 +113,6 @@ Types: Ice • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 613
-- 1 Atk
-- 0.5
-- 8.5
-- 61
-- 129
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -245,15 +236,6 @@ Lv. 37
 - Snore
 - Swagger
 - Swords Dance
-- 614
-- 2 Atk
-- 2.6
-- 260.0
-- 177
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -88,15 +88,6 @@ Types: Normal • Egg Groups: Field
 - Snore
 - Swagger
 - Swords Dance
-- 775
-- 2 Atk
-- 0.4
-- 19.9
-- 168
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

@@ -114,15 +114,6 @@ Soft Sand
 - Sleep Talk
 - Snore
 - Swagger
-- 328
-- 1 Atk
-- 0.7
-- 15.0
-- 58
-- 255
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -237,15 +228,6 @@ Lv. 22
 - Snore
 - Swagger
 - Swift
-- 329
-- 1 Atk, 1 Spe
-- 1.1
-- 15.3
-- 119
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -369,15 +351,6 @@ Lv. 45
 - Swagger
 - Swift
 - Thunder Punch
-- 330
-- 1 Atk, 2 Spe
-- 2.0
-- 82.0
-- 260
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -503,15 +476,6 @@ Flygonite
 - Swagger
 - Swift
 - Thunder Punch
-- 330M
-- 1 Atk, 2 Spe
-- 2.0
-- 82.0
-- 260
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

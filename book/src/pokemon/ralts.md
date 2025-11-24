@@ -135,15 +135,6 @@ Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 - Swagger
 - Swift
 - Thunder Punch
-- 280
-- 1 Sp. Atk
-- 0.4
-- 6.6
-- 40
-- 235
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -277,15 +268,6 @@ Lv. 20
 - Swagger
 - Swift
 - Thunder Punch
-- 281
-- 2 Sp. Atk
-- 0.8
-- 20.2
-- 97
-- 120
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -417,15 +399,6 @@ Lv. 30
 - Swagger
 - Swift
 - Thunder Punch
-- 282
-- 3 Sp. Atk
-- 1.6
-- 48.4
-- 259
-- 45
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -555,15 +528,6 @@ Gardevoirite
 - Swagger
 - Swift
 - Thunder Punch
-- 282M
-- 3 Sp. Atk
-- 1.6
-- 48.4
-- 278
-- 45
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -707,15 +671,6 @@ Dawn Stone
 - Swift
 - Swords Dance
 - Thunder Punch
-- 475
-- 3 Atk
-- 1.6
-- 52.0
-- 259
-- 45
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -857,15 +812,6 @@ Galladite
 - Swift
 - Swords Dance
 - Thunder Punch
-- 475M
-- 3 Atk
-- 1.6
-- 56.4
-- 278
-- 45
-- 20
-- 35
-- Slow
 </div>
 </div>
 </details>

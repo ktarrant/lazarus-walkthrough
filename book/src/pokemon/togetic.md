@@ -126,15 +126,6 @@ Types: Fairy • Egg Groups: -
 - Soft-Boiled
 - Swagger
 - Swift
-- 175
-- 1 Sp. Def
-- 0.3
-- 1.5
-- 49
-- 190
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -275,15 +266,6 @@ Lv. 20
 - Soft-Boiled
 - Swagger
 - Swift
-- 176
-- 2 Sp. Def
-- 0.6
-- 3.2
-- 142
-- 75
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -418,15 +400,6 @@ Shiny Stone
 - Snore
 - Swagger
 - Swift
-- 468
-- 2 Sp. Atk, 1 Sp. Def
-- 1.5
-- 38.0
-- 245
-- 30
-- 10
-- 50
-- Fast
 </div>
 </div>
 </details>

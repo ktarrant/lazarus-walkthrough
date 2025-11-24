@@ -121,15 +121,6 @@ Thick Club
 - Swift
 - Swords Dance
 - Thunder Punch
-- 104
-- 1 Def
-- 0.4
-- 6.5
-- 64
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -246,15 +237,6 @@ Lv. 28, Day
 - Swift
 - Swords Dance
 - Thunder Punch
-- 105
-- 2 Def
-- 1.0
-- 45.0
-- 149
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -380,15 +362,6 @@ Lv. 28, Night
 - Swift
 - Swords Dance
 - Thunder Punch
-- 105a
-- 2 Def
-- 1.0
-- 34.0
-- 149
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

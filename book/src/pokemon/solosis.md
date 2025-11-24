@@ -110,15 +110,6 @@ Types: Psychic • Egg Groups: Amorphous
 - Snore
 - Swagger
 - Swift
-- 577
-- 1 Sp. Atk
-- 0.3
-- 1.0
-- 58
-- 200
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -230,15 +221,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swift
-- 578
-- 2 Sp. Atk
-- 0.6
-- 8.0
-- 130
-- 100
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -359,15 +341,6 @@ Lv. 41
 - Swagger
 - Swift
 - Thunder Punch
-- 579
-- 3 Sp. Atk
-- 1.0
-- 20.1
-- 221
-- 50
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

@@ -132,15 +132,6 @@ Hard Stone
 - Sleep Talk
 - Snore
 - Swagger
-- 304
-- 1 Def
-- 0.4
-- 60.0
-- 66
-- 180
-- 35
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -266,15 +257,6 @@ Lv. 28
 - Sleep Talk
 - Snore
 - Swagger
-- 305
-- 2 Def
-- 0.9
-- 120.0
-- 151
-- 90
-- 35
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -424,15 +406,6 @@ Lv. 42
 - Snore
 - Swagger
 - Thunder Punch
-- 306
-- 3 Def
-- 2.1
-- 360.0
-- 239
-- 45
-- 35
-- 35
-- Slow
 </div>
 </div>
 </details>
@@ -582,15 +555,6 @@ Aggronite
 - Snore
 - Swagger
 - Thunder Punch
-- 306M
-- 3 Def
-- 2.2
-- 395.0
-- 284
-- 45
-- 35
-- 35
-- Slow
 </div>
 </div>
 </details>

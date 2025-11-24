@@ -111,15 +111,6 @@ Types: Psychic • Egg Groups: Human-Like
 - Snore
 - Swagger
 - Swift
-- 574
-- 1 Sp. Def
-- 0.4
-- 5.8
-- 58
-- 200
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -233,15 +224,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swift
-- 575
-- 2 Sp. Def
-- 0.7
-- 18.0
-- 137
-- 100
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -359,15 +341,6 @@ Lv. 41
 - Snore
 - Swagger
 - Swift
-- 576
-- 3 Sp. Def
-- 1.5
-- 44.0
-- 245
-- 50
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

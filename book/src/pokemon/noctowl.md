@@ -117,15 +117,6 @@ Types: Normal / Flying • Egg Groups: Flying
 - Snore
 - Swagger
 - Swift
-- 163
-- 1 HP
-- 0.7
-- 21.2
-- 52
-- 255
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -253,15 +244,6 @@ Lv. 20
 - Snore
 - Swagger
 - Swift
-- 164
-- 2 HP
-- 1.6
-- 40.8
-- 158
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -383,15 +365,6 @@ Noctowlite
 - Snore
 - Swagger
 - Swift
-- 164M
-- 2 HP
-- 1.6
-- 40.8
-- 158
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

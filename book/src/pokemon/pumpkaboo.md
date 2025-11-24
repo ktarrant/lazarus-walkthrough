@@ -107,15 +107,6 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - Sleep Talk
 - Snore
 - Swagger
-- 710
-- 1 Def
-- 0.4
-- 5.0
-- 67
-- 120
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -227,15 +218,6 @@ Linking Cord
 - Sleep Talk
 - Snore
 - Swagger
-- 711
-- 2 Def
-- 0.9
-- 12.5
-- 173
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

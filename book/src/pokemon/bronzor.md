@@ -115,15 +115,6 @@ Metal Coat
 - Sleep Talk
 - Snore
 - Swagger
-- 436
-- 1 Def
-- 0.5
-- 60.5
-- 60
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -243,15 +234,6 @@ Lv. 33
 - Sleep Talk
 - Snore
 - Swagger
-- 437
-- 1 Def, 1 Sp. Def
-- 1.3
-- 187.0
-- 175
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

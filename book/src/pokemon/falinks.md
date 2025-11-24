@@ -95,15 +95,6 @@ Types: Fighting / Bug • Egg Groups: Fairy / Mineral
 - Sleep Talk
 - Snore
 - Swords Dance
-- 870
-- 2 Atk, 1 Sp. Def
-- 3.0
-- 62.0
-- 165
-- 45
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -200,15 +191,6 @@ Falinksite
 - Sleep Talk
 - Snore
 - Swords Dance
-- 870M
-- 2 Atk, 1 Sp. Def
-- 3.0
-- 62.0
-- 165
-- 45
-- 25
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

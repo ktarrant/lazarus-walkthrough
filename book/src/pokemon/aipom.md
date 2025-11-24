@@ -124,15 +124,6 @@ Types: Normal • Egg Groups: Field
 - Swagger
 - Swift
 - Thunder Punch
-- 190
-- 1 Spe
-- 0.8
-- 11.5
-- 72
-- 45
-- 20
-- 50
-- Fast
 </div>
 </div>
 </details>
@@ -251,15 +242,6 @@ Lv. knows Double Hit
 - Swagger
 - Swift
 - Thunder Punch
-- 424
-- 2 Spe
-- 1.2
-- 20.3
-- 169
-- 45
-- 20
-- 100
-- Fast
 </div>
 </div>
 </details>

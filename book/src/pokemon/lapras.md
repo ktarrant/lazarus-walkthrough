@@ -123,15 +123,6 @@ Mystic Water
 - Sleep Talk
 - Snore
 - Swagger
-- 131
-- 2 HP
-- 2.5
-- 220.0
-- 187
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>
@@ -251,15 +242,6 @@ Laprasite
 - Sleep Talk
 - Snore
 - Swagger
-- 131M
-- 2 HP
-- ?
-- 0.0
-- 187
-- 45
-- 40
-- 50
-- Slow
 </div>
 </div>
 </details>

@@ -98,15 +98,6 @@ Types: Dark / Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swift
-- 263g
-- 1 Spe
-- 0.4
-- 17.5
-- 56
-- 255
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -211,15 +202,6 @@ Lv. 20
 - Sleep Talk
 - Snore
 - Swift
-- 264g
-- 2 Spe
-- 0.5
-- 32.5
-- 147
-- 90
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -333,15 +315,6 @@ Lv. 35, Night
 - Snore
 - Swift
 - Thunder Punch
-- 862
-- 3 Def
-- 1.6
-- 46.0
-- 260
-- 45
-- 15
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

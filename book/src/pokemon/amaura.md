@@ -112,15 +112,6 @@ Types: Rock / Ice • Egg Groups: Monster
 - Sleep Talk
 - Snore
 - Swagger
-- 698
-- 1 HP
-- 1.3
-- 25.2
-- 72
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -236,15 +227,6 @@ Lv. 34, Night
 - Sleep Talk
 - Snore
 - Swagger
-- 699
-- 2 HP
-- 2.7
-- 225.0
-- 104
-- 45
-- 30
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

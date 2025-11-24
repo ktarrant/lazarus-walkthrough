@@ -112,15 +112,6 @@ Types: Water / Ground • Egg Groups: Water 2
 - Snore
 - Swagger
 - Swift
-- 339
-- 1 HP
-- 0.4
-- 1.9
-- 58
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -242,15 +233,6 @@ Lv. 30
 - Snore
 - Swagger
 - Swift
-- 340
-- 2 HP
-- 0.9
-- 23.6
-- 164
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -124,15 +124,6 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Snore
 - Swagger
 - Thunder Punch
-- 92
-- 1 Sp. Atk
-- 1.3
-- 0.1
-- 62
-- 190
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -254,15 +245,6 @@ Lv. 25
 - Snore
 - Swagger
 - Thunder Punch
-- 93
-- 2 Sp. Atk
-- 1.6
-- 0.1
-- 142
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -396,15 +378,6 @@ Linking Cord
 - Snore
 - Swagger
 - Thunder Punch
-- 94
-- 3 Sp. Atk
-- 1.5
-- 40.5
-- 250
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -538,15 +511,6 @@ Gengarite
 - Snore
 - Swagger
 - Thunder Punch
-- 94M
-- 3 Sp. Atk
-- 1.4
-- 40.5
-- 270
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

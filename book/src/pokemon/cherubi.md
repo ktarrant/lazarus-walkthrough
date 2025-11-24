@@ -105,15 +105,6 @@ Miracle Seed
 - Snore
 - Swagger
 - Swords Dance
-- 420
-- 1 Sp. Atk
-- 0.4
-- 3.3
-- 55
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -226,15 +217,6 @@ Lv. 25
 - Snore
 - Swagger
 - Swords Dance
-- 421
-- 2 Sp. Atk
-- 0.5
-- 9.3
-- 158
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

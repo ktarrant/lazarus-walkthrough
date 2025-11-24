@@ -127,15 +127,6 @@ Types: Water / Ground • Egg Groups: Water 1 / Field
 - Sleep Talk
 - Snore
 - Swagger
-- 194
-- 1 HP
-- 0.4
-- 8.5
-- 42
-- 255
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -272,15 +263,6 @@ Lv. 20
 - Sleep Talk
 - Snore
 - Swagger
-- 195
-- 2 HP
-- 1.4
-- 75.0
-- 151
-- 90
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

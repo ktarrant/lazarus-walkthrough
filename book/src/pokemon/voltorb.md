@@ -93,15 +93,6 @@ Types: Electric • Egg Groups: Mineral
 - Snore
 - Swagger
 - Swift
-- 100
-- 1 Spe
-- 0.5
-- 10.4
-- 66
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -195,15 +186,6 @@ Lv. 30
 - Snore
 - Swagger
 - Swift
-- 101
-- 2 Spe
-- 1.2
-- 66.6
-- 172
-- 60
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

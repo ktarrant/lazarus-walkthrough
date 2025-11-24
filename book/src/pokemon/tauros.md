@@ -96,15 +96,6 @@ Types: Normal • Egg Groups: Field
 - Sleep Talk
 - Snore
 - Swagger
-- 128
-- 1 Atk, 1 Spe
-- 1.4
-- 88.4
-- 172
-- 45
-- 20
-- 50
-- Slow
 </div>
 </div>
 </details>

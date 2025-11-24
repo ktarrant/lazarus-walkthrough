@@ -98,15 +98,6 @@ Miracle Seed
 - Snore
 - Swagger
 - Swords Dance
-- 753
-- 1 Atk
-- 0.3
-- 1.5
-- 50
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -213,15 +204,6 @@ Lv. 29, Day
 - Snore
 - Swagger
 - Swords Dance
-- 754
-- 2 Atk
-- 0.9
-- 18.5
-- 168
-- 75
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

@@ -116,15 +116,6 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass
 - Snore
 - Swagger
 - Swords Dance
-- 187
-- 1 Sp. Def
-- 0.4
-- 0.5
-- 50
-- 255
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -244,15 +235,6 @@ Lv. 18
 - Snore
 - Swagger
 - Swords Dance
-- 188
-- 2 Spe
-- 0.6
-- 1.0
-- 119
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -367,15 +349,6 @@ Lv. 27
 - Snore
 - Swagger
 - Swords Dance
-- 189
-- 3 Spe
-- 0.8
-- 3.0
-- 230
-- 45
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

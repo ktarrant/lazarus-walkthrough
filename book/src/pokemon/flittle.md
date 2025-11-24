@@ -86,15 +86,6 @@ Types: Psychic • Egg Groups: Flying
 - Mud-Slap
 - Sleep Talk
 - Swift
-- 955
-- 1 Spe
-- 0.2
-- 1.5
-- 51
-- 120
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -196,15 +187,6 @@ Lv. 30
 - Psych Up
 - Sleep Talk
 - Swift
-- 956
-- 2 Spe
-- 1.9
-- 90.0
-- 168
-- 60
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

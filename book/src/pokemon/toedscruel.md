@@ -104,15 +104,6 @@ Tiny Mushroom
 - Mud-Slap
 - Sleep Talk
 - Swift
-- 948
-- 1 Sp. Def
-- 0.9
-- 33.0
-- 67
-- 190
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>
@@ -217,15 +208,6 @@ Lv. 30
 - Mud-Slap
 - Sleep Talk
 - Swift
-- 949
-- 2 Sp. Def
-- 1.9
-- 58.0
-- 180
-- 90
-- 20
-- 50
-- Medium Slow
 </div>
 </div>
 </details>

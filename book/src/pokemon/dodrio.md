@@ -111,15 +111,6 @@ Sharp Beak
 - Swagger
 - Swift
 - Swords Dance
-- 84
-- 1 Atk
-- 1.4
-- 39.2
-- 62
-- 190
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -236,15 +227,6 @@ Lv. 31
 - Swagger
 - Swift
 - Swords Dance
-- 85
-- 2 Atk
-- 1.8
-- 85.2
-- 165
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>

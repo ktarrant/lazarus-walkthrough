@@ -90,15 +90,6 @@ Types: Fairy • Egg Groups: Fairy
 - Snore
 - Swagger
 - Swift
-- 669
-- 1 Sp. Def
-- 0.1
-- 0.1
-- 61
-- 225
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -200,15 +191,6 @@ Lv. 19
 - Snore
 - Swagger
 - Swift
-- 670
-- 2 Sp. Def
-- 0.2
-- 0.9
-- 130
-- 120
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
@@ -310,15 +292,6 @@ Shiny Stone
 - Snore
 - Swagger
 - Swift
-- 671
-- 3 Sp. Def
-- 1.1
-- 10.0
-- 276
-- 45
-- 20
-- 50
-- Medium Fast
 </div>
 </div>
 </details>
