@@ -1,6 +1,5 @@
-## Spiky-Eared Pichu (#248)
 <details class="pokemon-card-container" open>
-<summary>Spiky-Eared Pichu overview</summary>
+<summary>Spiky-Eared Pichu (#248)</summary>
 Types: Electric • Egg Groups: -
 
 <div class="pokemon-card">

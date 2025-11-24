@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Sandshrew (#097)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sandshrew">
 <input type="radio" name="pokemon-tabs-sandshrew-group" id="pokemon-tabs-sandshrew-tab-0" checked>
 <label for="pokemon-tabs-sandshrew-tab-0">Sandshrew</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-sandshrew-tab-1">Sandslash</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-sandshrew-panel-0">
-## Sandshrew (#097)
-<details class="pokemon-card-container" open>
-<summary>Sandshrew overview</summary>
 Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -125,12 +124,8 @@ Yellow Shard
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-sandshrew-panel-1">
-## Sandslash (#098)
-<details class="pokemon-card-container" open>
-<summary>Sandslash overview</summary>
 Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -246,7 +241,6 @@ Lv. 22
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -254,3 +248,4 @@ Lv. 22
 #pokemon-tabs-sandshrew-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-sandshrew-panel-0 { display: block; }
 #pokemon-tabs-sandshrew-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-sandshrew-panel-1 { display: block; }
 </style>
+</details>

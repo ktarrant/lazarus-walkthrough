@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Pyroar♂ (#388)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pyroar-m">
 <input type="radio" name="pokemon-tabs-pyroar-m-group" id="pokemon-tabs-pyroar-m-tab-0">
 <label for="pokemon-tabs-pyroar-m-tab-0">Litleo</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-pyroar-m-tab-2">Pyroar♀</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-pyroar-m-panel-0">
-## Litleo (#387)
-<details class="pokemon-card-container" open>
-<summary>Litleo overview</summary>
 Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Types: Fire / Normal • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pyroar-m-panel-1">
-## Pyroar♂ (#388)
-<details class="pokemon-card-container" open>
-<summary>Pyroar♂ overview</summary>
 Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -224,12 +219,8 @@ Lv. 31, Male
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pyroar-m-panel-2">
-## Pyroar♀ (#389)
-<details class="pokemon-card-container" open>
-<summary>Pyroar♀ overview</summary>
 Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -337,7 +328,6 @@ Lv. 31, Female
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -346,3 +336,4 @@ Lv. 31, Female
 #pokemon-tabs-pyroar-m-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-pyroar-m-panel-1 { display: block; }
 #pokemon-tabs-pyroar-m-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-pyroar-m-panel-2 { display: block; }
 </style>
+</details>

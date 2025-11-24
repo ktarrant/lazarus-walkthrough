@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dwebble (#152)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dwebble">
 <input type="radio" name="pokemon-tabs-dwebble-group" id="pokemon-tabs-dwebble-tab-0" checked>
 <label for="pokemon-tabs-dwebble-tab-0">Dwebble</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-dwebble-tab-1">Crustle</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dwebble-panel-0">
-## Dwebble (#152)
-<details class="pokemon-card-container" open>
-<summary>Dwebble overview</summary>
 Types: Bug / Rock • Egg Groups: Mineral / Bug
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Red Shard
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dwebble-panel-1">
-## Crustle (#153)
-<details class="pokemon-card-container" open>
-<summary>Crustle overview</summary>
 Types: Bug / Rock • Egg Groups: Mineral / Bug
 
 <div class="pokemon-card">
@@ -219,7 +214,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -227,3 +221,4 @@ Lv. 30
 #pokemon-tabs-dwebble-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-dwebble-panel-0 { display: block; }
 #pokemon-tabs-dwebble-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-dwebble-panel-1 { display: block; }
 </style>
+</details>

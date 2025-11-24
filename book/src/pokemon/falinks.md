@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Falinks (#320)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-falinks">
 <input type="radio" name="pokemon-tabs-falinks-group" id="pokemon-tabs-falinks-tab-0" checked>
 <label for="pokemon-tabs-falinks-tab-0">Falinks</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-falinks-tab-1">Mega Falinks</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-falinks-panel-0">
-## Falinks (#320)
-<details class="pokemon-card-container" open>
-<summary>Falinks overview</summary>
 Types: Fighting / Bug • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
@@ -97,12 +96,8 @@ Types: Fighting / Bug • Egg Groups: Fairy / Mineral
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-falinks-panel-1">
-## Mega Falinks (#320)
-<details class="pokemon-card-container" open>
-<summary>Mega Falinks overview</summary>
 Types: Fighting / Steel • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
@@ -193,7 +188,6 @@ Falinksite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -201,3 +195,4 @@ Falinksite
 #pokemon-tabs-falinks-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-falinks-panel-0 { display: block; }
 #pokemon-tabs-falinks-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-falinks-panel-1 { display: block; }
 </style>
+</details>

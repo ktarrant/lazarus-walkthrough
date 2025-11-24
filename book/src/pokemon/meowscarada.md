@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Meowscarada (#021)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-meowscarada">
 <input type="radio" name="pokemon-tabs-meowscarada-group" id="pokemon-tabs-meowscarada-tab-0">
 <label for="pokemon-tabs-meowscarada-tab-0">Sprigatito</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-meowscarada-tab-2">Meowscarada</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-meowscarada-panel-0">
-## Sprigatito (#019)
-<details class="pokemon-card-container" open>
-<summary>Sprigatito overview</summary>
 Types: Grass • Egg Groups: Field / Grass
 
 <div class="pokemon-card">
@@ -88,12 +87,8 @@ Types: Grass • Egg Groups: Field / Grass
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-meowscarada-panel-1">
-## Floragato (#020)
-<details class="pokemon-card-container" open>
-<summary>Floragato overview</summary>
 Types: Grass • Egg Groups: Field / Grass
 
 <div class="pokemon-card">
@@ -175,12 +170,8 @@ Lv. 16
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-meowscarada-panel-2">
-## Meowscarada (#021)
-<details class="pokemon-card-container" open>
-<summary>Meowscarada overview</summary>
 Types: Grass / Dark • Egg Groups: Field / Grass
 
 <div class="pokemon-card">
@@ -280,7 +271,6 @@ Lv. 36
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -289,3 +279,4 @@ Lv. 36
 #pokemon-tabs-meowscarada-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-meowscarada-panel-1 { display: block; }
 #pokemon-tabs-meowscarada-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-meowscarada-panel-2 { display: block; }
 </style>
+</details>

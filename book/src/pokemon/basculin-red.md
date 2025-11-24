@@ -1,6 +1,5 @@
-## Basculin Red (#287)
 <details class="pokemon-card-container" open>
-<summary>Basculin Red overview</summary>
+<summary>Basculin Red (#287)</summary>
 Types: Water • Egg Groups: Water 2
 
 <div class="pokemon-card">

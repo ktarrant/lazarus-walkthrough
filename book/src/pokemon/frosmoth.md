@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Frosmoth (#056)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-frosmoth">
 <input type="radio" name="pokemon-tabs-frosmoth-group" id="pokemon-tabs-frosmoth-tab-0">
 <label for="pokemon-tabs-frosmoth-tab-0">Snom</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-frosmoth-tab-1">Frosmoth</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-frosmoth-panel-0">
-## Snom (#055)
-<details class="pokemon-card-container" open>
-<summary>Snom overview</summary>
 Types: Ice / Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -72,12 +71,8 @@ Snowball
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-frosmoth-panel-1">
-## Frosmoth (#056)
-<details class="pokemon-card-container" open>
-<summary>Frosmoth overview</summary>
 Types: Ice / Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -166,7 +161,6 @@ Ice Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -174,3 +168,4 @@ Ice Stone
 #pokemon-tabs-frosmoth-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-frosmoth-panel-0 { display: block; }
 #pokemon-tabs-frosmoth-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-frosmoth-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Clawitzer (#263)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-clawitzer">
 <input type="radio" name="pokemon-tabs-clawitzer-group" id="pokemon-tabs-clawitzer-tab-0">
 <label for="pokemon-tabs-clawitzer-tab-0">Clauncher</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-clawitzer-tab-1">Clawitzer</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-clawitzer-panel-0">
-## Clauncher (#262)
-<details class="pokemon-card-container" open>
-<summary>Clauncher overview</summary>
 Types: Water • Egg Groups: Water 3 / Water 1
 
 <div class="pokemon-card">
@@ -108,12 +107,8 @@ Types: Water • Egg Groups: Water 3 / Water 1
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-clawitzer-panel-1">
-## Clawitzer (#263)
-<details class="pokemon-card-container" open>
-<summary>Clawitzer overview</summary>
 Types: Water • Egg Groups: Water 3 / Water 1
 
 <div class="pokemon-card">
@@ -214,7 +209,6 @@ Lv. 37
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -222,3 +216,4 @@ Lv. 37
 #pokemon-tabs-clawitzer-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-clawitzer-panel-0 { display: block; }
 #pokemon-tabs-clawitzer-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-clawitzer-panel-1 { display: block; }
 </style>
+</details>

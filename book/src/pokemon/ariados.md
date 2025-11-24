@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Ariados (#178)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ariados">
 <input type="radio" name="pokemon-tabs-ariados-group" id="pokemon-tabs-ariados-tab-0">
 <label for="pokemon-tabs-ariados-tab-0">Spinarak</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-ariados-tab-1">Ariados</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ariados-panel-0">
-## Spinarak (#177)
-<details class="pokemon-card-container" open>
-<summary>Spinarak overview</summary>
 Types: Bug / Poison • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Types: Bug / Poison • Egg Groups: Bug
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ariados-panel-1">
-## Ariados (#178)
-<details class="pokemon-card-container" open>
-<summary>Ariados overview</summary>
 Types: Bug / Poison • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -232,7 +227,6 @@ Lv. 22
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -240,3 +234,4 @@ Lv. 22
 #pokemon-tabs-ariados-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ariados-panel-0 { display: block; }
 #pokemon-tabs-ariados-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ariados-panel-1 { display: block; }
 </style>
+</details>

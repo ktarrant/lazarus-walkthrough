@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Murkrow (#094)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-murkrow">
 <input type="radio" name="pokemon-tabs-murkrow-group" id="pokemon-tabs-murkrow-tab-0" checked>
 <label for="pokemon-tabs-murkrow-tab-0">Murkrow</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-murkrow-tab-1">Honchkrow</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-murkrow-panel-0">
-## Murkrow (#094)
-<details class="pokemon-card-container" open>
-<summary>Murkrow overview</summary>
 Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Types: Dark / Flying • Egg Groups: Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-murkrow-panel-1">
-## Honchkrow (#095)
-<details class="pokemon-card-container" open>
-<summary>Honchkrow overview</summary>
 Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -249,7 +244,6 @@ Dusk Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -257,3 +251,4 @@ Dusk Stone
 #pokemon-tabs-murkrow-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-murkrow-panel-0 { display: block; }
 #pokemon-tabs-murkrow-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-murkrow-panel-1 { display: block; }
 </style>
+</details>

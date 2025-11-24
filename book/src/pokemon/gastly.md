@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gastly (#155)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gastly">
 <input type="radio" name="pokemon-tabs-gastly-group" id="pokemon-tabs-gastly-tab-0" checked>
 <label for="pokemon-tabs-gastly-tab-0">Gastly</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-gastly-tab-3">Mega Gengar</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gastly-panel-0">
-## Gastly (#155)
-<details class="pokemon-card-container" open>
-<summary>Gastly overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gastly-panel-1">
-## Haunter (#156)
-<details class="pokemon-card-container" open>
-<summary>Haunter overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -247,12 +242,8 @@ Lv. 25
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gastly-panel-2">
-## Gengar (#157)
-<details class="pokemon-card-container" open>
-<summary>Gengar overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -380,12 +371,8 @@ Linking Cord
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gastly-panel-3">
-## Mega Gengar (#157)
-<details class="pokemon-card-container" open>
-<summary>Mega Gengar overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -513,7 +500,6 @@ Gengarite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -523,3 +509,4 @@ Gengarite
 #pokemon-tabs-gastly-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-gastly-panel-2 { display: block; }
 #pokemon-tabs-gastly-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-gastly-panel-3 { display: block; }
 </style>
+</details>

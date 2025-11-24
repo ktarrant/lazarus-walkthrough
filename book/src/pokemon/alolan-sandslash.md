@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Alolan Sandslash (#098)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-sandslash">
 <input type="radio" name="pokemon-tabs-alolan-sandslash-group" id="pokemon-tabs-alolan-sandslash-tab-0">
 <label for="pokemon-tabs-alolan-sandslash-tab-0">Alolan Sandshrew</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-alolan-sandslash-tab-1">Alolan Sandslash</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-sandslash-panel-0">
-## Alolan Sandshrew (#097)
-<details class="pokemon-card-container" open>
-<summary>Alolan Sandshrew overview</summary>
 Types: Ice / Steel • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -128,12 +127,8 @@ Blue Shard
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-sandslash-panel-1">
-## Alolan Sandslash (#098)
-<details class="pokemon-card-container" open>
-<summary>Alolan Sandslash overview</summary>
 Types: Ice / Steel • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -259,7 +254,6 @@ Ice Stone
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -267,3 +261,4 @@ Ice Stone
 #pokemon-tabs-alolan-sandslash-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-sandslash-panel-0 { display: block; }
 #pokemon-tabs-alolan-sandslash-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-sandslash-panel-1 { display: block; }
 </style>
+</details>

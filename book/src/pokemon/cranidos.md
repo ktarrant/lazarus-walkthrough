@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Cranidos (#226)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cranidos">
 <input type="radio" name="pokemon-tabs-cranidos-group" id="pokemon-tabs-cranidos-tab-0" checked>
 <label for="pokemon-tabs-cranidos-tab-0">Cranidos</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-cranidos-tab-1">Rampardos</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cranidos-panel-0">
-## Cranidos (#226)
-<details class="pokemon-card-container" open>
-<summary>Cranidos overview</summary>
 Types: Rock • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -116,12 +115,8 @@ Types: Rock • Egg Groups: Monster
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cranidos-panel-1">
-## Rampardos (#227)
-<details class="pokemon-card-container" open>
-<summary>Rampardos overview</summary>
 Types: Rock • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -239,7 +234,6 @@ Lv. 30
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -247,3 +241,4 @@ Lv. 30
 #pokemon-tabs-cranidos-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cranidos-panel-0 { display: block; }
 #pokemon-tabs-cranidos-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cranidos-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Groudon (#428)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-groudon">
 <input type="radio" name="pokemon-tabs-groudon-group" id="pokemon-tabs-groudon-tab-0" checked>
 <label for="pokemon-tabs-groudon-tab-0">Groudon</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-groudon-tab-1">Primal Groudon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-groudon-panel-0">
-## Groudon (#428)
-<details class="pokemon-card-container" open>
-<summary>Groudon overview</summary>
 Types: Ground • Egg Groups: -
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Types: Ground • Egg Groups: -
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-groudon-panel-1">
-## Primal Groudon (#428)
-<details class="pokemon-card-container" open>
-<summary>Primal Groudon overview</summary>
 Types: Ground / Fire • Egg Groups: -
 
 <div class="pokemon-card">
@@ -227,7 +222,6 @@ Red Orb?
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -235,3 +229,4 @@ Red Orb?
 #pokemon-tabs-groudon-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-groudon-panel-0 { display: block; }
 #pokemon-tabs-groudon-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-groudon-panel-1 { display: block; }
 </style>
+</details>

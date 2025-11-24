@@ -1,6 +1,5 @@
-## Basculin Blue? (#287)
 <details class="pokemon-card-container" open>
-<summary>Basculin Blue? overview</summary>
+<summary>Basculin Blue? (#287)</summary>
 Types: Water • Egg Groups: Water 2
 
 <div class="pokemon-card">

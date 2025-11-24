@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Swanna (#041)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-swanna">
 <input type="radio" name="pokemon-tabs-swanna-group" id="pokemon-tabs-swanna-tab-0">
 <label for="pokemon-tabs-swanna-tab-0">Ducklett</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-swanna-tab-1">Swanna</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-swanna-panel-0">
-## Ducklett (#040)
-<details class="pokemon-card-container" open>
-<summary>Ducklett overview</summary>
 Types: Water / Flying • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Types: Water / Flying • Egg Groups: Flying / Water 1
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-swanna-panel-1">
-## Swanna (#041)
-<details class="pokemon-card-container" open>
-<summary>Swanna overview</summary>
 Types: Water / Flying • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
@@ -223,7 +218,6 @@ Lv. 31
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -231,3 +225,4 @@ Lv. 31
 #pokemon-tabs-swanna-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-swanna-panel-0 { display: block; }
 #pokemon-tabs-swanna-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-swanna-panel-1 { display: block; }
 </style>
+</details>

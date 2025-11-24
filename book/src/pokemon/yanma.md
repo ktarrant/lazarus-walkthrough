@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Yanma (#380)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-yanma">
 <input type="radio" name="pokemon-tabs-yanma-group" id="pokemon-tabs-yanma-tab-0" checked>
 <label for="pokemon-tabs-yanma-tab-0">Yanma</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-yanma-tab-1">Yanmega</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-yanma-panel-0">
-## Yanma (#380)
-<details class="pokemon-card-container" open>
-<summary>Yanma overview</summary>
 Types: Bug / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -117,12 +116,8 @@ Wide Lens
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-yanma-panel-1">
-## Yanmega (#381)
-<details class="pokemon-card-container" open>
-<summary>Yanmega overview</summary>
 Types: Bug / Dragon • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -239,7 +234,6 @@ Lv. knows Ancient Power
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -247,3 +241,4 @@ Lv. knows Ancient Power
 #pokemon-tabs-yanma-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-yanma-panel-0 { display: block; }
 #pokemon-tabs-yanma-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-yanma-panel-1 { display: block; }
 </style>
+</details>

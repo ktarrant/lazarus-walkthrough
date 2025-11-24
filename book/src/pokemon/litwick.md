@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Litwick (#299)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-litwick">
 <input type="radio" name="pokemon-tabs-litwick-group" id="pokemon-tabs-litwick-tab-0" checked>
 <label for="pokemon-tabs-litwick-tab-0">Litwick</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-litwick-tab-2">Chandelure</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-litwick-panel-0">
-## Litwick (#299)
-<details class="pokemon-card-container" open>
-<summary>Litwick overview</summary>
 Types: Ghost / Fire • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -117,12 +116,8 @@ Types: Ghost / Fire • Egg Groups: Amorphous
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-litwick-panel-1">
-## Lampent (#300)
-<details class="pokemon-card-container" open>
-<summary>Lampent overview</summary>
 Types: Ghost / Fire • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -234,12 +229,8 @@ Lv. 26
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-litwick-panel-2">
-## Chandelure (#301)
-<details class="pokemon-card-container" open>
-<summary>Chandelure overview</summary>
 Types: Ghost / Fire • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -347,7 +338,6 @@ Dusk Stone
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -356,3 +346,4 @@ Dusk Stone
 #pokemon-tabs-litwick-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-litwick-panel-1 { display: block; }
 #pokemon-tabs-litwick-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-litwick-panel-2 { display: block; }
 </style>
+</details>

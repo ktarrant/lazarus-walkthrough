@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Barboach (#337)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-barboach">
 <input type="radio" name="pokemon-tabs-barboach-group" id="pokemon-tabs-barboach-tab-0" checked>
 <label for="pokemon-tabs-barboach-tab-0">Barboach</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-barboach-tab-1">Whiscash</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-barboach-panel-0">
-## Barboach (#337)
-<details class="pokemon-card-container" open>
-<summary>Barboach overview</summary>
 Types: Water / Ground • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -114,12 +113,8 @@ Types: Water / Ground • Egg Groups: Water 2
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-barboach-panel-1">
-## Whiscash (#338)
-<details class="pokemon-card-container" open>
-<summary>Whiscash overview</summary>
 Types: Water / Ground • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -235,7 +230,6 @@ Lv. 30
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -243,3 +237,4 @@ Lv. 30
 #pokemon-tabs-barboach-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-barboach-panel-0 { display: block; }
 #pokemon-tabs-barboach-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-barboach-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Armaldo (#278)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-armaldo">
 <input type="radio" name="pokemon-tabs-armaldo-group" id="pokemon-tabs-armaldo-tab-0">
 <label for="pokemon-tabs-armaldo-tab-0">Anorith</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-armaldo-tab-1">Armaldo</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-armaldo-panel-0">
-## Anorith (#277)
-<details class="pokemon-card-container" open>
-<summary>Anorith overview</summary>
 Types: Rock / Bug • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -106,12 +105,8 @@ Types: Rock / Bug • Egg Groups: Water 3
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-armaldo-panel-1">
-## Armaldo (#278)
-<details class="pokemon-card-container" open>
-<summary>Armaldo overview</summary>
 Types: Rock / Bug • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -211,7 +206,6 @@ Lv. 40
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -219,3 +213,4 @@ Lv. 40
 #pokemon-tabs-armaldo-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-armaldo-panel-0 { display: block; }
 #pokemon-tabs-armaldo-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-armaldo-panel-1 { display: block; }
 </style>
+</details>

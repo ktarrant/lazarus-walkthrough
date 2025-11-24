@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Flaaffy (#062)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flaaffy">
 <input type="radio" name="pokemon-tabs-flaaffy-group" id="pokemon-tabs-flaaffy-tab-0">
 <label for="pokemon-tabs-flaaffy-tab-0">Mareep</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-flaaffy-tab-3">Mega Ampharos</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-flaaffy-panel-0">
-## Mareep (#061)
-<details class="pokemon-card-container" open>
-<summary>Mareep overview</summary>
 Types: Electric • Egg Groups: Monster / Field
 
 <div class="pokemon-card">
@@ -109,12 +108,8 @@ Types: Electric • Egg Groups: Monster / Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-flaaffy-panel-1">
-## Flaaffy (#062)
-<details class="pokemon-card-container" open>
-<summary>Flaaffy overview</summary>
 Types: Electric • Egg Groups: Monster / Field
 
 <div class="pokemon-card">
@@ -226,12 +221,8 @@ Lv. 15
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-flaaffy-panel-2">
-## Ampharos (#063)
-<details class="pokemon-card-container" open>
-<summary>Ampharos overview</summary>
 Types: Electric • Egg Groups: Monster / Field
 
 <div class="pokemon-card">
@@ -350,12 +341,8 @@ Lv. 30
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-flaaffy-panel-3">
-## Mega Ampharos (#063)
-<details class="pokemon-card-container" open>
-<summary>Mega Ampharos overview</summary>
 Types: Electric / Dragon • Egg Groups: Monster / Field
 
 <div class="pokemon-card">
@@ -478,7 +465,6 @@ Ampharosite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -488,3 +474,4 @@ Ampharosite
 #pokemon-tabs-flaaffy-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-flaaffy-panel-2 { display: block; }
 #pokemon-tabs-flaaffy-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-flaaffy-panel-3 { display: block; }
 </style>
+</details>

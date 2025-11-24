@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Lapras (#365)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-lapras">
 <input type="radio" name="pokemon-tabs-mega-lapras-group" id="pokemon-tabs-mega-lapras-tab-0">
 <label for="pokemon-tabs-mega-lapras-tab-0">Lapras</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mega-lapras-tab-1">Mega Lapras</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-lapras-panel-0">
-## Lapras (#365)
-<details class="pokemon-card-container" open>
-<summary>Lapras overview</summary>
 Types: Water / Ice • Egg Groups: Monster / Water 1
 
 <div class="pokemon-card">
@@ -125,12 +124,8 @@ Mystic Water
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-lapras-panel-1">
-## Mega Lapras (#365)
-<details class="pokemon-card-container" open>
-<summary>Mega Lapras overview</summary>
 Types: Water / Ice • Egg Groups: Monster / Water 1
 
 <div class="pokemon-card">
@@ -244,7 +239,6 @@ Laprasite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -252,3 +246,4 @@ Laprasite
 #pokemon-tabs-mega-lapras-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-lapras-panel-0 { display: block; }
 #pokemon-tabs-mega-lapras-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-lapras-panel-1 { display: block; }
 </style>
+</details>

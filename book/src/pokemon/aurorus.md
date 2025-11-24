@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Aurorus (#206)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aurorus">
 <input type="radio" name="pokemon-tabs-aurorus-group" id="pokemon-tabs-aurorus-tab-0">
 <label for="pokemon-tabs-aurorus-tab-0">Amaura</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-aurorus-tab-1">Aurorus</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-aurorus-panel-0">
-## Amaura (#205)
-<details class="pokemon-card-container" open>
-<summary>Amaura overview</summary>
 Types: Rock / Ice • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -114,12 +113,8 @@ Types: Rock / Ice • Egg Groups: Monster
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-aurorus-panel-1">
-## Aurorus (#206)
-<details class="pokemon-card-container" open>
-<summary>Aurorus overview</summary>
 Types: Rock / Ice • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -229,7 +224,6 @@ Lv. 34, Night
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -237,3 +231,4 @@ Lv. 34, Night
 #pokemon-tabs-aurorus-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-aurorus-panel-0 { display: block; }
 #pokemon-tabs-aurorus-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-aurorus-panel-1 { display: block; }
 </style>
+</details>

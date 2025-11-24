@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Quaquaval (#027)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-quaquaval">
 <input type="radio" name="pokemon-tabs-quaquaval-group" id="pokemon-tabs-quaquaval-tab-0">
 <label for="pokemon-tabs-quaquaval-tab-0">Quaxly</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-quaquaval-tab-2">Quaquaval</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-quaquaval-panel-0">
-## Quaxly (#025)
-<details class="pokemon-card-container" open>
-<summary>Quaxly overview</summary>
 Types: Water • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
@@ -84,12 +83,8 @@ Types: Water • Egg Groups: Flying / Water 1
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-quaquaval-panel-1">
-## Quaxwell (#026)
-<details class="pokemon-card-container" open>
-<summary>Quaxwell overview</summary>
 Types: Water • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
@@ -168,12 +163,8 @@ Lv. 16
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-quaquaval-panel-2">
-## Quaquaval (#027)
-<details class="pokemon-card-container" open>
-<summary>Quaquaval overview</summary>
 Types: Water / Fighting • Egg Groups: Flying / Water 1
 
 <div class="pokemon-card">
@@ -270,7 +261,6 @@ Lv. 36
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -279,3 +269,4 @@ Lv. 36
 #pokemon-tabs-quaquaval-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-quaquaval-panel-1 { display: block; }
 #pokemon-tabs-quaquaval-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-quaquaval-panel-2 { display: block; }
 </style>
+</details>

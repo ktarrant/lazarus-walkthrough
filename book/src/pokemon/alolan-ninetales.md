@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Alolan Ninetales (#148)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-ninetales">
 <input type="radio" name="pokemon-tabs-alolan-ninetales-group" id="pokemon-tabs-alolan-ninetales-tab-0">
 <label for="pokemon-tabs-alolan-ninetales-tab-0">Alolan Vulpix</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-alolan-ninetales-tab-1">Alolan Ninetales</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-ninetales-panel-0">
-## Alolan Vulpix (#147)
-<details class="pokemon-card-container" open>
-<summary>Alolan Vulpix overview</summary>
 Types: Ice / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -120,12 +119,8 @@ Snowball
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-ninetales-panel-1">
-## Alolan Ninetales (#148)
-<details class="pokemon-card-container" open>
-<summary>Alolan Ninetales overview</summary>
 Types: Ice / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -246,7 +241,6 @@ Ice Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -254,3 +248,4 @@ Ice Stone
 #pokemon-tabs-alolan-ninetales-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-ninetales-panel-0 { display: block; }
 #pokemon-tabs-alolan-ninetales-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-ninetales-panel-1 { display: block; }
 </style>
+</details>

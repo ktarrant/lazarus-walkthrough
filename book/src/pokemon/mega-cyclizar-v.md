@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Cyclizar V (#245)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-cyclizar-v">
 <input type="radio" name="pokemon-tabs-mega-cyclizar-v-group" id="pokemon-tabs-mega-cyclizar-v-tab-0">
 <label for="pokemon-tabs-mega-cyclizar-v-tab-0">Cyclizar</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mega-cyclizar-v-tab-2">Mega Cyclizar V</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-cyclizar-v-panel-0">
-## Cyclizar (#245)
-<details class="pokemon-card-container" open>
-<summary>Cyclizar overview</summary>
 Types: Dragon / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -103,12 +102,8 @@ Types: Dragon / Normal • Egg Groups: Field
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-cyclizar-v-panel-1">
-## Mega Cyclizar S (#245)
-<details class="pokemon-card-container" open>
-<summary>Mega Cyclizar S overview</summary>
 Types: Dragon / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -201,12 +196,8 @@ Cyclizite S
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-cyclizar-v-panel-2">
-## Mega Cyclizar V (#245)
-<details class="pokemon-card-container" open>
-<summary>Mega Cyclizar V overview</summary>
 Types: Dragon / Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -297,7 +288,6 @@ Cyclizite V
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -306,3 +296,4 @@ Cyclizite V
 #pokemon-tabs-mega-cyclizar-v-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-cyclizar-v-panel-1 { display: block; }
 #pokemon-tabs-mega-cyclizar-v-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-cyclizar-v-panel-2 { display: block; }
 </style>
+</details>

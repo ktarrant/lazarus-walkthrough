@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Tsareena (#133)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tsareena">
 <input type="radio" name="pokemon-tabs-tsareena-group" id="pokemon-tabs-tsareena-tab-0">
 <label for="pokemon-tabs-tsareena-tab-0">Bounsweet</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-tsareena-tab-2">Tsareena</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tsareena-panel-0">
-## Bounsweet (#131)
-<details class="pokemon-card-container" open>
-<summary>Bounsweet overview</summary>
 Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -98,12 +97,8 @@ Grassy Seed
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tsareena-panel-1">
-## Steenee (#132)
-<details class="pokemon-card-container" open>
-<summary>Steenee overview</summary>
 Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -201,12 +196,8 @@ Lv. 18
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tsareena-panel-2">
-## Tsareena (#133)
-<details class="pokemon-card-container" open>
-<summary>Tsareena overview</summary>
 Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -306,7 +297,6 @@ Lv. knows Stomp
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -315,3 +305,4 @@ Lv. knows Stomp
 #pokemon-tabs-tsareena-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-tsareena-panel-1 { display: block; }
 #pokemon-tabs-tsareena-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-tsareena-panel-2 { display: block; }
 </style>
+</details>

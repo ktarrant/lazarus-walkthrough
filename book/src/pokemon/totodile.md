@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Totodile (#217)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-totodile">
 <input type="radio" name="pokemon-tabs-totodile-group" id="pokemon-tabs-totodile-tab-0" checked>
 <label for="pokemon-tabs-totodile-tab-0">Totodile</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-totodile-tab-2">Feraligatr</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-totodile-panel-0">
-## Totodile (#217)
-<details class="pokemon-card-container" open>
-<summary>Totodile overview</summary>
 Types: Water • Egg Groups: Monster / Water 1
 
 <div class="pokemon-card">
@@ -127,12 +126,8 @@ Types: Water • Egg Groups: Monster / Water 1
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-totodile-panel-1">
-## Croconaw (#218)
-<details class="pokemon-card-container" open>
-<summary>Croconaw overview</summary>
 Types: Water • Egg Groups: Monster / Water 1
 
 <div class="pokemon-card">
@@ -254,12 +249,8 @@ Lv. 18
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-totodile-panel-2">
-## Feraligatr (#219)
-<details class="pokemon-card-container" open>
-<summary>Feraligatr overview</summary>
 Types: Water / Dark • Egg Groups: Monster / Water 1
 
 <div class="pokemon-card">
@@ -392,7 +383,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -401,3 +391,4 @@ Lv. 30
 #pokemon-tabs-totodile-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-totodile-panel-1 { display: block; }
 #pokemon-tabs-totodile-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-totodile-panel-2 { display: block; }
 </style>
+</details>

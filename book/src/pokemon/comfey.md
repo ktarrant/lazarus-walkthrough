@@ -1,6 +1,5 @@
-## Comfey (#402)
 <details class="pokemon-card-container" open>
-<summary>Comfey overview</summary>
+<summary>Comfey (#402)</summary>
 Types: Fairy / Grass • Egg Groups: Grass
 
 <div class="pokemon-card">

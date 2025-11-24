@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Aerodactyl (#382)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aerodactyl">
 <input type="radio" name="pokemon-tabs-aerodactyl-group" id="pokemon-tabs-aerodactyl-tab-0" checked>
 <label for="pokemon-tabs-aerodactyl-tab-0">Aerodactyl</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-aerodactyl-tab-1">Mega Aerodactyl</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-aerodactyl-panel-0">
-## Aerodactyl (#382)
-<details class="pokemon-card-container" open>
-<summary>Aerodactyl overview</summary>
 Types: Rock / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -125,12 +124,8 @@ Types: Rock / Flying • Egg Groups: Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-aerodactyl-panel-1">
-## Mega Aerodactyl (#382)
-<details class="pokemon-card-container" open>
-<summary>Mega Aerodactyl overview</summary>
 Types: Rock / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -245,7 +240,6 @@ Aerodactylite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -253,3 +247,4 @@ Aerodactylite
 #pokemon-tabs-aerodactyl-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-aerodactyl-panel-0 { display: block; }
 #pokemon-tabs-aerodactyl-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-aerodactyl-panel-1 { display: block; }
 </style>
+</details>

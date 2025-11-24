@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Steelix (#180)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-steelix">
 <input type="radio" name="pokemon-tabs-steelix-group" id="pokemon-tabs-steelix-tab-0">
 <label for="pokemon-tabs-steelix-tab-0">Onix</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-steelix-tab-2">Mega Steelix</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-steelix-panel-0">
-## Onix (#179)
-<details class="pokemon-card-container" open>
-<summary>Onix overview</summary>
 Types: Rock / Ground • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Types: Rock / Ground • Egg Groups: Mineral
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-steelix-panel-1">
-## Steelix (#180)
-<details class="pokemon-card-container" open>
-<summary>Steelix overview</summary>
 Types: Steel / Ground • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -256,12 +251,8 @@ Metal Coat
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-steelix-panel-2">
-## Mega Steelix (#180)
-<details class="pokemon-card-container" open>
-<summary>Mega Steelix overview</summary>
 Types: Steel / Ground • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -384,7 +375,6 @@ Steelixite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -393,3 +383,4 @@ Steelixite
 #pokemon-tabs-steelix-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-steelix-panel-1 { display: block; }
 #pokemon-tabs-steelix-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-steelix-panel-2 { display: block; }
 </style>
+</details>

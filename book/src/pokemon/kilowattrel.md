@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Kilowattrel (#243)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kilowattrel">
 <input type="radio" name="pokemon-tabs-kilowattrel-group" id="pokemon-tabs-kilowattrel-tab-0">
 <label for="pokemon-tabs-kilowattrel-tab-0">Wattrel</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-kilowattrel-tab-1">Kilowattrel</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-kilowattrel-panel-0">
-## Wattrel (#242)
-<details class="pokemon-card-container" open>
-<summary>Wattrel overview</summary>
 Types: Electric / Flying • Egg Groups: Water 1 / Flying
 
 <div class="pokemon-card">
@@ -93,12 +92,8 @@ Types: Electric / Flying • Egg Groups: Water 1 / Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-kilowattrel-panel-1">
-## Kilowattrel (#243)
-<details class="pokemon-card-container" open>
-<summary>Kilowattrel overview</summary>
 Types: Electric / Flying • Egg Groups: Water 1 / Flying
 
 <div class="pokemon-card">
@@ -186,7 +181,6 @@ Lv. 25
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -194,3 +188,4 @@ Lv. 25
 #pokemon-tabs-kilowattrel-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-kilowattrel-panel-0 { display: block; }
 #pokemon-tabs-kilowattrel-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-kilowattrel-panel-1 { display: block; }
 </style>
+</details>

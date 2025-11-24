@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Crabrawler (#273)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crabrawler">
 <input type="radio" name="pokemon-tabs-crabrawler-group" id="pokemon-tabs-crabrawler-tab-0" checked>
 <label for="pokemon-tabs-crabrawler-tab-0">Crabrawler</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-crabrawler-tab-1">Crabominable</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-crabrawler-panel-0">
-## Crabrawler (#273)
-<details class="pokemon-card-container" open>
-<summary>Crabrawler overview</summary>
 Types: Fighting • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -110,12 +109,8 @@ Aspear Berry
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-crabrawler-panel-1">
-## Crabominable (#274)
-<details class="pokemon-card-container" open>
-<summary>Crabominable overview</summary>
 Types: Fighting / Ice • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -228,7 +223,6 @@ Ice Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -236,3 +230,4 @@ Ice Stone
 #pokemon-tabs-crabrawler-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-crabrawler-panel-0 { display: block; }
 #pokemon-tabs-crabrawler-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-crabrawler-panel-1 { display: block; }
 </style>
+</details>

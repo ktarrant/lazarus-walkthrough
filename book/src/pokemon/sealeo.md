@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Sealeo (#190)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sealeo">
 <input type="radio" name="pokemon-tabs-sealeo-group" id="pokemon-tabs-sealeo-tab-0">
 <label for="pokemon-tabs-sealeo-tab-0">Spheal</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-sealeo-tab-2">Walrein</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-sealeo-panel-0">
-## Spheal (#189)
-<details class="pokemon-card-container" open>
-<summary>Spheal overview</summary>
 Types: Ice / Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -125,12 +124,8 @@ Types: Ice / Water • Egg Groups: Water 1 / Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-sealeo-panel-1">
-## Sealeo (#190)
-<details class="pokemon-card-container" open>
-<summary>Sealeo overview</summary>
 Types: Ice / Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -249,12 +244,8 @@ Lv. 24
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-sealeo-panel-2">
-## Walrein (#191)
-<details class="pokemon-card-container" open>
-<summary>Walrein overview</summary>
 Types: Ice / Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -373,7 +364,6 @@ Lv. 44
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -382,3 +372,4 @@ Lv. 44
 #pokemon-tabs-sealeo-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-sealeo-panel-1 { display: block; }
 #pokemon-tabs-sealeo-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-sealeo-panel-2 { display: block; }
 </style>
+</details>

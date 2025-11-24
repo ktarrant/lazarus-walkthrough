@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Sneasler (#202)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sneasler">
 <input type="radio" name="pokemon-tabs-sneasler-group" id="pokemon-tabs-sneasler-tab-0">
 <label for="pokemon-tabs-sneasler-tab-0">Hisuian Sneasel</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-sneasler-tab-1">Sneasler</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-sneasler-panel-0">
-## Hisuian Sneasel (#200)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Sneasel overview</summary>
 Types: Poison / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -106,12 +105,8 @@ Quick Claw
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-sneasler-panel-1">
-## Sneasler (#202)
-<details class="pokemon-card-container" open>
-<summary>Sneasler overview</summary>
 Types: Fighting / Poison • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -210,7 +205,6 @@ Razor Claw
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -218,3 +212,4 @@ Razor Claw
 #pokemon-tabs-sneasler-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-sneasler-panel-0 { display: block; }
 #pokemon-tabs-sneasler-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-sneasler-panel-1 { display: block; }
 </style>
+</details>

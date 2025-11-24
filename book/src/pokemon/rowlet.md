@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Rowlet (#001)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-rowlet">
 <input type="radio" name="pokemon-tabs-rowlet-group" id="pokemon-tabs-rowlet-tab-0" checked>
 <label for="pokemon-tabs-rowlet-tab-0">Rowlet</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-rowlet-tab-3">Decidueye</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-0">
-## Rowlet (#001)
-<details class="pokemon-card-container" open>
-<summary>Rowlet overview</summary>
 Types: Grass / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -106,12 +105,8 @@ Types: Grass / Flying • Egg Groups: Flying
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-1">
-## Dartrix (#002)
-<details class="pokemon-card-container" open>
-<summary>Dartrix overview</summary>
 Types: Grass / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -206,12 +201,8 @@ Lv. 17
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-2">
-## Hisuian Decidueye (#003)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Decidueye overview</summary>
 Types: Grass / Fighting • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -315,12 +306,8 @@ Lv. 34, Day
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-rowlet-panel-3">
-## Decidueye (#003)
-<details class="pokemon-card-container" open>
-<summary>Decidueye overview</summary>
 Types: Grass / Ghost • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -425,7 +412,6 @@ Lv. 34, Night
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -435,3 +421,4 @@ Lv. 34, Night
 #pokemon-tabs-rowlet-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-rowlet-panel-2 { display: block; }
 #pokemon-tabs-rowlet-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-rowlet-panel-3 { display: block; }
 </style>
+</details>

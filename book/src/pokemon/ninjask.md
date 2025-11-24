@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Ninjask (#046)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ninjask">
 <input type="radio" name="pokemon-tabs-ninjask-group" id="pokemon-tabs-ninjask-tab-0">
 <label for="pokemon-tabs-ninjask-tab-0">Nincada</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-ninjask-tab-1">Ninjask</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ninjask-panel-0">
-## Nincada (#045)
-<details class="pokemon-card-container" open>
-<summary>Nincada overview</summary>
 Types: Bug / Ground • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -101,12 +100,8 @@ Soft Sand
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ninjask-panel-1">
-## Ninjask (#046)
-<details class="pokemon-card-container" open>
-<summary>Ninjask overview</summary>
 Types: Bug / Dark • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -217,7 +212,6 @@ Lv. 20
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -225,3 +219,4 @@ Lv. 20
 #pokemon-tabs-ninjask-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ninjask-panel-0 { display: block; }
 #pokemon-tabs-ninjask-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ninjask-panel-1 { display: block; }
 </style>
+</details>

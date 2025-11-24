@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Meowth (#207)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-meowth">
 <input type="radio" name="pokemon-tabs-meowth-group" id="pokemon-tabs-meowth-tab-0" checked>
 <label for="pokemon-tabs-meowth-tab-0">Meowth</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-meowth-tab-1">Persian</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-meowth-panel-0">
-## Meowth (#207)
-<details class="pokemon-card-container" open>
-<summary>Meowth overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Quick Claw
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-meowth-panel-1">
-## Persian (#208)
-<details class="pokemon-card-container" open>
-<summary>Persian overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -239,7 +234,6 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -247,3 +241,4 @@ Lv. 27
 #pokemon-tabs-meowth-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-meowth-panel-0 { display: block; }
 #pokemon-tabs-meowth-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-meowth-panel-1 { display: block; }
 </style>
+</details>

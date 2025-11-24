@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Alolan Grimer (#071)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-grimer">
 <input type="radio" name="pokemon-tabs-alolan-grimer-group" id="pokemon-tabs-alolan-grimer-tab-0" checked>
 <label for="pokemon-tabs-alolan-grimer-tab-0">Alolan Grimer</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-alolan-grimer-tab-1">Alolan Muk</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-grimer-panel-0">
-## Alolan Grimer (#071)
-<details class="pokemon-card-container" open>
-<summary>Alolan Grimer overview</summary>
 Types: Poison / Dark • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -130,12 +129,8 @@ Black Sludge
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-grimer-panel-1">
-## Alolan Muk (#072)
-<details class="pokemon-card-container" open>
-<summary>Alolan Muk overview</summary>
 Types: Poison / Dark • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -261,7 +256,6 @@ Lv. 36
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -269,3 +263,4 @@ Lv. 36
 #pokemon-tabs-alolan-grimer-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-grimer-panel-0 { display: block; }
 #pokemon-tabs-alolan-grimer-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-grimer-panel-1 { display: block; }
 </style>
+</details>

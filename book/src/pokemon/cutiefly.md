@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Cutiefly (#069)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cutiefly">
 <input type="radio" name="pokemon-tabs-cutiefly-group" id="pokemon-tabs-cutiefly-tab-0" checked>
 <label for="pokemon-tabs-cutiefly-tab-0">Cutiefly</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-cutiefly-tab-2">Mega Ribombee</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cutiefly-panel-0">
-## Cutiefly (#069)
-<details class="pokemon-card-container" open>
-<summary>Cutiefly overview</summary>
 Types: Bug / Fairy • Egg Groups: Bug / Fairy
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Honey
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cutiefly-panel-1">
-## Ribombee (#070)
-<details class="pokemon-card-container" open>
-<summary>Ribombee overview</summary>
 Types: Bug / Fairy • Egg Groups: Bug / Fairy
 
 <div class="pokemon-card">
@@ -223,12 +218,8 @@ Lv. 25
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cutiefly-panel-2">
-## Mega Ribombee (#070)
-<details class="pokemon-card-container" open>
-<summary>Mega Ribombee overview</summary>
 Types: Bug / Fairy • Egg Groups: Bug / Fairy
 
 <div class="pokemon-card">
@@ -326,7 +317,6 @@ Ribombite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -335,3 +325,4 @@ Ribombite
 #pokemon-tabs-cutiefly-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cutiefly-panel-1 { display: block; }
 #pokemon-tabs-cutiefly-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-cutiefly-panel-2 { display: block; }
 </style>
+</details>

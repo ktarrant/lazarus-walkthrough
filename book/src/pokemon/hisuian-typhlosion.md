@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hisuian Typhlosion (#216)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-typhlosion">
 <input type="radio" name="pokemon-tabs-hisuian-typhlosion-group" id="pokemon-tabs-hisuian-typhlosion-tab-0">
 <label for="pokemon-tabs-hisuian-typhlosion-tab-0">Cyndaquil</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-hisuian-typhlosion-tab-3">Hisuian Typhlosion</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-typhlosion-panel-0">
-## Cyndaquil (#214)
-<details class="pokemon-card-container" open>
-<summary>Cyndaquil overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Fire • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-typhlosion-panel-1">
-## Quilava (#215)
-<details class="pokemon-card-container" open>
-<summary>Quilava overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -231,12 +226,8 @@ Lv. 14
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-typhlosion-panel-2">
-## Typhlosion (#216)
-<details class="pokemon-card-container" open>
-<summary>Typhlosion overview</summary>
 Types: Fire / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -364,12 +355,8 @@ Lv. 36
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-typhlosion-panel-3">
-## Hisuian Typhlosion (#216)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Typhlosion overview</summary>
 Types: Fire / Ghost • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -490,7 +477,6 @@ Dusk Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -500,3 +486,4 @@ Dusk Stone
 #pokemon-tabs-hisuian-typhlosion-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-typhlosion-panel-2 { display: block; }
 #pokemon-tabs-hisuian-typhlosion-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-typhlosion-panel-3 { display: block; }
 </style>
+</details>

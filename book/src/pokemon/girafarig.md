@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Girafarig (#366)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-girafarig">
 <input type="radio" name="pokemon-tabs-girafarig-group" id="pokemon-tabs-girafarig-tab-0" checked>
 <label for="pokemon-tabs-girafarig-tab-0">Girafarig</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-girafarig-tab-1">Farigiraf</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-girafarig-panel-0">
-## Girafarig (#366)
-<details class="pokemon-card-container" open>
-<summary>Girafarig overview</summary>
 Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Types: Normal / Psychic • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-girafarig-panel-1">
-## Farigiraf (#367)
-<details class="pokemon-card-container" open>
-<summary>Farigiraf overview</summary>
 Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -236,7 +231,6 @@ Lv. knows Twin Beam
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -244,3 +238,4 @@ Lv. knows Twin Beam
 #pokemon-tabs-girafarig-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-girafarig-panel-0 { display: block; }
 #pokemon-tabs-girafarig-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-girafarig-panel-1 { display: block; }
 </style>
+</details>

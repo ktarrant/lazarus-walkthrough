@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Drowzee (#283)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-drowzee">
 <input type="radio" name="pokemon-tabs-drowzee-group" id="pokemon-tabs-drowzee-tab-0" checked>
 <label for="pokemon-tabs-drowzee-tab-0">Drowzee</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-drowzee-tab-1">Hypno</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-drowzee-panel-0">
-## Drowzee (#283)
-<details class="pokemon-card-container" open>
-<summary>Drowzee overview</summary>
 Types: Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -130,12 +129,8 @@ Types: Psychic • Egg Groups: Human-Like
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-drowzee-panel-1">
-## Hypno (#284)
-<details class="pokemon-card-container" open>
-<summary>Hypno overview</summary>
 Types: Psychic / Dark • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -259,7 +254,6 @@ Lv. 26
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -267,3 +261,4 @@ Lv. 26
 #pokemon-tabs-drowzee-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-drowzee-panel-0 { display: block; }
 #pokemon-tabs-drowzee-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-drowzee-panel-1 { display: block; }
 </style>
+</details>

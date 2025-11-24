@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Basculin White (#287)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-basculin-white">
 <input type="radio" name="pokemon-tabs-basculin-white-group" id="pokemon-tabs-basculin-white-tab-0" checked>
 <label for="pokemon-tabs-basculin-white-tab-0">Basculin White</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-basculin-white-tab-2">Basculegion♀</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-basculin-white-panel-0">
-## Basculin White (#287)
-<details class="pokemon-card-container" open>
-<summary>Basculin White overview</summary>
 Types: Water • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -92,12 +91,8 @@ Deep Sea Scale
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-basculin-white-panel-1">
-## Basculegion♂ (#288)
-<details class="pokemon-card-container" open>
-<summary>Basculegion♂ overview</summary>
 Types: Water / Ghost • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -194,12 +189,8 @@ Lv. after 294 Recoil Dmg, Male
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-basculin-white-panel-2">
-## Basculegion♀ (#288)
-<details class="pokemon-card-container" open>
-<summary>Basculegion♀ overview</summary>
 Types: Water / Ghost • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -296,7 +287,6 @@ Lv. after 294 Recoil Dmg, Female
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -305,3 +295,4 @@ Lv. after 294 Recoil Dmg, Female
 #pokemon-tabs-basculin-white-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-basculin-white-panel-1 { display: block; }
 #pokemon-tabs-basculin-white-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-basculin-white-panel-2 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Doublade (#150)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-doublade">
 <input type="radio" name="pokemon-tabs-doublade-group" id="pokemon-tabs-doublade-tab-0">
 <label for="pokemon-tabs-doublade-tab-0">Honedge</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-doublade-tab-2">Aegislash</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-doublade-panel-0">
-## Honedge (#149)
-<details class="pokemon-card-container" open>
-<summary>Honedge overview</summary>
 Types: Steel / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -109,12 +108,8 @@ Types: Steel / Ghost • Egg Groups: Mineral
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-doublade-panel-1">
-## Doublade (#150)
-<details class="pokemon-card-container" open>
-<summary>Doublade overview</summary>
 Types: Steel / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -215,12 +210,8 @@ Lv. 32
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-doublade-panel-2">
-## Aegislash (#151)
-<details class="pokemon-card-container" open>
-<summary>Aegislash overview</summary>
 Types: Steel / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -320,7 +311,6 @@ Dusk Stone
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -329,3 +319,4 @@ Dusk Stone
 #pokemon-tabs-doublade-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-doublade-panel-1 { display: block; }
 #pokemon-tabs-doublade-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-doublade-panel-2 { display: block; }
 </style>
+</details>

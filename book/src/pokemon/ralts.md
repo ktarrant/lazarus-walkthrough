@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Ralts (#079)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ralts">
 <input type="radio" name="pokemon-tabs-ralts-group" id="pokemon-tabs-ralts-tab-0" checked>
 <label for="pokemon-tabs-ralts-tab-0">Ralts</label>
@@ -13,9 +15,6 @@
 <label for="pokemon-tabs-ralts-tab-5">Mega Gallade</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ralts-panel-0">
-## Ralts (#079)
-<details class="pokemon-card-container" open>
-<summary>Ralts overview</summary>
 Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
@@ -137,12 +136,8 @@ Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ralts-panel-1">
-## Kirlia (#080)
-<details class="pokemon-card-container" open>
-<summary>Kirlia overview</summary>
 Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
@@ -270,12 +265,8 @@ Lv. 20
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ralts-panel-2">
-## Gardevoir (#081)
-<details class="pokemon-card-container" open>
-<summary>Gardevoir overview</summary>
 Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
@@ -401,12 +392,8 @@ Lv. 30
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ralts-panel-3">
-## Mega Gardevoir (#081)
-<details class="pokemon-card-container" open>
-<summary>Mega Gardevoir overview</summary>
 Types: Psychic / Fairy • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
@@ -530,12 +517,8 @@ Gardevoirite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ralts-panel-4">
-## Gallade (#082)
-<details class="pokemon-card-container" open>
-<summary>Gallade overview</summary>
 Types: Psychic / Fighting • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
@@ -673,12 +656,8 @@ Dawn Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ralts-panel-5">
-## Mega Gallade (#082)
-<details class="pokemon-card-container" open>
-<summary>Mega Gallade overview</summary>
 Types: Psychic / Fighting • Egg Groups: Human-Like / Amorphous
 
 <div class="pokemon-card">
@@ -814,7 +793,6 @@ Galladite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -826,3 +804,4 @@ Galladite
 #pokemon-tabs-ralts-tab-4:checked ~ .pokemon-tab-panels #pokemon-tabs-ralts-panel-4 { display: block; }
 #pokemon-tabs-ralts-tab-5:checked ~ .pokemon-tab-panels #pokemon-tabs-ralts-panel-5 { display: block; }
 </style>
+</details>

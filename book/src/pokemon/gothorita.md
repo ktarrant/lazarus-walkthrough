@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gothorita (#294)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gothorita">
 <input type="radio" name="pokemon-tabs-gothorita-group" id="pokemon-tabs-gothorita-tab-0">
 <label for="pokemon-tabs-gothorita-tab-0">Gothita</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-gothorita-tab-2">Gothitelle</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gothorita-panel-0">
-## Gothita (#293)
-<details class="pokemon-card-container" open>
-<summary>Gothita overview</summary>
 Types: Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Types: Psychic • Egg Groups: Human-Like
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gothorita-panel-1">
-## Gothorita (#294)
-<details class="pokemon-card-container" open>
-<summary>Gothorita overview</summary>
 Types: Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -226,12 +221,8 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gothorita-panel-2">
-## Gothitelle (#295)
-<details class="pokemon-card-container" open>
-<summary>Gothitelle overview</summary>
 Types: Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -343,7 +334,6 @@ Lv. 41
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -352,3 +342,4 @@ Lv. 41
 #pokemon-tabs-gothorita-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gothorita-panel-1 { display: block; }
 #pokemon-tabs-gothorita-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-gothorita-panel-2 { display: block; }
 </style>
+</details>

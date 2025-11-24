@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Ogerpon Cornerstone (#430)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ogerpon-cornerstone">
 <input type="radio" name="pokemon-tabs-ogerpon-cornerstone-group" id="pokemon-tabs-ogerpon-cornerstone-tab-0">
 <label for="pokemon-tabs-ogerpon-cornerstone-tab-0">Ogerpon</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-ogerpon-cornerstone-tab-3">Ogerpon Wellspring</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-0">
-## Ogerpon (#430)
-<details class="pokemon-card-container" open>
-<summary>Ogerpon overview</summary>
 Types: Grass • Egg Groups: -
 
 <div class="pokemon-card">
@@ -93,12 +92,8 @@ Types: Grass • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-1">
-## Ogerpon Cornerstone (#430)
-<details class="pokemon-card-container" open>
-<summary>Ogerpon Cornerstone overview</summary>
 Types: Grass / Rock • Egg Groups: -
 
 <div class="pokemon-card">
@@ -177,12 +172,8 @@ Types: Grass / Rock • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-2">
-## Ogerpon Hearthflame (#430)
-<details class="pokemon-card-container" open>
-<summary>Ogerpon Hearthflame overview</summary>
 Types: Grass / Fire • Egg Groups: -
 
 <div class="pokemon-card">
@@ -262,12 +253,8 @@ Types: Grass / Fire • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-3">
-## Ogerpon Wellspring (#430)
-<details class="pokemon-card-container" open>
-<summary>Ogerpon Wellspring overview</summary>
 Types: Grass / Water • Egg Groups: -
 
 <div class="pokemon-card">
@@ -346,7 +333,6 @@ Types: Grass / Water • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -356,3 +342,4 @@ Types: Grass / Water • Egg Groups: -
 #pokemon-tabs-ogerpon-cornerstone-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-ogerpon-cornerstone-panel-2 { display: block; }
 #pokemon-tabs-ogerpon-cornerstone-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-ogerpon-cornerstone-panel-3 { display: block; }
 </style>
+</details>

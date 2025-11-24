@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Copperajah (#197)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-copperajah">
 <input type="radio" name="pokemon-tabs-copperajah-group" id="pokemon-tabs-copperajah-tab-0">
 <label for="pokemon-tabs-copperajah-tab-0">Cufant</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-copperajah-tab-2">Mega Copperajah</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-copperajah-panel-0">
-## Cufant (#196)
-<details class="pokemon-card-container" open>
-<summary>Cufant overview</summary>
 Types: Steel / Normal • Egg Groups: Field / Mineral
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Lagging Tail
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-copperajah-panel-1">
-## Copperajah (#197)
-<details class="pokemon-card-container" open>
-<summary>Copperajah overview</summary>
 Types: Steel / Normal • Egg Groups: Field / Mineral
 
 <div class="pokemon-card">
@@ -233,12 +228,8 @@ Lv. 34
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-copperajah-panel-2">
-## Mega Copperajah (#197)
-<details class="pokemon-card-container" open>
-<summary>Mega Copperajah overview</summary>
 Types: Steel / Normal • Egg Groups: Field / Mineral
 
 <div class="pokemon-card">
@@ -346,7 +337,6 @@ Copperajite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -355,3 +345,4 @@ Copperajite
 #pokemon-tabs-copperajah-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-copperajah-panel-1 { display: block; }
 #pokemon-tabs-copperajah-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-copperajah-panel-2 { display: block; }
 </style>
+</details>

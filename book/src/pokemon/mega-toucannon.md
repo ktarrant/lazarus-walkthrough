@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Toucannon (#039)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-toucannon">
 <input type="radio" name="pokemon-tabs-mega-toucannon-group" id="pokemon-tabs-mega-toucannon-tab-0">
 <label for="pokemon-tabs-mega-toucannon-tab-0">Pikipek</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-mega-toucannon-tab-3">Mega Toucannon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-toucannon-panel-0">
-## Pikipek (#037)
-<details class="pokemon-card-container" open>
-<summary>Pikipek overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -102,12 +101,8 @@ Oran Berry
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-toucannon-panel-1">
-## Trumbeak (#038)
-<details class="pokemon-card-container" open>
-<summary>Trumbeak overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -205,12 +200,8 @@ Lv. 14
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-toucannon-panel-2">
-## Toucannon (#039)
-<details class="pokemon-card-container" open>
-<summary>Toucannon overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -308,12 +299,8 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-toucannon-panel-3">
-## Mega Toucannon (#039)
-<details class="pokemon-card-container" open>
-<summary>Mega Toucannon overview</summary>
 Types: Fire / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -409,7 +396,6 @@ Toucannonite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -419,3 +405,4 @@ Toucannonite
 #pokemon-tabs-mega-toucannon-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-toucannon-panel-2 { display: block; }
 #pokemon-tabs-mega-toucannon-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-toucannon-panel-3 { display: block; }
 </style>
+</details>

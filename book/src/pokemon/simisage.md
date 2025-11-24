@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Simisage (#029)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-simisage">
 <input type="radio" name="pokemon-tabs-simisage-group" id="pokemon-tabs-simisage-tab-0">
 <label for="pokemon-tabs-simisage-tab-0">Pansage</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-simisage-tab-1">Simisage</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-simisage-panel-0">
-## Pansage (#028)
-<details class="pokemon-card-container" open>
-<summary>Pansage overview</summary>
 Types: Grass / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Types: Grass / Normal • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-simisage-panel-1">
-## Simisage (#029)
-<details class="pokemon-card-container" open>
-<summary>Simisage overview</summary>
 Types: Grass / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -222,7 +217,6 @@ Leaf Stone
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -230,3 +224,4 @@ Leaf Stone
 #pokemon-tabs-simisage-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-simisage-panel-0 { display: block; }
 #pokemon-tabs-simisage-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-simisage-panel-1 { display: block; }
 </style>
+</details>

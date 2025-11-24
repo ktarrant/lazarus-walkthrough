@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Marowak (#058)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-marowak">
 <input type="radio" name="pokemon-tabs-marowak-group" id="pokemon-tabs-marowak-tab-0">
 <label for="pokemon-tabs-marowak-tab-0">Cubone</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-marowak-tab-2">Alolan Marowak</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-marowak-panel-0">
-## Cubone (#057)
-<details class="pokemon-card-container" open>
-<summary>Cubone overview</summary>
 Types: Ground • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Thick Club
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-marowak-panel-1">
-## Marowak (#058)
-<details class="pokemon-card-container" open>
-<summary>Marowak overview</summary>
 Types: Ground • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -239,12 +234,8 @@ Lv. 28, Day
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-marowak-panel-2">
-## Alolan Marowak (#058)
-<details class="pokemon-card-container" open>
-<summary>Alolan Marowak overview</summary>
 Types: Fire / Ghost • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -364,7 +355,6 @@ Lv. 28, Night
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -373,3 +363,4 @@ Lv. 28, Night
 #pokemon-tabs-marowak-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-marowak-panel-1 { display: block; }
 #pokemon-tabs-marowak-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-marowak-panel-2 { display: block; }
 </style>
+</details>

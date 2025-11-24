@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Floatzel (#239)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-floatzel">
 <input type="radio" name="pokemon-tabs-floatzel-group" id="pokemon-tabs-floatzel-tab-0">
 <label for="pokemon-tabs-floatzel-tab-0">Buizel</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-floatzel-tab-1">Floatzel</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-floatzel-panel-0">
-## Buizel (#238)
-<details class="pokemon-card-container" open>
-<summary>Buizel overview</summary>
 Types: Water • Egg Groups: Field / Water 1
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Types: Water • Egg Groups: Field / Water 1
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-floatzel-panel-1">
-## Floatzel (#239)
-<details class="pokemon-card-container" open>
-<summary>Floatzel overview</summary>
 Types: Water • Egg Groups: Field / Water 1
 
 <div class="pokemon-card">
@@ -246,7 +241,6 @@ Lv. 26
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -254,3 +248,4 @@ Lv. 26
 #pokemon-tabs-floatzel-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-floatzel-panel-0 { display: block; }
 #pokemon-tabs-floatzel-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-floatzel-panel-1 { display: block; }
 </style>
+</details>

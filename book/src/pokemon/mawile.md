@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mawile (#104)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mawile">
 <input type="radio" name="pokemon-tabs-mawile-group" id="pokemon-tabs-mawile-tab-0" checked>
 <label for="pokemon-tabs-mawile-tab-0">Mawile</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mawile-tab-1">Mega Mawile</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mawile-panel-0">
-## Mawile (#104)
-<details class="pokemon-card-container" open>
-<summary>Mawile overview</summary>
 Types: Steel / Fairy • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -150,12 +149,8 @@ Iron Ball
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mawile-panel-1">
-## Mega Mawile (#104)
-<details class="pokemon-card-container" open>
-<summary>Mega Mawile overview</summary>
 Types: Steel / Fairy • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -292,7 +287,6 @@ Mawilite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -300,3 +294,4 @@ Mawilite
 #pokemon-tabs-mawile-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mawile-panel-0 { display: block; }
 #pokemon-tabs-mawile-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mawile-panel-1 { display: block; }
 </style>
+</details>

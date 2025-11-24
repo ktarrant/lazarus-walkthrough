@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Lycanroc (#106)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lycanroc">
 <input type="radio" name="pokemon-tabs-lycanroc-group" id="pokemon-tabs-lycanroc-tab-0">
 <label for="pokemon-tabs-lycanroc-tab-0">Rockruff</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-lycanroc-tab-3">Dusk Lycanroc</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-panel-0">
-## Rockruff (#105)
-<details class="pokemon-card-container" open>
-<summary>Rockruff overview</summary>
 Types: Rock • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -104,12 +103,8 @@ Types: Rock • Egg Groups: Field
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-panel-1">
-## Lycanroc (#106)
-<details class="pokemon-card-container" open>
-<summary>Lycanroc overview</summary>
 Types: Rock • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -209,12 +204,8 @@ Lv. 25, Day
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-panel-2">
-## Midnight Lycanroc (#106)
-<details class="pokemon-card-container" open>
-<summary>Midnight Lycanroc overview</summary>
 Types: Rock / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -323,12 +314,8 @@ Lv. 25, Night
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lycanroc-panel-3">
-## Dusk Lycanroc (#106)
-<details class="pokemon-card-container" open>
-<summary>Dusk Lycanroc overview</summary>
 Types: Rock / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -431,7 +418,6 @@ Lv. 25, Dusk (7-8pm)
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -441,3 +427,4 @@ Lv. 25, Dusk (7-8pm)
 #pokemon-tabs-lycanroc-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-panel-2 { display: block; }
 #pokemon-tabs-lycanroc-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-lycanroc-panel-3 { display: block; }
 </style>
+</details>

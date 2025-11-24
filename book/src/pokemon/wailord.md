@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Wailord (#259)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wailord">
 <input type="radio" name="pokemon-tabs-wailord-group" id="pokemon-tabs-wailord-tab-0">
 <label for="pokemon-tabs-wailord-tab-0">Wailmer</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-wailord-tab-1">Wailord</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wailord-panel-0">
-## Wailmer (#258)
-<details class="pokemon-card-container" open>
-<summary>Wailmer overview</summary>
 Types: Water • Egg Groups: Field / Water 2
 
 <div class="pokemon-card">
@@ -134,12 +133,8 @@ Types: Water • Egg Groups: Field / Water 2
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wailord-panel-1">
-## Wailord (#259)
-<details class="pokemon-card-container" open>
-<summary>Wailord overview</summary>
 Types: Water • Egg Groups: Field / Water 2
 
 <div class="pokemon-card">
@@ -248,7 +243,6 @@ Lv. 40
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -256,3 +250,4 @@ Lv. 40
 #pokemon-tabs-wailord-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wailord-panel-0 { display: block; }
 #pokemon-tabs-wailord-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wailord-panel-1 { display: block; }
 </style>
+</details>

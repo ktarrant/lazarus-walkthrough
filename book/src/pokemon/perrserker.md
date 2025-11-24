@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Perrserker (#209)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-perrserker">
 <input type="radio" name="pokemon-tabs-perrserker-group" id="pokemon-tabs-perrserker-tab-0">
 <label for="pokemon-tabs-perrserker-tab-0">Galarian Meowth</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-perrserker-tab-1">Perrserker</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-perrserker-panel-0">
-## Galarian Meowth (#207)
-<details class="pokemon-card-container" open>
-<summary>Galarian Meowth overview</summary>
 Types: Steel • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -109,12 +108,8 @@ Types: Steel • Egg Groups: Field
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-perrserker-panel-1">
-## Perrserker (#209)
-<details class="pokemon-card-container" open>
-<summary>Perrserker overview</summary>
 Types: Steel • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -224,7 +219,6 @@ Lv. 27
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -232,3 +226,4 @@ Lv. 27
 #pokemon-tabs-perrserker-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-perrserker-panel-0 { display: block; }
 #pokemon-tabs-perrserker-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-perrserker-panel-1 { display: block; }
 </style>
+</details>

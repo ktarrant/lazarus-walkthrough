@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Chikorita (#211)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-chikorita">
 <input type="radio" name="pokemon-tabs-chikorita-group" id="pokemon-tabs-chikorita-tab-0" checked>
 <label for="pokemon-tabs-chikorita-tab-0">Chikorita</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-chikorita-tab-2">Meganium</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-panel-0">
-## Chikorita (#211)
-<details class="pokemon-card-container" open>
-<summary>Chikorita overview</summary>
 Types: Grass • Egg Groups: Monster / Grass
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Types: Grass • Egg Groups: Monster / Grass
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-panel-1">
-## Bayleef (#212)
-<details class="pokemon-card-container" open>
-<summary>Bayleef overview</summary>
 Types: Grass • Egg Groups: Monster / Grass
 
 <div class="pokemon-card">
@@ -228,12 +223,8 @@ Lv. 16
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chikorita-panel-2">
-## Meganium (#213)
-<details class="pokemon-card-container" open>
-<summary>Meganium overview</summary>
 Types: Grass / Fairy • Egg Groups: Monster / Grass
 
 <div class="pokemon-card">
@@ -352,7 +343,6 @@ Lv. 32
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -361,3 +351,4 @@ Lv. 32
 #pokemon-tabs-chikorita-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-chikorita-panel-1 { display: block; }
 #pokemon-tabs-chikorita-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-chikorita-panel-2 { display: block; }
 </style>
+</details>

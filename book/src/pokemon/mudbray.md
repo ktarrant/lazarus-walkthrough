@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mudbray (#059)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mudbray">
 <input type="radio" name="pokemon-tabs-mudbray-group" id="pokemon-tabs-mudbray-tab-0" checked>
 <label for="pokemon-tabs-mudbray-tab-0">Mudbray</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mudbray-tab-1">Mudsdale</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mudbray-panel-0">
-## Mudbray (#059)
-<details class="pokemon-card-container" open>
-<summary>Mudbray overview</summary>
 Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -105,12 +104,8 @@ Light Clay
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mudbray-panel-1">
-## Mudsdale (#060)
-<details class="pokemon-card-container" open>
-<summary>Mudsdale overview</summary>
 Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -203,7 +198,6 @@ Lv. 30
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -211,3 +205,4 @@ Lv. 30
 #pokemon-tabs-mudbray-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mudbray-panel-0 { display: block; }
 #pokemon-tabs-mudbray-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mudbray-panel-1 { display: block; }
 </style>
+</details>

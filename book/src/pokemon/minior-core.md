@@ -1,6 +1,5 @@
-## Minior Core (#154)
 <details class="pokemon-card-container" open>
-<summary>Minior Core overview</summary>
+<summary>Minior Core (#154)</summary>
 Types: Rock / Flying • Egg Groups: Mineral
 
 <div class="pokemon-card">

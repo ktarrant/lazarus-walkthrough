@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Vibrava (#322)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vibrava">
 <input type="radio" name="pokemon-tabs-vibrava-group" id="pokemon-tabs-vibrava-tab-0">
 <label for="pokemon-tabs-vibrava-tab-0">Trapinch</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-vibrava-tab-3">Mega Flygon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-vibrava-panel-0">
-## Trapinch (#321)
-<details class="pokemon-card-container" open>
-<summary>Trapinch overview</summary>
 Types: Ground • Egg Groups: Bug / Dragon
 
 <div class="pokemon-card">
@@ -116,12 +115,8 @@ Soft Sand
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vibrava-panel-1">
-## Vibrava (#322)
-<details class="pokemon-card-container" open>
-<summary>Vibrava overview</summary>
 Types: Ground / Dragon • Egg Groups: Bug / Dragon
 
 <div class="pokemon-card">
@@ -230,12 +225,8 @@ Lv. 22
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vibrava-panel-2">
-## Flygon (#323)
-<details class="pokemon-card-container" open>
-<summary>Flygon overview</summary>
 Types: Ground / Dragon • Egg Groups: Bug / Dragon
 
 <div class="pokemon-card">
@@ -353,12 +344,8 @@ Lv. 45
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vibrava-panel-3">
-## Mega Flygon (#323)
-<details class="pokemon-card-container" open>
-<summary>Mega Flygon overview</summary>
 Types: Bug / Dragon • Egg Groups: Bug / Dragon
 
 <div class="pokemon-card">
@@ -478,7 +465,6 @@ Flygonite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -488,3 +474,4 @@ Flygonite
 #pokemon-tabs-vibrava-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-vibrava-panel-2 { display: block; }
 #pokemon-tabs-vibrava-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-vibrava-panel-3 { display: block; }
 </style>
+</details>

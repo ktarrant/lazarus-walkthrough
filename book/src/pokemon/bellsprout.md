@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Bellsprout (#368)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bellsprout">
 <input type="radio" name="pokemon-tabs-bellsprout-group" id="pokemon-tabs-bellsprout-tab-0" checked>
 <label for="pokemon-tabs-bellsprout-tab-0">Bellsprout</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-bellsprout-tab-3">Mega Victreebel</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-bellsprout-panel-0">
-## Bellsprout (#368)
-<details class="pokemon-card-container" open>
-<summary>Bellsprout overview</summary>
 Types: Grass / Poison • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Grass / Poison • Egg Groups: Grass
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-bellsprout-panel-1">
-## Weepinbell (#369)
-<details class="pokemon-card-container" open>
-<summary>Weepinbell overview</summary>
 Types: Grass / Poison • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -236,12 +231,8 @@ Lv. 21
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-bellsprout-panel-2">
-## Victreebel (#370)
-<details class="pokemon-card-container" open>
-<summary>Victreebel overview</summary>
 Types: Grass / Poison • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -356,12 +347,8 @@ Leaf Stone
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-bellsprout-panel-3">
-## Mega Victreebel (#370)
-<details class="pokemon-card-container" open>
-<summary>Mega Victreebel overview</summary>
 Types: Grass / Poison • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -470,7 +457,6 @@ Victreebite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -480,3 +466,4 @@ Victreebite
 #pokemon-tabs-bellsprout-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-bellsprout-panel-2 { display: block; }
 #pokemon-tabs-bellsprout-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-bellsprout-panel-3 { display: block; }
 </style>
+</details>

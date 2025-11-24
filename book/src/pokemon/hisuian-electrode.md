@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hisuian Electrode (#364)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-electrode">
 <input type="radio" name="pokemon-tabs-hisuian-electrode-group" id="pokemon-tabs-hisuian-electrode-tab-0">
 <label for="pokemon-tabs-hisuian-electrode-tab-0">Hisuian Voltorb</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-hisuian-electrode-tab-1">Hisuian Electrode</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-electrode-panel-0">
-## Hisuian Voltorb (#363)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Voltorb overview</summary>
 Types: Electric / Grass • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -89,12 +88,8 @@ Types: Electric / Grass • Egg Groups: Mineral
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-electrode-panel-1">
-## Hisuian Electrode (#364)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Electrode overview</summary>
 Types: Electric / Grass • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -181,7 +176,6 @@ Leaf Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -189,3 +183,4 @@ Leaf Stone
 #pokemon-tabs-hisuian-electrode-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-electrode-panel-0 { display: block; }
 #pokemon-tabs-hisuian-electrode-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-electrode-panel-1 { display: block; }
 </style>
+</details>

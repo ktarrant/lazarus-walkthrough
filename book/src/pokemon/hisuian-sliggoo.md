@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hisuian Sliggoo (#352)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-sliggoo">
 <input type="radio" name="pokemon-tabs-hisuian-sliggoo-group" id="pokemon-tabs-hisuian-sliggoo-tab-0">
 <label for="pokemon-tabs-hisuian-sliggoo-tab-0">Goomy</label>
@@ -11,9 +13,6 @@
 <label for="pokemon-tabs-hisuian-sliggoo-tab-4">Hisuian Goodra</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-sliggoo-panel-0">
-## Goomy (#351)
-<details class="pokemon-card-container" open>
-<summary>Goomy overview</summary>
 Types: Dragon • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -110,12 +109,8 @@ Shed Shell
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-sliggoo-panel-1">
-## Sliggoo (#352)
-<details class="pokemon-card-container" open>
-<summary>Sliggoo overview</summary>
 Types: Dragon • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -211,12 +206,8 @@ Lv. 30
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-sliggoo-panel-2">
-## Goodra (#353)
-<details class="pokemon-card-container" open>
-<summary>Goodra overview</summary>
 Types: Dragon • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -325,12 +316,8 @@ Lv. 50, Overworld Rain
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-sliggoo-panel-3">
-## Hisuian Sliggoo (#352)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Sliggoo overview</summary>
 Types: Dragon / Steel • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -429,12 +416,8 @@ Metal Coat?
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-sliggoo-panel-4">
-## Hisuian Goodra (#353)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Goodra overview</summary>
 Types: Dragon / Steel • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -539,7 +522,6 @@ Lv. 50, Overworld Rain?
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -550,3 +532,4 @@ Lv. 50, Overworld Rain?
 #pokemon-tabs-hisuian-sliggoo-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-sliggoo-panel-3 { display: block; }
 #pokemon-tabs-hisuian-sliggoo-tab-4:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-sliggoo-panel-4 { display: block; }
 </style>
+</details>

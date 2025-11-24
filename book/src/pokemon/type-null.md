@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Type: Null (#412)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-type-null">
 <input type="radio" name="pokemon-tabs-type-null-group" id="pokemon-tabs-type-null-tab-0" checked>
 <label for="pokemon-tabs-type-null-tab-0">Type: Null</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-type-null-tab-1">Silvally</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-type-null-panel-0">
-## Type: Null (#412)
-<details class="pokemon-card-container" open>
-<summary>Type: Null overview</summary>
 Types: Normal • Egg Groups: -
 
 <div class="pokemon-card">
@@ -86,12 +85,8 @@ Types: Normal • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-type-null-panel-1">
-## Silvally (#413)
-<details class="pokemon-card-container" open>
-<summary>Silvally overview</summary>
 Types: Normal • Egg Groups: -
 
 <div class="pokemon-card">
@@ -189,7 +184,6 @@ Lv. w/ High Friendship?
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -197,3 +191,4 @@ Lv. w/ High Friendship?
 #pokemon-tabs-type-null-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-type-null-panel-0 { display: block; }
 #pokemon-tabs-type-null-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-type-null-panel-1 { display: block; }
 </style>
+</details>

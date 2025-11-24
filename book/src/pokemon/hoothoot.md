@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hoothoot (#141)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hoothoot">
 <input type="radio" name="pokemon-tabs-hoothoot-group" id="pokemon-tabs-hoothoot-tab-0" checked>
 <label for="pokemon-tabs-hoothoot-tab-0">Hoothoot</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-hoothoot-tab-2">Mega Noctowl</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hoothoot-panel-0">
-## Hoothoot (#141)
-<details class="pokemon-card-container" open>
-<summary>Hoothoot overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Normal / Flying • Egg Groups: Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hoothoot-panel-1">
-## Noctowl (#142)
-<details class="pokemon-card-container" open>
-<summary>Noctowl overview</summary>
 Types: Ghost / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -246,12 +241,8 @@ Lv. 20
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hoothoot-panel-2">
-## Mega Noctowl (#142)
-<details class="pokemon-card-container" open>
-<summary>Mega Noctowl overview</summary>
 Types: Ghost / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -367,7 +358,6 @@ Noctowlite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -376,3 +366,4 @@ Noctowlite
 #pokemon-tabs-hoothoot-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-hoothoot-panel-1 { display: block; }
 #pokemon-tabs-hoothoot-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-hoothoot-panel-2 { display: block; }
 </style>
+</details>

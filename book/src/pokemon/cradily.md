@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Cradily (#276)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cradily">
 <input type="radio" name="pokemon-tabs-cradily-group" id="pokemon-tabs-cradily-tab-0">
 <label for="pokemon-tabs-cradily-tab-0">Lileep</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-cradily-tab-1">Cradily</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cradily-panel-0">
-## Lileep (#275)
-<details class="pokemon-card-container" open>
-<summary>Lileep overview</summary>
 Types: Rock / Grass • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -108,12 +107,8 @@ Big Root
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cradily-panel-1">
-## Cradily (#276)
-<details class="pokemon-card-container" open>
-<summary>Cradily overview</summary>
 Types: Rock / Grass • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -218,7 +213,6 @@ Lv. 40
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -226,3 +220,4 @@ Lv. 40
 #pokemon-tabs-cradily-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cradily-panel-0 { display: block; }
 #pokemon-tabs-cradily-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cradily-panel-1 { display: block; }
 </style>
+</details>

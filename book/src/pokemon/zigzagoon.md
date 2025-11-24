@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Zigzagoon (#348)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-zigzagoon">
 <input type="radio" name="pokemon-tabs-zigzagoon-group" id="pokemon-tabs-zigzagoon-tab-0" checked>
 <label for="pokemon-tabs-zigzagoon-tab-0">Zigzagoon</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-zigzagoon-tab-1">Linoone</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-panel-0">
-## Zigzagoon (#348)
-<details class="pokemon-card-container" open>
-<summary>Zigzagoon overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -114,12 +113,8 @@ Potion
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-zigzagoon-panel-1">
-## Linoone (#349)
-<details class="pokemon-card-container" open>
-<summary>Linoone overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -234,7 +229,6 @@ Lv. 20
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -242,3 +236,4 @@ Lv. 20
 #pokemon-tabs-zigzagoon-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-panel-0 { display: block; }
 #pokemon-tabs-zigzagoon-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-zigzagoon-panel-1 { display: block; }
 </style>
+</details>

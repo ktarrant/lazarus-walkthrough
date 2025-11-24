@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Jangmo-o (#220)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-jangmo-o">
 <input type="radio" name="pokemon-tabs-jangmo-o-group" id="pokemon-tabs-jangmo-o-tab-0" checked>
 <label for="pokemon-tabs-jangmo-o-tab-0">Jangmo-o</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-jangmo-o-tab-2">Kommo-o</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-jangmo-o-panel-0">
-## Jangmo-o (#220)
-<details class="pokemon-card-container" open>
-<summary>Jangmo-o overview</summary>
 Types: Dragon • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -108,12 +107,8 @@ Razor Claw
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-jangmo-o-panel-1">
-## Hakamo-o (#221)
-<details class="pokemon-card-container" open>
-<summary>Hakamo-o overview</summary>
 Types: Dragon / Fighting • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -220,12 +215,8 @@ Lv. 24
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-jangmo-o-panel-2">
-## Kommo-o (#222)
-<details class="pokemon-card-container" open>
-<summary>Kommo-o overview</summary>
 Types: Dragon / Fighting • Egg Groups: Dragon
 
 <div class="pokemon-card">
@@ -344,7 +335,6 @@ Lv. 45
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -353,3 +343,4 @@ Lv. 45
 #pokemon-tabs-jangmo-o-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-jangmo-o-panel-1 { display: block; }
 #pokemon-tabs-jangmo-o-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-jangmo-o-panel-2 { display: block; }
 </style>
+</details>

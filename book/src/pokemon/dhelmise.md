@@ -1,6 +1,5 @@
-## Dhelmise (#417)
 <details class="pokemon-card-container" open>
-<summary>Dhelmise overview</summary>
+<summary>Dhelmise (#417)</summary>
 Types: Ghost / Grass • Egg Groups: Mineral
 
 <div class="pokemon-card">

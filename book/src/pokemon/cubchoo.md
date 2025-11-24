@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Cubchoo (#374)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cubchoo">
 <input type="radio" name="pokemon-tabs-cubchoo-group" id="pokemon-tabs-cubchoo-tab-0" checked>
 <label for="pokemon-tabs-cubchoo-tab-0">Cubchoo</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-cubchoo-tab-1">Beartic</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cubchoo-panel-0">
-## Cubchoo (#374)
-<details class="pokemon-card-container" open>
-<summary>Cubchoo overview</summary>
 Types: Ice • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Ice • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cubchoo-panel-1">
-## Beartic (#375)
-<details class="pokemon-card-container" open>
-<summary>Beartic overview</summary>
 Types: Ice • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -238,7 +233,6 @@ Lv. 37
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -246,3 +240,4 @@ Lv. 37
 #pokemon-tabs-cubchoo-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cubchoo-panel-0 { display: block; }
 #pokemon-tabs-cubchoo-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cubchoo-panel-1 { display: block; }
 </style>
+</details>

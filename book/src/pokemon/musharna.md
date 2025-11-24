@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Musharna (#340)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-musharna">
 <input type="radio" name="pokemon-tabs-musharna-group" id="pokemon-tabs-musharna-tab-0">
 <label for="pokemon-tabs-musharna-tab-0">Munna</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-musharna-tab-1">Musharna</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-musharna-panel-0">
-## Munna (#339)
-<details class="pokemon-card-container" open>
-<summary>Munna overview</summary>
 Types: Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -114,12 +113,8 @@ Types: Psychic • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-musharna-panel-1">
-## Musharna (#340)
-<details class="pokemon-card-container" open>
-<summary>Musharna overview</summary>
 Types: Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -227,7 +222,6 @@ Moon Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -235,3 +229,4 @@ Moon Stone
 #pokemon-tabs-musharna-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-musharna-panel-0 { display: block; }
 #pokemon-tabs-musharna-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-musharna-panel-1 { display: block; }
 </style>
+</details>

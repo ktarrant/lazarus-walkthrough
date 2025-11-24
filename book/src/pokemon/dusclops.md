@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dusclops (#395)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dusclops">
 <input type="radio" name="pokemon-tabs-dusclops-group" id="pokemon-tabs-dusclops-tab-0">
 <label for="pokemon-tabs-dusclops-tab-0">Duskull</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-dusclops-tab-2">Dusknoir</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dusclops-panel-0">
-## Duskull (#394)
-<details class="pokemon-card-container" open>
-<summary>Duskull overview</summary>
 Types: Ghost • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Spell Tag
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dusclops-panel-1">
-## Dusclops (#395)
-<details class="pokemon-card-container" open>
-<summary>Dusclops overview</summary>
 Types: Ghost • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -261,12 +256,8 @@ Lv. 30
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dusclops-panel-2">
-## Dusknoir (#396)
-<details class="pokemon-card-container" open>
-<summary>Dusknoir overview</summary>
 Types: Ghost • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -397,7 +388,6 @@ Reaper Cloth
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -406,3 +396,4 @@ Reaper Cloth
 #pokemon-tabs-dusclops-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-dusclops-panel-1 { display: block; }
 #pokemon-tabs-dusclops-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-dusclops-panel-2 { display: block; }
 </style>
+</details>

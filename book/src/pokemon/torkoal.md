@@ -1,6 +1,5 @@
-## Torkoal (#333)
 <details class="pokemon-card-container" open>
-<summary>Torkoal overview</summary>
+<summary>Torkoal (#333)</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">

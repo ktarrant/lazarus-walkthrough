@@ -1,6 +1,5 @@
-## Arctozolt (#409)
 <details class="pokemon-card-container" open>
-<summary>Arctozolt overview</summary>
+<summary>Arctozolt (#409)</summary>
 Types: Electric / Ice • Egg Groups: -
 
 <div class="pokemon-card">

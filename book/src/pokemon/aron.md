@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Aron (#111)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aron">
 <input type="radio" name="pokemon-tabs-aron-group" id="pokemon-tabs-aron-tab-0" checked>
 <label for="pokemon-tabs-aron-tab-0">Aron</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-aron-tab-3">Mega Aggron</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-aron-panel-0">
-## Aron (#111)
-<details class="pokemon-card-container" open>
-<summary>Aron overview</summary>
 Types: Steel / Rock • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -134,12 +133,8 @@ Hard Stone
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-aron-panel-1">
-## Lairon (#112)
-<details class="pokemon-card-container" open>
-<summary>Lairon overview</summary>
 Types: Steel / Rock • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -259,12 +254,8 @@ Lv. 28
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-aron-panel-2">
-## Aggron (#113)
-<details class="pokemon-card-container" open>
-<summary>Aggron overview</summary>
 Types: Steel / Rock • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -408,12 +399,8 @@ Lv. 42
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-aron-panel-3">
-## Mega Aggron (#113)
-<details class="pokemon-card-container" open>
-<summary>Mega Aggron overview</summary>
 Types: Steel • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -557,7 +544,6 @@ Aggronite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -567,3 +553,4 @@ Aggronite
 #pokemon-tabs-aron-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-aron-panel-2 { display: block; }
 #pokemon-tabs-aron-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-aron-panel-3 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Stoutland (#036)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-stoutland">
 <input type="radio" name="pokemon-tabs-stoutland-group" id="pokemon-tabs-stoutland-tab-0">
 <label for="pokemon-tabs-stoutland-tab-0">Lillipup</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-stoutland-tab-2">Stoutland</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-stoutland-panel-0">
-## Lillipup (#034)
-<details class="pokemon-card-container" open>
-<summary>Lillipup overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -106,12 +105,8 @@ Types: Normal • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-stoutland-panel-1">
-## Herdier (#035)
-<details class="pokemon-card-container" open>
-<summary>Herdier overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -207,12 +202,8 @@ Lv. 16
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-stoutland-panel-2">
-## Stoutland (#036)
-<details class="pokemon-card-container" open>
-<summary>Stoutland overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -313,7 +304,6 @@ Lv. 32
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -322,3 +312,4 @@ Lv. 32
 #pokemon-tabs-stoutland-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-stoutland-panel-1 { display: block; }
 #pokemon-tabs-stoutland-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-stoutland-panel-2 { display: block; }
 </style>
+</details>

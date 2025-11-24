@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Tyranitar (#416)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-tyranitar">
 <input type="radio" name="pokemon-tabs-mega-tyranitar-group" id="pokemon-tabs-mega-tyranitar-tab-0">
 <label for="pokemon-tabs-mega-tyranitar-tab-0">Larvitar</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-mega-tyranitar-tab-3">Mega Tyranitar</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-tyranitar-panel-0">
-## Larvitar (#414)
-<details class="pokemon-card-container" open>
-<summary>Larvitar overview</summary>
 Types: Rock / Ground • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Rock / Ground • Egg Groups: Monster
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-tyranitar-panel-1">
-## Pupitar (#415)
-<details class="pokemon-card-container" open>
-<summary>Pupitar overview</summary>
 Types: Rock / Ground • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -232,12 +227,8 @@ Lv. 30
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-tyranitar-panel-2">
-## Tyranitar (#416)
-<details class="pokemon-card-container" open>
-<summary>Tyranitar overview</summary>
 Types: Rock / Dark • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -375,12 +366,8 @@ Lv. 55
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-tyranitar-panel-3">
-## Mega Tyranitar (#416)
-<details class="pokemon-card-container" open>
-<summary>Mega Tyranitar overview</summary>
 Types: Rock / Dark • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -517,7 +504,6 @@ Tyranitarite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -527,3 +513,4 @@ Tyranitarite
 #pokemon-tabs-mega-tyranitar-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-tyranitar-panel-2 { display: block; }
 #pokemon-tabs-mega-tyranitar-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-tyranitar-panel-3 { display: block; }
 </style>
+</details>

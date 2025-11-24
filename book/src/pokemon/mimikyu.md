@@ -1,6 +1,5 @@
-## Mimikyu (#251)
 <details class="pokemon-card-container" open>
-<summary>Mimikyu overview</summary>
+<summary>Mimikyu (#251)</summary>
 Types: Ghost / Fairy • Egg Groups: Amorphous
 
 <div class="pokemon-card">

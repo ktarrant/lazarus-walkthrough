@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Cloyster (#308)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cloyster">
 <input type="radio" name="pokemon-tabs-cloyster-group" id="pokemon-tabs-cloyster-tab-0">
 <label for="pokemon-tabs-cloyster-tab-0">Shellder</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-cloyster-tab-1">Cloyster</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cloyster-panel-0">
-## Shellder (#307)
-<details class="pokemon-card-container" open>
-<summary>Shellder overview</summary>
 Types: Water • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Pearl
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cloyster-panel-1">
-## Cloyster (#308)
-<details class="pokemon-card-container" open>
-<summary>Cloyster overview</summary>
 Types: Water / Ice • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -247,7 +242,6 @@ Water Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -255,3 +249,4 @@ Water Stone
 #pokemon-tabs-cloyster-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cloyster-panel-0 { display: block; }
 #pokemon-tabs-cloyster-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cloyster-panel-1 { display: block; }
 </style>
+</details>

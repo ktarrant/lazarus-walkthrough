@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Salandit (#160)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-salandit">
 <input type="radio" name="pokemon-tabs-salandit-group" id="pokemon-tabs-salandit-tab-0" checked>
 <label for="pokemon-tabs-salandit-tab-0">Salandit</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-salandit-tab-1">Salazzle</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-salandit-panel-0">
-## Salandit (#160)
-<details class="pokemon-card-container" open>
-<summary>Salandit overview</summary>
 Types: Poison / Fire • Egg Groups: Monster / Dragon
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Smoke Ball
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-salandit-panel-1">
-## Salazzle (#161)
-<details class="pokemon-card-container" open>
-<summary>Salazzle overview</summary>
 Types: Poison / Fire • Egg Groups: Monster / Dragon
 
 <div class="pokemon-card">
@@ -224,7 +219,6 @@ Lv. 33, Female
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -232,3 +226,4 @@ Lv. 33, Female
 #pokemon-tabs-salandit-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-salandit-panel-0 { display: block; }
 #pokemon-tabs-salandit-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-salandit-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Phanpy (#053)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-phanpy">
 <input type="radio" name="pokemon-tabs-phanpy-group" id="pokemon-tabs-phanpy-tab-0" checked>
 <label for="pokemon-tabs-phanpy-tab-0">Phanpy</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-phanpy-tab-1">Donphan</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-phanpy-panel-0">
-## Phanpy (#053)
-<details class="pokemon-card-container" open>
-<summary>Phanpy overview</summary>
 Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Types: Ground • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-phanpy-panel-1">
-## Donphan (#054)
-<details class="pokemon-card-container" open>
-<summary>Donphan overview</summary>
 Types: Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -226,7 +221,6 @@ Lv. 25
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -234,3 +228,4 @@ Lv. 25
 #pokemon-tabs-phanpy-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-phanpy-panel-0 { display: block; }
 #pokemon-tabs-phanpy-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-phanpy-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Hawlucha (#223)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-hawlucha">
 <input type="radio" name="pokemon-tabs-mega-hawlucha-group" id="pokemon-tabs-mega-hawlucha-tab-0">
 <label for="pokemon-tabs-mega-hawlucha-tab-0">Hawlucha</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mega-hawlucha-tab-1">Mega Hawlucha</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-hawlucha-panel-0">
-## Hawlucha (#223)
-<details class="pokemon-card-container" open>
-<summary>Hawlucha overview</summary>
 Types: Fighting / Flying • Egg Groups: Flying / Human-Like
 
 <div class="pokemon-card">
@@ -127,12 +126,8 @@ King`s Rock
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-hawlucha-panel-1">
-## Mega Hawlucha (#223)
-<details class="pokemon-card-container" open>
-<summary>Mega Hawlucha overview</summary>
 Types: Fighting / Flying • Egg Groups: Flying / Human-Like
 
 <div class="pokemon-card">
@@ -245,7 +240,6 @@ Hawluchite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -253,3 +247,4 @@ Hawluchite
 #pokemon-tabs-mega-hawlucha-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-hawlucha-panel-0 { display: block; }
 #pokemon-tabs-mega-hawlucha-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-hawlucha-panel-1 { display: block; }
 </style>
+</details>

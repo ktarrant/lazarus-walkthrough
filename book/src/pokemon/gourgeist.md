@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gourgeist (#123)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gourgeist">
 <input type="radio" name="pokemon-tabs-gourgeist-group" id="pokemon-tabs-gourgeist-tab-0">
 <label for="pokemon-tabs-gourgeist-tab-0">Pumpkaboo</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-gourgeist-tab-1">Gourgeist</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gourgeist-panel-0">
-## Pumpkaboo (#122)
-<details class="pokemon-card-container" open>
-<summary>Pumpkaboo overview</summary>
 Types: Ghost / Grass • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -109,12 +108,8 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gourgeist-panel-1">
-## Gourgeist (#123)
-<details class="pokemon-card-container" open>
-<summary>Gourgeist overview</summary>
 Types: Ghost / Grass • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -220,7 +215,6 @@ Linking Cord
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -228,3 +222,4 @@ Linking Cord
 #pokemon-tabs-gourgeist-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-gourgeist-panel-0 { display: block; }
 #pokemon-tabs-gourgeist-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gourgeist-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Litten (#004)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-litten">
 <input type="radio" name="pokemon-tabs-litten-group" id="pokemon-tabs-litten-tab-0" checked>
 <label for="pokemon-tabs-litten-tab-0">Litten</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-litten-tab-2">Incineroar</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-litten-panel-0">
-## Litten (#004)
-<details class="pokemon-card-container" open>
-<summary>Litten overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -102,12 +101,8 @@ Types: Fire • Egg Groups: Field
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-litten-panel-1">
-## Torracat (#005)
-<details class="pokemon-card-container" open>
-<summary>Torracat overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -201,12 +196,8 @@ Lv. 17
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-litten-panel-2">
-## Incineroar (#006)
-<details class="pokemon-card-container" open>
-<summary>Incineroar overview</summary>
 Types: Fire / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -317,7 +308,6 @@ Lv. 34
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -326,3 +316,4 @@ Lv. 34
 #pokemon-tabs-litten-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-litten-panel-1 { display: block; }
 #pokemon-tabs-litten-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-litten-panel-2 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Oricorio Baile (#096)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-oricorio-baile">
 <input type="radio" name="pokemon-tabs-oricorio-baile-group" id="pokemon-tabs-oricorio-baile-tab-0" checked>
 <label for="pokemon-tabs-oricorio-baile-tab-0">Oricorio Baile</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-oricorio-baile-tab-3">Oricorio Sensu</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-oricorio-baile-panel-0">
-## Oricorio Baile (#096)
-<details class="pokemon-card-container" open>
-<summary>Oricorio Baile overview</summary>
 Types: Fire / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Red Nectar
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-oricorio-baile-panel-1">
-## Oricorio Pom-Pom (#096)
-<details class="pokemon-card-container" open>
-<summary>Oricorio Pom-Pom overview</summary>
 Types: Electric / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -216,12 +211,8 @@ Yellow Nectar
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-oricorio-baile-panel-2">
-## Oricorio Pa'u (#096)
-<details class="pokemon-card-container" open>
-<summary>Oricorio Pa'u overview</summary>
 Types: Psychic / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -320,12 +311,8 @@ Pink Nectar
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-oricorio-baile-panel-3">
-## Oricorio Sensu (#096)
-<details class="pokemon-card-container" open>
-<summary>Oricorio Sensu overview</summary>
 Types: Ghost / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -427,7 +414,6 @@ Purple Nectar
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -437,3 +423,4 @@ Purple Nectar
 #pokemon-tabs-oricorio-baile-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-oricorio-baile-panel-2 { display: block; }
 #pokemon-tabs-oricorio-baile-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-oricorio-baile-panel-3 { display: block; }
 </style>
+</details>

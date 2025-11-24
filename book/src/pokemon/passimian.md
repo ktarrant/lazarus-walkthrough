@@ -1,6 +1,5 @@
-## Passimian (#347)
 <details class="pokemon-card-container" open>
-<summary>Passimian overview</summary>
+<summary>Passimian (#347)</summary>
 Types: Normal / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">

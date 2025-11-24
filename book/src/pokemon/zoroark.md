@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Zoroark (#199)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-zoroark">
 <input type="radio" name="pokemon-tabs-zoroark-group" id="pokemon-tabs-zoroark-tab-0">
 <label for="pokemon-tabs-zoroark-tab-0">Zorua</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-zoroark-tab-1">Zoroark</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-zoroark-panel-0">
-## Zorua (#198)
-<details class="pokemon-card-container" open>
-<summary>Zorua overview</summary>
 Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -109,12 +108,8 @@ Types: Dark • Egg Groups: Field
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-zoroark-panel-1">
-## Zoroark (#199)
-<details class="pokemon-card-container" open>
-<summary>Zoroark overview</summary>
 Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -228,7 +223,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -236,3 +230,4 @@ Lv. 30
 #pokemon-tabs-zoroark-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-zoroark-panel-0 { display: block; }
 #pokemon-tabs-zoroark-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-zoroark-panel-1 { display: block; }
 </style>
+</details>

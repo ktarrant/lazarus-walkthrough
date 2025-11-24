@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Togekiss (#166)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-togekiss">
 <input type="radio" name="pokemon-tabs-togekiss-group" id="pokemon-tabs-togekiss-tab-0">
 <label for="pokemon-tabs-togekiss-tab-0">Togepi</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-togekiss-tab-2">Togekiss</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-togekiss-panel-0">
-## Togepi (#164)
-<details class="pokemon-card-container" open>
-<summary>Togepi overview</summary>
 Types: Fairy • Egg Groups: -
 
 <div class="pokemon-card">
@@ -128,12 +127,8 @@ Types: Fairy • Egg Groups: -
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-togekiss-panel-1">
-## Togetic (#165)
-<details class="pokemon-card-container" open>
-<summary>Togetic overview</summary>
 Types: Fairy / Flying • Egg Groups: Flying / Fairy
 
 <div class="pokemon-card">
@@ -268,12 +263,8 @@ Lv. 20
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-togekiss-panel-2">
-## Togekiss (#166)
-<details class="pokemon-card-container" open>
-<summary>Togekiss overview</summary>
 Types: Fairy / Flying • Egg Groups: Flying / Fairy
 
 <div class="pokemon-card">
@@ -402,7 +393,6 @@ Shiny Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -411,3 +401,4 @@ Shiny Stone
 #pokemon-tabs-togekiss-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-togekiss-panel-1 { display: block; }
 #pokemon-tabs-togekiss-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-togekiss-panel-2 { display: block; }
 </style>
+</details>

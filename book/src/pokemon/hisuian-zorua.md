@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hisuian Zorua (#198)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-zorua">
 <input type="radio" name="pokemon-tabs-hisuian-zorua-group" id="pokemon-tabs-hisuian-zorua-tab-0" checked>
 <label for="pokemon-tabs-hisuian-zorua-tab-0">Hisuian Zorua</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-hisuian-zorua-tab-1">Hisuian Zoroark</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-zorua-panel-0">
-## Hisuian Zorua (#198)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Zorua overview</summary>
 Types: Normal / Ghost • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -88,12 +87,8 @@ Types: Normal / Ghost • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-zorua-panel-1">
-## Hisuian Zoroark (#199)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Zoroark overview</summary>
 Types: Normal / Ghost • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -185,7 +180,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -193,3 +187,4 @@ Lv. 30
 #pokemon-tabs-hisuian-zorua-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-zorua-panel-0 { display: block; }
 #pokemon-tabs-hisuian-zorua-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-zorua-panel-1 { display: block; }
 </style>
+</details>

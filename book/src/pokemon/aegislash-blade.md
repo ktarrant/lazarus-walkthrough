@@ -1,6 +1,5 @@
-## Aegislash Blade (#151)
 <details class="pokemon-card-container" open>
-<summary>Aegislash Blade overview</summary>
+<summary>Aegislash Blade (#151)</summary>
 Types: Steel / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">

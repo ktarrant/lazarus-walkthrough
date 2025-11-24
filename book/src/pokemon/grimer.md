@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Grimer (#071)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-grimer">
 <input type="radio" name="pokemon-tabs-grimer-group" id="pokemon-tabs-grimer-tab-0" checked>
 <label for="pokemon-tabs-grimer-tab-0">Grimer</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-grimer-tab-1">Muk</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-grimer-panel-0">
-## Grimer (#071)
-<details class="pokemon-card-container" open>
-<summary>Grimer overview</summary>
 Types: Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -128,12 +127,8 @@ Black Sludge
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-grimer-panel-1">
-## Muk (#072)
-<details class="pokemon-card-container" open>
-<summary>Muk overview</summary>
 Types: Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -261,7 +256,6 @@ Lv. 34
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -269,3 +263,4 @@ Lv. 34
 #pokemon-tabs-grimer-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-grimer-panel-0 { display: block; }
 #pokemon-tabs-grimer-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-grimer-panel-1 { display: block; }
 </style>
+</details>

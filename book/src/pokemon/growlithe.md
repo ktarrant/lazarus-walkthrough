@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Growlithe (#376)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-growlithe">
 <input type="radio" name="pokemon-tabs-growlithe-group" id="pokemon-tabs-growlithe-tab-0" checked>
 <label for="pokemon-tabs-growlithe-tab-0">Growlithe</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-growlithe-tab-1">Arcanine</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-growlithe-panel-0">
-## Growlithe (#376)
-<details class="pokemon-card-container" open>
-<summary>Growlithe overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Fire • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-growlithe-panel-1">
-## Arcanine (#377)
-<details class="pokemon-card-container" open>
-<summary>Arcanine overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -231,7 +226,6 @@ Fire Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -239,3 +233,4 @@ Fire Stone
 #pokemon-tabs-growlithe-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-growlithe-panel-0 { display: block; }
 #pokemon-tabs-growlithe-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-growlithe-panel-1 { display: block; }
 </style>
+</details>

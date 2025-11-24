@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Wingull (#182)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wingull">
 <input type="radio" name="pokemon-tabs-wingull-group" id="pokemon-tabs-wingull-tab-0" checked>
 <label for="pokemon-tabs-wingull-tab-0">Wingull</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-wingull-tab-1">Pelipper</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wingull-panel-0">
-## Wingull (#182)
-<details class="pokemon-card-container" open>
-<summary>Wingull overview</summary>
 Types: Water / Flying • Egg Groups: Water 1 / Flying
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Pretty Feather
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wingull-panel-1">
-## Pelipper (#183)
-<details class="pokemon-card-container" open>
-<summary>Pelipper overview</summary>
 Types: Water / Flying • Egg Groups: Water 1 / Flying
 
 <div class="pokemon-card">
@@ -242,7 +237,6 @@ Lv. 25
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -250,3 +244,4 @@ Lv. 25
 #pokemon-tabs-wingull-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wingull-panel-0 { display: block; }
 #pokemon-tabs-wingull-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wingull-panel-1 { display: block; }
 </style>
+</details>

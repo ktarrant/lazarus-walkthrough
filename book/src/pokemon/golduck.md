@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Golduck (#379)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-golduck">
 <input type="radio" name="pokemon-tabs-golduck-group" id="pokemon-tabs-golduck-tab-0">
 <label for="pokemon-tabs-golduck-tab-0">Psyduck</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-golduck-tab-1">Golduck</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-golduck-panel-0">
-## Psyduck (#378)
-<details class="pokemon-card-container" open>
-<summary>Psyduck overview</summary>
 Types: Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -142,12 +141,8 @@ Types: Water • Egg Groups: Water 1 / Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-golduck-panel-1">
-## Golduck (#379)
-<details class="pokemon-card-container" open>
-<summary>Golduck overview</summary>
 Types: Water / Psychic • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -291,7 +286,6 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -299,3 +293,4 @@ Lv. 27
 #pokemon-tabs-golduck-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-golduck-panel-0 { display: block; }
 #pokemon-tabs-golduck-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-golduck-panel-1 { display: block; }
 </style>
+</details>

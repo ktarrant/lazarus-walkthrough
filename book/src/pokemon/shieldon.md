@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Shieldon (#228)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-shieldon">
 <input type="radio" name="pokemon-tabs-shieldon-group" id="pokemon-tabs-shieldon-tab-0" checked>
 <label for="pokemon-tabs-shieldon-tab-0">Shieldon</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-shieldon-tab-1">Bastiodon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-shieldon-panel-0">
-## Shieldon (#228)
-<details class="pokemon-card-container" open>
-<summary>Shieldon overview</summary>
 Types: Rock / Steel • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Rock / Steel • Egg Groups: Monster
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-shieldon-panel-1">
-## Bastiodon (#229)
-<details class="pokemon-card-container" open>
-<summary>Bastiodon overview</summary>
 Types: Rock / Steel • Egg Groups: Monster
 
 <div class="pokemon-card">
@@ -241,7 +236,6 @@ Lv. 30
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -249,3 +243,4 @@ Lv. 30
 #pokemon-tabs-shieldon-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-shieldon-panel-0 { display: block; }
 #pokemon-tabs-shieldon-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-shieldon-panel-1 { display: block; }
 </style>
+</details>

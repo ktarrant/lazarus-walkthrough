@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gouging Fire (#424)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gouging-fire">
 <input type="radio" name="pokemon-tabs-gouging-fire-group" id="pokemon-tabs-gouging-fire-tab-0">
 <label for="pokemon-tabs-gouging-fire-tab-0">Entei</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-gouging-fire-tab-1">Gouging Fire</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gouging-fire-panel-0">
-## Entei (#423)
-<details class="pokemon-card-container" open>
-<summary>Entei overview</summary>
 Types: Fire • Egg Groups: -
 
 <div class="pokemon-card">
@@ -104,12 +103,8 @@ Types: Fire • Egg Groups: -
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gouging-fire-panel-1">
-## Gouging Fire (#424)
-<details class="pokemon-card-container" open>
-<summary>Gouging Fire overview</summary>
 Types: Fire / Dragon • Egg Groups: -
 
 <div class="pokemon-card">
@@ -197,7 +192,6 @@ Lv. after using Dragon Energy 20x
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -205,3 +199,4 @@ Lv. after using Dragon Energy 20x
 #pokemon-tabs-gouging-fire-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-gouging-fire-panel-0 { display: block; }
 #pokemon-tabs-gouging-fire-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gouging-fire-panel-1 { display: block; }
 </style>
+</details>

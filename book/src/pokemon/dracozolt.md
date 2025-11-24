@@ -1,6 +1,5 @@
-## Dracozolt (#408)
 <details class="pokemon-card-container" open>
-<summary>Dracozolt overview</summary>
+<summary>Dracozolt (#408)</summary>
 Types: Electric / Dragon • Egg Groups: -
 
 <div class="pokemon-card">

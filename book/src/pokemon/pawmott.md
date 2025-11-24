@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Pawmott (#235)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pawmott">
 <input type="radio" name="pokemon-tabs-pawmott-group" id="pokemon-tabs-pawmott-tab-0">
 <label for="pokemon-tabs-pawmott-tab-0">Pawmi</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-pawmott-tab-2">Pawmott</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-pawmott-panel-0">
-## Pawmi (#233)
-<details class="pokemon-card-container" open>
-<summary>Pawmi overview</summary>
 Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -88,12 +87,8 @@ Types: Electric • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pawmott-panel-1">
-## Pawmo (#234)
-<details class="pokemon-card-container" open>
-<summary>Pawmo overview</summary>
 Types: Electric / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -182,12 +177,8 @@ Lv. 20
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pawmott-panel-2">
-## Pawmott (#235)
-<details class="pokemon-card-container" open>
-<summary>Pawmott overview</summary>
 Types: Electric / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -286,7 +277,6 @@ Lv. after 1000 Steps as Follower
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -295,3 +285,4 @@ Lv. after 1000 Steps as Follower
 #pokemon-tabs-pawmott-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmott-panel-1 { display: block; }
 #pokemon-tabs-pawmott-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-pawmott-panel-2 { display: block; }
 </style>
+</details>

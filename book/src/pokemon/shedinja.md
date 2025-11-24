@@ -1,6 +1,5 @@
-## Shedinja (#047)
 <details class="pokemon-card-container" open>
-<summary>Shedinja overview</summary>
+<summary>Shedinja (#047)</summary>
 Types: Bug / Ghost • Egg Groups: Mineral
 
 <div class="pokemon-card">

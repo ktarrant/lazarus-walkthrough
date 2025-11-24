@@ -1,6 +1,5 @@
-## Oranguru (#346)
 <details class="pokemon-card-container" open>
-<summary>Oranguru overview</summary>
+<summary>Oranguru (#346)</summary>
 Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">

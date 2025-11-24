@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Alolan Persian (#208)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-persian">
 <input type="radio" name="pokemon-tabs-alolan-persian-group" id="pokemon-tabs-alolan-persian-tab-0">
 <label for="pokemon-tabs-alolan-persian-tab-0">Alolan Meowth</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-alolan-persian-tab-1">Alolan Persian</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-persian-panel-0">
-## Alolan Meowth (#207)
-<details class="pokemon-card-container" open>
-<summary>Alolan Meowth overview</summary>
 Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Quick Claw
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-alolan-persian-panel-1">
-## Alolan Persian (#208)
-<details class="pokemon-card-container" open>
-<summary>Alolan Persian overview</summary>
 Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -241,7 +236,6 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -249,3 +243,4 @@ Lv. 27
 #pokemon-tabs-alolan-persian-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-persian-panel-0 { display: block; }
 #pokemon-tabs-alolan-persian-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-alolan-persian-panel-1 { display: block; }
 </style>
+</details>

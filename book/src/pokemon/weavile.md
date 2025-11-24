@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Weavile (#201)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-weavile">
 <input type="radio" name="pokemon-tabs-weavile-group" id="pokemon-tabs-weavile-tab-0">
 <label for="pokemon-tabs-weavile-tab-0">Sneasel</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-weavile-tab-1">Weavile</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-weavile-panel-0">
-## Sneasel (#200)
-<details class="pokemon-card-container" open>
-<summary>Sneasel overview</summary>
 Types: Dark / Ice • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -143,12 +142,8 @@ Quick Claw
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-weavile-panel-1">
-## Weavile (#201)
-<details class="pokemon-card-container" open>
-<summary>Weavile overview</summary>
 Types: Dark / Ice • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -285,7 +280,6 @@ Razor Claw
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -293,3 +287,4 @@ Razor Claw
 #pokemon-tabs-weavile-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-weavile-panel-0 { display: block; }
 #pokemon-tabs-weavile-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-weavile-panel-1 { display: block; }
 </style>
+</details>

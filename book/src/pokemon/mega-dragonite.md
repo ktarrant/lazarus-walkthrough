@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Dragonite (#420)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-dragonite">
 <input type="radio" name="pokemon-tabs-mega-dragonite-group" id="pokemon-tabs-mega-dragonite-tab-0">
 <label for="pokemon-tabs-mega-dragonite-tab-0">Dratini</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-mega-dragonite-tab-3">Mega Dragonite</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-dragonite-panel-0">
-## Dratini (#418)
-<details class="pokemon-card-container" open>
-<summary>Dratini overview</summary>
 Types: Dragon • Egg Groups: Water 1 / Dragon
 
 <div class="pokemon-card">
@@ -121,12 +120,8 @@ Dragon Scale
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-dragonite-panel-1">
-## Dragonair (#419)
-<details class="pokemon-card-container" open>
-<summary>Dragonair overview</summary>
 Types: Dragon / Water • Egg Groups: Water 1 / Dragon
 
 <div class="pokemon-card">
@@ -239,12 +234,8 @@ Lv. 30
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-dragonite-panel-2">
-## Dragonite (#420)
-<details class="pokemon-card-container" open>
-<summary>Dragonite overview</summary>
 Types: Dragon / Flying • Egg Groups: Water 1 / Dragon
 
 <div class="pokemon-card">
@@ -384,12 +375,8 @@ Lv. 55
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-dragonite-panel-3">
-## Mega Dragonite (#420)
-<details class="pokemon-card-container" open>
-<summary>Mega Dragonite overview</summary>
 Types: Dragon / Flying • Egg Groups: Water 1 / Dragon
 
 <div class="pokemon-card">
@@ -528,7 +515,6 @@ Dragonite-ite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -538,3 +524,4 @@ Dragonite-ite
 #pokemon-tabs-mega-dragonite-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-dragonite-panel-2 { display: block; }
 #pokemon-tabs-mega-dragonite-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-dragonite-panel-3 { display: block; }
 </style>
+</details>

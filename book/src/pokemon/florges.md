@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Florges (#314)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-florges">
 <input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-0">
 <label for="pokemon-tabs-florges-tab-0">Flabébé</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-florges-tab-2">Florges</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-0">
-## Flabébé (#312)
-<details class="pokemon-card-container" open>
-<summary>Flabébé overview</summary>
 Types: Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -92,12 +91,8 @@ Types: Fairy • Egg Groups: Fairy
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-1">
-## Floette (#313)
-<details class="pokemon-card-container" open>
-<summary>Floette overview</summary>
 Types: Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -193,12 +188,8 @@ Lv. 19
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-florges-panel-2">
-## Florges (#314)
-<details class="pokemon-card-container" open>
-<summary>Florges overview</summary>
 Types: Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -294,7 +285,6 @@ Shiny Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -303,3 +293,4 @@ Shiny Stone
 #pokemon-tabs-florges-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-1 { display: block; }
 #pokemon-tabs-florges-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-florges-panel-2 { display: block; }
 </style>
+</details>

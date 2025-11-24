@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Grafaiai (#237)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-grafaiai">
 <input type="radio" name="pokemon-tabs-grafaiai-group" id="pokemon-tabs-grafaiai-tab-0">
 <label for="pokemon-tabs-grafaiai-tab-0">Shroodle</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-grafaiai-tab-1">Grafaiai</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-grafaiai-panel-0">
-## Shroodle (#236)
-<details class="pokemon-card-container" open>
-<summary>Shroodle overview</summary>
 Types: Poison / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -101,12 +100,8 @@ Types: Poison / Normal • Egg Groups: Field
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-grafaiai-panel-1">
-## Grafaiai (#237)
-<details class="pokemon-card-container" open>
-<summary>Grafaiai overview</summary>
 Types: Poison / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -203,7 +198,6 @@ Lv. 28
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -211,3 +205,4 @@ Lv. 28
 #pokemon-tabs-grafaiai-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-grafaiai-panel-0 { display: block; }
 #pokemon-tabs-grafaiai-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-grafaiai-panel-1 { display: block; }
 </style>
+</details>

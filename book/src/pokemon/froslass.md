@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Froslass (#188)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-froslass">
 <input type="radio" name="pokemon-tabs-froslass-group" id="pokemon-tabs-froslass-tab-0">
 <label for="pokemon-tabs-froslass-tab-0">Snorunt</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-froslass-tab-3">Froslass</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-froslass-panel-0">
-## Snorunt (#186)
-<details class="pokemon-card-container" open>
-<summary>Snorunt overview</summary>
 Types: Ice • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
@@ -108,12 +107,8 @@ Snowball
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-froslass-panel-1">
-## Glalie (#187)
-<details class="pokemon-card-container" open>
-<summary>Glalie overview</summary>
 Types: Ice • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
@@ -219,12 +214,8 @@ Lv. 32
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-froslass-panel-2">
-## Mega Glalie (#187)
-<details class="pokemon-card-container" open>
-<summary>Mega Glalie overview</summary>
 Types: Ice • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
@@ -328,12 +319,8 @@ Glalitite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-froslass-panel-3">
-## Froslass (#188)
-<details class="pokemon-card-container" open>
-<summary>Froslass overview</summary>
 Types: Ice / Ghost • Egg Groups: Fairy / Mineral
 
 <div class="pokemon-card">
@@ -454,7 +441,6 @@ Dawn Stone
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -464,3 +450,4 @@ Dawn Stone
 #pokemon-tabs-froslass-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-froslass-panel-2 { display: block; }
 #pokemon-tabs-froslass-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-froslass-panel-3 { display: block; }
 </style>
+</details>

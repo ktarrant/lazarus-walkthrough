@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Armarouge (#303)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-armarouge">
 <input type="radio" name="pokemon-tabs-armarouge-group" id="pokemon-tabs-armarouge-tab-0">
 <label for="pokemon-tabs-armarouge-tab-0">Charcadet</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-armarouge-tab-2">Ceruledge</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-armarouge-panel-0">
-## Charcadet (#302)
-<details class="pokemon-card-container" open>
-<summary>Charcadet overview</summary>
 Types: Fire • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -83,12 +82,8 @@ Types: Fire • Egg Groups: Human-Like
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-armarouge-panel-1">
-## Armarouge (#303)
-<details class="pokemon-card-container" open>
-<summary>Armarouge overview</summary>
 Types: Fire / Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -186,12 +181,8 @@ Auspicious Armor
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-armarouge-panel-2">
-## Ceruledge (#304)
-<details class="pokemon-card-container" open>
-<summary>Ceruledge overview</summary>
 Types: Fire / Ghost • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -293,7 +284,6 @@ Malicious Armor
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -302,3 +292,4 @@ Malicious Armor
 #pokemon-tabs-armarouge-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-armarouge-panel-1 { display: block; }
 #pokemon-tabs-armarouge-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-armarouge-panel-2 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Wimpod (#246)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wimpod">
 <input type="radio" name="pokemon-tabs-wimpod-group" id="pokemon-tabs-wimpod-tab-0" checked>
 <label for="pokemon-tabs-wimpod-tab-0">Wimpod</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-wimpod-tab-1">Golisopod</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wimpod-panel-0">
-## Wimpod (#246)
-<details class="pokemon-card-container" open>
-<summary>Wimpod overview</summary>
 Types: Bug / Water • Egg Groups: Bug / Water 3
 
 <div class="pokemon-card">
@@ -89,12 +88,8 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wimpod-panel-1">
-## Golisopod (#247)
-<details class="pokemon-card-container" open>
-<summary>Golisopod overview</summary>
 Types: Bug / Water • Egg Groups: Bug / Water 3
 
 <div class="pokemon-card">
@@ -201,7 +196,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -209,3 +203,4 @@ Lv. 30
 #pokemon-tabs-wimpod-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wimpod-panel-0 { display: block; }
 #pokemon-tabs-wimpod-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wimpod-panel-1 { display: block; }
 </style>
+</details>

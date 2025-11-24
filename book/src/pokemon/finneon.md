@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Finneon (#256)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-finneon">
 <input type="radio" name="pokemon-tabs-finneon-group" id="pokemon-tabs-finneon-tab-0" checked>
 <label for="pokemon-tabs-finneon-tab-0">Finneon</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-finneon-tab-1">Lumineon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-finneon-panel-0">
-## Finneon (#256)
-<details class="pokemon-card-container" open>
-<summary>Finneon overview</summary>
 Types: Water / Fairy • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -141,12 +140,8 @@ Heart Scale
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-finneon-panel-1">
-## Lumineon (#257)
-<details class="pokemon-card-container" open>
-<summary>Lumineon overview</summary>
 Types: Water / Fairy • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -260,7 +255,6 @@ Lv. 26
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -268,3 +262,4 @@ Lv. 26
 #pokemon-tabs-finneon-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-finneon-panel-0 { display: block; }
 #pokemon-tabs-finneon-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-finneon-panel-1 { display: block; }
 </style>
+</details>

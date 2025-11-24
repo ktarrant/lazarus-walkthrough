@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Cherubi (#167)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cherubi">
 <input type="radio" name="pokemon-tabs-cherubi-group" id="pokemon-tabs-cherubi-tab-0" checked>
 <label for="pokemon-tabs-cherubi-tab-0">Cherubi</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-cherubi-tab-1">Cherrim</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-cherubi-panel-0">
-## Cherubi (#167)
-<details class="pokemon-card-container" open>
-<summary>Cherubi overview</summary>
 Types: Grass • Egg Groups: Grass / Fairy
 
 <div class="pokemon-card">
@@ -107,12 +106,8 @@ Miracle Seed
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cherubi-panel-1">
-## Cherrim (#168)
-<details class="pokemon-card-container" open>
-<summary>Cherrim overview</summary>
 Types: Grass / Fire • Egg Groups: Grass / Fairy
 
 <div class="pokemon-card">
@@ -219,7 +214,6 @@ Lv. 25
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -227,3 +221,4 @@ Lv. 25
 #pokemon-tabs-cherubi-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-cherubi-panel-0 { display: block; }
 #pokemon-tabs-cherubi-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-cherubi-panel-1 { display: block; }
 </style>
+</details>

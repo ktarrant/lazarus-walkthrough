@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Chesnaught (#012)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-chesnaught">
 <input type="radio" name="pokemon-tabs-chesnaught-group" id="pokemon-tabs-chesnaught-tab-0">
 <label for="pokemon-tabs-chesnaught-tab-0">Chespin</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-chesnaught-tab-3">Mega Chesnaught</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-chesnaught-panel-0">
-## Chespin (#010)
-<details class="pokemon-card-container" open>
-<summary>Chespin overview</summary>
 Types: Grass • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -121,12 +120,8 @@ Types: Grass • Egg Groups: Field
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chesnaught-panel-1">
-## Quilladin (#011)
-<details class="pokemon-card-container" open>
-<summary>Quilladin overview</summary>
 Types: Grass • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -237,12 +232,8 @@ Lv. 16
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chesnaught-panel-2">
-## Chesnaught (#012)
-<details class="pokemon-card-container" open>
-<summary>Chesnaught overview</summary>
 Types: Grass / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -366,12 +357,8 @@ Lv. 36
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-chesnaught-panel-3">
-## Mega Chesnaught (#012)
-<details class="pokemon-card-container" open>
-<summary>Mega Chesnaught overview</summary>
 Types: Grass / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -493,7 +480,6 @@ Chesnaughtite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -503,3 +489,4 @@ Chesnaughtite
 #pokemon-tabs-chesnaught-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-chesnaught-panel-2 { display: block; }
 #pokemon-tabs-chesnaught-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-chesnaught-panel-3 { display: block; }
 </style>
+</details>

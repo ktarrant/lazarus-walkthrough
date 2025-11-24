@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Galarian Ponyta (#252)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-galarian-ponyta">
 <input type="radio" name="pokemon-tabs-galarian-ponyta-group" id="pokemon-tabs-galarian-ponyta-tab-0" checked>
 <label for="pokemon-tabs-galarian-ponyta-tab-0">Galarian Ponyta</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-galarian-ponyta-tab-1">Galarian Rapidash</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-ponyta-panel-0">
-## Galarian Ponyta (#252)
-<details class="pokemon-card-container" open>
-<summary>Galarian Ponyta overview</summary>
 Types: Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -89,12 +88,8 @@ Types: Psychic • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-ponyta-panel-1">
-## Galarian Rapidash (#253)
-<details class="pokemon-card-container" open>
-<summary>Galarian Rapidash overview</summary>
 Types: Psychic / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -182,7 +177,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -190,3 +184,4 @@ Lv. 30
 #pokemon-tabs-galarian-ponyta-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-ponyta-panel-0 { display: block; }
 #pokemon-tabs-galarian-ponyta-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-ponyta-panel-1 { display: block; }
 </style>
+</details>

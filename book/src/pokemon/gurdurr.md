@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gurdurr (#115)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gurdurr">
 <input type="radio" name="pokemon-tabs-gurdurr-group" id="pokemon-tabs-gurdurr-tab-0">
 <label for="pokemon-tabs-gurdurr-tab-0">Timburr</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-gurdurr-tab-2">Conkeldurr</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gurdurr-panel-0">
-## Timburr (#114)
-<details class="pokemon-card-container" open>
-<summary>Timburr overview</summary>
 Types: Fighting • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -121,12 +120,8 @@ Types: Fighting • Egg Groups: Human-Like
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gurdurr-panel-1">
-## Gurdurr (#115)
-<details class="pokemon-card-container" open>
-<summary>Gurdurr overview</summary>
 Types: Fighting • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -237,12 +232,8 @@ Lv. 25
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gurdurr-panel-2">
-## Conkeldurr (#116)
-<details class="pokemon-card-container" open>
-<summary>Conkeldurr overview</summary>
 Types: Fighting • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -354,7 +345,6 @@ Linking Cord
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -363,3 +353,4 @@ Linking Cord
 #pokemon-tabs-gurdurr-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gurdurr-panel-1 { display: block; }
 #pokemon-tabs-gurdurr-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-gurdurr-panel-2 { display: block; }
 </style>
+</details>

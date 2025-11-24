@@ -1,6 +1,5 @@
-## Dracovish (#410)
 <details class="pokemon-card-container" open>
-<summary>Dracovish overview</summary>
+<summary>Dracovish (#410)</summary>
 Types: Water / Dragon • Egg Groups: -
 
 <div class="pokemon-card">

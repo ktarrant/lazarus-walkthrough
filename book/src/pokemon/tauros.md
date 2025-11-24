@@ -1,6 +1,5 @@
-## Tauros (#244)
 <details class="pokemon-card-container" open>
-<summary>Tauros overview</summary>
+<summary>Tauros (#244)</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">

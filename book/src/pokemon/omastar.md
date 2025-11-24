@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Omastar (#172)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-omastar">
 <input type="radio" name="pokemon-tabs-omastar-group" id="pokemon-tabs-omastar-tab-0">
 <label for="pokemon-tabs-omastar-tab-0">Omanyte</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-omastar-tab-1">Omastar</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-omastar-panel-0">
-## Omanyte (#171)
-<details class="pokemon-card-container" open>
-<summary>Omanyte overview</summary>
 Types: Rock / Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -116,12 +115,8 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-omastar-panel-1">
-## Omastar (#172)
-<details class="pokemon-card-container" open>
-<summary>Omastar overview</summary>
 Types: Rock / Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -231,7 +226,6 @@ Lv. 40
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -239,3 +233,4 @@ Lv. 40
 #pokemon-tabs-omastar-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-omastar-panel-0 { display: block; }
 #pokemon-tabs-omastar-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-omastar-panel-1 { display: block; }
 </style>
+</details>

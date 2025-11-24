@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Claydol (#159)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-claydol">
 <input type="radio" name="pokemon-tabs-claydol-group" id="pokemon-tabs-claydol-tab-0">
 <label for="pokemon-tabs-claydol-tab-0">Baltoy</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-claydol-tab-1">Claydol</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-claydol-panel-0">
-## Baltoy (#158)
-<details class="pokemon-card-container" open>
-<summary>Baltoy overview</summary>
 Types: Ground / Psychic • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -121,12 +120,8 @@ Light Clay
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-claydol-panel-1">
-## Claydol (#159)
-<details class="pokemon-card-container" open>
-<summary>Claydol overview</summary>
 Types: Ground / Psychic • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -244,7 +239,6 @@ Lv. 36
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -252,3 +246,4 @@ Lv. 36
 #pokemon-tabs-claydol-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-claydol-panel-0 { display: block; }
 #pokemon-tabs-claydol-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-claydol-panel-1 { display: block; }
 </style>
+</details>

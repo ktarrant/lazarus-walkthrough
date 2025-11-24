@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Skuntank (#241)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-skuntank">
 <input type="radio" name="pokemon-tabs-skuntank-group" id="pokemon-tabs-skuntank-tab-0">
 <label for="pokemon-tabs-skuntank-tab-0">Stunky</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-skuntank-tab-1">Skuntank</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-skuntank-panel-0">
-## Stunky (#240)
-<details class="pokemon-card-container" open>
-<summary>Stunky overview</summary>
 Types: Poison / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Poison / Dark • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-skuntank-panel-1">
-## Skuntank (#241)
-<details class="pokemon-card-container" open>
-<summary>Skuntank overview</summary>
 Types: Poison / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -239,7 +234,6 @@ Lv. 34
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -247,3 +241,4 @@ Lv. 34
 #pokemon-tabs-skuntank-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-skuntank-panel-0 { display: block; }
 #pokemon-tabs-skuntank-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-skuntank-panel-1 { display: block; }
 </style>
+</details>

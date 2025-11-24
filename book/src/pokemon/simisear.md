@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Simisear (#031)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-simisear">
 <input type="radio" name="pokemon-tabs-simisear-group" id="pokemon-tabs-simisear-tab-0">
 <label for="pokemon-tabs-simisear-tab-0">Pansear</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-simisear-tab-1">Simisear</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-simisear-panel-0">
-## Pansear (#030)
-<details class="pokemon-card-container" open>
-<summary>Pansear overview</summary>
 Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Types: Fire / Normal • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-simisear-panel-1">
-## Simisear (#031)
-<details class="pokemon-card-container" open>
-<summary>Simisear overview</summary>
 Types: Fire / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -226,7 +221,6 @@ Fire Stone
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -234,3 +228,4 @@ Fire Stone
 #pokemon-tabs-simisear-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-simisear-panel-0 { display: block; }
 #pokemon-tabs-simisear-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-simisear-panel-1 { display: block; }
 </style>
+</details>

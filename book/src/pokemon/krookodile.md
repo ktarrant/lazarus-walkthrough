@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Krookodile (#101)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-krookodile">
 <input type="radio" name="pokemon-tabs-krookodile-group" id="pokemon-tabs-krookodile-tab-0">
 <label for="pokemon-tabs-krookodile-tab-0">Sandile</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-krookodile-tab-2">Krookodile</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-krookodile-panel-0">
-## Sandile (#099)
-<details class="pokemon-card-container" open>
-<summary>Sandile overview</summary>
 Types: Ground / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -125,12 +124,8 @@ Black Glasses
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-krookodile-panel-1">
-## Krokorok (#100)
-<details class="pokemon-card-container" open>
-<summary>Krokorok overview</summary>
 Types: Ground / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -254,12 +249,8 @@ Lv. 29
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-krookodile-panel-2">
-## Krookodile (#101)
-<details class="pokemon-card-container" open>
-<summary>Krookodile overview</summary>
 Types: Ground / Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -384,7 +375,6 @@ Lv. 40
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -393,3 +383,4 @@ Lv. 40
 #pokemon-tabs-krookodile-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-krookodile-panel-1 { display: block; }
 #pokemon-tabs-krookodile-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-krookodile-panel-2 { display: block; }
 </style>
+</details>

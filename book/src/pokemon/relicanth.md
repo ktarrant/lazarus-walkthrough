@@ -1,6 +1,5 @@
-## Relicanth (#336)
 <details class="pokemon-card-container" open>
-<summary>Relicanth overview</summary>
+<summary>Relicanth (#336)</summary>
 Types: Water / Rock • Egg Groups: Water 1 / Water 2
 
 <div class="pokemon-card">

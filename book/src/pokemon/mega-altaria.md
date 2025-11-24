@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Altaria (#359)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-altaria">
 <input type="radio" name="pokemon-tabs-mega-altaria-group" id="pokemon-tabs-mega-altaria-tab-0">
 <label for="pokemon-tabs-mega-altaria-tab-0">Swablu</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mega-altaria-tab-2">Mega Altaria</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-altaria-panel-0">
-## Swablu (#358)
-<details class="pokemon-card-container" open>
-<summary>Swablu overview</summary>
 Types: Flying / Fairy • Egg Groups: Flying / Dragon
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Flying / Fairy • Egg Groups: Flying / Dragon
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-altaria-panel-1">
-## Altaria (#359)
-<details class="pokemon-card-container" open>
-<summary>Altaria overview</summary>
 Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 
 <div class="pokemon-card">
@@ -250,12 +245,8 @@ Lv. 35
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-altaria-panel-2">
-## Mega Altaria (#359)
-<details class="pokemon-card-container" open>
-<summary>Mega Altaria overview</summary>
 Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 
 <div class="pokemon-card">
@@ -374,7 +365,6 @@ Altarianite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -383,3 +373,4 @@ Altarianite
 #pokemon-tabs-mega-altaria-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-altaria-panel-1 { display: block; }
 #pokemon-tabs-mega-altaria-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-altaria-panel-2 { display: block; }
 </style>
+</details>

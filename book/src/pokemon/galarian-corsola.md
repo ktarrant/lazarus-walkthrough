@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Galarian Corsola (#254)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-galarian-corsola">
 <input type="radio" name="pokemon-tabs-galarian-corsola-group" id="pokemon-tabs-galarian-corsola-tab-0" checked>
 <label for="pokemon-tabs-galarian-corsola-tab-0">Galarian Corsola</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-galarian-corsola-tab-1">Cursola</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-corsola-panel-0">
-## Galarian Corsola (#254)
-<details class="pokemon-card-container" open>
-<summary>Galarian Corsola overview</summary>
 Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-corsola-panel-1">
-## Cursola (#255)
-<details class="pokemon-card-container" open>
-<summary>Cursola overview</summary>
 Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -227,7 +222,6 @@ Lv. 34
 - Snore
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -235,3 +229,4 @@ Lv. 34
 #pokemon-tabs-galarian-corsola-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-corsola-panel-0 { display: block; }
 #pokemon-tabs-galarian-corsola-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-corsola-panel-1 { display: block; }
 </style>
+</details>

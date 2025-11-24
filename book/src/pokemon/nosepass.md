@@ -1,6 +1,5 @@
-## Nosepass (#102)
 <details class="pokemon-card-container" open>
-<summary>Nosepass overview</summary>
+<summary>Nosepass (#102)</summary>
 Types: Rock • Egg Groups: Mineral
 
 <div class="pokemon-card">

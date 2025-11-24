@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Scizor (#265)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-scizor">
 <input type="radio" name="pokemon-tabs-mega-scizor-group" id="pokemon-tabs-mega-scizor-tab-0">
 <label for="pokemon-tabs-mega-scizor-tab-0">Scyther</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-mega-scizor-tab-3">Kleavor</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scizor-panel-0">
-## Scyther (#264)
-<details class="pokemon-card-container" open>
-<summary>Scyther overview</summary>
 Types: Bug / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Types: Bug / Flying • Egg Groups: Bug
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scizor-panel-1">
-## Scizor (#265)
-<details class="pokemon-card-container" open>
-<summary>Scizor overview</summary>
 Types: Bug / Steel • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -237,12 +232,8 @@ Metal Coat
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scizor-panel-2">
-## Mega Scizor (#265)
-<details class="pokemon-card-container" open>
-<summary>Mega Scizor overview</summary>
 Types: Bug / Steel • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -349,12 +340,8 @@ Scizorite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scizor-panel-3">
-## Kleavor (#266)
-<details class="pokemon-card-container" open>
-<summary>Kleavor overview</summary>
 Types: Bug / Rock • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -445,7 +432,6 @@ Black Augurite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -455,3 +441,4 @@ Black Augurite
 #pokemon-tabs-mega-scizor-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-scizor-panel-2 { display: block; }
 #pokemon-tabs-mega-scizor-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-scizor-panel-3 { display: block; }
 </style>
+</details>

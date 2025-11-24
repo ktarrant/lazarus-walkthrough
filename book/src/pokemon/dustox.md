@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dustox (#077)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dustox">
 <input type="radio" name="pokemon-tabs-dustox-group" id="pokemon-tabs-dustox-tab-0">
 <label for="pokemon-tabs-dustox-tab-0">Wurmple</label>
@@ -11,9 +13,6 @@
 <label for="pokemon-tabs-dustox-tab-4">Dustox</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dustox-panel-0">
-## Wurmple (#073)
-<details class="pokemon-card-container" open>
-<summary>Wurmple overview</summary>
 Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -72,12 +71,8 @@ Pecha Berry
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dustox-panel-1">
-## Silcoon (#074)
-<details class="pokemon-card-container" open>
-<summary>Silcoon overview</summary>
 Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -126,12 +121,8 @@ Lv. 7
 - Incompatible
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dustox-panel-2">
-## Beautifly (#075)
-<details class="pokemon-card-container" open>
-<summary>Beautifly overview</summary>
 Types: Bug / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -222,12 +213,8 @@ Lv. 10
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dustox-panel-3">
-## Cascoon (#076)
-<details class="pokemon-card-container" open>
-<summary>Cascoon overview</summary>
 Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -276,12 +263,8 @@ Lv. 7
 - Incompatible
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dustox-panel-4">
-## Dustox (#077)
-<details class="pokemon-card-container" open>
-<summary>Dustox overview</summary>
 Types: Bug / Poison • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -374,7 +357,6 @@ Lv. 10
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -385,3 +367,4 @@ Lv. 10
 #pokemon-tabs-dustox-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-dustox-panel-3 { display: block; }
 #pokemon-tabs-dustox-tab-4:checked ~ .pokemon-tab-panels #pokemon-tabs-dustox-panel-4 { display: block; }
 </style>
+</details>

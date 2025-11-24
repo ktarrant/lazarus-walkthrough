@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Vullaby (#107)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vullaby">
 <input type="radio" name="pokemon-tabs-vullaby-group" id="pokemon-tabs-vullaby-tab-0" checked>
 <label for="pokemon-tabs-vullaby-tab-0">Vullaby</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-vullaby-tab-2">Mega Mandibuzz</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-panel-0">
-## Vullaby (#107)
-<details class="pokemon-card-container" open>
-<summary>Vullaby overview</summary>
 Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -117,12 +116,8 @@ Types: Dark / Flying • Egg Groups: Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-panel-1">
-## Mandibuzz (#108)
-<details class="pokemon-card-container" open>
-<summary>Mandibuzz overview</summary>
 Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -232,12 +227,8 @@ Lv. 34
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vullaby-panel-2">
-## Mega Mandibuzz (#108)
-<details class="pokemon-card-container" open>
-<summary>Mega Mandibuzz overview</summary>
 Types: Dark / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -345,7 +336,6 @@ Mandibite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -354,3 +344,4 @@ Mandibite
 #pokemon-tabs-vullaby-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-panel-1 { display: block; }
 #pokemon-tabs-vullaby-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-vullaby-panel-2 { display: block; }
 </style>
+</details>

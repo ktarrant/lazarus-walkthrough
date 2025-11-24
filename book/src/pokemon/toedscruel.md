@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Toedscruel (#138)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-toedscruel">
 <input type="radio" name="pokemon-tabs-toedscruel-group" id="pokemon-tabs-toedscruel-tab-0">
 <label for="pokemon-tabs-toedscruel-tab-0">Toedscool</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-toedscruel-tab-1">Toedscruel</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-toedscruel-panel-0">
-## Toedscool (#137)
-<details class="pokemon-card-container" open>
-<summary>Toedscool overview</summary>
 Types: Ground / Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -106,12 +105,8 @@ Tiny Mushroom
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-toedscruel-panel-1">
-## Toedscruel (#138)
-<details class="pokemon-card-container" open>
-<summary>Toedscruel overview</summary>
 Types: Ground / Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -210,7 +205,6 @@ Lv. 30
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -218,3 +212,4 @@ Lv. 30
 #pokemon-tabs-toedscruel-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-toedscruel-panel-0 { display: block; }
 #pokemon-tabs-toedscruel-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-toedscruel-panel-1 { display: block; }
 </style>
+</details>

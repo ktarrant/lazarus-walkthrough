@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Electrode (#364)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-electrode">
 <input type="radio" name="pokemon-tabs-electrode-group" id="pokemon-tabs-electrode-tab-0">
 <label for="pokemon-tabs-electrode-tab-0">Voltorb</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-electrode-tab-1">Electrode</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-electrode-panel-0">
-## Voltorb (#363)
-<details class="pokemon-card-container" open>
-<summary>Voltorb overview</summary>
 Types: Electric • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -95,12 +94,8 @@ Types: Electric • Egg Groups: Mineral
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-electrode-panel-1">
-## Electrode (#364)
-<details class="pokemon-card-container" open>
-<summary>Electrode overview</summary>
 Types: Electric • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -188,7 +183,6 @@ Lv. 30
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -196,3 +190,4 @@ Lv. 30
 #pokemon-tabs-electrode-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-electrode-panel-0 { display: block; }
 #pokemon-tabs-electrode-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-electrode-panel-1 { display: block; }
 </style>
+</details>

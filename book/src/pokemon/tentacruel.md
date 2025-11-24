@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Tentacruel (#261)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tentacruel">
 <input type="radio" name="pokemon-tabs-tentacruel-group" id="pokemon-tabs-tentacruel-tab-0">
 <label for="pokemon-tabs-tentacruel-tab-0">Tentacool</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-tentacruel-tab-1">Tentacruel</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tentacruel-panel-0">
-## Tentacool (#260)
-<details class="pokemon-card-container" open>
-<summary>Tentacool overview</summary>
 Types: Water / Poison • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -142,12 +141,8 @@ Poison Barb
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tentacruel-panel-1">
-## Tentacruel (#261)
-<details class="pokemon-card-container" open>
-<summary>Tentacruel overview</summary>
 Types: Water / Poison • Egg Groups: Water 3
 
 <div class="pokemon-card">
@@ -271,7 +266,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -279,3 +273,4 @@ Lv. 30
 #pokemon-tabs-tentacruel-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-tentacruel-panel-0 { display: block; }
 #pokemon-tabs-tentacruel-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-tentacruel-panel-1 { display: block; }
 </style>
+</details>

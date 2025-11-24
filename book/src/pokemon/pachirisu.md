@@ -1,6 +1,5 @@
-## Pachirisu (#210)
 <details class="pokemon-card-container" open>
-<summary>Pachirisu overview</summary>
+<summary>Pachirisu (#210)</summary>
 Types: Electric • Egg Groups: Fairy / Field
 
 <div class="pokemon-card">

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Pichu (#248)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pichu">
 <input type="radio" name="pokemon-tabs-pichu-group" id="pokemon-tabs-pichu-tab-0" checked>
 <label for="pokemon-tabs-pichu-tab-0">Pichu</label>
@@ -13,9 +15,6 @@
 <label for="pokemon-tabs-pichu-tab-5">Alolan Raichu</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-0">
-## Pichu (#248)
-<details class="pokemon-card-container" open>
-<summary>Pichu overview</summary>
 Types: Electric • Egg Groups: -
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Electric • Egg Groups: -
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-1">
-## Pikachu (#249)
-<details class="pokemon-card-container" open>
-<summary>Pikachu overview</summary>
 Types: Electric • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -245,12 +240,8 @@ Lv. 15
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-2">
-## Raichu (#250)
-<details class="pokemon-card-container" open>
-<summary>Raichu overview</summary>
 Types: Electric • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -371,12 +362,8 @@ Thunder Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-3">
-## Mega Raichu X (#250)
-<details class="pokemon-card-container" open>
-<summary>Mega Raichu X overview</summary>
 Types: Electric • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -492,12 +479,8 @@ Raichuite X
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-4">
-## Mega Raichu Y (#250)
-<details class="pokemon-card-container" open>
-<summary>Mega Raichu Y overview</summary>
 Types: Electric • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -613,12 +596,8 @@ Raichuite Y
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-5">
-## Alolan Raichu (#250)
-<details class="pokemon-card-container" open>
-<summary>Alolan Raichu overview</summary>
 Types: Electric / Psychic • Egg Groups: Field / Fairy
 
 <div class="pokemon-card">
@@ -743,7 +722,6 @@ Shiny Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -755,3 +733,4 @@ Shiny Stone
 #pokemon-tabs-pichu-tab-4:checked ~ .pokemon-tab-panels #pokemon-tabs-pichu-panel-4 { display: block; }
 #pokemon-tabs-pichu-tab-5:checked ~ .pokemon-tab-panels #pokemon-tabs-pichu-panel-5 { display: block; }
 </style>
+</details>

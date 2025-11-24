@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Aipom (#129)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aipom">
 <input type="radio" name="pokemon-tabs-aipom-group" id="pokemon-tabs-aipom-tab-0" checked>
 <label for="pokemon-tabs-aipom-tab-0">Aipom</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-aipom-tab-1">Ambipom</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-aipom-panel-0">
-## Aipom (#129)
-<details class="pokemon-card-container" open>
-<summary>Aipom overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Types: Normal • Egg Groups: Field
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-aipom-panel-1">
-## Ambipom (#130)
-<details class="pokemon-card-container" open>
-<summary>Ambipom overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -244,7 +239,6 @@ Lv. knows Double Hit
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -252,3 +246,4 @@ Lv. knows Double Hit
 #pokemon-tabs-aipom-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-aipom-panel-0 { display: block; }
 #pokemon-tabs-aipom-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-aipom-panel-1 { display: block; }
 </style>
+</details>

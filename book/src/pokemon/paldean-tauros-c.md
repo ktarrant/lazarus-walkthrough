@@ -1,6 +1,5 @@
-## Paldean Tauros-C (#224)
 <details class="pokemon-card-container" open>
-<summary>Paldean Tauros-C overview</summary>
+<summary>Paldean Tauros-C (#224)</summary>
 Types: Fighting • Egg Groups: Field
 
 <div class="pokemon-card">

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Primal Kyogre (#427)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-primal-kyogre">
 <input type="radio" name="pokemon-tabs-primal-kyogre-group" id="pokemon-tabs-primal-kyogre-tab-0">
 <label for="pokemon-tabs-primal-kyogre-tab-0">Kyogre</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-primal-kyogre-tab-1">Primal Kyogre</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-primal-kyogre-panel-0">
-## Kyogre (#427)
-<details class="pokemon-card-container" open>
-<summary>Kyogre overview</summary>
 Types: Water • Egg Groups: -
 
 <div class="pokemon-card">
@@ -101,12 +100,8 @@ Types: Water • Egg Groups: -
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-primal-kyogre-panel-1">
-## Primal Kyogre (#427)
-<details class="pokemon-card-container" open>
-<summary>Primal Kyogre overview</summary>
 Types: Water • Egg Groups: -
 
 <div class="pokemon-card">
@@ -203,7 +198,6 @@ Blue Orb?
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -211,3 +205,4 @@ Blue Orb?
 #pokemon-tabs-primal-kyogre-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-primal-kyogre-panel-0 { display: block; }
 #pokemon-tabs-primal-kyogre-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-primal-kyogre-panel-1 { display: block; }
 </style>
+</details>

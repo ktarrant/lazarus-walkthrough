@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Numel (#334)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-numel">
 <input type="radio" name="pokemon-tabs-numel-group" id="pokemon-tabs-numel-tab-0" checked>
 <label for="pokemon-tabs-numel-tab-0">Numel</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-numel-tab-2">Mega Camerupt</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-numel-panel-0">
-## Numel (#334)
-<details class="pokemon-card-container" open>
-<summary>Numel overview</summary>
 Types: Fire / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -122,12 +121,8 @@ Types: Fire / Ground • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-numel-panel-1">
-## Camerupt (#335)
-<details class="pokemon-card-container" open>
-<summary>Camerupt overview</summary>
 Types: Fire / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -244,12 +239,8 @@ Lv. 33
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-numel-panel-2">
-## Mega Camerupt (#335)
-<details class="pokemon-card-container" open>
-<summary>Mega Camerupt overview</summary>
 Types: Fire / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -364,7 +355,6 @@ Cameruptite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -373,3 +363,4 @@ Cameruptite
 #pokemon-tabs-numel-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-numel-panel-1 { display: block; }
 #pokemon-tabs-numel-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-numel-panel-2 { display: block; }
 </style>
+</details>

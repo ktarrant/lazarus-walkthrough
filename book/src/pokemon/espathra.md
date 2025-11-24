@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Espathra (#146)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-espathra">
 <input type="radio" name="pokemon-tabs-espathra-group" id="pokemon-tabs-espathra-tab-0">
 <label for="pokemon-tabs-espathra-tab-0">Flittle</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-espathra-tab-1">Espathra</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-espathra-panel-0">
-## Flittle (#145)
-<details class="pokemon-card-container" open>
-<summary>Flittle overview</summary>
 Types: Psychic • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -88,12 +87,8 @@ Types: Psychic • Egg Groups: Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-espathra-panel-1">
-## Espathra (#146)
-<details class="pokemon-card-container" open>
-<summary>Espathra overview</summary>
 Types: Psychic • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -189,7 +184,6 @@ Lv. 30
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -197,3 +191,4 @@ Lv. 30
 #pokemon-tabs-espathra-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-espathra-panel-0 { display: block; }
 #pokemon-tabs-espathra-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-espathra-panel-1 { display: block; }
 </style>
+</details>

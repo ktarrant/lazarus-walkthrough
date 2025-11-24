@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Vulpix (#147)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vulpix">
 <input type="radio" name="pokemon-tabs-vulpix-group" id="pokemon-tabs-vulpix-tab-0" checked>
 <label for="pokemon-tabs-vulpix-tab-0">Vulpix</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-vulpix-tab-1">Ninetales</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-vulpix-panel-0">
-## Vulpix (#147)
-<details class="pokemon-card-container" open>
-<summary>Vulpix overview</summary>
 Types: Fire / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -121,12 +120,8 @@ Charcoal
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-vulpix-panel-1">
-## Ninetales (#148)
-<details class="pokemon-card-container" open>
-<summary>Ninetales overview</summary>
 Types: Fire / Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -245,7 +240,6 @@ Fire Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -253,3 +247,4 @@ Fire Stone
 #pokemon-tabs-vulpix-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-vulpix-panel-0 { display: block; }
 #pokemon-tabs-vulpix-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-vulpix-panel-1 { display: block; }
 </style>
+</details>

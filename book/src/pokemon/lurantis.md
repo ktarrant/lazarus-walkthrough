@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Lurantis (#345)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lurantis">
 <input type="radio" name="pokemon-tabs-lurantis-group" id="pokemon-tabs-lurantis-tab-0">
 <label for="pokemon-tabs-lurantis-tab-0">Fomantis</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-lurantis-tab-1">Lurantis</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-lurantis-panel-0">
-## Fomantis (#344)
-<details class="pokemon-card-container" open>
-<summary>Fomantis overview</summary>
 Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -100,12 +99,8 @@ Miracle Seed
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lurantis-panel-1">
-## Lurantis (#345)
-<details class="pokemon-card-container" open>
-<summary>Lurantis overview</summary>
 Types: Grass • Egg Groups: Grass
 
 <div class="pokemon-card">
@@ -206,7 +201,6 @@ Lv. 29, Day
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -214,3 +208,4 @@ Lv. 29, Day
 #pokemon-tabs-lurantis-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-lurantis-panel-0 { display: block; }
 #pokemon-tabs-lurantis-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-lurantis-panel-1 { display: block; }
 </style>
+</details>

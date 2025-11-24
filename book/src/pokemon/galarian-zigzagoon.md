@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Galarian Zigzagoon (#348)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-galarian-zigzagoon">
 <input type="radio" name="pokemon-tabs-galarian-zigzagoon-group" id="pokemon-tabs-galarian-zigzagoon-tab-0" checked>
 <label for="pokemon-tabs-galarian-zigzagoon-tab-0">Galarian Zigzagoon</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-galarian-zigzagoon-tab-2">Obstagoon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-zigzagoon-panel-0">
-## Galarian Zigzagoon (#348)
-<details class="pokemon-card-container" open>
-<summary>Galarian Zigzagoon overview</summary>
 Types: Dark / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -100,12 +99,8 @@ Types: Dark / Normal • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-zigzagoon-panel-1">
-## Galarian Linoone (#349)
-<details class="pokemon-card-container" open>
-<summary>Galarian Linoone overview</summary>
 Types: Dark / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -204,12 +199,8 @@ Lv. 20
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-galarian-zigzagoon-panel-2">
-## Obstagoon (#350)
-<details class="pokemon-card-container" open>
-<summary>Obstagoon overview</summary>
 Types: Dark / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -317,7 +308,6 @@ Lv. 35, Night
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -326,3 +316,4 @@ Lv. 35, Night
 #pokemon-tabs-galarian-zigzagoon-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-zigzagoon-panel-1 { display: block; }
 #pokemon-tabs-galarian-zigzagoon-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-galarian-zigzagoon-panel-2 { display: block; }
 </style>
+</details>

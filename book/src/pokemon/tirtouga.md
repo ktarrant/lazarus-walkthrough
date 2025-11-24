@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Tirtouga (#404)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tirtouga">
 <input type="radio" name="pokemon-tabs-tirtouga-group" id="pokemon-tabs-tirtouga-tab-0" checked>
 <label for="pokemon-tabs-tirtouga-tab-0">Tirtouga</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-tirtouga-tab-1">Carracosta</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tirtouga-panel-0">
-## Tirtouga (#404)
-<details class="pokemon-card-container" open>
-<summary>Tirtouga overview</summary>
 Types: Water / Rock • Egg Groups: Water 3 / Water 1
 
 <div class="pokemon-card">
@@ -117,12 +116,8 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tirtouga-panel-1">
-## Carracosta (#405)
-<details class="pokemon-card-container" open>
-<summary>Carracosta overview</summary>
 Types: Water / Rock • Egg Groups: Water 3 / Water 1
 
 <div class="pokemon-card">
@@ -232,7 +227,6 @@ Lv. 33
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -240,3 +234,4 @@ Lv. 33
 #pokemon-tabs-tirtouga-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-tirtouga-panel-0 { display: block; }
 #pokemon-tabs-tirtouga-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-tirtouga-panel-1 { display: block; }
 </style>
+</details>

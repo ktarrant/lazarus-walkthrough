@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Kabuto (#173)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kabuto">
 <input type="radio" name="pokemon-tabs-kabuto-group" id="pokemon-tabs-kabuto-tab-0" checked>
 <label for="pokemon-tabs-kabuto-tab-0">Kabuto</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-kabuto-tab-1">Kabutops</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-kabuto-panel-0">
-## Kabuto (#173)
-<details class="pokemon-card-container" open>
-<summary>Kabuto overview</summary>
 Types: Rock / Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -116,12 +115,8 @@ Types: Rock / Water • Egg Groups: Water 1 / Water 3
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-kabuto-panel-1">
-## Kabutops (#174)
-<details class="pokemon-card-container" open>
-<summary>Kabutops overview</summary>
 Types: Rock / Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -239,7 +234,6 @@ Lv. 40
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -247,3 +241,4 @@ Lv. 40
 #pokemon-tabs-kabuto-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-kabuto-panel-0 { display: block; }
 #pokemon-tabs-kabuto-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-kabuto-panel-1 { display: block; }
 </style>
+</details>

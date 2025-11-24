@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Popplio (#007)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-popplio">
 <input type="radio" name="pokemon-tabs-popplio-group" id="pokemon-tabs-popplio-tab-0" checked>
 <label for="pokemon-tabs-popplio-tab-0">Popplio</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-popplio-tab-2">Primarina</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-popplio-panel-0">
-## Popplio (#007)
-<details class="pokemon-card-container" open>
-<summary>Popplio overview</summary>
 Types: Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -100,12 +99,8 @@ Types: Water • Egg Groups: Water 1 / Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-popplio-panel-1">
-## Brionne (#008)
-<details class="pokemon-card-container" open>
-<summary>Brionne overview</summary>
 Types: Water • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -199,12 +194,8 @@ Lv. 17
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-popplio-panel-2">
-## Primarina (#009)
-<details class="pokemon-card-container" open>
-<summary>Primarina overview</summary>
 Types: Water / Fairy • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -310,7 +301,6 @@ Lv. 34
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -319,3 +309,4 @@ Lv. 34
 #pokemon-tabs-popplio-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-popplio-panel-1 { display: block; }
 #pokemon-tabs-popplio-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-popplio-panel-2 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Medicham (#282)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-medicham">
 <input type="radio" name="pokemon-tabs-medicham-group" id="pokemon-tabs-medicham-tab-0">
 <label for="pokemon-tabs-medicham-tab-0">Meditite</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-medicham-tab-2">Mega Medicham</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-medicham-panel-0">
-## Meditite (#281)
-<details class="pokemon-card-container" open>
-<summary>Meditite overview</summary>
 Types: Fighting / Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -139,12 +138,8 @@ Types: Fighting / Psychic • Egg Groups: Human-Like
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-medicham-panel-1">
-## Medicham (#282)
-<details class="pokemon-card-container" open>
-<summary>Medicham overview</summary>
 Types: Fighting / Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -274,12 +269,8 @@ Lv. 33
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-medicham-panel-2">
-## Mega Medicham (#282)
-<details class="pokemon-card-container" open>
-<summary>Mega Medicham overview</summary>
 Types: Fighting / Psychic • Egg Groups: Human-Like
 
 <div class="pokemon-card">
@@ -408,7 +399,6 @@ Medichamite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -417,3 +407,4 @@ Medichamite
 #pokemon-tabs-medicham-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-medicham-panel-1 { display: block; }
 #pokemon-tabs-medicham-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-medicham-panel-2 { display: block; }
 </style>
+</details>

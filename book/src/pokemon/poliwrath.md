@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Poliwrath (#120)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-poliwrath">
 <input type="radio" name="pokemon-tabs-poliwrath-group" id="pokemon-tabs-poliwrath-tab-0">
 <label for="pokemon-tabs-poliwrath-tab-0">Poliwag</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-poliwrath-tab-3">Politoed</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-poliwrath-panel-0">
-## Poliwag (#118)
-<details class="pokemon-card-container" open>
-<summary>Poliwag overview</summary>
 Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -124,12 +123,8 @@ Types: Water • Egg Groups: Water 1
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-poliwrath-panel-1">
-## Poliwhirl (#119)
-<details class="pokemon-card-container" open>
-<summary>Poliwhirl overview</summary>
 Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -253,12 +248,8 @@ Lv. 25
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-poliwrath-panel-2">
-## Poliwrath (#120)
-<details class="pokemon-card-container" open>
-<summary>Poliwrath overview</summary>
 Types: Water / Fighting • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -392,12 +383,8 @@ Water Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-poliwrath-panel-3">
-## Politoed (#121)
-<details class="pokemon-card-container" open>
-<summary>Politoed overview</summary>
 Types: Water / Normal • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -523,7 +510,6 @@ King's Rock
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -533,3 +519,4 @@ King's Rock
 #pokemon-tabs-poliwrath-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-poliwrath-panel-2 { display: block; }
 #pokemon-tabs-poliwrath-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-poliwrath-panel-3 { display: block; }
 </style>
+</details>

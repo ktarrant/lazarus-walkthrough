@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Heliolisk (#319)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-heliolisk">
 <input type="radio" name="pokemon-tabs-mega-heliolisk-group" id="pokemon-tabs-mega-heliolisk-tab-0">
 <label for="pokemon-tabs-mega-heliolisk-tab-0">Heliolisk</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mega-heliolisk-tab-2">Mega Heliolisk</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-heliolisk-panel-0">
-## Heliolisk (#319)
-<details class="pokemon-card-container" open>
-<summary>Heliolisk overview</summary>
 Types: Electric / Normal • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Sun Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-heliolisk-panel-1">
-## Helioptile (#318)
-<details class="pokemon-card-container" open>
-<summary>Helioptile overview</summary>
 Types: Electric / Normal • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
@@ -221,12 +216,8 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-heliolisk-panel-2">
-## Mega Heliolisk (#319)
-<details class="pokemon-card-container" open>
-<summary>Mega Heliolisk overview</summary>
 Types: Electric / Normal • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
@@ -330,7 +321,6 @@ Heliolite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -339,3 +329,4 @@ Heliolite
 #pokemon-tabs-mega-heliolisk-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-heliolisk-panel-1 { display: block; }
 #pokemon-tabs-mega-heliolisk-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-heliolisk-panel-2 { display: block; }
 </style>
+</details>

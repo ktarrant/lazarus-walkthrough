@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Scrafty (#330)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-scrafty">
 <input type="radio" name="pokemon-tabs-mega-scrafty-group" id="pokemon-tabs-mega-scrafty-tab-0">
 <label for="pokemon-tabs-mega-scrafty-tab-0">Scraggy</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mega-scrafty-tab-2">Mega Scrafty</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scrafty-panel-0">
-## Scraggy (#329)
-<details class="pokemon-card-container" open>
-<summary>Scraggy overview</summary>
 Types: Dark / Fighting • Egg Groups: Dragon / Field
 
 <div class="pokemon-card">
@@ -132,12 +131,8 @@ Shed Shell
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scrafty-panel-1">
-## Scrafty (#330)
-<details class="pokemon-card-container" open>
-<summary>Scrafty overview</summary>
 Types: Dark / Fighting • Egg Groups: Dragon / Field
 
 <div class="pokemon-card">
@@ -265,12 +260,8 @@ Lv. 30
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-scrafty-panel-2">
-## Mega Scrafty (#330)
-<details class="pokemon-card-container" open>
-<summary>Mega Scrafty overview</summary>
 Types: Dark / Fighting • Egg Groups: Dragon / Field
 
 <div class="pokemon-card">
@@ -393,7 +384,6 @@ Scraftite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -402,3 +392,4 @@ Scraftite
 #pokemon-tabs-mega-scrafty-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-scrafty-panel-1 { display: block; }
 #pokemon-tabs-mega-scrafty-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-scrafty-panel-2 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Houndoom (#170)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-houndoom">
 <input type="radio" name="pokemon-tabs-houndoom-group" id="pokemon-tabs-houndoom-tab-0">
 <label for="pokemon-tabs-houndoom-tab-0">Houndour</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-houndoom-tab-2">Mega Houndoom</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-houndoom-panel-0">
-## Houndour (#169)
-<details class="pokemon-card-container" open>
-<summary>Houndour overview</summary>
 Types: Dark / Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Types: Dark / Fire • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-houndoom-panel-1">
-## Houndoom (#170)
-<details class="pokemon-card-container" open>
-<summary>Houndoom overview</summary>
 Types: Dark / Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -250,12 +245,8 @@ Lv. 24
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-houndoom-panel-2">
-## Mega Houndoom (#170)
-<details class="pokemon-card-container" open>
-<summary>Mega Houndoom overview</summary>
 Types: Dark / Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -371,7 +362,6 @@ Houndoominite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -380,3 +370,4 @@ Houndoominite
 #pokemon-tabs-houndoom-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-houndoom-panel-1 { display: block; }
 #pokemon-tabs-houndoom-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-houndoom-panel-2 { display: block; }
 </style>
+</details>

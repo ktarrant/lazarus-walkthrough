@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Drapion (#176)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-drapion">
 <input type="radio" name="pokemon-tabs-drapion-group" id="pokemon-tabs-drapion-tab-0">
 <label for="pokemon-tabs-drapion-tab-0">Skorupi</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-drapion-tab-1">Drapion</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-drapion-panel-0">
-## Skorupi (#175)
-<details class="pokemon-card-container" open>
-<summary>Skorupi overview</summary>
 Types: Poison / Bug • Egg Groups: Water 3 / Bug
 
 <div class="pokemon-card">
@@ -122,12 +121,8 @@ Poison Barb
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-drapion-panel-1">
-## Drapion (#176)
-<details class="pokemon-card-container" open>
-<summary>Drapion overview</summary>
 Types: Poison / Dark • Egg Groups: Water 3 / Bug
 
 <div class="pokemon-card">
@@ -247,7 +242,6 @@ Lv. 40
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -255,3 +249,4 @@ Lv. 40
 #pokemon-tabs-drapion-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-drapion-panel-0 { display: block; }
 #pokemon-tabs-drapion-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-drapion-panel-1 { display: block; }
 </style>
+</details>

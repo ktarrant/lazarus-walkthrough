@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Grubbin (#048)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-grubbin">
 <input type="radio" name="pokemon-tabs-grubbin-group" id="pokemon-tabs-grubbin-tab-0" checked>
 <label for="pokemon-tabs-grubbin-tab-0">Grubbin</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-grubbin-tab-2">Vikavolt</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-grubbin-panel-0">
-## Grubbin (#048)
-<details class="pokemon-card-container" open>
-<summary>Grubbin overview</summary>
 Types: Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -90,12 +89,8 @@ Types: Bug • Egg Groups: Bug
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-grubbin-panel-1">
-## Charjabug (#049)
-<details class="pokemon-card-container" open>
-<summary>Charjabug overview</summary>
 Types: Bug / Electric • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -187,12 +182,8 @@ Lv. 20
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-grubbin-panel-2">
-## Vikavolt (#050)
-<details class="pokemon-card-container" open>
-<summary>Vikavolt overview</summary>
 Types: Bug / Electric • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -283,7 +274,6 @@ Thunder Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -292,3 +282,4 @@ Thunder Stone
 #pokemon-tabs-grubbin-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-grubbin-panel-1 { display: block; }
 #pokemon-tabs-grubbin-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-grubbin-panel-2 { display: block; }
 </style>
+</details>

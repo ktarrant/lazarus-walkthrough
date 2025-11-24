@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Pangoro (#290)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-pangoro">
 <input type="radio" name="pokemon-tabs-mega-pangoro-group" id="pokemon-tabs-mega-pangoro-tab-0">
 <label for="pokemon-tabs-mega-pangoro-tab-0">Pangoro</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mega-pangoro-tab-1">Mega Pangoro</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-pangoro-panel-0">
-## Pangoro (#290)
-<details class="pokemon-card-container" open>
-<summary>Pangoro overview</summary>
 Types: Fighting / Dark • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">
@@ -130,12 +129,8 @@ Lv. 30, /w Dark Type in Party
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-pangoro-panel-1">
-## Mega Pangoro (#290)
-<details class="pokemon-card-container" open>
-<summary>Mega Pangoro overview</summary>
 Types: Fighting / Dark • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">
@@ -256,7 +251,6 @@ Pangorite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -264,3 +258,4 @@ Pangorite
 #pokemon-tabs-mega-pangoro-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-pangoro-panel-0 { display: block; }
 #pokemon-tabs-mega-pangoro-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-pangoro-panel-1 { display: block; }
 </style>
+</details>

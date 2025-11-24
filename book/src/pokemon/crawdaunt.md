@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Crawdaunt (#401)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crawdaunt">
 <input type="radio" name="pokemon-tabs-crawdaunt-group" id="pokemon-tabs-crawdaunt-tab-0">
 <label for="pokemon-tabs-crawdaunt-tab-0">Corphish</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-crawdaunt-tab-1">Crawdaunt</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-crawdaunt-panel-0">
-## Corphish (#400)
-<details class="pokemon-card-container" open>
-<summary>Corphish overview</summary>
 Types: Water • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Types: Water • Egg Groups: Water 1 / Water 3
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-crawdaunt-panel-1">
-## Crawdaunt (#401)
-<details class="pokemon-card-container" open>
-<summary>Crawdaunt overview</summary>
 Types: Water / Dark • Egg Groups: Water 1 / Water 3
 
 <div class="pokemon-card">
@@ -256,7 +251,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -264,3 +258,4 @@ Lv. 30
 #pokemon-tabs-crawdaunt-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-crawdaunt-panel-0 { display: block; }
 #pokemon-tabs-crawdaunt-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-crawdaunt-panel-1 { display: block; }
 </style>
+</details>

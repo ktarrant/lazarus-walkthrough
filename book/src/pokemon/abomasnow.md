@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Abomasnow (#393)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-abomasnow">
 <input type="radio" name="pokemon-tabs-abomasnow-group" id="pokemon-tabs-abomasnow-tab-0">
 <label for="pokemon-tabs-abomasnow-tab-0">Snover</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-abomasnow-tab-2">Mega Abomasnow</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-abomasnow-panel-0">
-## Snover (#392)
-<details class="pokemon-card-container" open>
-<summary>Snover overview</summary>
 Types: Grass / Ice • Egg Groups: Grass / Monster
 
 <div class="pokemon-card">
@@ -120,12 +119,8 @@ Never-Melt Ice
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-abomasnow-panel-1">
-## Abomasnow (#393)
-<details class="pokemon-card-container" open>
-<summary>Abomasnow overview</summary>
 Types: Grass / Ice • Egg Groups: Grass / Monster
 
 <div class="pokemon-card">
@@ -246,12 +241,8 @@ Lv. 36
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-abomasnow-panel-2">
-## Mega Abomasnow (#393)
-<details class="pokemon-card-container" open>
-<summary>Mega Abomasnow overview</summary>
 Types: Grass / Ice • Egg Groups: Grass / Monster
 
 <div class="pokemon-card">
@@ -367,7 +358,6 @@ Abomasite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -376,3 +366,4 @@ Abomasite
 #pokemon-tabs-abomasnow-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-abomasnow-panel-1 { display: block; }
 #pokemon-tabs-abomasnow-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-abomasnow-panel-2 { display: block; }
 </style>
+</details>

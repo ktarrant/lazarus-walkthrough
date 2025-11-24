@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Remoraid (#383)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-remoraid">
 <input type="radio" name="pokemon-tabs-remoraid-group" id="pokemon-tabs-remoraid-tab-0" checked>
 <label for="pokemon-tabs-remoraid-tab-0">Remoraid</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-remoraid-tab-1">Octillery</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-remoraid-panel-0">
-## Remoraid (#383)
-<details class="pokemon-card-container" open>
-<summary>Remoraid overview</summary>
 Types: Water • Egg Groups: Water 1 / Water 2
 
 <div class="pokemon-card">
@@ -132,12 +131,8 @@ Types: Water • Egg Groups: Water 1 / Water 2
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-remoraid-panel-1">
-## Octillery (#384)
-<details class="pokemon-card-container" open>
-<summary>Octillery overview</summary>
 Types: Water / Fire • Egg Groups: Water 1 / Water 2
 
 <div class="pokemon-card">
@@ -260,7 +255,6 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -268,3 +262,4 @@ Lv. 27
 #pokemon-tabs-remoraid-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-remoraid-panel-0 { display: block; }
 #pokemon-tabs-remoraid-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-remoraid-panel-1 { display: block; }
 </style>
+</details>

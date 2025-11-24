@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Stufful (#267)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-stufful">
 <input type="radio" name="pokemon-tabs-stufful-group" id="pokemon-tabs-stufful-tab-0" checked>
 <label for="pokemon-tabs-stufful-tab-0">Stufful</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-stufful-tab-1">Bewear</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-stufful-panel-0">
-## Stufful (#267)
-<details class="pokemon-card-container" open>
-<summary>Stufful overview</summary>
 Types: Normal / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -105,12 +104,8 @@ Types: Normal / Fighting • Egg Groups: Field
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-stufful-panel-1">
-## Bewear (#268)
-<details class="pokemon-card-container" open>
-<summary>Bewear overview</summary>
 Types: Normal / Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -214,7 +209,6 @@ Lv. 27
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -222,3 +216,4 @@ Lv. 27
 #pokemon-tabs-stufful-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-stufful-panel-0 { display: block; }
 #pokemon-tabs-stufful-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-stufful-panel-1 { display: block; }
 </style>
+</details>

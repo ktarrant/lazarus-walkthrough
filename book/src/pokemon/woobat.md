@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Woobat (#109)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-woobat">
 <input type="radio" name="pokemon-tabs-woobat-group" id="pokemon-tabs-woobat-tab-0" checked>
 <label for="pokemon-tabs-woobat-tab-0">Woobat</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-woobat-tab-1">Swoobat</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-woobat-panel-0">
-## Woobat (#109)
-<details class="pokemon-card-container" open>
-<summary>Woobat overview</summary>
 Types: Psychic / Flying • Egg Groups: Field / Flying
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-woobat-panel-1">
-## Swoobat (#110)
-<details class="pokemon-card-container" open>
-<summary>Swoobat overview</summary>
 Types: Psychic / Flying • Egg Groups: Field / Flying
 
 <div class="pokemon-card">
@@ -235,7 +230,6 @@ Lv. 24
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -243,3 +237,4 @@ Lv. 24
 #pokemon-tabs-woobat-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-woobat-panel-0 { display: block; }
 #pokemon-tabs-woobat-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-woobat-panel-1 { display: block; }
 </style>
+</details>

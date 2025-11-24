@@ -1,6 +1,5 @@
-## Kecleon (#341)
 <details class="pokemon-card-container" open>
-<summary>Kecleon overview</summary>
+<summary>Kecleon (#341)</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">

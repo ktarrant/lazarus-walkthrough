@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Umbreon (#088)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-umbreon">
 <input type="radio" name="pokemon-tabs-umbreon-group" id="pokemon-tabs-umbreon-tab-0">
 <label for="pokemon-tabs-umbreon-tab-0">Eevee</label>
@@ -19,9 +21,6 @@
 <label for="pokemon-tabs-umbreon-tab-8">Sylveon</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-0">
-## Eevee (#083)
-<details class="pokemon-card-container" open>
-<summary>Eevee overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -119,12 +118,8 @@ Types: Normal • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-1">
-## Vaporeon (#084)
-<details class="pokemon-card-container" open>
-<summary>Vaporeon overview</summary>
 Types: Water • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -234,12 +229,8 @@ Water Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-2">
-## Jolteon (#085)
-<details class="pokemon-card-container" open>
-<summary>Jolteon overview</summary>
 Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -345,12 +336,8 @@ Thunder Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-3">
-## Flareon (#086)
-<details class="pokemon-card-container" open>
-<summary>Flareon overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -457,12 +444,8 @@ Fire Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-4">
-## Espeon (#087)
-<details class="pokemon-card-container" open>
-<summary>Espeon overview</summary>
 Types: Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -572,12 +555,8 @@ Sun Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-5">
-## Umbreon (#088)
-<details class="pokemon-card-container" open>
-<summary>Umbreon overview</summary>
 Types: Dark • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -690,12 +669,8 @@ Moon Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-6">
-## Leafeon (#089)
-<details class="pokemon-card-container" open>
-<summary>Leafeon overview</summary>
 Types: Grass • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -804,12 +779,8 @@ Leaf Stone
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-7">
-## Glaceon (#090)
-<details class="pokemon-card-container" open>
-<summary>Glaceon overview</summary>
 Types: Ice • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -913,12 +884,8 @@ Ice Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-umbreon-panel-8">
-## Sylveon (#091)
-<details class="pokemon-card-container" open>
-<summary>Sylveon overview</summary>
 Types: Fairy • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -1027,7 +994,6 @@ Shiny Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -1042,3 +1008,4 @@ Shiny Stone
 #pokemon-tabs-umbreon-tab-7:checked ~ .pokemon-tab-panels #pokemon-tabs-umbreon-panel-7 { display: block; }
 #pokemon-tabs-umbreon-tab-8:checked ~ .pokemon-tab-panels #pokemon-tabs-umbreon-panel-8 { display: block; }
 </style>
+</details>

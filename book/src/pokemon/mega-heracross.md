@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Heracross (#126)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-heracross">
 <input type="radio" name="pokemon-tabs-mega-heracross-group" id="pokemon-tabs-mega-heracross-tab-0">
 <label for="pokemon-tabs-mega-heracross-tab-0">Heracross</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mega-heracross-tab-1">Mega Heracross</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-heracross-panel-0">
-## Heracross (#126)
-<details class="pokemon-card-container" open>
-<summary>Heracross overview</summary>
 Types: Bug / Fighting • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -123,12 +122,8 @@ Types: Bug / Fighting • Egg Groups: Bug
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-heracross-panel-1">
-## Mega Heracross (#126)
-<details class="pokemon-card-container" open>
-<summary>Mega Heracross overview</summary>
 Types: Bug / Fighting • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -239,7 +234,6 @@ Heracronite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -247,3 +241,4 @@ Heracronite
 #pokemon-tabs-mega-heracross-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-heracross-panel-0 { display: block; }
 #pokemon-tabs-mega-heracross-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-heracross-panel-1 { display: block; }
 </style>
+</details>

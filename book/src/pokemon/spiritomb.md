@@ -1,6 +1,5 @@
-## Spiritomb (#230)
 <details class="pokemon-card-container" open>
-<summary>Spiritomb overview</summary>
+<summary>Spiritomb (#230)</summary>
 Types: Ghost / Dark • Egg Groups: Amorphous
 
 <div class="pokemon-card">

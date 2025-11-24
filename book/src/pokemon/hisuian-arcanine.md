@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hisuian Arcanine (#377)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-arcanine">
 <input type="radio" name="pokemon-tabs-hisuian-arcanine-group" id="pokemon-tabs-hisuian-arcanine-tab-0">
 <label for="pokemon-tabs-hisuian-arcanine-tab-0">Hisuian Growlithe</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-hisuian-arcanine-tab-1">Hisuian Arcanine</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-arcanine-panel-0">
-## Hisuian Growlithe (#376)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Growlithe overview</summary>
 Types: Fire / Rock • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -99,12 +98,8 @@ Types: Fire / Rock • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hisuian-arcanine-panel-1">
-## Hisuian Arcanine (#377)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Arcanine overview</summary>
 Types: Fire / Rock • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -199,7 +194,6 @@ Fire Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -207,3 +201,4 @@ Fire Stone
 #pokemon-tabs-hisuian-arcanine-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-arcanine-panel-0 { display: block; }
 #pokemon-tabs-hisuian-arcanine-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-hisuian-arcanine-panel-1 { display: block; }
 </style>
+</details>

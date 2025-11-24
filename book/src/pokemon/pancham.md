@@ -1,6 +1,5 @@
-## Pancham (#289)
 <details class="pokemon-card-container" open>
-<summary>Pancham overview</summary>
+<summary>Pancham (#289)</summary>
 Types: Fighting • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">

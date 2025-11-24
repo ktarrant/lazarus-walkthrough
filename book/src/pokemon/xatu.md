@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Xatu (#391)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-xatu">
 <input type="radio" name="pokemon-tabs-xatu-group" id="pokemon-tabs-xatu-tab-0">
 <label for="pokemon-tabs-xatu-tab-0">Natu</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-xatu-tab-1">Xatu</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-xatu-panel-0">
-## Natu (#390)
-<details class="pokemon-card-container" open>
-<summary>Natu overview</summary>
 Types: Psychic / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -129,12 +128,8 @@ Green Shard
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-xatu-panel-1">
-## Xatu (#391)
-<details class="pokemon-card-container" open>
-<summary>Xatu overview</summary>
 Types: Psychic / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -255,7 +250,6 @@ Lv. 25
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -263,3 +257,4 @@ Lv. 25
 #pokemon-tabs-xatu-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-xatu-panel-0 { display: block; }
 #pokemon-tabs-xatu-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-xatu-panel-1 { display: block; }
 </style>
+</details>

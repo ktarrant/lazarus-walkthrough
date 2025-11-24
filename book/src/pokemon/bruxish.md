@@ -1,6 +1,5 @@
-## Bruxish (#354)
 <details class="pokemon-card-container" open>
-<summary>Bruxish overview</summary>
+<summary>Bruxish (#354)</summary>
 Types: Water / Psychic • Egg Groups: Water 2
 
 <div class="pokemon-card">

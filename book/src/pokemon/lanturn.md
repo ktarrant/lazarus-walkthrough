@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Lanturn (#306)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lanturn">
 <input type="radio" name="pokemon-tabs-lanturn-group" id="pokemon-tabs-lanturn-tab-0">
 <label for="pokemon-tabs-lanturn-tab-0">Chinchou</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-lanturn-tab-1">Lanturn</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-lanturn-panel-0">
-## Chinchou (#305)
-<details class="pokemon-card-container" open>
-<summary>Chinchou overview</summary>
 Types: Water / Electric • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Deep Sea Scale
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-lanturn-panel-1">
-## Lanturn (#306)
-<details class="pokemon-card-container" open>
-<summary>Lanturn overview</summary>
 Types: Water / Electric • Egg Groups: Water 2
 
 <div class="pokemon-card">
@@ -242,7 +237,6 @@ Lv. 27
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -250,3 +244,4 @@ Lv. 27
 #pokemon-tabs-lanturn-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-lanturn-panel-0 { display: block; }
 #pokemon-tabs-lanturn-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-lanturn-panel-1 { display: block; }
 </style>
+</details>

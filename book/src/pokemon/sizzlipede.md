@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Sizzlipede (#224)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sizzlipede">
 <input type="radio" name="pokemon-tabs-sizzlipede-group" id="pokemon-tabs-sizzlipede-tab-0" checked>
 <label for="pokemon-tabs-sizzlipede-tab-0">Sizzlipede</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-sizzlipede-tab-2">Mega Centiskorch</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-sizzlipede-panel-0">
-## Sizzlipede (#224)
-<details class="pokemon-card-container" open>
-<summary>Sizzlipede overview</summary>
 Types: Fire / Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -93,12 +92,8 @@ Types: Fire / Bug • Egg Groups: Bug
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-sizzlipede-panel-1">
-## Centiskorch (#225)
-<details class="pokemon-card-container" open>
-<summary>Centiskorch overview</summary>
 Types: Fire / Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -186,12 +181,8 @@ Lv. 28
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-sizzlipede-panel-2">
-## Mega Centiskorch (#225)
-<details class="pokemon-card-container" open>
-<summary>Mega Centiskorch overview</summary>
 Types: Fire / Bug • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -277,7 +268,6 @@ Centiskite
 - Snore
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -286,3 +276,4 @@ Centiskite
 #pokemon-tabs-sizzlipede-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-sizzlipede-panel-1 { display: block; }
 #pokemon-tabs-sizzlipede-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-sizzlipede-panel-2 { display: block; }
 </style>
+</details>

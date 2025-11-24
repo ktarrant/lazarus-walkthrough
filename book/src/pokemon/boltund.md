@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Boltund (#232)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-boltund">
 <input type="radio" name="pokemon-tabs-boltund-group" id="pokemon-tabs-boltund-tab-0">
 <label for="pokemon-tabs-boltund-tab-0">Yamper</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-boltund-tab-1">Boltund</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-boltund-panel-0">
-## Yamper (#231)
-<details class="pokemon-card-container" open>
-<summary>Yamper overview</summary>
 Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -92,12 +91,8 @@ Types: Electric • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-boltund-panel-1">
-## Boltund (#232)
-<details class="pokemon-card-container" open>
-<summary>Boltund overview</summary>
 Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -186,7 +181,6 @@ Lv. 25
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -194,3 +188,4 @@ Lv. 25
 #pokemon-tabs-boltund-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-boltund-panel-0 { display: block; }
 #pokemon-tabs-boltund-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-boltund-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Panpour (#032)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-panpour">
 <input type="radio" name="pokemon-tabs-panpour-group" id="pokemon-tabs-panpour-tab-0" checked>
 <label for="pokemon-tabs-panpour-tab-0">Panpour</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-panpour-tab-1">Simipour</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-panpour-panel-0">
-## Panpour (#032)
-<details class="pokemon-card-container" open>
-<summary>Panpour overview</summary>
 Types: Water / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Types: Water / Normal • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-panpour-panel-1">
-## Simipour (#033)
-<details class="pokemon-card-container" open>
-<summary>Simipour overview</summary>
 Types: Water / Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -224,7 +219,6 @@ Water Stone
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -232,3 +226,4 @@ Water Stone
 #pokemon-tabs-panpour-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-panpour-panel-0 { display: block; }
 #pokemon-tabs-panpour-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-panpour-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Banette (#128)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-banette">
 <input type="radio" name="pokemon-tabs-banette-group" id="pokemon-tabs-banette-tab-0">
 <label for="pokemon-tabs-banette-tab-0">Shuppet</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-banette-tab-2">Mega Banette</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-banette-panel-0">
-## Shuppet (#127)
-<details class="pokemon-card-container" open>
-<summary>Shuppet overview</summary>
 Types: Ghost / Normal • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -128,12 +127,8 @@ Spell Tag
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-banette-panel-1">
-## Banette (#128)
-<details class="pokemon-card-container" open>
-<summary>Banette overview</summary>
 Types: Ghost / Normal • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -257,12 +252,8 @@ Lv. 28
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-banette-panel-2">
-## Mega Banette (#128)
-<details class="pokemon-card-container" open>
-<summary>Mega Banette overview</summary>
 Types: Ghost / Dark • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -379,7 +370,6 @@ Banettite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -388,3 +378,4 @@ Banettite
 #pokemon-tabs-banette-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-banette-panel-1 { display: block; }
 #pokemon-tabs-banette-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-banette-panel-2 { display: block; }
 </style>
+</details>

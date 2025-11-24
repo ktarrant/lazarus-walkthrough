@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Ekans (#285)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ekans">
 <input type="radio" name="pokemon-tabs-ekans-group" id="pokemon-tabs-ekans-tab-0" checked>
 <label for="pokemon-tabs-ekans-tab-0">Ekans</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-ekans-tab-1">Arbok</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ekans-panel-0">
-## Ekans (#285)
-<details class="pokemon-card-container" open>
-<summary>Ekans overview</summary>
 Types: Poison / Dark • Egg Groups: Field / Dragon
 
 <div class="pokemon-card">
@@ -117,12 +116,8 @@ Types: Poison / Dark • Egg Groups: Field / Dragon
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ekans-panel-1">
-## Arbok (#286)
-<details class="pokemon-card-container" open>
-<summary>Arbok overview</summary>
 Types: Poison / Dark • Egg Groups: Field / Dragon
 
 <div class="pokemon-card">
@@ -236,7 +231,6 @@ Lv. 22
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -244,3 +238,4 @@ Lv. 22
 #pokemon-tabs-ekans-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ekans-panel-0 { display: block; }
 #pokemon-tabs-ekans-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ekans-panel-1 { display: block; }
 </style>
+</details>

@@ -12,13 +12,26 @@ pub fn render_deck(
     if chain.is_empty() {
         return String::new();
     }
+    let summary_label = summary_label(
+        chain
+            .iter()
+            .find(|e| e.slug == active_slug)
+            .copied()
+            .unwrap_or(chain[0]),
+    );
+
     if chain.len() == 1 {
         let entry = chain[0];
         let encounters = encounters_map
             .get(&entry.slug)
             .map(|v| v.as_slice())
             .unwrap_or(&[]);
-        return render_single(entry, encounters);
+        let mut output = String::new();
+        output.push_str("<details class=\"pokemon-card-container\" open>\n");
+        writeln!(&mut output, "<summary>{}</summary>", summary_label).unwrap();
+        output.push_str(&render_single(entry, encounters));
+        output.push_str("</details>\n");
+        return output;
     }
 
     let active_index = chain
@@ -28,6 +41,8 @@ pub fn render_deck(
     let group_name = format!("pokemon-tabs-{}", active_slug);
     let radio_name = format!("{}-group", group_name);
     let mut output = String::new();
+    output.push_str("<details class=\"pokemon-card-container\" open>\n");
+    writeln!(&mut output, "<summary>{}</summary>", summary_label).unwrap();
     writeln!(
         &mut output,
         "<div class=\"pokemon-tabs\" id=\"{}\">",
@@ -79,18 +94,12 @@ pub fn render_deck(
         )
         .unwrap();
     }
-    output.push_str("</style>\n");
+    output.push_str("</style>\n</details>\n");
     output
 }
 
 fn render_single(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> String {
     let mut buf = String::new();
-    let dex_label = entry
-        .dex
-        .map_or(String::new(), |dex| format!(" (#{:03})", dex));
-    writeln!(&mut buf, "## {}{}", entry.name, dex_label).unwrap();
-    buf.push_str("<details class=\"pokemon-card-container\" open>\n");
-    writeln!(&mut buf, "<summary>{} overview</summary>", entry.name).unwrap();
 
     let mut overview_parts = Vec::new();
     if !entry.types.is_empty() {
@@ -130,8 +139,14 @@ fn render_single(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> Strin
     buf.push_str(right_column.trim());
     buf.push_str("\n</div>\n</div>\n");
 
-    buf.push_str("</details>\n");
     buf
+}
+
+fn summary_label(entry: &PokemonEntry) -> String {
+    let dex_label = entry
+        .dex
+        .map_or(String::new(), |dex| format!(" (#{:03})", dex));
+    format!("{}{}", entry.name, dex_label)
 }
 
 fn append_abilities(buf: &mut String, abilities: &Abilities) {

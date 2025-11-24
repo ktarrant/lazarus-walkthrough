@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Gengar (#157)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-gengar">
 <input type="radio" name="pokemon-tabs-mega-gengar-group" id="pokemon-tabs-mega-gengar-tab-0">
 <label for="pokemon-tabs-mega-gengar-tab-0">Gastly</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-mega-gengar-tab-3">Mega Gengar</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-gengar-panel-0">
-## Gastly (#155)
-<details class="pokemon-card-container" open>
-<summary>Gastly overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-gengar-panel-1">
-## Haunter (#156)
-<details class="pokemon-card-container" open>
-<summary>Haunter overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -247,12 +242,8 @@ Lv. 25
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-gengar-panel-2">
-## Gengar (#157)
-<details class="pokemon-card-container" open>
-<summary>Gengar overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -380,12 +371,8 @@ Linking Cord
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-gengar-panel-3">
-## Mega Gengar (#157)
-<details class="pokemon-card-container" open>
-<summary>Mega Gengar overview</summary>
 Types: Ghost / Poison • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -513,7 +500,6 @@ Gengarite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -523,3 +509,4 @@ Gengarite
 #pokemon-tabs-mega-gengar-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-gengar-panel-2 { display: block; }
 #pokemon-tabs-mega-gengar-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-gengar-panel-3 { display: block; }
 </style>
+</details>

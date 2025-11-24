@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Rayquaza (#429)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-rayquaza">
 <input type="radio" name="pokemon-tabs-mega-rayquaza-group" id="pokemon-tabs-mega-rayquaza-tab-0">
 <label for="pokemon-tabs-mega-rayquaza-tab-0">Rayquaza</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mega-rayquaza-tab-1">Mega Rayquaza</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-rayquaza-panel-0">
-## Rayquaza (#429)
-<details class="pokemon-card-container" open>
-<summary>Rayquaza overview</summary>
 Types: Dragon / Flying • Egg Groups: -
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Dragon / Flying • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-rayquaza-panel-1">
-## Mega Rayquaza (#429)
-<details class="pokemon-card-container" open>
-<summary>Mega Rayquaza overview</summary>
 Types: Dragon / Flying • Egg Groups: -
 
 <div class="pokemon-card">
@@ -231,7 +226,6 @@ Know Dragon Ascent
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -239,3 +233,4 @@ Know Dragon Ascent
 #pokemon-tabs-mega-rayquaza-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-rayquaza-panel-0 { display: block; }
 #pokemon-tabs-mega-rayquaza-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-rayquaza-panel-1 { display: block; }
 </style>
+</details>

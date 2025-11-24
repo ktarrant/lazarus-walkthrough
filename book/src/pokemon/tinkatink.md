@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Tinkatink (#326)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tinkatink">
 <input type="radio" name="pokemon-tabs-tinkatink-group" id="pokemon-tabs-tinkatink-tab-0" checked>
 <label for="pokemon-tabs-tinkatink-tab-0">Tinkatink</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-tinkatink-tab-3">Mega Tinkaton</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tinkatink-panel-0">
-## Tinkatink (#326)
-<details class="pokemon-card-container" open>
-<summary>Tinkatink overview</summary>
 Types: Fairy / Steel • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -104,12 +103,8 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tinkatink-panel-1">
-## Tinkatuff (#327)
-<details class="pokemon-card-container" open>
-<summary>Tinkatuff overview</summary>
 Types: Fairy / Steel • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -207,12 +202,8 @@ Lv. 22
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tinkatink-panel-2">
-## Tinkaton (#328)
-<details class="pokemon-card-container" open>
-<summary>Tinkaton overview</summary>
 Types: Fairy / Steel • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -307,12 +298,8 @@ Lv. 38
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tinkatink-panel-3">
-## Mega Tinkaton (#328)
-<details class="pokemon-card-container" open>
-<summary>Mega Tinkaton overview</summary>
 Types: Fairy / Steel • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -406,7 +393,6 @@ Tinkatite
 - Thunder Wave
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -416,3 +402,4 @@ Tinkatite
 #pokemon-tabs-tinkatink-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-tinkatink-panel-2 { display: block; }
 #pokemon-tabs-tinkatink-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-tinkatink-panel-3 { display: block; }
 </style>
+</details>

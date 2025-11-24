@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Finizen (#162)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-finizen">
 <input type="radio" name="pokemon-tabs-finizen-group" id="pokemon-tabs-finizen-tab-0" checked>
 <label for="pokemon-tabs-finizen-tab-0">Finizen</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-finizen-tab-1">Palafin</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-finizen-panel-0">
-## Finizen (#162)
-<details class="pokemon-card-container" open>
-<summary>Finizen overview</summary>
 Types: Water • Egg Groups: Field / Water 2
 
 <div class="pokemon-card">
@@ -99,12 +98,8 @@ Types: Water • Egg Groups: Field / Water 2
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-finizen-panel-1">
-## Palafin (#163)
-<details class="pokemon-card-container" open>
-<summary>Palafin overview</summary>
 Types: Water • Egg Groups: Field / Water 2
 
 <div class="pokemon-card">
@@ -200,7 +195,6 @@ Lv. 38
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -208,3 +202,4 @@ Lv. 38
 #pokemon-tabs-finizen-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-finizen-panel-0 { display: block; }
 #pokemon-tabs-finizen-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-finizen-panel-1 { display: block; }
 </style>
+</details>

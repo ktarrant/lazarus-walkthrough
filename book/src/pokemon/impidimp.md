@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Impidimp (#355)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-impidimp">
 <input type="radio" name="pokemon-tabs-impidimp-group" id="pokemon-tabs-impidimp-tab-0" checked>
 <label for="pokemon-tabs-impidimp-tab-0">Impidimp</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-impidimp-tab-3">Mega Grimmsnarl</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-impidimp-panel-0">
-## Impidimp (#355)
-<details class="pokemon-card-container" open>
-<summary>Impidimp overview</summary>
 Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
@@ -95,12 +94,8 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-impidimp-panel-1">
-## Morgrem (#356)
-<details class="pokemon-card-container" open>
-<summary>Morgrem overview</summary>
 Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
@@ -191,12 +186,8 @@ Lv. 24
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-impidimp-panel-2">
-## Grimmsnarl (#357)
-<details class="pokemon-card-container" open>
-<summary>Grimmsnarl overview</summary>
 Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
@@ -295,12 +286,8 @@ Lv. 42
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-impidimp-panel-3">
-## Mega Grimmsnarl (#357)
-<details class="pokemon-card-container" open>
-<summary>Mega Grimmsnarl overview</summary>
 Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 
 <div class="pokemon-card">
@@ -394,7 +381,6 @@ Grimmsnarlite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -404,3 +390,4 @@ Grimmsnarlite
 #pokemon-tabs-impidimp-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-impidimp-panel-2 { display: block; }
 #pokemon-tabs-impidimp-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-impidimp-panel-3 { display: block; }
 </style>
+</details>

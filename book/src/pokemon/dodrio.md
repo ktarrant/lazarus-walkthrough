@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dodrio (#325)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dodrio">
 <input type="radio" name="pokemon-tabs-dodrio-group" id="pokemon-tabs-dodrio-tab-0">
 <label for="pokemon-tabs-dodrio-tab-0">Doduo</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-dodrio-tab-1">Dodrio</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dodrio-panel-0">
-## Doduo (#324)
-<details class="pokemon-card-container" open>
-<summary>Doduo overview</summary>
 Types: Ground / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Sharp Beak
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dodrio-panel-1">
-## Dodrio (#325)
-<details class="pokemon-card-container" open>
-<summary>Dodrio overview</summary>
 Types: Ground / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -229,7 +224,6 @@ Lv. 31
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -237,3 +231,4 @@ Lv. 31
 #pokemon-tabs-dodrio-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-dodrio-panel-0 { display: block; }
 #pokemon-tabs-dodrio-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-dodrio-panel-1 { display: block; }
 </style>
+</details>

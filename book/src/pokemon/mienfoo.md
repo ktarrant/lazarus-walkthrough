@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mienfoo (#143)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mienfoo">
 <input type="radio" name="pokemon-tabs-mienfoo-group" id="pokemon-tabs-mienfoo-tab-0" checked>
 <label for="pokemon-tabs-mienfoo-tab-0">Mienfoo</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-mienfoo-tab-1">Mienshao</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mienfoo-panel-0">
-## Mienfoo (#143)
-<details class="pokemon-card-container" open>
-<summary>Mienfoo overview</summary>
 Types: Fighting • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mienfoo-panel-1">
-## Mienshao (#144)
-<details class="pokemon-card-container" open>
-<summary>Mienshao overview</summary>
 Types: Fighting • Egg Groups: Human-Like / Field
 
 <div class="pokemon-card">
@@ -223,7 +218,6 @@ Lv. 40
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -231,3 +225,4 @@ Lv. 40
 #pokemon-tabs-mienfoo-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-mienfoo-panel-0 { display: block; }
 #pokemon-tabs-mienfoo-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mienfoo-panel-1 { display: block; }
 </style>
+</details>

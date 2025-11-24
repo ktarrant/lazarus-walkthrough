@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mamoswine (#399)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mamoswine">
 <input type="radio" name="pokemon-tabs-mamoswine-group" id="pokemon-tabs-mamoswine-tab-0">
 <label for="pokemon-tabs-mamoswine-tab-0">Swinub</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mamoswine-tab-2">Mamoswine</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mamoswine-panel-0">
-## Swinub (#397)
-<details class="pokemon-card-container" open>
-<summary>Swinub overview</summary>
 Types: Ice / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -116,12 +115,8 @@ Types: Ice / Ground • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mamoswine-panel-1">
-## Piloswine (#398)
-<details class="pokemon-card-container" open>
-<summary>Piloswine overview</summary>
 Types: Ice / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -231,12 +226,8 @@ Lv. 28
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mamoswine-panel-2">
-## Mamoswine (#399)
-<details class="pokemon-card-container" open>
-<summary>Mamoswine overview</summary>
 Types: Ice / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -347,7 +338,6 @@ Lv. knows Ancient Power
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -356,3 +346,4 @@ Lv. knows Ancient Power
 #pokemon-tabs-mamoswine-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mamoswine-panel-1 { display: block; }
 #pokemon-tabs-mamoswine-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mamoswine-panel-2 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Crocalor (#023)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crocalor">
 <input type="radio" name="pokemon-tabs-crocalor-group" id="pokemon-tabs-crocalor-tab-0">
 <label for="pokemon-tabs-crocalor-tab-0">Fuecoco</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-crocalor-tab-2">Skeledirge</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-crocalor-panel-0">
-## Fuecoco (#022)
-<details class="pokemon-card-container" open>
-<summary>Fuecoco overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -88,12 +87,8 @@ Types: Fire • Egg Groups: Field
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-crocalor-panel-1">
-## Crocalor (#023)
-<details class="pokemon-card-container" open>
-<summary>Crocalor overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -174,12 +169,8 @@ Lv. 16
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-crocalor-panel-2">
-## Skeledirge (#024)
-<details class="pokemon-card-container" open>
-<summary>Skeledirge overview</summary>
 Types: Fire / Ghost • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -275,7 +266,6 @@ Lv. 36
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -284,3 +274,4 @@ Lv. 36
 #pokemon-tabs-crocalor-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-crocalor-panel-1 { display: block; }
 #pokemon-tabs-crocalor-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-crocalor-panel-2 { display: block; }
 </style>
+</details>

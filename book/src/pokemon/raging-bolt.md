@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Raging Bolt (#422)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-raging-bolt">
 <input type="radio" name="pokemon-tabs-raging-bolt-group" id="pokemon-tabs-raging-bolt-tab-0">
 <label for="pokemon-tabs-raging-bolt-tab-0">Raikou</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-raging-bolt-tab-1">Raging Bolt</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-raging-bolt-panel-0">
-## Raikou (#421)
-<details class="pokemon-card-container" open>
-<summary>Raikou overview</summary>
 Types: Electric • Egg Groups: -
 
 <div class="pokemon-card">
@@ -99,12 +98,8 @@ Types: Electric • Egg Groups: -
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-raging-bolt-panel-1">
-## Raging Bolt (#422)
-<details class="pokemon-card-container" open>
-<summary>Raging Bolt overview</summary>
 Types: Electric / Dragon • Egg Groups: -
 
 <div class="pokemon-card">
@@ -194,7 +189,6 @@ Lv. after using Dragon Energy 20x
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -202,3 +196,4 @@ Lv. after using Dragon Energy 20x
 #pokemon-tabs-raging-bolt-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-raging-bolt-panel-0 { display: block; }
 #pokemon-tabs-raging-bolt-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-raging-bolt-panel-1 { display: block; }
 </style>
+</details>

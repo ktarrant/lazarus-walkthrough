@@ -1,6 +1,5 @@
-## Own Tempo Rockruff (#105)
 <details class="pokemon-card-container" open>
-<summary>Own Tempo Rockruff overview</summary>
+<summary>Own Tempo Rockruff (#105)</summary>
 Types: Rock • Egg Groups: Field
 
 <div class="pokemon-card">

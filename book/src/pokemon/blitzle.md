@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Blitzle (#139)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-blitzle">
 <input type="radio" name="pokemon-tabs-blitzle-group" id="pokemon-tabs-blitzle-tab-0" checked>
 <label for="pokemon-tabs-blitzle-tab-0">Blitzle</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-blitzle-tab-1">Zebstrika</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-blitzle-panel-0">
-## Blitzle (#139)
-<details class="pokemon-card-container" open>
-<summary>Blitzle overview</summary>
 Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -102,12 +101,8 @@ Types: Electric • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-blitzle-panel-1">
-## Zebstrika (#140)
-<details class="pokemon-card-container" open>
-<summary>Zebstrika overview</summary>
 Types: Electric • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -205,7 +200,6 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -213,3 +207,4 @@ Lv. 27
 #pokemon-tabs-blitzle-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-blitzle-panel-0 { display: block; }
 #pokemon-tabs-blitzle-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-blitzle-panel-1 { display: block; }
 </style>
+</details>

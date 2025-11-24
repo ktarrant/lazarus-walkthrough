@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Greninja (#018)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-greninja">
 <input type="radio" name="pokemon-tabs-greninja-group" id="pokemon-tabs-greninja-tab-0">
 <label for="pokemon-tabs-greninja-tab-0">Froakie</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-greninja-tab-3">Mega Greninja</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-greninja-panel-0">
-## Froakie (#016)
-<details class="pokemon-card-container" open>
-<summary>Froakie overview</summary>
 Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Types: Water • Egg Groups: Water 1
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-greninja-panel-1">
-## Frogadier (#017)
-<details class="pokemon-card-container" open>
-<summary>Frogadier overview</summary>
 Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -224,12 +219,8 @@ Lv. 16
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-greninja-panel-2">
-## Greninja (#018)
-<details class="pokemon-card-container" open>
-<summary>Greninja overview</summary>
 Types: Water / Dark • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -351,12 +342,8 @@ Lv. 36
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-greninja-panel-3">
-## Mega Greninja (#018)
-<details class="pokemon-card-container" open>
-<summary>Mega Greninja overview</summary>
 Types: Water / Dark • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -476,7 +463,6 @@ Greninjite
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -486,3 +472,4 @@ Greninjite
 #pokemon-tabs-greninja-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-greninja-panel-2 { display: block; }
 #pokemon-tabs-greninja-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-greninja-panel-3 { display: block; }
 </style>
+</details>

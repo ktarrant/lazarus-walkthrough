@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Wooper (#134)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wooper">
 <input type="radio" name="pokemon-tabs-wooper-group" id="pokemon-tabs-wooper-tab-0" checked>
 <label for="pokemon-tabs-wooper-tab-0">Wooper</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-wooper-tab-1">Quagsire</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wooper-panel-0">
-## Wooper (#134)
-<details class="pokemon-card-container" open>
-<summary>Wooper overview</summary>
 Types: Water / Ground • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -129,12 +128,8 @@ Types: Water / Ground • Egg Groups: Water 1 / Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wooper-panel-1">
-## Quagsire (#135)
-<details class="pokemon-card-container" open>
-<summary>Quagsire overview</summary>
 Types: Water / Ground • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -265,7 +260,6 @@ Lv. 20
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -273,3 +267,4 @@ Lv. 20
 #pokemon-tabs-wooper-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-panel-0 { display: block; }
 #pokemon-tabs-wooper-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wooper-panel-1 { display: block; }
 </style>
+</details>

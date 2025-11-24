@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Tyrantrum (#204)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tyrantrum">
 <input type="radio" name="pokemon-tabs-tyrantrum-group" id="pokemon-tabs-tyrantrum-tab-0">
 <label for="pokemon-tabs-tyrantrum-tab-0">Tyrunt</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-tyrantrum-tab-1">Tyrantrum</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-tyrantrum-panel-0">
-## Tyrunt (#203)
-<details class="pokemon-card-container" open>
-<summary>Tyrunt overview</summary>
 Types: Rock / Dragon • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
@@ -108,12 +107,8 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-tyrantrum-panel-1">
-## Tyrantrum (#204)
-<details class="pokemon-card-container" open>
-<summary>Tyrantrum overview</summary>
 Types: Rock / Dragon • Egg Groups: Dragon / Monster
 
 <div class="pokemon-card">
@@ -217,7 +212,6 @@ Lv. 34, Day
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -225,3 +219,4 @@ Lv. 34, Day
 #pokemon-tabs-tyrantrum-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-tyrantrum-panel-0 { display: block; }
 #pokemon-tabs-tyrantrum-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-tyrantrum-panel-1 { display: block; }
 </style>
+</details>

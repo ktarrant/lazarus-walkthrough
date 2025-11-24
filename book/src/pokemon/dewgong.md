@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dewgong (#193)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dewgong">
 <input type="radio" name="pokemon-tabs-dewgong-group" id="pokemon-tabs-dewgong-tab-0">
 <label for="pokemon-tabs-dewgong-tab-0">Seel</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-dewgong-tab-1">Dewgong</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dewgong-panel-0">
-## Seel (#192)
-<details class="pokemon-card-container" open>
-<summary>Seel overview</summary>
 Types: Water / Ice • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dewgong-panel-1">
-## Dewgong (#193)
-<details class="pokemon-card-container" open>
-<summary>Dewgong overview</summary>
 Types: Water / Ice • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -232,7 +227,6 @@ Lv. 34
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -240,3 +234,4 @@ Lv. 34
 #pokemon-tabs-dewgong-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-dewgong-panel-0 { display: block; }
 #pokemon-tabs-dewgong-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-dewgong-panel-1 { display: block; }
 </style>
+</details>

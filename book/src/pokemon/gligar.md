@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gligar (#331)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gligar">
 <input type="radio" name="pokemon-tabs-gligar-group" id="pokemon-tabs-gligar-tab-0" checked>
 <label for="pokemon-tabs-gligar-tab-0">Gligar</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-gligar-tab-1">Gliscor</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gligar-panel-0">
-## Gligar (#331)
-<details class="pokemon-card-container" open>
-<summary>Gligar overview</summary>
 Types: Ground / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -129,12 +128,8 @@ Types: Ground / Flying • Egg Groups: Bug
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gligar-panel-1">
-## Gliscor (#332)
-<details class="pokemon-card-container" open>
-<summary>Gliscor overview</summary>
 Types: Ground / Flying • Egg Groups: Bug
 
 <div class="pokemon-card">
@@ -257,7 +252,6 @@ Razor Fang
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -265,3 +259,4 @@ Razor Fang
 #pokemon-tabs-gligar-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-gligar-panel-0 { display: block; }
 #pokemon-tabs-gligar-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gligar-panel-1 { display: block; }
 </style>
+</details>

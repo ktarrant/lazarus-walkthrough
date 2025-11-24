@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gorebyss (#311)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gorebyss">
 <input type="radio" name="pokemon-tabs-gorebyss-group" id="pokemon-tabs-gorebyss-tab-0">
 <label for="pokemon-tabs-gorebyss-tab-0">Clamperl</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-gorebyss-tab-2">Gorebyss</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gorebyss-panel-0">
-## Clamperl (#309)
-<details class="pokemon-card-container" open>
-<summary>Clamperl overview</summary>
 Types: Water • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -113,12 +112,8 @@ Pearl
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gorebyss-panel-1">
-## Huntail (#310)
-<details class="pokemon-card-container" open>
-<summary>Huntail overview</summary>
 Types: Water / Dragon • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -224,12 +219,8 @@ Deep Sea Tooth
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gorebyss-panel-2">
-## Gorebyss (#311)
-<details class="pokemon-card-container" open>
-<summary>Gorebyss overview</summary>
 Types: Water / Fairy • Egg Groups: Water 1
 
 <div class="pokemon-card">
@@ -343,7 +334,6 @@ Deep Sea Scale
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -352,3 +342,4 @@ Deep Sea Scale
 #pokemon-tabs-gorebyss-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gorebyss-panel-1 { display: block; }
 #pokemon-tabs-gorebyss-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-gorebyss-panel-2 { display: block; }
 </style>
+</details>

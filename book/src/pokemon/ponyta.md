@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Ponyta (#252)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ponyta">
 <input type="radio" name="pokemon-tabs-ponyta-group" id="pokemon-tabs-ponyta-tab-0" checked>
 <label for="pokemon-tabs-ponyta-tab-0">Ponyta</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-ponyta-tab-1">Rapidash</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-panel-0">
-## Ponyta (#252)
-<details class="pokemon-card-container" open>
-<summary>Ponyta overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -105,12 +104,8 @@ Types: Fire • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ponyta-panel-1">
-## Rapidash (#253)
-<details class="pokemon-card-container" open>
-<summary>Rapidash overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -214,7 +209,6 @@ Lv. 30
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -222,3 +216,4 @@ Lv. 30
 #pokemon-tabs-ponyta-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-ponyta-panel-0 { display: block; }
 #pokemon-tabs-ponyta-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-ponyta-panel-1 { display: block; }
 </style>
+</details>

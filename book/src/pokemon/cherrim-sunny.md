@@ -1,6 +1,5 @@
-## Cherrim Sunny (#168)
 <details class="pokemon-card-container" open>
-<summary>Cherrim Sunny overview</summary>
+<summary>Cherrim Sunny (#168)</summary>
 Types: Grass / Fire • Egg Groups: Grass / Fairy
 
 <div class="pokemon-card">

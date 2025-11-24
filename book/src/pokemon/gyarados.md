@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gyarados (#343)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gyarados">
 <input type="radio" name="pokemon-tabs-gyarados-group" id="pokemon-tabs-gyarados-tab-0">
 <label for="pokemon-tabs-gyarados-tab-0">Magikarp</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-gyarados-tab-2">Mega Gyarados</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gyarados-panel-0">
-## Magikarp (#342)
-<details class="pokemon-card-container" open>
-<summary>Magikarp overview</summary>
 Types: Water • Egg Groups: Water 2 / Dragon
 
 <div class="pokemon-card">
@@ -85,12 +84,8 @@ Types: Water • Egg Groups: Water 2 / Dragon
 - Incompatible
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gyarados-panel-1">
-## Gyarados (#343)
-<details class="pokemon-card-container" open>
-<summary>Gyarados overview</summary>
 Types: Water / Flying • Egg Groups: Water 2 / Dragon
 
 <div class="pokemon-card">
@@ -194,12 +189,8 @@ Lv. 20
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gyarados-panel-2">
-## Mega Gyarados (#343)
-<details class="pokemon-card-container" open>
-<summary>Mega Gyarados overview</summary>
 Types: Water / Dark • Egg Groups: Water 2 / Dragon
 
 <div class="pokemon-card">
@@ -306,7 +297,6 @@ Gyaradosite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -315,3 +305,4 @@ Gyaradosite
 #pokemon-tabs-gyarados-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gyarados-panel-1 { display: block; }
 #pokemon-tabs-gyarados-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-gyarados-panel-2 { display: block; }
 </style>
+</details>

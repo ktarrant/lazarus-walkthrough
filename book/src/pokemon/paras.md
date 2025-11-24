@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Paras (#051)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-paras">
 <input type="radio" name="pokemon-tabs-paras-group" id="pokemon-tabs-paras-tab-0" checked>
 <label for="pokemon-tabs-paras-tab-0">Paras</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-paras-tab-1">Parasect</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-paras-panel-0">
-## Paras (#051)
-<details class="pokemon-card-container" open>
-<summary>Paras overview</summary>
 Types: Bug / Grass • Egg Groups: Bug / Grass
 
 <div class="pokemon-card">
@@ -126,12 +125,8 @@ Tiny Mushroom
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-paras-panel-1">
-## Parasect (#052)
-<details class="pokemon-card-container" open>
-<summary>Parasect overview</summary>
 Types: Bug / Ghost • Egg Groups: Bug / Grass
 
 <div class="pokemon-card">
@@ -250,7 +245,6 @@ Lv. 24
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -258,3 +252,4 @@ Lv. 24
 #pokemon-tabs-paras-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-paras-panel-0 { display: block; }
 #pokemon-tabs-paras-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-paras-panel-1 { display: block; }
 </style>
+</details>

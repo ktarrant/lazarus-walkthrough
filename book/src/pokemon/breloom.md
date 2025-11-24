@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Breloom (#125)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-breloom">
 <input type="radio" name="pokemon-tabs-breloom-group" id="pokemon-tabs-breloom-tab-0">
 <label for="pokemon-tabs-breloom-tab-0">Shroomish</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-breloom-tab-1">Breloom</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-breloom-panel-0">
-## Shroomish (#124)
-<details class="pokemon-card-container" open>
-<summary>Shroomish overview</summary>
 Types: Grass • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
@@ -107,12 +106,8 @@ Tiny Mushroom
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-breloom-panel-1">
-## Breloom (#125)
-<details class="pokemon-card-container" open>
-<summary>Breloom overview</summary>
 Types: Grass / Fighting • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
@@ -243,7 +238,6 @@ Lv. 23
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -251,3 +245,4 @@ Lv. 23
 #pokemon-tabs-breloom-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-breloom-panel-0 { display: block; }
 #pokemon-tabs-breloom-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-breloom-panel-1 { display: block; }
 </style>
+</details>

@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Suicune (#425)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-suicune">
 <input type="radio" name="pokemon-tabs-suicune-group" id="pokemon-tabs-suicune-tab-0" checked>
 <label for="pokemon-tabs-suicune-tab-0">Suicune</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-suicune-tab-1">Walking Wake</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-suicune-panel-0">
-## Suicune (#425)
-<details class="pokemon-card-container" open>
-<summary>Suicune overview</summary>
 Types: Water • Egg Groups: -
 
 <div class="pokemon-card">
@@ -102,12 +101,8 @@ Types: Water • Egg Groups: -
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-suicune-panel-1">
-## Walking Wake (#426)
-<details class="pokemon-card-container" open>
-<summary>Walking Wake overview</summary>
 Types: Water / Dragon • Egg Groups: -
 
 <div class="pokemon-card">
@@ -193,7 +188,6 @@ Lv. after using Dragon Energy 20x
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -201,3 +195,4 @@ Lv. after using Dragon Energy 20x
 #pokemon-tabs-suicune-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-suicune-panel-0 { display: block; }
 #pokemon-tabs-suicune-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-suicune-panel-1 { display: block; }
 </style>
+</details>

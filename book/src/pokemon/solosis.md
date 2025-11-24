@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Solosis (#296)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-solosis">
 <input type="radio" name="pokemon-tabs-solosis-group" id="pokemon-tabs-solosis-tab-0" checked>
 <label for="pokemon-tabs-solosis-tab-0">Solosis</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-solosis-tab-2">Reuniclus</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-solosis-panel-0">
-## Solosis (#296)
-<details class="pokemon-card-container" open>
-<summary>Solosis overview</summary>
 Types: Psychic • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Types: Psychic • Egg Groups: Amorphous
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-solosis-panel-1">
-## Duosion (#297)
-<details class="pokemon-card-container" open>
-<summary>Duosion overview</summary>
 Types: Psychic • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -223,12 +218,8 @@ Lv. 27
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-solosis-panel-2">
-## Reuniclus (#298)
-<details class="pokemon-card-container" open>
-<summary>Reuniclus overview</summary>
 Types: Psychic • Egg Groups: Amorphous
 
 <div class="pokemon-card">
@@ -343,7 +334,6 @@ Lv. 41
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -352,3 +342,4 @@ Lv. 41
 #pokemon-tabs-solosis-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-solosis-panel-1 { display: block; }
 #pokemon-tabs-solosis-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-solosis-panel-2 { display: block; }
 </style>
+</details>

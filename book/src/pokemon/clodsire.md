@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Clodsire (#136)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-clodsire">
 <input type="radio" name="pokemon-tabs-clodsire-group" id="pokemon-tabs-clodsire-tab-0">
 <label for="pokemon-tabs-clodsire-tab-0">Paldean Wooper</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-clodsire-tab-1">Clodsire</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-clodsire-panel-0">
-## Paldean Wooper (#134)
-<details class="pokemon-card-container" open>
-<summary>Paldean Wooper overview</summary>
 Types: Poison / Ground • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -109,12 +108,8 @@ Types: Poison / Ground • Egg Groups: Water 1 / Field
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-clodsire-panel-1">
-## Clodsire (#136)
-<details class="pokemon-card-container" open>
-<summary>Clodsire overview</summary>
 Types: Poison / Ground • Egg Groups: Water 1 / Field
 
 <div class="pokemon-card">
@@ -217,7 +212,6 @@ Lv. 20
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -225,3 +219,4 @@ Lv. 20
 #pokemon-tabs-clodsire-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-clodsire-panel-0 { display: block; }
 #pokemon-tabs-clodsire-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-clodsire-panel-1 { display: block; }
 </style>
+</details>

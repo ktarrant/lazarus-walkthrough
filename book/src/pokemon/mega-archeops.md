@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mega Archeops (#407)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-archeops">
 <input type="radio" name="pokemon-tabs-mega-archeops-group" id="pokemon-tabs-mega-archeops-tab-0">
 <label for="pokemon-tabs-mega-archeops-tab-0">Archen</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mega-archeops-tab-2">Mega Archeops</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-archeops-panel-0">
-## Archen (#406)
-<details class="pokemon-card-container" open>
-<summary>Archen overview</summary>
 Types: Rock / Flying • Egg Groups: Water 3 / Flying
 
 <div class="pokemon-card">
@@ -114,12 +113,8 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-archeops-panel-1">
-## Archeops (#407)
-<details class="pokemon-card-container" open>
-<summary>Archeops overview</summary>
 Types: Rock / Flying • Egg Groups: Water 3 / Flying
 
 <div class="pokemon-card">
@@ -227,12 +222,8 @@ Lv. 33
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mega-archeops-panel-2">
-## Mega Archeops (#407)
-<details class="pokemon-card-container" open>
-<summary>Mega Archeops overview</summary>
 Types: Rock / Flying • Egg Groups: Water 3 / Flying
 
 <div class="pokemon-card">
@@ -339,7 +330,6 @@ Archeopsite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -348,3 +338,4 @@ Archeopsite
 #pokemon-tabs-mega-archeops-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-archeops-panel-1 { display: block; }
 #pokemon-tabs-mega-archeops-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mega-archeops-panel-2 { display: block; }
 </style>
+</details>

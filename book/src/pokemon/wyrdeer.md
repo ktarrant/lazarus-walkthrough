@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Wyrdeer (#185)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wyrdeer">
 <input type="radio" name="pokemon-tabs-wyrdeer-group" id="pokemon-tabs-wyrdeer-tab-0">
 <label for="pokemon-tabs-wyrdeer-tab-0">Stantler</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-wyrdeer-tab-2">Mega Wyrdeer</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wyrdeer-panel-0">
-## Stantler (#184)
-<details class="pokemon-card-container" open>
-<summary>Stantler overview</summary>
 Types: Normal • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Types: Normal • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wyrdeer-panel-1">
-## Wyrdeer (#185)
-<details class="pokemon-card-container" open>
-<summary>Wyrdeer overview</summary>
 Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -223,12 +218,8 @@ Lv. after using Psyshield Bash 20x
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wyrdeer-panel-2">
-## Mega Wyrdeer (#185)
-<details class="pokemon-card-container" open>
-<summary>Mega Wyrdeer overview</summary>
 Types: Normal / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -326,7 +317,6 @@ Wyrdeerite
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -335,3 +325,4 @@ Wyrdeerite
 #pokemon-tabs-wyrdeer-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wyrdeer-panel-1 { display: block; }
 #pokemon-tabs-wyrdeer-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-wyrdeer-panel-2 { display: block; }
 </style>
+</details>

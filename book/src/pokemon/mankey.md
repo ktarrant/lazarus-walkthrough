@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Mankey (#360)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mankey">
 <input type="radio" name="pokemon-tabs-mankey-group" id="pokemon-tabs-mankey-tab-0" checked>
 <label for="pokemon-tabs-mankey-tab-0">Mankey</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-mankey-tab-2">Annihilape</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-mankey-panel-0">
-## Mankey (#360)
-<details class="pokemon-card-container" open>
-<summary>Mankey overview</summary>
 Types: Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -132,12 +131,8 @@ Types: Fighting • Egg Groups: Field
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mankey-panel-1">
-## Primeape (#361)
-<details class="pokemon-card-container" open>
-<summary>Primeape overview</summary>
 Types: Fighting • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -267,12 +262,8 @@ Lv. 28
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-mankey-panel-2">
-## Annihilape (#362)
-<details class="pokemon-card-container" open>
-<summary>Annihilape overview</summary>
 Types: Fighting / Ghost • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -388,7 +379,6 @@ Lv. after using Rage Fist 20x
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -397,3 +387,4 @@ Lv. after using Rage Fist 20x
 #pokemon-tabs-mankey-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-mankey-panel-1 { display: block; }
 #pokemon-tabs-mankey-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-mankey-panel-2 { display: block; }
 </style>
+</details>

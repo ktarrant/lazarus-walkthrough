@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Jumpluff (#044)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-jumpluff">
 <input type="radio" name="pokemon-tabs-jumpluff-group" id="pokemon-tabs-jumpluff-tab-0">
 <label for="pokemon-tabs-jumpluff-tab-0">Hoppip</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-jumpluff-tab-2">Jumpluff</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-jumpluff-panel-0">
-## Hoppip (#042)
-<details class="pokemon-card-container" open>
-<summary>Hoppip overview</summary>
 Types: Grass / Flying • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
@@ -118,12 +117,8 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-jumpluff-panel-1">
-## Skiploom (#043)
-<details class="pokemon-card-container" open>
-<summary>Skiploom overview</summary>
 Types: Grass / Flying • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
@@ -237,12 +232,8 @@ Lv. 18
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-jumpluff-panel-2">
-## Jumpluff (#044)
-<details class="pokemon-card-container" open>
-<summary>Jumpluff overview</summary>
 Types: Grass / Flying • Egg Groups: Fairy / Grass
 
 <div class="pokemon-card">
@@ -351,7 +342,6 @@ Lv. 27
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -360,3 +350,4 @@ Lv. 27
 #pokemon-tabs-jumpluff-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-jumpluff-panel-1 { display: block; }
 #pokemon-tabs-jumpluff-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-jumpluff-panel-2 { display: block; }
 </style>
+</details>

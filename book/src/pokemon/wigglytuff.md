@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Wigglytuff (#317)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wigglytuff">
 <input type="radio" name="pokemon-tabs-wigglytuff-group" id="pokemon-tabs-wigglytuff-tab-0">
 <label for="pokemon-tabs-wigglytuff-tab-0">Igglybuff</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-wigglytuff-tab-2">Wigglytuff</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-wigglytuff-panel-0">
-## Igglybuff (#315)
-<details class="pokemon-card-container" open>
-<summary>Igglybuff overview</summary>
 Types: Normal / Fairy • Egg Groups: -
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Normal / Fairy • Egg Groups: -
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wigglytuff-panel-1">
-## Jigglypuff (#316)
-<details class="pokemon-card-container" open>
-<summary>Jigglypuff overview</summary>
 Types: Normal / Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -265,12 +260,8 @@ Lv. 12
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-wigglytuff-panel-2">
-## Wigglytuff (#317)
-<details class="pokemon-card-container" open>
-<summary>Wigglytuff overview</summary>
 Types: Normal / Fairy • Egg Groups: Fairy
 
 <div class="pokemon-card">
@@ -415,7 +406,6 @@ Moon Stone
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -424,3 +414,4 @@ Moon Stone
 #pokemon-tabs-wigglytuff-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-wigglytuff-panel-1 { display: block; }
 #pokemon-tabs-wigglytuff-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-wigglytuff-panel-2 { display: block; }
 </style>
+</details>

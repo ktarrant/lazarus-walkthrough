@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dreepy (#269)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dreepy">
 <input type="radio" name="pokemon-tabs-dreepy-group" id="pokemon-tabs-dreepy-tab-0" checked>
 <label for="pokemon-tabs-dreepy-tab-0">Dreepy</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-dreepy-tab-2">Dragapult</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dreepy-panel-0">
-## Dreepy (#269)
-<details class="pokemon-card-container" open>
-<summary>Dreepy overview</summary>
 Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 
 <div class="pokemon-card">
@@ -91,12 +90,8 @@ Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dreepy-panel-1">
-## Drakloak (#270)
-<details class="pokemon-card-container" open>
-<summary>Drakloak overview</summary>
 Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 
 <div class="pokemon-card">
@@ -206,12 +201,8 @@ Lv. 28
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dreepy-panel-2">
-## Dragapult (#271)
-<details class="pokemon-card-container" open>
-<summary>Dragapult overview</summary>
 Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 
 <div class="pokemon-card">
@@ -324,7 +315,6 @@ Lv. 60
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -333,3 +323,4 @@ Lv. 60
 #pokemon-tabs-dreepy-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-dreepy-panel-1 { display: block; }
 #pokemon-tabs-dreepy-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-dreepy-panel-2 { display: block; }
 </style>
+</details>

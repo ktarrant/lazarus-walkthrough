@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Bronzong (#195)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bronzong">
 <input type="radio" name="pokemon-tabs-bronzong-group" id="pokemon-tabs-bronzong-tab-0">
 <label for="pokemon-tabs-bronzong-tab-0">Bronzor</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-bronzong-tab-1">Bronzong</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-bronzong-panel-0">
-## Bronzor (#194)
-<details class="pokemon-card-container" open>
-<summary>Bronzor overview</summary>
 Types: Steel / Psychic • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -117,12 +116,8 @@ Metal Coat
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-bronzong-panel-1">
-## Bronzong (#195)
-<details class="pokemon-card-container" open>
-<summary>Bronzong overview</summary>
 Types: Steel / Psychic • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -236,7 +231,6 @@ Lv. 33
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -244,3 +238,4 @@ Lv. 33
 #pokemon-tabs-bronzong-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-bronzong-panel-0 { display: block; }
 #pokemon-tabs-bronzong-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-bronzong-panel-1 { display: block; }
 </style>
+</details>

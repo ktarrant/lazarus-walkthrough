@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Silvally (#413)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-silvally">
 <input type="radio" name="pokemon-tabs-silvally-group" id="pokemon-tabs-silvally-tab-0">
 <label for="pokemon-tabs-silvally-tab-0">Type: Null</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-silvally-tab-1">Silvally</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-silvally-panel-0">
-## Type: Null (#412)
-<details class="pokemon-card-container" open>
-<summary>Type: Null overview</summary>
 Types: Normal • Egg Groups: -
 
 <div class="pokemon-card">
@@ -86,12 +85,8 @@ Types: Normal • Egg Groups: -
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-silvally-panel-1">
-## Silvally (#413)
-<details class="pokemon-card-container" open>
-<summary>Silvally overview</summary>
 Types: Normal • Egg Groups: -
 
 <div class="pokemon-card">
@@ -189,7 +184,6 @@ Lv. w/ High Friendship?
 - Swords Dance
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -197,3 +191,4 @@ Lv. w/ High Friendship?
 #pokemon-tabs-silvally-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-silvally-panel-0 { display: block; }
 #pokemon-tabs-silvally-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-silvally-panel-1 { display: block; }
 </style>
+</details>

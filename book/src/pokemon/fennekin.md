@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Fennekin (#013)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-fennekin">
 <input type="radio" name="pokemon-tabs-fennekin-group" id="pokemon-tabs-fennekin-tab-0" checked>
 <label for="pokemon-tabs-fennekin-tab-0">Fennekin</label>
@@ -9,9 +11,6 @@
 <label for="pokemon-tabs-fennekin-tab-3">Mega Delphox</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-fennekin-panel-0">
-## Fennekin (#013)
-<details class="pokemon-card-container" open>
-<summary>Fennekin overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -112,12 +111,8 @@ Types: Fire • Egg Groups: Field
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-fennekin-panel-1">
-## Braixen (#014)
-<details class="pokemon-card-container" open>
-<summary>Braixen overview</summary>
 Types: Fire • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -222,12 +217,8 @@ Lv. 16
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-fennekin-panel-2">
-## Delphox (#015)
-<details class="pokemon-card-container" open>
-<summary>Delphox overview</summary>
 Types: Fire / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -345,12 +336,8 @@ Lv. 36
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-fennekin-panel-3">
-## Mega Delphox (#015)
-<details class="pokemon-card-container" open>
-<summary>Mega Delphox overview</summary>
 Types: Fire / Psychic • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -466,7 +453,6 @@ Delphoxite
 - Thunder Punch
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -476,3 +462,4 @@ Delphoxite
 #pokemon-tabs-fennekin-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-fennekin-panel-2 { display: block; }
 #pokemon-tabs-fennekin-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-fennekin-panel-3 { display: block; }
 </style>
+</details>

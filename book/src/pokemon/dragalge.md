@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Dragalge (#292)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dragalge">
 <input type="radio" name="pokemon-tabs-dragalge-group" id="pokemon-tabs-dragalge-tab-0">
 <label for="pokemon-tabs-dragalge-tab-0">Skrelp</label>
@@ -5,9 +7,6 @@
 <label for="pokemon-tabs-dragalge-tab-1">Dragalge</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-dragalge-panel-0">
-## Skrelp (#291)
-<details class="pokemon-card-container" open>
-<summary>Skrelp overview</summary>
 Types: Poison / Water • Egg Groups: Dragon / Water 1
 
 <div class="pokemon-card">
@@ -115,12 +114,8 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-dragalge-panel-1">
-## Dragalge (#292)
-<details class="pokemon-card-container" open>
-<summary>Dragalge overview</summary>
 Types: Poison / Dragon • Egg Groups: Dragon / Water 1
 
 <div class="pokemon-card">
@@ -224,7 +219,6 @@ Lv. 37
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -232,3 +226,4 @@ Lv. 37
 #pokemon-tabs-dragalge-tab-0:checked ~ .pokemon-tab-panels #pokemon-tabs-dragalge-panel-0 { display: block; }
 #pokemon-tabs-dragalge-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-dragalge-panel-1 { display: block; }
 </style>
+</details>

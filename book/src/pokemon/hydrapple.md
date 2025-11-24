@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Hydrapple (#068)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hydrapple">
 <input type="radio" name="pokemon-tabs-hydrapple-group" id="pokemon-tabs-hydrapple-tab-0">
 <label for="pokemon-tabs-hydrapple-tab-0">Applin</label>
@@ -11,9 +13,6 @@
 <label for="pokemon-tabs-hydrapple-tab-4">Hydrapple</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-0">
-## Applin (#064)
-<details class="pokemon-card-container" open>
-<summary>Applin overview</summary>
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
@@ -81,12 +80,8 @@ Leftovers
 - Rollout
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-1">
-## Flapple (#065)
-<details class="pokemon-card-container" open>
-<summary>Flapple overview</summary>
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
@@ -182,12 +177,8 @@ Tart Apple
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-2">
-## Appletun (#066)
-<details class="pokemon-card-container" open>
-<summary>Appletun overview</summary>
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
@@ -285,12 +276,8 @@ Sweet Apple
 - Snore
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-3">
-## Dipplin (#067)
-<details class="pokemon-card-container" open>
-<summary>Dipplin overview</summary>
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
@@ -382,12 +369,8 @@ Syrupy Apple
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-4">
-## Hydrapple (#068)
-<details class="pokemon-card-container" open>
-<summary>Hydrapple overview</summary>
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
 
 <div class="pokemon-card">
@@ -476,7 +459,6 @@ Lv. 40
 - Sleep Talk
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -487,3 +469,4 @@ Lv. 40
 #pokemon-tabs-hydrapple-tab-3:checked ~ .pokemon-tab-panels #pokemon-tabs-hydrapple-panel-3 { display: block; }
 #pokemon-tabs-hydrapple-tab-4:checked ~ .pokemon-tab-panels #pokemon-tabs-hydrapple-panel-4 { display: block; }
 </style>
+</details>

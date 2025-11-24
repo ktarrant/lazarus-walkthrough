@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Gogoat (#093)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gogoat">
 <input type="radio" name="pokemon-tabs-gogoat-group" id="pokemon-tabs-gogoat-tab-0">
 <label for="pokemon-tabs-gogoat-tab-0">Skiddo</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-gogoat-tab-2">Mega Gogoat</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-gogoat-panel-0">
-## Skiddo (#092)
-<details class="pokemon-card-container" open>
-<summary>Skiddo overview</summary>
 Types: Grass • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -111,12 +110,8 @@ Types: Grass • Egg Groups: Field
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gogoat-panel-1">
-## Gogoat (#093)
-<details class="pokemon-card-container" open>
-<summary>Gogoat overview</summary>
 Types: Grass / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -224,12 +219,8 @@ Lv. 30
 - Swagger
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-gogoat-panel-2">
-## Mega Gogoat (#093)
-<details class="pokemon-card-container" open>
-<summary>Mega Gogoat overview</summary>
 Types: Grass / Ground • Egg Groups: Field
 
 <div class="pokemon-card">
@@ -329,7 +320,6 @@ Gogoatite
 - Swagger
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -338,3 +328,4 @@ Gogoatite
 #pokemon-tabs-gogoat-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-gogoat-panel-1 { display: block; }
 #pokemon-tabs-gogoat-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-gogoat-panel-2 { display: block; }
 </style>
+</details>

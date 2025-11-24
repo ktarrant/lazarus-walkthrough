@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Magnemite (#371)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-magnemite">
 <input type="radio" name="pokemon-tabs-magnemite-group" id="pokemon-tabs-magnemite-tab-0" checked>
 <label for="pokemon-tabs-magnemite-tab-0">Magnemite</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-magnemite-tab-2">Magnezone</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-magnemite-panel-0">
-## Magnemite (#371)
-<details class="pokemon-card-container" open>
-<summary>Magnemite overview</summary>
 Types: Electric / Steel • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -114,12 +113,8 @@ Metal Coat
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-magnemite-panel-1">
-## Magneton (#372)
-<details class="pokemon-card-container" open>
-<summary>Magneton overview</summary>
 Types: Electric / Steel • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -224,12 +219,8 @@ Lv. 30
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-magnemite-panel-2">
-## Magnezone (#373)
-<details class="pokemon-card-container" open>
-<summary>Magnezone overview</summary>
 Types: Electric / Steel • Egg Groups: Mineral
 
 <div class="pokemon-card">
@@ -338,7 +329,6 @@ Thunder Stone
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -347,3 +337,4 @@ Thunder Stone
 #pokemon-tabs-magnemite-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-magnemite-panel-1 { display: block; }
 #pokemon-tabs-magnemite-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-magnemite-panel-2 { display: block; }
 </style>
+</details>

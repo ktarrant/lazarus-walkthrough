@@ -1,3 +1,5 @@
+<details class="pokemon-card-container" open>
+<summary>Braviary (#386)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-braviary">
 <input type="radio" name="pokemon-tabs-braviary-group" id="pokemon-tabs-braviary-tab-0">
 <label for="pokemon-tabs-braviary-tab-0">Rufflet</label>
@@ -7,9 +9,6 @@
 <label for="pokemon-tabs-braviary-tab-2">Hisuian Braviary</label>
 <div class="pokemon-tab-panels">
 <div class="pokemon-tab-panel" id="pokemon-tabs-braviary-panel-0">
-## Rufflet (#385)
-<details class="pokemon-card-container" open>
-<summary>Rufflet overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -102,12 +101,8 @@ Types: Normal / Flying • Egg Groups: Flying
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-braviary-panel-1">
-## Braviary (#386)
-<details class="pokemon-card-container" open>
-<summary>Braviary overview</summary>
 Types: Normal / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -207,12 +202,8 @@ Lv. 34, Day
 - Swift
 </div>
 </div>
-</details>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-braviary-panel-2">
-## Hisuian Braviary (#386)
-<details class="pokemon-card-container" open>
-<summary>Hisuian Braviary overview</summary>
 Types: Psychic / Flying • Egg Groups: Flying
 
 <div class="pokemon-card">
@@ -312,7 +303,6 @@ Lv. 34, Night
 - Swift
 </div>
 </div>
-</details>
 </div>
 </div>
 </div>
@@ -321,3 +311,4 @@ Lv. 34, Night
 #pokemon-tabs-braviary-tab-1:checked ~ .pokemon-tab-panels #pokemon-tabs-braviary-panel-1 { display: block; }
 #pokemon-tabs-braviary-tab-2:checked ~ .pokemon-tab-panels #pokemon-tabs-braviary-panel-2 { display: block; }
 </style>
+</details>

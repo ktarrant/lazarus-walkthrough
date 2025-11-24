@@ -1,6 +1,5 @@
-## Arctovish (#411)
 <details class="pokemon-card-container" open>
-<summary>Arctovish overview</summary>
+<summary>Arctovish (#411)</summary>
 Types: Water / Ice • Egg Groups: -
 
 <div class="pokemon-card">

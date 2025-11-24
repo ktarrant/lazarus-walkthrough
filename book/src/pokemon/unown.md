@@ -1,6 +1,5 @@
-## Unown (#403)
 <details class="pokemon-card-container" open>
-<summary>Unown overview</summary>
+<summary>Unown (#403)</summary>
 Types: Psychic • Egg Groups: -
 
 <div class="pokemon-card">
