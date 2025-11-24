@@ -18,5 +18,6 @@
 - [Ability Catalog](ability-catalog.md)
 - [Move Catalog](<move-catalog.md>)
 - [Egg Groups](<egg-groups.md>)
+- [Pokédex](<pokedex.md>)
 - [Type Matchups (Gen 6+)](<type-matchups.md>)
 - [Pokemon Lookup](<pokemon-lookup.md>)

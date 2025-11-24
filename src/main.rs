@@ -77,6 +77,12 @@ enum Command {
         #[arg(long, default_value = "book/src/ability-catalog.md")]
         out: PathBuf,
     },
+    /// Generate a Pokédex page that includes every card in dex order
+    PokedexPage {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/pokedex.md")]
+        out: PathBuf,
+    },
     /// Generate a lookup page for Pokémon cards
     PokemonLookup {
         /// Output file for the generated Markdown
@@ -100,6 +106,9 @@ enum Command {
         /// Output path for egg groups index
         #[arg(long, default_value = "book/src/egg-groups.md")]
         eggs_out: PathBuf,
+        /// Output path for Pokédex page
+        #[arg(long, default_value = "book/src/pokedex.md")]
+        pokedex_out: PathBuf,
         /// Output path for lookup page
         #[arg(long, default_value = "book/src/pokemon-lookup.md")]
         lookup_out: PathBuf,
@@ -137,6 +146,7 @@ fn main() -> Result<()> {
         Command::EggGroups { out } => render_egg_groups(cli.pokedex_json.clone(), out)?,
         Command::MoveCatalog { out } => render_move_catalog(cli.pokedex_json.clone(), out)?,
         Command::AbilityCatalog { out } => render_ability_catalog(cli.pokedex_json.clone(), out)?,
+        Command::PokedexPage { out } => render_pokedex_page(cli.pokedex_json.clone(), out)?,
         Command::PokemonLookup { out } => render_pokemon_lookup(cli.pokedex_json.clone(), out)?,
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
@@ -146,6 +156,7 @@ fn main() -> Result<()> {
             move_out,
             ability_out,
             eggs_out,
+            pokedex_out,
             lookup_out,
         } => {
             render_all_pokemon_cards(
@@ -157,6 +168,7 @@ fn main() -> Result<()> {
             render_move_catalog(cli.pokedex_json.clone(), move_out)?;
             render_ability_catalog(cli.pokedex_json.clone(), ability_out)?;
             render_egg_groups(cli.pokedex_json.clone(), eggs_out)?;
+            render_pokedex_page(cli.pokedex_json.clone(), pokedex_out)?;
             render_pokemon_lookup(cli.pokedex_json.clone(), lookup_out)?;
         }
     }
@@ -473,6 +485,30 @@ fn render_pokemon_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()>
     }
     std::fs::write(out_path, buf)?;
     println!("Generated Pokémon lookup with {} entries", total_entries);
+    Ok(())
+}
+
+fn render_pokedex_page(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let mut entries = dex.all_entries();
+    entries.sort_by(|a, b| match (a.dex, b.dex) {
+        (Some(ad), Some(bd)) => ad.cmp(&bd),
+        (Some(_), None) => std::cmp::Ordering::Less,
+        (None, Some(_)) => std::cmp::Ordering::Greater,
+        (None, None) => a.name.cmp(&b.name),
+    });
+
+    let mut buf = String::new();
+    buf.push_str("# Pokédex\n\n");
+    buf.push_str("All Pokémon cards in dex order.\n\n");
+    for entry in &entries {
+        buf.push_str(&format!("{{{{#include ./pokemon/{}.md}}}}\n\n", entry.slug));
+    }
+    if let Some(parent) = out_path.parent() {
+        std::fs::create_dir_all(parent)?;
+    }
+    std::fs::write(out_path, buf)?;
+    println!("Generated Pokédex page with {} entries", entries.len());
     Ok(())
 }
 

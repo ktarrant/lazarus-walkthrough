@@ -49,6 +49,12 @@ Regenerate the file whenever `src/type_chart.rs` changes.
    Pass `--pokedex-json /custom/path.json` if the JSON lives elsewhere.
 3. Embed cards with `{{#include ./pokemon/<name>.md}}` inside the book.
 
+Generate a full Pokédex page (includes every card in dex order):
+
+```sh
+cargo run -- pokedex-page --out book/src/pokedex.md
+```
+
 ### Encounter tables
 
 1. Convert the PDF via the uv parser:
