@@ -10,8 +10,17 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="abomasnow abomasnow">
 {{#include ./pokemon/abomasnow.md}}
 </div>
+<div class="lookup-card" data-name="aegislash aegislash">
+{{#include ./pokemon/aegislash.md}}
+</div>
+<div class="lookup-card" data-name="aegislash blade aegislash-blade">
+{{#include ./pokemon/aegislash-blade.md}}
+</div>
 <div class="lookup-card" data-name="aerodactyl aerodactyl">
 {{#include ./pokemon/aerodactyl.md}}
+</div>
+<div class="lookup-card" data-name="aggron aggron">
+{{#include ./pokemon/aggron.md}}
 </div>
 <div class="lookup-card" data-name="aipom aipom">
 {{#include ./pokemon/aipom.md}}
@@ -19,11 +28,17 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="alolan grimer alolan-grimer">
 {{#include ./pokemon/alolan-grimer.md}}
 </div>
+<div class="lookup-card" data-name="alolan marowak alolan-marowak">
+{{#include ./pokemon/alolan-marowak.md}}
+</div>
 <div class="lookup-card" data-name="alolan meowth alolan-meowth">
 {{#include ./pokemon/alolan-meowth.md}}
 </div>
 <div class="lookup-card" data-name="alolan muk alolan-muk">
 {{#include ./pokemon/alolan-muk.md}}
+</div>
+<div class="lookup-card" data-name="alolan ninetales alolan-ninetales">
+{{#include ./pokemon/alolan-ninetales.md}}
 </div>
 <div class="lookup-card" data-name="alolan persian alolan-persian">
 {{#include ./pokemon/alolan-persian.md}}
@@ -34,6 +49,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="alolan sandshrew alolan-sandshrew">
 {{#include ./pokemon/alolan-sandshrew.md}}
 </div>
+<div class="lookup-card" data-name="alolan sandslash alolan-sandslash">
+{{#include ./pokemon/alolan-sandslash.md}}
+</div>
 <div class="lookup-card" data-name="alolan vulpix alolan-vulpix">
 {{#include ./pokemon/alolan-vulpix.md}}
 </div>
@@ -42,6 +60,12 @@ Type to filter and reveal a matching Pokémon card.
 </div>
 <div class="lookup-card" data-name="amaura amaura">
 {{#include ./pokemon/amaura.md}}
+</div>
+<div class="lookup-card" data-name="ambipom ambipom">
+{{#include ./pokemon/ambipom.md}}
+</div>
+<div class="lookup-card" data-name="ampharos ampharos">
+{{#include ./pokemon/ampharos.md}}
 </div>
 <div class="lookup-card" data-name="annihilape annihilape">
 {{#include ./pokemon/annihilape.md}}
@@ -58,17 +82,35 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="arbok arbok">
 {{#include ./pokemon/arbok.md}}
 </div>
+<div class="lookup-card" data-name="arcanine arcanine">
+{{#include ./pokemon/arcanine.md}}
+</div>
 <div class="lookup-card" data-name="archen archen">
 {{#include ./pokemon/archen.md}}
 </div>
+<div class="lookup-card" data-name="archeops archeops">
+{{#include ./pokemon/archeops.md}}
+</div>
+<div class="lookup-card" data-name="arctovish arctovish">
+{{#include ./pokemon/arctovish.md}}
+</div>
+<div class="lookup-card" data-name="arctozolt arctozolt">
+{{#include ./pokemon/arctozolt.md}}
+</div>
 <div class="lookup-card" data-name="ariados ariados">
 {{#include ./pokemon/ariados.md}}
+</div>
+<div class="lookup-card" data-name="armaldo armaldo">
+{{#include ./pokemon/armaldo.md}}
 </div>
 <div class="lookup-card" data-name="armarouge armarouge">
 {{#include ./pokemon/armarouge.md}}
 </div>
 <div class="lookup-card" data-name="aron aron">
 {{#include ./pokemon/aron.md}}
+</div>
+<div class="lookup-card" data-name="aurorus aurorus">
+{{#include ./pokemon/aurorus.md}}
 </div>
 <div class="lookup-card" data-name="baltoy baltoy">
 {{#include ./pokemon/baltoy.md}}
@@ -78,6 +120,30 @@ Type to filter and reveal a matching Pokémon card.
 </div>
 <div class="lookup-card" data-name="barboach barboach">
 {{#include ./pokemon/barboach.md}}
+</div>
+<div class="lookup-card" data-name="basculegion♀ basculegion-f">
+{{#include ./pokemon/basculegion-f.md}}
+</div>
+<div class="lookup-card" data-name="basculegion♂ basculegion-m">
+{{#include ./pokemon/basculegion-m.md}}
+</div>
+<div class="lookup-card" data-name="basculin blue? basculin-blue">
+{{#include ./pokemon/basculin-blue.md}}
+</div>
+<div class="lookup-card" data-name="basculin red basculin-red">
+{{#include ./pokemon/basculin-red.md}}
+</div>
+<div class="lookup-card" data-name="basculin white basculin-white">
+{{#include ./pokemon/basculin-white.md}}
+</div>
+<div class="lookup-card" data-name="bastiodon bastiodon">
+{{#include ./pokemon/bastiodon.md}}
+</div>
+<div class="lookup-card" data-name="bayleef bayleef">
+{{#include ./pokemon/bayleef.md}}
+</div>
+<div class="lookup-card" data-name="beartic beartic">
+{{#include ./pokemon/beartic.md}}
 </div>
 <div class="lookup-card" data-name="beautifly beautifly">
 {{#include ./pokemon/beautifly.md}}
@@ -97,11 +163,20 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="bounsweet bounsweet">
 {{#include ./pokemon/bounsweet.md}}
 </div>
+<div class="lookup-card" data-name="braixen braixen">
+{{#include ./pokemon/braixen.md}}
+</div>
 <div class="lookup-card" data-name="braviary braviary">
 {{#include ./pokemon/braviary.md}}
 </div>
 <div class="lookup-card" data-name="breloom breloom">
 {{#include ./pokemon/breloom.md}}
+</div>
+<div class="lookup-card" data-name="brionne brionne">
+{{#include ./pokemon/brionne.md}}
+</div>
+<div class="lookup-card" data-name="bronzong bronzong">
+{{#include ./pokemon/bronzong.md}}
 </div>
 <div class="lookup-card" data-name="bronzor bronzor">
 {{#include ./pokemon/bronzor.md}}
@@ -112,11 +187,23 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="buizel buizel">
 {{#include ./pokemon/buizel.md}}
 </div>
+<div class="lookup-card" data-name="camerupt camerupt">
+{{#include ./pokemon/camerupt.md}}
+</div>
+<div class="lookup-card" data-name="carracosta carracosta">
+{{#include ./pokemon/carracosta.md}}
+</div>
 <div class="lookup-card" data-name="cascoon cascoon">
 {{#include ./pokemon/cascoon.md}}
 </div>
+<div class="lookup-card" data-name="centiskorch centiskorch">
+{{#include ./pokemon/centiskorch.md}}
+</div>
 <div class="lookup-card" data-name="ceruledge ceruledge">
 {{#include ./pokemon/ceruledge.md}}
+</div>
+<div class="lookup-card" data-name="chandelure chandelure">
+{{#include ./pokemon/chandelure.md}}
 </div>
 <div class="lookup-card" data-name="charcadet charcadet">
 {{#include ./pokemon/charcadet.md}}
@@ -130,8 +217,14 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="cherrim cherrim">
 {{#include ./pokemon/cherrim.md}}
 </div>
+<div class="lookup-card" data-name="cherrim sunny cherrim-sunny">
+{{#include ./pokemon/cherrim-sunny.md}}
+</div>
 <div class="lookup-card" data-name="cherubi cherubi">
 {{#include ./pokemon/cherubi.md}}
+</div>
+<div class="lookup-card" data-name="chesnaught chesnaught">
+{{#include ./pokemon/chesnaught.md}}
 </div>
 <div class="lookup-card" data-name="chespin chespin">
 {{#include ./pokemon/chespin.md}}
@@ -163,14 +256,17 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="comfey comfey">
 {{#include ./pokemon/comfey.md}}
 </div>
+<div class="lookup-card" data-name="conkeldurr conkeldurr">
+{{#include ./pokemon/conkeldurr.md}}
+</div>
+<div class="lookup-card" data-name="copperajah copperajah">
+{{#include ./pokemon/copperajah.md}}
+</div>
 <div class="lookup-card" data-name="corphish corphish">
 {{#include ./pokemon/corphish.md}}
 </div>
 <div class="lookup-card" data-name="corsola corsola">
 {{#include ./pokemon/corsola.md}}
-</div>
-<div class="lookup-card" data-name="corsola corsola-galarian">
-{{#include ./pokemon/corsola-galarian.md}}
 </div>
 <div class="lookup-card" data-name="crabominable crabominable">
 {{#include ./pokemon/crabominable.md}}
@@ -178,8 +274,23 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="crabrawler crabrawler">
 {{#include ./pokemon/crabrawler.md}}
 </div>
+<div class="lookup-card" data-name="cradily cradily">
+{{#include ./pokemon/cradily.md}}
+</div>
+<div class="lookup-card" data-name="cranidos cranidos">
+{{#include ./pokemon/cranidos.md}}
+</div>
 <div class="lookup-card" data-name="crawdaunt crawdaunt">
 {{#include ./pokemon/crawdaunt.md}}
+</div>
+<div class="lookup-card" data-name="crocalor crocalor">
+{{#include ./pokemon/crocalor.md}}
+</div>
+<div class="lookup-card" data-name="croconaw croconaw">
+{{#include ./pokemon/croconaw.md}}
+</div>
+<div class="lookup-card" data-name="crustle crustle">
+{{#include ./pokemon/crustle.md}}
 </div>
 <div class="lookup-card" data-name="cubchoo cubchoo">
 {{#include ./pokemon/cubchoo.md}}
@@ -190,6 +301,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="cufant cufant">
 {{#include ./pokemon/cufant.md}}
 </div>
+<div class="lookup-card" data-name="cursola cursola">
+{{#include ./pokemon/cursola.md}}
+</div>
 <div class="lookup-card" data-name="cutiefly cutiefly">
 {{#include ./pokemon/cutiefly.md}}
 </div>
@@ -199,8 +313,20 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="cyndaquil cyndaquil">
 {{#include ./pokemon/cyndaquil.md}}
 </div>
+<div class="lookup-card" data-name="dartrix dartrix">
+{{#include ./pokemon/dartrix.md}}
+</div>
+<div class="lookup-card" data-name="decidueye decidueye">
+{{#include ./pokemon/decidueye.md}}
+</div>
 <div class="lookup-card" data-name="dedenne dedenne">
 {{#include ./pokemon/dedenne.md}}
+</div>
+<div class="lookup-card" data-name="delphox delphox">
+{{#include ./pokemon/delphox.md}}
+</div>
+<div class="lookup-card" data-name="dewgong dewgong">
+{{#include ./pokemon/dewgong.md}}
 </div>
 <div class="lookup-card" data-name="dhelmise dhelmise">
 {{#include ./pokemon/dhelmise.md}}
@@ -214,11 +340,29 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="doduo doduo">
 {{#include ./pokemon/doduo.md}}
 </div>
+<div class="lookup-card" data-name="donphan donphan">
+{{#include ./pokemon/donphan.md}}
+</div>
 <div class="lookup-card" data-name="doublade doublade">
 {{#include ./pokemon/doublade.md}}
 </div>
+<div class="lookup-card" data-name="dracovish dracovish">
+{{#include ./pokemon/dracovish.md}}
+</div>
+<div class="lookup-card" data-name="dracozolt dracozolt">
+{{#include ./pokemon/dracozolt.md}}
+</div>
+<div class="lookup-card" data-name="dragalge dragalge">
+{{#include ./pokemon/dragalge.md}}
+</div>
+<div class="lookup-card" data-name="dragapult dragapult">
+{{#include ./pokemon/dragapult.md}}
+</div>
 <div class="lookup-card" data-name="dragonair dragonair">
 {{#include ./pokemon/dragonair.md}}
+</div>
+<div class="lookup-card" data-name="dragonite dragonite">
+{{#include ./pokemon/dragonite.md}}
 </div>
 <div class="lookup-card" data-name="drakloak drakloak">
 {{#include ./pokemon/drakloak.md}}
@@ -244,6 +388,12 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="dusclops dusclops">
 {{#include ./pokemon/dusclops.md}}
 </div>
+<div class="lookup-card" data-name="dusk lycanroc dusk-lycanroc">
+{{#include ./pokemon/dusk-lycanroc.md}}
+</div>
+<div class="lookup-card" data-name="dusknoir dusknoir">
+{{#include ./pokemon/dusknoir.md}}
+</div>
 <div class="lookup-card" data-name="duskull duskull">
 {{#include ./pokemon/duskull.md}}
 </div>
@@ -259,8 +409,20 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="ekans ekans">
 {{#include ./pokemon/ekans.md}}
 </div>
+<div class="lookup-card" data-name="electrode electrode">
+{{#include ./pokemon/electrode.md}}
+</div>
+<div class="lookup-card" data-name="entei entei">
+{{#include ./pokemon/entei.md}}
+</div>
 <div class="lookup-card" data-name="espathra espathra">
 {{#include ./pokemon/espathra.md}}
+</div>
+<div class="lookup-card" data-name="espeon espeon">
+{{#include ./pokemon/espeon.md}}
+</div>
+<div class="lookup-card" data-name="eternal flower floette eternal-flower-floette">
+{{#include ./pokemon/eternal-flower-floette.md}}
 </div>
 <div class="lookup-card" data-name="falinks falinks">
 {{#include ./pokemon/falinks.md}}
@@ -271,6 +433,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="fennekin fennekin">
 {{#include ./pokemon/fennekin.md}}
 </div>
+<div class="lookup-card" data-name="feraligatr feraligatr">
+{{#include ./pokemon/feraligatr.md}}
+</div>
 <div class="lookup-card" data-name="finizen finizen">
 {{#include ./pokemon/finizen.md}}
 </div>
@@ -280,23 +445,14 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="flaaffy flaaffy">
 {{#include ./pokemon/flaaffy.md}}
 </div>
-<div class="lookup-card" data-name="flabébé flabebe-blue-flower">
-{{#include ./pokemon/flabebe-blue-flower.md}}
-</div>
-<div class="lookup-card" data-name="flabébé flabebe-orange-flower">
-{{#include ./pokemon/flabebe-orange-flower.md}}
-</div>
-<div class="lookup-card" data-name="flabébé flabebe-red-flower">
-{{#include ./pokemon/flabebe-red-flower.md}}
-</div>
-<div class="lookup-card" data-name="flabébé flabebe-white-flower">
-{{#include ./pokemon/flabebe-white-flower.md}}
-</div>
-<div class="lookup-card" data-name="flabébé flabebe-yellow-flower">
-{{#include ./pokemon/flabebe-yellow-flower.md}}
+<div class="lookup-card" data-name="flabébé flabebe">
+{{#include ./pokemon/flabebe.md}}
 </div>
 <div class="lookup-card" data-name="flapple flapple">
 {{#include ./pokemon/flapple.md}}
+</div>
+<div class="lookup-card" data-name="flareon flareon">
+{{#include ./pokemon/flareon.md}}
 </div>
 <div class="lookup-card" data-name="flittle flittle">
 {{#include ./pokemon/flittle.md}}
@@ -307,23 +463,29 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="floette floette">
 {{#include ./pokemon/floette.md}}
 </div>
-<div class="lookup-card" data-name="floette floette-blue-flower">
-{{#include ./pokemon/floette-blue-flower.md}}
-</div>
-<div class="lookup-card" data-name="floette floette-red-flower">
-{{#include ./pokemon/floette-red-flower.md}}
-</div>
-<div class="lookup-card" data-name="floette floette-yellow-flower">
-{{#include ./pokemon/floette-yellow-flower.md}}
+<div class="lookup-card" data-name="floragato floragato">
+{{#include ./pokemon/floragato.md}}
 </div>
 <div class="lookup-card" data-name="florges florges">
 {{#include ./pokemon/florges.md}}
+</div>
+<div class="lookup-card" data-name="flygon flygon">
+{{#include ./pokemon/flygon.md}}
 </div>
 <div class="lookup-card" data-name="fomantis fomantis">
 {{#include ./pokemon/fomantis.md}}
 </div>
 <div class="lookup-card" data-name="froakie froakie">
 {{#include ./pokemon/froakie.md}}
+</div>
+<div class="lookup-card" data-name="frogadier frogadier">
+{{#include ./pokemon/frogadier.md}}
+</div>
+<div class="lookup-card" data-name="froslass froslass">
+{{#include ./pokemon/froslass.md}}
+</div>
+<div class="lookup-card" data-name="frosmoth frosmoth">
+{{#include ./pokemon/frosmoth.md}}
 </div>
 <div class="lookup-card" data-name="fuecoco fuecoco">
 {{#include ./pokemon/fuecoco.md}}
@@ -346,20 +508,44 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="galarian zigzagoon galarian-zigzagoon">
 {{#include ./pokemon/galarian-zigzagoon.md}}
 </div>
+<div class="lookup-card" data-name="gallade gallade">
+{{#include ./pokemon/gallade.md}}
+</div>
+<div class="lookup-card" data-name="gardevoir gardevoir">
+{{#include ./pokemon/gardevoir.md}}
+</div>
 <div class="lookup-card" data-name="gastly gastly">
 {{#include ./pokemon/gastly.md}}
+</div>
+<div class="lookup-card" data-name="gengar gengar">
+{{#include ./pokemon/gengar.md}}
 </div>
 <div class="lookup-card" data-name="girafarig girafarig">
 {{#include ./pokemon/girafarig.md}}
 </div>
+<div class="lookup-card" data-name="glaceon glaceon">
+{{#include ./pokemon/glaceon.md}}
+</div>
+<div class="lookup-card" data-name="glalie glalie">
+{{#include ./pokemon/glalie.md}}
+</div>
 <div class="lookup-card" data-name="gligar gligar">
 {{#include ./pokemon/gligar.md}}
+</div>
+<div class="lookup-card" data-name="gliscor gliscor">
+{{#include ./pokemon/gliscor.md}}
 </div>
 <div class="lookup-card" data-name="gogoat gogoat">
 {{#include ./pokemon/gogoat.md}}
 </div>
 <div class="lookup-card" data-name="golduck golduck">
 {{#include ./pokemon/golduck.md}}
+</div>
+<div class="lookup-card" data-name="golisopod golisopod">
+{{#include ./pokemon/golisopod.md}}
+</div>
+<div class="lookup-card" data-name="goodra goodra">
+{{#include ./pokemon/goodra.md}}
 </div>
 <div class="lookup-card" data-name="goomy goomy">
 {{#include ./pokemon/goomy.md}}
@@ -376,17 +562,26 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="gothorita gothorita">
 {{#include ./pokemon/gothorita.md}}
 </div>
+<div class="lookup-card" data-name="gouging fire gouging-fire">
+{{#include ./pokemon/gouging-fire.md}}
+</div>
 <div class="lookup-card" data-name="gourgeist gourgeist">
 {{#include ./pokemon/gourgeist.md}}
 </div>
 <div class="lookup-card" data-name="grafaiai grafaiai">
 {{#include ./pokemon/grafaiai.md}}
 </div>
+<div class="lookup-card" data-name="greninja greninja">
+{{#include ./pokemon/greninja.md}}
+</div>
 <div class="lookup-card" data-name="grimer grimer">
 {{#include ./pokemon/grimer.md}}
 </div>
 <div class="lookup-card" data-name="grimmsnarl grimmsnarl">
 {{#include ./pokemon/grimmsnarl.md}}
+</div>
+<div class="lookup-card" data-name="groudon groudon">
+{{#include ./pokemon/groudon.md}}
 </div>
 <div class="lookup-card" data-name="growlithe growlithe">
 {{#include ./pokemon/growlithe.md}}
@@ -400,8 +595,17 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="gyarados gyarados">
 {{#include ./pokemon/gyarados.md}}
 </div>
+<div class="lookup-card" data-name="hakamo-o hakamo-o">
+{{#include ./pokemon/hakamo-o.md}}
+</div>
+<div class="lookup-card" data-name="haunter haunter">
+{{#include ./pokemon/haunter.md}}
+</div>
 <div class="lookup-card" data-name="hawlucha hawlucha">
 {{#include ./pokemon/hawlucha.md}}
+</div>
+<div class="lookup-card" data-name="heliolisk heliolisk">
+{{#include ./pokemon/heliolisk.md}}
 </div>
 <div class="lookup-card" data-name="helioptile helioptile">
 {{#include ./pokemon/helioptile.md}}
@@ -409,23 +613,50 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="heracross heracross">
 {{#include ./pokemon/heracross.md}}
 </div>
+<div class="lookup-card" data-name="herdier herdier">
+{{#include ./pokemon/herdier.md}}
+</div>
+<div class="lookup-card" data-name="hero palafin hero-palafin">
+{{#include ./pokemon/hero-palafin.md}}
+</div>
+<div class="lookup-card" data-name="hisuian arcanine hisuian-arcanine">
+{{#include ./pokemon/hisuian-arcanine.md}}
+</div>
 <div class="lookup-card" data-name="hisuian braviary hisuian-braviary">
 {{#include ./pokemon/hisuian-braviary.md}}
+</div>
+<div class="lookup-card" data-name="hisuian decidueye hisuian-decidueye">
+{{#include ./pokemon/hisuian-decidueye.md}}
 </div>
 <div class="lookup-card" data-name="hisuian electrode hisuian-electrode">
 {{#include ./pokemon/hisuian-electrode.md}}
 </div>
+<div class="lookup-card" data-name="hisuian goodra hisuian-goodra">
+{{#include ./pokemon/hisuian-goodra.md}}
+</div>
 <div class="lookup-card" data-name="hisuian growlithe hisuian-growlithe">
 {{#include ./pokemon/hisuian-growlithe.md}}
 </div>
-<div class="lookup-card" data-name="hisuian sliggoo hisuian-sligoo">
-{{#include ./pokemon/hisuian-sligoo.md}}
+<div class="lookup-card" data-name="hisuian sliggoo hisuian-sliggoo">
+{{#include ./pokemon/hisuian-sliggoo.md}}
 </div>
 <div class="lookup-card" data-name="hisuian sneasel hisuian-sneasel">
 {{#include ./pokemon/hisuian-sneasel.md}}
 </div>
+<div class="lookup-card" data-name="hisuian typhlosion hisuian-typhlosion">
+{{#include ./pokemon/hisuian-typhlosion.md}}
+</div>
 <div class="lookup-card" data-name="hisuian voltorb hisuian-voltorb">
 {{#include ./pokemon/hisuian-voltorb.md}}
+</div>
+<div class="lookup-card" data-name="hisuian zoroark hisuian-zoroark">
+{{#include ./pokemon/hisuian-zoroark.md}}
+</div>
+<div class="lookup-card" data-name="hisuian zorua hisuian-zorua">
+{{#include ./pokemon/hisuian-zorua.md}}
+</div>
+<div class="lookup-card" data-name="honchkrow honchkrow">
+{{#include ./pokemon/honchkrow.md}}
 </div>
 <div class="lookup-card" data-name="honedge honedge">
 {{#include ./pokemon/honedge.md}}
@@ -445,11 +676,20 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="huntail huntail">
 {{#include ./pokemon/huntail.md}}
 </div>
+<div class="lookup-card" data-name="hydrapple hydrapple">
+{{#include ./pokemon/hydrapple.md}}
+</div>
+<div class="lookup-card" data-name="hypno hypno">
+{{#include ./pokemon/hypno.md}}
+</div>
 <div class="lookup-card" data-name="igglybuff igglybuff">
 {{#include ./pokemon/igglybuff.md}}
 </div>
 <div class="lookup-card" data-name="impidimp impidimp">
 {{#include ./pokemon/impidimp.md}}
+</div>
+<div class="lookup-card" data-name="incineroar incineroar">
+{{#include ./pokemon/incineroar.md}}
 </div>
 <div class="lookup-card" data-name="jangmo-o jangmo-o">
 {{#include ./pokemon/jangmo-o.md}}
@@ -457,8 +697,17 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="jigglypuff jigglypuff">
 {{#include ./pokemon/jigglypuff.md}}
 </div>
+<div class="lookup-card" data-name="jolteon jolteon">
+{{#include ./pokemon/jolteon.md}}
+</div>
+<div class="lookup-card" data-name="jumpluff jumpluff">
+{{#include ./pokemon/jumpluff.md}}
+</div>
 <div class="lookup-card" data-name="kabuto kabuto">
 {{#include ./pokemon/kabuto.md}}
+</div>
+<div class="lookup-card" data-name="kabutops kabutops">
+{{#include ./pokemon/kabutops.md}}
 </div>
 <div class="lookup-card" data-name="kecleon kecleon">
 {{#include ./pokemon/kecleon.md}}
@@ -472,11 +721,26 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="klawf klawf">
 {{#include ./pokemon/klawf.md}}
 </div>
+<div class="lookup-card" data-name="kleavor kleavor">
+{{#include ./pokemon/kleavor.md}}
+</div>
 <div class="lookup-card" data-name="komala komala">
 {{#include ./pokemon/komala.md}}
 </div>
+<div class="lookup-card" data-name="kommo-o kommo-o">
+{{#include ./pokemon/kommo-o.md}}
+</div>
 <div class="lookup-card" data-name="krokorok krokorok">
 {{#include ./pokemon/krokorok.md}}
+</div>
+<div class="lookup-card" data-name="krookodile krookodile">
+{{#include ./pokemon/krookodile.md}}
+</div>
+<div class="lookup-card" data-name="kyogre kyogre">
+{{#include ./pokemon/kyogre.md}}
+</div>
+<div class="lookup-card" data-name="lairon lairon">
+{{#include ./pokemon/lairon.md}}
 </div>
 <div class="lookup-card" data-name="lampent lampent">
 {{#include ./pokemon/lampent.md}}
@@ -489,6 +753,9 @@ Type to filter and reveal a matching Pokémon card.
 </div>
 <div class="lookup-card" data-name="larvitar larvitar">
 {{#include ./pokemon/larvitar.md}}
+</div>
+<div class="lookup-card" data-name="leafeon leafeon">
+{{#include ./pokemon/leafeon.md}}
 </div>
 <div class="lookup-card" data-name="lileep lileep">
 {{#include ./pokemon/lileep.md}}
@@ -514,11 +781,8 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="lurantis lurantis">
 {{#include ./pokemon/lurantis.md}}
 </div>
-<div class="lookup-card" data-name="lycanroc lycanroc-day">
-{{#include ./pokemon/lycanroc-day.md}}
-</div>
-<div class="lookup-card" data-name="lycanroc lycanroc-night">
-{{#include ./pokemon/lycanroc-night.md}}
+<div class="lookup-card" data-name="lycanroc lycanroc">
+{{#include ./pokemon/lycanroc.md}}
 </div>
 <div class="lookup-card" data-name="magikarp magikarp">
 {{#include ./pokemon/magikarp.md}}
@@ -526,53 +790,212 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="magnemite magnemite">
 {{#include ./pokemon/magnemite.md}}
 </div>
+<div class="lookup-card" data-name="magneton magneton">
+{{#include ./pokemon/magneton.md}}
+</div>
+<div class="lookup-card" data-name="magnezone magnezone">
+{{#include ./pokemon/magnezone.md}}
+</div>
+<div class="lookup-card" data-name="mamoswine mamoswine">
+{{#include ./pokemon/mamoswine.md}}
+</div>
+<div class="lookup-card" data-name="mandibuzz mandibuzz">
+{{#include ./pokemon/mandibuzz.md}}
+</div>
 <div class="lookup-card" data-name="mankey mankey">
 {{#include ./pokemon/mankey.md}}
 </div>
 <div class="lookup-card" data-name="mareep mareep">
 {{#include ./pokemon/mareep.md}}
 </div>
+<div class="lookup-card" data-name="marowak marowak">
+{{#include ./pokemon/marowak.md}}
+</div>
 <div class="lookup-card" data-name="mawile mawile">
 {{#include ./pokemon/mawile.md}}
+</div>
+<div class="lookup-card" data-name="medicham medicham">
+{{#include ./pokemon/medicham.md}}
 </div>
 <div class="lookup-card" data-name="meditite meditite">
 {{#include ./pokemon/meditite.md}}
 </div>
+<div class="lookup-card" data-name="mega abomasnow mega-abomasnow">
+{{#include ./pokemon/mega-abomasnow.md}}
+</div>
+<div class="lookup-card" data-name="mega aerodactyl mega-aerodactyl">
+{{#include ./pokemon/mega-aerodactyl.md}}
+</div>
+<div class="lookup-card" data-name="mega aggron mega-aggron">
+{{#include ./pokemon/mega-aggron.md}}
+</div>
+<div class="lookup-card" data-name="mega altaria mega-altaria">
+{{#include ./pokemon/mega-altaria.md}}
+</div>
+<div class="lookup-card" data-name="mega ampharos mega-ampharos">
+{{#include ./pokemon/mega-ampharos.md}}
+</div>
+<div class="lookup-card" data-name="mega archeops mega-archeops">
+{{#include ./pokemon/mega-archeops.md}}
+</div>
+<div class="lookup-card" data-name="mega banette mega-banette">
+{{#include ./pokemon/mega-banette.md}}
+</div>
+<div class="lookup-card" data-name="mega camerupt mega-camerupt">
+{{#include ./pokemon/mega-camerupt.md}}
+</div>
+<div class="lookup-card" data-name="mega centiskorch mega-centiskorch">
+{{#include ./pokemon/mega-centiskorch.md}}
+</div>
+<div class="lookup-card" data-name="mega chesnaught mega-chesnaught">
+{{#include ./pokemon/mega-chesnaught.md}}
+</div>
+<div class="lookup-card" data-name="mega copperajah mega-copperajah">
+{{#include ./pokemon/mega-copperajah.md}}
+</div>
+<div class="lookup-card" data-name="mega cyclizar s mega-cyclizar-s">
+{{#include ./pokemon/mega-cyclizar-s.md}}
+</div>
+<div class="lookup-card" data-name="mega cyclizar v mega-cyclizar-v">
+{{#include ./pokemon/mega-cyclizar-v.md}}
+</div>
+<div class="lookup-card" data-name="mega delphox mega-delphox">
+{{#include ./pokemon/mega-delphox.md}}
+</div>
+<div class="lookup-card" data-name="mega dragonite mega-dragonite">
+{{#include ./pokemon/mega-dragonite.md}}
+</div>
+<div class="lookup-card" data-name="mega falinks mega-falinks">
+{{#include ./pokemon/mega-falinks.md}}
+</div>
+<div class="lookup-card" data-name="mega flygon mega-flygon">
+{{#include ./pokemon/mega-flygon.md}}
+</div>
+<div class="lookup-card" data-name="mega gallade mega-gallade">
+{{#include ./pokemon/mega-gallade.md}}
+</div>
+<div class="lookup-card" data-name="mega gardevoir mega-gardevoir">
+{{#include ./pokemon/mega-gardevoir.md}}
+</div>
+<div class="lookup-card" data-name="mega gengar mega-gengar">
+{{#include ./pokemon/mega-gengar.md}}
+</div>
+<div class="lookup-card" data-name="mega glalie mega-glalie">
+{{#include ./pokemon/mega-glalie.md}}
+</div>
+<div class="lookup-card" data-name="mega gogoat mega-gogoat">
+{{#include ./pokemon/mega-gogoat.md}}
+</div>
+<div class="lookup-card" data-name="mega greninja mega-greninja">
+{{#include ./pokemon/mega-greninja.md}}
+</div>
+<div class="lookup-card" data-name="mega grimmsnarl mega-grimmsnarl">
+{{#include ./pokemon/mega-grimmsnarl.md}}
+</div>
+<div class="lookup-card" data-name="mega gyarados mega-gyarados">
+{{#include ./pokemon/mega-gyarados.md}}
+</div>
+<div class="lookup-card" data-name="mega hawlucha mega-hawlucha">
+{{#include ./pokemon/mega-hawlucha.md}}
+</div>
+<div class="lookup-card" data-name="mega heliolisk mega-heliolisk">
+{{#include ./pokemon/mega-heliolisk.md}}
+</div>
+<div class="lookup-card" data-name="mega heracross mega-heracross">
+{{#include ./pokemon/mega-heracross.md}}
+</div>
+<div class="lookup-card" data-name="mega houndoom mega-houndoom">
+{{#include ./pokemon/mega-houndoom.md}}
+</div>
+<div class="lookup-card" data-name="mega lapras mega-lapras">
+{{#include ./pokemon/mega-lapras.md}}
+</div>
+<div class="lookup-card" data-name="mega mandibuzz mega-mandibuzz">
+{{#include ./pokemon/mega-mandibuzz.md}}
+</div>
+<div class="lookup-card" data-name="mega mawile mega-mawile">
+{{#include ./pokemon/mega-mawile.md}}
+</div>
+<div class="lookup-card" data-name="mega medicham mega-medicham">
+{{#include ./pokemon/mega-medicham.md}}
+</div>
+<div class="lookup-card" data-name="mega noctowl mega-noctowl">
+{{#include ./pokemon/mega-noctowl.md}}
+</div>
+<div class="lookup-card" data-name="mega pangoro mega-pangoro">
+{{#include ./pokemon/mega-pangoro.md}}
+</div>
+<div class="lookup-card" data-name="mega raichu x mega-raichu-x">
+{{#include ./pokemon/mega-raichu-x.md}}
+</div>
+<div class="lookup-card" data-name="mega raichu y mega-raichu-y">
+{{#include ./pokemon/mega-raichu-y.md}}
+</div>
+<div class="lookup-card" data-name="mega rayquaza mega-rayquaza">
+{{#include ./pokemon/mega-rayquaza.md}}
+</div>
+<div class="lookup-card" data-name="mega ribombee mega-ribombee">
+{{#include ./pokemon/mega-ribombee.md}}
+</div>
+<div class="lookup-card" data-name="mega scizor mega-scizor">
+{{#include ./pokemon/mega-scizor.md}}
+</div>
+<div class="lookup-card" data-name="mega scrafty mega-scrafty">
+{{#include ./pokemon/mega-scrafty.md}}
+</div>
+<div class="lookup-card" data-name="mega steelix mega-steelix">
+{{#include ./pokemon/mega-steelix.md}}
+</div>
+<div class="lookup-card" data-name="mega tinkaton mega-tinkaton">
+{{#include ./pokemon/mega-tinkaton.md}}
+</div>
+<div class="lookup-card" data-name="mega toucannon mega-toucannon">
+{{#include ./pokemon/mega-toucannon.md}}
+</div>
+<div class="lookup-card" data-name="mega tyranitar mega-tyranitar">
+{{#include ./pokemon/mega-tyranitar.md}}
+</div>
+<div class="lookup-card" data-name="mega victreebel mega-victreebel">
+{{#include ./pokemon/mega-victreebel.md}}
+</div>
+<div class="lookup-card" data-name="mega wyrdeer mega-wyrdeer">
+{{#include ./pokemon/mega-wyrdeer.md}}
+</div>
+<div class="lookup-card" data-name="meganium meganium">
+{{#include ./pokemon/meganium.md}}
+</div>
+<div class="lookup-card" data-name="meowscarada meowscarada">
+{{#include ./pokemon/meowscarada.md}}
+</div>
 <div class="lookup-card" data-name="meowth meowth">
 {{#include ./pokemon/meowth.md}}
+</div>
+<div class="lookup-card" data-name="midnight lycanroc midnight-lycanroc">
+{{#include ./pokemon/midnight-lycanroc.md}}
 </div>
 <div class="lookup-card" data-name="mienfoo mienfoo">
 {{#include ./pokemon/mienfoo.md}}
 </div>
+<div class="lookup-card" data-name="mienshao mienshao">
+{{#include ./pokemon/mienshao.md}}
+</div>
 <div class="lookup-card" data-name="mimikyu mimikyu">
 {{#include ./pokemon/mimikyu.md}}
 </div>
-<div class="lookup-card" data-name="minior minior-blue-core">
-{{#include ./pokemon/minior-blue-core.md}}
+<div class="lookup-card" data-name="minior minior">
+{{#include ./pokemon/minior.md}}
 </div>
-<div class="lookup-card" data-name="minior minior-green-core">
-{{#include ./pokemon/minior-green-core.md}}
-</div>
-<div class="lookup-card" data-name="minior minior-indigo-core">
-{{#include ./pokemon/minior-indigo-core.md}}
-</div>
-<div class="lookup-card" data-name="minior minior-orange-core">
-{{#include ./pokemon/minior-orange-core.md}}
-</div>
-<div class="lookup-card" data-name="minior minior-red-core">
-{{#include ./pokemon/minior-red-core.md}}
-</div>
-<div class="lookup-card" data-name="minior minior-violet-core">
-{{#include ./pokemon/minior-violet-core.md}}
-</div>
-<div class="lookup-card" data-name="minior minior-yellow-core">
-{{#include ./pokemon/minior-yellow-core.md}}
+<div class="lookup-card" data-name="minior core minior-core">
+{{#include ./pokemon/minior-core.md}}
 </div>
 <div class="lookup-card" data-name="morgrem morgrem">
 {{#include ./pokemon/morgrem.md}}
 </div>
 <div class="lookup-card" data-name="mudbray mudbray">
 {{#include ./pokemon/mudbray.md}}
+</div>
+<div class="lookup-card" data-name="mudsdale mudsdale">
+{{#include ./pokemon/mudsdale.md}}
 </div>
 <div class="lookup-card" data-name="muk muk">
 {{#include ./pokemon/muk.md}}
@@ -592,6 +1015,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="nincada nincada">
 {{#include ./pokemon/nincada.md}}
 </div>
+<div class="lookup-card" data-name="ninetales ninetales">
+{{#include ./pokemon/ninetales.md}}
+</div>
 <div class="lookup-card" data-name="ninjask ninjask">
 {{#include ./pokemon/ninjask.md}}
 </div>
@@ -610,8 +1036,23 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="octillery octillery">
 {{#include ./pokemon/octillery.md}}
 </div>
+<div class="lookup-card" data-name="ogerpon ogerpon">
+{{#include ./pokemon/ogerpon.md}}
+</div>
+<div class="lookup-card" data-name="ogerpon cornerstone ogerpon-cornerstone">
+{{#include ./pokemon/ogerpon-cornerstone.md}}
+</div>
+<div class="lookup-card" data-name="ogerpon hearthflame ogerpon-hearthflame">
+{{#include ./pokemon/ogerpon-hearthflame.md}}
+</div>
+<div class="lookup-card" data-name="ogerpon wellspring ogerpon-wellspring">
+{{#include ./pokemon/ogerpon-wellspring.md}}
+</div>
 <div class="lookup-card" data-name="omanyte omanyte">
 {{#include ./pokemon/omanyte.md}}
+</div>
+<div class="lookup-card" data-name="omastar omastar">
+{{#include ./pokemon/omastar.md}}
 </div>
 <div class="lookup-card" data-name="onix onix">
 {{#include ./pokemon/onix.md}}
@@ -631,14 +1072,32 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="oricorio sensu oricorio-sensu">
 {{#include ./pokemon/oricorio-sensu.md}}
 </div>
+<div class="lookup-card" data-name="own tempo rockruff own-tempo-rockruff">
+{{#include ./pokemon/own-tempo-rockruff.md}}
+</div>
 <div class="lookup-card" data-name="pachirisu pachirisu">
 {{#include ./pokemon/pachirisu.md}}
+</div>
+<div class="lookup-card" data-name="palafin palafin">
+{{#include ./pokemon/palafin.md}}
+</div>
+<div class="lookup-card" data-name="paldean tauros-a paldean-tauros-a">
+{{#include ./pokemon/paldean-tauros-a.md}}
+</div>
+<div class="lookup-card" data-name="paldean tauros-b paldean-tauros-b">
+{{#include ./pokemon/paldean-tauros-b.md}}
+</div>
+<div class="lookup-card" data-name="paldean tauros-c paldean-tauros-c">
+{{#include ./pokemon/paldean-tauros-c.md}}
 </div>
 <div class="lookup-card" data-name="paldean wooper paldean-wooper">
 {{#include ./pokemon/paldean-wooper.md}}
 </div>
 <div class="lookup-card" data-name="pancham pancham">
 {{#include ./pokemon/pancham.md}}
+</div>
+<div class="lookup-card" data-name="pangoro pangoro">
+{{#include ./pokemon/pangoro.md}}
 </div>
 <div class="lookup-card" data-name="panpour panpour">
 {{#include ./pokemon/panpour.md}}
@@ -652,6 +1111,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="paras paras">
 {{#include ./pokemon/paras.md}}
 </div>
+<div class="lookup-card" data-name="parasect parasect">
+{{#include ./pokemon/parasect.md}}
+</div>
 <div class="lookup-card" data-name="passimian passimian">
 {{#include ./pokemon/passimian.md}}
 </div>
@@ -660,6 +1122,9 @@ Type to filter and reveal a matching Pokémon card.
 </div>
 <div class="lookup-card" data-name="pawmo pawmo">
 {{#include ./pokemon/pawmo.md}}
+</div>
+<div class="lookup-card" data-name="pawmott pawmott">
+{{#include ./pokemon/pawmott.md}}
 </div>
 <div class="lookup-card" data-name="pelipper pelipper">
 {{#include ./pokemon/pelipper.md}}
@@ -682,11 +1147,20 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="pikipek pikipek">
 {{#include ./pokemon/pikipek.md}}
 </div>
+<div class="lookup-card" data-name="piloswine piloswine">
+{{#include ./pokemon/piloswine.md}}
+</div>
+<div class="lookup-card" data-name="politoed politoed">
+{{#include ./pokemon/politoed.md}}
+</div>
 <div class="lookup-card" data-name="poliwag poliwag">
 {{#include ./pokemon/poliwag.md}}
 </div>
 <div class="lookup-card" data-name="poliwhirl poliwhirl">
 {{#include ./pokemon/poliwhirl.md}}
+</div>
+<div class="lookup-card" data-name="poliwrath poliwrath">
+{{#include ./pokemon/poliwrath.md}}
 </div>
 <div class="lookup-card" data-name="ponyta ponyta">
 {{#include ./pokemon/ponyta.md}}
@@ -694,14 +1168,29 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="popplio popplio">
 {{#include ./pokemon/popplio.md}}
 </div>
+<div class="lookup-card" data-name="primal groudon primal-groudon">
+{{#include ./pokemon/primal-groudon.md}}
+</div>
+<div class="lookup-card" data-name="primal kyogre primal-kyogre">
+{{#include ./pokemon/primal-kyogre.md}}
+</div>
+<div class="lookup-card" data-name="primarina primarina">
+{{#include ./pokemon/primarina.md}}
+</div>
 <div class="lookup-card" data-name="primeape primeape">
 {{#include ./pokemon/primeape.md}}
+</div>
+<div class="lookup-card" data-name="probopass probopass">
+{{#include ./pokemon/probopass.md}}
 </div>
 <div class="lookup-card" data-name="psyduck psyduck">
 {{#include ./pokemon/psyduck.md}}
 </div>
 <div class="lookup-card" data-name="pumpkaboo pumpkaboo">
 {{#include ./pokemon/pumpkaboo.md}}
+</div>
+<div class="lookup-card" data-name="pupitar pupitar">
+{{#include ./pokemon/pupitar.md}}
 </div>
 <div class="lookup-card" data-name="pyroar♀ pyroar-f">
 {{#include ./pokemon/pyroar-f.md}}
@@ -712,17 +1201,41 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="quagsire quagsire">
 {{#include ./pokemon/quagsire.md}}
 </div>
+<div class="lookup-card" data-name="quaquaval quaquaval">
+{{#include ./pokemon/quaquaval.md}}
+</div>
 <div class="lookup-card" data-name="quaxly quaxly">
 {{#include ./pokemon/quaxly.md}}
+</div>
+<div class="lookup-card" data-name="quaxwell quaxwell">
+{{#include ./pokemon/quaxwell.md}}
+</div>
+<div class="lookup-card" data-name="quilava quilava">
+{{#include ./pokemon/quilava.md}}
+</div>
+<div class="lookup-card" data-name="quilladin quilladin">
+{{#include ./pokemon/quilladin.md}}
+</div>
+<div class="lookup-card" data-name="raging bolt raging-bolt">
+{{#include ./pokemon/raging-bolt.md}}
 </div>
 <div class="lookup-card" data-name="raichu raichu">
 {{#include ./pokemon/raichu.md}}
 </div>
+<div class="lookup-card" data-name="raikou raikou">
+{{#include ./pokemon/raikou.md}}
+</div>
 <div class="lookup-card" data-name="ralts ralts">
 {{#include ./pokemon/ralts.md}}
 </div>
+<div class="lookup-card" data-name="rampardos rampardos">
+{{#include ./pokemon/rampardos.md}}
+</div>
 <div class="lookup-card" data-name="rapidash rapidash">
 {{#include ./pokemon/rapidash.md}}
+</div>
+<div class="lookup-card" data-name="rayquaza rayquaza">
+{{#include ./pokemon/rayquaza.md}}
 </div>
 <div class="lookup-card" data-name="relicanth relicanth">
 {{#include ./pokemon/relicanth.md}}
@@ -748,11 +1261,20 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="salandit salandit">
 {{#include ./pokemon/salandit.md}}
 </div>
+<div class="lookup-card" data-name="salazzle salazzle">
+{{#include ./pokemon/salazzle.md}}
+</div>
 <div class="lookup-card" data-name="sandile sandile">
 {{#include ./pokemon/sandile.md}}
 </div>
 <div class="lookup-card" data-name="sandshrew sandshrew">
 {{#include ./pokemon/sandshrew.md}}
+</div>
+<div class="lookup-card" data-name="sandslash sandslash">
+{{#include ./pokemon/sandslash.md}}
+</div>
+<div class="lookup-card" data-name="scizor scizor">
+{{#include ./pokemon/scizor.md}}
 </div>
 <div class="lookup-card" data-name="scrafty scrafty">
 {{#include ./pokemon/scrafty.md}}
@@ -775,6 +1297,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="shellder shellder">
 {{#include ./pokemon/shellder.md}}
 </div>
+<div class="lookup-card" data-name="shieldon shieldon">
+{{#include ./pokemon/shieldon.md}}
+</div>
 <div class="lookup-card" data-name="shroodle shroodle">
 {{#include ./pokemon/shroodle.md}}
 </div>
@@ -787,8 +1312,23 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="silcoon silcoon">
 {{#include ./pokemon/silcoon.md}}
 </div>
+<div class="lookup-card" data-name="silvally silvally">
+{{#include ./pokemon/silvally.md}}
+</div>
+<div class="lookup-card" data-name="simipour simipour">
+{{#include ./pokemon/simipour.md}}
+</div>
+<div class="lookup-card" data-name="simisage simisage">
+{{#include ./pokemon/simisage.md}}
+</div>
+<div class="lookup-card" data-name="simisear simisear">
+{{#include ./pokemon/simisear.md}}
+</div>
 <div class="lookup-card" data-name="sizzlipede sizzlipede">
 {{#include ./pokemon/sizzlipede.md}}
+</div>
+<div class="lookup-card" data-name="skeledirge skeledirge">
+{{#include ./pokemon/skeledirge.md}}
 </div>
 <div class="lookup-card" data-name="skiddo skiddo">
 {{#include ./pokemon/skiddo.md}}
@@ -805,11 +1345,14 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="skuntank skuntank">
 {{#include ./pokemon/skuntank.md}}
 </div>
-<div class="lookup-card" data-name="sliggoo sligoo">
-{{#include ./pokemon/sligoo.md}}
+<div class="lookup-card" data-name="sliggoo sliggoo">
+{{#include ./pokemon/sliggoo.md}}
 </div>
 <div class="lookup-card" data-name="sneasel sneasel">
 {{#include ./pokemon/sneasel.md}}
+</div>
+<div class="lookup-card" data-name="sneasler sneasler">
+{{#include ./pokemon/sneasler.md}}
 </div>
 <div class="lookup-card" data-name="snom snom">
 {{#include ./pokemon/snom.md}}
@@ -826,8 +1369,14 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="spheal spheal">
 {{#include ./pokemon/spheal.md}}
 </div>
+<div class="lookup-card" data-name="spiky-eared pichu spiky-eared-pichu">
+{{#include ./pokemon/spiky-eared-pichu.md}}
+</div>
 <div class="lookup-card" data-name="spinarak spinarak">
 {{#include ./pokemon/spinarak.md}}
+</div>
+<div class="lookup-card" data-name="spiritomb spiritomb">
+{{#include ./pokemon/spiritomb.md}}
 </div>
 <div class="lookup-card" data-name="sprigatito sprigatito">
 {{#include ./pokemon/sprigatito.md}}
@@ -835,14 +1384,23 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="stantler stantler">
 {{#include ./pokemon/stantler.md}}
 </div>
+<div class="lookup-card" data-name="steelix steelix">
+{{#include ./pokemon/steelix.md}}
+</div>
 <div class="lookup-card" data-name="steenee steenee">
 {{#include ./pokemon/steenee.md}}
+</div>
+<div class="lookup-card" data-name="stoutland stoutland">
+{{#include ./pokemon/stoutland.md}}
 </div>
 <div class="lookup-card" data-name="stufful stufful">
 {{#include ./pokemon/stufful.md}}
 </div>
 <div class="lookup-card" data-name="stunky stunky">
 {{#include ./pokemon/stunky.md}}
+</div>
+<div class="lookup-card" data-name="suicune suicune">
+{{#include ./pokemon/suicune.md}}
 </div>
 <div class="lookup-card" data-name="swablu swablu">
 {{#include ./pokemon/swablu.md}}
@@ -853,17 +1411,14 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="swinub swinub">
 {{#include ./pokemon/swinub.md}}
 </div>
+<div class="lookup-card" data-name="swoobat swoobat">
+{{#include ./pokemon/swoobat.md}}
+</div>
+<div class="lookup-card" data-name="sylveon sylveon">
+{{#include ./pokemon/sylveon.md}}
+</div>
 <div class="lookup-card" data-name="tauros tauros">
 {{#include ./pokemon/tauros.md}}
-</div>
-<div class="lookup-card" data-name="tauros tauros-aqua-breed">
-{{#include ./pokemon/tauros-aqua-breed.md}}
-</div>
-<div class="lookup-card" data-name="tauros tauros-blaze-breed">
-{{#include ./pokemon/tauros-blaze-breed.md}}
-</div>
-<div class="lookup-card" data-name="tauros tauros-combat-breed">
-{{#include ./pokemon/tauros-combat-breed.md}}
 </div>
 <div class="lookup-card" data-name="tentacool tentacool">
 {{#include ./pokemon/tentacool.md}}
@@ -876,6 +1431,9 @@ Type to filter and reveal a matching Pokémon card.
 </div>
 <div class="lookup-card" data-name="tinkatink tinkatink">
 {{#include ./pokemon/tinkatink.md}}
+</div>
+<div class="lookup-card" data-name="tinkaton tinkaton">
+{{#include ./pokemon/tinkaton.md}}
 </div>
 <div class="lookup-card" data-name="tinkatuff tinkatuff">
 {{#include ./pokemon/tinkatuff.md}}
@@ -892,6 +1450,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="togedemaru togedemaru">
 {{#include ./pokemon/togedemaru.md}}
 </div>
+<div class="lookup-card" data-name="togekiss togekiss">
+{{#include ./pokemon/togekiss.md}}
+</div>
 <div class="lookup-card" data-name="togepi togepi">
 {{#include ./pokemon/togepi.md}}
 </div>
@@ -900,6 +1461,9 @@ Type to filter and reveal a matching Pokémon card.
 </div>
 <div class="lookup-card" data-name="torkoal torkoal">
 {{#include ./pokemon/torkoal.md}}
+</div>
+<div class="lookup-card" data-name="torracat torracat">
+{{#include ./pokemon/torracat.md}}
 </div>
 <div class="lookup-card" data-name="totodile totodile">
 {{#include ./pokemon/totodile.md}}
@@ -916,14 +1480,41 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="trumbeak trumbeak">
 {{#include ./pokemon/trumbeak.md}}
 </div>
+<div class="lookup-card" data-name="tsareena tsareena">
+{{#include ./pokemon/tsareena.md}}
+</div>
+<div class="lookup-card" data-name="type: null type-null">
+{{#include ./pokemon/type-null.md}}
+</div>
+<div class="lookup-card" data-name="typhlosion typhlosion">
+{{#include ./pokemon/typhlosion.md}}
+</div>
+<div class="lookup-card" data-name="tyranitar tyranitar">
+{{#include ./pokemon/tyranitar.md}}
+</div>
+<div class="lookup-card" data-name="tyrantrum tyrantrum">
+{{#include ./pokemon/tyrantrum.md}}
+</div>
 <div class="lookup-card" data-name="tyrunt tyrunt">
 {{#include ./pokemon/tyrunt.md}}
 </div>
-<div class="lookup-card" data-name="basculin red unovan-basculin">
-{{#include ./pokemon/unovan-basculin.md}}
+<div class="lookup-card" data-name="umbreon umbreon">
+{{#include ./pokemon/umbreon.md}}
+</div>
+<div class="lookup-card" data-name="unown unown">
+{{#include ./pokemon/unown.md}}
+</div>
+<div class="lookup-card" data-name="vaporeon vaporeon">
+{{#include ./pokemon/vaporeon.md}}
+</div>
+<div class="lookup-card" data-name="vibrava vibrava">
+{{#include ./pokemon/vibrava.md}}
 </div>
 <div class="lookup-card" data-name="victreebel victreebel">
 {{#include ./pokemon/victreebel.md}}
+</div>
+<div class="lookup-card" data-name="vikavolt vikavolt">
+{{#include ./pokemon/vikavolt.md}}
 </div>
 <div class="lookup-card" data-name="voltorb voltorb">
 {{#include ./pokemon/voltorb.md}}
@@ -937,17 +1528,26 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="wailmer wailmer">
 {{#include ./pokemon/wailmer.md}}
 </div>
+<div class="lookup-card" data-name="wailord wailord">
+{{#include ./pokemon/wailord.md}}
+</div>
+<div class="lookup-card" data-name="walking wake walking-wake">
+{{#include ./pokemon/walking-wake.md}}
+</div>
+<div class="lookup-card" data-name="walrein walrein">
+{{#include ./pokemon/walrein.md}}
+</div>
 <div class="lookup-card" data-name="wattrel wattrel">
 {{#include ./pokemon/wattrel.md}}
+</div>
+<div class="lookup-card" data-name="weavile weavile">
+{{#include ./pokemon/weavile.md}}
 </div>
 <div class="lookup-card" data-name="weepinbell weepinbell">
 {{#include ./pokemon/weepinbell.md}}
 </div>
 <div class="lookup-card" data-name="whiscash whiscash">
 {{#include ./pokemon/whiscash.md}}
-</div>
-<div class="lookup-card" data-name="basculin white white-striped-basculin">
-{{#include ./pokemon/white-striped-basculin.md}}
 </div>
 <div class="lookup-card" data-name="wigglytuff wigglytuff">
 {{#include ./pokemon/wigglytuff.md}}
@@ -967,6 +1567,9 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="wurmple wurmple">
 {{#include ./pokemon/wurmple.md}}
 </div>
+<div class="lookup-card" data-name="wyrdeer wyrdeer">
+{{#include ./pokemon/wyrdeer.md}}
+</div>
 <div class="lookup-card" data-name="xatu xatu">
 {{#include ./pokemon/xatu.md}}
 </div>
@@ -979,14 +1582,17 @@ Type to filter and reveal a matching Pokémon card.
 <div class="lookup-card" data-name="yanmega yanmega">
 {{#include ./pokemon/yanmega.md}}
 </div>
+<div class="lookup-card" data-name="zebstrika zebstrika">
+{{#include ./pokemon/zebstrika.md}}
+</div>
 <div class="lookup-card" data-name="zigzagoon zigzagoon">
 {{#include ./pokemon/zigzagoon.md}}
 </div>
+<div class="lookup-card" data-name="zoroark zoroark">
+{{#include ./pokemon/zoroark.md}}
+</div>
 <div class="lookup-card" data-name="zorua zorua">
 {{#include ./pokemon/zorua.md}}
-</div>
-<div class="lookup-card" data-name="zorua zorua-hisuian">
-{{#include ./pokemon/zorua-hisuian.md}}
 </div>
 </div>
 

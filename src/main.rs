@@ -134,18 +134,10 @@ fn main() -> Result<()> {
         }
         Command::Encounters { area_id } => render_encounters(cli.encounters_json, area_id)?,
         Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
-        Command::EggGroups { out } => {
-            render_egg_groups(cli.pokedex_json.clone(), cli.encounters_json, out)?
-        }
-        Command::MoveCatalog { out } => {
-            render_move_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
-        }
-        Command::AbilityCatalog { out } => {
-            render_ability_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
-        }
-        Command::PokemonLookup { out } => {
-            render_pokemon_lookup(cli.pokedex_json.clone(), cli.encounters_json, out)?
-        }
+        Command::EggGroups { out } => render_egg_groups(cli.pokedex_json.clone(), out)?,
+        Command::MoveCatalog { out } => render_move_catalog(cli.pokedex_json.clone(), out)?,
+        Command::AbilityCatalog { out } => render_ability_catalog(cli.pokedex_json.clone(), out)?,
+        Command::PokemonLookup { out } => render_pokemon_lookup(cli.pokedex_json.clone(), out)?,
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
         Command::All {
@@ -162,26 +154,10 @@ fn main() -> Result<()> {
                 cards_out,
             )?;
             render_all_encounters(cli.encounters_json.clone(), encounters_out)?;
-            render_move_catalog(
-                cli.pokedex_json.clone(),
-                cli.encounters_json.clone(),
-                move_out,
-            )?;
-            render_ability_catalog(
-                cli.pokedex_json.clone(),
-                cli.encounters_json.clone(),
-                ability_out,
-            )?;
-            render_egg_groups(
-                cli.pokedex_json.clone(),
-                cli.encounters_json.clone(),
-                eggs_out,
-            )?;
-            render_pokemon_lookup(
-                cli.pokedex_json.clone(),
-                cli.encounters_json.clone(),
-                lookup_out,
-            )?;
+            render_move_catalog(cli.pokedex_json.clone(), move_out)?;
+            render_ability_catalog(cli.pokedex_json.clone(), ability_out)?;
+            render_egg_groups(cli.pokedex_json.clone(), eggs_out)?;
+            render_pokemon_lookup(cli.pokedex_json.clone(), lookup_out)?;
         }
     }
     Ok(())
@@ -365,17 +341,11 @@ fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
     Ok(())
 }
 
-fn render_move_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+fn render_move_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
-    let species = encounters::list_species(&manifest)?;
     let mut catalog: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
 
-    for name in species {
-        let Some((entry, _slug)) = find_entry(&dex, &name) else {
-            eprintln!("Skipped move catalog entry for {name}; not found in dex");
-            continue;
-        };
-
+    for entry in dex.all_entries() {
         for mv in &entry.level_up_moves {
             let method = if mv.level.trim().is_empty() {
                 "Level".to_string()
@@ -435,17 +405,11 @@ fn render_move_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -
     Ok(())
 }
 
-fn render_ability_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+fn render_ability_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
-    let species = encounters::list_species(&manifest)?;
     let mut catalog: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
 
-    for name in species {
-        let Some((entry, _)) = find_entry(&dex, &name) else {
-            eprintln!("Skipped ability catalog entry for {name}; not found in dex");
-            continue;
-        };
-
+    for entry in dex.all_entries() {
         if let Some(primary) = non_empty(&entry.abilities.primary) {
             catalog
                 .entry(primary.to_string())
@@ -482,19 +446,11 @@ fn render_ability_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf
     Ok(())
 }
 
-fn render_pokemon_lookup(
-    pokedex_path: PathBuf,
-    manifest: PathBuf,
-    out_path: PathBuf,
-) -> Result<()> {
+fn render_pokemon_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
-    let species = encounters::list_species(&manifest)?;
     let mut entries = Vec::new();
-    for name in species {
-        let slug = encounters::slugify(&name);
-        if let Some((entry, _)) = find_entry(&dex, &name) {
-            entries.push((entry.name.clone(), slug));
-        }
+    for entry in dex.all_entries() {
+        entries.push((entry.name.clone(), entry.slug.clone()));
     }
     entries.sort_by(|a, b| a.1.cmp(&b.1));
     let total_entries = entries.len();
@@ -520,17 +476,11 @@ fn render_pokemon_lookup(
     Ok(())
 }
 
-fn render_egg_groups(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+fn render_egg_groups(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
-    let species_list = encounters::list_species(&manifest)?;
     let mut groups: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
-    for name in species_list {
-        let Some((entry, used_slug)) = find_entry(&dex, &name) else {
-            eprintln!("Skipped egg group lookup for {name}; species not found");
-            continue;
-        };
-
-        let slug = used_slug;
+    for entry in dex.all_entries() {
+        let slug = entry.slug.clone();
         let display = entry.name.clone();
         for group in &entry.egg_groups {
             let label = format_egg_group(group);
@@ -548,7 +498,7 @@ fn render_egg_groups(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> 
 
     let mut buf = String::new();
     buf.push_str("# Egg Groups\n\n");
-    buf.push_str("Pokémon appearing in the Lazarus encounters grouped by egg group.\n\n");
+    buf.push_str("Pokémon available in Lazarus grouped by egg group.\n\n");
     buf.push_str("<div class=\"egg-group-grid\">\n");
     for (group, entries) in groups {
         buf.push_str("<div class=\"egg-group-section\">\n");

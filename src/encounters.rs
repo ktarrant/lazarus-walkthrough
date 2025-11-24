@@ -1,7 +1,7 @@
 use anyhow::{Context, Result, anyhow};
 use serde::Deserialize;
 use serde_json::Value;
-use std::collections::{BTreeMap, BTreeSet, HashMap, HashSet};
+use std::collections::{BTreeMap, BTreeSet, HashMap};
 use std::fs;
 use std::path::PathBuf;
 
@@ -355,45 +355,6 @@ pub fn list_locations(path: &PathBuf) -> Result<Vec<String>> {
     let mut names: Vec<String> = obj.keys().cloned().collect();
     names.sort();
     Ok(names)
-}
-
-pub fn list_species(path: &PathBuf) -> Result<Vec<String>> {
-    let file = fs::File::open(path)
-        .with_context(|| format!("opening encounter manifest {}", path.display()))?;
-    let value: Value =
-        serde_json::from_reader(file).with_context(|| format!("decoding {}", path.display()))?;
-
-    let mut species_set: HashSet<String> = HashSet::new();
-
-    if value.get("locations").is_some() {
-        let manifest: EncounterManifest = serde_json::from_value(value)?;
-        for loc in manifest.locations {
-            for entries in loc.methods.values() {
-                for entry in entries {
-                    species_set.insert(entry.pokemon.clone());
-                }
-            }
-        }
-    } else if let Some(obj) = value.as_object() {
-        for loc in obj.values() {
-            if let Some(methods) = loc.as_object() {
-                for entries_val in methods.values() {
-                    if let Some(arr) = entries_val.as_array() {
-                        for entry_val in arr {
-                            if let Some(pokemon) = entry_val.get("Pokemon").and_then(|v| v.as_str())
-                            {
-                                species_set.insert(pokemon.to_string());
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-
-    let mut list: Vec<String> = species_set.into_iter().collect();
-    list.sort();
-    Ok(list)
 }
 
 #[derive(Debug, Clone, Default)]

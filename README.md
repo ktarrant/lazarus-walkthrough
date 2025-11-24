@@ -104,8 +104,8 @@ Include these pages anywhere in the walkthrough via
 
 ### Egg group reference
 
-Generate a Markdown index that lists every egg group represented in the encounter
-data and links to the Pokémon cards for each species:
+Generate a Markdown index that lists every egg group in the custom Pokédex and
+links to the Pokémon cards for each species:
 
 ```sh
 cargo run -- egg-groups --out book/src/egg-groups.md
