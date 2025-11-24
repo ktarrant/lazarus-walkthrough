@@ -7,16 +7,6 @@ Pokédex initiative across the Lazarus region.
 
 Inside the annex you’ll choose one of nine Lazarus starters:
 
-- Popplio
-- Rowlet
-- Froakie
-- Chespin
-- Litten
-- Quaxly
-- Fennekin
-- Sprigatito
-- Fuecoco
-
 {{#include ./pokemon/popplio.md}}
 
 {{#include ./pokemon/rowlet.md}}
@@ -44,10 +34,10 @@ and down.
 **University Student Reward (Acrisia City):** 15 Nest Balls.
 
 ## Bronze Fields
-Catch Pokemon and fight trainers on this path.
-On the way, you will find the delivery man being attacked and help him.
+- Catch Pokemon and fight trainers on this path.
+- On the way, you will find the delivery man being attacked and help him.
 Once you win, you can bring the package back to the Prof.
-When you have returned the package, you can continue south to Jusmail Town.
+- When you have returned the package, you can continue south to Jusmail Town.
 
 {{#include ./encounters/bronze-fields-north.md}}
 

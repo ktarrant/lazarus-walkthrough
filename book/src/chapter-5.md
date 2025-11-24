@@ -7,15 +7,11 @@ You can use Rock Smash to finally get that item at the middle of Acrisia City.
 
 ## Through Jusmail Town
 Head south to Bronze Fields.
-There's also an item to get in Bronze Fields.
+There's also an item blocked by smashable rocks to get in Bronze Fields.
 Then in Jusmail Town, head through the south exit that is blocked by smashable rocks.
 
 ## Wanderer's Woods
 
-Wanderer's Woods has some good Pokemon.
-Some notable ones are Applin, Natu, and Chikorita.
-Natu is especially useful to obtain Synchronize which can be used for catching
-strong Pokemon.
 On your way through the woods, you will have another run-in with Team Chimera.
 
 {{#include ./encounters/wanderers-woods-north.md}}
