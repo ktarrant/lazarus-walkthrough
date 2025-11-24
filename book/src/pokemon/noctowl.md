@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Noctowl (#142)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-noctowl">
 <input type="radio" name="pokemon-tabs-noctowl-group" id="pokemon-tabs-noctowl-tab-0">

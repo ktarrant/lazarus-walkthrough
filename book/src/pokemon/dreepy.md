@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dreepy (#269)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dreepy">
 <input type="radio" name="pokemon-tabs-dreepy-group" id="pokemon-tabs-dreepy-tab-0" checked>

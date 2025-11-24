@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Parasect (#052)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-parasect">
 <input type="radio" name="pokemon-tabs-parasect-group" id="pokemon-tabs-parasect-tab-0">

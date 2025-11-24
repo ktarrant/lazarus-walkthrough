@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Fomantis (#344)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-fomantis">
 <input type="radio" name="pokemon-tabs-fomantis-group" id="pokemon-tabs-fomantis-tab-0" checked>

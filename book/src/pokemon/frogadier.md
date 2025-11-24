@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Frogadier (#017)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-frogadier">
 <input type="radio" name="pokemon-tabs-frogadier-group" id="pokemon-tabs-frogadier-tab-0">

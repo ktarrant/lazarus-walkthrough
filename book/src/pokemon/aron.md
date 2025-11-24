@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Aron (#111)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aron">
 <input type="radio" name="pokemon-tabs-aron-group" id="pokemon-tabs-aron-tab-0" checked>

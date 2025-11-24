@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Zigzagoon (#348)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-zigzagoon">
 <input type="radio" name="pokemon-tabs-zigzagoon-group" id="pokemon-tabs-zigzagoon-tab-0" checked>

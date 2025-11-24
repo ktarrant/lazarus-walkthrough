@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Basculegion♂ (#288)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-basculegion-m">
 <input type="radio" name="pokemon-tabs-basculegion-m-group" id="pokemon-tabs-basculegion-m-tab-0">

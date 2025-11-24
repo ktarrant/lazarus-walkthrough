@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Silcoon (#074)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-silcoon">
 <input type="radio" name="pokemon-tabs-silcoon-group" id="pokemon-tabs-silcoon-tab-0">

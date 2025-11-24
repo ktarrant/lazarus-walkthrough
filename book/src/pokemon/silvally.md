@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Silvally (#413)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-silvally">
 <input type="radio" name="pokemon-tabs-silvally-group" id="pokemon-tabs-silvally-tab-0">

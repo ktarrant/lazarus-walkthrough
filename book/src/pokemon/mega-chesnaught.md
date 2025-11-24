@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Chesnaught (#012)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-chesnaught">
 <input type="radio" name="pokemon-tabs-mega-chesnaught-group" id="pokemon-tabs-mega-chesnaught-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Spiky-Eared Pichu (#248)</summary>
 Types: Electric • Egg Groups: -
 

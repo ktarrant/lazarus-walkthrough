@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mienshao (#144)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mienshao">
 <input type="radio" name="pokemon-tabs-mienshao-group" id="pokemon-tabs-mienshao-tab-0">

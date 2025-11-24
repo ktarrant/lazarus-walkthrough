@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Clamperl (#309)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-clamperl">
 <input type="radio" name="pokemon-tabs-clamperl-group" id="pokemon-tabs-clamperl-tab-0" checked>

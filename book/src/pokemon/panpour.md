@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Panpour (#032)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-panpour">
 <input type="radio" name="pokemon-tabs-panpour-group" id="pokemon-tabs-panpour-tab-0" checked>

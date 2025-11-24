@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mudsdale (#060)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mudsdale">
 <input type="radio" name="pokemon-tabs-mudsdale-group" id="pokemon-tabs-mudsdale-tab-0">

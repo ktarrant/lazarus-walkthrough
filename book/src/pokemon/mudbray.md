@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mudbray (#059)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mudbray">
 <input type="radio" name="pokemon-tabs-mudbray-group" id="pokemon-tabs-mudbray-tab-0" checked>

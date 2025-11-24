@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ralts (#079)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ralts">
 <input type="radio" name="pokemon-tabs-ralts-group" id="pokemon-tabs-ralts-tab-0" checked>

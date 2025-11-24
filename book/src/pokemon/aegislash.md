@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Aegislash (#151)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aegislash">
 <input type="radio" name="pokemon-tabs-aegislash-group" id="pokemon-tabs-aegislash-tab-0">

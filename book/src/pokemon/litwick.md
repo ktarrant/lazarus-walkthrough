@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Litwick (#299)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-litwick">
 <input type="radio" name="pokemon-tabs-litwick-group" id="pokemon-tabs-litwick-tab-0" checked>

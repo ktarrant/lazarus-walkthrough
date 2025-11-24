@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Primal Kyogre (#427)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-primal-kyogre">
 <input type="radio" name="pokemon-tabs-primal-kyogre-group" id="pokemon-tabs-primal-kyogre-tab-0">

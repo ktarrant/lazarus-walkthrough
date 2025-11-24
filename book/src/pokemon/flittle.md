@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Flittle (#145)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flittle">
 <input type="radio" name="pokemon-tabs-flittle-group" id="pokemon-tabs-flittle-tab-0" checked>

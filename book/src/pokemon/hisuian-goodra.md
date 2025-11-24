@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Goodra (#353)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-goodra">
 <input type="radio" name="pokemon-tabs-hisuian-goodra-group" id="pokemon-tabs-hisuian-goodra-tab-0">

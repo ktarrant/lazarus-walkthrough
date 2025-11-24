@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Suicune (#425)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-suicune">
 <input type="radio" name="pokemon-tabs-suicune-group" id="pokemon-tabs-suicune-tab-0" checked>

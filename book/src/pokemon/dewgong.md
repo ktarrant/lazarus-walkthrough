@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dewgong (#193)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dewgong">
 <input type="radio" name="pokemon-tabs-dewgong-group" id="pokemon-tabs-dewgong-tab-0">

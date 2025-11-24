@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gothitelle (#295)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gothitelle">
 <input type="radio" name="pokemon-tabs-gothitelle-group" id="pokemon-tabs-gothitelle-tab-0">

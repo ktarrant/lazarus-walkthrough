@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Murkrow (#094)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-murkrow">
 <input type="radio" name="pokemon-tabs-murkrow-group" id="pokemon-tabs-murkrow-tab-0" checked>

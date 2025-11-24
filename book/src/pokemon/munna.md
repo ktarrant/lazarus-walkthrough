@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Munna (#339)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-munna">
 <input type="radio" name="pokemon-tabs-munna-group" id="pokemon-tabs-munna-tab-0" checked>

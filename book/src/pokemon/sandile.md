@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Sandile (#099)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sandile">
 <input type="radio" name="pokemon-tabs-sandile-group" id="pokemon-tabs-sandile-tab-0" checked>

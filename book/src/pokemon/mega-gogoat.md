@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Gogoat (#093)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-gogoat">
 <input type="radio" name="pokemon-tabs-mega-gogoat-group" id="pokemon-tabs-mega-gogoat-tab-0">

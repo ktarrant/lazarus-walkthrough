@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Aggron (#113)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-aggron">
 <input type="radio" name="pokemon-tabs-mega-aggron-group" id="pokemon-tabs-mega-aggron-tab-0">

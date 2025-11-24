@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Florges (#314)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-florges">
 <input type="radio" name="pokemon-tabs-florges-group" id="pokemon-tabs-florges-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kirlia (#080)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kirlia">
 <input type="radio" name="pokemon-tabs-kirlia-group" id="pokemon-tabs-kirlia-tab-0">

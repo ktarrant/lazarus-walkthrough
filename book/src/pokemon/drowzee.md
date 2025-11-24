@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Drowzee (#283)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-drowzee">
 <input type="radio" name="pokemon-tabs-drowzee-group" id="pokemon-tabs-drowzee-tab-0" checked>

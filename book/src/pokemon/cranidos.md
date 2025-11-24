@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cranidos (#226)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cranidos">
 <input type="radio" name="pokemon-tabs-cranidos-group" id="pokemon-tabs-cranidos-tab-0" checked>

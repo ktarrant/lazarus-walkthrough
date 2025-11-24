@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Espathra (#146)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-espathra">
 <input type="radio" name="pokemon-tabs-espathra-group" id="pokemon-tabs-espathra-tab-0">

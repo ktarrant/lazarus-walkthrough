@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Tinkaton (#328)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-tinkaton">
 <input type="radio" name="pokemon-tabs-mega-tinkaton-group" id="pokemon-tabs-mega-tinkaton-tab-0">

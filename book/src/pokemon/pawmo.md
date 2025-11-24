@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pawmo (#234)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pawmo">
 <input type="radio" name="pokemon-tabs-pawmo-group" id="pokemon-tabs-pawmo-tab-0">

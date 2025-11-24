@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Onix (#179)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-onix">
 <input type="radio" name="pokemon-tabs-onix-group" id="pokemon-tabs-onix-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Clawitzer (#263)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-clawitzer">
 <input type="radio" name="pokemon-tabs-clawitzer-group" id="pokemon-tabs-clawitzer-tab-0">

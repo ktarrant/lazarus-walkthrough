@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Palafin (#163)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-palafin">
 <input type="radio" name="pokemon-tabs-palafin-group" id="pokemon-tabs-palafin-tab-0">

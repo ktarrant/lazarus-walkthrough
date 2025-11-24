@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Umbreon (#088)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-umbreon">
 <input type="radio" name="pokemon-tabs-umbreon-group" id="pokemon-tabs-umbreon-tab-0">

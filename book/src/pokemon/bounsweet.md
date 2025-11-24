@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bounsweet (#131)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bounsweet">
 <input type="radio" name="pokemon-tabs-bounsweet-group" id="pokemon-tabs-bounsweet-tab-0" checked>

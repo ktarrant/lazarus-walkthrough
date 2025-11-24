@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Swablu (#358)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-swablu">
 <input type="radio" name="pokemon-tabs-swablu-group" id="pokemon-tabs-swablu-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Golisopod (#247)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-golisopod">
 <input type="radio" name="pokemon-tabs-golisopod-group" id="pokemon-tabs-golisopod-tab-0">

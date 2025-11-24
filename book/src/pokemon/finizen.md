@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Finizen (#162)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-finizen">
 <input type="radio" name="pokemon-tabs-finizen-group" id="pokemon-tabs-finizen-tab-0" checked>

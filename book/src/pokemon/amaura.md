@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Amaura (#205)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-amaura">
 <input type="radio" name="pokemon-tabs-amaura-group" id="pokemon-tabs-amaura-tab-0" checked>

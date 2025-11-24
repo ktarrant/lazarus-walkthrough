@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Poliwag (#118)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-poliwag">
 <input type="radio" name="pokemon-tabs-poliwag-group" id="pokemon-tabs-poliwag-tab-0" checked>

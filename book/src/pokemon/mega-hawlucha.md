@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Hawlucha (#223)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-hawlucha">
 <input type="radio" name="pokemon-tabs-mega-hawlucha-group" id="pokemon-tabs-mega-hawlucha-tab-0">

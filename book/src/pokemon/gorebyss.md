@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gorebyss (#311)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gorebyss">
 <input type="radio" name="pokemon-tabs-gorebyss-group" id="pokemon-tabs-gorebyss-tab-0">

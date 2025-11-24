@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Armarouge (#303)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-armarouge">
 <input type="radio" name="pokemon-tabs-armarouge-group" id="pokemon-tabs-armarouge-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Doduo (#324)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-doduo">
 <input type="radio" name="pokemon-tabs-doduo-group" id="pokemon-tabs-doduo-tab-0" checked>

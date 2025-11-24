@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Rampardos (#227)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-rampardos">
 <input type="radio" name="pokemon-tabs-rampardos-group" id="pokemon-tabs-rampardos-tab-0">

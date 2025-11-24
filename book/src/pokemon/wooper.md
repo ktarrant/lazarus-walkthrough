@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wooper (#134)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wooper">
 <input type="radio" name="pokemon-tabs-wooper-group" id="pokemon-tabs-wooper-tab-0" checked>

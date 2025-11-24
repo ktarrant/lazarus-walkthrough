@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Arbok (#286)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-arbok">
 <input type="radio" name="pokemon-tabs-arbok-group" id="pokemon-tabs-arbok-tab-0">

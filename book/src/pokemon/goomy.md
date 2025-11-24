@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Goomy (#351)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-goomy">
 <input type="radio" name="pokemon-tabs-goomy-group" id="pokemon-tabs-goomy-tab-0" checked>

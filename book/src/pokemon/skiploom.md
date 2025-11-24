@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Skiploom (#043)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-skiploom">
 <input type="radio" name="pokemon-tabs-skiploom-group" id="pokemon-tabs-skiploom-tab-0">

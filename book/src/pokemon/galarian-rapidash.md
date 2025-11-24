@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Galarian Rapidash (#253)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-galarian-rapidash">
 <input type="radio" name="pokemon-tabs-galarian-rapidash-group" id="pokemon-tabs-galarian-rapidash-tab-0">

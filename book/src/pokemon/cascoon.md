@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cascoon (#076)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cascoon">
 <input type="radio" name="pokemon-tabs-cascoon-group" id="pokemon-tabs-cascoon-tab-0">

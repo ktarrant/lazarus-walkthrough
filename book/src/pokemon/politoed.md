@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Politoed (#121)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-politoed">
 <input type="radio" name="pokemon-tabs-politoed-group" id="pokemon-tabs-politoed-tab-0">

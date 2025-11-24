@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Sizzlipede (#224)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sizzlipede">
 <input type="radio" name="pokemon-tabs-sizzlipede-group" id="pokemon-tabs-sizzlipede-tab-0" checked>

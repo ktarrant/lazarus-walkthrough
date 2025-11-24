@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Stunky (#240)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-stunky">
 <input type="radio" name="pokemon-tabs-stunky-group" id="pokemon-tabs-stunky-tab-0" checked>

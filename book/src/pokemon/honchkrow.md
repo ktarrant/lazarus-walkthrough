@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Honchkrow (#095)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-honchkrow">
 <input type="radio" name="pokemon-tabs-honchkrow-group" id="pokemon-tabs-honchkrow-tab-0">

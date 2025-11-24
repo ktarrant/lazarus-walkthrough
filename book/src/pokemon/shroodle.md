@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Shroodle (#236)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-shroodle">
 <input type="radio" name="pokemon-tabs-shroodle-group" id="pokemon-tabs-shroodle-tab-0" checked>

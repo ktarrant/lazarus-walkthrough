@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Magikarp (#342)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-magikarp">
 <input type="radio" name="pokemon-tabs-magikarp-group" id="pokemon-tabs-magikarp-tab-0" checked>

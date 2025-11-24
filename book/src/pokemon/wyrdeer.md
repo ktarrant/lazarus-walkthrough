@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wyrdeer (#185)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wyrdeer">
 <input type="radio" name="pokemon-tabs-wyrdeer-group" id="pokemon-tabs-wyrdeer-tab-0">

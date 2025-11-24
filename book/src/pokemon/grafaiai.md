@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Grafaiai (#237)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-grafaiai">
 <input type="radio" name="pokemon-tabs-grafaiai-group" id="pokemon-tabs-grafaiai-tab-0">

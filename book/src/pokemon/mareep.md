@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mareep (#061)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mareep">
 <input type="radio" name="pokemon-tabs-mareep-group" id="pokemon-tabs-mareep-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Electrode (#364)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-electrode">
 <input type="radio" name="pokemon-tabs-hisuian-electrode-group" id="pokemon-tabs-hisuian-electrode-tab-0">

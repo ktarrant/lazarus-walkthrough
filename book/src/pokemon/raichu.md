@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Raichu (#250)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-raichu">
 <input type="radio" name="pokemon-tabs-raichu-group" id="pokemon-tabs-raichu-tab-0">

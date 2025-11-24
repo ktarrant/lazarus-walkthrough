@@ -1608,6 +1608,14 @@ function presetFromUrl() {
     input.value = q;
   }
 }
+function expandAllDetails() {
+  for (const card of cards) {
+    const detail = card.querySelector('details.pokemon-card-container');
+    if (detail) {
+      detail.setAttribute('open', '');
+    }
+  }
+}
 function applyFilter() {
   const q = input.value.trim().toLowerCase();
   let shown = 0;
@@ -1625,6 +1633,7 @@ function applyFilter() {
   }
   status.textContent = q && shown === 0 ? 'No match found' : '';
 }
+expandAllDetails();
 presetFromUrl();
 applyFilter();
 input.addEventListener('input', applyFilter);

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mawile (#104)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mawile">
 <input type="radio" name="pokemon-tabs-mawile-group" id="pokemon-tabs-mawile-tab-0" checked>

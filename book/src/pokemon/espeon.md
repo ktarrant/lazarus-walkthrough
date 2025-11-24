@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Espeon (#087)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-espeon">
 <input type="radio" name="pokemon-tabs-espeon-group" id="pokemon-tabs-espeon-tab-0">

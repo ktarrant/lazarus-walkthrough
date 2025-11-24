@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Snorunt (#186)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-snorunt">
 <input type="radio" name="pokemon-tabs-snorunt-group" id="pokemon-tabs-snorunt-tab-0" checked>

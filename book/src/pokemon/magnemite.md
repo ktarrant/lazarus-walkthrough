@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Magnemite (#371)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-magnemite">
 <input type="radio" name="pokemon-tabs-magnemite-group" id="pokemon-tabs-magnemite-tab-0" checked>

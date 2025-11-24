@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Beartic (#375)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-beartic">
 <input type="radio" name="pokemon-tabs-beartic-group" id="pokemon-tabs-beartic-tab-0">

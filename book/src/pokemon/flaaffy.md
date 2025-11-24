@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Flaaffy (#062)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flaaffy">
 <input type="radio" name="pokemon-tabs-flaaffy-group" id="pokemon-tabs-flaaffy-tab-0">

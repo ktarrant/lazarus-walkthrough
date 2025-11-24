@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Typhlosion (#216)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-typhlosion">
 <input type="radio" name="pokemon-tabs-hisuian-typhlosion-group" id="pokemon-tabs-hisuian-typhlosion-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cubone (#057)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cubone">
 <input type="radio" name="pokemon-tabs-cubone-group" id="pokemon-tabs-cubone-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Braixen (#014)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-braixen">
 <input type="radio" name="pokemon-tabs-braixen-group" id="pokemon-tabs-braixen-tab-0">

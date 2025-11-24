@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Buizel (#238)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-buizel">
 <input type="radio" name="pokemon-tabs-buizel-group" id="pokemon-tabs-buizel-tab-0" checked>

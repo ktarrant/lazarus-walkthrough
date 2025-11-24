@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lanturn (#306)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lanturn">
 <input type="radio" name="pokemon-tabs-lanturn-group" id="pokemon-tabs-lanturn-tab-0">

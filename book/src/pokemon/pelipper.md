@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pelipper (#183)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pelipper">
 <input type="radio" name="pokemon-tabs-pelipper-group" id="pokemon-tabs-pelipper-tab-0">

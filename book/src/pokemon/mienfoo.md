@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mienfoo (#143)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mienfoo">
 <input type="radio" name="pokemon-tabs-mienfoo-group" id="pokemon-tabs-mienfoo-tab-0" checked>

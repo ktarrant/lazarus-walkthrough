@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dwebble (#152)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dwebble">
 <input type="radio" name="pokemon-tabs-dwebble-group" id="pokemon-tabs-dwebble-tab-0" checked>

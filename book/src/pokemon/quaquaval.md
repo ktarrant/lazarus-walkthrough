@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Quaquaval (#027)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-quaquaval">
 <input type="radio" name="pokemon-tabs-quaquaval-group" id="pokemon-tabs-quaquaval-tab-0">

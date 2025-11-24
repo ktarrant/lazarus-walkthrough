@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Paras (#051)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-paras">
 <input type="radio" name="pokemon-tabs-paras-group" id="pokemon-tabs-paras-tab-0" checked>

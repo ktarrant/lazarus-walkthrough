@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Numel (#334)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-numel">
 <input type="radio" name="pokemon-tabs-numel-group" id="pokemon-tabs-numel-tab-0" checked>

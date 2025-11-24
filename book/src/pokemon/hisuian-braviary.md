@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Braviary (#386)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-braviary">
 <input type="radio" name="pokemon-tabs-hisuian-braviary-group" id="pokemon-tabs-hisuian-braviary-tab-0">

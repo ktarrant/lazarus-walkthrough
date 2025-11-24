@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Psyduck (#378)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-psyduck">
 <input type="radio" name="pokemon-tabs-psyduck-group" id="pokemon-tabs-psyduck-tab-0" checked>

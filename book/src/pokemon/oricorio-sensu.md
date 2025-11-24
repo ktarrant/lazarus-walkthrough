@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Oricorio Sensu (#096)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-oricorio-sensu">
 <input type="radio" name="pokemon-tabs-oricorio-sensu-group" id="pokemon-tabs-oricorio-sensu-tab-0">

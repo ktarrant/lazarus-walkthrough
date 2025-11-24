@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Chikorita (#211)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-chikorita">
 <input type="radio" name="pokemon-tabs-chikorita-group" id="pokemon-tabs-chikorita-tab-0" checked>

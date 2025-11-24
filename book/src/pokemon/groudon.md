@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Groudon (#428)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-groudon">
 <input type="radio" name="pokemon-tabs-groudon-group" id="pokemon-tabs-groudon-tab-0" checked>

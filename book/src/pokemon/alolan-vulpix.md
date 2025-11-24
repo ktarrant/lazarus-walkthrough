@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Vulpix (#147)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-vulpix">
 <input type="radio" name="pokemon-tabs-alolan-vulpix-group" id="pokemon-tabs-alolan-vulpix-tab-0" checked>

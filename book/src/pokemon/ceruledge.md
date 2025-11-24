@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ceruledge (#304)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ceruledge">
 <input type="radio" name="pokemon-tabs-ceruledge-group" id="pokemon-tabs-ceruledge-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gardevoir (#081)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gardevoir">
 <input type="radio" name="pokemon-tabs-gardevoir-group" id="pokemon-tabs-gardevoir-tab-0">

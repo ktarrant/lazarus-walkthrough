@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Conkeldurr (#116)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-conkeldurr">
 <input type="radio" name="pokemon-tabs-conkeldurr-group" id="pokemon-tabs-conkeldurr-tab-0">

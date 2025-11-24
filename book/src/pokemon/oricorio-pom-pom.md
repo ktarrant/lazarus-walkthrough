@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Oricorio Pom-Pom (#096)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-oricorio-pom-pom">
 <input type="radio" name="pokemon-tabs-oricorio-pom-pom-group" id="pokemon-tabs-oricorio-pom-pom-tab-0">

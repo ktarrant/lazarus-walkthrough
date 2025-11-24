@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Jumpluff (#044)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-jumpluff">
 <input type="radio" name="pokemon-tabs-jumpluff-group" id="pokemon-tabs-jumpluff-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Meowscarada (#021)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-meowscarada">
 <input type="radio" name="pokemon-tabs-meowscarada-group" id="pokemon-tabs-meowscarada-tab-0">

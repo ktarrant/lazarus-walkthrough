@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Goodra (#353)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-goodra">
 <input type="radio" name="pokemon-tabs-goodra-group" id="pokemon-tabs-goodra-tab-0">

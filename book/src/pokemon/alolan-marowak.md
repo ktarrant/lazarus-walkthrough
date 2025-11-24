@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Marowak (#058)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-marowak">
 <input type="radio" name="pokemon-tabs-alolan-marowak-group" id="pokemon-tabs-alolan-marowak-tab-0">

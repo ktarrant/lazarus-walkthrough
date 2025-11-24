@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tirtouga (#404)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tirtouga">
 <input type="radio" name="pokemon-tabs-tirtouga-group" id="pokemon-tabs-tirtouga-tab-0" checked>

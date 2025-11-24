@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Scizor (#265)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-scizor">
 <input type="radio" name="pokemon-tabs-mega-scizor-group" id="pokemon-tabs-mega-scizor-tab-0">

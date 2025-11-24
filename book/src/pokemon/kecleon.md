@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kecleon (#341)</summary>
 Types: Normal • Egg Groups: Field
 

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Brionne (#008)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-brionne">
 <input type="radio" name="pokemon-tabs-brionne-group" id="pokemon-tabs-brionne-tab-0">

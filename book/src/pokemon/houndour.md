@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Houndour (#169)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-houndour">
 <input type="radio" name="pokemon-tabs-houndour-group" id="pokemon-tabs-houndour-tab-0" checked>

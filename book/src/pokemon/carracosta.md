@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Carracosta (#405)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-carracosta">
 <input type="radio" name="pokemon-tabs-carracosta-group" id="pokemon-tabs-carracosta-tab-0">

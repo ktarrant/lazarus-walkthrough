@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Centiskorch (#225)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-centiskorch">
 <input type="radio" name="pokemon-tabs-mega-centiskorch-group" id="pokemon-tabs-mega-centiskorch-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pangoro (#290)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pangoro">
 <input type="radio" name="pokemon-tabs-pangoro-group" id="pokemon-tabs-pangoro-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Banette (#128)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-banette">
 <input type="radio" name="pokemon-tabs-banette-group" id="pokemon-tabs-banette-tab-0">

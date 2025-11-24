@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Cyclizar S (#245)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-cyclizar-s">
 <input type="radio" name="pokemon-tabs-mega-cyclizar-s-group" id="pokemon-tabs-mega-cyclizar-s-tab-0">

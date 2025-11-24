@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ninjask (#046)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ninjask">
 <input type="radio" name="pokemon-tabs-ninjask-group" id="pokemon-tabs-ninjask-tab-0">

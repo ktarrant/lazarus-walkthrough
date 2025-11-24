@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Vulpix (#147)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vulpix">
 <input type="radio" name="pokemon-tabs-vulpix-group" id="pokemon-tabs-vulpix-tab-0" checked>

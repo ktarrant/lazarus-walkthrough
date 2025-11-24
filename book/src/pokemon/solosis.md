@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Solosis (#296)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-solosis">
 <input type="radio" name="pokemon-tabs-solosis-group" id="pokemon-tabs-solosis-tab-0" checked>

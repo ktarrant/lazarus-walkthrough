@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Helioptile (#318)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-helioptile">
 <input type="radio" name="pokemon-tabs-helioptile-group" id="pokemon-tabs-helioptile-tab-0">

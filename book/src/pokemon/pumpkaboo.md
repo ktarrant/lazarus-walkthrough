@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pumpkaboo (#122)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pumpkaboo">
 <input type="radio" name="pokemon-tabs-pumpkaboo-group" id="pokemon-tabs-pumpkaboo-tab-0" checked>

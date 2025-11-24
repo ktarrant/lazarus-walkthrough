@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pancham (#289)</summary>
 Types: Fighting • Egg Groups: Human-Like / Field
 

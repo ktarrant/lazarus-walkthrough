@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Farigiraf (#367)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-farigiraf">
 <input type="radio" name="pokemon-tabs-farigiraf-group" id="pokemon-tabs-farigiraf-tab-0">

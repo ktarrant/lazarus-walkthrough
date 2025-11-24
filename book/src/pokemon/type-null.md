@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Type: Null (#412)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-type-null">
 <input type="radio" name="pokemon-tabs-type-null-group" id="pokemon-tabs-type-null-tab-0" checked>

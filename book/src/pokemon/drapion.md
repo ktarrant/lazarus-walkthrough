@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Drapion (#176)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-drapion">
 <input type="radio" name="pokemon-tabs-drapion-group" id="pokemon-tabs-drapion-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gyarados (#343)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gyarados">
 <input type="radio" name="pokemon-tabs-gyarados-group" id="pokemon-tabs-gyarados-tab-0">

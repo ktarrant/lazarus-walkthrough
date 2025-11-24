@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Grimmsnarl (#357)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-grimmsnarl">
 <input type="radio" name="pokemon-tabs-mega-grimmsnarl-group" id="pokemon-tabs-mega-grimmsnarl-tab-0">

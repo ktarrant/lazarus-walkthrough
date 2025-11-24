@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Aurorus (#206)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aurorus">
 <input type="radio" name="pokemon-tabs-aurorus-group" id="pokemon-tabs-aurorus-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Muk (#072)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-muk">
 <input type="radio" name="pokemon-tabs-alolan-muk-group" id="pokemon-tabs-alolan-muk-tab-0">

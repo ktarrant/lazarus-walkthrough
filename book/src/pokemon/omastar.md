@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Omastar (#172)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-omastar">
 <input type="radio" name="pokemon-tabs-omastar-group" id="pokemon-tabs-omastar-tab-0">

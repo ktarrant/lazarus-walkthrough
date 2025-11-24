@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Clauncher (#262)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-clauncher">
 <input type="radio" name="pokemon-tabs-clauncher-group" id="pokemon-tabs-clauncher-tab-0" checked>

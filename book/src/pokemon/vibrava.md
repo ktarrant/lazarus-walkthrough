@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Vibrava (#322)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vibrava">
 <input type="radio" name="pokemon-tabs-vibrava-group" id="pokemon-tabs-vibrava-tab-0">

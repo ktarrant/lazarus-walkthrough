@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gallade (#082)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gallade">
 <input type="radio" name="pokemon-tabs-gallade-group" id="pokemon-tabs-gallade-tab-0">

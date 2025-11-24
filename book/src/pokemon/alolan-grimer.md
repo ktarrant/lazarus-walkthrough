@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Grimer (#071)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-grimer">
 <input type="radio" name="pokemon-tabs-alolan-grimer-group" id="pokemon-tabs-alolan-grimer-tab-0" checked>

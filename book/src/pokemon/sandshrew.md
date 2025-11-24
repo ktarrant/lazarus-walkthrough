@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Sandshrew (#097)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sandshrew">
 <input type="radio" name="pokemon-tabs-sandshrew-group" id="pokemon-tabs-sandshrew-tab-0" checked>

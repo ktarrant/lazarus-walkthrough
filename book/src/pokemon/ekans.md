@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ekans (#285)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ekans">
 <input type="radio" name="pokemon-tabs-ekans-group" id="pokemon-tabs-ekans-tab-0" checked>

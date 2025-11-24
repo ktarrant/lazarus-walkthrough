@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Shuppet (#127)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-shuppet">
 <input type="radio" name="pokemon-tabs-shuppet-group" id="pokemon-tabs-shuppet-tab-0" checked>

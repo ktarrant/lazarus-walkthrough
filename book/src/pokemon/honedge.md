@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Honedge (#149)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-honedge">
 <input type="radio" name="pokemon-tabs-honedge-group" id="pokemon-tabs-honedge-tab-0" checked>

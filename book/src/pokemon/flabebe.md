@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Flabébé (#312)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flabebe">
 <input type="radio" name="pokemon-tabs-flabebe-group" id="pokemon-tabs-flabebe-tab-0" checked>

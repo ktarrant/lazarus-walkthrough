@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Toedscool (#137)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-toedscool">
 <input type="radio" name="pokemon-tabs-toedscool-group" id="pokemon-tabs-toedscool-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ogerpon Cornerstone (#430)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ogerpon-cornerstone">
 <input type="radio" name="pokemon-tabs-ogerpon-cornerstone-group" id="pokemon-tabs-ogerpon-cornerstone-tab-0">

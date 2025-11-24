@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Yamper (#231)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-yamper">
 <input type="radio" name="pokemon-tabs-yamper-group" id="pokemon-tabs-yamper-tab-0" checked>

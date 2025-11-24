@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Raging Bolt (#422)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-raging-bolt">
 <input type="radio" name="pokemon-tabs-raging-bolt-group" id="pokemon-tabs-raging-bolt-tab-0">

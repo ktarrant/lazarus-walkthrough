@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Skrelp (#291)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-skrelp">
 <input type="radio" name="pokemon-tabs-skrelp-group" id="pokemon-tabs-skrelp-tab-0" checked>

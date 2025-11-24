@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mandibuzz (#108)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mandibuzz">
 <input type="radio" name="pokemon-tabs-mandibuzz-group" id="pokemon-tabs-mandibuzz-tab-0">

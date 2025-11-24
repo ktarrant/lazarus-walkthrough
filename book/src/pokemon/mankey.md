@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mankey (#360)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mankey">
 <input type="radio" name="pokemon-tabs-mankey-group" id="pokemon-tabs-mankey-tab-0" checked>

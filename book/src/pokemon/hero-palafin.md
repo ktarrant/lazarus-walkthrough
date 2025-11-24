@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hero Palafin (#163)</summary>
 Types: Water • Egg Groups: Field / Water 2
 

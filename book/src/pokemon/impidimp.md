@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Impidimp (#355)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-impidimp">
 <input type="radio" name="pokemon-tabs-impidimp-group" id="pokemon-tabs-impidimp-tab-0" checked>

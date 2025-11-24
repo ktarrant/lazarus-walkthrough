@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Floragato (#020)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-floragato">
 <input type="radio" name="pokemon-tabs-floragato-group" id="pokemon-tabs-floragato-tab-0">

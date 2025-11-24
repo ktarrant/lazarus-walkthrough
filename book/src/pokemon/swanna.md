@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Swanna (#041)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-swanna">
 <input type="radio" name="pokemon-tabs-swanna-group" id="pokemon-tabs-swanna-tab-0">

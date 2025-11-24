@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Magneton (#372)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-magneton">
 <input type="radio" name="pokemon-tabs-magneton-group" id="pokemon-tabs-magneton-tab-0">

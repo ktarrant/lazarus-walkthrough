@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Poliwrath (#120)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-poliwrath">
 <input type="radio" name="pokemon-tabs-poliwrath-group" id="pokemon-tabs-poliwrath-tab-0">

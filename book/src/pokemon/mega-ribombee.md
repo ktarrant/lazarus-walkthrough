@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Ribombee (#070)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-ribombee">
 <input type="radio" name="pokemon-tabs-mega-ribombee-group" id="pokemon-tabs-mega-ribombee-tab-0">

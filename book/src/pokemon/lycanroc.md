@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lycanroc (#106)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lycanroc">
 <input type="radio" name="pokemon-tabs-lycanroc-group" id="pokemon-tabs-lycanroc-tab-0">

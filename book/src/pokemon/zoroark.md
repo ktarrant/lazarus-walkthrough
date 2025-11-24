@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Zoroark (#199)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-zoroark">
 <input type="radio" name="pokemon-tabs-zoroark-group" id="pokemon-tabs-zoroark-tab-0">

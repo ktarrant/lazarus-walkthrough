@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Abomasnow (#393)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-abomasnow">
 <input type="radio" name="pokemon-tabs-mega-abomasnow-group" id="pokemon-tabs-mega-abomasnow-tab-0">

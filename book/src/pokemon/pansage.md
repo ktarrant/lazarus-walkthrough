@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pansage (#028)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pansage">
 <input type="radio" name="pokemon-tabs-pansage-group" id="pokemon-tabs-pansage-tab-0" checked>

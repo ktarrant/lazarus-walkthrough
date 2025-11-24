@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Shieldon (#228)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-shieldon">
 <input type="radio" name="pokemon-tabs-shieldon-group" id="pokemon-tabs-shieldon-tab-0" checked>

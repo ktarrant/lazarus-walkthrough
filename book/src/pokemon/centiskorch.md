@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Centiskorch (#225)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-centiskorch">
 <input type="radio" name="pokemon-tabs-centiskorch-group" id="pokemon-tabs-centiskorch-tab-0">

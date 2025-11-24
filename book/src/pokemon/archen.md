@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Archen (#406)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-archen">
 <input type="radio" name="pokemon-tabs-archen-group" id="pokemon-tabs-archen-tab-0" checked>

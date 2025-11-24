@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hawlucha (#223)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hawlucha">
 <input type="radio" name="pokemon-tabs-hawlucha-group" id="pokemon-tabs-hawlucha-tab-0" checked>

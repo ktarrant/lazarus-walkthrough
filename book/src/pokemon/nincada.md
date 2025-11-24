@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Nincada (#045)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-nincada">
 <input type="radio" name="pokemon-tabs-nincada-group" id="pokemon-tabs-nincada-tab-0" checked>

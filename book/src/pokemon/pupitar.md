@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pupitar (#415)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pupitar">
 <input type="radio" name="pokemon-tabs-pupitar-group" id="pokemon-tabs-pupitar-tab-0">

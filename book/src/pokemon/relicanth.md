@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Relicanth (#336)</summary>
 Types: Water / Rock • Egg Groups: Water 1 / Water 2
 

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Grimer (#071)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-grimer">
 <input type="radio" name="pokemon-tabs-grimer-group" id="pokemon-tabs-grimer-tab-0" checked>

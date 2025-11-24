@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dragonite (#420)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dragonite">
 <input type="radio" name="pokemon-tabs-dragonite-group" id="pokemon-tabs-dragonite-tab-0">

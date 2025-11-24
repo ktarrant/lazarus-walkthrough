@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Xatu (#391)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-xatu">
 <input type="radio" name="pokemon-tabs-xatu-group" id="pokemon-tabs-xatu-tab-0">

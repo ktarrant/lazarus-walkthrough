@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dragapult (#271)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dragapult">
 <input type="radio" name="pokemon-tabs-dragapult-group" id="pokemon-tabs-dragapult-tab-0">

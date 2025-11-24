@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Feraligatr (#219)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-feraligatr">
 <input type="radio" name="pokemon-tabs-feraligatr-group" id="pokemon-tabs-feraligatr-tab-0">

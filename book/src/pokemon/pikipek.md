@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pikipek (#037)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pikipek">
 <input type="radio" name="pokemon-tabs-pikipek-group" id="pokemon-tabs-pikipek-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gligar (#331)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gligar">
 <input type="radio" name="pokemon-tabs-gligar-group" id="pokemon-tabs-gligar-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Vaporeon (#084)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vaporeon">
 <input type="radio" name="pokemon-tabs-vaporeon-group" id="pokemon-tabs-vaporeon-tab-0">

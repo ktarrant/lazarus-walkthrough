@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Natu (#390)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-natu">
 <input type="radio" name="pokemon-tabs-natu-group" id="pokemon-tabs-natu-tab-0" checked>

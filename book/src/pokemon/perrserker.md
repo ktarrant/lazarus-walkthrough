@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Perrserker (#209)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-perrserker">
 <input type="radio" name="pokemon-tabs-perrserker-group" id="pokemon-tabs-perrserker-tab-0">

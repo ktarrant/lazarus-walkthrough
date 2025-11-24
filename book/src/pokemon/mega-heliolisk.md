@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Heliolisk (#319)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-heliolisk">
 <input type="radio" name="pokemon-tabs-mega-heliolisk-group" id="pokemon-tabs-mega-heliolisk-tab-0">

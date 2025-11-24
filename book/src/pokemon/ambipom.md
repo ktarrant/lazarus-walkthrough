@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ambipom (#130)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ambipom">
 <input type="radio" name="pokemon-tabs-ambipom-group" id="pokemon-tabs-ambipom-tab-0">

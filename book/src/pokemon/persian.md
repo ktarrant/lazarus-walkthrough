@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Persian (#208)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-persian">
 <input type="radio" name="pokemon-tabs-persian-group" id="pokemon-tabs-persian-tab-0">

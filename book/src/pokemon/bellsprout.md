@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bellsprout (#368)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bellsprout">
 <input type="radio" name="pokemon-tabs-bellsprout-group" id="pokemon-tabs-bellsprout-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Krookodile (#101)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-krookodile">
 <input type="radio" name="pokemon-tabs-krookodile-group" id="pokemon-tabs-krookodile-tab-0">

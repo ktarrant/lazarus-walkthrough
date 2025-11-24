@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Woobat (#109)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-woobat">
 <input type="radio" name="pokemon-tabs-woobat-group" id="pokemon-tabs-woobat-tab-0" checked>

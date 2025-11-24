@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Seel (#192)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-seel">
 <input type="radio" name="pokemon-tabs-seel-group" id="pokemon-tabs-seel-tab-0" checked>

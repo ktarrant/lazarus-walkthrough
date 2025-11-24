@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tentacruel (#261)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tentacruel">
 <input type="radio" name="pokemon-tabs-tentacruel-group" id="pokemon-tabs-tentacruel-tab-0">

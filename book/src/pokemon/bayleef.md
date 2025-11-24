@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bayleef (#212)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bayleef">
 <input type="radio" name="pokemon-tabs-bayleef-group" id="pokemon-tabs-bayleef-tab-0">

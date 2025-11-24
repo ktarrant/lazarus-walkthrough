@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Aerodactyl (#382)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-aerodactyl">
 <input type="radio" name="pokemon-tabs-mega-aerodactyl-group" id="pokemon-tabs-mega-aerodactyl-tab-0">

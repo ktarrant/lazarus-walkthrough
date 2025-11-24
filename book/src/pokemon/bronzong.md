@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bronzong (#195)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bronzong">
 <input type="radio" name="pokemon-tabs-bronzong-group" id="pokemon-tabs-bronzong-tab-0">

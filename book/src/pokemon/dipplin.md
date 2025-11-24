@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dipplin (#067)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dipplin">
 <input type="radio" name="pokemon-tabs-dipplin-group" id="pokemon-tabs-dipplin-tab-0">

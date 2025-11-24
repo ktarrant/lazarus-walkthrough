@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Duosion (#297)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-duosion">
 <input type="radio" name="pokemon-tabs-duosion-group" id="pokemon-tabs-duosion-tab-0">

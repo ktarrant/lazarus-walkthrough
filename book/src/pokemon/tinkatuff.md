@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tinkatuff (#327)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tinkatuff">
 <input type="radio" name="pokemon-tabs-tinkatuff-group" id="pokemon-tabs-tinkatuff-tab-0">

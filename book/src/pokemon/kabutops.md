@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kabutops (#174)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kabutops">
 <input type="radio" name="pokemon-tabs-kabutops-group" id="pokemon-tabs-kabutops-tab-0">

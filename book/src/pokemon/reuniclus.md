@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Reuniclus (#298)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-reuniclus">
 <input type="radio" name="pokemon-tabs-reuniclus-group" id="pokemon-tabs-reuniclus-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Muk (#072)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-muk">
 <input type="radio" name="pokemon-tabs-muk-group" id="pokemon-tabs-muk-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Houndoom (#170)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-houndoom">
 <input type="radio" name="pokemon-tabs-houndoom-group" id="pokemon-tabs-houndoom-tab-0">

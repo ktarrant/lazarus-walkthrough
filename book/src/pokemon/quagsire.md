@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Quagsire (#135)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-quagsire">
 <input type="radio" name="pokemon-tabs-quagsire-group" id="pokemon-tabs-quagsire-tab-0">

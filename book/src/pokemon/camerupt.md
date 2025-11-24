@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Camerupt (#335)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-camerupt">
 <input type="radio" name="pokemon-tabs-camerupt-group" id="pokemon-tabs-camerupt-tab-0">

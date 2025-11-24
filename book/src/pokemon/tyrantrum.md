@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tyrantrum (#204)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tyrantrum">
 <input type="radio" name="pokemon-tabs-tyrantrum-group" id="pokemon-tabs-tyrantrum-tab-0">

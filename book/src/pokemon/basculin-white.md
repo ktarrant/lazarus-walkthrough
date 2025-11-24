@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Basculin White (#287)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-basculin-white">
 <input type="radio" name="pokemon-tabs-basculin-white-group" id="pokemon-tabs-basculin-white-tab-0" checked>

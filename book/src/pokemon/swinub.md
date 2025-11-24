@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Swinub (#397)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-swinub">
 <input type="radio" name="pokemon-tabs-swinub-group" id="pokemon-tabs-swinub-tab-0" checked>

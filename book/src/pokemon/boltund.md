@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Boltund (#232)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-boltund">
 <input type="radio" name="pokemon-tabs-boltund-group" id="pokemon-tabs-boltund-tab-0">

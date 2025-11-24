@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Vullaby (#107)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vullaby">
 <input type="radio" name="pokemon-tabs-vullaby-group" id="pokemon-tabs-vullaby-tab-0" checked>

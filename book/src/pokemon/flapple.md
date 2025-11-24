@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Flapple (#065)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flapple">
 <input type="radio" name="pokemon-tabs-flapple-group" id="pokemon-tabs-flapple-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Minior (#154)</summary>
 Types: Rock / Flying • Egg Groups: Mineral
 

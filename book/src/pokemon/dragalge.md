@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dragalge (#292)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dragalge">
 <input type="radio" name="pokemon-tabs-dragalge-group" id="pokemon-tabs-dragalge-tab-0">

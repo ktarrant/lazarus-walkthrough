@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Jolteon (#085)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-jolteon">
 <input type="radio" name="pokemon-tabs-jolteon-group" id="pokemon-tabs-jolteon-tab-0">

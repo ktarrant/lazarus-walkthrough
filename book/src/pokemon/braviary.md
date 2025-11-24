@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Braviary (#386)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-braviary">
 <input type="radio" name="pokemon-tabs-braviary-group" id="pokemon-tabs-braviary-tab-0">

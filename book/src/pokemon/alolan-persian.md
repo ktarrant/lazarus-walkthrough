@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Persian (#208)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-persian">
 <input type="radio" name="pokemon-tabs-alolan-persian-group" id="pokemon-tabs-alolan-persian-tab-0">

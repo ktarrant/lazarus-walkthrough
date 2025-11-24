@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Voltorb (#363)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-voltorb">
 <input type="radio" name="pokemon-tabs-voltorb-group" id="pokemon-tabs-voltorb-tab-0" checked>

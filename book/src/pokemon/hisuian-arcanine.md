@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Arcanine (#377)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-arcanine">
 <input type="radio" name="pokemon-tabs-hisuian-arcanine-group" id="pokemon-tabs-hisuian-arcanine-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Yanma (#380)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-yanma">
 <input type="radio" name="pokemon-tabs-yanma-group" id="pokemon-tabs-yanma-tab-0" checked>

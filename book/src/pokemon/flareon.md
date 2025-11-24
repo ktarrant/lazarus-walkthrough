@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Flareon (#086)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flareon">
 <input type="radio" name="pokemon-tabs-flareon-group" id="pokemon-tabs-flareon-tab-0">

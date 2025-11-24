@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Falinks (#320)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-falinks">
 <input type="radio" name="pokemon-tabs-falinks-group" id="pokemon-tabs-falinks-tab-0" checked>

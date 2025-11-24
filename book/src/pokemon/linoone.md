@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Linoone (#349)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-linoone">
 <input type="radio" name="pokemon-tabs-linoone-group" id="pokemon-tabs-linoone-tab-0">

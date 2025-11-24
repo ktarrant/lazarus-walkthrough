@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Chinchou (#305)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-chinchou">
 <input type="radio" name="pokemon-tabs-chinchou-group" id="pokemon-tabs-chinchou-tab-0" checked>

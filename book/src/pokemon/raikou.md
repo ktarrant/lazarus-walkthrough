@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Raikou (#421)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-raikou">
 <input type="radio" name="pokemon-tabs-raikou-group" id="pokemon-tabs-raikou-tab-0" checked>

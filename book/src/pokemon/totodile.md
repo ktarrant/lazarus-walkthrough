@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Totodile (#217)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-totodile">
 <input type="radio" name="pokemon-tabs-totodile-group" id="pokemon-tabs-totodile-tab-0" checked>

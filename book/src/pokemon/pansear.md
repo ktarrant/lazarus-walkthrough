@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pansear (#030)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pansear">
 <input type="radio" name="pokemon-tabs-pansear-group" id="pokemon-tabs-pansear-tab-0" checked>

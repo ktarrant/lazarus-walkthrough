@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Swoobat (#110)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-swoobat">
 <input type="radio" name="pokemon-tabs-swoobat-group" id="pokemon-tabs-swoobat-tab-0">

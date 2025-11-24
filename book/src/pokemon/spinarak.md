@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Spinarak (#177)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-spinarak">
 <input type="radio" name="pokemon-tabs-spinarak-group" id="pokemon-tabs-spinarak-tab-0" checked>

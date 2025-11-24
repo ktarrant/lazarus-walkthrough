@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Croconaw (#218)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-croconaw">
 <input type="radio" name="pokemon-tabs-croconaw-group" id="pokemon-tabs-croconaw-tab-0">

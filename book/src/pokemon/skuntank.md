@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Skuntank (#241)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-skuntank">
 <input type="radio" name="pokemon-tabs-skuntank-group" id="pokemon-tabs-skuntank-tab-0">

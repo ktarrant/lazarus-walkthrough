@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lairon (#112)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lairon">
 <input type="radio" name="pokemon-tabs-lairon-group" id="pokemon-tabs-lairon-tab-0">

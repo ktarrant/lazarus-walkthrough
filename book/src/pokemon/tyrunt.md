@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tyrunt (#203)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tyrunt">
 <input type="radio" name="pokemon-tabs-tyrunt-group" id="pokemon-tabs-tyrunt-tab-0" checked>

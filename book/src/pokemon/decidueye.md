@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Decidueye (#003)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-decidueye">
 <input type="radio" name="pokemon-tabs-decidueye-group" id="pokemon-tabs-decidueye-tab-0">

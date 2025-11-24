@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Growlithe (#376)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-growlithe">
 <input type="radio" name="pokemon-tabs-growlithe-group" id="pokemon-tabs-growlithe-tab-0" checked>

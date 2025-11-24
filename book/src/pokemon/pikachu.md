@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pikachu (#249)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pikachu">
 <input type="radio" name="pokemon-tabs-pikachu-group" id="pokemon-tabs-pikachu-tab-0">

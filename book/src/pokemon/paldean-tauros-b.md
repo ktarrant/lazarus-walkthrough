@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Paldean Tauros-B (#224)</summary>
 Types: Fighting / Fire • Egg Groups: Field
 

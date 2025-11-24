@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Rockruff (#105)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-rockruff">
 <input type="radio" name="pokemon-tabs-rockruff-group" id="pokemon-tabs-rockruff-tab-0" checked>

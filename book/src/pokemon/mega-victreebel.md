@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Victreebel (#370)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-victreebel">
 <input type="radio" name="pokemon-tabs-mega-victreebel-group" id="pokemon-tabs-mega-victreebel-tab-0">

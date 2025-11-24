@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Quaxly (#025)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-quaxly">
 <input type="radio" name="pokemon-tabs-quaxly-group" id="pokemon-tabs-quaxly-tab-0" checked>

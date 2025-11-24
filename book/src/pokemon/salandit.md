@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Salandit (#160)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-salandit">
 <input type="radio" name="pokemon-tabs-salandit-group" id="pokemon-tabs-salandit-tab-0" checked>

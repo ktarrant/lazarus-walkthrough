@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wailmer (#258)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wailmer">
 <input type="radio" name="pokemon-tabs-wailmer-group" id="pokemon-tabs-wailmer-tab-0" checked>

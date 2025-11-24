@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wigglytuff (#317)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wigglytuff">
 <input type="radio" name="pokemon-tabs-wigglytuff-group" id="pokemon-tabs-wigglytuff-tab-0">

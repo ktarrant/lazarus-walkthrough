@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Quilladin (#011)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-quilladin">
 <input type="radio" name="pokemon-tabs-quilladin-group" id="pokemon-tabs-quilladin-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lampent (#300)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lampent">
 <input type="radio" name="pokemon-tabs-lampent-group" id="pokemon-tabs-lampent-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Froslass (#188)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-froslass">
 <input type="radio" name="pokemon-tabs-froslass-group" id="pokemon-tabs-froslass-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wailord (#259)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wailord">
 <input type="radio" name="pokemon-tabs-wailord-group" id="pokemon-tabs-wailord-tab-0">

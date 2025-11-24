@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Gengar (#157)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-gengar">
 <input type="radio" name="pokemon-tabs-mega-gengar-group" id="pokemon-tabs-mega-gengar-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Herdier (#035)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-herdier">
 <input type="radio" name="pokemon-tabs-herdier-group" id="pokemon-tabs-herdier-tab-0">

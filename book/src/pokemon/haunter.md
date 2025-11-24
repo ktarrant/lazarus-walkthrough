@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Haunter (#156)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-haunter">
 <input type="radio" name="pokemon-tabs-haunter-group" id="pokemon-tabs-haunter-tab-0">

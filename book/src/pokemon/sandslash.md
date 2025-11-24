@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Sandslash (#098)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sandslash">
 <input type="radio" name="pokemon-tabs-sandslash-group" id="pokemon-tabs-sandslash-tab-0">

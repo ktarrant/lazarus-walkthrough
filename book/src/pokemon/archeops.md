@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Archeops (#407)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-archeops">
 <input type="radio" name="pokemon-tabs-archeops-group" id="pokemon-tabs-archeops-tab-0">

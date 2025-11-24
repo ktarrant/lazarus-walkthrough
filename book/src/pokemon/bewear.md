@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bewear (#268)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bewear">
 <input type="radio" name="pokemon-tabs-bewear-group" id="pokemon-tabs-bewear-tab-0">

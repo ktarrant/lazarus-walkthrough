@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Yanmega (#381)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-yanmega">
 <input type="radio" name="pokemon-tabs-yanmega-group" id="pokemon-tabs-yanmega-tab-0">

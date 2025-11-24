@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Camerupt (#335)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-camerupt">
 <input type="radio" name="pokemon-tabs-mega-camerupt-group" id="pokemon-tabs-mega-camerupt-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cherrim (#168)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cherrim">
 <input type="radio" name="pokemon-tabs-cherrim-group" id="pokemon-tabs-cherrim-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Timburr (#114)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-timburr">
 <input type="radio" name="pokemon-tabs-timburr-group" id="pokemon-tabs-timburr-tab-0" checked>

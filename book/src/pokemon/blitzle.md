@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Blitzle (#139)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-blitzle">
 <input type="radio" name="pokemon-tabs-blitzle-group" id="pokemon-tabs-blitzle-tab-0" checked>

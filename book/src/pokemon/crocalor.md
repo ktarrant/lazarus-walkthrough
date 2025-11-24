@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Crocalor (#023)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crocalor">
 <input type="radio" name="pokemon-tabs-crocalor-group" id="pokemon-tabs-crocalor-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Oricorio Baile (#096)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-oricorio-baile">
 <input type="radio" name="pokemon-tabs-oricorio-baile-group" id="pokemon-tabs-oricorio-baile-tab-0" checked>

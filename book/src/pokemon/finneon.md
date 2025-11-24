@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Finneon (#256)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-finneon">
 <input type="radio" name="pokemon-tabs-finneon-group" id="pokemon-tabs-finneon-tab-0" checked>

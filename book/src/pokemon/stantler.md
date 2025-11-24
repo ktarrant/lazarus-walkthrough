@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Stantler (#184)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-stantler">
 <input type="radio" name="pokemon-tabs-stantler-group" id="pokemon-tabs-stantler-tab-0" checked>

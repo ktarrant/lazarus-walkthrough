@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Morgrem (#356)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-morgrem">
 <input type="radio" name="pokemon-tabs-morgrem-group" id="pokemon-tabs-morgrem-tab-0">

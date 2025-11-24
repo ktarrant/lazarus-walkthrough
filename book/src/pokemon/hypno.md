@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hypno (#284)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hypno">
 <input type="radio" name="pokemon-tabs-hypno-group" id="pokemon-tabs-hypno-tab-0">

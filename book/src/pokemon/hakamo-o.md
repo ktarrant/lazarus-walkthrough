@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hakamo-o (#221)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hakamo-o">
 <input type="radio" name="pokemon-tabs-hakamo-o-group" id="pokemon-tabs-hakamo-o-tab-0">

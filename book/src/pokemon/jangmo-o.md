@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Jangmo-o (#220)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-jangmo-o">
 <input type="radio" name="pokemon-tabs-jangmo-o-group" id="pokemon-tabs-jangmo-o-tab-0" checked>

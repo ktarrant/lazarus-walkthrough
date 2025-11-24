@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Duskull (#394)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-duskull">
 <input type="radio" name="pokemon-tabs-duskull-group" id="pokemon-tabs-duskull-tab-0" checked>

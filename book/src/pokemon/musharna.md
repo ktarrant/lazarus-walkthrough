@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Musharna (#340)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-musharna">
 <input type="radio" name="pokemon-tabs-musharna-group" id="pokemon-tabs-musharna-tab-0">

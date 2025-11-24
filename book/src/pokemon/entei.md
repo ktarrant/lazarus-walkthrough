@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Entei (#423)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-entei">
 <input type="radio" name="pokemon-tabs-entei-group" id="pokemon-tabs-entei-tab-0" checked>

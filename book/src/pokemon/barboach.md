@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Barboach (#337)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-barboach">
 <input type="radio" name="pokemon-tabs-barboach-group" id="pokemon-tabs-barboach-tab-0" checked>

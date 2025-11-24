@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Walking Wake (#426)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-walking-wake">
 <input type="radio" name="pokemon-tabs-walking-wake-group" id="pokemon-tabs-walking-wake-tab-0">

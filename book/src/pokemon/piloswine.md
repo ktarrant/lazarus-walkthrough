@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Piloswine (#398)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-piloswine">
 <input type="radio" name="pokemon-tabs-piloswine-group" id="pokemon-tabs-piloswine-tab-0">

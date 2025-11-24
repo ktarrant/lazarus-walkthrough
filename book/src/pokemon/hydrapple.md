@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hydrapple (#068)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hydrapple">
 <input type="radio" name="pokemon-tabs-hydrapple-group" id="pokemon-tabs-hydrapple-tab-0">

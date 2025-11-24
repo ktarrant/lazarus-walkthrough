@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Comfey (#402)</summary>
 Types: Fairy / Grass • Egg Groups: Grass
 

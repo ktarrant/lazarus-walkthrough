@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tentacool (#260)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tentacool">
 <input type="radio" name="pokemon-tabs-tentacool-group" id="pokemon-tabs-tentacool-tab-0" checked>

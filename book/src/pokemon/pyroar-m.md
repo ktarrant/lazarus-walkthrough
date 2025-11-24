@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pyroar♂ (#388)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pyroar-m">
 <input type="radio" name="pokemon-tabs-pyroar-m-group" id="pokemon-tabs-pyroar-m-tab-0">

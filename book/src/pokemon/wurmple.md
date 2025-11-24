@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wurmple (#073)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wurmple">
 <input type="radio" name="pokemon-tabs-wurmple-group" id="pokemon-tabs-wurmple-tab-0" checked>

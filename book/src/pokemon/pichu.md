@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pichu (#248)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pichu">
 <input type="radio" name="pokemon-tabs-pichu-group" id="pokemon-tabs-pichu-tab-0" checked>

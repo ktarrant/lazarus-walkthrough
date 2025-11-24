@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wimpod (#246)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wimpod">
 <input type="radio" name="pokemon-tabs-wimpod-group" id="pokemon-tabs-wimpod-tab-0" checked>

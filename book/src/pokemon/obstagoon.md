@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Obstagoon (#350)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-obstagoon">
 <input type="radio" name="pokemon-tabs-obstagoon-group" id="pokemon-tabs-obstagoon-tab-0">

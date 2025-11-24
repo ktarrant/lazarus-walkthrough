@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Electrode (#364)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-electrode">
 <input type="radio" name="pokemon-tabs-electrode-group" id="pokemon-tabs-electrode-tab-0">

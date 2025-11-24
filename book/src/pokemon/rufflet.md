@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Rufflet (#385)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-rufflet">
 <input type="radio" name="pokemon-tabs-rufflet-group" id="pokemon-tabs-rufflet-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tsareena (#133)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tsareena">
 <input type="radio" name="pokemon-tabs-tsareena-group" id="pokemon-tabs-tsareena-tab-0">

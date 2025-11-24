@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dartrix (#002)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dartrix">
 <input type="radio" name="pokemon-tabs-dartrix-group" id="pokemon-tabs-dartrix-tab-0">

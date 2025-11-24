@@ -27,7 +27,7 @@ pub fn render_deck(
             .map(|v| v.as_slice())
             .unwrap_or(&[]);
         let mut output = String::new();
-        output.push_str("<details class=\"pokemon-card-container\" open>\n");
+        output.push_str("<details class=\"pokemon-card-container\">\n");
         writeln!(&mut output, "<summary>{}</summary>", summary_label).unwrap();
         output.push_str(&render_single(entry, encounters));
         output.push_str("</details>\n");
@@ -41,7 +41,7 @@ pub fn render_deck(
     let group_name = format!("pokemon-tabs-{}", active_slug);
     let radio_name = format!("{}-group", group_name);
     let mut output = String::new();
-    output.push_str("<details class=\"pokemon-card-container\" open>\n");
+    output.push_str("<details class=\"pokemon-card-container\">\n");
     writeln!(&mut output, "<summary>{}</summary>", summary_label).unwrap();
     writeln!(
         &mut output,

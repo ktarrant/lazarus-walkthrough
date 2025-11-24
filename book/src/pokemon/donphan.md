@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Donphan (#054)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-donphan">
 <input type="radio" name="pokemon-tabs-donphan-group" id="pokemon-tabs-donphan-tab-0">

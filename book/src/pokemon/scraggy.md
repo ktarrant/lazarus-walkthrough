@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Scraggy (#329)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-scraggy">
 <input type="radio" name="pokemon-tabs-scraggy-group" id="pokemon-tabs-scraggy-tab-0" checked>

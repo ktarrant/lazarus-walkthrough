@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Simisage (#029)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-simisage">
 <input type="radio" name="pokemon-tabs-simisage-group" id="pokemon-tabs-simisage-tab-0">

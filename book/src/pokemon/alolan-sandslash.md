@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Sandslash (#098)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-sandslash">
 <input type="radio" name="pokemon-tabs-alolan-sandslash-group" id="pokemon-tabs-alolan-sandslash-tab-0">

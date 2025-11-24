@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dragonair (#419)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dragonair">
 <input type="radio" name="pokemon-tabs-dragonair-group" id="pokemon-tabs-dragonair-tab-0">

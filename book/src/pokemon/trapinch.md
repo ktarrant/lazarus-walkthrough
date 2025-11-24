@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Trapinch (#321)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-trapinch">
 <input type="radio" name="pokemon-tabs-trapinch-group" id="pokemon-tabs-trapinch-tab-0" checked>

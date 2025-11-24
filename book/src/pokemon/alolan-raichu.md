@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Raichu (#250)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-raichu">
 <input type="radio" name="pokemon-tabs-alolan-raichu-group" id="pokemon-tabs-alolan-raichu-tab-0">

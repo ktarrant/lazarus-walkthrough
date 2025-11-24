@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lumineon (#257)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lumineon">
 <input type="radio" name="pokemon-tabs-lumineon-group" id="pokemon-tabs-lumineon-tab-0">

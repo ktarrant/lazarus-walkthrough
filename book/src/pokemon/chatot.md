@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Chatot (#280)</summary>
 Types: Normal / Flying • Egg Groups: Flying
 

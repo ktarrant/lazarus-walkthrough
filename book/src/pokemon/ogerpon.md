@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ogerpon (#430)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ogerpon">
 <input type="radio" name="pokemon-tabs-ogerpon-group" id="pokemon-tabs-ogerpon-tab-0" checked>

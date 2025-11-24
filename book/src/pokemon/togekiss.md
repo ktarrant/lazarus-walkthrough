@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Togekiss (#166)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-togekiss">
 <input type="radio" name="pokemon-tabs-togekiss-group" id="pokemon-tabs-togekiss-tab-0">

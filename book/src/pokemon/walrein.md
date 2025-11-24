@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Walrein (#191)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-walrein">
 <input type="radio" name="pokemon-tabs-walrein-group" id="pokemon-tabs-walrein-tab-0">

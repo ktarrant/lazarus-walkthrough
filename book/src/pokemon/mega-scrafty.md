@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Scrafty (#330)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-scrafty">
 <input type="radio" name="pokemon-tabs-mega-scrafty-group" id="pokemon-tabs-mega-scrafty-tab-0">

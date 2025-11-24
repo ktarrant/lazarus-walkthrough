@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Voltorb (#363)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-voltorb">
 <input type="radio" name="pokemon-tabs-hisuian-voltorb-group" id="pokemon-tabs-hisuian-voltorb-tab-0" checked>

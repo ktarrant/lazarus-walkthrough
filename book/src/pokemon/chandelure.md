@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Chandelure (#301)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-chandelure">
 <input type="radio" name="pokemon-tabs-chandelure-group" id="pokemon-tabs-chandelure-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cloyster (#308)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cloyster">
 <input type="radio" name="pokemon-tabs-cloyster-group" id="pokemon-tabs-cloyster-tab-0">

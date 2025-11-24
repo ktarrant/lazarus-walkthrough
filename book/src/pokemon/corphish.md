@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Corphish (#400)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-corphish">
 <input type="radio" name="pokemon-tabs-corphish-group" id="pokemon-tabs-corphish-tab-0" checked>

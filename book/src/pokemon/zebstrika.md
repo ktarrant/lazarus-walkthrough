@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Zebstrika (#140)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-zebstrika">
 <input type="radio" name="pokemon-tabs-zebstrika-group" id="pokemon-tabs-zebstrika-tab-0">

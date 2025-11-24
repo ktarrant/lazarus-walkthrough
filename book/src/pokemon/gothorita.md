@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gothorita (#294)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gothorita">
 <input type="radio" name="pokemon-tabs-gothorita-group" id="pokemon-tabs-gothorita-tab-0">

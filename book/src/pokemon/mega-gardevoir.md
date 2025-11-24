@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Gardevoir (#081)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-gardevoir">
 <input type="radio" name="pokemon-tabs-mega-gardevoir-group" id="pokemon-tabs-mega-gardevoir-tab-0">

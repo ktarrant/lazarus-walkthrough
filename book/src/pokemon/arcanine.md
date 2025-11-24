@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Arcanine (#377)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-arcanine">
 <input type="radio" name="pokemon-tabs-arcanine-group" id="pokemon-tabs-arcanine-tab-0">

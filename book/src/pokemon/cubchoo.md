@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cubchoo (#374)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cubchoo">
 <input type="radio" name="pokemon-tabs-cubchoo-group" id="pokemon-tabs-cubchoo-tab-0" checked>

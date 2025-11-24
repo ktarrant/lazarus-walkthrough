@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dodrio (#325)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dodrio">
 <input type="radio" name="pokemon-tabs-dodrio-group" id="pokemon-tabs-dodrio-tab-0">

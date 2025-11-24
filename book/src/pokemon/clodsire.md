@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Clodsire (#136)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-clodsire">
 <input type="radio" name="pokemon-tabs-clodsire-group" id="pokemon-tabs-clodsire-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lapras (#365)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lapras">
 <input type="radio" name="pokemon-tabs-lapras-group" id="pokemon-tabs-lapras-tab-0" checked>

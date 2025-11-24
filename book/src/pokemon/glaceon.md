@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Glaceon (#090)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-glaceon">
 <input type="radio" name="pokemon-tabs-glaceon-group" id="pokemon-tabs-glaceon-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lurantis (#345)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lurantis">
 <input type="radio" name="pokemon-tabs-lurantis-group" id="pokemon-tabs-lurantis-tab-0">

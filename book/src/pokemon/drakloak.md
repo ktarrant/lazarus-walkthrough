@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Drakloak (#270)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-drakloak">
 <input type="radio" name="pokemon-tabs-drakloak-group" id="pokemon-tabs-drakloak-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Applin (#064)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-applin">
 <input type="radio" name="pokemon-tabs-applin-group" id="pokemon-tabs-applin-tab-0" checked>

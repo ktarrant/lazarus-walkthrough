@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Jigglypuff (#316)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-jigglypuff">
 <input type="radio" name="pokemon-tabs-jigglypuff-group" id="pokemon-tabs-jigglypuff-tab-0">

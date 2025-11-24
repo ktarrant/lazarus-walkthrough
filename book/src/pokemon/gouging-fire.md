@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gouging Fire (#424)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gouging-fire">
 <input type="radio" name="pokemon-tabs-gouging-fire-group" id="pokemon-tabs-gouging-fire-tab-0">

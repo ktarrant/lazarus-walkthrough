@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tropius (#078)</summary>
 Types: Grass / Flying • Egg Groups: Monster / Grass
 

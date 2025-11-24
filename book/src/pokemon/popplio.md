@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Popplio (#007)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-popplio">
 <input type="radio" name="pokemon-tabs-popplio-group" id="pokemon-tabs-popplio-tab-0" checked>

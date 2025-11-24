@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Incineroar (#006)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-incineroar">
 <input type="radio" name="pokemon-tabs-incineroar-group" id="pokemon-tabs-incineroar-tab-0">

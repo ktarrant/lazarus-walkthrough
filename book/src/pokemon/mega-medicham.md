@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Medicham (#282)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-medicham">
 <input type="radio" name="pokemon-tabs-mega-medicham-group" id="pokemon-tabs-mega-medicham-tab-0">

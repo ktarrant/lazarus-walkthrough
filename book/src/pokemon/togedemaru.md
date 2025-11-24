@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Togedemaru (#272)</summary>
 Types: Electric / Steel • Egg Groups: Field / Fairy
 

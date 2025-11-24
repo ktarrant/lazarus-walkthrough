@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kommo-o (#222)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kommo-o">
 <input type="radio" name="pokemon-tabs-kommo-o-group" id="pokemon-tabs-kommo-o-tab-0">

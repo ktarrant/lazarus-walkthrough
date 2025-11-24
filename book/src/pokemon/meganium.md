@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Meganium (#213)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-meganium">
 <input type="radio" name="pokemon-tabs-meganium-group" id="pokemon-tabs-meganium-tab-0">

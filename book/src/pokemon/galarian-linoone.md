@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Galarian Linoone (#349)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-galarian-linoone">
 <input type="radio" name="pokemon-tabs-galarian-linoone-group" id="pokemon-tabs-galarian-linoone-tab-0">

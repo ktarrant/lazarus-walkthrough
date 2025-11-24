@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lillipup (#034)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lillipup">
 <input type="radio" name="pokemon-tabs-lillipup-group" id="pokemon-tabs-lillipup-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ampharos (#063)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ampharos">
 <input type="radio" name="pokemon-tabs-ampharos-group" id="pokemon-tabs-ampharos-tab-0">

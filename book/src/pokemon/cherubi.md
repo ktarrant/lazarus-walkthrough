@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cherubi (#167)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cherubi">
 <input type="radio" name="pokemon-tabs-cherubi-group" id="pokemon-tabs-cherubi-tab-0" checked>

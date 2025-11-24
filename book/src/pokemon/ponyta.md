@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ponyta (#252)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ponyta">
 <input type="radio" name="pokemon-tabs-ponyta-group" id="pokemon-tabs-ponyta-tab-0" checked>

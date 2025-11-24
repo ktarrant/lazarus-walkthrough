@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Girafarig (#366)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-girafarig">
 <input type="radio" name="pokemon-tabs-girafarig-group" id="pokemon-tabs-girafarig-tab-0" checked>

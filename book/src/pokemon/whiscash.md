@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Whiscash (#338)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-whiscash">
 <input type="radio" name="pokemon-tabs-whiscash-group" id="pokemon-tabs-whiscash-tab-0">

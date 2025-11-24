@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Anorith (#277)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-anorith">
 <input type="radio" name="pokemon-tabs-anorith-group" id="pokemon-tabs-anorith-tab-0" checked>

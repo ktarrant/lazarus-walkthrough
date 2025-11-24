@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Octillery (#384)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-octillery">
 <input type="radio" name="pokemon-tabs-octillery-group" id="pokemon-tabs-octillery-tab-0">

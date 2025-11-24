@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Toucannon (#039)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-toucannon">
 <input type="radio" name="pokemon-tabs-toucannon-group" id="pokemon-tabs-toucannon-tab-0">

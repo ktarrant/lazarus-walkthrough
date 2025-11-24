@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Rapidash (#253)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-rapidash">
 <input type="radio" name="pokemon-tabs-rapidash-group" id="pokemon-tabs-rapidash-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Mawile (#104)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-mawile">
 <input type="radio" name="pokemon-tabs-mega-mawile-group" id="pokemon-tabs-mega-mawile-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Stoutland (#036)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-stoutland">
 <input type="radio" name="pokemon-tabs-stoutland-group" id="pokemon-tabs-stoutland-tab-0">

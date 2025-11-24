@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hoppip (#042)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hoppip">
 <input type="radio" name="pokemon-tabs-hoppip-group" id="pokemon-tabs-hoppip-tab-0" checked>

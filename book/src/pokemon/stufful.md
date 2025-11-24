@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Stufful (#267)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-stufful">
 <input type="radio" name="pokemon-tabs-stufful-group" id="pokemon-tabs-stufful-tab-0" checked>

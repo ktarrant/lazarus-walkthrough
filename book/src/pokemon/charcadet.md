@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Charcadet (#302)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-charcadet">
 <input type="radio" name="pokemon-tabs-charcadet-group" id="pokemon-tabs-charcadet-tab-0" checked>

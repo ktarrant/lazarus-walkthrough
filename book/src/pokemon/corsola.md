@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Corsola (#254)</summary>
 Types: Water / Rock • Egg Groups: Water 1 / Water 3
 

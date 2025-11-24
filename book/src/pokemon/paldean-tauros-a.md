@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Paldean Tauros-A (#224)</summary>
 Types: Fighting / Water • Egg Groups: Field
 

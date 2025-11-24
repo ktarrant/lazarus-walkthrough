@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Weepinbell (#369)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-weepinbell">
 <input type="radio" name="pokemon-tabs-weepinbell-group" id="pokemon-tabs-weepinbell-tab-0">

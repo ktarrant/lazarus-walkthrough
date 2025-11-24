@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Chespin (#010)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-chespin">
 <input type="radio" name="pokemon-tabs-chespin-group" id="pokemon-tabs-chespin-tab-0" checked>

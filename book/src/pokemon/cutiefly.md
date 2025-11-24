@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cutiefly (#069)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cutiefly">
 <input type="radio" name="pokemon-tabs-cutiefly-group" id="pokemon-tabs-cutiefly-tab-0" checked>

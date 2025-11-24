@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Weavile (#201)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-weavile">
 <input type="radio" name="pokemon-tabs-weavile-group" id="pokemon-tabs-weavile-tab-0">

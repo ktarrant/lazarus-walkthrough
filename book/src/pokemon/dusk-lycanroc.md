@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dusk Lycanroc (#106)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dusk-lycanroc">
 <input type="radio" name="pokemon-tabs-dusk-lycanroc-group" id="pokemon-tabs-dusk-lycanroc-tab-0">

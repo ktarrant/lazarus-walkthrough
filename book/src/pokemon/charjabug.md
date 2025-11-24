@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Charjabug (#049)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-charjabug">
 <input type="radio" name="pokemon-tabs-charjabug-group" id="pokemon-tabs-charjabug-tab-0">

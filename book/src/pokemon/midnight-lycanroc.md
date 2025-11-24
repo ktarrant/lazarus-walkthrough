@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Midnight Lycanroc (#106)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-midnight-lycanroc">
 <input type="radio" name="pokemon-tabs-midnight-lycanroc-group" id="pokemon-tabs-midnight-lycanroc-tab-0">

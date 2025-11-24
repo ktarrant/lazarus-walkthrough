@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bronzor (#194)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bronzor">
 <input type="radio" name="pokemon-tabs-bronzor-group" id="pokemon-tabs-bronzor-tab-0" checked>

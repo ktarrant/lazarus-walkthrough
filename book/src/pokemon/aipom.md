@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Aipom (#129)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-aipom">
 <input type="radio" name="pokemon-tabs-aipom-group" id="pokemon-tabs-aipom-tab-0" checked>

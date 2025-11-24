@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cufant (#196)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cufant">
 <input type="radio" name="pokemon-tabs-cufant-group" id="pokemon-tabs-cufant-tab-0" checked>

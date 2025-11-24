@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Heracross (#126)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-heracross">
 <input type="radio" name="pokemon-tabs-heracross-group" id="pokemon-tabs-heracross-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Crabrawler (#273)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crabrawler">
 <input type="radio" name="pokemon-tabs-crabrawler-group" id="pokemon-tabs-crabrawler-tab-0" checked>

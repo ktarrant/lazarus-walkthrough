@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Eternal Flower Floette (#313)</summary>
 Types: Fairy • Egg Groups: -
 

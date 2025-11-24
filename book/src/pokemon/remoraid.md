@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Remoraid (#383)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-remoraid">
 <input type="radio" name="pokemon-tabs-remoraid-group" id="pokemon-tabs-remoraid-tab-0" checked>

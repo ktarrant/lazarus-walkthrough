@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Skorupi (#175)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-skorupi">
 <input type="radio" name="pokemon-tabs-skorupi-group" id="pokemon-tabs-skorupi-tab-0" checked>

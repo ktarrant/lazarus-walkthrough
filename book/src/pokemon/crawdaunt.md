@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Crawdaunt (#401)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crawdaunt">
 <input type="radio" name="pokemon-tabs-crawdaunt-group" id="pokemon-tabs-crawdaunt-tab-0">

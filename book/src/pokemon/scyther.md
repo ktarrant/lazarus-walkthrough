@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Scyther (#264)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-scyther">
 <input type="radio" name="pokemon-tabs-scyther-group" id="pokemon-tabs-scyther-tab-0" checked>

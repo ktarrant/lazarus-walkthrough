@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dratini (#418)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dratini">
 <input type="radio" name="pokemon-tabs-dratini-group" id="pokemon-tabs-dratini-tab-0" checked>

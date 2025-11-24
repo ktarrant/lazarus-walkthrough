@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Frosmoth (#056)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-frosmoth">
 <input type="radio" name="pokemon-tabs-frosmoth-group" id="pokemon-tabs-frosmoth-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Oranguru (#346)</summary>
 Types: Normal / Psychic • Egg Groups: Field
 

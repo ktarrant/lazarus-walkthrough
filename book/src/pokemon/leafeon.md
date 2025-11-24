@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Leafeon (#089)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-leafeon">
 <input type="radio" name="pokemon-tabs-leafeon-group" id="pokemon-tabs-leafeon-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Doublade (#150)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-doublade">
 <input type="radio" name="pokemon-tabs-doublade-group" id="pokemon-tabs-doublade-tab-0">

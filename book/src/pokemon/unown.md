@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Unown (#403)</summary>
 Types: Psychic • Egg Groups: -
 

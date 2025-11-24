@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Greninja (#018)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-greninja">
 <input type="radio" name="pokemon-tabs-greninja-group" id="pokemon-tabs-greninja-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gliscor (#332)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gliscor">
 <input type="radio" name="pokemon-tabs-gliscor-group" id="pokemon-tabs-gliscor-tab-0">

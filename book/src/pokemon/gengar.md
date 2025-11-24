@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gengar (#157)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gengar">
 <input type="radio" name="pokemon-tabs-gengar-group" id="pokemon-tabs-gengar-tab-0">

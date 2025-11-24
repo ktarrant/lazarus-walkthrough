@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Komala (#181)</summary>
 Types: Normal • Egg Groups: Field
 

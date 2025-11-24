@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cursola (#255)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cursola">
 <input type="radio" name="pokemon-tabs-cursola-group" id="pokemon-tabs-cursola-tab-0">

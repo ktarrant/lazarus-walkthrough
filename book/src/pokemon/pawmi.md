@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Pawmi (#233)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-pawmi">
 <input type="radio" name="pokemon-tabs-pawmi-group" id="pokemon-tabs-pawmi-tab-0" checked>

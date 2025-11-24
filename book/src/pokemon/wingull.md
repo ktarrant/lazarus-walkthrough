@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Wingull (#182)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-wingull">
 <input type="radio" name="pokemon-tabs-wingull-group" id="pokemon-tabs-wingull-tab-0" checked>

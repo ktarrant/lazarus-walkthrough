@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Floette (#313)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-floette">
 <input type="radio" name="pokemon-tabs-floette-group" id="pokemon-tabs-floette-tab-0">

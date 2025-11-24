@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Rayquaza (#429)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-rayquaza">
 <input type="radio" name="pokemon-tabs-mega-rayquaza-group" id="pokemon-tabs-mega-rayquaza-tab-0">

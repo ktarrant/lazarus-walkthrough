@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gurdurr (#115)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gurdurr">
 <input type="radio" name="pokemon-tabs-gurdurr-group" id="pokemon-tabs-gurdurr-tab-0">

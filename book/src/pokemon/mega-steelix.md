@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Steelix (#180)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-steelix">
 <input type="radio" name="pokemon-tabs-mega-steelix-group" id="pokemon-tabs-mega-steelix-tab-0">

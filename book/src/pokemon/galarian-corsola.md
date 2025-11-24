@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Galarian Corsola (#254)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-galarian-corsola">
 <input type="radio" name="pokemon-tabs-galarian-corsola-group" id="pokemon-tabs-galarian-corsola-tab-0" checked>

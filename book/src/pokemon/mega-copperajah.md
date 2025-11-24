@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Copperajah (#197)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-copperajah">
 <input type="radio" name="pokemon-tabs-mega-copperajah-group" id="pokemon-tabs-mega-copperajah-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cyndaquil (#214)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cyndaquil">
 <input type="radio" name="pokemon-tabs-cyndaquil-group" id="pokemon-tabs-cyndaquil-tab-0" checked>

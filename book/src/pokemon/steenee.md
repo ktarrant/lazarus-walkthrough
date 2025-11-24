@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Steenee (#132)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-steenee">
 <input type="radio" name="pokemon-tabs-steenee-group" id="pokemon-tabs-steenee-tab-0">

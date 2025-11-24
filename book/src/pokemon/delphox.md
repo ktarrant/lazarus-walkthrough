@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Delphox (#015)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-delphox">
 <input type="radio" name="pokemon-tabs-delphox-group" id="pokemon-tabs-delphox-tab-0">

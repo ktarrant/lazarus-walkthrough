@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Igglybuff (#315)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-igglybuff">
 <input type="radio" name="pokemon-tabs-igglybuff-group" id="pokemon-tabs-igglybuff-tab-0" checked>

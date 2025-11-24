@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Sprigatito (#019)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sprigatito">
 <input type="radio" name="pokemon-tabs-sprigatito-group" id="pokemon-tabs-sprigatito-tab-0" checked>

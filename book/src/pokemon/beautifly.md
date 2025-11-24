@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Beautifly (#075)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-beautifly">
 <input type="radio" name="pokemon-tabs-beautifly-group" id="pokemon-tabs-beautifly-tab-0">

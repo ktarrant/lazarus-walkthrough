@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Huntail (#310)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-huntail">
 <input type="radio" name="pokemon-tabs-huntail-group" id="pokemon-tabs-huntail-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Skeledirge (#024)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-skeledirge">
 <input type="radio" name="pokemon-tabs-skeledirge-group" id="pokemon-tabs-skeledirge-tab-0">

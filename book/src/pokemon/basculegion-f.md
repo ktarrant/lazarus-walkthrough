@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Basculegion♀ (#288)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-basculegion-f">
 <input type="radio" name="pokemon-tabs-basculegion-f-group" id="pokemon-tabs-basculegion-f-tab-0">

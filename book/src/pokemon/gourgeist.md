@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gourgeist (#123)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gourgeist">
 <input type="radio" name="pokemon-tabs-gourgeist-group" id="pokemon-tabs-gourgeist-tab-0">

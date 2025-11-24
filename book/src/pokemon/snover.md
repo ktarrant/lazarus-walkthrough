@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Snover (#392)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-snover">
 <input type="radio" name="pokemon-tabs-snover-group" id="pokemon-tabs-snover-tab-0" checked>

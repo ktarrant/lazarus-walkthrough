@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ariados (#178)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ariados">
 <input type="radio" name="pokemon-tabs-ariados-group" id="pokemon-tabs-ariados-tab-0">

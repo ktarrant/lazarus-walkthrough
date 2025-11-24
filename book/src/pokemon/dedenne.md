@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dedenne (#279)</summary>
 Types: Electric / Fairy • Egg Groups: Fairy / Field
 

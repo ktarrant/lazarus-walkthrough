@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Phanpy (#053)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-phanpy">
 <input type="radio" name="pokemon-tabs-phanpy-group" id="pokemon-tabs-phanpy-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Crustle (#153)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-crustle">
 <input type="radio" name="pokemon-tabs-crustle-group" id="pokemon-tabs-crustle-tab-0">

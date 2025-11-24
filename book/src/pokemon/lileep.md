@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Lileep (#275)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-lileep">
 <input type="radio" name="pokemon-tabs-lileep-group" id="pokemon-tabs-lileep-tab-0" checked>

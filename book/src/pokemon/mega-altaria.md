@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Altaria (#359)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-altaria">
 <input type="radio" name="pokemon-tabs-mega-altaria-group" id="pokemon-tabs-mega-altaria-tab-0">

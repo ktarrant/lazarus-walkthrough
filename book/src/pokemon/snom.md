@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Snom (#055)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-snom">
 <input type="radio" name="pokemon-tabs-snom-group" id="pokemon-tabs-snom-tab-0" checked>

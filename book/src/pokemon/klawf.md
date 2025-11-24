@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Klawf (#117)</summary>
 Types: Rock • Egg Groups: Water 3
 

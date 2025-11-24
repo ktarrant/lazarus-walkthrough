@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Alolan Meowth (#207)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-alolan-meowth">
 <input type="radio" name="pokemon-tabs-alolan-meowth-group" id="pokemon-tabs-alolan-meowth-tab-0" checked>

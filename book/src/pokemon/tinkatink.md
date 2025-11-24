@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Tinkatink (#326)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-tinkatink">
 <input type="radio" name="pokemon-tabs-tinkatink-group" id="pokemon-tabs-tinkatink-tab-0" checked>

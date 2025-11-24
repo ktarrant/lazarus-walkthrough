@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kilowattrel (#243)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kilowattrel">
 <input type="radio" name="pokemon-tabs-kilowattrel-group" id="pokemon-tabs-kilowattrel-tab-0">

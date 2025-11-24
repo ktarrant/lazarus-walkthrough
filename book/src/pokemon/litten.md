@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Litten (#004)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-litten">
 <input type="radio" name="pokemon-tabs-litten-group" id="pokemon-tabs-litten-tab-0" checked>

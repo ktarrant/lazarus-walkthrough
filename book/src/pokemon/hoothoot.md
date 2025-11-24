@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hoothoot (#141)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hoothoot">
 <input type="radio" name="pokemon-tabs-hoothoot-group" id="pokemon-tabs-hoothoot-tab-0" checked>

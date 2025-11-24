@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Trumbeak (#038)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-trumbeak">
 <input type="radio" name="pokemon-tabs-trumbeak-group" id="pokemon-tabs-trumbeak-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Spheal (#189)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-spheal">
 <input type="radio" name="pokemon-tabs-spheal-group" id="pokemon-tabs-spheal-tab-0" checked>

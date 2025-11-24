@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Eevee (#083)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-eevee">
 <input type="radio" name="pokemon-tabs-eevee-group" id="pokemon-tabs-eevee-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Torracat (#005)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-torracat">
 <input type="radio" name="pokemon-tabs-torracat-group" id="pokemon-tabs-torracat-tab-0">

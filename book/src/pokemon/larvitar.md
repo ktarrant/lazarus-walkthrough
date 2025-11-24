@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Larvitar (#414)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-larvitar">
 <input type="radio" name="pokemon-tabs-larvitar-group" id="pokemon-tabs-larvitar-tab-0" checked>

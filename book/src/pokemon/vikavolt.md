@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Vikavolt (#050)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-vikavolt">
 <input type="radio" name="pokemon-tabs-vikavolt-group" id="pokemon-tabs-vikavolt-tab-0">

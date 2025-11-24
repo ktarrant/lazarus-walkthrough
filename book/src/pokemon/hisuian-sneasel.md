@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Sneasel (#200)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-sneasel">
 <input type="radio" name="pokemon-tabs-hisuian-sneasel-group" id="pokemon-tabs-hisuian-sneasel-tab-0" checked>

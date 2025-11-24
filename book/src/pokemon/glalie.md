@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Glalie (#187)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-glalie">
 <input type="radio" name="pokemon-tabs-glalie-group" id="pokemon-tabs-glalie-tab-0">

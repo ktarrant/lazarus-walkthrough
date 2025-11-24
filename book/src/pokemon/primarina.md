@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Primarina (#009)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-primarina">
 <input type="radio" name="pokemon-tabs-primarina-group" id="pokemon-tabs-primarina-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Tyranitar (#416)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-tyranitar">
 <input type="radio" name="pokemon-tabs-mega-tyranitar-group" id="pokemon-tabs-mega-tyranitar-tab-0">

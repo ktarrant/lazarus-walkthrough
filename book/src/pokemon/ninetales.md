@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ninetales (#148)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ninetales">
 <input type="radio" name="pokemon-tabs-ninetales-group" id="pokemon-tabs-ninetales-tab-0">

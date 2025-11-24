@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Grubbin (#048)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-grubbin">
 <input type="radio" name="pokemon-tabs-grubbin-group" id="pokemon-tabs-grubbin-tab-0" checked>

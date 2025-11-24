@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Poliwhirl (#119)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-poliwhirl">
 <input type="radio" name="pokemon-tabs-poliwhirl-group" id="pokemon-tabs-poliwhirl-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Bastiodon (#229)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-bastiodon">
 <input type="radio" name="pokemon-tabs-bastiodon-group" id="pokemon-tabs-bastiodon-tab-0">

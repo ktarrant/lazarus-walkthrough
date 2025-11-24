@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Gastly (#155)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-gastly">
 <input type="radio" name="pokemon-tabs-gastly-group" id="pokemon-tabs-gastly-tab-0" checked>

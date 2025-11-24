@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Breloom (#125)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-breloom">
 <input type="radio" name="pokemon-tabs-breloom-group" id="pokemon-tabs-breloom-tab-0">

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dusknoir (#396)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dusknoir">
 <input type="radio" name="pokemon-tabs-dusknoir-group" id="pokemon-tabs-dusknoir-tab-0">

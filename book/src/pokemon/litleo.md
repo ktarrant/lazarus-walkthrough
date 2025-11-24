@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Litleo (#387)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-litleo">
 <input type="radio" name="pokemon-tabs-litleo-group" id="pokemon-tabs-litleo-tab-0" checked>

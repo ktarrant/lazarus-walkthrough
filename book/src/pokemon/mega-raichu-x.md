@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Raichu X (#250)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-raichu-x">
 <input type="radio" name="pokemon-tabs-mega-raichu-x-group" id="pokemon-tabs-mega-raichu-x-tab-0">

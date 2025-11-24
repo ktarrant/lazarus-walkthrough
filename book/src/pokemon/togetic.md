@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Togetic (#165)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-togetic">
 <input type="radio" name="pokemon-tabs-togetic-group" id="pokemon-tabs-togetic-tab-0">

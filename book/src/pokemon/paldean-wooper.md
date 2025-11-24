@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Paldean Wooper (#134)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-paldean-wooper">
 <input type="radio" name="pokemon-tabs-paldean-wooper-group" id="pokemon-tabs-paldean-wooper-tab-0" checked>

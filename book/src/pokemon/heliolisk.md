@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Heliolisk (#319)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-heliolisk">
 <input type="radio" name="pokemon-tabs-heliolisk-group" id="pokemon-tabs-heliolisk-tab-0" checked>

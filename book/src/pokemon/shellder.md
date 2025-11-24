@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Shellder (#307)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-shellder">
 <input type="radio" name="pokemon-tabs-shellder-group" id="pokemon-tabs-shellder-tab-0" checked>

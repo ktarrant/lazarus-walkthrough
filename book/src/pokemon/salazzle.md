@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Salazzle (#161)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-salazzle">
 <input type="radio" name="pokemon-tabs-salazzle-group" id="pokemon-tabs-salazzle-tab-0">

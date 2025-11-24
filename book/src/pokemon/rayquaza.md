@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Rayquaza (#429)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-rayquaza">
 <input type="radio" name="pokemon-tabs-rayquaza-group" id="pokemon-tabs-rayquaza-tab-0" checked>

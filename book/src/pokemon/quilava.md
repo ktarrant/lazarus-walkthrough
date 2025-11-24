@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Quilava (#215)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-quilava">
 <input type="radio" name="pokemon-tabs-quilava-group" id="pokemon-tabs-quilava-tab-0">

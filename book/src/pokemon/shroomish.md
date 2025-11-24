@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Shroomish (#124)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-shroomish">
 <input type="radio" name="pokemon-tabs-shroomish-group" id="pokemon-tabs-shroomish-tab-0" checked>

@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Dusclops (#395)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-dusclops">
 <input type="radio" name="pokemon-tabs-dusclops-group" id="pokemon-tabs-dusclops-tab-0">

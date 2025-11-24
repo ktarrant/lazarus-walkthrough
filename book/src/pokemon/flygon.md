@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Flygon (#323)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-flygon">
 <input type="radio" name="pokemon-tabs-flygon-group" id="pokemon-tabs-flygon-tab-0">

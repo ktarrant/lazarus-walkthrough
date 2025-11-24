@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Primeape (#361)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-primeape">
 <input type="radio" name="pokemon-tabs-primeape-group" id="pokemon-tabs-primeape-tab-0">

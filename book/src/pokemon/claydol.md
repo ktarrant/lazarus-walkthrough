@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Claydol (#159)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-claydol">
 <input type="radio" name="pokemon-tabs-claydol-group" id="pokemon-tabs-claydol-tab-0">

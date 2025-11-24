@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Annihilape (#362)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-annihilape">
 <input type="radio" name="pokemon-tabs-annihilape-group" id="pokemon-tabs-annihilape-tab-0">

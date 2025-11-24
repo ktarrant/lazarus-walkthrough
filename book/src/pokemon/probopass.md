@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Probopass (#103)</summary>
 Types: Rock / Steel • Egg Groups: Mineral
 

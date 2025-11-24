@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Sealeo (#190)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-sealeo">
 <input type="radio" name="pokemon-tabs-sealeo-group" id="pokemon-tabs-sealeo-tab-0">

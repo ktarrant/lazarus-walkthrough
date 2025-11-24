@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mega Falinks (#320)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mega-falinks">
 <input type="radio" name="pokemon-tabs-mega-falinks-group" id="pokemon-tabs-mega-falinks-tab-0">

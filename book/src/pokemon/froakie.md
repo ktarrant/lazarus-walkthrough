@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Froakie (#016)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-froakie">
 <input type="radio" name="pokemon-tabs-froakie-group" id="pokemon-tabs-froakie-tab-0" checked>

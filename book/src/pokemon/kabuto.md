@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kabuto (#173)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kabuto">
 <input type="radio" name="pokemon-tabs-kabuto-group" id="pokemon-tabs-kabuto-tab-0" checked>

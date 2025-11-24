@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Cradily (#276)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-cradily">
 <input type="radio" name="pokemon-tabs-cradily-group" id="pokemon-tabs-cradily-tab-0">

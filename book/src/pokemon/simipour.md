@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Simipour (#033)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-simipour">
 <input type="radio" name="pokemon-tabs-simipour-group" id="pokemon-tabs-simipour-tab-0">

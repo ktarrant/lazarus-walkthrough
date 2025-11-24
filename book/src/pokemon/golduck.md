@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Golduck (#379)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-golduck">
 <input type="radio" name="pokemon-tabs-golduck-group" id="pokemon-tabs-golduck-tab-0">

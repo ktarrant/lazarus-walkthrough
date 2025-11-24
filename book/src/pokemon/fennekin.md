@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Fennekin (#013)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-fennekin">
 <input type="radio" name="pokemon-tabs-fennekin-group" id="pokemon-tabs-fennekin-tab-0" checked>

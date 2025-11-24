@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Magnezone (#373)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-magnezone">
 <input type="radio" name="pokemon-tabs-magnezone-group" id="pokemon-tabs-magnezone-tab-0">

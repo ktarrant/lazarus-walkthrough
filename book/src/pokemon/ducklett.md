@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Ducklett (#040)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-ducklett">
 <input type="radio" name="pokemon-tabs-ducklett-group" id="pokemon-tabs-ducklett-tab-0" checked>

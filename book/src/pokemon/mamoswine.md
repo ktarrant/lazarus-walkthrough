@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Mamoswine (#399)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-mamoswine">
 <input type="radio" name="pokemon-tabs-mamoswine-group" id="pokemon-tabs-mamoswine-tab-0">

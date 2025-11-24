@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Kleavor (#266)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-kleavor">
 <input type="radio" name="pokemon-tabs-kleavor-group" id="pokemon-tabs-kleavor-tab-0">

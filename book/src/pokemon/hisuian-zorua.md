@@ -1,4 +1,4 @@
-<details class="pokemon-card-container" open>
+<details class="pokemon-card-container">
 <summary>Hisuian Zorua (#198)</summary>
 <div class="pokemon-tabs" id="pokemon-tabs-hisuian-zorua">
 <input type="radio" name="pokemon-tabs-hisuian-zorua-group" id="pokemon-tabs-hisuian-zorua-tab-0" checked>
