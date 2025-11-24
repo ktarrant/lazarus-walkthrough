@@ -128,3 +128,23 @@
 .sidebar .nav-hidden {
     display: none;
 }
+
+.lookup-card {
+    display: none;
+    margin: 1rem 0;
+}
+
+#lookup-input {
+    width: 100%;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid #3a3f4b;
+    border-radius: 6px;
+    background: #1e222a;
+    color: #f5f7ff;
+}
+
+#lookup-status {
+    margin-top: 0.5rem;
+    color: #f1c40f;
+    font-weight: 600;
+}

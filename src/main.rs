@@ -77,6 +77,12 @@ enum Command {
         #[arg(long, default_value = "book/src/ability-catalog.md")]
         out: PathBuf,
     },
+    /// Generate a lookup page for Pokémon cards
+    PokemonLookup {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/pokemon-lookup.md")]
+        out: PathBuf,
+    },
     /// Generate SUMMARY.md from the template
     Summary {
         /// Path to the SUMMARY template
@@ -124,6 +130,9 @@ fn main() -> Result<()> {
         }
         Command::AbilityCatalog { out } => {
             render_ability_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
+        }
+        Command::PokemonLookup { out } => {
+            render_pokemon_lookup(cli.pokedex_json.clone(), cli.encounters_json, out)?
         }
         Command::Summary { template, out } => {
             render_summary(cli.pokedex_json.clone(), cli.encounters_json, template, out)?
@@ -476,6 +485,42 @@ fn render_summary(
         std::fs::create_dir_all(parent)?;
     }
     std::fs::write(out_path, summary)?;
+    Ok(())
+}
+
+fn render_pokemon_lookup(
+    pokedex_path: PathBuf,
+    manifest: PathBuf,
+    out_path: PathBuf,
+) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let species = encounters::list_species(&manifest)?;
+    let mut entries = Vec::new();
+    for name in species {
+        let slug = encounters::slugify(&name);
+        if let Some((entry, _)) = find_entry(&dex, &name) {
+            entries.push((entry.name.clone(), slug));
+        }
+    }
+    entries.sort_by(|a, b| a.1.cmp(&b.1));
+
+    let mut buf = String::new();
+    buf.push_str("# Pokémon Lookup\n\n");
+    buf.push_str("Type to filter and reveal a matching Pokémon card.\n\n");
+    buf.push_str(r#"<input id="lookup-input" type="text" placeholder="Start typing a name..." />"#);
+    buf.push_str("\n\n<div id=\"lookup-status\"></div>\n\n<div id=\"lookup-cards\">\n");
+    for (name, slug) in entries {
+        let search = format!("{} {}", name.to_lowercase(), slug);
+        buf.push_str(&format!(
+            "<div class=\"lookup-card\" data-name=\"{}\">\n{{{{#include ./pokemon/{}.md}}}}\n</div>\n",
+            search, slug
+        ));
+    }
+    buf.push_str("</div>\n\n<script>\nconst input = document.getElementById('lookup-input');\nconst cards = Array.from(document.querySelectorAll('.lookup-card'));\nconst status = document.getElementById('lookup-status');\nfunction applyFilter() {\n  const q = input.value.trim().toLowerCase();\n  let shown = 0;\n  for (const card of cards) {\n    if (!q) {\n      card.style.display = 'none';\n      continue;\n    }\n    if (card.dataset.name.includes(q) && shown === 0) {\n      card.style.display = 'block';\n      shown += 1;\n    } else {\n      card.style.display = 'none';\n    }\n  }\n  status.textContent = q && shown === 0 ? 'No match found' : '';\n}\napplyFilter();\ninput.addEventListener('input', applyFilter);\n</script>\n");
+    if let Some(parent) = out_path.parent() {
+        std::fs::create_dir_all(parent)?;
+    }
+    std::fs::write(out_path, buf)?;
     Ok(())
 }
 
