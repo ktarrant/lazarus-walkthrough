@@ -131,18 +131,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "722",
-      "1 HP",
-      "0.3",
-      "1.5",
-      "64",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "dartrix"
     ]
@@ -279,16 +270,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "723",
-      "2 HP",
-      "0.7",
-      "16.0",
-      "147",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "rowlet",
     "evolves_to": [
@@ -453,16 +435,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "724",
-      "3 Atk",
-      "1.6",
-      "36.6",
-      "265",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "hisuian-decidueye",
     "evolves_to": []
@@ -590,18 +563,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "725",
-      "1 Spe",
-      "0.4",
-      "4.3",
-      "64",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "torracat"
     ]
@@ -733,16 +697,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "726",
-      "2 Spe",
-      "0.7",
-      "25.0",
-      "147",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "litten",
     "evolves_to": [
@@ -904,16 +859,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "727",
-      "3 Atk",
-      "1.8",
-      "83.0",
-      "239",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "torracat",
     "evolves_to": []
@@ -1043,18 +989,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "728",
-      "1 Sp. Atk",
-      "0.4",
-      "7.5",
-      "50",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "brionne"
     ]
@@ -1193,16 +1130,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "729",
-      "2 Sp. Atk",
-      "0.6",
-      "17.5",
-      "147",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "popplio",
     "evolves_to": [
@@ -1355,16 +1283,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "730",
-      "3 Sp. Atk",
-      "1.8",
-      "44.0",
-      "239",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "brionne",
     "evolves_to": []
@@ -1506,18 +1425,9 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "650",
-      "1 Def",
-      "0.4",
-      "9.0",
-      "63",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "quilladin"
     ]
@@ -1663,16 +1573,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "651",
-      "2 Def",
-      "0.7",
-      "29.0",
-      "142",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "chespin",
     "evolves_to": [
@@ -1849,16 +1750,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "652",
-      "3 Def",
-      "1.6",
-      "90.0",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "quilladin",
     "evolves_to": [
@@ -1999,18 +1891,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "653",
-      "1 Sp. Atk",
-      "0.4",
-      "9.4",
-      "61",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "braixen"
     ]
@@ -2156,16 +2039,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "654",
-      "2 Sp. Atk",
-      "1.0",
-      "14.5",
-      "143",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "fennekin",
     "evolves_to": [
@@ -2339,16 +2213,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "655",
-      "3 Sp. Atk",
-      "1.5",
-      "39.0",
-      "267",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "braixen",
     "evolves_to": [
@@ -2490,18 +2355,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "656",
-      "1 Spe",
-      "0.3",
-      "7.0",
-      "63",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "frogadier"
     ]
@@ -2648,16 +2504,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "657",
-      "2 Spe",
-      "0.6",
-      "10.9",
-      "142",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "froakie",
     "evolves_to": [
@@ -2844,16 +2691,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "658",
-      "3 Spe",
-      "1.5",
-      "40.0",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "frogadier",
     "evolves_to": [
@@ -2961,18 +2799,9 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk",
-      "Swift",
-      "906",
-      "1 Spe",
-      "0.4",
-      "4.1",
-      "62",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "floragato"
     ]
@@ -3084,16 +2913,7 @@
       "Mud-Slap",
       "Sleep Talk",
       "Swift",
-      "Thunder Punch",
-      "907",
-      "2 Spe",
-      "0.9",
-      "12.2",
-      "144",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "sprigatito",
     "evolves_to": [
@@ -3239,16 +3059,7 @@
       "Psych Up",
       "Sleep Talk",
       "Swift",
-      "Thunder Punch",
-      "908",
-      "3 Spe",
-      "1.5",
-      "31.2",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "floragato",
     "evolves_to": []
@@ -3350,18 +3161,9 @@
       "Body Slam",
       "Endure",
       "Mud-Slap",
-      "Sleep Talk",
-      "909",
-      "1 HP",
-      "0.4",
-      "9.8",
-      "62",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Sleep Talk"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "crocalor"
     ]
@@ -3471,16 +3273,7 @@
       "Body Slam",
       "Endure",
       "Mud-Slap",
-      "Sleep Talk",
-      "910",
-      "2 Sp. Atk",
-      "1.0",
-      "30.7",
-      "144",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "fuecoco",
     "evolves_to": [
@@ -3621,16 +3414,7 @@
       "Body Slam",
       "Endure",
       "Mud-Slap",
-      "Sleep Talk",
-      "911",
-      "3 Sp. Atk",
-      "1.6",
-      "326.5",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "crocalor",
     "evolves_to": []
@@ -3732,18 +3516,9 @@
       "Endure",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "912",
-      "1 Atk",
-      "0.5",
-      "6.1",
-      "62",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "quaxwell"
     ]
@@ -3858,16 +3633,7 @@
       "Endure",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "913",
-      "2 Atk",
-      "1.2",
-      "21.5",
-      "144",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "quaxly",
     "evolves_to": [
@@ -4012,16 +3778,7 @@
       "Psych Up",
       "Sleep Talk",
       "Swift",
-      "Swords Dance",
-      "914",
-      "3 Atk",
-      "1.8",
-      "61.9",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "quaxwell",
     "evolves_to": []
@@ -4164,18 +3921,9 @@
     "tutor_moves": [
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "511",
-      "1 Spe",
-      "0.6",
-      "10.5",
-      "63",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "simisage"
     ]
@@ -4321,16 +4069,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "512",
-      "2 Spe",
-      "1.1",
-      "30.5",
-      "174",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "pansage",
     "evolves_to": []
@@ -4475,18 +4214,9 @@
       "Fire Punch",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "513",
-      "1 Spe",
-      "0.6",
-      "11.0",
-      "63",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "simisear"
     ]
@@ -4634,16 +4364,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "514",
-      "2 Spe",
-      "1.0",
-      "28.0",
-      "174",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "pansear",
     "evolves_to": []
@@ -4790,18 +4511,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "515",
-      "1 Spe",
-      "0.6",
-      "13.5",
-      "63",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "simipour"
     ]
@@ -4951,16 +4663,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "516",
-      "2 Spe",
-      "1.0",
-      "29.0",
-      "174",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "panpour",
     "evolves_to": []
@@ -5092,18 +4795,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "506",
-      "1 Atk",
-      "0.4",
-      "4.1",
-      "55",
-      "255",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "herdier"
     ]
@@ -5241,16 +4935,7 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "507",
-      "2 Atk",
-      "0.9",
-      "14.7",
-      "130",
-      "120",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "lillipup",
     "evolves_to": [
@@ -5407,16 +5092,7 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "508",
-      "3 Atk",
-      "1.2",
-      "61.0",
-      "225",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "herdier",
     "evolves_to": []
@@ -5531,18 +5207,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "731",
-      "1 Atk",
-      "0.3",
-      "1.2",
-      "53",
-      "255",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "trumbeak"
     ]
@@ -5666,16 +5333,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "732",
-      "2 Atk",
-      "0.6",
-      "14.8",
-      "124",
-      "120",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "pikipek",
     "evolves_to": [
@@ -5810,16 +5468,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "733",
-      "3 Atk",
-      "1.1",
-      "26.0",
-      "243",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "trumbeak",
     "evolves_to": [
@@ -5973,18 +5622,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "580",
-      "1 HP",
-      "0.5",
-      "5.5",
-      "61",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "swanna"
     ]
@@ -6136,16 +5776,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "581",
-      "2 Spe",
-      "1.3",
-      "24.2",
-      "166",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "ducklett",
     "evolves_to": []
@@ -6301,18 +5932,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "187",
-      "1 Sp. Def",
-      "0.4",
-      "0.5",
-      "50",
-      "255",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "skiploom"
     ]
@@ -6476,16 +6098,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "188",
-      "2 Spe",
-      "0.6",
-      "1.0",
-      "119",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "hoppip",
     "evolves_to": [
@@ -6651,16 +6264,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "189",
-      "3 Spe",
-      "0.8",
-      "3.0",
-      "230",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "skiploom",
     "evolves_to": []
@@ -6771,18 +6375,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "290",
-      "1 Def",
-      "0.5",
-      "5.5",
-      "53",
-      "255",
-      "15",
-      "50",
-      "Erratic"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "ninjask"
     ]
@@ -6946,16 +6541,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "291",
-      "2 Spe",
-      "0.8",
-      "12.0",
-      "160",
-      "120",
-      "15",
-      "50",
-      "Erratic"
+      "Swords Dance"
     ],
     "evolves_from": "nincada",
     "evolves_to": [
@@ -7092,16 +6678,7 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "292",
-      "2 HP",
-      "0.8",
-      "1.2",
-      "83",
-      "45",
-      "15",
-      "50",
-      "Erratic"
+      "Swagger"
     ],
     "evolves_from": "pokeball",
     "evolves_to": []
@@ -7200,18 +6777,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "736",
-      "1 Atk",
-      "0.4",
-      "4.4",
-      "60",
-      "255",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "charjabug"
     ]
@@ -7324,16 +6892,7 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "737",
-      "2 Def",
-      "0.5",
-      "10.5",
-      "140",
-      "120",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "grubbin",
     "evolves_to": [
@@ -7469,16 +7028,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "738",
-      "3 Sp. Atk",
-      "1.5",
-      "45.0",
-      "250",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "charjabug",
     "evolves_to": []
@@ -7623,18 +7173,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "46",
-      "1 Atk",
-      "0.3",
-      "5.4",
-      "57",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "parasect"
     ]
@@ -7791,16 +7332,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "47",
-      "2 Atk, 1 Def",
-      "1.0",
-      "29.5",
-      "142",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "paras",
     "evolves_to": []
@@ -7941,18 +7473,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "231",
-      "1 HP",
-      "0.5",
-      "33.5",
-      "66",
-      "120",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "donphan"
     ]
@@ -8110,16 +7633,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "232",
-      "1 Atk, 1 Def",
-      "1.1",
-      "120.0",
-      "175",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "phanpy",
     "evolves_to": []
@@ -8180,18 +7694,9 @@
       "Endure",
       "Icy Wind",
       "Sleep Talk",
-      "Snore",
-      "872",
-      "1 Sp. Atk",
-      "0.3",
-      "3.8",
-      "37",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Snore"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "frosmoth"
     ]
@@ -8340,16 +7845,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "873",
-      "2 Sp. Atk",
-      "1.3",
-      "42.0",
-      "166",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "snom",
     "evolves_to": []
@@ -8504,18 +8000,9 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "104",
-      "1 Def",
-      "0.4",
-      "6.5",
-      "64",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "marowak"
     ]
@@ -8670,16 +8157,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "105",
-      "2 Def",
-      "1.0",
-      "45.0",
-      "149",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "cubone",
     "evolves_to": [
@@ -8806,18 +8284,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "749",
-      "1 Atk",
-      "1.0",
-      "110.0",
-      "77",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "mudsdale"
     ]
@@ -8942,16 +8411,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "750",
-      "2 Atk",
-      "2.5",
-      "920.0",
-      "175",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "mudbray",
     "evolves_to": []
@@ -9086,18 +8546,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "179",
-      "1 Sp. Atk",
-      "0.6",
-      "7.8",
-      "56",
-      "235",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "flaaffy"
     ]
@@ -9244,16 +8695,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "180",
-      "2 Sp. Atk",
-      "0.8",
-      "13.3",
-      "128",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "mareep",
     "evolves_to": [
@@ -9439,16 +8881,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "181",
-      "3 Sp. Atk",
-      "1.4",
-      "61.5",
-      "255",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "flaaffy",
     "evolves_to": [
@@ -9504,18 +8937,9 @@
     ],
     "tutor_moves": [
       "Defense Curl",
-      "Rollout",
-      "840",
-      "1 Def",
-      "0.2",
-      "0.5",
-      "52",
-      "255",
-      "20",
-      "50",
-      "Erratic"
+      "Rollout"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "flapple"
     ]
@@ -9655,16 +9079,7 @@
       "Endure",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "841",
-      "2 Atk",
-      "0.3",
-      "1.0",
-      "170",
-      "45",
-      "20",
-      "50",
-      "Erratic"
+      "Snore"
     ],
     "evolves_from": "applin",
     "evolves_to": [
@@ -9808,16 +9223,7 @@
       "Endure",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "842",
-      "2 HP",
-      "0.4",
-      "13.0",
-      "170",
-      "45",
-      "20",
-      "50",
-      "Erratic"
+      "Snore"
     ],
     "evolves_from": "flapple",
     "evolves_to": [
@@ -9955,16 +9361,7 @@
       "Defense Curl",
       "Endure",
       "Rollout",
-      "Sleep Talk",
-      "1011",
-      "2 Def",
-      "0.4",
-      "4.4",
-      "170",
-      "45",
-      "20",
-      "50",
-      "Erratic"
+      "Sleep Talk"
     ],
     "evolves_from": "appletun",
     "evolves_to": [
@@ -10103,16 +9500,7 @@
       "Body Slam",
       "Double-Edge",
       "Endure",
-      "Sleep Talk",
-      "1019",
-      "3 Sp. Atk",
-      "1.8",
-      "93.0",
-      "270",
-      "10",
-      "20",
-      "50",
-      "Erratic"
+      "Sleep Talk"
     ],
     "evolves_from": "dipplin",
     "evolves_to": []
@@ -10238,18 +9626,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "742",
-      "1 Spe",
-      "0.1",
-      "0.2",
-      "61",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "ribombee"
     ]
@@ -10384,16 +9763,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "743",
-      "2 Spe",
-      "0.2",
-      "0.5",
-      "162",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "cutiefly",
     "evolves_to": [
@@ -10549,18 +9919,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "88",
-      "1 HP",
-      "0.9",
-      "30.0",
-      "65",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "muk"
     ]
@@ -10722,16 +10083,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "89",
-      "1 HP, 1 Atk",
-      "1.2",
-      "30.0",
-      "175",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "grimer",
     "evolves_to": []
@@ -10787,18 +10139,9 @@
       "Incompatible"
     ],
     "tutor_moves": [
-      "Snore",
-      "265",
-      "1 HP",
-      "0.3",
-      "3.6",
-      "56",
-      "255",
-      "15",
-      "50",
-      "Medium Fast"
+      "Snore"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "silcoon"
     ]
@@ -10841,17 +10184,7 @@
     "tm_moves": [
       "Incompatible"
     ],
-    "tutor_moves": [
-      "266",
-      "2 Def",
-      "0.6",
-      "10.0",
-      "72",
-      "120",
-      "15",
-      "50",
-      "Medium Fast"
-    ],
+    "tutor_moves": [],
     "evolves_from": "wurmple",
     "evolves_to": [
       "beautifly"
@@ -10964,16 +10297,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "267",
-      "3 Sp. Atk",
-      "1.0",
-      "28.4",
-      "178",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "silcoon",
     "evolves_to": [
@@ -11018,17 +10342,7 @@
     "tm_moves": [
       "Incompatible"
     ],
-    "tutor_moves": [
-      "268",
-      "2 Def",
-      "0.7",
-      "11.5",
-      "72",
-      "120",
-      "15",
-      "50",
-      "Medium Fast"
-    ],
+    "tutor_moves": [],
     "evolves_from": "beautifly",
     "evolves_to": [
       "dustox"
@@ -11143,16 +10457,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "269",
-      "3 Sp. Def",
-      "1.2",
-      "31.6",
-      "173",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "cascoon",
     "evolves_to": []
@@ -11336,18 +10641,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "357",
-      "2 HP",
-      "2.0",
-      "100.0",
-      "161",
-      "200",
-      "25",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -11508,18 +10804,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "280",
-      "1 Sp. Atk",
-      "0.4",
-      "6.6",
-      "40",
-      "235",
-      "20",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "kirlia"
     ]
@@ -11686,16 +10973,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "281",
-      "2 Sp. Atk",
-      "0.8",
-      "20.2",
-      "97",
-      "120",
-      "20",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "ralts",
     "evolves_to": [
@@ -11881,16 +11159,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "282",
-      "3 Sp. Atk",
-      "1.6",
-      "48.4",
-      "259",
-      "45",
-      "20",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "kirlia",
     "evolves_to": [
@@ -12092,16 +11361,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "475",
-      "3 Atk",
-      "1.6",
-      "52.0",
-      "259",
-      "45",
-      "20",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "mega-gardevoir",
     "evolves_to": [
@@ -12243,18 +11503,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "133",
-      "1 Sp. Def",
-      "0.3",
-      "6.5",
-      "65",
-      "45",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "vaporeon"
     ]
@@ -12405,16 +11656,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "134",
-      "2 HP",
-      "1.0",
-      "29.0",
-      "184",
-      "45",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "eevee",
     "evolves_to": [
@@ -12568,16 +11810,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "135",
-      "2 Spe",
-      "0.8",
-      "24.5",
-      "184",
-      "45",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "vaporeon",
     "evolves_to": [
@@ -12724,16 +11957,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "136",
-      "2 Atk",
-      "0.9",
-      "25.0",
-      "184",
-      "45",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "jolteon",
     "evolves_to": [
@@ -12887,16 +12111,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "196",
-      "2 Sp. Atk",
-      "0.9",
-      "26.5",
-      "184",
-      "45",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "flareon",
     "evolves_to": [
@@ -13052,16 +12267,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "197",
-      "2 Sp. Def",
-      "1.0",
-      "27.0",
-      "184",
-      "45",
-      "35",
-      "35",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "espeon",
     "evolves_to": [
@@ -13207,16 +12413,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "470",
-      "2 Def",
-      "1.0",
-      "25.5",
-      "184",
-      "45",
-      "35",
-      "35",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "umbreon",
     "evolves_to": [
@@ -13361,16 +12558,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "471",
-      "2 Sp. Atk",
-      "0.8",
-      "25.9",
-      "184",
-      "45",
-      "35",
-      "35",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "leafeon",
     "evolves_to": [
@@ -13522,16 +12710,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "700",
-      "2 Sp. Def",
-      "1.0",
-      "23.5",
-      "184",
-      "45",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "glaceon",
     "evolves_to": []
@@ -13672,18 +12851,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "672",
-      "1 HP",
-      "0.9",
-      "31.0",
-      "70",
-      "200",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "gogoat"
     ]
@@ -13835,16 +13005,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "673",
-      "2 HP",
-      "1.7",
-      "91.0",
-      "186",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "skiddo",
     "evolves_to": [
@@ -14008,18 +13169,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "198",
-      "1 Spe",
-      "0.5",
-      "2.1",
-      "81",
-      "30",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "honchkrow"
     ]
@@ -14185,16 +13337,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "430",
-      "2 Atk",
-      "0.9",
-      "27.3",
-      "177",
-      "30",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "murkrow",
     "evolves_to": []
@@ -14339,16 +13482,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "741",
-      "2 Sp. Atk",
-      "0.6",
-      "3.4",
-      "167",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "oricorio",
     "evolves_to": [
@@ -14506,18 +13640,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "27",
-      "1 Def",
-      "0.6",
-      "12.0",
-      "60",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "sandslash"
     ]
@@ -14677,16 +13802,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "28",
-      "2 Def",
-      "1.0",
-      "29.5",
-      "158",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "sandshrew",
     "evolves_to": []
@@ -14836,18 +13952,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "551",
-      "1 Atk",
-      "0.7",
-      "15.2",
-      "58",
-      "180",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "krokorok"
     ]
@@ -15004,16 +14111,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "552",
-      "2 Atk",
-      "1.0",
-      "33.4",
-      "123",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "sandile",
     "evolves_to": [
@@ -15185,16 +14283,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "553",
-      "3 Atk",
-      "1.5",
-      "96.3",
-      "260",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "krokorok",
     "evolves_to": []
@@ -15345,18 +14434,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "299",
-      "1 Def",
-      "1.0",
-      "97.0",
-      "75",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "or-thunder-stone"
     ]
@@ -15526,16 +14606,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "476",
-      "1 Def, 2 Sp. Def",
-      "1.4",
-      "340.0",
-      "184",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "or-thunder-stone",
     "evolves_to": []
@@ -15728,18 +14799,9 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "303",
-      "1 Atk, 1 Def",
-      "0.6",
-      "11.5",
-      "133",
-      "45",
-      "20",
-      "50",
-      "Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "mega-mawile"
     ]
@@ -15862,18 +14924,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "744",
-      "1 Atk",
-      "0.5",
-      "9.2",
-      "56",
-      "190",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "lycanroc"
     ]
@@ -16020,16 +15073,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "745",
-      "2 Atk",
-      "0.8",
-      "25.0",
-      "170",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "rockruff",
     "evolves_to": [
@@ -16181,18 +15225,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "629",
-      "1 Def",
-      "0.5",
-      "9.0",
-      "74",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "mandibuzz"
     ]
@@ -16362,16 +15397,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "630",
-      "2 Sp. Atk",
-      "1.2",
-      "39.5",
-      "179",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "vullaby",
     "evolves_to": [
@@ -16520,18 +15546,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "527",
-      "1 Spe",
-      "0.4",
-      "2.1",
-      "65",
-      "190",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "swoobat"
     ]
@@ -16682,16 +15699,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "528",
-      "2 Spe",
-      "0.9",
-      "10.5",
-      "149",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "woobat",
     "evolves_to": []
@@ -16859,18 +15867,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "304",
-      "1 Def",
-      "0.4",
-      "60.0",
-      "66",
-      "180",
-      "35",
-      "35",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "lairon"
     ]
@@ -17038,16 +16037,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "305",
-      "2 Def",
-      "0.9",
-      "120.0",
-      "151",
-      "90",
-      "35",
-      "35",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "aron",
     "evolves_to": [
@@ -17241,16 +16231,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "306",
-      "3 Def",
-      "2.1",
-      "360.0",
-      "239",
-      "45",
-      "35",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "lairon",
     "evolves_to": [
@@ -17404,18 +16385,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "532",
-      "1 Atk",
-      "0.6",
-      "12.5",
-      "61",
-      "180",
-      "20",
-      "70",
-      "Medium Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "gurdurr"
     ]
@@ -17567,16 +16539,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "533",
-      "2 Atk",
-      "1.2",
-      "40.0",
-      "142",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "timburr",
     "evolves_to": [
@@ -17737,16 +16700,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "534",
-      "3 Atk",
-      "1.4",
-      "87.0",
-      "253",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "gurdurr",
     "evolves_to": []
@@ -17881,18 +16835,9 @@
       "Mud-Slap",
       "Rock Slide",
       "Sleep Talk",
-      "Swords Dance",
-      "950",
-      "2 Def",
-      "1.3",
-      "79.0",
-      "158",
-      "120",
-      "35",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -18026,18 +16971,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "60",
-      "1 Spe",
-      "0.6",
-      "12.4",
-      "60",
-      "255",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "poliwhirl"
     ]
@@ -18185,16 +17121,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "61",
-      "2 Spe",
-      "1.0",
-      "20.0",
-      "135",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "poliwag",
     "evolves_to": [
@@ -18363,16 +17290,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "62",
-      "3 Def",
-      "1.3",
-      "54.0",
-      "230",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "poliwhirl",
     "evolves_to": [
@@ -18540,16 +17458,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "186",
-      "3 Sp. Def",
-      "1.1",
-      "33.9",
-      "225",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "poliwrath",
     "evolves_to": []
@@ -18673,18 +17582,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "710",
-      "1 Def",
-      "0.4",
-      "5.0",
-      "67",
-      "120",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "gourgeist"
     ]
@@ -18824,16 +17724,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "711",
-      "2 Def",
-      "0.9",
-      "12.5",
-      "173",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "pumpkaboo",
     "evolves_to": []
@@ -18954,18 +17845,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "285",
-      "1 HP",
-      "0.4",
-      "4.5",
-      "59",
-      "255",
-      "15",
-      "50",
-      "Fluctuating"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "fluctuating",
     "evolves_to": [
       "breloom"
     ]
@@ -19131,16 +18013,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "286",
-      "2 Atk",
-      "1.2",
-      "39.2",
-      "161",
-      "90",
-      "15",
-      "50",
-      "Fluctuating"
+      "Thunder Punch"
     ],
     "evolves_from": "shroomish",
     "evolves_to": []
@@ -19304,18 +18177,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "214",
-      "2 Atk",
-      "1.5",
-      "54.0",
-      "175",
-      "45",
-      "25",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "mega-heracross"
     ]
@@ -19486,18 +18350,9 @@
       "Psych Up",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "353",
-      "1 Atk",
-      "0.6",
-      "2.3",
-      "59",
-      "225",
-      "25",
-      "35",
-      "Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "banette"
     ]
@@ -19674,16 +18529,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "354",
-      "2 Atk",
-      "1.1",
-      "12.5",
-      "159",
-      "45",
-      "25",
-      "35",
-      "Fast"
+      "Swords Dance"
     ],
     "evolves_from": "shuppet",
     "evolves_to": [
@@ -19845,18 +18691,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "190",
-      "1 Spe",
-      "0.8",
-      "11.5",
-      "72",
-      "45",
-      "20",
-      "50",
-      "Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "ambipom"
     ]
@@ -20014,16 +18851,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "424",
-      "2 Spe",
-      "1.2",
-      "20.3",
-      "169",
-      "45",
-      "20",
-      "100",
-      "Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "aipom",
     "evolves_to": []
@@ -20125,18 +18953,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "761",
-      "1 HP",
-      "0.3",
-      "3.2",
-      "42",
-      "235",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "steenee"
     ]
@@ -20254,16 +19073,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "762",
-      "2 Spe",
-      "0.7",
-      "8.2",
-      "102",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "bounsweet",
     "evolves_to": [
@@ -20409,16 +19219,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "763",
-      "3 Atk",
-      "1.2",
-      "21.4",
-      "255",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "steenee",
     "evolves_to": []
@@ -20565,18 +19366,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "194",
-      "1 HP",
-      "0.4",
-      "8.5",
-      "42",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "quagsire"
     ]
@@ -20749,16 +19541,7 @@
       "Seismic Toss",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "195",
-      "2 HP",
-      "1.4",
-      "75.0",
-      "151",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "wooper",
     "evolves_to": []
@@ -20888,16 +19671,7 @@
       "Endure",
       "Mud-Slap",
       "Rock Slide",
-      "Sleep Talk",
-      "980",
-      "2 HP",
-      "1.8",
-      "223.0",
-      "151",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Sleep Talk"
     ],
     "evolves_from": "paldean-wooper",
     "evolves_to": []
@@ -21037,18 +19811,9 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk",
-      "Swift",
-      "948",
-      "1 Sp. Def",
-      "0.9",
-      "33.0",
-      "67",
-      "190",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "toedscruel"
     ]
@@ -21192,16 +19957,7 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk",
-      "Swift",
-      "949",
-      "2 Sp. Def",
-      "1.9",
-      "58.0",
-      "180",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "toedscool",
     "evolves_to": []
@@ -21338,18 +20094,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "522",
-      "1 Spe",
-      "0.8",
-      "29.8",
-      "59",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "zebstrika"
     ]
@@ -21493,16 +20240,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "523",
-      "2 Spe",
-      "1.6",
-      "79.5",
-      "174",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "blitzle",
     "evolves_to": []
@@ -21654,18 +20392,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "163",
-      "1 HP",
-      "0.7",
-      "21.2",
-      "52",
-      "255",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "noctowl"
     ]
@@ -21838,16 +20567,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "164",
-      "2 HP",
-      "1.6",
-      "40.8",
-      "158",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "hoothoot",
     "evolves_to": [
@@ -21994,18 +20714,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "619",
-      "1 Atk",
-      "0.9",
-      "20.0",
-      "70",
-      "180",
-      "25",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "mienshao"
     ]
@@ -22163,16 +20874,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "620",
-      "2 Atk",
-      "1.4",
-      "35.5",
-      "179",
-      "45",
-      "25",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "mienfoo",
     "evolves_to": []
@@ -22274,18 +20976,9 @@
       "Endure",
       "Mud-Slap",
       "Sleep Talk",
-      "Swift",
-      "955",
-      "1 Spe",
-      "0.2",
-      "1.5",
-      "51",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "espathra"
     ]
@@ -22422,16 +21115,7 @@
       "Mud-Slap",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "956",
-      "2 Spe",
-      "1.9",
-      "90.0",
-      "168",
-      "60",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "flittle",
     "evolves_to": []
@@ -22594,18 +21278,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "37",
-      "1 Spe",
-      "0.6",
-      "9.9",
-      "60",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "ninetales"
     ]
@@ -22773,16 +21448,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "38",
-      "1 Sp. Def, 1 Spe",
-      "1.1",
-      "19.9",
-      "177",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "vulpix",
     "evolves_to": []
@@ -22916,18 +21582,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "679",
-      "1 Def",
-      "0.8",
-      "2.0",
-      "65",
-      "180",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "doublade"
     ]
@@ -23061,16 +21718,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "680",
-      "2 Def",
-      "0.8",
-      "4.5",
-      "157",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "honedge",
     "evolves_to": [
@@ -23212,16 +21860,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "681",
-      "2 Def, 1 Sp. Def",
-      "1.7",
-      "53.0",
-      "250",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "doublade",
     "evolves_to": [
@@ -23369,18 +22008,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "557",
-      "1 Def",
-      "0.3",
-      "14.5",
-      "65",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "crustle"
     ]
@@ -23526,16 +22156,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "558",
-      "2 Def",
-      "1.4",
-      "200.0",
-      "170",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "dwebble",
     "evolves_to": []
@@ -23673,18 +22294,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "774",
-      "1 Def, 1 Sp. Def",
-      "0.3",
-      "40.0",
-      "154",
-      "30",
-      "25",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "form-change"
     ]
@@ -23838,18 +22450,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "92",
-      "1 Sp. Atk",
-      "1.3",
-      "0.1",
-      "62",
-      "190",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "haunter"
     ]
@@ -24008,16 +22611,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "93",
-      "2 Sp. Atk",
-      "1.6",
-      "0.1",
-      "142",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "gastly",
     "evolves_to": [
@@ -24190,16 +22784,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "94",
-      "3 Sp. Atk",
-      "1.5",
-      "40.5",
-      "250",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "haunter",
     "evolves_to": [
@@ -24358,18 +22943,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "343",
-      "1 Sp. Def",
-      "0.5",
-      "21.5",
-      "60",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "claydol"
     ]
@@ -24540,16 +23116,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "344",
-      "2 Sp. Def",
-      "1.5",
-      "108.0",
-      "175",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "baltoy",
     "evolves_to": []
@@ -24682,18 +23249,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "757",
-      "1 Spe",
-      "0.6",
-      "4.8",
-      "64",
-      "120",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "salazzle"
     ]
@@ -24848,16 +23406,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "758",
-      "2 Spe",
-      "1.2",
-      "22.2",
-      "168",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "salandit",
     "evolves_to": []
@@ -24979,18 +23528,9 @@
       "Icy Wind",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "963",
-      "1 Spe",
-      "1.3",
-      "60.2",
-      "63",
-      "200",
-      "40",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "palafin"
     ]
@@ -25144,16 +23684,7 @@
       "Icy Wind",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "964",
-      "2 HP",
-      "1.3",
-      "60.2",
-      "160",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "finizen",
     "evolves_to": [
@@ -25308,18 +23839,9 @@
       "Snore",
       "Soft-Boiled",
       "Swagger",
-      "Swift",
-      "175",
-      "1 Sp. Def",
-      "0.3",
-      "1.5",
-      "49",
-      "190",
-      "10",
-      "50",
-      "Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "togetic"
     ]
@@ -25502,16 +24024,7 @@
       "Snore",
       "Soft-Boiled",
       "Swagger",
-      "Swift",
-      "176",
-      "2 Sp. Def",
-      "0.6",
-      "3.2",
-      "142",
-      "75",
-      "10",
-      "50",
-      "Fast"
+      "Swift"
     ],
     "evolves_from": "togepi",
     "evolves_to": [
@@ -25696,16 +24209,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "468",
-      "2 Sp. Atk, 1 Sp. Def",
-      "1.5",
-      "38.0",
-      "245",
-      "30",
-      "10",
-      "50",
-      "Fast"
+      "Swift"
     ],
     "evolves_from": "togetic",
     "evolves_to": []
@@ -25827,18 +24331,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "420",
-      "1 Sp. Atk",
-      "0.4",
-      "3.3",
-      "55",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "cherrim"
     ]
@@ -25977,16 +24472,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "421",
-      "2 Sp. Atk",
-      "0.5",
-      "9.3",
-      "158",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "cherubi",
     "evolves_to": [
@@ -26142,18 +24628,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "228",
-      "1 Sp. Atk",
-      "0.6",
-      "10.8",
-      "66",
-      "120",
-      "20",
-      "35",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "houndoom"
     ]
@@ -26320,16 +24797,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "229",
-      "2 Sp. Atk",
-      "1.4",
-      "35.0",
-      "175",
-      "45",
-      "20",
-      "35",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "houndour",
     "evolves_to": [
@@ -26473,18 +24941,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "138",
-      "1 Def",
-      "0.4",
-      "7.5",
-      "71",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "omastar"
     ]
@@ -26631,16 +25090,7 @@
       "Seismic Toss",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "139",
-      "2 Def",
-      "1.0",
-      "35.0",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "omanyte",
     "evolves_to": []
@@ -26779,18 +25229,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "140",
-      "1 Def",
-      "0.5",
-      "11.5",
-      "71",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "kabutops"
     ]
@@ -26948,16 +25389,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "141",
-      "2 Atk",
-      "1.3",
-      "40.5",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "kabuto",
     "evolves_to": []
@@ -27107,18 +25539,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "451",
-      "1 Def",
-      "0.8",
-      "12.0",
-      "66",
-      "120",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "drapion"
     ]
@@ -27284,16 +25707,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "452",
-      "2 Def",
-      "1.3",
-      "61.5",
-      "175",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "skorupi",
     "evolves_to": []
@@ -27435,18 +25849,9 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "167",
-      "1 Atk",
-      "0.5",
-      "8.5",
-      "50",
-      "255",
-      "15",
-      "50",
-      "Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "ariados"
     ]
@@ -27625,16 +26030,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "168",
-      "2 Atk",
-      "1.1",
-      "33.5",
-      "140",
-      "90",
-      "15",
-      "50",
-      "Fast"
+      "Swords Dance"
     ],
     "evolves_from": "spinarak",
     "evolves_to": []
@@ -27803,18 +26199,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "95",
-      "1 Def",
-      "8.8",
-      "210.0",
-      "77",
-      "45",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "steelix"
     ]
@@ -27997,16 +26384,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "208",
-      "2 Def",
-      "9.2",
-      "400.0",
-      "179",
-      "25",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "onix",
     "evolves_to": [
@@ -28139,18 +26517,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "775",
-      "2 Atk",
-      "0.4",
-      "19.9",
-      "168",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -28282,18 +26651,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "278",
-      "1 Spe",
-      "0.6",
-      "9.5",
-      "54",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "pelipper"
     ]
@@ -28468,16 +26828,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "279",
-      "2 Def",
-      "1.2",
-      "28.0",
-      "154",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "wingull",
     "evolves_to": []
@@ -28632,18 +26983,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "234",
-      "1 Atk",
-      "1.4",
-      "71.2",
-      "163",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "wyrdeer"
     ]
@@ -28790,16 +27132,7 @@
       "Endure",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "899",
-      "1 Atk, 1 Sp. Atk",
-      "1.8",
-      "95.1",
-      "263",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "stantler",
     "evolves_to": [
@@ -28924,18 +27257,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "361",
-      "1 HP",
-      "0.7",
-      "16.8",
-      "60",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "glalie"
     ]
@@ -29090,16 +27414,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "362",
-      "2 HP",
-      "1.5",
-      "256.5",
-      "168",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "snorunt",
     "evolves_to": [
@@ -29279,16 +27594,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "478",
-      "2 Spe",
-      "1.3",
-      "26.6",
-      "268",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "mega-glalie",
     "evolves_to": [
@@ -29442,18 +27748,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "363",
-      "1 HP",
-      "0.8",
-      "39.5",
-      "58",
-      "255",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "sealeo"
     ]
@@ -29625,16 +27922,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "364",
-      "2 HP",
-      "1.1",
-      "87.6",
-      "144",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "spheal",
     "evolves_to": [
@@ -29822,16 +28110,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "365",
-      "3 HP",
-      "1.4",
-      "150.6",
-      "239",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "sealeo",
     "evolves_to": []
@@ -29983,18 +28262,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "86",
-      "1 Sp. Def",
-      "1.1",
-      "90.0",
-      "65",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "dewgong"
     ]
@@ -30155,16 +28425,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "87",
-      "2 Sp. Def",
-      "1.7",
-      "120.0",
-      "166",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "seel",
     "evolves_to": []
@@ -30309,18 +28570,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "436",
-      "1 Def",
-      "0.5",
-      "60.5",
-      "60",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "bronzong"
     ]
@@ -30480,16 +28732,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "437",
-      "1 Def, 1 Sp. Def",
-      "1.3",
-      "187.0",
-      "175",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "bronzor",
     "evolves_to": []
@@ -30626,18 +28869,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "878",
-      "1 Atk",
-      "1.2",
-      "100.0",
-      "66",
-      "190",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "copperajah"
     ]
@@ -30784,16 +29018,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "879",
-      "2 Atk",
-      "3.0",
-      "650.0",
-      "175",
-      "90",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "cufant",
     "evolves_to": [
@@ -30945,18 +29170,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "570",
-      "1 Sp. Atk",
-      "0.7",
-      "12.5",
-      "66",
-      "75",
-      "25",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "zoroark"
     ]
@@ -31133,16 +29349,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "571",
-      "2 Sp. Atk",
-      "1.6",
-      "81.1",
-      "179",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "zorua",
     "evolves_to": []
@@ -31319,18 +29526,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "215",
-      "1 Spe",
-      "0.9",
-      "28.0",
-      "86",
-      "60",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "weavile"
     ]
@@ -31521,16 +29719,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "461",
-      "1 Atk, 1 Spe",
-      "1.1",
-      "34.0",
-      "179",
-      "45",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "sneasel",
     "evolves_to": []
@@ -31674,16 +29863,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Swift",
-      "Swords Dance",
-      "903",
-      "1 Atk, 1 Spe",
-      "1.3",
-      "43.0",
-      "199",
-      "45",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "hisuian-sneasel",
     "evolves_to": []
@@ -31819,18 +29999,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "696",
-      "1 Atk",
-      "0.8",
-      "26.0",
-      "72",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "tyrantrum"
     ]
@@ -31982,16 +30153,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "697",
-      "2 Atk",
-      "2.5",
-      "270.0",
-      "182",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "tyrunt",
     "evolves_to": []
@@ -32138,18 +30300,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "698",
-      "1 HP",
-      "1.3",
-      "25.2",
-      "72",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "aurorus"
     ]
@@ -32307,16 +30460,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "699",
-      "2 HP",
-      "2.7",
-      "225.0",
-      "104",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "amaura",
     "evolves_to": []
@@ -32465,18 +30609,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "52",
-      "1 Spe",
-      "0.4",
-      "4.2",
-      "58",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "persian"
     ]
@@ -32637,16 +30772,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "53",
-      "2 Spe",
-      "1.0",
-      "32.0",
-      "154",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "meowth",
     "evolves_to": []
@@ -32792,16 +30918,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "863",
-      "2 Atk",
-      "0.8",
-      "28.0",
-      "154",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "galarian-meowth",
     "evolves_to": []
@@ -32940,18 +31057,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "417",
-      "1 Spe",
-      "0.4",
-      "3.9",
-      "142",
-      "200",
-      "10",
-      "100",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -33082,18 +31190,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "152",
-      "1 Sp. Def",
-      "0.9",
-      "6.4",
-      "64",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "bayleef"
     ]
@@ -33252,16 +31351,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "153",
-      "1 Def, 1 Sp. Def",
-      "1.2",
-      "15.8",
-      "142",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "chikorita",
     "evolves_to": [
@@ -33437,16 +31527,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "154",
-      "1 Def, 2 Sp. Def",
-      "1.8",
-      "100.5",
-      "236",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "bayleef",
     "evolves_to": []
@@ -33584,18 +31665,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "155",
-      "1 Spe",
-      "0.5",
-      "7.9",
-      "62",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "quilava"
     ]
@@ -33753,16 +31825,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "156",
-      "1 Sp. Atk, 1 Spe",
-      "0.9",
-      "19.0",
-      "142",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "cyndaquil",
     "evolves_to": [
@@ -33953,16 +32016,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "157",
-      "3 Sp. Atk",
-      "1.7",
-      "79.5",
-      "267",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "quilava",
     "evolves_to": [
@@ -34120,18 +32174,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "158",
-      "1 Atk",
-      "0.6",
-      "9.5",
-      "63",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "croconaw"
     ]
@@ -34298,16 +32343,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "159",
-      "1 Atk, 1 Def",
-      "1.1",
-      "25.0",
-      "142",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "totodile",
     "evolves_to": [
@@ -34488,16 +32524,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "160",
-      "2 Atk, 1 Def",
-      "2.3",
-      "88.8",
-      "239",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "croconaw",
     "evolves_to": []
@@ -34633,18 +32660,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "782",
-      "1 Def",
-      "0.6",
-      "29.7",
-      "60",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "hakamo-o"
     ]
@@ -34793,16 +32811,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "783",
-      "2 Def",
-      "1.2",
-      "47.0",
-      "147",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "jangmo-o",
     "evolves_to": [
@@ -34977,16 +32986,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "784",
-      "3 Def",
-      "1.6",
-      "78.2",
-      "270",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "hakamo-o",
     "evolves_to": []
@@ -35137,18 +33137,9 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "701",
-      "2 Atk",
-      "0.8",
-      "21.5",
-      "175",
-      "100",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "mega-hawlucha"
     ]
@@ -35265,18 +33256,9 @@
       "Endure",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "850",
-      "1 Atk",
-      "0.7",
-      "1.0",
-      "61",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Snore"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "centiskorch"
     ]
@@ -35409,16 +33391,7 @@
       "Endure",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "851",
-      "2 Atk",
-      "3.0",
-      "120.0",
-      "184",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Snore"
     ],
     "evolves_from": "sizzlipede",
     "evolves_to": [
@@ -35567,18 +33540,9 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "408",
-      "1 Atk",
-      "0.9",
-      "31.5",
-      "70",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "rampardos"
     ]
@@ -35734,16 +33698,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "409",
-      "2 Atk",
-      "1.6",
-      "102.5",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Thunder Punch"
     ],
     "evolves_from": "cranidos",
     "evolves_to": []
@@ -35891,18 +33846,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "410",
-      "1 Def",
-      "0.5",
-      "57.0",
-      "70",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "bastiodon"
     ]
@@ -36055,16 +34001,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "411",
-      "2 Def",
-      "1.3",
-      "149.5",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Swagger"
     ],
     "evolves_from": "shieldon",
     "evolves_to": []
@@ -36216,18 +34153,9 @@
       "Psych Up",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "442",
-      "1 Def, 1 Sp. Def",
-      "1.0",
-      "108.0",
-      "170",
-      "100",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -36353,18 +34281,9 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "835",
-      "1 HP",
-      "0.3",
-      "13.5",
-      "54",
-      "255",
-      "20",
-      "50",
-      "Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "boltund"
     ]
@@ -36501,16 +34420,7 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "836",
-      "2 Spe",
-      "1.0",
-      "34.0",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Fast"
+      "Swift"
     ],
     "evolves_from": "yamper",
     "evolves_to": []
@@ -36625,18 +34535,9 @@
     "tutor_moves": [
       "Endure",
       "Sleep Talk",
-      "Swift",
-      "921",
-      "1 Spe",
-      "0.3",
-      "2.5",
-      "48",
-      "190",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "pawmo"
     ]
@@ -36761,16 +34662,7 @@
       "Endure",
       "Sleep Talk",
       "Swift",
-      "Thunder Punch",
-      "922",
-      "2 Spe",
-      "0.4",
-      "6.5",
-      "123",
-      "80",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "pawmi",
     "evolves_to": [
@@ -36932,16 +34824,7 @@
       "Metronome",
       "Sleep Talk",
       "Swift",
-      "Thunder Punch",
-      "923",
-      "3 Atk",
-      "0.9",
-      "41.0",
-      "245",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "pawmo",
     "evolves_to": []
@@ -37074,18 +34957,9 @@
       "Psych Up",
       "Sleep Talk",
       "Swagger",
-      "Swords Dance",
-      "944",
-      "1 Spe",
-      "0.2",
-      "0.7",
-      "58",
-      "190",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "grafaiai"
     ]
@@ -37226,16 +35100,7 @@
       "Psych Up",
       "Sleep Talk",
       "Swagger",
-      "Swords Dance",
-      "945",
-      "2 Spe",
-      "0.7",
-      "27.2",
-      "170",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "shroodle",
     "evolves_to": []
@@ -37377,18 +35242,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "418",
-      "1 Spe",
-      "0.7",
-      "29.5",
-      "66",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "floatzel"
     ]
@@ -37551,16 +35407,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "419",
-      "2 Spe",
-      "1.1",
-      "33.5",
-      "173",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "buizel",
     "evolves_to": []
@@ -37712,18 +35559,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "434",
-      "1 Spe",
-      "0.4",
-      "19.2",
-      "66",
-      "225",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "skuntank"
     ]
@@ -37880,16 +35718,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "435",
-      "2 HP",
-      "1.0",
-      "38.0",
-      "168",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "stunky",
     "evolves_to": []
@@ -38010,18 +35839,9 @@
     "tutor_moves": [
       "Endure",
       "Sleep Talk",
-      "Swift",
-      "940",
-      "1 Spe",
-      "0.4",
-      "3.6",
-      "56",
-      "180",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "kilowattrel"
     ]
@@ -38146,16 +35966,7 @@
     "tutor_moves": [
       "Endure",
       "Sleep Talk",
-      "Swift",
-      "941",
-      "2 Spe",
-      "1.4",
-      "38.6",
-      "172",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "wattrel",
     "evolves_to": []
@@ -38297,18 +36108,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "128",
-      "1 Atk, 1 Spe",
-      "1.4",
-      "88.4",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -38452,18 +36254,9 @@
       "Double-Edge",
       "Endure",
       "Mud-Slap",
-      "Sleep Talk",
-      "967",
-      "2 Spe",
-      "1.6",
-      "63.0",
-      "175",
-      "190",
-      "30",
-      "50",
-      "Medium Slow"
+      "Sleep Talk"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "mega-cyclizar-s"
     ]
@@ -38541,18 +36334,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "767",
-      "1 Spe",
-      "0.5",
-      "12.0",
-      "46",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "golisopod"
     ]
@@ -38701,16 +36485,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "768",
-      "2 Def",
-      "2.0",
-      "108.0",
-      "186",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "wimpod",
     "evolves_to": []
@@ -38818,18 +36593,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "172",
-      "1 Spe",
-      "0.3",
-      "2.0",
-      "41",
-      "190",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "pikachu"
     ]
@@ -38994,16 +36760,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "25",
-      "2 Spe",
-      "0.4",
-      "6.0",
-      "112",
-      "190",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "pichu",
     "evolves_to": [
@@ -39170,16 +36927,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "26",
-      "3 Spe",
-      "0.8",
-      "30.0",
-      "243",
-      "75",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "pikachu",
     "evolves_to": [
@@ -39333,18 +37081,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "778",
-      "2 Sp. Def",
-      "0.2",
-      "0.7",
-      "167",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -39467,18 +37206,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "77",
-      "1 Spe",
-      "1.0",
-      "30.0",
-      "82",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "rapidash"
     ]
@@ -39617,16 +37347,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "78",
-      "2 Spe",
-      "1.7",
-      "95.0",
-      "175",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "ponyta",
     "evolves_to": []
@@ -39798,18 +37519,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "222",
-      "1 Def, 1 Sp. Def",
-      "0.6",
-      "5.0",
-      "144",
-      "60",
-      "20",
-      "50",
-      "Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": []
   },
   {
@@ -39955,16 +37667,7 @@
       "Icy Wind",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "864",
-      "2 Sp. Atk",
-      "1.0",
-      "0.4",
-      "179",
-      "30",
-      "20",
-      "50",
-      "Fast"
+      "Snore"
     ],
     "evolves_from": "galarian-corsola",
     "evolves_to": []
@@ -40112,18 +37815,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "456",
-      "1 Spe",
-      "0.4",
-      "7.0",
-      "66",
-      "190",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "lumineon"
     ]
@@ -40276,16 +37970,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "457",
-      "2 Spe",
-      "1.2",
-      "24.0",
-      "161",
-      "75",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
     "evolves_from": "finneon",
     "evolves_to": []
@@ -40441,18 +38126,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "320",
-      "1 HP",
-      "2.0",
-      "130.0",
-      "80",
-      "125",
-      "40",
-      "50",
-      "Fluctuating"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "fluctuating",
     "evolves_to": [
       "wailord"
     ]
@@ -40612,16 +38288,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "321",
-      "2 HP",
-      "14.5",
-      "398.0",
-      "175",
-      "60",
-      "40",
-      "50",
-      "Fluctuating"
+      "Swagger"
     ],
     "evolves_from": "wailmer",
     "evolves_to": []
@@ -40775,18 +38442,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "72",
-      "1 Sp. Def",
-      "0.9",
-      "45.5",
-      "67",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "tentacruel"
     ]
@@ -40948,16 +38606,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "73",
-      "2 Sp. Def",
-      "1.6",
-      "55.0",
-      "180",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "tentacool",
     "evolves_to": []
@@ -41086,18 +38735,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "692",
-      "1 Sp. Atk",
-      "0.5",
-      "8.3",
-      "66",
-      "225",
-      "15",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "clawitzer"
     ]
@@ -41248,16 +38888,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "693",
-      "2 Sp. Atk",
-      "1.3",
-      "35.3",
-      "100",
-      "55",
-      "15",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "clauncher",
     "evolves_to": []
@@ -41404,18 +39035,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "123",
-      "1 Atk",
-      "1.5",
-      "56.0",
-      "100",
-      "45",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "scizor"
     ]
@@ -41568,16 +39190,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "212",
-      "2 Atk",
-      "1.8",
-      "118.0",
-      "175",
-      "25",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "scyther",
     "evolves_to": [
@@ -41698,16 +39311,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Swift",
-      "Swords Dance",
-      "900",
-      "3 Atk",
-      "1.8",
-      "89.0",
-      "175",
-      "15",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "mega-scizor",
     "evolves_to": [
@@ -41837,18 +39441,9 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "759",
-      "1 Atk",
-      "0.5",
-      "6.8",
-      "68",
-      "140",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "bewear"
     ]
@@ -41982,16 +39577,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "760",
-      "2 Atk",
-      "2.1",
-      "135.0",
-      "175",
-      "70",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "stufful",
     "evolves_to": []
@@ -42075,18 +39661,9 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "885",
-      "1 Spe",
-      "0.5",
-      "2.0",
-      "54",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "drakloak"
     ]
@@ -42235,16 +39812,7 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "886",
-      "2 Spe",
-      "1.4",
-      "11.0",
-      "144",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "dreepy",
     "evolves_to": [
@@ -42407,16 +39975,7 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "887",
-      "3 Spe",
-      "3.0",
-      "50.0",
-      "300",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "drakloak",
     "evolves_to": []
@@ -42553,18 +40112,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "777",
-      "2 Atk",
-      "0.3",
-      "3.3",
-      "152",
-      "180",
-      "10",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -42693,18 +40243,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "739",
-      "1 Atk",
-      "0.6",
-      "7.0",
-      "68",
-      "225",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "crabominable"
     ]
@@ -42852,16 +40393,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "740",
-      "2 Atk",
-      "1.7",
-      "180.0",
-      "167",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "crabrawler",
     "evolves_to": []
@@ -43000,18 +40532,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "345",
-      "1 Sp. Def",
-      "1.0",
-      "23.8",
-      "71",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "cradily"
     ]
@@ -43159,16 +40682,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "346",
-      "2 Sp. Def",
-      "1.5",
-      "60.4",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Swords Dance"
     ],
     "evolves_from": "lileep",
     "evolves_to": []
@@ -43312,18 +40826,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "347",
-      "1 Atk",
-      "0.7",
-      "12.5",
-      "71",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "armaldo"
     ]
@@ -43467,16 +40972,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "348",
-      "2 Atk",
-      "1.5",
-      "68.2",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Erratic"
+      "Swords Dance"
     ],
     "evolves_from": "anorith",
     "evolves_to": []
@@ -43618,18 +41114,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "702",
-      "2 Spe",
-      "0.2",
-      "2.2",
-      "151",
-      "180",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -43777,18 +41264,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "441",
-      "1 Atk",
-      "0.5",
-      "1.9",
-      "144",
-      "30",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": []
   },
   {
@@ -43964,18 +41442,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "307",
-      "1 Spe",
-      "0.6",
-      "11.2",
-      "56",
-      "180",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "medicham"
     ]
@@ -44173,16 +41642,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "308",
-      "2 Spe",
-      "1.3",
-      "31.5",
-      "144",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "meditite",
     "evolves_to": [
@@ -44353,18 +41813,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "96",
-      "1 Sp. Def",
-      "1.0",
-      "32.4",
-      "66",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "hypno"
     ]
@@ -44551,16 +42002,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "97",
-      "2 Sp. Def",
-      "1.6",
-      "75.6",
-      "169",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "drowzee",
     "evolves_to": []
@@ -44713,18 +42155,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "23",
-      "1 Atk",
-      "2.0",
-      "6.9",
-      "58",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "arbok"
     ]
@@ -44893,16 +42326,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "24",
-      "2 Atk",
-      "3.5",
-      "65.0",
-      "157",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "ekans",
     "evolves_to": []
@@ -45053,18 +42477,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "550",
-      "2 Spe",
-      "1.0",
-      "18.0",
-      "161",
-      "25",
-      "40",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -45216,16 +42631,7 @@
       "Endure",
       "Icy Wind",
       "Sleep Talk",
-      "Swift",
-      "902",
-      "3 HP",
-      "3.0",
-      "110.0",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "basculin-white",
     "evolves_to": [
@@ -45371,18 +42777,9 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "674",
-      "1 Atk",
-      "0.6",
-      "8.0",
-      "70",
-      "220",
-      "25",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "dark-type-in-party"
     ]
@@ -45568,16 +42965,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "675",
-      "2 Atk",
-      "2.1",
-      "136.0",
-      "173",
-      "65",
-      "25",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "dark-type-in-party",
     "evolves_to": [
@@ -45720,18 +43108,9 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "690",
-      "1 Sp. Def",
-      "0.5",
-      "7.3",
-      "64",
-      "225",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "dragalge"
     ]
@@ -45885,16 +43264,7 @@
       "Mud-Slap",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "691",
-      "2 Sp. Def",
-      "1.8",
-      "81.5",
-      "173",
-      "55",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "skrelp",
     "evolves_to": []
@@ -46049,18 +43419,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "574",
-      "1 Sp. Def",
-      "0.4",
-      "5.8",
-      "58",
-      "200",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "gothorita"
     ]
@@ -46216,16 +43577,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "575",
-      "2 Sp. Def",
-      "0.7",
-      "18.0",
-      "137",
-      "100",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "gothita",
     "evolves_to": [
@@ -46390,16 +43742,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "576",
-      "3 Sp. Def",
-      "1.5",
-      "44.0",
-      "245",
-      "50",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "gothorita",
     "evolves_to": []
@@ -46547,18 +43890,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "577",
-      "1 Sp. Atk",
-      "0.3",
-      "1.0",
-      "58",
-      "200",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "duosion"
     ]
@@ -46706,16 +44040,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "578",
-      "2 Sp. Atk",
-      "0.6",
-      "8.0",
-      "130",
-      "100",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "solosis",
     "evolves_to": [
@@ -46877,16 +44202,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "579",
-      "3 Sp. Atk",
-      "1.0",
-      "20.1",
-      "221",
-      "50",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "duosion",
     "evolves_to": []
@@ -47034,18 +44350,9 @@
       "Psych Up",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "607",
-      "1 Sp. Atk",
-      "0.3",
-      "3.1",
-      "55",
-      "190",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "lampent"
     ]
@@ -47193,16 +44500,7 @@
       "Psych Up",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "608",
-      "2 Sp. Atk",
-      "0.6",
-      "13.0",
-      "130",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "litwick",
     "evolves_to": [
@@ -47352,16 +44650,7 @@
       "Psych Up",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "609",
-      "3 Sp. Atk",
-      "1.0",
-      "34.3",
-      "260",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
     "evolves_from": "lampent",
     "evolves_to": []
@@ -47450,18 +44739,9 @@
     ],
     "tutor_moves": [
       "Endure",
-      "Sleep Talk",
-      "935",
-      "1 Sp. Atk",
-      "0.6",
-      "10.5",
-      "51",
-      "90",
-      "35",
-      "50",
-      "Slow"
+      "Sleep Talk"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "armarouge"
     ]
@@ -47598,16 +44878,7 @@
       "Acid Spray",
       "Endure",
       "Psych Up",
-      "Sleep Talk",
-      "936",
-      "2 Sp. Atk",
-      "1.5",
-      "85.0",
-      "263",
-      "25",
-      "35",
-      "20",
-      "Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "charcadet",
     "evolves_to": [
@@ -47754,16 +45025,7 @@
       "Endure",
       "Psych Up",
       "Sleep Talk",
-      "Swords Dance",
-      "937",
-      "2 Atk",
-      "1.6",
-      "62.0",
-      "263",
-      "25",
-      "35",
-      "20",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "armarouge",
     "evolves_to": []
@@ -47907,18 +45169,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "170",
-      "1 HP",
-      "0.5",
-      "12.0",
-      "66",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "lanturn"
     ]
@@ -48090,16 +45343,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "171",
-      "2 HP",
-      "1.2",
-      "22.5",
-      "161",
-      "75",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "chinchou",
     "evolves_to": []
@@ -48255,18 +45499,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "90",
-      "1 Def",
-      "0.3",
-      "4.0",
-      "61",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "cloyster"
     ]
@@ -48432,16 +45667,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "91",
-      "2 Def",
-      "1.5",
-      "132.5",
-      "184",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "shellder",
     "evolves_to": []
@@ -48531,18 +45757,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "366",
-      "1 Def",
-      "0.4",
-      "52.5",
-      "69",
-      "255",
-      "20",
-      "50",
-      "Erratic"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "huntail"
     ]
@@ -48692,16 +45909,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "367",
-      "1 Atk, 1 Def",
-      "1.7",
-      "27.0",
-      "170",
-      "60",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
     "evolves_from": "clamperl",
     "evolves_to": [
@@ -48856,16 +46064,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "368",
-      "2 Sp. Atk",
-      "1.8",
-      "22.6",
-      "170",
-      "60",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
     "evolves_from": "huntail",
     "evolves_to": []
@@ -48984,18 +46183,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "669",
-      "1 Sp. Def",
-      "0.1",
-      "0.1",
-      "61",
-      "225",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "floette"
     ]
@@ -49128,16 +46318,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "670",
-      "2 Sp. Def",
-      "0.2",
-      "0.9",
-      "130",
-      "120",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "flabebe",
     "evolves_to": [
@@ -49280,16 +46461,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "671",
-      "3 Sp. Def",
-      "1.1",
-      "10.0",
-      "276",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "floette",
     "evolves_to": []
@@ -49404,18 +46576,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "174",
-      "1 HP",
-      "0.3",
-      "1.0",
-      "42",
-      "170",
-      "10",
-      "50",
-      "Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "jigglypuff"
     ]
@@ -49601,16 +46764,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "39",
-      "2 HP",
-      "0.5",
-      "5.5",
-      "95",
-      "170",
-      "10",
-      "50",
-      "Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "igglybuff",
     "evolves_to": [
@@ -49802,16 +46956,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "40",
-      "3 HP",
-      "1.0",
-      "12.0",
-      "218",
-      "50",
-      "10",
-      "50",
-      "Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "jigglypuff",
     "evolves_to": []
@@ -49958,16 +47103,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "694",
-      "1 Spe",
-      "0.5",
-      "6.0",
-      "58",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "heliolisk",
     "evolves_to": [
@@ -50130,18 +47266,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "695",
-      "1 Sp. Atk, 1 Spe",
-      "1.0",
-      "21.0",
-      "168",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "helioptile"
     ]
@@ -50283,18 +47410,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swords Dance",
-      "870",
-      "2 Atk, 1 Sp. Def",
-      "3.0",
-      "62.0",
-      "165",
-      "45",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "mega-falinks"
     ]
@@ -50435,18 +47553,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "328",
-      "1 Atk",
-      "0.7",
-      "15.0",
-      "58",
-      "255",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "vibrava"
     ]
@@ -50610,16 +47719,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "329",
-      "1 Atk, 1 Spe",
-      "1.1",
-      "15.3",
-      "119",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "trapinch",
     "evolves_to": [
@@ -50797,16 +47897,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "330",
-      "1 Atk, 2 Spe",
-      "2.0",
-      "82.0",
-      "260",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "vibrava",
     "evolves_to": [
@@ -50951,18 +48042,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "84",
-      "1 Atk",
-      "1.4",
-      "39.2",
-      "62",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "dodrio"
     ]
@@ -51115,16 +48197,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "85",
-      "2 Atk",
-      "1.8",
-      "85.2",
-      "165",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "doduo",
     "evolves_to": []
@@ -51257,18 +48330,9 @@
       "Metronome",
       "Rock Slide",
       "Sleep Talk",
-      "Swords Dance",
-      "957",
-      "1 Sp. Def",
-      "0.4",
-      "8.9",
-      "59",
-      "190",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "tinkatuff"
     ]
@@ -51402,16 +48466,7 @@
       "Metronome",
       "Rock Slide",
       "Sleep Talk",
-      "Swords Dance",
-      "958",
-      "2 Sp. Def",
-      "0.7",
-      "59.1",
-      "133",
-      "90",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "tinkatink",
     "evolves_to": [
@@ -51552,16 +48607,7 @@
       "Metronome",
       "Rock Slide",
       "Sleep Talk",
-      "Swords Dance",
-      "959",
-      "3 Sp. Def",
-      "0.7",
-      "112.8",
-      "253",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "tinkatuff",
     "evolves_to": [
@@ -51729,18 +48775,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "559",
-      "1 Atk",
-      "0.6",
-      "11.8",
-      "70",
-      "180",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "scrafty"
     ]
@@ -51913,16 +48950,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "560",
-      "1 Def, 1 Sp. Def",
-      "1.1",
-      "30.0",
-      "171",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "scraggy",
     "evolves_to": [
@@ -52090,18 +49118,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "207",
-      "1 Def",
-      "1.1",
-      "64.8",
-      "86",
-      "60",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "gliscor"
     ]
@@ -52286,16 +49305,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "472",
-      "2 Def",
-      "2.0",
-      "42.5",
-      "179",
-      "30",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "gligar",
     "evolves_to": []
@@ -52445,18 +49455,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "324",
-      "2 Def",
-      "0.5",
-      "80.4",
-      "165",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -52610,18 +49611,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "322",
-      "1 Sp. Atk",
-      "0.7",
-      "24.0",
-      "61",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "camerupt"
     ]
@@ -52790,16 +49782,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "323",
-      "1 Atk, 1 Sp. Atk",
-      "1.9",
-      "220.0",
-      "161",
-      "150",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "numel",
     "evolves_to": [
@@ -52959,18 +49942,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "369",
-      "1 HP, 1 Def",
-      "1.0",
-      "23.4",
-      "170",
-      "25",
-      "40",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -53110,18 +50084,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "339",
-      "1 HP",
-      "0.4",
-      "1.9",
-      "58",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "whiscash"
     ]
@@ -53291,16 +50256,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "340",
-      "2 HP",
-      "0.9",
-      "23.6",
-      "164",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "barboach",
     "evolves_to": []
@@ -53452,18 +50408,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "517",
-      "1 HP",
-      "0.6",
-      "23.3",
-      "58",
-      "190",
-      "10",
-      "50",
-      "Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "musharna"
     ]
@@ -53619,16 +50566,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "518",
-      "2 HP",
-      "1.1",
-      "60.5",
-      "170",
-      "75",
-      "10",
-      "50",
-      "Fast"
+      "Swift"
     ],
     "evolves_from": "munna",
     "evolves_to": []
@@ -53830,18 +50768,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "352",
-      "1 Sp. Def",
-      "1.0",
-      "22.0",
-      "154",
-      "200",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": []
   },
   {
@@ -53892,18 +50821,9 @@
       "Incompatible"
     ],
     "tutor_moves": [
-      "Incompatible",
-      "129",
-      "1 Spe",
-      "0.9",
-      "10.0",
-      "40",
-      "255",
-      "5",
-      "50",
-      "Slow"
+      "Incompatible"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "gyarados"
     ]
@@ -54046,16 +50966,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "130",
-      "2 Atk",
-      "6.5",
-      "235.0",
-      "189",
-      "45",
-      "5",
-      "50",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "magikarp",
     "evolves_to": [
@@ -54168,18 +51079,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "753",
-      "1 Atk",
-      "0.3",
-      "1.5",
-      "50",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "lurantis"
     ]
@@ -54309,16 +51211,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "754",
-      "2 Atk",
-      "0.9",
-      "18.5",
-      "168",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "fomantis",
     "evolves_to": []
@@ -54459,18 +51352,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "765",
-      "2 Sp. Def",
-      "1.5",
-      "76.0",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -54610,18 +51494,9 @@
       "Seismic Toss",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "766",
-      "2 Atk",
-      "2.0",
-      "82.8",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -54764,18 +51639,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "263",
-      "1 Spe",
-      "0.4",
-      "17.5",
-      "56",
-      "255",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "linoone"
     ]
@@ -54937,16 +51803,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "264",
-      "2 Spe",
-      "0.5",
-      "32.5",
-      "147",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "zigzagoon",
     "evolves_to": []
@@ -55104,16 +51961,7 @@
       "Sleep Talk",
       "Snore",
       "Swift",
-      "Thunder Punch",
-      "862",
-      "3 Def",
-      "1.6",
-      "46.0",
-      "260",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "galarian-linoone",
     "evolves_to": []
@@ -55224,18 +52072,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "704",
-      "1 Sp. Def",
-      "0.3",
-      "2.8",
-      "60",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "sliggoo"
     ]
@@ -55365,16 +52204,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "705",
-      "2 Sp. Def",
-      "0.8",
-      "17.5",
-      "158",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "goomy",
     "evolves_to": [
@@ -55531,16 +52361,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "706",
-      "3 Sp. Def",
-      "2.0",
-      "150.5",
-      "300",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "sliggoo",
     "evolves_to": [
@@ -55680,18 +52501,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "779",
-      "2 Atk",
-      "0.9",
-      "19.0",
-      "166",
-      "80",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -55805,18 +52617,9 @@
       "Metronome",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "859",
-      "1 Sp. Atk",
-      "0.4",
-      "5.5",
-      "53",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "morgrem"
     ]
@@ -55944,16 +52747,7 @@
       "Metronome",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "860",
-      "2 Sp. Atk",
-      "0.8",
-      "12.5",
-      "130",
-      "120",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "impidimp",
     "evolves_to": [
@@ -56102,16 +52896,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "861",
-      "3 Atk",
-      "1.5",
-      "61.0",
-      "255",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "morgrem",
     "evolves_to": [
@@ -56261,18 +53046,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "333",
-      "1 Sp. Def",
-      "0.4",
-      "1.2",
-      "62",
-      "255",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "erratic",
     "evolves_to": [
       "altaria"
     ]
@@ -56448,16 +53224,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "334",
-      "2 Sp. Def",
-      "1.1",
-      "20.6",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
     "evolves_from": "swablu",
     "evolves_to": [
@@ -56628,18 +53395,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "56",
-      "1 Atk",
-      "0.5",
-      "28.0",
-      "61",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "primeape"
     ]
@@ -56824,16 +53582,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "57",
-      "2 Atk",
-      "1.0",
-      "32.0",
-      "159",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "mankey",
     "evolves_to": [
@@ -56996,16 +53745,7 @@
       "Sleep Talk",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "979",
-      "3 Atk",
-      "1.2",
-      "56.0",
-      "268",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "primeape",
     "evolves_to": []
@@ -57135,18 +53875,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "100",
-      "1 Spe",
-      "0.5",
-      "10.4",
-      "66",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "electrode"
     ]
@@ -57280,16 +54011,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "101",
-      "2 Spe",
-      "1.2",
-      "66.6",
-      "172",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "voltorb",
     "evolves_to": []
@@ -57445,18 +54167,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "131",
-      "2 HP",
-      "2.5",
-      "220.0",
-      "187",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "mega-lapras"
     ]
@@ -57610,18 +54323,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "203",
-      "2 Sp. Atk",
-      "1.5",
-      "41.5",
-      "159",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "farigiraf"
     ]
@@ -57772,16 +54476,7 @@
       "Endure",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "981",
-      "3 HP",
-      "3.2",
-      "160.0",
-      "260",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "girafarig",
     "evolves_to": []
@@ -57922,18 +54617,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "69",
-      "1 Atk",
-      "0.7",
-      "4.0",
-      "60",
-      "255",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "weepinbell"
     ]
@@ -58076,16 +54762,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "70",
-      "2 Atk",
-      "1.0",
-      "6.4",
-      "137",
-      "120",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "bellsprout",
     "evolves_to": [
@@ -58246,16 +54923,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "71",
-      "3 Atk",
-      "1.7",
-      "15.5",
-      "245",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "weepinbell",
     "evolves_to": [
@@ -58392,18 +55060,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "81",
-      "1 Sp. Atk",
-      "0.3",
-      "6.0",
-      "65",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "magneton"
     ]
@@ -58550,16 +55209,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "82",
-      "2 Sp. Atk",
-      "1.0",
-      "60.0",
-      "163",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "magnemite",
     "evolves_to": [
@@ -58721,16 +55371,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "462",
-      "3 Sp. Atk",
-      "1.2",
-      "180.0",
-      "268",
-      "30",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "magneton",
     "evolves_to": []
@@ -58882,18 +55523,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "613",
-      "1 Atk",
-      "0.5",
-      "8.5",
-      "61",
-      "129",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "beartic"
     ]
@@ -59071,16 +55703,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "614",
-      "2 Atk",
-      "2.6",
-      "260.0",
-      "177",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "cubchoo",
     "evolves_to": []
@@ -59228,18 +55851,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "58",
-      "1 Atk",
-      "0.7",
-      "19.0",
-      "70",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "arcanine"
     ]
@@ -59397,16 +56011,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "59",
-      "2 Atk",
-      "1.9",
-      "155.0",
-      "194",
-      "75",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "growlithe",
     "evolves_to": []
@@ -59569,18 +56174,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "54",
-      "1 Sp. Atk",
-      "0.8",
-      "19.6",
-      "64",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "golduck"
     ]
@@ -59773,16 +56369,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "55",
-      "2 Sp. Atk",
-      "1.7",
-      "76.6",
-      "175",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "psyduck",
     "evolves_to": []
@@ -59927,18 +56514,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "193",
-      "1 Spe",
-      "1.2",
-      "38.0",
-      "78",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "yanmega"
     ]
@@ -60100,16 +56678,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "469",
-      "2 Atk",
-      "1.9",
-      "51.5",
-      "180",
-      "30",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "yanma",
     "evolves_to": []
@@ -60278,18 +56847,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "142",
-      "2 Spe",
-      "1.8",
-      "59.0",
-      "180",
-      "45",
-      "35",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "mega-aerodactyl"
     ]
@@ -60425,18 +56985,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "223",
-      "1 Sp. Atk",
-      "0.6",
-      "12.0",
-      "60",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "octillery"
     ]
@@ -60607,16 +57158,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "224",
-      "1 Atk, 1 Sp. Atk",
-      "0.9",
-      "28.5",
-      "168",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "remoraid",
     "evolves_to": []
@@ -60752,18 +57294,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "627",
-      "1 Atk",
-      "0.5",
-      "10.5",
-      "70",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "braviary"
     ]
@@ -60915,16 +57448,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "628",
-      "2 Atk",
-      "1.5",
-      "41.0",
-      "179",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "rufflet",
     "evolves_to": [
@@ -61057,18 +57581,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "667",
-      "1 Sp. Atk",
-      "0.6",
-      "13.5",
-      "74",
-      "220",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "pyroar-m"
     ]
@@ -61215,16 +57730,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "668",
-      "2 Sp. Atk",
-      "1.5",
-      "81.5",
-      "177",
-      "65",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "litleo",
     "evolves_to": [
@@ -61373,16 +57879,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "668f",
-      "2 Sp. Atk",
-      "1.5",
-      "81.5",
-      "177",
-      "65",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "pyroar-m",
     "evolves_to": []
@@ -61535,18 +58032,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "177",
-      "1 Sp. Atk",
-      "0.2",
-      "2.0",
-      "64",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "xatu"
     ]
@@ -61712,16 +58200,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "178",
-      "1 Sp. Atk, 1 Spe",
-      "1.5",
-      "15.0",
-      "165",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "natu",
     "evolves_to": []
@@ -61859,18 +58338,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "459",
-      "1 Atk",
-      "1.0",
-      "50.5",
-      "67",
-      "120",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "abomasnow"
     ]
@@ -62020,16 +58490,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "460",
-      "1 Atk, 1 Sp. Atk",
-      "2.2",
-      "135.5",
-      "173",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "snover",
     "evolves_to": [
@@ -62184,18 +58645,9 @@
       "Psych Up",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "355",
-      "1 Sp. Def",
-      "0.8",
-      "15.0",
-      "59",
-      "190",
-      "25",
-      "35",
-      "Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "dusclops"
     ]
@@ -62394,16 +58846,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "356",
-      "1 Def, 1 Sp. Def",
-      "1.6",
-      "30.6",
-      "159",
-      "90",
-      "25",
-      "35",
-      "Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "duskull",
     "evolves_to": [
@@ -62605,16 +59048,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "477",
-      "1 Def, 2 Sp. Def",
-      "2.2",
-      "106.6",
-      "236",
-      "45",
-      "25",
-      "35",
-      "Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "dusclops",
     "evolves_to": []
@@ -62754,18 +59188,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "220",
-      "1 Atk",
-      "0.4",
-      "6.5",
-      "50",
-      "225",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "piloswine"
     ]
@@ -62925,16 +59350,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "221",
-      "1 HP, 1 Atk",
-      "1.1",
-      "55.8",
-      "158",
-      "75",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "swinub",
     "evolves_to": [
@@ -63100,16 +59516,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "473",
-      "3 Atk",
-      "2.5",
-      "291.0",
-      "239",
-      "50",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "piloswine",
     "evolves_to": []
@@ -63257,18 +59664,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "341",
-      "1 Atk",
-      "0.6",
-      "11.5",
-      "62",
-      "205",
-      "15",
-      "50",
-      "Fluctuating"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "fluctuating",
     "evolves_to": [
       "crawdaunt"
     ]
@@ -63429,16 +59827,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "342",
-      "2 Atk",
-      "1.1",
-      "32.8",
-      "164",
-      "155",
-      "15",
-      "50",
-      "Fluctuating"
+      "Swords Dance"
     ],
     "evolves_from": "corphish",
     "evolves_to": []
@@ -63586,18 +59975,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "764",
-      "2 Sp. Def",
-      "0.1",
-      "0.3",
-      "170",
-      "60",
-      "20",
-      "50",
-      "Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": []
   },
   {
@@ -63643,18 +60023,9 @@
       "Incompatible"
     ],
     "tutor_moves": [
-      "Incompatible",
-      "201",
-      "1 Atk, 1 Sp. Atk",
-      "0.5",
-      "5.0",
-      "118",
-      "225",
-      "40",
-      "50",
-      "Medium Fast"
+      "Incompatible"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -63806,18 +60177,9 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "564",
-      "1 Def",
-      "0.7",
-      "16.5",
-      "71",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "carracosta"
     ]
@@ -63976,16 +60338,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "565",
-      "2 Def",
-      "1.2",
-      "81.0",
-      "173",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "tirtouga",
     "evolves_to": []
@@ -64134,18 +60487,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "566",
-      "1 Atk",
-      "0.5",
-      "9.5",
-      "71",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "archeops"
     ]
@@ -64307,16 +60651,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "567",
-      "2 Atk",
-      "1.4",
-      "32.0",
-      "177",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "archen",
     "evolves_to": [
@@ -64449,18 +60784,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Thunder Punch",
-      "880",
-      "2 Atk",
-      "1.8",
-      "190.0",
-      "177",
-      "45",
-      "35",
-      "50",
-      "Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -64587,18 +60913,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Thunder Punch",
-      "881",
-      "2 Atk",
-      "2.3",
-      "150.0",
-      "177",
-      "45",
-      "35",
-      "50",
-      "Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -64721,18 +61038,9 @@
       "Mega Kick",
       "Rock Slide",
       "Sleep Talk",
-      "Snore",
-      "882",
-      "2 Def",
-      "2.3",
-      "215.0",
-      "177",
-      "45",
-      "35",
-      "50",
-      "Slow"
+      "Snore"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -64854,18 +61162,9 @@
       "Icy Wind",
       "Rock Slide",
       "Sleep Talk",
-      "Snore",
-      "883",
-      "2 Def",
-      "2.0",
-      "175.0",
-      "177",
-      "45",
-      "35",
-      "50",
-      "Slow"
+      "Snore"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -65001,18 +61300,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "772",
-      "2 HP",
-      "1.9",
-      "120.5",
-      "107",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "silvally"
     ]
@@ -65187,16 +61477,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "773",
-      "3 HP",
-      "2.3",
-      "100.5",
-      "257",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "type-null",
     "evolves_to": []
@@ -65331,18 +61612,9 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "246",
-      "1 Atk",
-      "0.6",
-      "72.0",
-      "60",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "pupitar"
     ]
@@ -65478,16 +61750,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "247",
-      "2 Atk",
-      "1.2",
-      "152.0",
-      "144",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "larvitar",
     "evolves_to": [
@@ -65665,16 +61928,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "248",
-      "3 Atk",
-      "2.0",
-      "202.0",
-      "300",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "pupitar",
     "evolves_to": [
@@ -65820,18 +62074,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "781",
-      "2 Atk",
-      "3.9",
-      "210.0",
-      "181",
-      "25",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -65965,18 +62210,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "147",
-      "1 Atk",
-      "1.8",
-      "3.3",
-      "60",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "dragonair"
     ]
@@ -66129,16 +62365,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "148",
-      "2 Atk",
-      "4.0",
-      "16.5",
-      "147",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "dratini",
     "evolves_to": [
@@ -66326,16 +62553,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "149",
-      "3 Atk",
-      "2.2",
-      "210.0",
-      "300",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "dragonair",
     "evolves_to": [
@@ -66476,18 +62694,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "243",
-      "1 Sp. Atk, 2 Spe",
-      "1.9",
-      "178.0",
-      "261",
-      "3",
-      "80",
-      "35",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "raging-bolt"
     ]
@@ -66619,16 +62828,7 @@
       "Body Slam",
       "Double-Edge",
       "Endure",
-      "Sleep Talk",
-      "1021",
-      "3 Sp. Atk",
-      "5.2",
-      "480.0",
-      "295",
-      "10",
-      "50",
-      "0",
-      "Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "raikou",
     "evolves_to": []
@@ -66773,18 +62973,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "244",
-      "1 HP, 2 Atk",
-      "2.1",
-      "198.0",
-      "261",
-      "3",
-      "80",
-      "35",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "gouging-fire"
     ]
@@ -66922,16 +63113,7 @@
       "Body Slam",
       "Double-Edge",
       "Endure",
-      "Sleep Talk",
-      "1020",
-      "3 Def",
-      "3.5",
-      "590.0",
-      "295",
-      "10",
-      "50",
-      "0",
-      "Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "entei",
     "evolves_to": []
@@ -67071,18 +63253,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "245",
-      "1 Def, 2 Sp. Def",
-      "2.0",
-      "187.0",
-      "261",
-      "3",
-      "80",
-      "35",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "walking-wake"
     ]
@@ -67212,16 +63385,7 @@
       "Double-Edge",
       "Endure",
       "Sleep Talk",
-      "Swift",
-      "1009",
-      "3 Sp. Atk",
-      "3.5",
-      "280.0",
-      "295",
-      "5",
-      "50",
-      "0",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "suicune",
     "evolves_to": []
@@ -67352,18 +63516,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "382",
-      "3 Sp. Atk",
-      "4.5",
-      "352.0",
-      "335",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "primal-kyogre"
     ]
@@ -67505,18 +63660,9 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "383",
-      "3 Atk",
-      "3.5",
-      "950.0",
-      "335",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "primal-groudon"
     ]
@@ -67661,18 +63807,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "384",
-      "2 Atk, 1 Sp. Atk",
-      "7.0",
-      "206.5",
-      "340",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "mega-rayquaza"
     ]
@@ -67802,18 +63939,9 @@
       "Counter",
       "Endure",
       "Sleep Talk",
-      "Swords Dance",
-      "1017",
-      "3 Atk",
-      "1.2",
-      "39.8",
-      "275",
-      "5",
-      "10",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "ogerpon-cornerstone"
     ]
@@ -67974,16 +64102,7 @@
       "Endure",
       "Sleep Talk",
       "Swift",
-      "Swords Dance",
-      "724h",
-      "3 Atk",
-      "1.6",
-      "37.0",
-      "265",
-      "45",
-      "15",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "dartrix",
     "evolves_to": [
@@ -68139,16 +64258,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "105a",
-      "2 Def",
-      "1.0",
-      "34.0",
-      "149",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "marowak",
     "evolves_to": []
@@ -68306,18 +64416,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "88a",
-      "1 HP",
-      "0.7",
-      "42.0",
-      "65",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "alolan-muk"
     ]
@@ -68479,16 +64580,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "89a",
-      "1 HP, 1 Atk",
-      "1.0",
-      "52.0",
-      "175",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "alolan-grimer",
     "evolves_to": []
@@ -68633,16 +64725,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "741pp",
-      "2 Sp. Atk",
-      "0.6",
-      "3.4",
-      "167",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "oricorio-baile",
     "evolves_to": [
@@ -68789,16 +64872,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "741pu",
-      "2 Sp. Atk",
-      "0.6",
-      "3.4",
-      "167",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "oricorio-pom-pom",
     "evolves_to": [
@@ -68945,16 +65019,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "741s",
-      "2 Sp. Atk",
-      "0.6",
-      "3.4",
-      "167",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "oricorio-pau",
     "evolves_to": [
@@ -69113,18 +65178,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "27a",
-      "1 Def",
-      "0.7",
-      "40.0",
-      "60",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "alolan-sandslash"
     ]
@@ -69301,16 +65357,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "28a",
-      "2 Def",
-      "1.2",
-      "55.0",
-      "158",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "alolan-sandshrew",
     "evolves_to": []
@@ -69433,16 +65480,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "744",
-      "1 Atk",
-      "0.5",
-      "9.2",
-      "56",
-      "190",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": null,
     "evolves_to": []
@@ -69594,16 +65632,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "745m",
-      "2 Atk",
-      "1.1",
-      "25.0",
-      "170",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "lycanroc",
     "evolves_to": [
@@ -69752,16 +65781,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "745d",
-      "2 Atk",
-      "0.8",
-      "25.0",
-      "170",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "midnight-lycanroc",
     "evolves_to": []
@@ -69883,18 +65903,9 @@
       "Endure",
       "Mud-Slap",
       "Rock Slide",
-      "Sleep Talk",
-      "194p",
-      "1 HP",
-      "0.4",
-      "11.0",
-      "42",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Sleep Talk"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "clodsire"
     ]
@@ -70056,18 +66067,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "37a",
-      "1 Spe",
-      "0.6",
-      "9.9",
-      "60",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "alolan-ninetales"
     ]
@@ -70253,16 +66255,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "38a",
-      "2 Spe",
-      "1.1",
-      "19.9",
-      "177",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "alolan-vulpix",
     "evolves_to": []
@@ -70402,16 +66395,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "681",
-      "2 Def, 1 Sp. Def",
-      "1.7",
-      "53.0",
-      "250",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "form-change",
     "evolves_to": []
@@ -70549,16 +66533,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "774",
-      "1 Def, 1 Sp. Def",
-      "0.3",
-      "40.0",
-      "154",
-      "30",
-      "25",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
     "evolves_from": "form-change",
     "evolves_to": []
@@ -70712,16 +66687,7 @@
       "Icy Wind",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "964hf",
-      "2 HP",
-      "1.8",
-      "97.4",
-      "228",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "form-change",
     "evolves_to": []
@@ -70860,16 +66826,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "421sf",
-      "2 Sp. Atk",
-      "0.5",
-      "9.3",
-      "158",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "form-change",
     "evolves_to": []
@@ -71003,18 +66960,9 @@
       "Icy Wind",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "570h",
-      "1 Sp. Atk",
-      "0.7",
-      "12.5",
-      "66",
-      "75",
-      "25",
-      "50",
-      "Medium Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "hisuian-zoroark"
     ]
@@ -71162,16 +67110,7 @@
       "Psych Up",
       "Sleep Talk",
       "Swift",
-      "Swords Dance",
-      "571h",
-      "2 Sp. Atk",
-      "1.6",
-      "73.0",
-      "179",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "hisuian-zorua",
     "evolves_to": []
@@ -71312,18 +67251,9 @@
       "Endure",
       "Sleep Talk",
       "Swift",
-      "Swords Dance",
-      "215h",
-      "1 Spe",
-      "0.9",
-      "28.0",
-      "86",
-      "60",
-      "20",
-      "35",
-      "Medium Slow"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-slow",
     "evolves_to": [
       "sneasler"
     ]
@@ -71471,18 +67401,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "52a",
-      "1 Spe",
-      "0.4",
-      "4.2",
-      "58",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "alolan-persian"
     ]
@@ -71616,18 +67537,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "52g",
-      "1 Atk",
-      "0.4",
-      "7.5",
-      "58",
-      "255",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "perrserker"
     ]
@@ -71795,16 +67707,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "53a",
-      "2 Spe",
-      "1.1",
-      "33.0",
-      "154",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "alolan-meowth",
     "evolves_to": []
@@ -71983,16 +67886,7 @@
       "Rollout",
       "Sleep Talk",
       "Swift",
-      "Thunder Punch",
-      "157a",
-      "3 Sp. Atk",
-      "1.6",
-      "69.8",
-      "267",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "typhlosion",
     "evolves_to": []
@@ -72106,18 +68000,9 @@
       "Endure",
       "Rock Slide",
       "Sleep Talk",
-      "Swagger",
-      "128pc",
-      "2 Atk",
-      "1.4",
-      "115.0",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -72232,18 +68117,9 @@
       "Endure",
       "Rock Slide",
       "Sleep Talk",
-      "Swagger",
-      "128pb",
-      "2 Atk",
-      "1.4",
-      "85.0",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -72357,18 +68233,9 @@
       "Endure",
       "Rock Slide",
       "Sleep Talk",
-      "Swagger",
-      "128pa",
-      "2 Atk",
-      "1.4",
-      "110.0",
-      "172",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swagger"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": []
   },
   {
@@ -72526,18 +68393,9 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "172s",
-      "1 Spe",
-      "0.3",
-      "2.0",
-      "41",
-      "190",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -72712,16 +68570,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "26a",
-      "3 Spe",
-      "0.7",
-      "21.0",
-      "243",
-      "75",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "mega-raichu-y",
     "evolves_to": [
@@ -72833,18 +68682,9 @@
       "Endure",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "77g",
-      "1 Spe",
-      "0.8",
-      "24.0",
-      "82",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "galarian-rapidash"
     ]
@@ -72965,16 +68805,7 @@
       "Sleep Talk",
       "Snore",
       "Swift",
-      "Swords Dance",
-      "78g",
-      "2 Spe",
-      "1.7",
-      "80.0",
-      "175",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "galarian-ponyta",
     "evolves_to": []
@@ -73118,18 +68949,9 @@
       "Icy Wind",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "222g",
-      "1 Sp. Def",
-      "0.6",
-      "0.5",
-      "144",
-      "60",
-      "20",
-      "50",
-      "Fast"
+      "Snore"
     ],
-    "evolves_from": null,
+    "evolves_from": "fast",
     "evolves_to": [
       "cursola"
     ]
@@ -73280,18 +69102,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "550bs",
-      "2 Spe",
-      "1.0",
-      "18.0",
-      "161",
-      "25",
-      "40",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -73422,18 +69235,9 @@
       "Endure",
       "Icy Wind",
       "Sleep Talk",
-      "Swift",
-      "550ws",
-      "2 Spe",
-      "1.0",
-      "18.0",
-      "161",
-      "25",
-      "40",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "basculegion-m"
     ]
@@ -73587,16 +69391,7 @@
       "Endure",
       "Icy Wind",
       "Sleep Talk",
-      "Swift",
-      "902f",
-      "3 HP",
-      "3.0",
-      "110.0",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "basculegion-m",
     "evolves_to": []
@@ -73730,18 +69525,9 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "670ef",
-      "2 Sp. Def",
-      "0.2",
-      "0.9",
-      "243",
-      "120",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": []
   },
   {
@@ -73862,18 +69648,9 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "263g",
-      "1 Spe",
-      "0.4",
-      "17.5",
-      "56",
-      "255",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "galarian-linoone"
     ]
@@ -74012,16 +69789,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swift",
-      "264g",
-      "2 Spe",
-      "0.5",
-      "32.5",
-      "147",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "galarian-zigzagoon",
     "evolves_to": [
@@ -74158,16 +69926,7 @@
       "Counter",
       "Endure",
       "Rock Slide",
-      "Sleep Talk",
-      "705h",
-      "2 Sp. Def",
-      "0.7",
-      "68.5",
-      "158",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "goodra",
     "evolves_to": [
@@ -74313,16 +70072,7 @@
       "Fire Punch",
       "Rock Slide",
       "Sleep Talk",
-      "Thunder Punch",
-      "706h",
-      "3 Sp. Def",
-      "1.7",
-      "334.1",
-      "300",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "hisuian-sliggoo",
     "evolves_to": []
@@ -74428,18 +70178,9 @@
       "Explosion",
       "Rollout",
       "Sleep Talk",
-      "Swift",
-      "100h",
-      "1 Spe",
-      "0.5",
-      "13.0",
-      "66",
-      "190",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "medium-fast",
     "evolves_to": [
       "hisuian-electrode"
     ]
@@ -74549,16 +70290,7 @@
       "Explosion",
       "Rollout",
       "Sleep Talk",
-      "Swift",
-      "101h",
-      "2 Spe",
-      "1.2",
-      "71.0",
-      "172",
-      "60",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "hisuian-voltorb",
     "evolves_to": []
@@ -74692,18 +70424,9 @@
       "Endure",
       "Rock Slide",
       "Sleep Talk",
-      "Swift",
-      "58h",
-      "1 Atk",
-      "0.8",
-      "22.7",
-      "70",
-      "190",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
-    "evolves_from": null,
+    "evolves_from": "slow",
     "evolves_to": [
       "hisuian-arcanine"
     ]
@@ -74844,16 +70567,7 @@
       "Endure",
       "Rock Slide",
       "Sleep Talk",
-      "Swift",
-      "59h",
-      "2 Atk",
-      "2.0",
-      "168.0",
-      "194",
-      "75",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "hisuian-growlithe",
     "evolves_to": []
@@ -75007,16 +70721,7 @@
       "Psych Up",
       "Rock Slide",
       "Sleep Talk",
-      "Swift",
-      "628h",
-      "2 Sp. Atk",
-      "1.7",
-      "43.4",
-      "179",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "braviary",
     "evolves_to": []
@@ -75147,16 +70852,7 @@
       "Counter",
       "Endure",
       "Sleep Talk",
-      "Swords Dance",
-      "1017c",
-      "3 Atk",
-      "1.2",
-      "39.8",
-      "275",
-      "5",
-      "10",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "ogerpon",
     "evolves_to": [
@@ -75289,16 +70985,7 @@
       "Counter",
       "Endure",
       "Sleep Talk",
-      "Swords Dance",
-      "1017h",
-      "3 Atk",
-      "1.2",
-      "39.8",
-      "275",
-      "5",
-      "10",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "ogerpon-cornerstone",
     "evolves_to": [
@@ -75431,16 +71118,7 @@
       "Counter",
       "Endure",
       "Sleep Talk",
-      "Swords Dance",
-      "1017w",
-      "3 Atk",
-      "1.2",
-      "39.8",
-      "275",
-      "5",
-      "10",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "ogerpon-hearthflame",
     "evolves_to": [
@@ -75617,16 +71295,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "652M",
-      "3 Def",
-      "1.6",
-      "90.0",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "chesnaught",
     "evolves_to": [
@@ -75800,16 +71469,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "655M",
-      "3 Sp. Atk",
-      "1.5",
-      "39.0",
-      "267",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "delphox",
     "evolves_to": [
@@ -75996,16 +71656,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "658M",
-      "3 Spe",
-      "1.5",
-      "40.0",
-      "265",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "greninja",
     "evolves_to": [
@@ -76140,16 +71791,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "733M",
-      "3 Atk",
-      "1.1",
-      "26.0",
-      "243",
-      "45",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "toucannon",
     "evolves_to": [
@@ -76336,16 +71978,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "181M",
-      "3 Sp. Atk",
-      "1.4",
-      "61.5",
-      "275",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "ampharos",
     "evolves_to": [
@@ -76482,16 +72115,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "743M",
-      "2 Spe",
-      "0.2",
-      "0.5",
-      "162",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "ribombee",
     "evolves_to": [
@@ -76677,16 +72301,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "282M",
-      "3 Sp. Atk",
-      "1.6",
-      "48.4",
-      "278",
-      "45",
-      "20",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "gardevoir",
     "evolves_to": [
@@ -76888,16 +72503,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "475M",
-      "3 Atk",
-      "1.6",
-      "56.4",
-      "278",
-      "45",
-      "20",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "gallade",
     "evolves_to": [
@@ -77051,16 +72657,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "673M",
-      "2 HP",
-      "1.7",
-      "91.0",
-      "186",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "gogoat",
     "evolves_to": [
@@ -77255,16 +72852,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "303M",
-      "1 Atk, 1 Def",
-      "1.0",
-      "23.5",
-      "168",
-      "45",
-      "20",
-      "50",
-      "Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "mawile",
     "evolves_to": [
@@ -77436,16 +73024,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "630M",
-      "2 Atk",
-      "1.2",
-      "39.5",
-      "179",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "mandibuzz",
     "evolves_to": [
@@ -77638,16 +73217,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "306M",
-      "3 Def",
-      "2.2",
-      "395.0",
-      "284",
-      "45",
-      "35",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "aggron",
     "evolves_to": [
@@ -77813,16 +73383,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "214M",
-      "2 Atk",
-      "1.7",
-      "62.5",
-      "210",
-      "45",
-      "25",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "heracross",
     "evolves_to": [
@@ -78001,16 +73562,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "354M",
-      "2 Atk",
-      "1.2",
-      "13.0",
-      "194",
-      "45",
-      "25",
-      "35",
-      "Fast"
+      "Swords Dance"
     ],
     "evolves_from": "banette",
     "evolves_to": [
@@ -78185,16 +73737,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "164M",
-      "2 HP",
-      "1.6",
-      "40.8",
-      "158",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "noctowl",
     "evolves_to": [
@@ -78367,16 +73910,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "94M",
-      "3 Sp. Atk",
-      "1.4",
-      "40.5",
-      "270",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "gengar",
     "evolves_to": [
@@ -78545,16 +74079,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "229M",
-      "2 Sp. Atk",
-      "1.9",
-      "49.5",
-      "210",
-      "45",
-      "20",
-      "35",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "houndoom",
     "evolves_to": [
@@ -78739,16 +74264,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "208M",
-      "2 Def",
-      "10.5",
-      "740.0",
-      "214",
-      "25",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "steelix",
     "evolves_to": [
@@ -78897,16 +74413,7 @@
       "Endure",
       "Psych Up",
       "Sleep Talk",
-      "Swift",
-      "899M",
-      "1 Atk, 1 Sp. Atk",
-      "1.8",
-      "95.1",
-      "263",
-      "45",
-      "20",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "wyrdeer",
     "evolves_to": [
@@ -79063,16 +74570,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "362M",
-      "2 HP",
-      "2.1",
-      "350.2",
-      "203",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "glalie",
     "evolves_to": [
@@ -79221,16 +74719,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "879M",
-      "2 Atk",
-      "23.0",
-      "0.0",
-      "175",
-      "90",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "copperajah",
     "evolves_to": [
@@ -79383,16 +74872,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "701M",
-      "2 Atk",
-      "0.8",
-      "21.5",
-      "175",
-      "100",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "hawlucha",
     "evolves_to": [
@@ -79527,16 +75007,7 @@
       "Endure",
       "Rollout",
       "Sleep Talk",
-      "Snore",
-      "851M",
-      "2 Atk",
-      "?",
-      "?",
-      "184",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Snore"
     ],
     "evolves_from": "centiskorch",
     "evolves_to": [
@@ -79684,16 +75155,7 @@
       "Double-Edge",
       "Endure",
       "Mud-Slap",
-      "Sleep Talk",
-      "967MS",
-      "2 Spe",
-      "1.6",
-      "63.0",
-      "175",
-      "190",
-      "30",
-      "50",
-      "Medium Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "cyclizar",
     "evolves_to": [
@@ -79841,16 +75303,7 @@
       "Double-Edge",
       "Endure",
       "Mud-Slap",
-      "Sleep Talk",
-      "967MV",
-      "2 Spe",
-      "1.6",
-      "63.0",
-      "175",
-      "190",
-      "30",
-      "50",
-      "Medium Slow"
+      "Sleep Talk"
     ],
     "evolves_from": "mega-cyclizar-s",
     "evolves_to": [
@@ -80017,16 +75470,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "26MX",
-      "3 Spe",
-      "0.8",
-      "30.0",
-      "243",
-      "75",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "raichu",
     "evolves_to": [
@@ -80193,16 +75637,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "26MY",
-      "3 Spe",
-      "0.8",
-      "30.0",
-      "243",
-      "75",
-      "10",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "mega-raichu-x",
     "evolves_to": [
@@ -80357,16 +75792,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "212M",
-      "2 Atk",
-      "2.0",
-      "125.0",
-      "210",
-      "25",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "scizor",
     "evolves_to": [
@@ -80566,16 +75992,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "308M",
-      "2 Spe",
-      "1.3",
-      "31.5",
-      "179",
-      "90",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "medicham",
     "evolves_to": [
@@ -80763,16 +76180,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "675M",
-      "2 Atk",
-      "2.1",
-      "136.0",
-      "173",
-      "65",
-      "25",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "pangoro",
     "evolves_to": [
@@ -80935,16 +76343,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "695M",
-      "1 Sp. Atk, 1 Spe",
-      "1.0",
-      "21.0",
-      "168",
-      "75",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "helioptile",
     "evolves_to": [
@@ -81088,16 +76487,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Snore",
-      "Swords Dance",
-      "870M",
-      "2 Atk, 1 Sp. Def",
-      "3.0",
-      "62.0",
-      "165",
-      "45",
-      "25",
-      "50",
-      "Medium Fast"
+      "Swords Dance"
     ],
     "evolves_from": "falinks",
     "evolves_to": [
@@ -81275,16 +76665,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "330M",
-      "1 Atk, 2 Spe",
-      "2.0",
-      "82.0",
-      "260",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "flygon",
     "evolves_to": [
@@ -81426,16 +76807,7 @@
       "Rock Slide",
       "Sleep Talk",
       "Swords Dance",
-      "Thunder Wave",
-      "959M",
-      "3 Sp. Def",
-      "0.7",
-      "112.8",
-      "253",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Thunder Wave"
     ],
     "evolves_from": "tinkaton",
     "evolves_to": [
@@ -81610,16 +76982,7 @@
       "Snore",
       "Swagger",
       "Swords Dance",
-      "Thunder Punch",
-      "560M",
-      "1 Def, 1 Sp. Def",
-      "1.1",
-      "30.0",
-      "171",
-      "90",
-      "15",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "scrafty",
     "evolves_to": [
@@ -81790,16 +77153,7 @@
       "Rollout",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "323M",
-      "1 Atk, 1 Sp. Atk",
-      "2.5",
-      "320.0",
-      "196",
-      "150",
-      "20",
-      "50",
-      "Medium Fast"
+      "Swagger"
     ],
     "evolves_from": "camerupt",
     "evolves_to": [
@@ -81944,16 +77298,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "130M",
-      "2 Atk",
-      "6.5",
-      "305.0",
-      "224",
-      "45",
-      "5",
-      "50",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "gyarados",
     "evolves_to": [
@@ -82102,16 +77447,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "861M",
-      "3 Atk",
-      "!1.5",
-      "0.0",
-      "255",
-      "45",
-      "20",
-      "50",
-      "Medium Fast"
+      "Thunder Punch"
     ],
     "evolves_from": "grimmsnarl",
     "evolves_to": [
@@ -82289,16 +77625,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "334M",
-      "2 Sp. Def",
-      "1.5",
-      "20.6",
-      "207",
-      "45",
-      "20",
-      "50",
-      "Erratic"
+      "Swift"
     ],
     "evolves_from": "altaria",
     "evolves_to": [
@@ -82456,16 +77783,7 @@
       "Icy Wind",
       "Sleep Talk",
       "Snore",
-      "Swagger",
-      "131M",
-      "2 HP",
-      "?",
-      "0.0",
-      "187",
-      "45",
-      "40",
-      "50",
-      "Slow"
+      "Swagger"
     ],
     "evolves_from": "lapras",
     "evolves_to": [
@@ -82626,16 +77944,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "71M",
-      "3 Atk",
-      "1.7",
-      "15.5",
-      "245",
-      "45",
-      "20",
-      "50",
-      "Medium Slow"
+      "Swords Dance"
     ],
     "evolves_from": "victreebel",
     "evolves_to": [
@@ -82806,16 +78115,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "142M",
-      "2 Spe",
-      "2.1",
-      "79.0",
-      "215",
-      "45",
-      "35",
-      "50",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "aerodactyl",
     "evolves_to": [
@@ -82967,16 +78267,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swords Dance",
-      "460M",
-      "1 Atk, 1 Sp. Atk",
-      "2.7",
-      "185.0",
-      "208",
-      "60",
-      "20",
-      "50",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "abomasnow",
     "evolves_to": [
@@ -83140,13 +78431,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "567M",
-      "2 Atk",
-      "45",
-      "30",
-      "50",
-      "Medium Fast"
+      "Swift"
     ],
     "evolves_from": "archeops",
     "evolves_to": [
@@ -83324,16 +78609,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Thunder Punch",
-      "248M",
-      "3 Atk",
-      "2.5",
-      "255.0",
-      "315",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "tyranitar",
     "evolves_to": [
@@ -83521,16 +78797,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Thunder Punch",
-      "149M",
-      "3 Atk",
-      "2.2",
-      "210.0",
-      "300",
-      "45",
-      "40",
-      "35",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "dragonite",
     "evolves_to": [
@@ -83663,16 +78930,7 @@
       "Sleep Talk",
       "Snore",
       "Swagger",
-      "Swift",
-      "382P",
-      "3 Sp. Atk",
-      "9.8",
-      "430.0",
-      "347",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Swift"
     ],
     "evolves_from": "kyogre",
     "evolves_to": [
@@ -83817,16 +79075,7 @@
       "Swagger",
       "Swift",
       "Swords Dance",
-      "Thunder Punch",
-      "383P",
-      "3 Atk",
-      "5.0",
-      "999.7",
-      "347",
-      "3",
-      "120",
-      "0",
-      "Slow"
+      "Thunder Punch"
     ],
     "evolves_from": "groudon",
     "evolves_to": [
@@ -83973,16 +79222,7 @@
       "Snore",
       "Swagger",
       "Swift",
-      "Swords Dance",
-      "384M",
-      "2 Atk, 1 Sp. Atk",
-      "10.8",
-      "392.0",
-      "390",
-      "45",
-      "120",
-      "0",
-      "Slow"
+      "Swords Dance"
     ],
     "evolves_from": "rayquaza",
     "evolves_to": [

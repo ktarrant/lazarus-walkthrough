@@ -64,6 +64,12 @@ enum Command {
         #[arg(long, default_value = "book/src/egg-groups.md")]
         out: PathBuf,
     },
+    /// Generate a move catalog (move -> Pokémon -> method)
+    MoveCatalog {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/move-catalog.md")]
+        out: PathBuf,
+    },
     /// Generate item reference pages from the items manifest
     Items {
         #[arg(value_enum)]
@@ -96,6 +102,9 @@ fn main() -> Result<()> {
         Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
         Command::EggGroups { out } => {
             render_egg_groups(cli.pokedex_json.clone(), cli.encounters_json, out)?
+        }
+        Command::MoveCatalog { out } => {
+            render_move_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
         }
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
@@ -310,6 +319,75 @@ fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
         index_entries.push((slug, area.name));
     }
     write_index(&out_dir, "Encounter Tables", &index_entries)?;
+    Ok(())
+}
+
+fn render_move_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let species = encounters::list_species(&manifest)?;
+    let mut catalog: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
+
+    for name in species {
+        let Some((entry, _slug)) = find_entry(&dex, &name) else {
+            eprintln!("Skipped move catalog entry for {name}; not found in dex");
+            continue;
+        };
+
+        for mv in &entry.level_up_moves {
+            let method = if mv.level.trim().is_empty() {
+                "Level".to_string()
+            } else {
+                format!("Level {}", mv.level.trim())
+            };
+            catalog
+                .entry(mv.move_name.trim().to_string())
+                .or_default()
+                .push((entry.name.clone(), method));
+        }
+        for mv in &entry.egg_moves {
+            let move_name = mv.trim();
+            if move_name.is_empty() {
+                continue;
+            }
+            catalog
+                .entry(move_name.to_string())
+                .or_default()
+                .push((entry.name.clone(), "Egg".to_string()));
+        }
+        for mv in &entry.tm_moves {
+            let move_name = mv.trim();
+            if move_name.is_empty() {
+                continue;
+            }
+            catalog
+                .entry(move_name.to_string())
+                .or_default()
+                .push((entry.name.clone(), "TM/HM".to_string()));
+        }
+        for mv in &entry.tutor_moves {
+            let move_name = mv.trim();
+            if move_name.is_empty() {
+                continue;
+            }
+            catalog
+                .entry(move_name.to_string())
+                .or_default()
+                .push((entry.name.clone(), "Tutor".to_string()));
+        }
+    }
+
+    let mut buf = String::new();
+    buf.push_str("# Move Catalog\n\n");
+    buf.push_str("Moves available in Lazarus with the Pokémon that learn them and the acquisition method.\n\n");
+    buf.push_str("| Move | Pokémon | How |\n| --- | --- | --- |\n");
+    for (mv, entries) in &catalog {
+        let mut sorted = entries.clone();
+        sorted.sort_by(|a, b| a.0.cmp(&b.0));
+        for (name, how) in sorted {
+            buf.push_str(&format!("| {} | {} | {} |\n", mv, name, how));
+        }
+    }
+    std::fs::write(out, buf)?;
     Ok(())
 }
 

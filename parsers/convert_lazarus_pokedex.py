@@ -42,6 +42,9 @@ def parse_move_list(values: List[str], is_level: bool = False) -> List[Any]:
         raw = raw.strip()
         if not raw:
             continue
+        # Strip known numeric noise like "0.1" or "0.2" that appear in the sheet
+        if raw.replace(".", "", 1).isdigit():
+            continue
         if is_level:
             entry = parse_level_move(raw)
             if entry:
@@ -58,7 +61,7 @@ def find_indices(header: List[str], name: str) -> List[int]:
 def parse_row(
     row: List[str],
     move_sections: List[int],
-    evo_line_idx: int,
+    tutor_end_idx: int,
     type_indices: List[int],
     stat_indices: List[int],
     ability_indices: List[int],
@@ -81,7 +84,7 @@ def parse_row(
     level_range = row[level_start:egg_start]
     egg_moves_range = row[egg_start:tm_start]
     tm_range = row[tm_start:tutor_start]
-    tutor_range = row[tutor_start:evo_line_idx]
+    tutor_range = row[tutor_start:tutor_end_idx]
 
     egg_groups = []
     for idx in egg_group_indices:
@@ -90,7 +93,7 @@ def parse_row(
             if val and val not in egg_groups:
                 egg_groups.append(val)
 
-    evolution_line = [cell.strip() for cell in row[evo_line_idx:] if cell.strip()]
+    evolution_line = [cell.strip() for cell in row[tutor_end_idx:] if cell.strip()]
 
     abilities = {
         "primary": row[ability_indices[0]].strip() if ability_indices else "",
@@ -184,13 +187,14 @@ def main() -> None:
     level_start, egg_start, tm_start, tutor_start = move_starts[:4]
 
     evo_line_idx = header.index("Evolution Line") if "Evolution Line" in header else len(header)
+    tutor_end_idx = header.index("Sprite #") if "Sprite #" in header else evo_line_idx
 
     entries = []
     for row in rows[2:]:
         entry = parse_row(
             row,
             [level_start, egg_start, tm_start, tutor_start],
-            evo_line_idx,
+            tutor_end_idx,
             type_indices,
             stat_indices,
             ability_indices,
