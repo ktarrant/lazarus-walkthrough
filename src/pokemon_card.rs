@@ -308,7 +308,7 @@ fn stat_class(value: u32) -> &'static str {
     }
 }
 
-fn non_empty(text: &str) -> Option<&str> {
+pub fn non_empty(text: &str) -> Option<&str> {
     let trimmed = text.trim();
     if trimmed.is_empty() {
         None

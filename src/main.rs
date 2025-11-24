@@ -4,6 +4,7 @@ mod pokedex;
 mod pokemon_card;
 mod type_chart;
 
+use crate::pokemon_card::non_empty;
 use anyhow::Result;
 use clap::{Parser, Subcommand};
 use std::collections::BTreeMap;
@@ -70,6 +71,12 @@ enum Command {
         #[arg(long, default_value = "book/src/move-catalog.md")]
         out: PathBuf,
     },
+    /// Generate an ability catalog (ability -> Pokémon -> slot info)
+    AbilityCatalog {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/ability-catalog.md")]
+        out: PathBuf,
+    },
     /// Generate item reference pages from the items manifest
     Items {
         #[arg(value_enum)]
@@ -105,6 +112,9 @@ fn main() -> Result<()> {
         }
         Command::MoveCatalog { out } => {
             render_move_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
+        }
+        Command::AbilityCatalog { out } => {
+            render_ability_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
         }
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
@@ -385,6 +395,52 @@ fn render_move_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -
         sorted.sort_by(|a, b| a.0.cmp(&b.0));
         for (name, how) in sorted {
             buf.push_str(&format!("| {} | {} | {} |\n", mv, name, how));
+        }
+    }
+    std::fs::write(out, buf)?;
+    Ok(())
+}
+
+fn render_ability_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let species = encounters::list_species(&manifest)?;
+    let mut catalog: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
+
+    for name in species {
+        let Some((entry, _)) = find_entry(&dex, &name) else {
+            eprintln!("Skipped ability catalog entry for {name}; not found in dex");
+            continue;
+        };
+
+        if let Some(primary) = non_empty(&entry.abilities.primary) {
+            catalog
+                .entry(primary.to_string())
+                .or_default()
+                .push((entry.name.clone(), "Primary".to_string()));
+        }
+        if let Some(secondary) = non_empty(&entry.abilities.secondary) {
+            catalog
+                .entry(secondary.to_string())
+                .or_default()
+                .push((entry.name.clone(), "Secondary".to_string()));
+        }
+        if let Some(hidden) = non_empty(&entry.abilities.hidden) {
+            catalog
+                .entry(hidden.to_string())
+                .or_default()
+                .push((entry.name.clone(), "Hidden".to_string()));
+        }
+    }
+
+    let mut buf = String::new();
+    buf.push_str("# Ability Catalog\n\n");
+    buf.push_str("Abilities available in Lazarus with the Pokémon that can have them.\n\n");
+    buf.push_str("| Ability | Pokémon | Slot |\n| --- | --- | --- |\n");
+    for (ability, entries) in &catalog {
+        let mut sorted = entries.clone();
+        sorted.sort_by(|a, b| a.0.cmp(&b.0));
+        for (name, slot) in sorted {
+            buf.push_str(&format!("| {} | {} | {} |\n", ability, name, slot));
         }
     }
     std::fs::write(out, buf)?;

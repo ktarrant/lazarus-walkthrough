@@ -114,6 +114,18 @@ cargo run -- egg-groups --out book/src/egg-groups.md
 
 The file is safe to commit and mdbook-autosummary will add it to the sidebar.
 
+### Move & ability catalogs
+
+Generate reference tables that invert the Pokédex data:
+
+```sh
+cargo run -- move-catalog --out book/src/move-catalog.md
+cargo run -- ability-catalog --out book/src/ability-catalog.md
+```
+
+Each table lists the move or ability, which Pokémon can learn/possess it, and
+the acquisition method or ability slot.
+
 ### mdBook preview
 Due to a limitation in mdbook-autosummary, an empty SUMMARY.md should be created
 before running build or serve.
