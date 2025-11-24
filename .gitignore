@@ -2,4 +2,3 @@
 *.pyc
 /target
 book/book
-book/src/SUMMARY.md

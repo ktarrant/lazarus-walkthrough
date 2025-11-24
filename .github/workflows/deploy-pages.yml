@@ -23,9 +23,6 @@ jobs:
       - name: Install mdBook tooling
         run: |
           cargo install mdbook --locked --force
-      - name: Generate SUMMARY.md
-        run: |
-          cargo run -- summary --template book/src/SUMMARY.md.template --out book/src/SUMMARY.md
       - name: Build book
         run: mdbook build book
       - name: Upload artifact

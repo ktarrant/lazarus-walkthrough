@@ -5,7 +5,7 @@ mod pokemon_card;
 mod type_chart;
 
 use crate::pokemon_card::non_empty;
-use anyhow::{Context, Result};
+use anyhow::Result;
 use clap::{Parser, Subcommand};
 use std::collections::BTreeMap;
 use std::path::PathBuf;
@@ -83,16 +83,7 @@ enum Command {
         #[arg(long, default_value = "book/src/pokemon-lookup.md")]
         out: PathBuf,
     },
-    /// Generate SUMMARY.md from the template
-    Summary {
-        /// Path to the SUMMARY template
-        #[arg(long, default_value = "book/src/SUMMARY.md.template")]
-        template: PathBuf,
-        /// Output path for SUMMARY.md
-        #[arg(long, default_value = "book/src/SUMMARY.md")]
-        out: PathBuf,
-    },
-    /// Run all generators (cards, encounters, catalogs, lookup, summary)
+    /// Run all generators (cards, encounters, catalogs, lookup)
     All {
         /// Output directory for generated cards
         #[arg(long, default_value = "book/src/pokemon")]
@@ -112,12 +103,6 @@ enum Command {
         /// Output path for lookup page
         #[arg(long, default_value = "book/src/pokemon-lookup.md")]
         lookup_out: PathBuf,
-        /// SUMMARY template path
-        #[arg(long, default_value = "book/src/SUMMARY.md.template")]
-        summary_template: PathBuf,
-        /// SUMMARY output path
-        #[arg(long, default_value = "book/src/SUMMARY.md")]
-        summary_out: PathBuf,
     },
     /// Generate item reference pages from the items manifest
     Items {
@@ -161,9 +146,6 @@ fn main() -> Result<()> {
         Command::PokemonLookup { out } => {
             render_pokemon_lookup(cli.pokedex_json.clone(), cli.encounters_json, out)?
         }
-        Command::Summary { template, out } => {
-            render_summary(cli.pokedex_json.clone(), cli.encounters_json, template, out)?
-        }
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
         Command::All {
@@ -173,8 +155,6 @@ fn main() -> Result<()> {
             ability_out,
             eggs_out,
             lookup_out,
-            summary_template,
-            summary_out,
         } => {
             render_all_pokemon_cards(
                 cli.pokedex_json.clone(),
@@ -201,12 +181,6 @@ fn main() -> Result<()> {
                 cli.pokedex_json.clone(),
                 cli.encounters_json.clone(),
                 lookup_out,
-            )?;
-            render_summary(
-                cli.pokedex_json,
-                cli.encounters_json,
-                summary_template,
-                summary_out,
             )?;
         }
     }
@@ -505,50 +479,6 @@ fn render_ability_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf
     }
     std::fs::write(out, buf)?;
     println!("Generated ability catalog with {} abilities", catalog.len());
-    Ok(())
-}
-
-fn render_summary(
-    _pokedex_path: PathBuf,
-    manifest: PathBuf,
-    template_path: PathBuf,
-    out_path: PathBuf,
-) -> Result<()> {
-    let encounters = encounters::list_locations(&manifest)?;
-    let species = encounters::list_species(&manifest)?;
-
-    let encounter_section = encounters
-        .iter()
-        .map(|name| {
-            let slug = encounters::slugify(name);
-            format!("- [{}](<encounters/{slug}.md>)", name, slug = slug)
-        })
-        .collect::<Vec<_>>()
-        .join("\n");
-
-    let pokemon_section = species
-        .iter()
-        .map(|name| {
-            let slug = encounters::slugify(name);
-            format!("- [{}](<pokemon/{slug}.md>)", name, slug = slug)
-        })
-        .collect::<Vec<_>>()
-        .join("\n");
-
-    let template = std::fs::read_to_string(&template_path)
-        .with_context(|| format!("reading template {}", template_path.display()))?;
-    let summary = template
-        .replace("{{ encounter_tables }}", &encounter_section)
-        .replace("{{ pokemon_cards }}", &pokemon_section);
-    if let Some(parent) = out_path.parent() {
-        std::fs::create_dir_all(parent)?;
-    }
-    std::fs::write(out_path, summary)?;
-    println!(
-        "Generated SUMMARY with {} encounter areas and {} Pokémon entries",
-        encounters.len(),
-        species.len()
-    );
     Ok(())
 }
 
