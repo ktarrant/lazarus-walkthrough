@@ -92,6 +92,33 @@ enum Command {
         #[arg(long, default_value = "book/src/SUMMARY.md")]
         out: PathBuf,
     },
+    /// Run all generators (cards, encounters, catalogs, lookup, summary)
+    All {
+        /// Output directory for generated cards
+        #[arg(long, default_value = "book/src/pokemon")]
+        cards_out: PathBuf,
+        /// Output directory for encounter tables
+        #[arg(long, default_value = "book/src/encounters")]
+        encounters_out: PathBuf,
+        /// Output path for move catalog
+        #[arg(long, default_value = "book/src/move-catalog.md")]
+        move_out: PathBuf,
+        /// Output path for ability catalog
+        #[arg(long, default_value = "book/src/ability-catalog.md")]
+        ability_out: PathBuf,
+        /// Output path for egg groups index
+        #[arg(long, default_value = "book/src/egg-groups.md")]
+        eggs_out: PathBuf,
+        /// Output path for lookup page
+        #[arg(long, default_value = "book/src/pokemon-lookup.md")]
+        lookup_out: PathBuf,
+        /// SUMMARY template path
+        #[arg(long, default_value = "book/src/SUMMARY.md.template")]
+        summary_template: PathBuf,
+        /// SUMMARY output path
+        #[arg(long, default_value = "book/src/SUMMARY.md")]
+        summary_out: PathBuf,
+    },
     /// Generate item reference pages from the items manifest
     Items {
         #[arg(value_enum)]
@@ -139,6 +166,49 @@ fn main() -> Result<()> {
         }
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
+        Command::All {
+            cards_out,
+            encounters_out,
+            move_out,
+            ability_out,
+            eggs_out,
+            lookup_out,
+            summary_template,
+            summary_out,
+        } => {
+            render_all_pokemon_cards(
+                cli.pokedex_json.clone(),
+                cli.encounters_json.clone(),
+                cards_out,
+            )?;
+            render_all_encounters(cli.encounters_json.clone(), encounters_out)?;
+            render_move_catalog(
+                cli.pokedex_json.clone(),
+                cli.encounters_json.clone(),
+                move_out,
+            )?;
+            render_ability_catalog(
+                cli.pokedex_json.clone(),
+                cli.encounters_json.clone(),
+                ability_out,
+            )?;
+            render_egg_groups(
+                cli.pokedex_json.clone(),
+                cli.encounters_json.clone(),
+                eggs_out,
+            )?;
+            render_pokemon_lookup(
+                cli.pokedex_json.clone(),
+                cli.encounters_json.clone(),
+                lookup_out,
+            )?;
+            render_summary(
+                cli.pokedex_json,
+                cli.encounters_json,
+                summary_template,
+                summary_out,
+            )?;
+        }
     }
     Ok(())
 }
@@ -178,8 +248,7 @@ fn render_all_pokemon_cards(
     std::fs::create_dir_all(&out_dir)?;
     let entries = dex.all_entries();
     let total = entries.len();
-    for (idx, entry) in entries.into_iter().enumerate() {
-        println!("Generating card {}/{}: {}", idx + 1, total, entry.name);
+    for entry in entries {
         let slug = entry.slug.clone();
         let path = out_dir.join(format!("{slug}.md"));
         let chain = dex.evolution_chain(&entry.slug);
@@ -388,6 +457,7 @@ fn render_move_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -
         }
     }
     std::fs::write(out, buf)?;
+    println!("Generated move catalog with {} moves", catalog.len());
     Ok(())
 }
 
@@ -434,6 +504,7 @@ fn render_ability_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf
         }
     }
     std::fs::write(out, buf)?;
+    println!("Generated ability catalog with {} abilities", catalog.len());
     Ok(())
 }
 
@@ -473,6 +544,11 @@ fn render_summary(
         std::fs::create_dir_all(parent)?;
     }
     std::fs::write(out_path, summary)?;
+    println!(
+        "Generated SUMMARY with {} encounter areas and {} Pokémon entries",
+        encounters.len(),
+        species.len()
+    );
     Ok(())
 }
 
@@ -491,6 +567,7 @@ fn render_pokemon_lookup(
         }
     }
     entries.sort_by(|a, b| a.1.cmp(&b.1));
+    let total_entries = entries.len();
 
     let mut buf = String::new();
     buf.push_str("# Pokémon Lookup\n\n");
@@ -509,6 +586,7 @@ fn render_pokemon_lookup(
         std::fs::create_dir_all(parent)?;
     }
     std::fs::write(out_path, buf)?;
+    println!("Generated Pokémon lookup with {} entries", total_entries);
     Ok(())
 }
 
@@ -536,6 +614,7 @@ fn render_egg_groups(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> 
     for entries in groups.values_mut() {
         entries.sort_by(|a, b| a.0.cmp(&b.0));
     }
+    let group_count = groups.len();
 
     let mut buf = String::new();
     buf.push_str("# Egg Groups\n\n");
@@ -555,6 +634,7 @@ fn render_egg_groups(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf) -> 
     }
     buf.push_str("</div>\n");
     std::fs::write(out, buf)?;
+    println!("Generated egg group index with {} groups", group_count);
     Ok(())
 }
 
