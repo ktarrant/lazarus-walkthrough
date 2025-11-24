@@ -12,6 +12,7 @@ If you want to look at what can be caught there, see Chapter 7.
 - The Name Rater lives in one of the houses.
 - On the beach in the south, a Move Relearner is available if you have 20 Pokemon registered.
 
+### Encounters
 {{#include ./encounters/pythios-town.md}}
 **University Student Reward (Pythios Town):** Traditional Outfit.
 

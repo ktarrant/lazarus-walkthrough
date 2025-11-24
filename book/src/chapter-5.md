@@ -14,6 +14,7 @@ Then in Jusmail Town, head through the south exit that is blocked by smashable r
 
 On your way through the woods, you will have another run-in with Team Chimera.
 
+### Encounters
 {{#include ./encounters/wanderers-woods-north.md}}
 
 {{#include ./encounters/wanderers-woods-south.md}}

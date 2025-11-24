@@ -30,6 +30,7 @@ I like to catch new Pokemon whenever they come up.
 The road between Acrisia City and Jusmail Town is all the way on the left
 and down.
 
+### Encounters
 {{#include ./encounters/acrisia-city.md}}
 **University Student Reward (Acrisia City):** 15 Nest Balls.
 
@@ -39,6 +40,7 @@ and down.
 Once you win, you can bring the package back to the Prof.
 - When you have returned the package, you can continue south to Jusmail Town.
 
+### Encounters
 {{#include ./encounters/bronze-fields-north.md}}
 
 {{#include ./encounters/bronze-fields-south.md}}

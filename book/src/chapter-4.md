@@ -20,5 +20,6 @@ which is good for nature/IV hunting.
 These are my favorites.
 Compare to the 2x catchrate of an Ultra Ball.
 
+### Encounters
 {{#include ./encounters/kalami-city.md}}
 **University Student Reward (Kalami City):** TM Whirlpool & East Blue Ilios Outfit (if not already unlocked).
