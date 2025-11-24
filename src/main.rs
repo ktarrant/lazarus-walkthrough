@@ -409,7 +409,9 @@ fn render_move_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
         let mut sorted = entries.clone();
         sorted.sort_by(|a, b| a.0.cmp(&b.0));
         for (name, how) in sorted {
-            buf.push_str(&format!("| {} | {} | {} |\n", mv, name, how));
+            let slug = encounters::slugify(&name);
+            let link = format!("<a href=\"pokemon-lookup.html?q={}\">{}</a>", slug, name);
+            buf.push_str(&format!("| {} | {} | {} |\n", mv, link, how));
         }
     }
     std::fs::write(out, buf)?;
@@ -450,7 +452,9 @@ fn render_ability_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
         let mut sorted = entries.clone();
         sorted.sort_by(|a, b| a.0.cmp(&b.0));
         for (name, slot) in sorted {
-            buf.push_str(&format!("| {} | {} | {} |\n", ability, name, slot));
+            let slug = encounters::slugify(&name);
+            let link = format!("<a href=\"pokemon-lookup.html?q={}\">{}</a>", slug, name);
+            buf.push_str(&format!("| {} | {} | {} |\n", ability, link, slot));
         }
     }
     std::fs::write(out, buf)?;
