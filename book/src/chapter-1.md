@@ -1,6 +1,6 @@
-# Acrisia City
+# Acrisia City & Bronze Fields
 
-## Acrisia City & Bronze Fields
+## Acrisia City
 
 You begin in Acrisia City, awakened by the Professor’s urgent call for a new
 Pokédex initiative across the Lazarus region.

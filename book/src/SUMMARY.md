@@ -2,7 +2,7 @@
 [Introduction](<introduction.md>)
 
 # Walkthrough
-- [Acrisia City](<chapter-1.md>)
+- [Acrisia City & Bronze Fields](<chapter-1.md>)
 - [Jusmail Town](<chapter-2.md>)
 - [Acrisia Mountains & Riverwalk Trail](<chapter-3.md>)
 - [Kalami City](<chapter-4.md>)
