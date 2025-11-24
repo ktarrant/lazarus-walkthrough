@@ -5,11 +5,11 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) |
 | --- | --- |
-| [Alolan Vulpix](../pokemon/alolan-vulpix.md) | 20% |
-| [Amaura](../pokemon/amaura.md) | 2% |
-| [Bronzor](../pokemon/bronzor.md) | 20% |
-| [Onix](../pokemon/onix.md) | 10% |
-| [Snorunt](../pokemon/snorunt.md) | 30% |
-| [Spheal](../pokemon/spheal.md) | 10% |
-| [Swinub](../pokemon/swinub.md) | 8% |
+| <a href="../pokemon-lookup.html?q=alolan-vulpix">Alolan Vulpix</a> | 20% |
+| <a href="../pokemon-lookup.html?q=amaura">Amaura</a> | 2% |
+| <a href="../pokemon-lookup.html?q=bronzor">Bronzor</a> | 20% |
+| <a href="../pokemon-lookup.html?q=onix">Onix</a> | 10% |
+| <a href="../pokemon-lookup.html?q=snorunt">Snorunt</a> | 30% |
+| <a href="../pokemon-lookup.html?q=spheal">Spheal</a> | 10% |
+| <a href="../pokemon-lookup.html?q=swinub">Swinub</a> | 8% |
 

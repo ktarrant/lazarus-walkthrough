@@ -994,6 +994,14 @@ Type to filter and reveal a matching Pokémon card.
 const input = document.getElementById('lookup-input');
 const cards = Array.from(document.querySelectorAll('.lookup-card'));
 const status = document.getElementById('lookup-status');
+function presetFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const hash = window.location.hash.replace('#','');
+  const q = params.get('q') || hash;
+  if (q) {
+    input.value = q;
+  }
+}
 function applyFilter() {
   const q = input.value.trim().toLowerCase();
   let shown = 0;
@@ -1011,6 +1019,7 @@ function applyFilter() {
   }
   status.textContent = q && shown === 0 ? 'No match found' : '';
 }
+presetFromUrl();
 applyFilter();
 input.addEventListener('input', applyFilter);
 </script>

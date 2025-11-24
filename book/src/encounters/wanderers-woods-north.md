@@ -5,27 +5,27 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aipom](../pokemon/aipom.md) | 20% | — | — | — | — | — |
-| [Applin](../pokemon/applin.md) | 10% | — | — | — | — | — |
-| [Barboach](../pokemon/barboach.md) | — | — | 30% | — | — | — |
-| [Blitzle](../pokemon/blitzle.md) | 2% | 2% | — | — | — | — |
-| [Chikorita](../pokemon/chikorita.md) | 4% | — | — | — | — | — |
-| [Ducklett](../pokemon/ducklett.md) | — | — | — | — | — | 10% |
-| [Finneon](../pokemon/finneon.md) | — | — | — | — | 40% | — |
-| [Heracross](../pokemon/heracross.md) | 5% | 5% | — | — | — | — |
-| [Impidimp](../pokemon/impidimp.md) | — | 20% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Natu](../pokemon/natu.md) | — | 10% | — | — | — | — |
-| [Paldean Wooper](../pokemon/paldean-wooper.md) | — | 10% | — | — | — | — |
-| [Pichu](../pokemon/pichu.md) | 4% | 4% | — | — | — | — |
-| [Poliwag](../pokemon/poliwag.md) | 5% | 5% | — | 60% | — | — |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | — | — | 30% |
-| [Pumpkaboo](../pokemon/pumpkaboo.md) | 10% | — | — | — | — | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | — | 40% | — |
-| [Shroomish](../pokemon/shroomish.md) | 20% | 20% | — | — | — | — |
-| [Shuppet](../pokemon/shuppet.md) | — | 10% | — | — | — | — |
-| [Toedscool](../pokemon/toedscool.md) | 10% | 10% | — | — | — | — |
-| [Togedemaru](../pokemon/togedemaru.md) | — | 4% | — | — | — | — |
-| [Wimpod](../pokemon/wimpod.md) | — | — | — | — | — | 60% |
-| [Wooper](../pokemon/wooper.md) | 10% | — | — | 40% | — | — |
+| <a href="../pokemon-lookup.html?q=aipom">Aipom</a> | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=applin">Applin</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=barboach">Barboach</a> | — | — | 30% | — | — | — |
+| <a href="../pokemon-lookup.html?q=blitzle">Blitzle</a> | 2% | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=chikorita">Chikorita</a> | 4% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=ducklett">Ducklett</a> | — | — | — | — | — | 10% |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=heracross">Heracross</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=impidimp">Impidimp</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=natu">Natu</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=paldean-wooper">Paldean Wooper</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=pichu">Pichu</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=poliwag">Poliwag</a> | 5% | 5% | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=shroomish">Shroomish</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=shuppet">Shuppet</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=toedscool">Toedscool</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=togedemaru">Togedemaru</a> | — | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wimpod">Wimpod</a> | — | — | — | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=wooper">Wooper</a> | 10% | — | — | 40% | — | — |
 

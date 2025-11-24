@@ -158,7 +158,11 @@ impl EncounterArea {
         buf.push('\n');
 
         for (species, methods) in species_map {
-            let link = format!("[{}](../pokemon/{}.md)", species, slugify(&species));
+            let link = format!(
+                "<a href=\"../pokemon-lookup.html?q={}\">{}</a>",
+                slugify(&species),
+                species
+            );
             buf.push_str(&format!("| {} |", link));
             for col in &columns {
                 let cell = methods

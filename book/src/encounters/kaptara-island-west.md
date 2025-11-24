@@ -5,19 +5,19 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Altaria](../pokemon/altaria.md) | 5% | 5% |
-| [Claydol](../pokemon/claydol.md) | — | 10% |
-| [Duosion](../pokemon/duosion.md) | 8% | — |
-| [Espathra](../pokemon/espathra.md) | — | 10% |
-| [Fomantis](../pokemon/fomantis.md) | 20% | 20% |
-| [Golduck](../pokemon/golduck.md) | — | 10% |
-| [Gothitelle](../pokemon/gothitelle.md) | — | 2% |
-| [Gothorita](../pokemon/gothorita.md) | — | 8% |
-| [Lurantis](../pokemon/lurantis.md) | 5% | 5% |
-| [Morgrem](../pokemon/morgrem.md) | 10% | 10% |
-| [Oranguru](../pokemon/oranguru.md) | 10% | — |
-| [Passimian](../pokemon/passimian.md) | 10% | — |
-| [Reuniclus](../pokemon/reuniclus.md) | 2% | — |
-| [Trumbeak](../pokemon/trumbeak.md) | 20% | 20% |
-| [Yanma](../pokemon/yanma.md) | 10% | — |
+| <a href="../pokemon-lookup.html?q=altaria">Altaria</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=claydol">Claydol</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=duosion">Duosion</a> | 8% | — |
+| <a href="../pokemon-lookup.html?q=espathra">Espathra</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=fomantis">Fomantis</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=golduck">Golduck</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=gothitelle">Gothitelle</a> | — | 2% |
+| <a href="../pokemon-lookup.html?q=gothorita">Gothorita</a> | — | 8% |
+| <a href="../pokemon-lookup.html?q=lurantis">Lurantis</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=morgrem">Morgrem</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=oranguru">Oranguru</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=passimian">Passimian</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=reuniclus">Reuniclus</a> | 2% | — |
+| <a href="../pokemon-lookup.html?q=trumbeak">Trumbeak</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=yanma">Yanma</a> | 10% | — |
 

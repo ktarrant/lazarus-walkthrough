@@ -5,19 +5,19 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- |
-| [Amaura](../pokemon/amaura.md) | 2% | — | — | — | — |
-| [Bronzor](../pokemon/bronzor.md) | 20% | — | — | — | — |
-| [Cubchoo](../pokemon/cubchoo.md) | 10% | — | — | — | — |
-| [Finneon](../pokemon/finneon.md) | — | — | — | 40% | — |
-| [Lapras](../pokemon/lapras.md) | — | — | — | — | 1% |
-| [Magikarp](../pokemon/magikarp.md) | — | 70% | — | — | — |
-| [Poliwhirl](../pokemon/poliwhirl.md) | — | — | 60% | — | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | 40% | — |
-| [Sealeo](../pokemon/sealeo.md) | — | — | — | — | 9% |
-| [Seel](../pokemon/seel.md) | 10% | — | — | — | — |
-| [Shellder](../pokemon/shellder.md) | — | 30% | 40% | — | 60% |
-| [Snom](../pokemon/snom.md) | 5% | — | — | — | — |
-| [Snorunt](../pokemon/snorunt.md) | 30% | — | — | — | — |
-| [Spheal](../pokemon/spheal.md) | 10% | — | — | — | 30% |
-| [Swinub](../pokemon/swinub.md) | 13% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=amaura">Amaura</a> | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=bronzor">Bronzor</a> | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=cubchoo">Cubchoo</a> | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=lapras">Lapras</a> | — | — | — | — | 1% |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=poliwhirl">Poliwhirl</a> | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=sealeo">Sealeo</a> | — | — | — | — | 9% |
+| <a href="../pokemon-lookup.html?q=seel">Seel</a> | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=shellder">Shellder</a> | — | 30% | 40% | — | 60% |
+| <a href="../pokemon-lookup.html?q=snom">Snom</a> | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=snorunt">Snorunt</a> | 30% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=spheal">Spheal</a> | 10% | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=swinub">Swinub</a> | 13% | — | — | — | — |
 

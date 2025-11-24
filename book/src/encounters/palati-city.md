@@ -5,26 +5,26 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Archen](../pokemon/archen.md) | 10% | 10% | — | — | — | — |
-| [Baltoy](../pokemon/baltoy.md) | 20% | 20% | — | — | — | — |
-| [Clamperl](../pokemon/clamperl.md) | — | — | — | 20% | 40% | — |
-| [Clodsire](../pokemon/clodsire.md) | — | 10% | — | — | — | — |
-| [Dhelmise](../pokemon/dhelmise.md) | — | — | — | — | 5% | — |
-| [Girafarig](../pokemon/girafarig.md) | 10% | 10% | — | — | — | — |
-| [Grafaiai](../pokemon/grafaiai.md) | — | 10% | — | — | — | — |
-| [Gurdurr](../pokemon/gurdurr.md) | 4% | — | — | — | — | — |
-| [Klawf](../pokemon/klawf.md) | 20% | 20% | — | — | — | — |
-| [Lycanroc Day](../pokemon/lycanroc-day.md) | 2% | — | — | — | — | — |
-| [Lycanroc Night](../pokemon/lycanroc-night.md) | — | 2% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Munna](../pokemon/munna.md) | — | 10% | — | — | — | — |
-| [Pawmo](../pokemon/pawmo.md) | 10% | — | — | — | — | — |
-| [Quagsire](../pokemon/quagsire.md) | 10% | — | — | — | — | — |
-| [Shellder](../pokemon/shellder.md) | — | — | — | 20% | — | — |
-| [Tentacool](../pokemon/tentacool.md) | — | — | 30% | — | — | 60% |
-| [Timburr](../pokemon/timburr.md) | 4% | — | — | — | — | — |
-| [Tirtouga](../pokemon/tirtouga.md) | — | — | — | 60% | 15% | 10% |
-| [Toedscool](../pokemon/toedscool.md) | 10% | — | — | — | — | — |
-| [Toedscruel](../pokemon/toedscruel.md) | — | 8% | — | — | — | — |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | 30% |
+| <a href="../pokemon-lookup.html?q=archen">Archen</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=baltoy">Baltoy</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=clamperl">Clamperl</a> | — | — | — | 20% | 40% | — |
+| <a href="../pokemon-lookup.html?q=clodsire">Clodsire</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=dhelmise">Dhelmise</a> | — | — | — | — | 5% | — |
+| <a href="../pokemon-lookup.html?q=girafarig">Girafarig</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=grafaiai">Grafaiai</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=gurdurr">Gurdurr</a> | 4% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=klawf">Klawf</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lycanroc-day">Lycanroc Day</a> | 2% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lycanroc-night">Lycanroc Night</a> | — | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=munna">Munna</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=pawmo">Pawmo</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=quagsire">Quagsire</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=shellder">Shellder</a> | — | — | — | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=tentacool">Tentacool</a> | — | — | 30% | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=timburr">Timburr</a> | 4% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tirtouga">Tirtouga</a> | — | — | — | 60% | 15% | 10% |
+| <a href="../pokemon-lookup.html?q=toedscool">Toedscool</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=toedscruel">Toedscruel</a> | — | 8% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | 30% |
 

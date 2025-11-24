@@ -5,30 +5,30 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alolan Raichu](../pokemon/alolan-raichu.md) | 8% | — | — | — | — | — |
-| [Bruxish](../pokemon/bruxish.md) | — | — | — | — | 20% | 10% |
-| [Cherrim](../pokemon/cherrim.md) | 5% | — | — | — | — | — |
-| [Clamperl](../pokemon/clamperl.md) | — | — | — | 20% | 40% | — |
-| [Floette](../pokemon/floette.md) | — | 20% | — | — | — | — |
-| [Florges](../pokemon/florges.md) | — | 5% | — | — | — | — |
-| [Galarian Linoone](../pokemon/galarian-linoone.md) | — | 10% | — | — | — | — |
-| [Galarian Rapidash](../pokemon/galarian-rapidash.md) | — | 2% | — | — | — | — |
-| [Grimmsnarl](../pokemon/grimmsnarl.md) | — | 5% | — | — | — | — |
-| [Jigglypuff](../pokemon/jigglypuff.md) | 20% | — | — | — | — | — |
-| [Linoone](../pokemon/linoone.md) | 10% | — | — | — | — | — |
-| [Lumineon](../pokemon/lumineon.md) | — | — | — | — | — | 30% |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Mimikyu](../pokemon/mimikyu.md) | — | 10% | — | — | — | — |
-| [Morgrem](../pokemon/morgrem.md) | — | 20% | — | — | — | — |
-| [Pachirisu](../pokemon/pachirisu.md) | 10% | — | — | — | — | — |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | 60% | — | — |
-| [Raichu](../pokemon/raichu.md) | — | 8% | — | — | — | — |
-| [Rapidash](../pokemon/rapidash.md) | 2% | — | — | — | — | — |
-| [Ribombee](../pokemon/ribombee.md) | 10% | 10% | — | — | — | — |
-| [Shellder](../pokemon/shellder.md) | — | — | 30% | 20% | — | — |
-| [Tentacruel](../pokemon/tentacruel.md) | — | — | — | — | — | 60% |
-| [Togetic](../pokemon/togetic.md) | 20% | — | — | — | — | — |
-| [Tropius](../pokemon/tropius.md) | 10% | 10% | — | — | — | — |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | — |
-| [Wigglytuff](../pokemon/wigglytuff.md) | 5% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=alolan-raichu">Alolan Raichu</a> | 8% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=bruxish">Bruxish</a> | — | — | — | — | 20% | 10% |
+| <a href="../pokemon-lookup.html?q=cherrim">Cherrim</a> | 5% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=clamperl">Clamperl</a> | — | — | — | 20% | 40% | — |
+| <a href="../pokemon-lookup.html?q=floette">Floette</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=florges">Florges</a> | — | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=galarian-linoone">Galarian Linoone</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=galarian-rapidash">Galarian Rapidash</a> | — | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=grimmsnarl">Grimmsnarl</a> | — | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=jigglypuff">Jigglypuff</a> | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=linoone">Linoone</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lumineon">Lumineon</a> | — | — | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=mimikyu">Mimikyu</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=morgrem">Morgrem</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=pachirisu">Pachirisu</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=raichu">Raichu</a> | — | 8% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=rapidash">Rapidash</a> | 2% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=ribombee">Ribombee</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=shellder">Shellder</a> | — | — | 30% | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=tentacruel">Tentacruel</a> | — | — | — | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=togetic">Togetic</a> | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tropius">Tropius</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=wigglytuff">Wigglytuff</a> | 5% | — | — | — | — | — |
 

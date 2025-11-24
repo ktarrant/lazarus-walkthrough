@@ -5,27 +5,27 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Chinchou](../pokemon/chinchou.md) | — | — | — | — | 15% | — |
-| [Clamperl](../pokemon/clamperl.md) | — | — | — | 20% | 40% | — |
-| [Cyclizar](../pokemon/cyclizar.md) | 4% | 4% | — | — | — | — |
-| [Doduo](../pokemon/doduo.md) | 10% | 10% | — | — | — | — |
-| [Dratini](../pokemon/dratini.md) | — | — | — | — | 5% | 5% |
-| [Dreepy](../pokemon/dreepy.md) | — | 5% | — | — | — | — |
-| [Finneon](../pokemon/finneon.md) | — | — | — | 20% | — | — |
-| [Gligar](../pokemon/gligar.md) | 10% | 10% | — | — | — | — |
-| [Helioptile](../pokemon/helioptile.md) | 5% | — | — | — | — | — |
-| [Krokorok](../pokemon/krokorok.md) | 5% | — | — | — | — | — |
-| [Larvitar](../pokemon/larvitar.md) | 2% | 2% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Numel](../pokemon/numel.md) | 10% | — | — | — | — | — |
-| [Paldean Wooper](../pokemon/paldean-wooper.md) | — | 5% | — | — | — | — |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | 60% | — | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | — | — | 5% |
-| [Salandit](../pokemon/salandit.md) | — | 20% | — | — | — | — |
-| [Scraggy](../pokemon/scraggy.md) | 20% | 20% | — | — | — | — |
-| [Skorupi](../pokemon/skorupi.md) | 4% | 4% | — | — | — | — |
-| [Tentacool](../pokemon/tentacool.md) | — | — | 30% | — | — | 60% |
-| [Tinkatuff](../pokemon/tinkatuff.md) | 10% | — | — | — | — | — |
-| [Trapinch](../pokemon/trapinch.md) | 20% | 20% | — | — | — | — |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | 30% |
+| <a href="../pokemon-lookup.html?q=chinchou">Chinchou</a> | — | — | — | — | 15% | — |
+| <a href="../pokemon-lookup.html?q=clamperl">Clamperl</a> | — | — | — | 20% | 40% | — |
+| <a href="../pokemon-lookup.html?q=cyclizar">Cyclizar</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=doduo">Doduo</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=dratini">Dratini</a> | — | — | — | — | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=dreepy">Dreepy</a> | — | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=gligar">Gligar</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=helioptile">Helioptile</a> | 5% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=krokorok">Krokorok</a> | 5% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=larvitar">Larvitar</a> | 2% | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=numel">Numel</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=paldean-wooper">Paldean Wooper</a> | — | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | — | — | 5% |
+| <a href="../pokemon-lookup.html?q=salandit">Salandit</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=scraggy">Scraggy</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=skorupi">Skorupi</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tentacool">Tentacool</a> | — | — | 30% | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=tinkatuff">Tinkatuff</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=trapinch">Trapinch</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | 30% |
 

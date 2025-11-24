@@ -5,19 +5,19 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Alolan Vulpix](../pokemon/alolan-vulpix.md) | — | 4% |
-| [Bounsweet](../pokemon/bounsweet.md) | 10% | — |
-| [Cutiefly](../pokemon/cutiefly.md) | 20% | — |
-| [Eevee](../pokemon/eevee.md) | 10% | 10% |
-| [Growlithe](../pokemon/growlithe.md) | 4% | — |
-| [Hisuian Growlithe](../pokemon/hisuian-growlithe.md) | 4% | — |
-| [Hisuian Voltorb](../pokemon/hisuian-voltorb.md) | — | 10% |
-| [Oricorio Baile](../pokemon/oricorio-baile.md) | 2% | 2% |
-| [Pikipek](../pokemon/pikipek.md) | 20% | — |
-| [Ralts](../pokemon/ralts.md) | — | 10% |
-| [Skiddo](../pokemon/skiddo.md) | 10% | 10% |
-| [Voltorb](../pokemon/voltorb.md) | — | 10% |
-| [Vulpix](../pokemon/vulpix.md) | — | 4% |
-| [Woobat](../pokemon/woobat.md) | — | 20% |
-| [Wurmple](../pokemon/wurmple.md) | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=alolan-vulpix">Alolan Vulpix</a> | — | 4% |
+| <a href="../pokemon-lookup.html?q=bounsweet">Bounsweet</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=cutiefly">Cutiefly</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=eevee">Eevee</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=growlithe">Growlithe</a> | 4% | — |
+| <a href="../pokemon-lookup.html?q=hisuian-growlithe">Hisuian Growlithe</a> | 4% | — |
+| <a href="../pokemon-lookup.html?q=hisuian-voltorb">Hisuian Voltorb</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=oricorio-baile">Oricorio Baile</a> | 2% | 2% |
+| <a href="../pokemon-lookup.html?q=pikipek">Pikipek</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=ralts">Ralts</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=skiddo">Skiddo</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=voltorb">Voltorb</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=vulpix">Vulpix</a> | — | 4% |
+| <a href="../pokemon-lookup.html?q=woobat">Woobat</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=wurmple">Wurmple</a> | 20% | 20% |
 

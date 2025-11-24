@@ -5,26 +5,26 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Anorith](../pokemon/anorith.md) | 6% | 6% | — | — | — | — |
-| [Aron](../pokemon/aron.md) | — | 10% | — | — | — | — |
-| [Chinchou](../pokemon/chinchou.md) | — | — | — | — | — | 60% |
-| [Clauncher](../pokemon/clauncher.md) | — | — | — | 20% | 40% | — |
-| [Corsola](../pokemon/corsola.md) | — | — | — | — | 15% | 5% |
-| [Dedenne](../pokemon/dedenne.md) | 8% | — | — | — | — | — |
-| [Dwebble](../pokemon/dwebble.md) | 20% | 20% | — | — | — | — |
-| [Finizen](../pokemon/finizen.md) | — | — | — | — | — | 30% |
-| [Finneon](../pokemon/finneon.md) | — | — | — | 20% | — | — |
-| [Galarian Corsola](../pokemon/galarian-corsola.md) | — | — | — | — | — | 5% |
-| [Growlithe](../pokemon/growlithe.md) | 10% | — | — | — | — | — |
-| [Hisuian Growlithe](../pokemon/hisuian-growlithe.md) | — | 10% | — | — | — | — |
-| [Lileep](../pokemon/lileep.md) | 6% | 6% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Meditite](../pokemon/meditite.md) | 10% | 10% | — | — | — | — |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | 60% | — | — |
-| [Sizzlipede](../pokemon/sizzlipede.md) | 10% | — | — | — | — | — |
-| [Swablu](../pokemon/swablu.md) | 20% | 20% | — | — | — | — |
-| [Tentacool](../pokemon/tentacool.md) | — | — | 30% | — | — | — |
-| [Tinkatink](../pokemon/tinkatink.md) | 10% | 10% | — | — | — | — |
-| [Togedemaru](../pokemon/togedemaru.md) | — | 8% | — | — | — | — |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=anorith">Anorith</a> | 6% | 6% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=aron">Aron</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=chinchou">Chinchou</a> | — | — | — | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=clauncher">Clauncher</a> | — | — | — | 20% | 40% | — |
+| <a href="../pokemon-lookup.html?q=corsola">Corsola</a> | — | — | — | — | 15% | 5% |
+| <a href="../pokemon-lookup.html?q=dedenne">Dedenne</a> | 8% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=dwebble">Dwebble</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finizen">Finizen</a> | — | — | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=galarian-corsola">Galarian Corsola</a> | — | — | — | — | — | 5% |
+| <a href="../pokemon-lookup.html?q=growlithe">Growlithe</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=hisuian-growlithe">Hisuian Growlithe</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lileep">Lileep</a> | 6% | 6% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=meditite">Meditite</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=sizzlipede">Sizzlipede</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=swablu">Swablu</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tentacool">Tentacool</a> | — | — | 30% | — | — | — |
+| <a href="../pokemon-lookup.html?q=tinkatink">Tinkatink</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=togedemaru">Togedemaru</a> | — | 8% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | — |
 

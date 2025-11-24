@@ -5,20 +5,20 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Baltoy](../pokemon/baltoy.md) | 10% | 20% |
-| [Galarian Zigzagoon](../pokemon/galarian-zigzagoon.md) | — | 10% |
-| [Gothita](../pokemon/gothita.md) | — | 20% |
-| [Komala](../pokemon/komala.md) | 10% | — |
-| [Minior Blue Core](../pokemon/minior-blue-core.md) | 4% | — |
-| [Minior Indigo Core](../pokemon/minior-indigo-core.md) | 4% | — |
-| [Minior Orange Core](../pokemon/minior-orange-core.md) | — | 4% |
-| [Minior Red Core](../pokemon/minior-red-core.md) | — | 4% |
-| [Omanyte](../pokemon/omanyte.md) | 10% | 10% |
-| [Sandile](../pokemon/sandile.md) | 20% | — |
-| [Solosis](../pokemon/solosis.md) | 20% | — |
-| [Stantler](../pokemon/stantler.md) | — | 20% |
-| [Togepi](../pokemon/togepi.md) | 2% | 2% |
-| [Zigzagoon](../pokemon/zigzagoon.md) | 10% | — |
-| [Zorua](../pokemon/zorua.md) | 10% | — |
-| [Zorua Hisuian](../pokemon/zorua-hisuian.md) | — | 10% |
+| <a href="../pokemon-lookup.html?q=baltoy">Baltoy</a> | 10% | 20% |
+| <a href="../pokemon-lookup.html?q=galarian-zigzagoon">Galarian Zigzagoon</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=gothita">Gothita</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=komala">Komala</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=minior-blue-core">Minior Blue Core</a> | 4% | — |
+| <a href="../pokemon-lookup.html?q=minior-indigo-core">Minior Indigo Core</a> | 4% | — |
+| <a href="../pokemon-lookup.html?q=minior-orange-core">Minior Orange Core</a> | — | 4% |
+| <a href="../pokemon-lookup.html?q=minior-red-core">Minior Red Core</a> | — | 4% |
+| <a href="../pokemon-lookup.html?q=omanyte">Omanyte</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=sandile">Sandile</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=solosis">Solosis</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=stantler">Stantler</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=togepi">Togepi</a> | 2% | 2% |
+| <a href="../pokemon-lookup.html?q=zigzagoon">Zigzagoon</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=zorua">Zorua</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=zorua-hisuian">Zorua Hisuian</a> | — | 10% |
 

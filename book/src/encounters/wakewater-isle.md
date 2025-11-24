@@ -5,20 +5,20 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Alolan Raichu](../pokemon/alolan-raichu.md) | 10% | — |
-| [Annihilape](../pokemon/annihilape.md) | — | 2% |
-| [Bewear](../pokemon/bewear.md) | 10% | 10% |
-| [Crabominable](../pokemon/crabominable.md) | 5% | 5% |
-| [Crawdaunt](../pokemon/crawdaunt.md) | 4% | 4% |
-| [Dodrio](../pokemon/dodrio.md) | 10% | 10% |
-| [Farigiraf](../pokemon/farigiraf.md) | 2% | — |
-| [Gogoat](../pokemon/gogoat.md) | 20% | — |
-| [Komala](../pokemon/komala.md) | 4% | 4% |
-| [Oranguru](../pokemon/oranguru.md) | — | 10% |
-| [Passimian](../pokemon/passimian.md) | 10% | — |
-| [Pelipper](../pokemon/pelipper.md) | — | 20% |
-| [Raichu](../pokemon/raichu.md) | — | 10% |
-| [Scyther](../pokemon/scyther.md) | 5% | 5% |
-| [Toucannon](../pokemon/toucannon.md) | 20% | — |
-| [Victreebel](../pokemon/victreebel.md) | — | 20% |
+| <a href="../pokemon-lookup.html?q=alolan-raichu">Alolan Raichu</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=annihilape">Annihilape</a> | — | 2% |
+| <a href="../pokemon-lookup.html?q=bewear">Bewear</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=crabominable">Crabominable</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=crawdaunt">Crawdaunt</a> | 4% | 4% |
+| <a href="../pokemon-lookup.html?q=dodrio">Dodrio</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=farigiraf">Farigiraf</a> | 2% | — |
+| <a href="../pokemon-lookup.html?q=gogoat">Gogoat</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=komala">Komala</a> | 4% | 4% |
+| <a href="../pokemon-lookup.html?q=oranguru">Oranguru</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=passimian">Passimian</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=pelipper">Pelipper</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=raichu">Raichu</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=scyther">Scyther</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=toucannon">Toucannon</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=victreebel">Victreebel</a> | — | 20% |
 

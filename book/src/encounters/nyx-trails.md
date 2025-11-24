@@ -5,28 +5,28 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Abomasnow](../pokemon/abomasnow.md) | 5% | 5% | — | — | — | — |
-| [Alolan Persian](../pokemon/alolan-persian.md) | — | 10% | — | — | — | — |
-| [Banette](../pokemon/banette.md) | 4% | 4% | — | — | — | — |
-| [Breloom](../pokemon/breloom.md) | 10% | — | — | — | — | — |
-| [Bruxish](../pokemon/bruxish.md) | — | — | — | — | 20% | 10% |
-| [Clamperl](../pokemon/clamperl.md) | — | — | — | 20% | 40% | — |
-| [Dusclops](../pokemon/dusclops.md) | 4% | 4% | — | — | — | — |
-| [Duskull](../pokemon/duskull.md) | — | 10% | — | — | — | — |
-| [Gogoat](../pokemon/gogoat.md) | 10% | — | — | — | — | — |
-| [Gourgeist](../pokemon/gourgeist.md) | — | 5% | — | — | — | — |
-| [Hisuian Electrode](../pokemon/hisuian-electrode.md) | 2% | 2% | — | — | — | — |
-| [Lumineon](../pokemon/lumineon.md) | — | — | — | — | — | 30% |
-| [Lurantis](../pokemon/lurantis.md) | 5% | — | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Perrserker](../pokemon/perrserker.md) | 10% | 10% | — | — | — | — |
-| [Persian](../pokemon/persian.md) | 10% | — | — | — | — | — |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | 60% | — | — |
-| [Pumpkaboo](../pokemon/pumpkaboo.md) | — | 20% | — | — | — | — |
-| [Shellder](../pokemon/shellder.md) | — | — | 30% | 20% | — | — |
-| [Shuppet](../pokemon/shuppet.md) | — | 10% | — | — | — | — |
-| [Snover](../pokemon/snover.md) | 20% | 20% | — | — | — | — |
-| [Tentacruel](../pokemon/tentacruel.md) | — | — | — | — | — | 60% |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | — |
-| [Xatu](../pokemon/xatu.md) | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=abomasnow">Abomasnow</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=alolan-persian">Alolan Persian</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=banette">Banette</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=breloom">Breloom</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=bruxish">Bruxish</a> | — | — | — | — | 20% | 10% |
+| <a href="../pokemon-lookup.html?q=clamperl">Clamperl</a> | — | — | — | 20% | 40% | — |
+| <a href="../pokemon-lookup.html?q=dusclops">Dusclops</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=duskull">Duskull</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=gogoat">Gogoat</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=gourgeist">Gourgeist</a> | — | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=hisuian-electrode">Hisuian Electrode</a> | 2% | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lumineon">Lumineon</a> | — | — | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=lurantis">Lurantis</a> | 5% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=perrserker">Perrserker</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=persian">Persian</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=shellder">Shellder</a> | — | — | 30% | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=shuppet">Shuppet</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=snover">Snover</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tentacruel">Tentacruel</a> | — | — | — | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=xatu">Xatu</a> | 20% | — | — | — | — | — |
 

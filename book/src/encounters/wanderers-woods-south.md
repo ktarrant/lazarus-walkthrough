@@ -5,19 +5,19 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Aipom](../pokemon/aipom.md) | 10% | — |
-| [Anorith](../pokemon/anorith.md) | — | 5% |
-| [Duskull](../pokemon/duskull.md) | — | 10% |
-| [Goomy](../pokemon/goomy.md) | 8% | 8% |
-| [Heracross](../pokemon/heracross.md) | 5% | — |
-| [Impidimp](../pokemon/impidimp.md) | — | 10% |
-| [Lileep](../pokemon/lileep.md) | 5% | — |
-| [Munna](../pokemon/munna.md) | 10% | — |
-| [Natu](../pokemon/natu.md) | 20% | 20% |
-| [Oricorio Sensu](../pokemon/oricorio-sensu.md) | — | 5% |
-| [Paldean Wooper](../pokemon/paldean-wooper.md) | — | 10% |
-| [Paras](../pokemon/paras.md) | 20% | 20% |
-| [Ralts](../pokemon/ralts.md) | 10% | 10% |
-| [Scyther](../pokemon/scyther.md) | 2% | 2% |
-| [Wooper](../pokemon/wooper.md) | 10% | — |
+| <a href="../pokemon-lookup.html?q=aipom">Aipom</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=anorith">Anorith</a> | — | 5% |
+| <a href="../pokemon-lookup.html?q=duskull">Duskull</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=goomy">Goomy</a> | 8% | 8% |
+| <a href="../pokemon-lookup.html?q=heracross">Heracross</a> | 5% | — |
+| <a href="../pokemon-lookup.html?q=impidimp">Impidimp</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=lileep">Lileep</a> | 5% | — |
+| <a href="../pokemon-lookup.html?q=munna">Munna</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=natu">Natu</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=oricorio-sensu">Oricorio Sensu</a> | — | 5% |
+| <a href="../pokemon-lookup.html?q=paldean-wooper">Paldean Wooper</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=paras">Paras</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=ralts">Ralts</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=scyther">Scyther</a> | 2% | 2% |
+| <a href="../pokemon-lookup.html?q=wooper">Wooper</a> | 10% | — |
 

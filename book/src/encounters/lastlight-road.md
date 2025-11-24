@@ -5,19 +5,19 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Applin](../pokemon/applin.md) | — | 10% |
-| [Armarouge](../pokemon/armarouge.md) | 2% | — |
-| [Breloom](../pokemon/breloom.md) | 5% | 5% |
-| [Ceruledge](../pokemon/ceruledge.md) | — | 2% |
-| [Cherrim](../pokemon/cherrim.md) | 10% | — |
-| [Cyclizar](../pokemon/cyclizar.md) | 5% | 5% |
-| [Flaaffy](../pokemon/flaaffy.md) | — | 20% |
-| [Galarian Ponyta](../pokemon/galarian-ponyta.md) | — | 10% |
-| [Helioptile](../pokemon/helioptile.md) | 10% | 10% |
-| [Lampent](../pokemon/lampent.md) | 20% | 20% |
-| [Litleo](../pokemon/litleo.md) | 20% | — |
-| [Mudbray](../pokemon/mudbray.md) | 10% | 10% |
-| [Ponyta](../pokemon/ponyta.md) | 10% | — |
-| [Pyroar F](../pokemon/pyroar-f.md) | 4% | 4% |
-| [Pyroar M](../pokemon/pyroar-m.md) | 4% | 4% |
+| <a href="../pokemon-lookup.html?q=applin">Applin</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=armarouge">Armarouge</a> | 2% | — |
+| <a href="../pokemon-lookup.html?q=breloom">Breloom</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=ceruledge">Ceruledge</a> | — | 2% |
+| <a href="../pokemon-lookup.html?q=cherrim">Cherrim</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=cyclizar">Cyclizar</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=flaaffy">Flaaffy</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=galarian-ponyta">Galarian Ponyta</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=helioptile">Helioptile</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=lampent">Lampent</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=litleo">Litleo</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=mudbray">Mudbray</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=ponyta">Ponyta</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=pyroar-f">Pyroar F</a> | 4% | 4% |
+| <a href="../pokemon-lookup.html?q=pyroar-m">Pyroar M</a> | 4% | 4% |
 

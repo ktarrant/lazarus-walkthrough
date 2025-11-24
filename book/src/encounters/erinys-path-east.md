@@ -5,27 +5,27 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Cherubi](../pokemon/cherubi.md) | 20% | — | — | — | — | — |
-| [Corphish](../pokemon/corphish.md) | — | — | — | — | 20% | — |
-| [Falinks](../pokemon/falinks.md) | 10% | 10% | — | — | — | — |
-| [Finizen](../pokemon/finizen.md) | — | — | — | 20% | — | — |
-| [Finneon](../pokemon/finneon.md) | — | — | — | — | 40% | — |
-| [Fomantis](../pokemon/fomantis.md) | — | 20% | — | — | — | — |
-| [Gastly](../pokemon/gastly.md) | 20% | 20% | — | — | — | — |
-| [Houndour](../pokemon/houndour.md) | 10% | — | — | — | — | — |
-| [Kabuto](../pokemon/kabuto.md) | 10% | 10% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Mimikyu](../pokemon/mimikyu.md) | 2% | 2% | — | — | — | — |
-| [Minior Green Core](../pokemon/minior-green-core.md) | 4% | — | — | — | — | — |
-| [Minior Violet Core](../pokemon/minior-violet-core.md) | — | 4% | — | — | — | — |
-| [Minior Yellow Core](../pokemon/minior-yellow-core.md) | 4% | 4% | — | — | — | — |
-| [Onix](../pokemon/onix.md) | 10% | 10% | — | — | — | — |
-| [Poliwag](../pokemon/poliwag.md) | — | — | — | 60% | — | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | — | 40% | — |
-| [Salandit](../pokemon/salandit.md) | — | 10% | — | — | — | — |
-| [Seel](../pokemon/seel.md) | — | — | — | — | — | 30% |
-| [Shellder](../pokemon/shellder.md) | — | — | — | — | — | 10% |
-| [Skorupi](../pokemon/skorupi.md) | — | 10% | — | — | — | — |
-| [Spheal](../pokemon/spheal.md) | — | — | — | 20% | — | 60% |
-| [Spinarak](../pokemon/spinarak.md) | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=cherubi">Cherubi</a> | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=corphish">Corphish</a> | — | — | — | — | 20% | — |
+| <a href="../pokemon-lookup.html?q=falinks">Falinks</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finizen">Finizen</a> | — | — | — | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=fomantis">Fomantis</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=gastly">Gastly</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=houndour">Houndour</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=kabuto">Kabuto</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=mimikyu">Mimikyu</a> | 2% | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=minior-green-core">Minior Green Core</a> | 4% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=minior-violet-core">Minior Violet Core</a> | — | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=minior-yellow-core">Minior Yellow Core</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=onix">Onix</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=poliwag">Poliwag</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=salandit">Salandit</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=seel">Seel</a> | — | — | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=shellder">Shellder</a> | — | — | — | — | — | 10% |
+| <a href="../pokemon-lookup.html?q=skorupi">Skorupi</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=spheal">Spheal</a> | — | — | — | 20% | — | 60% |
+| <a href="../pokemon-lookup.html?q=spinarak">Spinarak</a> | 10% | — | — | — | — | — |
 

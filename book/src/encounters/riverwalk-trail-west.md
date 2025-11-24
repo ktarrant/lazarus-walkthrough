@@ -5,24 +5,24 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aron](../pokemon/aron.md) | 20% | 20% | — | — | — | — |
-| [Buizel](../pokemon/buizel.md) | — | — | — | 40% | — | — |
-| [Clauncher](../pokemon/clauncher.md) | — | — | — | 60% | — | 60% |
-| [Clawitzer](../pokemon/clawitzer.md) | — | — | — | — | 20% | — |
-| [Cubchoo](../pokemon/cubchoo.md) | — | 8% | — | — | — | — |
-| [Cutiefly](../pokemon/cutiefly.md) | 10% | — | — | — | — | — |
-| [Finneon](../pokemon/finneon.md) | — | — | — | — | 40% | 30% |
-| [Galarian Ponyta](../pokemon/galarian-ponyta.md) | — | 20% | — | — | — | — |
-| [Gligar](../pokemon/gligar.md) | 5% | 5% | — | — | — | — |
-| [Jangmo-o](../pokemon/jangmo-o.md) | 2% | 2% | — | — | — | — |
-| [Litleo](../pokemon/litleo.md) | 10% | 10% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Meditite](../pokemon/meditite.md) | 10% | 10% | — | — | — | — |
-| [Mudbray](../pokemon/mudbray.md) | 10% | 10% | — | — | — | — |
-| [Poliwag](../pokemon/poliwag.md) | — | — | 30% | — | — | — |
-| [Ponyta](../pokemon/ponyta.md) | 20% | — | — | — | — | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | — | 40% | 10% |
-| [Sandile](../pokemon/sandile.md) | 5% | 5% | — | — | — | — |
-| [Yamper](../pokemon/yamper.md) | 8% | — | — | — | — | — |
-| [Yanma](../pokemon/yanma.md) | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=aron">Aron</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=buizel">Buizel</a> | — | — | — | 40% | — | — |
+| <a href="../pokemon-lookup.html?q=clauncher">Clauncher</a> | — | — | — | 60% | — | 60% |
+| <a href="../pokemon-lookup.html?q=clawitzer">Clawitzer</a> | — | — | — | — | 20% | — |
+| <a href="../pokemon-lookup.html?q=cubchoo">Cubchoo</a> | — | 8% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=cutiefly">Cutiefly</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | — | 40% | 30% |
+| <a href="../pokemon-lookup.html?q=galarian-ponyta">Galarian Ponyta</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=gligar">Gligar</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=jangmo-o">Jangmo-o</a> | 2% | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=litleo">Litleo</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=meditite">Meditite</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=mudbray">Mudbray</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=poliwag">Poliwag</a> | — | — | 30% | — | — | — |
+| <a href="../pokemon-lookup.html?q=ponyta">Ponyta</a> | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | — | 40% | 10% |
+| <a href="../pokemon-lookup.html?q=sandile">Sandile</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=yamper">Yamper</a> | 8% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=yanma">Yanma</a> | — | 10% | — | — | — | — |
 

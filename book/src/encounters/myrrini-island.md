@@ -5,28 +5,28 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Cherubi](../pokemon/cherubi.md) | 10% | — | — | — | — | — |
-| [Chinchou](../pokemon/chinchou.md) | — | — | — | — | 15% | — |
-| [Drowzee](../pokemon/drowzee.md) | — | 20% | — | — | — | — |
-| [Finizen](../pokemon/finizen.md) | — | — | — | — | — | 10% |
-| [Finneon](../pokemon/finneon.md) | — | — | — | 20% | — | — |
-| [Floette Blue Flower](../pokemon/floette-blue-flower.md) | — | 10% | — | — | — | — |
-| [Goomy](../pokemon/goomy.md) | — | 10% | — | — | — | — |
-| [Hawlucha](../pokemon/hawlucha.md) | 10% | 10% | — | — | — | — |
-| [Jigglypuff](../pokemon/jigglypuff.md) | 10% | — | — | — | — | — |
-| [Lanturn](../pokemon/lanturn.md) | — | — | — | — | 5% | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Meditite](../pokemon/meditite.md) | 20% | 20% | — | — | — | — |
-| [Oricorio Baile](../pokemon/oricorio-baile.md) | 5% | 5% | — | — | — | — |
-| [Oricorio Pa'u](../pokemon/oricorio-pau.md) | 5% | 5% | — | — | — | — |
-| [Oricorio Pom-Pom](../pokemon/oricorio-pom-pom.md) | 5% | 5% | — | — | — | — |
-| [Oricorio Sensu](../pokemon/oricorio-sensu.md) | 5% | 5% | — | — | — | — |
-| [Pancham](../pokemon/pancham.md) | 10% | 10% | — | — | — | — |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | 60% | — | — |
-| [Skrelp](../pokemon/skrelp.md) | — | — | — | 20% | 40% | — |
-| [Steenee](../pokemon/steenee.md) | 20% | — | — | — | — | — |
-| [Tentacool](../pokemon/tentacool.md) | — | — | 30% | — | — | — |
-| [Unovan Basculin](../pokemon/unovan-basculin.md) | — | — | — | — | — | 30% |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | — |
-| [White-Striped Basculin](../pokemon/white-striped-basculin.md) | — | — | — | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=cherubi">Cherubi</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=chinchou">Chinchou</a> | — | — | — | — | 15% | — |
+| <a href="../pokemon-lookup.html?q=drowzee">Drowzee</a> | — | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finizen">Finizen</a> | — | — | — | — | — | 10% |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | 20% | — | — |
+| <a href="../pokemon-lookup.html?q=floette-blue-flower">Floette Blue Flower</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=goomy">Goomy</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=hawlucha">Hawlucha</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=jigglypuff">Jigglypuff</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lanturn">Lanturn</a> | — | — | — | — | 5% | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=meditite">Meditite</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=oricorio-baile">Oricorio Baile</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=oricorio-pau">Oricorio Pa'u</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=oricorio-pom-pom">Oricorio Pom-Pom</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=oricorio-sensu">Oricorio Sensu</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=pancham">Pancham</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=skrelp">Skrelp</a> | — | — | — | 20% | 40% | — |
+| <a href="../pokemon-lookup.html?q=steenee">Steenee</a> | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tentacool">Tentacool</a> | — | — | 30% | — | — | — |
+| <a href="../pokemon-lookup.html?q=unovan-basculin">Unovan Basculin</a> | — | — | — | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=white-striped-basculin">White-Striped Basculin</a> | — | — | — | — | — | 60% |
 

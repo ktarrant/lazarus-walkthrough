@@ -5,21 +5,21 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Arbok](../pokemon/arbok.md) | — | 20% |
-| [Charjabug](../pokemon/charjabug.md) | 20% | 20% |
-| [Cherrim](../pokemon/cherrim.md) | 4% | — |
-| [Dedenne](../pokemon/dedenne.md) | 4% | — |
-| [Doublade](../pokemon/doublade.md) | 2% | 2% |
-| [Goomy](../pokemon/goomy.md) | 10% | 10% |
-| [Hisuian Sligoo](../pokemon/hisuian-sligoo.md) | — | 5% |
-| [Perrserker](../pokemon/perrserker.md) | 5% | 5% |
-| [Skiploom](../pokemon/skiploom.md) | 20% | — |
-| [Skuntank](../pokemon/skuntank.md) | — | 4% |
-| [Sligoo](../pokemon/sligoo.md) | 5% | — |
-| [Tauros](../pokemon/tauros.md) | 10% | — |
-| [Tauros Aqua Breed](../pokemon/tauros-aqua-breed.md) | — | 10% |
-| [Tauros Blaze Breed](../pokemon/tauros-blaze-breed.md) | — | 10% |
-| [Tauros Combat Breed](../pokemon/tauros-combat-breed.md) | 10% | — |
-| [Togedemaru](../pokemon/togedemaru.md) | — | 4% |
-| [Weepinbell](../pokemon/weepinbell.md) | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=arbok">Arbok</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=charjabug">Charjabug</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=cherrim">Cherrim</a> | 4% | — |
+| <a href="../pokemon-lookup.html?q=dedenne">Dedenne</a> | 4% | — |
+| <a href="../pokemon-lookup.html?q=doublade">Doublade</a> | 2% | 2% |
+| <a href="../pokemon-lookup.html?q=goomy">Goomy</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=hisuian-sligoo">Hisuian Sligoo</a> | — | 5% |
+| <a href="../pokemon-lookup.html?q=perrserker">Perrserker</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=skiploom">Skiploom</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=skuntank">Skuntank</a> | — | 4% |
+| <a href="../pokemon-lookup.html?q=sligoo">Sligoo</a> | 5% | — |
+| <a href="../pokemon-lookup.html?q=tauros">Tauros</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=tauros-aqua-breed">Tauros Aqua Breed</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=tauros-blaze-breed">Tauros Blaze Breed</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=tauros-combat-breed">Tauros Combat Breed</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=togedemaru">Togedemaru</a> | — | 4% |
+| <a href="../pokemon-lookup.html?q=weepinbell">Weepinbell</a> | 10% | 10% |
 

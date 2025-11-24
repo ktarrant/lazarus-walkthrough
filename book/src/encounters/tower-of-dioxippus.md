@@ -5,18 +5,18 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Altaria](../pokemon/altaria.md) | 5% | — |
-| [Appletun](../pokemon/appletun.md) | 4% | 4% |
-| [Applin](../pokemon/applin.md) | 20% | 20% |
-| [Dipplin](../pokemon/dipplin.md) | 2% | 2% |
-| [Drakloak](../pokemon/drakloak.md) | — | 5% |
-| [Dreepy](../pokemon/dreepy.md) | — | 20% |
-| [Flapple](../pokemon/flapple.md) | 4% | 4% |
-| [Gogoat](../pokemon/gogoat.md) | 5% | 5% |
-| [Goomy](../pokemon/goomy.md) | 10% | 10% |
-| [Kecleon](../pokemon/kecleon.md) | 10% | — |
-| [Mawile](../pokemon/mawile.md) | — | 10% |
-| [Steenee](../pokemon/steenee.md) | 10% | 10% |
-| [Swablu](../pokemon/swablu.md) | 20% | — |
-| [Yanma](../pokemon/yanma.md) | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=altaria">Altaria</a> | 5% | — |
+| <a href="../pokemon-lookup.html?q=appletun">Appletun</a> | 4% | 4% |
+| <a href="../pokemon-lookup.html?q=applin">Applin</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=dipplin">Dipplin</a> | 2% | 2% |
+| <a href="../pokemon-lookup.html?q=drakloak">Drakloak</a> | — | 5% |
+| <a href="../pokemon-lookup.html?q=dreepy">Dreepy</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=flapple">Flapple</a> | 4% | 4% |
+| <a href="../pokemon-lookup.html?q=gogoat">Gogoat</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=goomy">Goomy</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=kecleon">Kecleon</a> | 10% | — |
+| <a href="../pokemon-lookup.html?q=mawile">Mawile</a> | — | 10% |
+| <a href="../pokemon-lookup.html?q=steenee">Steenee</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=swablu">Swablu</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=yanma">Yanma</a> | 10% | 10% |
 

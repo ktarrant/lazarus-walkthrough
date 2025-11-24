@@ -5,23 +5,23 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alolan Meowth](../pokemon/alolan-meowth.md) | — | 5% | — | — | — | — |
-| [Applin](../pokemon/applin.md) | 10% | 10% | — | — | — | — |
-| [Barboach](../pokemon/barboach.md) | — | — | — | — | 40% | 10% |
-| [Buizel](../pokemon/buizel.md) | 20% | 20% | — | 40% | — | — |
-| [Clauncher](../pokemon/clauncher.md) | — | — | — | 60% | — | 60% |
-| [Lillipup](../pokemon/lillipup.md) | 10% | — | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Meowth](../pokemon/meowth.md) | 5% | — | — | — | — | — |
-| [Murkrow](../pokemon/murkrow.md) | — | 10% | — | — | — | — |
-| [Oranguru](../pokemon/oranguru.md) | — | 2% | — | — | — | — |
-| [Passimian](../pokemon/passimian.md) | 2% | — | — | — | — | — |
-| [Quagsire](../pokemon/quagsire.md) | — | — | — | — | 20% | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | — | 40% | — |
-| [Shroodle](../pokemon/shroodle.md) | 9% | 9% | — | — | — | — |
-| [Skrelp](../pokemon/skrelp.md) | — | — | 30% | — | — | 30% |
-| [Toedscool](../pokemon/toedscool.md) | 10% | 10% | — | — | — | — |
-| [Totodile](../pokemon/totodile.md) | 4% | 4% | — | — | — | — |
-| [Wimpod](../pokemon/wimpod.md) | 10% | 10% | — | — | — | — |
-| [Wingull](../pokemon/wingull.md) | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=alolan-meowth">Alolan Meowth</a> | — | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=applin">Applin</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=barboach">Barboach</a> | — | — | — | — | 40% | 10% |
+| <a href="../pokemon-lookup.html?q=buizel">Buizel</a> | 20% | 20% | — | 40% | — | — |
+| <a href="../pokemon-lookup.html?q=clauncher">Clauncher</a> | — | — | — | 60% | — | 60% |
+| <a href="../pokemon-lookup.html?q=lillipup">Lillipup</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=meowth">Meowth</a> | 5% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=murkrow">Murkrow</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=oranguru">Oranguru</a> | — | 2% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=passimian">Passimian</a> | 2% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=quagsire">Quagsire</a> | — | — | — | — | 20% | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | — | 40% | — |
+| <a href="../pokemon-lookup.html?q=shroodle">Shroodle</a> | 9% | 9% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=skrelp">Skrelp</a> | — | — | 30% | — | — | 30% |
+| <a href="../pokemon-lookup.html?q=toedscool">Toedscool</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=totodile">Totodile</a> | 4% | 4% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wimpod">Wimpod</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wingull">Wingull</a> | 20% | 20% | — | — | — | — |
 

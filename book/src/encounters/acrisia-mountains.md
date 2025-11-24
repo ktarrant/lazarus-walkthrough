@@ -5,21 +5,21 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alolan Sandshrew](../pokemon/alolan-sandshrew.md) | — | 10% | — | — | — | — |
-| [Aron](../pokemon/aron.md) | 8% | — | — | — | — | — |
-| [Finneon](../pokemon/finneon.md) | — | — | — | — | 40% | 10% |
-| [Klawf](../pokemon/klawf.md) | 2% | 10% | — | — | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — |
-| [Mankey](../pokemon/mankey.md) | 5% | 5% | — | — | — | — |
-| [Mawile](../pokemon/mawile.md) | 5% | 5% | — | — | — | — |
-| [Nosepass](../pokemon/nosepass.md) | 10% | — | — | — | — | — |
-| [Poliwag](../pokemon/poliwag.md) | — | — | — | 60% | — | — |
-| [Remoraid](../pokemon/remoraid.md) | — | — | — | — | 40% | 30% |
-| [Rockruff](../pokemon/rockruff.md) | 20% | 20% | — | — | — | — |
-| [Sandshrew](../pokemon/sandshrew.md) | 20% | 20% | — | — | — | — |
-| [Timburr](../pokemon/timburr.md) | 10% | 10% | — | — | — | — |
-| [Vullaby](../pokemon/vullaby.md) | 10% | 10% | — | — | — | — |
-| [Wimpod](../pokemon/wimpod.md) | — | — | 30% | — | — | 60% |
-| [Woobat](../pokemon/woobat.md) | 10% | 10% | — | — | — | — |
-| [Wooper](../pokemon/wooper.md) | — | — | — | 40% | — | — |
+| <a href="../pokemon-lookup.html?q=alolan-sandshrew">Alolan Sandshrew</a> | — | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=aron">Aron</a> | 8% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | — | 40% | 10% |
+| <a href="../pokemon-lookup.html?q=klawf">Klawf</a> | 2% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — |
+| <a href="../pokemon-lookup.html?q=mankey">Mankey</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=mawile">Mawile</a> | 5% | 5% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=nosepass">Nosepass</a> | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=poliwag">Poliwag</a> | — | — | — | 60% | — | — |
+| <a href="../pokemon-lookup.html?q=remoraid">Remoraid</a> | — | — | — | — | 40% | 30% |
+| <a href="../pokemon-lookup.html?q=rockruff">Rockruff</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=sandshrew">Sandshrew</a> | 20% | 20% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=timburr">Timburr</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=vullaby">Vullaby</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wimpod">Wimpod</a> | — | — | 30% | — | — | 60% |
+| <a href="../pokemon-lookup.html?q=woobat">Woobat</a> | 10% | 10% | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wooper">Wooper</a> | — | — | — | 40% | — | — |
 

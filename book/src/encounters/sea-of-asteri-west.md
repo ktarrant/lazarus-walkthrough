@@ -5,25 +5,25 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | Old Rod | Good Rod | Super Rod | Surfing | Underwater |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Bellsprout](../pokemon/bellsprout.md) | 10% | 10% | — | — | — | — | — |
-| [Chatot](../pokemon/chatot.md) | 10% | — | — | — | — | — | — |
-| [Chinchou](../pokemon/chinchou.md) | — | — | — | — | 15% | — | — |
-| [Clamperl](../pokemon/clamperl.md) | — | — | — | 20% | 40% | — | — |
-| [Crabrawler](../pokemon/crabrawler.md) | 15% | — | — | — | — | — | — |
-| [Cufant](../pokemon/cufant.md) | — | 15% | — | — | — | — | — |
-| [Dreepy](../pokemon/dreepy.md) | 2% | 2% | — | — | — | — | — |
-| [Ekans](../pokemon/ekans.md) | — | 20% | — | — | — | — | — |
-| [Finneon](../pokemon/finneon.md) | — | — | — | 20% | — | — | 20% |
-| [Fomantis](../pokemon/fomantis.md) | 20% | 20% | — | — | — | — | — |
-| [Galarian Linoone](../pokemon/galarian-linoone.md) | — | 10% | — | — | — | — | — |
-| [Heracross](../pokemon/heracross.md) | — | 4% | — | — | — | — | — |
-| [Lanturn](../pokemon/lanturn.md) | — | — | — | — | 5% | — | — |
-| [Magikarp](../pokemon/magikarp.md) | — | — | 70% | — | — | — | 10% |
-| [Psyduck](../pokemon/psyduck.md) | — | — | — | 60% | — | — | — |
-| [Scyther](../pokemon/scyther.md) | 8% | 4% | — | — | — | — | — |
-| [Stufful](../pokemon/stufful.md) | 20% | — | — | — | — | — | — |
-| [Tentacool](../pokemon/tentacool.md) | — | — | 30% | — | — | 60% | 20% |
-| [Wailmer](../pokemon/wailmer.md) | — | — | — | — | 40% | 10% | 20% |
-| [Wattrel](../pokemon/wattrel.md) | 15% | 15% | — | — | — | — | — |
-| [Wingull](../pokemon/wingull.md) | — | — | — | — | — | 30% | — |
+| <a href="../pokemon-lookup.html?q=bellsprout">Bellsprout</a> | 10% | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=chatot">Chatot</a> | 10% | — | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=chinchou">Chinchou</a> | — | — | — | — | 15% | — | — |
+| <a href="../pokemon-lookup.html?q=clamperl">Clamperl</a> | — | — | — | 20% | 40% | — | — |
+| <a href="../pokemon-lookup.html?q=crabrawler">Crabrawler</a> | 15% | — | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=cufant">Cufant</a> | — | 15% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=dreepy">Dreepy</a> | 2% | 2% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=ekans">Ekans</a> | — | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=finneon">Finneon</a> | — | — | — | 20% | — | — | 20% |
+| <a href="../pokemon-lookup.html?q=fomantis">Fomantis</a> | 20% | 20% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=galarian-linoone">Galarian Linoone</a> | — | 10% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=heracross">Heracross</a> | — | 4% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=lanturn">Lanturn</a> | — | — | — | — | 5% | — | — |
+| <a href="../pokemon-lookup.html?q=magikarp">Magikarp</a> | — | — | 70% | — | — | — | 10% |
+| <a href="../pokemon-lookup.html?q=psyduck">Psyduck</a> | — | — | — | 60% | — | — | — |
+| <a href="../pokemon-lookup.html?q=scyther">Scyther</a> | 8% | 4% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=stufful">Stufful</a> | 20% | — | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=tentacool">Tentacool</a> | — | — | 30% | — | — | 60% | 20% |
+| <a href="../pokemon-lookup.html?q=wailmer">Wailmer</a> | — | — | — | — | 40% | 10% | 20% |
+| <a href="../pokemon-lookup.html?q=wattrel">Wattrel</a> | 15% | 15% | — | — | — | — | — |
+| <a href="../pokemon-lookup.html?q=wingull">Wingull</a> | — | — | — | — | — | 30% | — |
 

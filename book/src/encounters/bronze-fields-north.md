@@ -5,16 +5,16 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) |
 | --- | --- | --- |
-| [Bellsprout](../pokemon/bellsprout.md) | 5% | — |
-| [Cubone](../pokemon/cubone.md) | 5% | 5% |
-| [Ducklett](../pokemon/ducklett.md) | 5% | 5% |
-| [Grubbin](../pokemon/grubbin.md) | 10% | 10% |
-| [Hoothoot](../pokemon/hoothoot.md) | — | 20% |
-| [Hoppip](../pokemon/hoppip.md) | 10% | 10% |
-| [Lillipup](../pokemon/lillipup.md) | 20% | 20% |
-| [Murkrow](../pokemon/murkrow.md) | — | 5% |
-| [Nincada](../pokemon/nincada.md) | 20% | — |
-| [Paras](../pokemon/paras.md) | — | 20% |
-| [Phanpy](../pokemon/phanpy.md) | 5% | 5% |
-| [Pikipek](../pokemon/pikipek.md) | 20% | — |
+| <a href="../pokemon-lookup.html?q=bellsprout">Bellsprout</a> | 5% | — |
+| <a href="../pokemon-lookup.html?q=cubone">Cubone</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=ducklett">Ducklett</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=grubbin">Grubbin</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=hoothoot">Hoothoot</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=hoppip">Hoppip</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=lillipup">Lillipup</a> | 20% | 20% |
+| <a href="../pokemon-lookup.html?q=murkrow">Murkrow</a> | — | 5% |
+| <a href="../pokemon-lookup.html?q=nincada">Nincada</a> | 20% | — |
+| <a href="../pokemon-lookup.html?q=paras">Paras</a> | — | 20% |
+| <a href="../pokemon-lookup.html?q=phanpy">Phanpy</a> | 5% | 5% |
+| <a href="../pokemon-lookup.html?q=pikipek">Pikipek</a> | 20% | — |
 
