@@ -20,8 +20,10 @@
 - [Egg Groups](<egg-groups.md>)
 - [Type Matchups (Gen 6+)](<type-matchups.md>)
 
-# Encounter Tables
+<div class="nav-hidden">
 {{ encounter_tables }}
+</div>
 
-# Pokedex
+<div class="nav-hidden">
 {{ pokemon_cards }}
+</div>

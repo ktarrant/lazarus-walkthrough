@@ -123,3 +123,8 @@
 .egg-group-section li {
     margin: 0.15rem 0;
 }
+
+/* Hide bulk-generated lists from the sidebar while keeping them buildable */
+.sidebar .nav-hidden {
+    display: none;
+}
