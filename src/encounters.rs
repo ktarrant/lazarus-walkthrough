@@ -157,7 +157,22 @@ impl EncounterArea {
         }
         buf.push('\n');
 
-        for (species, methods) in species_map {
+        let mut rows: Vec<_> = species_map.iter().collect();
+        rows.sort_by(|(a_name, a_methods), (b_name, b_methods)| {
+            let a_score = a_methods
+                .keys()
+                .map(|m| method_priority(m))
+                .min()
+                .unwrap_or(usize::MAX);
+            let b_score = b_methods
+                .keys()
+                .map(|m| method_priority(m))
+                .min()
+                .unwrap_or(usize::MAX);
+            a_score.cmp(&b_score).then_with(|| a_name.cmp(b_name))
+        });
+
+        for (species, methods) in rows {
             let link = format!(
                 "<a href=\"../pokemon-lookup.html?q={}\">{}</a>",
                 slugify(&species),
@@ -299,11 +314,11 @@ struct TableColumn {
 const METHOD_ORDER: [(&str, &str); 9] = [
     ("grass_day", "Grass (Day)"),
     ("grass_night", "Grass (Night)"),
-    ("fishing", "Fishing"),
+    ("surf", "Surfing"),
     ("old_rod", "Old Rod"),
     ("good_rod", "Good Rod"),
     ("super_rod", "Super Rod"),
-    ("surf", "Surfing"),
+    ("fishing", "Fishing"),
     ("underwater", "Underwater"),
     ("special", "Special Encounters"),
 ];
@@ -314,6 +329,13 @@ fn method_label(method: &str) -> String {
         .find(|(slug, _)| *slug == method)
         .map(|(_, label)| label.to_string())
         .unwrap_or_else(|| method.replace('_', " ").to_title_case())
+}
+
+fn method_priority(method: &str) -> usize {
+    METHOD_ORDER
+        .iter()
+        .position(|(slug, _)| *slug == method)
+        .unwrap_or(METHOD_ORDER.len())
 }
 
 fn format_rate(rate: f32) -> String {

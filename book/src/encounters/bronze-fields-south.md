@@ -14,8 +14,8 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=lillipup">Lillipup</a> | 20% | 20% |
 | <a href="../pokemon-lookup.html?q=mareep">Mareep</a> | 20% | 20% |
 | <a href="../pokemon-lookup.html?q=mudbray">Mudbray</a> | 9% | 9% |
-| <a href="../pokemon-lookup.html?q=murkrow">Murkrow</a> | — | 20% |
 | <a href="../pokemon-lookup.html?q=nincada">Nincada</a> | 10% | 10% |
+| <a href="../pokemon-lookup.html?q=murkrow">Murkrow</a> | — | 20% |
 | <a href="../pokemon-lookup.html?q=vullaby">Vullaby</a> | — | 10% |
 | <a href="../pokemon-lookup.html?q=yamper">Yamper</a> | — | 5% |
 
