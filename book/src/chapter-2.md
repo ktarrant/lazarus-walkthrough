@@ -7,3 +7,4 @@ The gym leader specializes in Grass and Bug type Pokemon.
 Winning allows you to use HM01 Cut outside of battle.
 
 {{#include ./encounters/jusmail-town.md}}
+**University Student Reward (Jusmail Town):** Casual Coral Outfit.

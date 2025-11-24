@@ -13,6 +13,7 @@ The Name Rater lives in one of the houses.
 On the beach in the south, a Move Relearner is available if you have 20 Pokemon registered.
 
 {{#include ./encounters/pythios-town.md}}
+**University Student Reward (Pythios Town):** Traditional Outfit.
 
 ## Pythios Cemetery
 This area provides some extra training.

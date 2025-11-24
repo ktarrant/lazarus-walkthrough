@@ -7,6 +7,7 @@ This area was blocked previously.
 Once inside the cave, you will need to solve two tile puzzles to meet with the Elder.
 
 {{#include ./encounters/acrisia-mountains.md}}
+**University Student Reward (Acrisia Mountains):** 15 Moon Balls.
 
 ## Acrisia Mountains Peak
 Once you meet the Elder, he will give you Espathra, a mount you can summon with a whistle.
@@ -22,3 +23,4 @@ To get on the trail you walk along the tracks that start on the edge of the moun
 {{#include ./encounters/riverwalk-trail-west.md}}
 
 {{#include ./encounters/riverwalk-trail-south.md}}
+**University Student Reward (Riverwalk Trail):** Eviolite.

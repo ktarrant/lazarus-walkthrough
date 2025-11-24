@@ -21,3 +21,4 @@ On your way through the woods, you will have another run-in with Team Chimera.
 {{#include ./encounters/wanderers-woods-north.md}}
 
 {{#include ./encounters/wanderers-woods-south.md}}
+**University Student Reward (Wanderer’s Woods):** TM Deepwater Curse.

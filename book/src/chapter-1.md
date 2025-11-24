@@ -41,6 +41,7 @@ The road between Acrisia City and Jusmail Town is all the way on the left
 and down.
 
 {{#include ./encounters/acrisia-city.md}}
+**University Student Reward (Acrisia City):** 15 Nest Balls.
 
 ## Bronze Fields
 Catch Pokemon and fight trainers on this path.
@@ -51,3 +52,4 @@ When you have returned the package, you can continue south to Jusmail Town.
 {{#include ./encounters/bronze-fields-north.md}}
 
 {{#include ./encounters/bronze-fields-south.md}}
+**University Student Reward (Bronze Fields):** Bright Powder.
