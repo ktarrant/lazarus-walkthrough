@@ -150,12 +150,12 @@ impl EncounterArea {
             buf.push_str(&col.label);
             buf.push_str(" |");
         }
-        buf.push('\n');
+        buf.push_str(" ☑ |\n");
         buf.push_str("| --- |");
         for _ in &columns {
             buf.push_str(" --- |");
         }
-        buf.push('\n');
+        buf.push_str(" --- |\n");
 
         let mut rows: Vec<_> = species_map.iter().collect();
         rows.sort_by(|(a_name, a_methods), (b_name, b_methods)| {
@@ -195,7 +195,7 @@ impl EncounterArea {
                     .unwrap_or_else(|| "—".to_string());
                 buf.push_str(&format!(" {} |", cell));
             }
-            buf.push('\n');
+            buf.push_str(" <input type=\"checkbox\" /> |\n");
         }
         buf.push('\n');
         buf
