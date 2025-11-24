@@ -1,4 +1,4 @@
-# Chapter 5 - Wanderer's Woods
+# Wanderer's Woods
 
 ## Back to Acrisia City
 Once you beat the gym, go back to visit the Prof.

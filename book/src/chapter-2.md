@@ -1,4 +1,4 @@
-# Chapter 2 - Jusmail Town
+# Jusmail Town
 
 ## Jusmail Town
 

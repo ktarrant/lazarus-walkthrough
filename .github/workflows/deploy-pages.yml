@@ -22,12 +22,10 @@ jobs:
       - uses: dtolnay/rust-toolchain@stable
       - name: Install mdBook tooling
         run: |
-          cargo install mdbook --version 0.4.52 --locked
-          cargo install mdbook-autosummary --version 0.1.9 --locked
-      - name: Prepare autosummary placeholder
+          cargo install mdbook
+      - name: Generate SUMMARY.md
         run: |
-          mkdir -p book/src
-          : > book/src/SUMMARY.md
+          cargo run -- summary --template book/src/SUMMARY.md.template --out book/src/SUMMARY.md
       - name: Build book
         run: mdbook build book
       - name: Upload artifact

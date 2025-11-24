@@ -1,4 +1,4 @@
-# Chapter 3 - Acrisia Mountains & Riverwalk Trail
+# Acrisia Mountains & Riverwalk Trail
 
 ## Backtrack to Acrisia Mountains
 We are going to backtrack to Acrisia City, and then go west to the Acrisia Mountains.

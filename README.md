@@ -18,8 +18,7 @@ reference sections in sync with upstream sources.
 - Rust toolchain (1.76+ recommended) for building the helper CLI.
 - [uv](https://github.com/astral-sh/uv) for running the Python parser without
   polluting the global environment.
-- `mdbook` and the `mdbook-autosummary` preprocessor for local previews
-  (`cargo install mdbook mdbook-autosummary`).
+- `mdbook` for local previews (`cargo install mdbook`).
 
 ## Commands & workflows
 
@@ -112,7 +111,7 @@ data and links to the Pokémon cards for each species:
 cargo run -- egg-groups --out book/src/egg-groups.md
 ```
 
-The file is safe to commit and mdbook-autosummary will add it to the sidebar.
+The file is safe to commit and will be linked into SUMMARY.md by the generator.
 
 ### Move & ability catalogs
 
@@ -126,17 +125,20 @@ cargo run -- ability-catalog --out book/src/ability-catalog.md
 Each table lists the move or ability, which Pokémon can learn/possess it, and
 the acquisition method or ability slot.
 
+### SUMMARY generation
+
+Generate `SUMMARY.md` from the template (merges the encounter and Pokémon lists
+into the placeholders in `book/src/SUMMARY.md.template`):
+
+```sh
+cargo run -- summary --template book/src/SUMMARY.md.template --out book/src/SUMMARY.md
+```
+
 ### mdBook preview
-Due to a limitation in mdbook-autosummary, an empty SUMMARY.md should be created
-before running build or serve.
 
 ```sh
 mdbook serve --open
 ```
-
-The `mdbook-autosummary` preprocessor keeps `SUMMARY.md` in sync with `book/src`
-automatically during builds. Index files under `book/src/encounters/` and
-`book/src/pokemon/` are produced by the helper CLI to support this workflow.
 
 ## GitHub Pages deployment
 
@@ -149,7 +151,7 @@ To host the walkthrough:
 2. In the GitHub UI, open **Settings → Pages** and set **Source** to
    **GitHub Actions**.
 3. Trigger the workflow (push to `main` or use **Run workflow**). The job
-   installs `mdbook` + `mdbook-autosummary`, runs the build, uploads
+   installs `mdbook`, runs the build (after generating SUMMARY), uploads
    `book/book` as the artifact, and deploys it with `actions/deploy-pages`.
 4. Once the workflow finishes, the public URL appears in the `github-pages`
    environment summary. Configure a custom domain there if needed.

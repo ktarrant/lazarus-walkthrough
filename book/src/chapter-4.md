@@ -1,4 +1,4 @@
-# Chapter 4 - Kalami City
+# Kalami City
 
 ## Kalami City
 Kalami City is home to the second gym, which is Rock, Steel, and Electric types.

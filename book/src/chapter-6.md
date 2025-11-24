@@ -1,4 +1,4 @@
-# Chapter 6 - Pythios Town
+# Pythios Town
 
 ## Pythios Town
 Pythios Town is home to the third gym.

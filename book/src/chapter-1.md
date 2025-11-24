@@ -1,4 +1,4 @@
-# Chapter 1 – Acrisia City
+# Acrisia City
 
 ## Acrisia City & Bronze Fields
 

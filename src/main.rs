@@ -5,7 +5,7 @@ mod pokemon_card;
 mod type_chart;
 
 use crate::pokemon_card::non_empty;
-use anyhow::Result;
+use anyhow::{Context, Result};
 use clap::{Parser, Subcommand};
 use std::collections::BTreeMap;
 use std::path::PathBuf;
@@ -77,6 +77,15 @@ enum Command {
         #[arg(long, default_value = "book/src/ability-catalog.md")]
         out: PathBuf,
     },
+    /// Generate SUMMARY.md from the template
+    Summary {
+        /// Path to the SUMMARY template
+        #[arg(long, default_value = "book/src/SUMMARY.md.template")]
+        template: PathBuf,
+        /// Output path for SUMMARY.md
+        #[arg(long, default_value = "book/src/SUMMARY.md")]
+        out: PathBuf,
+    },
     /// Generate item reference pages from the items manifest
     Items {
         #[arg(value_enum)]
@@ -115,6 +124,9 @@ fn main() -> Result<()> {
         }
         Command::AbilityCatalog { out } => {
             render_ability_catalog(cli.pokedex_json.clone(), cli.encounters_json, out)?
+        }
+        Command::Summary { template, out } => {
+            render_summary(cli.pokedex_json.clone(), cli.encounters_json, template, out)?
         }
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
@@ -156,19 +168,17 @@ fn render_all_pokemon_cards(
     let species = encounters::list_species(&manifest)?;
     let encounter_map = encounters::species_encounters_map(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
-    let mut index_entries = Vec::new();
     let total = species.len();
     for (idx, name) in species.into_iter().enumerate() {
         println!("Generating card {}/{}: {}", idx + 1, total, name);
         let slug = encounters::slugify(&name);
-        if let Some((entry, used_slug)) = find_entry(&dex, &name) {
+        if let Some((entry, _used_slug)) = find_entry(&dex, &name) {
             let path = out_dir.join(format!("{slug}.md"));
             let chain = dex.evolution_chain(&entry.slug);
             std::fs::write(
                 path,
                 pokemon_card::render_deck(&chain, &entry.slug, &encounter_map),
             )?;
-            index_entries.push((used_slug, entry.name.clone()));
         } else {
             eprintln!("Failed to generate card for {}; writing placeholder", name);
             let path = out_dir.join(format!("{slug}.md"));
@@ -179,11 +189,9 @@ fn render_all_pokemon_cards(
                     name
                 ),
             )?;
-            index_entries.push((slug, name));
         }
     }
     println!("Finished generating {} Pokémon cards", total);
-    write_index(&out_dir, "Pokémon Cards", &index_entries)?;
     Ok(())
 }
 
@@ -256,18 +264,6 @@ fn alias_slug(slug: &str) -> Option<String> {
     }
 }
 
-fn write_index(out_dir: &PathBuf, title: &str, entries: &[(String, String)]) -> Result<()> {
-    let mut sorted = entries.to_vec();
-    sorted.sort_by(|a, b| a.0.cmp(&b.0));
-    let mut buf = String::new();
-    buf.push_str(&format!("# {title}\n\n"));
-    for (slug, name) in sorted {
-        buf.push_str(&format!("- [{name}](./{slug}.md)\n"));
-    }
-    std::fs::write(out_dir.join("index.md"), buf)?;
-    Ok(())
-}
-
 fn canonical_form_slug(slug: &str) -> Option<(String, String)> {
     const FORM_PREFIXES: [(&str, &str); 8] = [
         ("alolan-", "alola"),
@@ -320,15 +316,12 @@ fn render_encounters(manifest: PathBuf, area_id: String) -> Result<()> {
 fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
     let names = encounters::list_locations(&manifest)?;
     std::fs::create_dir_all(&out_dir)?;
-    let mut index_entries = Vec::new();
     for name in names {
         let area = encounters::EncounterArea::from_manifest(manifest.clone(), &name)?;
         let slug = encounters::slugify(&area.name);
         let path = out_dir.join(format!("{slug}.md"));
         std::fs::write(&path, area.render_markdown())?;
-        index_entries.push((slug, area.name));
     }
-    write_index(&out_dir, "Encounter Tables", &index_entries)?;
     Ok(())
 }
 
@@ -444,6 +437,45 @@ fn render_ability_catalog(pokedex_path: PathBuf, manifest: PathBuf, out: PathBuf
         }
     }
     std::fs::write(out, buf)?;
+    Ok(())
+}
+
+fn render_summary(
+    _pokedex_path: PathBuf,
+    manifest: PathBuf,
+    template_path: PathBuf,
+    out_path: PathBuf,
+) -> Result<()> {
+    let encounters = encounters::list_locations(&manifest)?;
+    let species = encounters::list_species(&manifest)?;
+
+    let encounter_section = encounters
+        .iter()
+        .map(|name| {
+            let slug = encounters::slugify(name);
+            format!("- [{}](<encounters/{slug}.md>)", name, slug = slug)
+        })
+        .collect::<Vec<_>>()
+        .join("\n");
+
+    let pokemon_section = species
+        .iter()
+        .map(|name| {
+            let slug = encounters::slugify(name);
+            format!("- [{}](<pokemon/{slug}.md>)", name, slug = slug)
+        })
+        .collect::<Vec<_>>()
+        .join("\n");
+
+    let template = std::fs::read_to_string(&template_path)
+        .with_context(|| format!("reading template {}", template_path.display()))?;
+    let summary = template
+        .replace("{{ encounter_tables }}", &encounter_section)
+        .replace("{{ pokemon_cards }}", &pokemon_section);
+    if let Some(parent) = out_path.parent() {
+        std::fs::create_dir_all(parent)?;
+    }
+    std::fs::write(out_path, summary)?;
     Ok(())
 }
 
