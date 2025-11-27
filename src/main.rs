@@ -380,7 +380,18 @@ fn render_move_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
                 .push((entry.name.clone(), "Egg".to_string()));
         }
         for mv in &entry.tm_moves {
-            let move_name = mv.trim();
+            let raw = mv.trim();
+            let move_name = if raw.starts_with("TM") || raw.starts_with("HM") {
+                if let Some((_, rest)) = raw.split_once('-') {
+                    rest.trim()
+                } else if let Some((_, rest)) = raw.split_once(' ') {
+                    rest.trim()
+                } else {
+                    raw
+                }
+            } else {
+                raw
+            };
             if move_name.is_empty() {
                 continue;
             }
