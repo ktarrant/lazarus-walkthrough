@@ -8,12 +8,14 @@
 - [Kalami City](<chapter-4.md>)
 - [Wanderer's Woods](<chapter-5.md>)
 - [Pythios Town](<chapter-6.md>)
-- [Erinys Path](<chapter-7.md>)
+- [Erinys Path, Froslass Cavern, & Asfal Hills](<chapter-7.md>)
+- [Sofos City](<chapter-8.md>)
 - [Backtracking - New Areas With Surf](<surf-scratch.md>)
 
 # Resources
 - [Pokemon Lookup](<pokemon-lookup.md>)
 - [Pokédex](<pokedex.md>)
+- [Natures](<natures.md>)
 - [Items - TMs / HMs](<items-tms-hms.md>)
 - [Items - Evolution & Key Items](<items-evolution-key.md>)
 - [Items - Decorations & Outfits](<items-decorations-outfits.md>)
