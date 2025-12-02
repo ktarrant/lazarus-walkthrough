@@ -195,9 +195,15 @@ impl EncounterArea {
                     .unwrap_or_else(|| "—".to_string());
                 buf.push_str(&format!(" {} |", cell));
             }
-            buf.push_str(" <input type=\"checkbox\" /> |\n");
+            let species_slug = slugify(species);
+            buf.push_str(&format!(
+                " <input type=\"checkbox\" class=\"encounter-check\" data-area=\"{}\" data-species=\"{}\" /> |\n",
+                self.id, species_slug
+            ));
         }
-        buf.push('\n');
+        buf.push_str(
+            "\n<script>\n(function() {\n  const STORAGE_KEY = 'lazarusEncounterChecks';\n  function loadState() {\n    try {\n      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');\n    } catch (_) {\n      return {};\n    }\n  }\n  function saveState(state) {\n    try {\n      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));\n    } catch (_) {}\n  }\n  const state = loadState();\n  const checkboxes = document.querySelectorAll('.encounter-check');\n  checkboxes.forEach(cb => {\n    const key = `${cb.dataset.area}|${cb.dataset.species}`;\n    cb.checked = !!state[key];\n    cb.addEventListener('change', () => {\n      if (cb.checked) {\n        state[key] = true;\n      } else {\n        delete state[key];\n      }\n      saveState(state);\n    });\n  });\n})();\n</script>\n\n",
+        );
         buf
     }
 
