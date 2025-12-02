@@ -668,11 +668,14 @@ fn render_move_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()> {
     for (name, slug) in entries {
         let search = format!("{} {}", name.to_lowercase(), slug);
         buf.push_str(&format!(
-            "<div class=\"lookup-card\" data-name=\"{}\">\n{{{{#include ./moves/{}.md}}}}\n</div>\n",
-            search, slug
+            "<div class=\"lookup-card\" data-name=\"{}\" data-title=\"{}\" data-slug=\"{}\">\n{{{{#include ./moves/{}.md}}}}\n</div>\n",
+            search,
+            name.to_lowercase(),
+            slug,
+            slug
         ));
     }
-    buf.push_str("</div>\n\n<script>\nconst input = document.getElementById('move-lookup-input');\nconst cards = Array.from(document.querySelectorAll('#move-lookup-cards .lookup-card'));\nconst status = document.getElementById('move-lookup-status');\nfunction presetFromUrl() {\n  const params = new URLSearchParams(window.location.search);\n  const hash = window.location.hash.replace('#','');\n  const q = params.get('q') || hash;\n  if (q) {\n    input.value = q;\n  }\n}\nfunction expandCards() {\n  document.querySelectorAll('.move-card').forEach(d => d.setAttribute('open', ''));\n}\nfunction applyFilter() {\n  const q = input.value.trim().toLowerCase();\n  let shown = 0;\n  for (const card of cards) {\n    if (!q) { card.style.display = 'none'; continue; }\n    if (card.dataset.name.includes(q) && shown === 0) {\n      card.style.display = 'block';\n      shown += 1;\n    } else {\n      card.style.display = 'none';\n    }\n  }\n  status.textContent = q && shown === 0 ? 'No match found' : '';\n}\nexpandCards();\npresetFromUrl();\napplyFilter();\ninput.addEventListener('input', applyFilter);\n</script>\n");
+    buf.push_str("</div>\n\n<script>\nconst input = document.getElementById('move-lookup-input');\nconst cards = Array.from(document.querySelectorAll('#move-lookup-cards .lookup-card'));\nconst status = document.getElementById('move-lookup-status');\nfunction presetFromUrl() {\n  const params = new URLSearchParams(window.location.search);\n  const hash = window.location.hash.replace('#','');\n  const q = params.get('q') || hash;\n  if (q) {\n    input.value = q;\n  }\n}\nfunction expandCards() {\n  document.querySelectorAll('.move-card').forEach(d => d.setAttribute('open', ''));\n}\nfunction scoreCard(card, q) {\n  const title = (card.dataset.title || '').toLowerCase();\n  const slug = (card.dataset.slug || '').toLowerCase();\n  if (title === q || slug === q) return 0;\n  if (title.startsWith(q) || slug.startsWith(q)) return 1;\n  if (title.includes(q) || slug.includes(q)) return 2;\n  return 99;\n}\nfunction applyFilter() {\n  const q = input.value.trim().toLowerCase();\n  let best = null;\n  let bestScore = 99;\n  for (const card of cards) {\n    if (!q) { card.style.display = 'none'; continue; }\n    const score = scoreCard(card, q);\n    if (score < bestScore || (score === bestScore && card.dataset.slug < (best?.dataset.slug || ''))) {\n      best = card;\n      bestScore = score;\n    }\n    card.style.display = 'none';\n  }\n  if (best && bestScore < 99) {\n    best.style.display = 'block';\n    status.textContent = '';\n  } else {\n    status.textContent = q ? 'No match found' : '';\n  }\n}\nexpandCards();\npresetFromUrl();\napplyFilter();\ninput.addEventListener('input', applyFilter);\n</script>\n");
     if let Some(parent) = out_path.parent() {
         fs::create_dir_all(parent)?;
     }
@@ -771,11 +774,14 @@ fn render_pokemon_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()>
     for (name, slug) in entries {
         let search = format!("{} {}", name.to_lowercase(), slug);
         buf.push_str(&format!(
-            "<div class=\"lookup-card\" data-name=\"{}\">\n{{{{#include ./pokemon/{}.md}}}}\n</div>\n",
-            search, slug
+            "<div class=\"lookup-card\" data-name=\"{}\" data-title=\"{}\" data-slug=\"{}\">\n{{{{#include ./pokemon/{}.md}}}}\n</div>\n",
+            search,
+            name.to_lowercase(),
+            slug,
+            slug
         ));
     }
-    buf.push_str("</div>\n\n<script>\nconst input = document.getElementById('lookup-input');\nconst cards = Array.from(document.querySelectorAll('.lookup-card'));\nconst status = document.getElementById('lookup-status');\nfunction presetFromUrl() {\n  const params = new URLSearchParams(window.location.search);\n  const hash = window.location.hash.replace('#','');\n  const q = params.get('q') || hash;\n  if (q) {\n    input.value = q;\n  }\n}\nfunction expandAllDetails() {\n  for (const card of cards) {\n    const detail = card.querySelector('details.pokemon-card-container');\n    if (detail) {\n      detail.setAttribute('open', '');\n    }\n  }\n}\nfunction applyFilter() {\n  const q = input.value.trim().toLowerCase();\n  let shown = 0;\n  for (const card of cards) {\n    if (!q) {\n      card.style.display = 'none';\n      continue;\n    }\n    if (card.dataset.name.includes(q) && shown === 0) {\n      card.style.display = 'block';\n      shown += 1;\n    } else {\n      card.style.display = 'none';\n    }\n  }\n  status.textContent = q && shown === 0 ? 'No match found' : '';\n}\nexpandAllDetails();\npresetFromUrl();\napplyFilter();\ninput.addEventListener('input', applyFilter);\n</script>\n");
+    buf.push_str("</div>\n\n<script>\nconst input = document.getElementById('lookup-input');\nconst cards = Array.from(document.querySelectorAll('.lookup-card'));\nconst status = document.getElementById('lookup-status');\nfunction presetFromUrl() {\n  const params = new URLSearchParams(window.location.search);\n  const hash = window.location.hash.replace('#','');\n  const q = params.get('q') || hash;\n  if (q) {\n    input.value = q;\n  }\n}\nfunction expandAllDetails() {\n  for (const card of cards) {\n    const detail = card.querySelector('details.pokemon-card-container');\n    if (detail) {\n      detail.setAttribute('open', '');\n    }\n  }\n}\nfunction scoreCard(card, q) {\n  const title = (card.dataset.title || '').toLowerCase();\n  const slug = (card.dataset.slug || '').toLowerCase();\n  if (title === q || slug === q) return 0;\n  if (title.startsWith(q) || slug.startsWith(q)) return 1;\n  if (title.includes(q) || slug.includes(q)) return 2;\n  return 99;\n}\nfunction applyFilter() {\n  const q = input.value.trim().toLowerCase();\n  let best = null;\n  let bestScore = 99;\n  for (const card of cards) {\n    if (!q) { card.style.display = 'none'; continue; }\n    const score = scoreCard(card, q);\n    if (score < bestScore || (score === bestScore && card.dataset.slug < (best?.dataset.slug || ''))) {\n      best = card;\n      bestScore = score;\n    }\n    card.style.display = 'none';\n  }\n  if (best && bestScore < 99) {\n    best.style.display = 'block';\n    status.textContent = '';\n  } else {\n    status.textContent = q ? 'No match found' : '';\n  }\n}\nexpandAllDetails();\npresetFromUrl();\napplyFilter();\ninput.addEventListener('input', applyFilter);\n</script>\n");
     if let Some(parent) = out_path.parent() {
         std::fs::create_dir_all(parent)?;
     }
