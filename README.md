@@ -20,6 +20,22 @@ reference sections in sync with upstream sources.
   polluting the global environment.
 - `mdbook` for local previews (`cargo install mdbook`).
 
+### Restoring the local PokeAPI cache
+Several generators expect a local copy of the PokeAPI data (moves, Pokémon, species).
+If the cache is missing, restore it before generating cards or move data:
+
+1. Download the official PokeAPI data dump (api-data):
+   ```sh
+   git clone https://github.com/PokeAPI/api-data.git data/api-data-master
+   ```
+   (Or download the zip from GitHub and extract it into `data/api-data-master`.)
+2. Verify paths look like `data/api-data-master/data/api/v2/move/1/index.json`,
+   `.../pokemon/1/index.json`, etc.
+3. Regenerate content after the cache is present (e.g., `cargo run -- all`).
+
+Keep the cache out of source control if it’s large; only the derived JSON/Markdown
+artifacts should be committed.
+
 ## Commands & workflows
 
 ### Type matchup table
@@ -53,6 +69,13 @@ Generate a full Pokédex page (includes every card in dex order):
 
 ```sh
 cargo run -- pokedex-page --out book/src/pokedex.md
+```
+
+Generate move cards and lookup:
+
+```sh
+cargo run -- move-cards-all --out-dir book/src/moves
+cargo run -- move-lookup --out book/src/move-lookup.md
 ```
 
 Generate a quests table (includes persistent checkboxes shared with chapter quests):

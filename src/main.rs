@@ -9,7 +9,7 @@ use anyhow::Result;
 use clap::{Parser, Subcommand};
 use std::collections::BTreeMap;
 use std::fs;
-use std::path::PathBuf;
+use std::path::{Path, PathBuf};
 
 #[derive(Parser)]
 #[command(about = "Content helpers for the Pokémon walkthrough")]
@@ -72,6 +72,18 @@ enum Command {
         #[arg(long, default_value = "book/src/move-catalog.md")]
         out: PathBuf,
     },
+    /// Generate move cards for every move referenced in the Pokédex
+    MoveCardsAll {
+        /// Output directory for generated move cards
+        #[arg(long, default_value = "book/src/moves")]
+        out_dir: PathBuf,
+    },
+    /// Generate a lookup page for move cards
+    MoveLookup {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/move-lookup.md")]
+        out: PathBuf,
+    },
     /// Generate an ability catalog (ability -> Pokémon -> slot info)
     AbilityCatalog {
         /// Output file for the generated Markdown
@@ -101,6 +113,12 @@ enum Command {
         /// Output path for move catalog
         #[arg(long, default_value = "book/src/move-catalog.md")]
         move_out: PathBuf,
+        /// Output directory for move cards
+        #[arg(long, default_value = "book/src/moves")]
+        move_cards_out: PathBuf,
+        /// Output path for move lookup
+        #[arg(long, default_value = "book/src/move-lookup.md")]
+        move_lookup_out: PathBuf,
         /// Output path for ability catalog
         #[arg(long, default_value = "book/src/ability-catalog.md")]
         ability_out: PathBuf,
@@ -159,6 +177,10 @@ fn main() -> Result<()> {
         Command::EncountersAll { out_dir } => render_all_encounters(cli.encounters_json, out_dir)?,
         Command::EggGroups { out } => render_egg_groups(cli.pokedex_json.clone(), out)?,
         Command::MoveCatalog { out } => render_move_catalog(cli.pokedex_json.clone(), out)?,
+        Command::MoveCardsAll { out_dir } => {
+            render_move_cards_all(cli.pokedex_json.clone(), out_dir)?
+        }
+        Command::MoveLookup { out } => render_move_lookup(cli.pokedex_json.clone(), out)?,
         Command::AbilityCatalog { out } => render_ability_catalog(cli.pokedex_json.clone(), out)?,
         Command::PokedexPage { out } => render_pokedex_page(cli.pokedex_json.clone(), out)?,
         Command::PokemonLookup { out } => render_pokemon_lookup(cli.pokedex_json.clone(), out)?,
@@ -169,6 +191,8 @@ fn main() -> Result<()> {
             cards_out,
             encounters_out,
             move_out,
+            move_cards_out,
+            move_lookup_out,
             ability_out,
             eggs_out,
             pokedex_out,
@@ -181,6 +205,8 @@ fn main() -> Result<()> {
             )?;
             render_all_encounters(cli.encounters_json.clone(), encounters_out)?;
             render_move_catalog(cli.pokedex_json.clone(), move_out)?;
+            render_move_cards_all(cli.pokedex_json.clone(), move_cards_out)?;
+            render_move_lookup(cli.pokedex_json.clone(), move_lookup_out)?;
             render_ability_catalog(cli.pokedex_json.clone(), ability_out)?;
             render_egg_groups(cli.pokedex_json.clone(), eggs_out)?;
             render_pokedex_page(cli.pokedex_json.clone(), pokedex_out)?;
@@ -374,79 +400,302 @@ fn render_all_encounters(manifest: PathBuf, out_dir: PathBuf) -> Result<()> {
 
 fn render_move_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
     let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
-    let mut catalog: BTreeMap<String, Vec<(String, String)>> = BTreeMap::new();
+    let moves = collect_move_learners(&dex);
+    let mut entries: Vec<(String, String)> = moves
+        .iter()
+        .map(|(slug, (name, _))| (name.clone(), slug.clone()))
+        .collect();
+    entries.sort_by(|a, b| a.1.cmp(&b.1));
 
+    let mut buf = String::new();
+    buf.push_str("# Move Catalog\n\n");
+    buf.push_str("All move cards generated for Lazarus.\n\n");
+    for (_name, slug) in entries {
+        buf.push_str(&format!("{{{{#include ./moves/{}.md}}}}\n\n", slug));
+    }
+
+    std::fs::write(out, buf)?;
+    println!("Generated move catalog with {} moves", moves.len());
+    Ok(())
+}
+
+#[derive(Clone)]
+struct MoveDetails {
+    name: String,
+    type_name: Option<String>,
+    category: Option<String>,
+    power: Option<i64>,
+    accuracy: Option<i64>,
+    pp: Option<i64>,
+    priority: Option<i64>,
+    target: Option<String>,
+    effect: Option<String>,
+}
+
+fn load_move_details_map() -> BTreeMap<String, MoveDetails> {
+    let mut map = BTreeMap::new();
+    let root = Path::new("data/api-data-master/data/api/v2/move");
+    if !root.exists() {
+        return map;
+    }
+    if let Ok(entries) = fs::read_dir(root) {
+        for entry in entries.flatten() {
+            let path = entry.path().join("index.json");
+            let Ok(text) = fs::read_to_string(&path) else {
+                continue;
+            };
+            let Ok(value) = serde_json::from_str::<serde_json::Value>(&text) else {
+                continue;
+            };
+            let name = value
+                .get("name")
+                .and_then(|v| v.as_str())
+                .unwrap_or("")
+                .to_string();
+            if name.is_empty() {
+                continue;
+            }
+            let slug = encounters::slugify(&name);
+            let type_name = value
+                .get("type")
+                .and_then(|v| v.get("name"))
+                .and_then(|v| v.as_str())
+                .map(|s| s.to_string());
+            let category = value
+                .get("damage_class")
+                .and_then(|v| v.get("name"))
+                .and_then(|v| v.as_str())
+                .map(|s| s.to_string());
+            let power = value.get("power").and_then(|v| v.as_i64());
+            let accuracy = value.get("accuracy").and_then(|v| v.as_i64());
+            let pp = value.get("pp").and_then(|v| v.as_i64());
+            let priority = value.get("priority").and_then(|v| v.as_i64());
+            let target = value
+                .get("target")
+                .and_then(|v| v.get("name"))
+                .and_then(|v| v.as_str())
+                .map(|s| title_case(s));
+            let effect = value
+                .get("effect_entries")
+                .and_then(|v| v.as_array())
+                .and_then(|arr| {
+                    arr.iter().find_map(|entry| {
+                        let lang = entry.get("language")?.get("name")?.as_str()?;
+                        if lang == "en" {
+                            entry.get("short_effect").and_then(|v| v.as_str()).map(|s| {
+                                s.replace(
+                                    "$effect_chance",
+                                    &value
+                                        .get("effect_chance")
+                                        .and_then(|v| v.as_i64())
+                                        .unwrap_or(0)
+                                        .to_string(),
+                                )
+                            })
+                        } else {
+                            None
+                        }
+                    })
+                });
+
+            map.insert(
+                slug,
+                MoveDetails {
+                    name,
+                    type_name,
+                    category,
+                    power,
+                    accuracy,
+                    pp,
+                    priority,
+                    target,
+                    effect,
+                },
+            );
+        }
+    }
+    map
+}
+
+fn collect_move_learners(
+    dex: &pokedex::LazarusPokedex,
+) -> BTreeMap<String, (String, Vec<(String, String)>)> {
+    let mut moves: BTreeMap<String, (String, Vec<(String, String)>)> = BTreeMap::new();
     for entry in dex.all_entries() {
+        let name = entry.name.clone();
         for mv in &entry.level_up_moves {
+            let move_name = mv.move_name.trim();
+            if move_name.is_empty() {
+                continue;
+            }
+            let slug = encounters::slugify(move_name);
             let method = if mv.level.trim().is_empty() {
                 "Level".to_string()
             } else {
                 format!("Level {}", mv.level.trim())
             };
-            catalog
-                .entry(mv.move_name.trim().to_string())
-                .or_default()
-                .push((entry.name.clone(), method));
+            moves
+                .entry(slug)
+                .or_insert_with(|| (move_name.to_string(), Vec::new()))
+                .1
+                .push((name.clone(), method));
+        }
+        for mv in &entry.tm_moves {
+            let move_name = mv.trim();
+            if move_name.is_empty() {
+                continue;
+            }
+            let slug = encounters::slugify(move_name);
+            moves
+                .entry(slug)
+                .or_insert_with(|| (move_name.to_string(), Vec::new()))
+                .1
+                .push((name.clone(), "TM/HM".to_string()));
         }
         for mv in &entry.egg_moves {
             let move_name = mv.trim();
             if move_name.is_empty() {
                 continue;
             }
-            catalog
-                .entry(move_name.to_string())
-                .or_default()
-                .push((entry.name.clone(), "Egg".to_string()));
-        }
-        for mv in &entry.tm_moves {
-            let raw = mv.trim();
-            let move_name = if raw.starts_with("TM") || raw.starts_with("HM") {
-                if let Some((_, rest)) = raw.split_once('-') {
-                    rest.trim()
-                } else if let Some((_, rest)) = raw.split_once(' ') {
-                    rest.trim()
-                } else {
-                    raw
-                }
-            } else {
-                raw
-            };
-            if move_name.is_empty() {
-                continue;
-            }
-            catalog
-                .entry(move_name.to_string())
-                .or_default()
-                .push((entry.name.clone(), "TM/HM".to_string()));
+            let slug = encounters::slugify(move_name);
+            moves
+                .entry(slug)
+                .or_insert_with(|| (move_name.to_string(), Vec::new()))
+                .1
+                .push((name.clone(), "Egg".to_string()));
         }
         for mv in &entry.tutor_moves {
             let move_name = mv.trim();
             if move_name.is_empty() {
                 continue;
             }
-            catalog
-                .entry(move_name.to_string())
-                .or_default()
-                .push((entry.name.clone(), "Tutor".to_string()));
+            let slug = encounters::slugify(move_name);
+            moves
+                .entry(slug)
+                .or_insert_with(|| (move_name.to_string(), Vec::new()))
+                .1
+                .push((name.clone(), "Tutor".to_string()));
         }
     }
+    moves
+}
 
-    let mut buf = String::new();
-    buf.push_str("# Move Catalog\n\n");
-    buf.push_str("Moves available in Lazarus with the Pokémon that learn them and the acquisition method.\n\n");
-    buf.push_str("| Move | Pokémon | How |\n| --- | --- | --- |\n");
-    for (mv, entries) in &catalog {
-        let mut sorted = entries.clone();
-        sorted.sort_by(|a, b| a.0.cmp(&b.0));
-        for (name, how) in sorted {
-            let slug = encounters::slugify(&name);
-            let link = format!("<a href=\"pokemon-lookup.html?q={}\">{}</a>", slug, name);
-            buf.push_str(&format!("| {} | {} | {} |\n", mv, link, how));
+fn render_move_cards_all(pokedex_path: PathBuf, out_dir: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let details = load_move_details_map();
+    let moves = collect_move_learners(&dex);
+    fs::create_dir_all(&out_dir)?;
+
+    for (slug, (display_name, learners)) in &moves {
+        let detail = details.get(slug);
+        let mut buf = String::new();
+        let title = detail
+            .map(|d| title_case(&d.name))
+            .unwrap_or_else(|| title_case(display_name));
+
+        buf.push_str("<details class=\"pokemon-card-container move-card\">\n");
+        buf.push_str(&format!("<summary>{}</summary>\n\n", title));
+
+        buf.push_str("**Move Info**\n\n");
+        if let Some(d) = detail {
+            buf.push_str("| Field | Value |\n| --- | --- |\n");
+            if let Some(t) = &d.type_name {
+                buf.push_str(&format!("| Type | {} |\n", title_case(t)));
+            }
+            if let Some(cat) = &d.category {
+                buf.push_str(&format!("| Category | {} |\n", title_case(cat)));
+            }
+            if let Some(p) = d.power {
+                buf.push_str(&format!("| Power | {} |\n", p));
+            }
+            if let Some(acc) = d.accuracy {
+                buf.push_str(&format!("| Accuracy | {} |\n", acc));
+            }
+            if let Some(pp) = d.pp {
+                buf.push_str(&format!("| PP | {} |\n", pp));
+            }
+            if let Some(pri) = d.priority {
+                buf.push_str(&format!("| Priority | {} |\n", pri));
+            }
+            if let Some(tgt) = &d.target {
+                buf.push_str(&format!("| Target | {} |\n", title_case(tgt)));
+            }
+            if let Some(effect) = &d.effect {
+                buf.push_str(&format!("| Effect | {} |\n", effect));
+            }
+            buf.push('\n');
+        } else {
+            buf.push_str("_Details unavailable from cache._\n\n");
         }
+
+        buf.push_str("**Learned By**\n\n");
+        buf.push_str("| Pokémon | How |\n| --- | --- |\n");
+        let mut learners_sorted = learners.clone();
+        learners_sorted.sort_by(|a, b| a.0.cmp(&b.0));
+        for (name, how) in learners_sorted {
+            let slug_p = encounters::slugify(&name);
+            buf.push_str(&format!(
+                "| <a href=\"pokemon-lookup.html?q={}\">{}</a> | {} |\n",
+                slug_p,
+                title_case(&name),
+                how
+            ));
+        }
+
+        buf.push_str("</details>\n");
+        let path = out_dir.join(format!("{}.md", slug));
+        fs::write(path, buf)?;
     }
-    std::fs::write(out, buf)?;
-    println!("Generated move catalog with {} moves", catalog.len());
+    println!("Generated move cards for {} moves", moves.len());
     Ok(())
+}
+
+fn render_move_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let moves = collect_move_learners(&dex);
+    let mut entries: Vec<(String, String)> = moves
+        .iter()
+        .map(|(slug, (name, _))| (name.clone(), slug.clone()))
+        .collect();
+    entries.sort_by(|a, b| a.1.cmp(&b.1));
+    let mut buf = String::new();
+    buf.push_str("# Move Lookup\n\n");
+    buf.push_str("Type to filter and reveal a matching move card.\n\n");
+    buf.push_str(
+        r#"<input id="move-lookup-input" type="text" placeholder="Start typing a move..." />"#,
+    );
+    buf.push_str("\n\n<div id=\"move-lookup-status\"></div>\n\n<div id=\"move-lookup-cards\">\n");
+    for (name, slug) in entries {
+        let search = format!("{} {}", name.to_lowercase(), slug);
+        buf.push_str(&format!(
+            "<div class=\"lookup-card\" data-name=\"{}\">\n{{{{#include ./moves/{}.md}}}}\n</div>\n",
+            search, slug
+        ));
+    }
+    buf.push_str("</div>\n\n<script>\nconst input = document.getElementById('move-lookup-input');\nconst cards = Array.from(document.querySelectorAll('#move-lookup-cards .lookup-card'));\nconst status = document.getElementById('move-lookup-status');\nfunction presetFromUrl() {\n  const params = new URLSearchParams(window.location.search);\n  const hash = window.location.hash.replace('#','');\n  const q = params.get('q') || hash;\n  if (q) {\n    input.value = q;\n  }\n}\nfunction expandCards() {\n  document.querySelectorAll('.move-card').forEach(d => d.setAttribute('open', ''));\n}\nfunction applyFilter() {\n  const q = input.value.trim().toLowerCase();\n  let shown = 0;\n  for (const card of cards) {\n    if (!q) { card.style.display = 'none'; continue; }\n    if (card.dataset.name.includes(q) && shown === 0) {\n      card.style.display = 'block';\n      shown += 1;\n    } else {\n      card.style.display = 'none';\n    }\n  }\n  status.textContent = q && shown === 0 ? 'No match found' : '';\n}\nexpandCards();\npresetFromUrl();\napplyFilter();\ninput.addEventListener('input', applyFilter);\n</script>\n");
+    if let Some(parent) = out_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+    fs::write(out_path, buf)?;
+    println!("Generated move lookup with {} entries", moves.len());
+    Ok(())
+}
+
+fn title_case(input: &str) -> String {
+    input
+        .split(|c: char| c == '-' || c == '_' || c.is_whitespace())
+        .filter(|part| !part.is_empty())
+        .map(|part| {
+            let mut chars = part.chars();
+            match chars.next() {
+                Some(first) => {
+                    first.to_uppercase().collect::<String>() + &chars.as_str().to_lowercase()
+                }
+                None => String::new(),
+            }
+        })
+        .collect::<Vec<_>>()
+        .join(" ")
 }
 
 fn render_ability_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {

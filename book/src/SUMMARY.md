@@ -22,6 +22,7 @@
 - [Items - Decorations & Outfits](<items-decorations-outfits.md>)
 - [Ability Catalog](ability-catalog.md)
 - [Move Catalog](<move-catalog.md>)
+- [Move Lookup](<move-lookup.md>)
 - [Egg Groups](<egg-groups.md>)
 - [Berry System](<berry-system.md>)
 - [Important Game Tips](<important-game-tips.md>)
