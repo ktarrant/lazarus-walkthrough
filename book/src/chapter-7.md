@@ -13,6 +13,9 @@ At the end is Froslass Cavern, with even more trainers, so bring healing
 if you can afford it as it is a long way to go back and forth to the
 PokeCenter.
 
+### Quests
+- **Chimera's Mega Plan** — Defeat Team Chimera in Sofos City, return to Niko _(Reward: HM03 Surf; Split: Terpsikore Lvl 27)_.
+
 ### Encounters
 {{#include ./encounters/erinys-path-west.md}}
 
@@ -23,6 +26,9 @@ PokeCenter.
 ## Froslass Cavern
 At the end of Froslass Cavern is a king of tough double battle.
 Something resistant to electricity will help.
+
+### Quests
+- **Keeper of the Cave** — Catch the Froslass in Froslass Cavern _(Reward: Exp. Candy M x3; Split: Terpsikore Lvl 27)_.
 
 {{#include ./encounters/froslass-cavern-f1.md}}
 
@@ -36,4 +42,8 @@ Mercifully a nurse will heal your Pokemon once you leave the cave.
 Niko will fight you on this route, then ask him to get the Key Stone
 from Team Chimera in Sofos City.
 
+### Quests
+- **A Tall Order** — Register Girafarig in the Pokédex for the boy in the house _(Reward: TM34 Shock Wave; Split: Terpsikore Lvl 27)_.
+
+### Encounters
 {{#include ./encounters/asfal-hills.md}}

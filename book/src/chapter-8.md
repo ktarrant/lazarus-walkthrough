@@ -17,6 +17,17 @@ if you can consistently win.
 north of the city to fight Team Chimera. They will give you the
 Key Stone to show to Niko. Niko will give you HM03 Surf.
 
+### Quests
+- **No Nodding Off!** — Bring an Awakening to the old lady west of the gym _(Reward: Rare Candy; Split: Terpsikore Lvl 27)_.
+- **Arcade Escapade** — Bring 5 Pinball Points to the computer guy in the east of the city _(Reward: Covert Cloak; Split: Terpsikore Lvl 27)_.
+- **Master of Terrain** — Show Alolan Raichu to the man by the grass _(Reward: Raichu Doll; Split: Terpsikore Lvl 27)_.
+- **Bird-Brained** — Register Noctowl and Xatu for the bird lady _(Reward: Wise Glasses; Split: Terpsikore Lvl 27)_.
+- **Nemo's Birds** — Show all 4 Oricorio forms to Nemo in the SE house _(Reward: Glimmering Charm, Oricorio Doll; Split: Terpsikore Lvl 27)_.
+- **First Battle Pavilion** — Participate in the Sofos Battle Pavilion _(Reward: Exp. Candy M x2; Split: Terpsikore Lvl 27)_.
+- **The Legend of Kyogre** — Find Kyogre and show your strength _(Reward: Unlock Kyogre encounter; Split: Gym 8 Lvl 50)_.
+- **The Legend of Groudon** — Find Groudon and show your strength _(Reward: Unlock Groudon encounter; Split: Gym 8 Lvl 50)_.
+- **The Legend of Rayquaza** — Find Rayquaza and show your strength _(Reward: Unlock Rayquaza encounter; Split: Gym 8 Lvl 50)_.
+
 ### Battle Pavilion
 In the Battle Pavilion you take three rental Pokemon and then fight
 three battles with those Pokemon, with an option to swap one after
