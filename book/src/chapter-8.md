@@ -21,8 +21,15 @@ Key Stone to show to Niko. Niko will give you HM03 Surf.
 - **No Nodding Off!** — Bring an Awakening to the old lady west of the gym _(Reward: Rare Candy; Split: Terpsikore Lvl 27)_.
 - **Arcade Escapade** — Bring 5 Pinball Points to the computer guy in the east of the city _(Reward: Covert Cloak; Split: Terpsikore Lvl 27)_.
 - **Master of Terrain** — Show Alolan Raichu to the man by the grass _(Reward: Raichu Doll; Split: Terpsikore Lvl 27)_.
+  - Encounter routes: Port Pello, Wakewater Isle
 - **Bird-Brained** — Register Noctowl and Xatu for the bird lady _(Reward: Wise Glasses; Split: Terpsikore Lvl 27)_.
+  - Encounter routes (Noctowl): Sofos City, Sea of Vulcai
+  - Encounter routes (Xatu): Nyx Trails
 - **Nemo's Birds** — Show all 4 Oricorio forms to Nemo in the SE house _(Reward: Glimmering Charm, Oricorio Doll; Split: Terpsikore Lvl 27)_.
+  - Oricorio Baile: Jusmail Town, Myrrini Island
+  - Oricorio Pom-Pom: Myrrini Island
+  - Oricorio Pa'u: Myrrini Island
+  - Oricorio Sensu: Myrrini Island, Wanderer's Woods (South)
 - **First Battle Pavilion** — Participate in the Sofos Battle Pavilion _(Reward: Exp. Candy M x2; Split: Terpsikore Lvl 27)_.
 - **The Legend of Kyogre** — Find Kyogre and show your strength _(Reward: Unlock Kyogre encounter; Split: Gym 8 Lvl 50)_.
 - **The Legend of Groudon** — Find Groudon and show your strength _(Reward: Unlock Groudon encounter; Split: Gym 8 Lvl 50)_.

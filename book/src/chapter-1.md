@@ -40,10 +40,12 @@ Sleep offers the highest catch rate increase of all status effects.
 
 {{#include ./pokemon/munna.md}}
 
-### Quests
+-### Quests
 - **Find Pokédex** — Return Parcel to the Professor _(Reward: Rotom Phone, Exp. Share, Outfit Box; Split: Polymnia Lvl 12)_.
 - **A Girlypop Dream** — Register Togepi in the Pokédex _(Reward: Eviolite; Split: Polymnia Lvl 12)_.
+  - Encounter routes: Erinys Path (West), Sea of Asteri (East)
 - **Rock'n'Roll Pokémon** — Show Blitzle in party to the lady in SW house _(Reward: Rare Candy; Split: Polymnia Lvl 12)_.
+  - Encounter routes: Wanderer's Woods (North)
 - **Species Quest milestones** — Reach unique species counts _(Split: Kleio Lvl 22)_:
   - 10: Nugget
   - 25: Loaded Dice

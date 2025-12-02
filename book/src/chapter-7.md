@@ -44,6 +44,7 @@ from Team Chimera in Sofos City.
 
 ### Quests
 - **A Tall Order** — Register Girafarig in the Pokédex for the boy in the house _(Reward: TM34 Shock Wave; Split: Terpsikore Lvl 27)_.
+  - Encounter routes: Corrin Crossing, Palati City, Sofos City
 
 ### Encounters
 {{#include ./encounters/asfal-hills.md}}
