@@ -22,7 +22,7 @@ Key Stone to show to Niko. Niko will give you HM03 Surf.
 
 ### Quests
 - <label><input type="checkbox" class="quest-check" data-quest="sofos-city-no-nodding-off"> **No Nodding Off!** — Bring an Awakening to the old lady west of the gym _(Reward: Rare Candy; Split: Terpsikore Lvl 27)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-arcade-escapade"> **Arcade Escapade** — Bring 5 Pinball Points to the computer guy in the east of the city _(Reward: Covert Cloak; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-arcade-escapade"> **Arcade Escapade** — Bring 5 Pinball Points to the computer guy in the west of the city _(Reward: Covert Cloak; Split: Terpsikore Lvl 27)_.</label>
 - <label><input type="checkbox" class="quest-check" data-quest="sofos-city-master-of-terrain"> **Master of Terrain** — Show Alolan Raichu to the man by the grass _(Reward: Raichu Doll; Split: Terpsikore Lvl 27)_.</label>
   - Encounter routes: Port Pello, Wakewater Isle
 - <label><input type="checkbox" class="quest-check" data-quest="sofos-city-bird-brained"> **Bird-Brained** — Register Noctowl and Xatu for the bird lady _(Reward: Wise Glasses; Split: Terpsikore Lvl 27)_.</label>
