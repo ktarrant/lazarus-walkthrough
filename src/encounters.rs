@@ -197,12 +197,12 @@ impl EncounterArea {
             }
             let species_slug = slugify(species);
             buf.push_str(&format!(
-                " <input type=\"checkbox\" class=\"encounter-check\" data-area=\"{}\" data-species=\"{}\" /> |\n",
-                self.id, species_slug
+                " <input type=\"checkbox\" class=\"caught-check\" data-species=\"{}\" /> |\n",
+                species_slug
             ));
         }
         buf.push_str(
-            "\n<script>\n(function() {\n  const STORAGE_KEY = 'lazarusEncounterChecks';\n  function loadState() {\n    try {\n      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');\n    } catch (_) {\n      return {};\n    }\n  }\n  function saveState(state) {\n    try {\n      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));\n    } catch (_) {}\n  }\n  const state = loadState();\n  const checkboxes = document.querySelectorAll('.encounter-check');\n  checkboxes.forEach(cb => {\n    const key = `${cb.dataset.area}|${cb.dataset.species}`;\n    cb.checked = !!state[key];\n    cb.addEventListener('change', () => {\n      if (cb.checked) {\n        state[key] = true;\n      } else {\n        delete state[key];\n      }\n      saveState(state);\n    });\n  });\n})();\n</script>\n\n",
+            "\n<script>\n(function() {\n  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;\n  const STORAGE_KEY = 'lazarusCaught';\n  function loadState() {\n    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }\n  }\n  function saveState(state) {\n    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}\n  }\n  function applyState() {\n    const state = loadState();\n    const boxes = Array.from(document.querySelectorAll('.caught-check'));\n    const bySpecies = boxes.reduce((m, cb) => {\n      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});\n    boxes.forEach(cb => {\n      const key = cb.dataset.species;\n      cb.checked = !!state[key];\n      cb.onchange = () => {\n        const checked = cb.checked;\n        if (checked) state[key] = true; else delete state[key];\n        saveState(state);\n        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });\n      };\n    });\n  }\n  if (document.readyState === 'loading') {\n    document.addEventListener('DOMContentLoaded', applyState);\n  } else {\n    applyState();\n  }\n})();\n</script>\n\n",
         );
         buf
     }

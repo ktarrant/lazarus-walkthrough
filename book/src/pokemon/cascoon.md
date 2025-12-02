@@ -46,6 +46,8 @@ Pecha Berry
 - Riverwalk Trail (South) — Grass (Night) (10%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="wurmple" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -71,6 +73,39 @@ Pecha Berry
 - Snore
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cascoon-panel-1">
 Types: Bug • Egg Groups: Bug
@@ -102,6 +137,8 @@ Lv. 7
 - Riverwalk Trail (South) — Grass (Day) (8%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="silcoon" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -121,6 +158,39 @@ Lv. 7
 - Incompatible
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cascoon-panel-2">
 Types: Bug / Flying • Egg Groups: Bug
@@ -174,6 +244,8 @@ Lv. 10
 - Péntepetal City — Grass (Day) (20%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="beautifly" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -213,6 +285,39 @@ Lv. 10
 - Swift
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cascoon-panel-3">
 Types: Bug • Egg Groups: Bug
@@ -244,6 +349,8 @@ Lv. 7
 - Riverwalk Trail (South) — Grass (Night) (8%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="cascoon" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -263,6 +370,39 @@ Lv. 7
 - Incompatible
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-cascoon-panel-4">
 Types: Bug / Poison • Egg Groups: Bug
@@ -318,6 +458,8 @@ Lv. 10
 - Péntepetal City — Grass (Night) (20%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="dustox" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -357,6 +499,39 @@ Lv. 10
 - Swift
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 </div>
 </div>

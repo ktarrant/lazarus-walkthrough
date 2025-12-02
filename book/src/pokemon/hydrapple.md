@@ -53,6 +53,8 @@ Leftovers
 - Wanderer's Woods (North) — Grass (Day) (10%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="applin" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -80,6 +82,39 @@ Leftovers
 - Rollout
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-1">
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
@@ -128,6 +163,8 @@ Tart Apple
 - Tower of Dioxippus — Grass (Night) (4%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="flapple" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -177,6 +214,39 @@ Tart Apple
 - Snore
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-2">
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
@@ -227,6 +297,8 @@ Sweet Apple
 - Tower of Dioxippus — Grass (Night) (4%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="appletun" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -276,6 +348,39 @@ Sweet Apple
 - Snore
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-3">
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
@@ -321,6 +426,8 @@ Syrupy Apple
 - Tower of Dioxippus — Grass (Night) (2%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="dipplin" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -369,6 +476,39 @@ Syrupy Apple
 - Sleep Talk
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-hydrapple-panel-4">
 Types: Grass / Dragon • Egg Groups: Grass / Dragon
@@ -412,6 +552,8 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon
 Lv. 40
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="hydrapple" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -459,6 +601,39 @@ Lv. 40
 - Sleep Talk
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 </div>
 </div>

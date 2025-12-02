@@ -58,6 +58,8 @@ Types: Electric • Egg Groups: -
 - Wanderer's Woods (North) — Grass (Night) (4%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="pichu" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -114,6 +116,39 @@ Types: Electric • Egg Groups: -
 - Thunder Punch
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-1">
 Types: Electric • Egg Groups: Field / Fairy
@@ -171,6 +206,8 @@ Lv. 15
 - Pollen Road — Grass (Day) (10%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="pikachu" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -240,6 +277,39 @@ Lv. 15
 - Thunder Punch
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-2">
 Types: Electric • Egg Groups: Field / Fairy
@@ -293,6 +363,8 @@ Thunder Stone
 - Wakewater Isle — Grass (Night) (10%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="raichu" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -362,6 +434,39 @@ Thunder Stone
 - Thunder Punch
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-3">
 Types: Electric • Egg Groups: Field / Fairy
@@ -410,6 +515,8 @@ Types: Electric • Egg Groups: Field / Fairy
 Raichuite X
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="mega-raichu-x" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -479,6 +586,39 @@ Raichuite X
 - Thunder Punch
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-4">
 Types: Electric • Egg Groups: Field / Fairy
@@ -527,6 +667,8 @@ Types: Electric • Egg Groups: Field / Fairy
 Raichuite Y
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="mega-raichu-y" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -596,6 +738,39 @@ Raichuite Y
 - Thunder Punch
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-pichu-panel-5">
 Types: Electric / Psychic • Egg Groups: Field / Fairy
@@ -655,6 +830,8 @@ Shiny Stone
 - Wakewater Isle — Grass (Day) (10%)
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="alolan-raichu" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -722,6 +899,39 @@ Shiny Stone
 - Thunder Punch
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 </div>
 </div>

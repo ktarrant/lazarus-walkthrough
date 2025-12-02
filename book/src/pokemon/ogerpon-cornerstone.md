@@ -49,6 +49,8 @@ Types: Grass • Egg Groups: -
 - TM44 - Rest
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="ogerpon" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -92,6 +94,39 @@ Types: Grass • Egg Groups: -
 - Swords Dance
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-1">
 Types: Grass / Rock • Egg Groups: -
@@ -129,6 +164,8 @@ Types: Grass / Rock • Egg Groups: -
 - TM44 - Rest
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="ogerpon-cornerstone" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -172,6 +209,39 @@ Types: Grass / Rock • Egg Groups: -
 - Swords Dance
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-2">
 Types: Grass / Fire • Egg Groups: -
@@ -210,6 +280,8 @@ Types: Grass / Fire • Egg Groups: -
 - TM44 - Rest
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="ogerpon-hearthflame" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -253,6 +325,39 @@ Types: Grass / Fire • Egg Groups: -
 - Swords Dance
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 <div class="pokemon-tab-panel" id="pokemon-tabs-ogerpon-cornerstone-panel-3">
 Types: Grass / Water • Egg Groups: -
@@ -290,6 +395,8 @@ Types: Grass / Water • Egg Groups: -
 - TM44 - Rest
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="ogerpon-wellspring" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -333,6 +440,39 @@ Types: Grass / Water • Egg Groups: -
 - Swords Dance
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </div>
 </div>
 </div>

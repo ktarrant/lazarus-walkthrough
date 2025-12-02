@@ -47,6 +47,8 @@ Types: Ghost / Dark • Egg Groups: Amorphous
 - HM05 - Flash
 </div>
 <div class="card-column">
+<label><input type="checkbox" class="caught-check" data-species="spiritomb" /> Caught</label>
+
 **Base Stats**
 
 | Stat | Value |
@@ -102,4 +104,37 @@ Types: Ghost / Dark • Egg Groups: Amorphous
 - Swagger
 </div>
 </div>
+<script>
+(function() {
+  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;
+  const STORAGE_KEY = 'lazarusCaught';
+  function loadState() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }
+  }
+  function saveState(state) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}
+  }
+  function applyState() {
+    const state = loadState();
+    const boxes = Array.from(document.querySelectorAll('.caught-check'));
+    const bySpecies = boxes.reduce((m, cb) => {
+      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});
+    boxes.forEach(cb => {
+      const key = cb.dataset.species;
+      cb.checked = !!state[key];
+      cb.onchange = () => {
+        const checked = cb.checked;
+        if (checked) state[key] = true; else delete state[key];
+        saveState(state);
+        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });
+      };
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyState);
+  } else {
+    applyState();
+  }
+})();
+</script>
 </details>

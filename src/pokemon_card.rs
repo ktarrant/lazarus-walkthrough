@@ -127,6 +127,11 @@ fn render_single(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> Strin
 
     append_encounters_section(&mut left_column, encounters);
 
+    // Caught checkbox shared with encounter tables
+    right_column.push_str(&format!(
+        "<label><input type=\"checkbox\" class=\"caught-check\" data-species=\"{}\" /> Caught</label>\n\n",
+        entry.slug
+    ));
     append_stats_table(&mut right_column, &entry.stats);
     append_level_up_moves(&mut right_column, &entry.level_up_moves);
     append_move_list(&mut right_column, "Egg Moves", &entry.egg_moves);
@@ -138,6 +143,10 @@ fn render_single(entry: &PokemonEntry, encounters: &[SpeciesEncounter]) -> Strin
     buf.push_str("\n</div>\n<div class=\"card-column\">\n");
     buf.push_str(right_column.trim());
     buf.push_str("\n</div>\n</div>\n");
+
+    buf.push_str(
+        "<script>\n(function() {\n  if (window.__lazarusCaughtInit) return; window.__lazarusCaughtInit = true;\n  const STORAGE_KEY = 'lazarusCaught';\n  function loadState() {\n    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (_) { return {}; }\n  }\n  function saveState(state) {\n    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (_) {}\n  }\n  function applyState() {\n    const state = loadState();\n    const boxes = Array.from(document.querySelectorAll('.caught-check'));\n    const bySpecies = boxes.reduce((m, cb) => {\n      const s = cb.dataset.species; if (!s) return m; (m[s] ||= []).push(cb); return m; }, {});\n    boxes.forEach(cb => {\n      const key = cb.dataset.species;\n      cb.checked = !!state[key];\n      cb.onchange = () => {\n        const checked = cb.checked;\n        if (checked) state[key] = true; else delete state[key];\n        saveState(state);\n        (bySpecies[key] || []).forEach(other => { if (other !== cb) other.checked = checked; });\n      };\n    });\n  }\n  if (document.readyState === 'loading') {\n    document.addEventListener('DOMContentLoaded', applyState);\n  } else {\n    applyState();\n  }\n})();\n</script>\n",
+    );
 
     buf
 }
