@@ -36,31 +36,31 @@ Types: Steel / Fairy • Egg Groups: Field / Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM53 - Power-Up Punch
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Iron Ball
@@ -88,67 +88,67 @@ Iron Ball
 | Total | <span class="stat-value stat-mid">415</span> |
 
 **Level-Up Moves**
-- Play Rough (Lv 1)
-- Iron Head (Lv 1)
-- Taunt (Lv 1)
-- Growl (Lv 1)
-- Fairy Wind (Lv 1)
-- Astonish (Lv 1)
-- Fake Tears (Lv 5)
-- Bite (Lv 9)
-- Metal Claw (Lv 13)
-- Vice Grip (Lv 16)
-- Covet (Lv 20)
-- Feint Attack (Lv 21)
-- Baton Pass (Lv 25)
-- Thunder Fang (Lv 27)
-- Fire Fang (Lv 27)
-- Ice Fang (Lv 27)
-- Crunch (Lv 29)
-- Iron Defense (Lv 33)
-- Sucker Punch (Lv 37)
-- Stockpile (Lv 41)
-- Swallow (Lv 41)
-- Spit Up (Lv 41)
-- Iron Head (Lv 45)
-- Play Rough (Lv 49)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 1)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 1)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 9)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 13)
+- <a href="move-lookup.html?q=vice-grip">Vice Grip</a> (Lv 16)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 25)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 29)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 33)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 37)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 41)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 41)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 41)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 45)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 49)
 
 **Egg Moves**
-- Poison Fang
-- Ancient Power
-- Tickle
-- Sucker Punch
-- Ice Fang
-- Fire Fang
-- Thunder Fang
-- Punishment
-- Guard Swap
-- Captivate
-- Slam
-- Metal Burst
-- Misty Terrain
-- Seismic Toss
-- Power-Up Punch
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=metal-burst">Metal Burst</a>
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -213,31 +213,31 @@ Types: Steel / Fairy • Egg Groups: Field / Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM53 - Power-Up Punch
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Iron Ball
@@ -261,67 +261,67 @@ Mawilite
 | Total | <span class="stat-value stat-mid">515</span> |
 
 **Level-Up Moves**
-- Play Rough (Lv 1)
-- Iron Head (Lv 1)
-- Taunt (Lv 1)
-- Growl (Lv 1)
-- Fairy Wind (Lv 1)
-- Astonish (Lv 1)
-- Fake Tears (Lv 5)
-- Bite (Lv 9)
-- Metal Claw (Lv 13)
-- Vice Grip (Lv 16)
-- Covet (Lv 20)
-- Feint Attack (Lv 21)
-- Baton Pass (Lv 25)
-- Thunder Fang (Lv 27)
-- Fire Fang (Lv 27)
-- Ice Fang (Lv 27)
-- Crunch (Lv 29)
-- Iron Defense (Lv 33)
-- Sucker Punch (Lv 37)
-- Stockpile (Lv 41)
-- Swallow (Lv 41)
-- Spit Up (Lv 41)
-- Iron Head (Lv 45)
-- Play Rough (Lv 49)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 1)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 1)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 9)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 13)
+- <a href="move-lookup.html?q=vice-grip">Vice Grip</a> (Lv 16)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 25)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 29)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 33)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 37)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 41)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 41)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 41)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 45)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 49)
 
 **Egg Moves**
-- Poison Fang
-- Ancient Power
-- Tickle
-- Sucker Punch
-- Ice Fang
-- Fire Fang
-- Thunder Fang
-- Punishment
-- Guard Swap
-- Captivate
-- Slam
-- Metal Burst
-- Misty Terrain
-- Seismic Toss
-- Power-Up Punch
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=metal-burst">Metal Burst</a>
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

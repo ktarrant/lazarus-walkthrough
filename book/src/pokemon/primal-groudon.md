@@ -27,33 +27,33 @@ Types: Ground • Egg Groups: -
 - Ice (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="groudon" /> Caught</label>
@@ -71,46 +71,46 @@ Types: Ground • Egg Groups: -
 | Total | <span class="stat-value stat-high">670</span> |
 
 **Level-Up Moves**
-- Ancient Power (Lv 1)
-- Mud Shot (Lv 1)
-- Scary Face (Lv 5)
-- Earth Power (Lv 15)
-- Lava Plume (Lv 20)
-- Rest (Lv 30)
-- Earthquake (Lv 35)
-- Precipice Blades (Lv 45)
-- Bulk Up (Lv 50)
-- Solar Beam (Lv 60)
-- Fissure (Lv 65)
-- Fire Blast (Lv 75)
-- Hammer Arm (Lv 80)
-- Eruption (Lv 90)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a> (Lv 1)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 5)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 15)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 20)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 30)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 35)
+- <a href="move-lookup.html?q=precipice-blades">Precipice Blades</a> (Lv 45)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 50)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 60)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 65)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 75)
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a> (Lv 80)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 90)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Fury Cutter
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -170,33 +170,33 @@ Types: Ground / Fire • Egg Groups: -
 - Ground (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Red Orb?
@@ -217,46 +217,46 @@ Red Orb?
 | Total | <span class="stat-value stat-high">770</span> |
 
 **Level-Up Moves**
-- Ancient Power (Lv 1)
-- Mud Shot (Lv 1)
-- Scary Face (Lv 5)
-- Earth Power (Lv 15)
-- Lava Plume (Lv 20)
-- Rest (Lv 30)
-- Earthquake (Lv 35)
-- Precipice Blades (Lv 45)
-- Bulk Up (Lv 50)
-- Solar Beam (Lv 60)
-- Fissure (Lv 65)
-- Fire Blast (Lv 75)
-- Hammer Arm (Lv 80)
-- Eruption (Lv 90)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a> (Lv 1)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 5)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 15)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 20)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 30)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 35)
+- <a href="move-lookup.html?q=precipice-blades">Precipice Blades</a> (Lv 45)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 50)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 60)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 65)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 75)
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a> (Lv 80)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 90)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Fury Cutter
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

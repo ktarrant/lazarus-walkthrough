@@ -28,23 +28,23 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Red Shard
@@ -71,46 +71,46 @@ Red Shard
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Level-Up Moves**
-- Fury Cutter (Lv 1)
-- Rock Blast (Lv 5)
-- Withdraw (Lv 7)
-- Sand Attack (Lv 11)
-- Feint Attack (Lv 13)
-- Smack Down (Lv 17)
-- Rock Polish (Lv 19)
-- Bug Bite (Lv 23)
-- Stealth Rock (Lv 24)
-- Rock Slide (Lv 28)
-- Razor Shell (Lv 30)
-- Slash (Lv 32)
-- X-Scissor (Lv 35)
-- Shell Smash (Lv 37)
-- Flail (Lv 41)
-- Accelerock (Lv 45)
-- Crabhammer (Lv 49)
-- Rock Wrecker (Lv 53)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 5)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 7)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 11)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 17)
+- <a href="move-lookup.html?q=rock-polish">Rock Polish</a> (Lv 19)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 24)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 28)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 30)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 35)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 37)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 41)
+- <a href="move-lookup.html?q=accelerock">Accelerock</a> (Lv 45)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 49)
+- <a href="move-lookup.html?q=rock-wrecker">Rock Wrecker</a> (Lv 53)
 
 **Egg Moves**
-- Endure
-- Iron Defense
-- Night Slash
-- Sand Tomb
-- Counter
-- Curse
-- Spikes
-- Block
-- Wide Guard
-- Rototiller
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Fury Cutter
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -169,23 +169,23 @@ Types: Bug / Rock • Egg Groups: Mineral / Bug
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Hard Rock
@@ -209,46 +209,46 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
-- Fury Cutter (Lv 1)
-- Rock Blast (Lv 5)
-- Withdraw (Lv 7)
-- Sand Attack (Lv 11)
-- Feint Attack (Lv 13)
-- Smack Down (Lv 17)
-- Rock Polish (Lv 19)
-- Bug Bite (Lv 23)
-- Stealth Rock (Lv 24)
-- Rock Slide (Lv 28)
-- Razor Shell (Lv 30)
-- Slash (Lv 32)
-- X-Scissor (Lv 35)
-- Shell Smash (Lv 37)
-- Flail (Lv 41)
-- Accelerock (Lv 45)
-- Crabhammer (Lv 49)
-- Rock Wrecker (Lv 53)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 5)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 7)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 11)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 17)
+- <a href="move-lookup.html?q=rock-polish">Rock Polish</a> (Lv 19)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 24)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 28)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 30)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 35)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 37)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 41)
+- <a href="move-lookup.html?q=accelerock">Accelerock</a> (Lv 45)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 49)
+- <a href="move-lookup.html?q=rock-wrecker">Rock Wrecker</a> (Lv 53)
 
 **Egg Moves**
-- Endure
-- Iron Defense
-- Night Slash
-- Sand Tomb
-- Counter
-- Curse
-- Spikes
-- Block
-- Wide Guard
-- Rototiller
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Fury Cutter
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

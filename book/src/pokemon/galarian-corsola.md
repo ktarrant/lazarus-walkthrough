@@ -34,31 +34,31 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM23 - Hex
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM56 - Scald
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Encounter Locations**
 - Kipos Town — Surfing (5%)
@@ -81,39 +81,39 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Harden (Lv 1)
-- Astonish (Lv 5)
-- Disable (Lv 10)
-- Spite (Lv 14)
-- Bubble Beam (Lv 18)
-- Ancient Power (Lv 20)
-- Hex (Lv 23)
-- Rock Blast (Lv 27)
-- Curse (Lv 30)
-- Strength Sap (Lv 33)
-- Shadow Ball (Lv 37)
-- Power Gem (Lv 40)
-- Night Shade (Lv 43)
-- Infernal Parade (Lv 46)
-- Grudge (Lv 50)
-- Mirror Coat (Lv 55)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 5)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 10)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 14)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 18)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 20)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 27)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 30)
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a> (Lv 33)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 37)
+- <a href="move-lookup.html?q=power-gem">Power Gem</a> (Lv 40)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 43)
+- <a href="move-lookup.html?q=infernal-parade">Infernal Parade</a> (Lv 46)
+- <a href="move-lookup.html?q=grudge">Grudge</a> (Lv 50)
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a> (Lv 55)
 
 **Egg Moves**
-- Haze
-- Confuse Ray
-- Nature Power
-- Destiny Bond
-- Water Pulse
-- Head Smash
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=head-smash">Head Smash</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -178,31 +178,31 @@ Types: Ghost / Rock • Egg Groups: Water 1 / Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM23 - Hex
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM56 - Scald
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 34
@@ -223,40 +223,40 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Perish Song (Lv Evo)
-- Tackle (Lv 1)
-- Harden (Lv 1)
-- Astonish (Lv 5)
-- Disable (Lv 10)
-- Spite (Lv 14)
-- Bubble Beam (Lv 18)
-- Ancient Power (Lv 20)
-- Hex (Lv 23)
-- Rock Blast (Lv 27)
-- Curse (Lv 30)
-- Strength Sap (Lv 33)
-- Shadow Ball (Lv 37)
-- Power Gem (Lv 40)
-- Night Shade (Lv 43)
-- Infernal Parade (Lv 46)
-- Grudge (Lv 50)
-- Mirror Coat (Lv 55)
+- <a href="move-lookup.html?q=perish-song">Perish Song</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 5)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 10)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 14)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 18)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 20)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 27)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 30)
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a> (Lv 33)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 37)
+- <a href="move-lookup.html?q=power-gem">Power Gem</a> (Lv 40)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 43)
+- <a href="move-lookup.html?q=infernal-parade">Infernal Parade</a> (Lv 46)
+- <a href="move-lookup.html?q=grudge">Grudge</a> (Lv 50)
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a> (Lv 55)
 
 **Egg Moves**
-- Haze
-- Confuse Ray
-- Nature Power
-- Destiny Bond
-- Water Pulse
-- Head Smash
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=head-smash">Head Smash</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>

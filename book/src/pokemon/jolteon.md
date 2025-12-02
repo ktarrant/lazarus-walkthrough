@@ -39,19 +39,19 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Encounter Locations**
 - Jusmail Town — Grass (Day) (10%)
@@ -75,49 +75,49 @@ Types: Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Level-Up Moves**
-- Covet (Lv 1)
-- Helping Hand (Lv 1)
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Bite (Lv 17)
-- Swift (Lv 17)
-- Refresh (Lv 20)
-- Take Down (Lv 25)
-- Charm (Lv 29)
-- Baton Pass (Lv 33)
-- Double-Edge (Lv 37)
-- Last Resort (Lv 41)
-- Trump Card (Lv 45)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 1)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=refresh">Refresh</a> (Lv 20)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 25)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 29)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 33)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 37)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=trump-card">Trump Card</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -177,29 +177,29 @@ Types: Water • Egg Groups: Field
 - Grass (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Water Stone
@@ -220,50 +220,50 @@ Water Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Water Gun (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Water Pulse (Lv 17)
-- Aurora Beam (Lv 20)
-- Aqua Ring (Lv 25)
-- Acid Armor (Lv 29)
-- Draining Kiss (Lv 31)
-- Haze (Lv 33)
-- Muddy Water (Lv 37)
-- Calm Mind (Lv 39)
-- Last Resort (Lv 41)
-- Hydro Pump (Lv 45)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 17)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 25)
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a> (Lv 29)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 31)
+- <a href="move-lookup.html?q=haze">Haze</a> (Lv 33)
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a> (Lv 37)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 39)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -321,27 +321,27 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM58 - Thunder Wave
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Thunder Stone
@@ -362,50 +362,50 @@ Thunder Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Thundershock (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Double Kick (Lv 17)
-- Thunder Fang (Lv 20)
-- Pin Missile (Lv 25)
-- Agility (Lv 29)
-- Triple Kick (Lv 31)
-- Thunder Wave (Lv 33)
-- Discharge (Lv 37)
-- Trop Kick (Lv 41)
-- Victory Dance (Lv 44)
-- Extreme Speed (Lv 47)
-- Thunder (Lv 50)
+- <a href="move-lookup.html?q=thundershock">Thundershock</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 17)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 20)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 25)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 29)
+- <a href="move-lookup.html?q=triple-kick">Triple Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 33)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 37)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv 41)
+- <a href="move-lookup.html?q=victory-dance">Victory Dance</a> (Lv 44)
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a> (Lv 47)
+- <a href="move-lookup.html?q=thunder">Thunder</a> (Lv 50)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -468,24 +468,24 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Fire Stone
@@ -506,49 +506,49 @@ Fire Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Ember (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Bite (Lv 17)
-- Fire Fang (Lv 20)
-- Fire Spin (Lv 25)
-- Scary Face (Lv 29)
-- Trop Kick (Lv 31)
-- Blaze Kick (Lv 33)
-- Lava Plume (Lv 37)
-- Thunderous Kick (Lv 41)
-- Triple Kick (Lv 45)
-- Flare Blitz (Lv 48)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 25)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 29)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=blaze-kick">Blaze Kick</a> (Lv 33)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 37)
+- <a href="move-lookup.html?q=thunderous-kick">Thunderous Kick</a> (Lv 41)
+- <a href="move-lookup.html?q=triple-kick">Triple Kick</a> (Lv 45)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 48)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -607,29 +607,29 @@ Types: Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Sun Stone
@@ -650,51 +650,51 @@ Sun Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Confusion (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Swift (Lv 17)
-- Psybeam (Lv 20)
-- Future Sight (Lv 25)
-- Psych Up (Lv 29)
-- Mysical Fire (Lv 31)
-- Morning Sun (Lv 33)
-- Psychic (Lv 35)
-- Solar Beam (Lv 38)
-- Last Resort (Lv 41)
-- Power Swap (Lv 45)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 20)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 25)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 29)
+- <a href="move-lookup.html?q=mysical-fire">Mysical Fire</a> (Lv 31)
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a> (Lv 33)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 35)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 38)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=power-swap">Power Swap</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -754,31 +754,31 @@ Types: Dark • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Moon Stone
@@ -799,51 +799,51 @@ Moon Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Pursuit (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Confuse Ray (Lv 17)
-- Feint Attack (Lv 20)
-- Assurance (Lv 25)
-- Screech (Lv 29)
-- Frost Breath (Lv 31)
-- Moonlight (Lv 33)
-- Mean Look (Lv 35)
-- Foul Play (Lv 38)
-- Last Resort (Lv 41)
-- Guard Swap (Lv 45)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 17)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 20)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 25)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 29)
+- <a href="move-lookup.html?q=frost-breath">Frost Breath</a> (Lv 31)
+- <a href="move-lookup.html?q=moonlight">Moonlight</a> (Lv 33)
+- <a href="move-lookup.html?q=mean-look">Mean Look</a> (Lv 35)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 38)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -906,25 +906,25 @@ Types: Grass • Egg Groups: Field
 - Bug (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Leaf Stone
@@ -945,50 +945,50 @@ Leaf Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Razor Leaf (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Grass Whistle (Lv 17)
-- Magical Leaf (Lv 20)
-- Giga Drain (Lv 25)
-- Swords Dance (Lv 29)
-- Thunderous Kick (Lv 31)
-- Synthesis (Lv 33)
-- Sunny Day (Lv 37)
-- Last Resort (Lv 41)
-- Leaf Blade (Lv 45)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a> (Lv 17)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 20)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 25)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 29)
+- <a href="move-lookup.html?q=thunderous-kick">Thunderous Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 33)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 37)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -1047,25 +1047,25 @@ Types: Ice • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Ice Stone
@@ -1086,49 +1086,49 @@ Ice Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Icy Wind (Lv Evo)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Bite (Lv 17)
-- Ice Fang (Lv 20)
-- Ice Shard (Lv 25)
-- Barrier (Lv 29)
-- Chilling Water (Lv 31)
-- Mirror Coat (Lv 33)
-- Hail (Lv 37)
-- Last Resort (Lv 41)
-- Deepwater Curse (Lv 45)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv Evo)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 20)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 25)
+- <a href="move-lookup.html?q=barrier">Barrier</a> (Lv 29)
+- <a href="move-lookup.html?q=chilling-water">Chilling Water</a> (Lv 31)
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a> (Lv 33)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 37)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -1188,28 +1188,28 @@ Types: Fairy • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Shiny Stone
@@ -1230,50 +1230,50 @@ Shiny Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Fairy Wind (Lv Evo)
-- Disarming Voice (Lv 1)
-- Helping Hand (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Sand Attack (Lv 5)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 13)
-- Swift (Lv 17)
-- Draining Kiss (Lv 20)
-- Skill Swap (Lv 25)
-- Misty Terrain (Lv 29)
-- Apple Acid (Lv 31)
-- Light Screen (Lv 33)
-- Moonblast (Lv 37)
-- Last Resort (Lv 41)
-- Psych Up (Lv 45)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv Evo)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 1)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 20)
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a> (Lv 25)
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a> (Lv 29)
+- <a href="move-lookup.html?q=apple-acid">Apple Acid</a> (Lv 31)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 33)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 37)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 41)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Flail
-- Endure
-- Curse
-- Tickle
-- Wish
-- Yawn
-- Fake Tears
-- Covet
-- Detect
-- Natural Gift
-- Stored Power
-- Synchronoise
-- Captivate
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

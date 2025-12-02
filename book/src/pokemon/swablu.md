@@ -36,22 +36,22 @@ Types: Flying / Fairy • Egg Groups: Flying / Dragon
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM54 - Dazzling Gleam
-- TM57 - Roost
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (20%)
@@ -75,49 +75,49 @@ Types: Flying / Fairy • Egg Groups: Flying / Dragon
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Peck (Lv 1)
-- Growl (Lv 1)
-- Astonish (Lv 3)
-- Sing (Lv 5)
-- Fury Attack (Lv 7)
-- Safeguard (Lv 9)
-- Disarming Voice (Lv 11)
-- Mist (Lv 14)
-- Round (Lv 17)
-- Natural Gift (Lv 20)
-- Draining Kiss (Lv 23)
-- Refresh (Lv 26)
-- Mirror Move (Lv 30)
-- Cotton Guard (Lv 34)
-- Hyper Voice (Lv 37)
-- Dragon Pulse (Lv 38)
-- Perish Song (Lv 42)
-- Moonblast (Lv 46)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 3)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 5)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 9)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 14)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 17)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 20)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 23)
+- <a href="move-lookup.html?q=refresh">Refresh</a> (Lv 26)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 30)
+- <a href="move-lookup.html?q=cotton-guard">Cotton Guard</a> (Lv 34)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 37)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 38)
+- <a href="move-lookup.html?q=perish-song">Perish Song</a> (Lv 42)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 46)
 
 **Egg Moves**
-- Agility
-- Haze
-- Pursuit
-- Rage
-- Feather Dance
-- Dragon Rush
-- Power Swap
-- Roost
-- Hyper Voice
-- Steel Wing
-- Play Rough
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -183,30 +183,30 @@ Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM54 - Dazzling Gleam
-- TM57 - Roost
-- TM60 - Dragon Dance
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 35
@@ -232,54 +232,54 @@ Lv. 35
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Dragon Breath (Lv Evo)
-- Sky Attack (Lv 1)
-- Pluck (Lv 1)
-- Peck (Lv 1)
-- Growl (Lv 1)
-- Astonish (Lv 3)
-- Sing (Lv 5)
-- Fury Attack (Lv 7)
-- Safeguard (Lv 9)
-- Disarming Voice (Lv 11)
-- Mist (Lv 14)
-- Round (Lv 17)
-- Natural Gift (Lv 20)
-- Draining Kiss (Lv 23)
-- Refresh (Lv 26)
-- Dragon Dance (Lv 30)
-- Cotton Guard (Lv 34)
-- Hyper Voice (Lv 37)
-- Dragon Pulse (Lv 40)
-- Torch Song (Lv 44)
-- Moonblast (Lv 48)
-- Perish Song (Lv 52)
-- Bleakwind Storm (Lv 59)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv Evo)
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 3)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 5)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 9)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 14)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 17)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 20)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 23)
+- <a href="move-lookup.html?q=refresh">Refresh</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 30)
+- <a href="move-lookup.html?q=cotton-guard">Cotton Guard</a> (Lv 34)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 37)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 40)
+- <a href="move-lookup.html?q=torch-song">Torch Song</a> (Lv 44)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 48)
+- <a href="move-lookup.html?q=perish-song">Perish Song</a> (Lv 52)
+- <a href="move-lookup.html?q=bleakwind-storm">Bleakwind Storm</a> (Lv 59)
 
 **Egg Moves**
-- Agility
-- Haze
-- Pursuit
-- Rage
-- Feather Dance
-- Dragon Rush
-- Power Swap
-- Roost
-- Hyper Voice
-- Steel Wing
-- Play Rough
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -343,30 +343,30 @@ Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM54 - Dazzling Gleam
-- TM57 - Roost
-- TM60 - Dragon Dance
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Altarianite
@@ -387,54 +387,54 @@ Altarianite
 | Total | <span class="stat-value stat-high">630</span> |
 
 **Level-Up Moves**
-- Dragon Breath (Lv Evo)
-- Sky Attack (Lv 1)
-- Pluck (Lv 1)
-- Peck (Lv 1)
-- Growl (Lv 1)
-- Astonish (Lv 3)
-- Sing (Lv 5)
-- Fury Attack (Lv 7)
-- Safeguard (Lv 9)
-- Disarming Voice (Lv 11)
-- Mist (Lv 14)
-- Round (Lv 17)
-- Natural Gift (Lv 20)
-- Draining Kiss (Lv 23)
-- Refresh (Lv 26)
-- Dragon Dance (Lv 30)
-- Cotton Guard (Lv 34)
-- Hyper Voice (Lv 37)
-- Dragon Pulse (Lv 40)
-- Torch Song (Lv 44)
-- Moonblast (Lv 48)
-- Perish Song (Lv 52)
-- Bleakwind Storm (Lv 59)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv Evo)
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 3)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 5)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 9)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 14)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 17)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 20)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 23)
+- <a href="move-lookup.html?q=refresh">Refresh</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 30)
+- <a href="move-lookup.html?q=cotton-guard">Cotton Guard</a> (Lv 34)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 37)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 40)
+- <a href="move-lookup.html?q=torch-song">Torch Song</a> (Lv 44)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 48)
+- <a href="move-lookup.html?q=perish-song">Perish Song</a> (Lv 52)
+- <a href="move-lookup.html?q=bleakwind-storm">Bleakwind Storm</a> (Lv 59)
 
 **Egg Moves**
-- Agility
-- Haze
-- Pursuit
-- Rage
-- Feather Dance
-- Dragon Rush
-- Power Swap
-- Roost
-- Hyper Voice
-- Steel Wing
-- Play Rough
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

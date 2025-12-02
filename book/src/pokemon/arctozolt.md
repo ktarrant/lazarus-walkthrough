@@ -23,19 +23,19 @@ Types: Electric / Ice • Egg Groups: -
 - Rock (2×)
 
 **TM/HM Moves**
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="arctozolt" /> Caught</label>
@@ -53,37 +53,37 @@ Types: Electric / Ice • Egg Groups: -
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Powder Snow (Lv 1)
-- Thunder Shock (Lv 1)
-- Charge (Lv 7)
-- Echoed Voice (Lv 12)
-- Ancient Power (Lv 16)
-- Aurora Beam (Lv 20)
-- Pluck (Lv 24)
-- Avalanche (Lv 28)
-- Ice Fang (Lv 33)
-- Thunder Fang (Lv 35)
-- Aqua Tail (Lv 38)
-- Slam (Lv 40)
-- Freeze-Dry (Lv 44)
-- Discharge (Lv 48)
-- Bolt Beak (Lv 50)
-- Icicle Crash (Lv 53)
-- Blizzard (Lv 57)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 1)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 7)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 12)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 16)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 24)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 28)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 33)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 35)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 38)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 40)
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a> (Lv 44)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 48)
+- <a href="move-lookup.html?q=bolt-beak">Bolt Beak</a> (Lv 50)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 53)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 57)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

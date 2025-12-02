@@ -33,22 +33,22 @@ Types: Ground • Egg Groups: Bug / Dragon
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Soft Sand
@@ -75,46 +75,46 @@ Soft Sand
 | Total | <span class="stat-value stat-low">290</span> |
 
 **Level-Up Moves**
-- Sand Attack (Lv 1)
-- Bite (Lv 1)
-- Feint Attack (Lv 1)
-- Bide (Lv 1)
-- Mud-Slap (Lv 5)
-- Bulldoze (Lv 8)
-- Sand Tomb (Lv 12)
-- Rock Slide (Lv 15)
-- Dig (Lv 19)
-- Crunch (Lv 22)
-- Stomping Tantrum (Lv 26)
-- Feint (Lv 29)
-- Earth Power (Lv 33)
-- Sandstorm (Lv 36)
-- Superpower (Lv 40)
-- Attack Order (Lv 43)
-- Fissure (Lv 47)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 5)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 8)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 12)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 15)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 19)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 22)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 26)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 29)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 33)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 36)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 40)
+- <a href="move-lookup.html?q=attack-order">Attack Order</a> (Lv 43)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 47)
 
 **Egg Moves**
-- Focus Energy
-- Quick Attack
-- Gust
-- Flail
-- Fury Cutter
-- Mud Shot
-- Endure
-- Earth Power
-- Bug Bite
-- Signal Beam
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -174,27 +174,27 @@ Types: Ground / Dragon • Egg Groups: Bug / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 22
@@ -215,51 +215,51 @@ Lv. 22
 | Total | <span class="stat-value stat-mid">370</span> |
 
 **Level-Up Moves**
-- Leech Life (Lv Evo)
-- Dragon Breath (Lv 1)
-- Sand Attack (Lv 1)
-- Sonic Boom (Lv 1)
-- Feint Attack (Lv 1)
-- Bide (Lv 1)
-- Mud-Slap (Lv 5)
-- Bulldoze (Lv 8)
-- Sand Tomb (Lv 12)
-- Rock Slide (Lv 15)
-- Supersonic (Lv 19)
-- Screech (Lv 22)
-- Stomping Tantrum (Lv 26)
-- Bug Buzz (Lv 28)
-- Breaking Swipe (Lv 30)
-- Earth Power (Lv 33)
-- Sandstorm (Lv 36)
-- Hyper Voice (Lv 38)
-- Dragon Dance (Lv 41)
-- Leech Life (Lv 43)
-- Attack Order (Lv 49)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv Evo)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 5)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 8)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 12)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 15)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 19)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 22)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 26)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 28)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv 30)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 33)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 36)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 38)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 41)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 43)
+- <a href="move-lookup.html?q=attack-order">Attack Order</a> (Lv 49)
 
 **Egg Moves**
-- Focus Energy
-- Quick Attack
-- Gust
-- Flail
-- Fury Cutter
-- Mud Shot
-- Endure
-- Earth Power
-- Bug Bite
-- Signal Beam
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -319,31 +319,31 @@ Types: Ground / Dragon • Egg Groups: Bug / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM57 - Roost
-- TM60 - Dragon Dance
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 45
@@ -364,56 +364,56 @@ Lv. 45
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Dragon Claw (Lv Evo)
-- Dragon Breath (Lv 1)
-- Dragon Dance (Lv 1)
-- Sand Attack (Lv 1)
-- Sonic Boom (Lv 1)
-- Feint Attack (Lv 1)
-- Bide (Lv 1)
-- Mud-Slap (Lv 5)
-- Bulldoze (Lv 8)
-- Sand Tomb (Lv 12)
-- Rock Slide (Lv 15)
-- Supersonic (Lv 19)
-- Screech (Lv 22)
-- Stomping Tantrum (Lv 26)
-- Dragon Tail (Lv 28)
-- Breaking Swipe (Lv 30)
-- Earth Power (Lv 33)
-- Sandstorm (Lv 36)
-- Hyper Voice (Lv 38)
-- Dragon Dance (Lv 41)
-- Leech Life (Lv 43)
-- Attack Order (Lv 49)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv Evo)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 5)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 8)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 12)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 15)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 19)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 22)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 28)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv 30)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 33)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 36)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 38)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 41)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 43)
+- <a href="move-lookup.html?q=attack-order">Attack Order</a> (Lv 49)
 
 **Egg Moves**
-- Focus Energy
-- Quick Attack
-- Gust
-- Flail
-- Fury Cutter
-- Mud Shot
-- Endure
-- Earth Power
-- Bug Bite
-- Signal Beam
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fire Punch
-- Fury Cutter
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -475,31 +475,31 @@ Types: Bug / Dragon • Egg Groups: Bug / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM57 - Roost
-- TM60 - Dragon Dance
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Flygonite
@@ -520,56 +520,56 @@ Flygonite
 | Total | <span class="stat-value stat-high">625</span> |
 
 **Level-Up Moves**
-- Dragon Claw (Lv Evo)
-- Dragon Breath (Lv 1)
-- Dragon Dance (Lv 1)
-- Sand Attack (Lv 1)
-- Sonic Boom (Lv 1)
-- Feint Attack (Lv 1)
-- Bide (Lv 1)
-- Mud-Slap (Lv 5)
-- Bulldoze (Lv 8)
-- Sand Tomb (Lv 12)
-- Rock Slide (Lv 15)
-- Supersonic (Lv 19)
-- Screech (Lv 22)
-- Stomping Tantrum (Lv 26)
-- Dragon Tail (Lv 28)
-- Breaking Swipe (Lv 30)
-- Earth Power (Lv 33)
-- Sandstorm (Lv 36)
-- Hyper Voice (Lv 38)
-- Dragon Dance (Lv 41)
-- Leech Life (Lv 43)
-- Attack Order (Lv 49)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv Evo)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 5)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 8)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 12)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 15)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 19)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 22)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 28)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv 30)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 33)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 36)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 38)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 41)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 43)
+- <a href="move-lookup.html?q=attack-order">Attack Order</a> (Lv 49)
 
 **Egg Moves**
-- Focus Energy
-- Quick Attack
-- Gust
-- Flail
-- Fury Cutter
-- Mud Shot
-- Endure
-- Earth Power
-- Bug Bite
-- Signal Beam
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fire Punch
-- Fury Cutter
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

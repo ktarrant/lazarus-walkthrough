@@ -33,25 +33,25 @@ Types: Fire / Ground • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -72,55 +72,55 @@ Types: Fire / Ground • Egg Groups: Field
 | Total | <span class="stat-value stat-low">305</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Ember (Lv 5)
-- Focus Energy (Lv 8)
-- Magnitude (Lv 12)
-- Flame Burst (Lv 15)
-- Headbutt (Lv 17)
-- Amnesia (Lv 19)
-- Bulldoze (Lv 20)
-- Lava Plume (Lv 22)
-- Earth Power (Lv 26)
-- Curse (Lv 29)
-- Body Slam (Lv 31)
-- Yawn (Lv 34)
-- Scald (Lv 37)
-- Earthquake (Lv 40)
-- Flamethrower (Lv 43)
-- Double-Edge (Lv 47)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 8)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 12)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 15)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 17)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 19)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 20)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 22)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 26)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 29)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 31)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 34)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 37)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 40)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 43)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 47)
 
 **Egg Moves**
-- Howl
-- Scary Face
-- Body Slam
-- Rollout
-- Defense Curl
-- Stomp
-- Yawn
-- Ancient Power
-- Mud Bomb
-- Heat Wave
-- Stockpile
-- Swallow
-- Spit Up
-- Endure
-- Iron Head
-- Growth
-- Heavy Slam
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=iron-head">Iron Head</a>
+- <a href="move-lookup.html?q=growth">Growth</a>
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -182,25 +182,25 @@ Types: Fire / Ground • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 33
@@ -221,59 +221,59 @@ Lv. 33
 | Total | <span class="stat-value stat-mid">485</span> |
 
 **Level-Up Moves**
-- Rock Slide (Lv Evo)
-- Fissure (Lv 1)
-- Eruption (Lv 1)
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Ember (Lv 8)
-- Focus Energy (Lv 8)
-- Magnitude (Lv 12)
-- Flame Burst (Lv 15)
-- Headbutt (Lv 17)
-- Amnesia (Lv 19)
-- Bulldoze (Lv 20)
-- Lava Plume (Lv 22)
-- Earth Power (Lv 26)
-- Curse (Lv 29)
-- Body Slam (Lv 31)
-- Yawn (Lv 35)
-- Scald (Lv 39)
-- Earthquake (Lv 42)
-- Eruption (Lv 50)
-- Fissure (Lv 59)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv Evo)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 1)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 8)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 8)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 12)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 15)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 17)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 19)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 20)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 22)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 26)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 29)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 31)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 35)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 39)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 42)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 50)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 59)
 
 **Egg Moves**
-- Howl
-- Scary Face
-- Body Slam
-- Rollout
-- Defense Curl
-- Stomp
-- Yawn
-- Ancient Power
-- Mud Bomb
-- Heat Wave
-- Stockpile
-- Swallow
-- Spit Up
-- Endure
-- Iron Head
-- Growth
-- Heavy Slam
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=iron-head">Iron Head</a>
+- <a href="move-lookup.html?q=growth">Growth</a>
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -333,25 +333,25 @@ Types: Fire / Ground • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Cameruptite
@@ -372,59 +372,59 @@ Cameruptite
 | Total | <span class="stat-value stat-high">585</span> |
 
 **Level-Up Moves**
-- Rock Slide (Lv Evo)
-- Fissure (Lv 1)
-- Eruption (Lv 1)
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Ember (Lv 8)
-- Focus Energy (Lv 8)
-- Magnitude (Lv 12)
-- Flame Burst (Lv 15)
-- Headbutt (Lv 17)
-- Amnesia (Lv 19)
-- Bulldoze (Lv 20)
-- Lava Plume (Lv 22)
-- Earth Power (Lv 26)
-- Curse (Lv 29)
-- Body Slam (Lv 31)
-- Yawn (Lv 35)
-- Scald (Lv 39)
-- Earthquake (Lv 42)
-- Eruption (Lv 50)
-- Fissure (Lv 59)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv Evo)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 1)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 8)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 8)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 12)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 15)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 17)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 19)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 20)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 22)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 26)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 29)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 31)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 35)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 39)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 42)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 50)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 59)
 
 **Egg Moves**
-- Howl
-- Scary Face
-- Body Slam
-- Rollout
-- Defense Curl
-- Stomp
-- Yawn
-- Ancient Power
-- Mud Bomb
-- Heat Wave
-- Stockpile
-- Swallow
-- Spit Up
-- Endure
-- Iron Head
-- Growth
-- Heavy Slam
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=iron-head">Iron Head</a>
+- <a href="move-lookup.html?q=growth">Growth</a>
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

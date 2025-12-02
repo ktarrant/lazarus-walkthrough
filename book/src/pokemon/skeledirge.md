@@ -34,15 +34,15 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM28 - Dig
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -63,30 +63,30 @@ Types: Fire • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Round (Lv 7)
-- Bite (Lv 12)
-- Incinerate (Lv 15)
-- Yawn (Lv 17)
-- Snarl (Lv 21)
-- Roar (Lv 25)
-- Flamethrower (Lv 28)
-- Hyper Voice (Lv 32)
-- Fire Blast (Lv 36)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 7)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 12)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 15)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 17)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 21)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 25)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 28)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 32)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 36)
 
 **Egg Moves**
-- Belch
-- Curse
-- Encore
-- Slack Off
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=slack-off">Slack Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Mud-Slap
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -149,15 +149,15 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM28 - Dig
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
 
 **Evolution Info**
 Lv. 16
@@ -178,32 +178,32 @@ Lv. 16
 | Total | <span class="stat-value stat-mid">411</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Lick (Lv 7)
-- Round (Lv 10)
-- Bite (Lv 12)
-- Yawn (Lv 15)
-- Incinerate (Lv 17)
-- Snarl (Lv 24)
-- Roar (Lv 28)
-- Flamethrower (Lv 32)
-- Hyper Voice (Lv 38)
-- Will-O-Wisp (Lv 42)
-- Fire Blast (Lv 47)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 10)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 12)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 15)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 17)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 24)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 28)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 32)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 38)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 42)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 47)
 
 **Egg Moves**
-- Belch
-- Curse
-- Encore
-- Slack Off
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=slack-off">Slack Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Mud-Slap
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -271,19 +271,19 @@ Types: Fire / Ghost • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM26 - Earthquake
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
 
 **Evolution Info**
 Lv. 36
@@ -304,38 +304,38 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Torch Song (Lv Evo)
-- Sing (Lv 1)
-- Yawn (Lv 1)
-- Ember (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Lick (Lv 7)
-- Round (Lv 10)
-- Scary Face (Lv 12)
-- Bite (Lv 15)
-- Incinerate (Lv 17)
-- Snarl (Lv 24)
-- Roar (Lv 28)
-- Flamethrower (Lv 32)
-- Shadow Ball (Lv 38)
-- Hyper Voice (Lv 40)
-- Will-O-Wisp (Lv 43)
-- Hex (Lv 46)
-- Fire Blast (Lv 50)
-- Overheat (Lv 55)
+- <a href="move-lookup.html?q=torch-song">Torch Song</a> (Lv Evo)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 1)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 10)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 12)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 15)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 17)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 24)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 28)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 32)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 38)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 40)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 43)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 46)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 50)
+- <a href="move-lookup.html?q=overheat">Overheat</a> (Lv 55)
 
 **Egg Moves**
-- Belch
-- Curse
-- Encore
-- Slack Off
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=slack-off">Slack Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Mud-Slap
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>

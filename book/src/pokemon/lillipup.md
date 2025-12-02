@@ -27,23 +27,23 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (20%)
@@ -68,43 +68,43 @@ Types: Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-low">275</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Tackle (Lv 1)
-- Odor Sleuth (Lv 5)
-- Bite (Lv 8)
-- Baby-Doll Eyes (Lv 10)
-- Helping Hand (Lv 12)
-- Take Down (Lv 15)
-- Work Up (Lv 19)
-- Crunch (Lv 22)
-- Roar (Lv 26)
-- Retaliate (Lv 29)
-- Reversal (Lv 33)
-- Last Resort (Lv 36)
-- Giga Impact (Lv 40)
-- Play Rough (Lv 45)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 8)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 10)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 12)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 15)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 19)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 22)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 26)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 29)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 33)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 36)
+- <a href="move-lookup.html?q=giga-impact">Giga Impact</a> (Lv 40)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 45)
 
 **Egg Moves**
-- Howl
-- Sand Attack
-- Mud-Slap
-- Lick
-- Charm
-- Endure
-- Yawn
-- Pursuit
-- Fire Fang
-- Thunder Fang
-- Ice Fang
-- After You
-- Psychic Fangs
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=after-you">After You</a>
+- <a href="move-lookup.html?q=psychic-fangs">Psychic Fangs</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -160,25 +160,25 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 16
@@ -199,44 +199,44 @@ Lv. 16
 | Total | <span class="stat-value stat-mid">370</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Tackle (Lv 1)
-- Odor Sleuth (Lv 5)
-- Bite (Lv 8)
-- Helping Hand (Lv 12)
-- Take Down (Lv 15)
-- Work Up (Lv 20)
-- Crunch (Lv 24)
-- Roar (Lv 27)
-- Bulldoze (Lv 29)
-- Retaliate (Lv 33)
-- Reversal (Lv 37)
-- High Horsepower (Lv 39)
-- Last Resort (Lv 42)
-- Lunge (Lv 46)
-- Play Rough (Lv 50)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 8)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 12)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 15)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 20)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 24)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 27)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 29)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 33)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 37)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 39)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 42)
+- <a href="move-lookup.html?q=lunge">Lunge</a> (Lv 46)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 50)
 
 **Egg Moves**
-- Howl
-- Sand Attack
-- Mud-Slap
-- Lick
-- Charm
-- Endure
-- Yawn
-- Pursuit
-- Fire Fang
-- Thunder Fang
-- Ice Fang
-- After You
-- Psychic Fangs
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=after-you">After You</a>
+- <a href="move-lookup.html?q=psychic-fangs">Psychic Fangs</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -292,26 +292,26 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 32
@@ -332,48 +332,48 @@ Lv. 32
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Body Slam (Lv Evo)
-- Ice Fang (Lv 1)
-- Fire Fang (Lv 1)
-- Thunder Fang (Lv 1)
-- Leer (Lv 1)
-- Tackle (Lv 1)
-- Odor Sleuth (Lv 5)
-- Bite (Lv 8)
-- Helping Hand (Lv 12)
-- Take Down (Lv 15)
-- Work Up (Lv 20)
-- Crunch (Lv 24)
-- Roar (Lv 27)
-- Bulldoze (Lv 29)
-- Retaliate (Lv 33)
-- Reversal (Lv 37)
-- High Horsepower (Lv 39)
-- Last Resort (Lv 42)
-- Lunge (Lv 46)
-- Play Rough (Lv 50)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv Evo)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 8)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 12)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 15)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 20)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 24)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 27)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 29)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 33)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 37)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 39)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 42)
+- <a href="move-lookup.html?q=lunge">Lunge</a> (Lv 46)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 50)
 
 **Egg Moves**
-- Howl
-- Sand Attack
-- Mud-Slap
-- Lick
-- Charm
-- Endure
-- Yawn
-- Pursuit
-- Fire Fang
-- Thunder Fang
-- Ice Fang
-- After You
-- Psychic Fangs
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=after-you">After You</a>
+- <a href="move-lookup.html?q=psychic-fangs">Psychic Fangs</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

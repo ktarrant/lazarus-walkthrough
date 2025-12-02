@@ -32,23 +32,23 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM01 - Cut
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Pythios Town — Grass (Day) (20%)
@@ -70,37 +70,37 @@ Types: Normal / Flying • Egg Groups: Flying
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Level-Up Moves**
-- Peck (Lv 1)
-- Leer (Lv 1)
-- Fury Attack (Lv 5)
-- Wing Attack (Lv 10)
-- Hone Claws (Lv 14)
-- Twister (Lv 17)
-- Scary Face (Lv 19)
-- Aerial Ace (Lv 23)
-- Rock Smash (Lv 25)
-- Slash (Lv 28)
-- Defog (Lv 32)
-- Tailwind (Lv 37)
-- Dual Wingbeat (Lv 41)
-- Crush Claw (Lv 46)
-- Sky Drop (Lv 50)
-- Whirlwind (Lv 55)
-- Brave Bird (Lv 59)
-- Thrash (Lv 64)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 14)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 19)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 28)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 32)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 37)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 41)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 46)
+- <a href="move-lookup.html?q=sky-drop">Sky Drop</a> (Lv 50)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 55)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 59)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 64)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -161,23 +161,23 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM01 - Cut
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34, Day
@@ -202,41 +202,41 @@ Lv. 34, Day
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Superpower (Lv Evo)
-- Thrash (Lv 1)
-- Brave Bird (Lv 1)
-- Whirlwind (Lv 1)
-- Peck (Lv 1)
-- Leer (Lv 1)
-- Fury Attack (Lv 5)
-- Wing Attack (Lv 10)
-- Hone Claws (Lv 14)
-- Twister (Lv 17)
-- Scary Face (Lv 19)
-- Aerial Ace (Lv 23)
-- Rock Smash (Lv 25)
-- Slash (Lv 28)
-- Defog (Lv 32)
-- Tailwind (Lv 37)
-- Dual Wingbeat (Lv 41)
-- Crush Claw (Lv 46)
-- Sky Drop (Lv 50)
-- Whirlwind (Lv 55)
-- Brave Bird (Lv 59)
-- Thrash (Lv 64)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv Evo)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 1)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 1)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 14)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 19)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 28)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 32)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 37)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 41)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 46)
+- <a href="move-lookup.html?q=sky-drop">Sky Drop</a> (Lv 50)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 55)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 59)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 64)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -299,23 +299,23 @@ Types: Psychic / Flying • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM54 - Dazzling Gleam
-- TM55 - Snarl
-- TM57 - Roost
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34, Night
@@ -340,39 +340,39 @@ Lv. 34, Night
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Esper Wing (Lv Evo)
-- Ice Beam (Lv 1)
-- Hurricane (Lv 1)
-- Whirlwind (Lv 1)
-- Peck (Lv 1)
-- Leer (Lv 1)
-- Fury Attack (Lv 5)
-- Wing Attack (Lv 10)
-- Hone Claws (Lv 14)
-- Twister (Lv 17)
-- Scary Face (Lv 19)
-- Aerial Ace (Lv 23)
-- Rock Smash (Lv 25)
-- Slash (Lv 28)
-- Defog (Lv 32)
-- Tailwind (Lv 35)
-- Air Slash (Lv 37)
-- Aurora Beam (Lv 41)
-- Calm Mind (Lv 46)
-- Frost Breath (Lv 50)
-- Whirlwind (Lv 55)
-- Hurricane (Lv 59)
-- Ice Beam (Lv 64)
+- <a href="move-lookup.html?q=esper-wing">Esper Wing</a> (Lv Evo)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 1)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 14)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 19)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 28)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 32)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 35)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 37)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 41)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 46)
+- <a href="move-lookup.html?q=frost-breath">Frost Breath</a> (Lv 50)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 55)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 59)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 64)
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -31,20 +31,20 @@ Types: Bug / Ground • Egg Groups: Bug
 - Flying (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Soft Sand
@@ -70,36 +70,36 @@ Soft Sand
 | Total | <span class="stat-value stat-low">266</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Harden (Lv 1)
-- Absorb (Lv 5)
-- Sand Attack (Lv 9)
-- Fury Swipes (Lv 13)
-- Mud-Slap (Lv 17)
-- Metal Claw (Lv 21)
-- Mind Reader (Lv 25)
-- Bide (Lv 29)
-- False Swipe (Lv 33)
-- Dig (Lv 37)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 17)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 21)
+- <a href="move-lookup.html?q=mind-reader">Mind Reader</a> (Lv 25)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 29)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 33)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 37)
 
 **Egg Moves**
-- Endure
-- Feint Attack
-- Gust
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Bug Bite
-- Final Gambit
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -163,23 +163,23 @@ Types: Bug / Dark • Egg Groups: Bug
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM57 - Roost
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 20
@@ -203,50 +203,50 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">466</span> |
 
 **Level-Up Moves**
-- Fury Cutter (Lv Evo)
-- Screech (Lv Evo)
-- Double Team (Lv Evo)
-- Bug Bite (Lv 1)
-- Scratch (Lv 1)
-- Harden (Lv 1)
-- Absorb (Lv 5)
-- Sand Attack (Lv 9)
-- Fury Swipes (Lv 13)
-- Agility (Lv 17)
-- Slash (Lv 23)
-- Night Slash (Lv 25)
-- Fell Stinger (Lv 27)
-- Mind Reader (Lv 29)
-- X-Scissor (Lv 33)
-- Quiver Dance (Lv 35)
-- Baton Pass (Lv 35)
-- Knock Off (Lv 37)
-- Swords Dance (Lv 41)
-- Foul Play (Lv 43)
-- Attack Order (Lv 47)
-- Defend Order (Lv 47)
-- Heal Order (Lv 47)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv Evo)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv Evo)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv Evo)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 17)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 23)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 25)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 27)
+- <a href="move-lookup.html?q=mind-reader">Mind Reader</a> (Lv 29)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 33)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 35)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 35)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 37)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 41)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 43)
+- <a href="move-lookup.html?q=attack-order">Attack Order</a> (Lv 47)
+- <a href="move-lookup.html?q=defend-order">Defend Order</a> (Lv 47)
+- <a href="move-lookup.html?q=heal-order">Heal Order</a> (Lv 47)
 
 **Egg Moves**
-- Endure
-- Feint Attack
-- Gust
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Bug Bite
-- Final Gambit
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

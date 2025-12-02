@@ -28,20 +28,20 @@ Types: Psychic • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (20%)
@@ -65,28 +65,28 @@ Types: Psychic • Egg Groups: Flying
 | Total | <span class="stat-value stat-low">285</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Peck (Lv 1)
-- Confusion (Lv 5)
-- Baby-Doll Eyes (Lv 8)
-- Disarming Voice (Lv 11)
-- Quick Attack (Lv 14)
-- Teeter Dance (Lv 17)
-- Psybeam (Lv 19)
-- Pluck (Lv 24)
-- Agility (Lv 29)
-- Uproar (Lv 34)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 8)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 14)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 17)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 19)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 24)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 29)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 34)
 
 **Egg Moves**
-- Ally Switch
-- Hypnosis
-- Roost
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -145,24 +145,24 @@ Types: Psychic • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Evolution Info**
 Lv. 30
@@ -187,38 +187,38 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">501</span> |
 
 **Level-Up Moves**
-- Lumina Crash (Lv Evo)
-- Growl (Lv 1)
-- Peck (Lv 1)
-- Drill Peck (Lv 1)
-- Feather Dance (Lv 1)
-- Confusion (Lv 5)
-- Baby-Doll Eyes (Lv 8)
-- Disarming Voice (Lv 11)
-- Quick Attack (Lv 14)
-- Teeter Dance (Lv 17)
-- Psybeam (Lv 19)
-- Pluck (Lv 24)
-- Agility (Lv 29)
-- Uproar (Lv 34)
-- Dazzling Gleam (Lv 37)
-- Psychic (Lv 43)
-- No Retreat (Lv 45)
-- Last Resort (Lv 50)
+- <a href="move-lookup.html?q=lumina-crash">Lumina Crash</a> (Lv Evo)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 8)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 14)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 17)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 19)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 24)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 29)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 34)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 37)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 43)
+- <a href="move-lookup.html?q=no-retreat">No Retreat</a> (Lv 45)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 50)
 
 **Egg Moves**
-- Ally Switch
-- Hypnosis
-- Roost
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -32,30 +32,30 @@ Types: Poison / Bug • Egg Groups: Water 3 / Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Poison Barb
@@ -81,46 +81,46 @@ Poison Barb
 | Total | <span class="stat-value stat-mid">360</span> |
 
 **Level-Up Moves**
-- Bite (Lv 1)
-- Poison Sting (Lv 1)
-- Leer (Lv 1)
-- Knock Off (Lv 5)
-- Fell Stinger (Lv 9)
-- Acupressure (Lv 13)
-- Pursuit (Lv 16)
-- Bug Bite (Lv 20)
-- Poison Fang (Lv 23)
-- Venoshock (Lv 27)
-- Hone Claws (Lv 30)
-- Toxic Spikes (Lv 34)
-- Night Slash (Lv 38)
-- Scary Face (Lv 41)
-- Crunch (Lv 45)
-- Ceaseless Edge (Lv 47)
-- Cross Poison (Lv 49)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 5)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 9)
+- <a href="move-lookup.html?q=acupressure">Acupressure</a> (Lv 13)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 16)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=venoshock">Venoshock</a> (Lv 27)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 30)
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a> (Lv 34)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 38)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 41)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 45)
+- <a href="move-lookup.html?q=ceaseless-edge">Ceaseless Edge</a> (Lv 47)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 49)
 
 **Egg Moves**
-- Feint Attack
-- Screech
-- Sand Attack
-- Slash
-- Confuse Ray
-- Whirlwind
-- Agility
-- Pursuit
-- Night Slash
-- Iron Tail
-- Twineedle
-- Poison Tail
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=slash">Slash</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
 
 **Tutor Moves**
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -180,33 +180,33 @@ Types: Poison / Dark • Egg Groups: Water 3 / Bug
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Poison Barb
@@ -233,50 +233,50 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Thunder Fang (Lv 1)
-- Ice Fang (Lv 1)
-- Fire Fang (Lv 1)
-- Bite (Lv 1)
-- Poison Sting (Lv 1)
-- Leer (Lv 1)
-- Knock Off (Lv 5)
-- Fell Stinger (Lv 9)
-- Acupressure (Lv 13)
-- Pursuit (Lv 16)
-- Bug Bite (Lv 20)
-- Poison Fang (Lv 23)
-- Venoshock (Lv 27)
-- Hone Claws (Lv 30)
-- Toxic Spikes (Lv 34)
-- Night Slash (Lv 38)
-- Scary Face (Lv 41)
-- Crunch (Lv 45)
-- Ceaseless Edge (Lv 47)
-- Cross Poison (Lv 49)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 5)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 9)
+- <a href="move-lookup.html?q=acupressure">Acupressure</a> (Lv 13)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 16)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=venoshock">Venoshock</a> (Lv 27)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 30)
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a> (Lv 34)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 38)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 41)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 45)
+- <a href="move-lookup.html?q=ceaseless-edge">Ceaseless Edge</a> (Lv 47)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 49)
 
 **Egg Moves**
-- Feint Attack
-- Screech
-- Sand Attack
-- Slash
-- Confuse Ray
-- Whirlwind
-- Agility
-- Pursuit
-- Night Slash
-- Iron Tail
-- Twineedle
-- Poison Tail
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=slash">Slash</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
 
 **Tutor Moves**
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

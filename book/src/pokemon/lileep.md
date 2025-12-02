@@ -28,20 +28,20 @@ Types: Rock / Grass • Egg Groups: Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Big Root
@@ -67,46 +67,46 @@ Big Root
 | Total | <span class="stat-value stat-mid">360</span> |
 
 **Level-Up Moves**
-- Astonish (Lv 1)
-- Constrict (Lv 1)
-- Acid (Lv 5)
-- Ingrain (Lv 9)
-- Confuse Ray (Lv 13)
-- Ancient Power (Lv 17)
-- Brine (Lv 21)
-- Giga Drain (Lv 25)
-- Gastro Acid (Lv 31)
-- Amnesia (Lv 34)
-- Salt Cure (Lv 37)
-- Energy Ball (Lv 41)
-- Stockpile (Lv 46)
-- Spit Up (Lv 46)
-- Swallow (Lv 46)
-- Flower Trick (Lv 49)
-- Wring Out (Lv 52)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 1)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 5)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 9)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 13)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 17)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 21)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 25)
+- <a href="move-lookup.html?q=gastro-acid">Gastro Acid</a> (Lv 31)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 34)
+- <a href="move-lookup.html?q=salt-cure">Salt Cure</a> (Lv 37)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 41)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 46)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 46)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 46)
+- <a href="move-lookup.html?q=flower-trick">Flower Trick</a> (Lv 49)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 52)
 
 **Egg Moves**
-- Barrier
-- Recover
-- Mirror Coat
-- Wring Out
-- Tickle
-- Curse
-- Mega Drain
-- Endure
-- Stealth Rock
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=recover">Recover</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=wring-out">Wring Out</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -165,25 +165,25 @@ Types: Rock / Grass • Egg Groups: Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Big Root
@@ -207,47 +207,47 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Wring Out (Lv 1)
-- Astonish (Lv 1)
-- Constrict (Lv 1)
-- Acid (Lv 5)
-- Ingrain (Lv 9)
-- Confuse Ray (Lv 13)
-- Ancient Power (Lv 17)
-- Brine (Lv 21)
-- Giga Drain (Lv 25)
-- Gastro Acid (Lv 31)
-- Amnesia (Lv 34)
-- Salt Cure (Lv 37)
-- Energy Ball (Lv 41)
-- Stockpile (Lv 46)
-- Spit Up (Lv 46)
-- Swallow (Lv 46)
-- Flower Trick (Lv 49)
-- Wring Out (Lv 52)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 1)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 5)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 9)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 13)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 17)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 21)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 25)
+- <a href="move-lookup.html?q=gastro-acid">Gastro Acid</a> (Lv 31)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 34)
+- <a href="move-lookup.html?q=salt-cure">Salt Cure</a> (Lv 37)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 41)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 46)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 46)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 46)
+- <a href="move-lookup.html?q=flower-trick">Flower Trick</a> (Lv 49)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 52)
 
 **Egg Moves**
-- Barrier
-- Recover
-- Mirror Coat
-- Wring Out
-- Tickle
-- Curse
-- Mega Drain
-- Endure
-- Stealth Rock
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=recover">Recover</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=wring-out">Wring Out</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -30,32 +30,32 @@ Types: Poison • Egg Groups: Amorphous
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- HM04 - Strength
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
 
 **Held Item**
 Black Sludge
@@ -80,53 +80,53 @@ Black Sludge
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Poison Gas (Lv 1)
-- Harden (Lv 4)
-- Mud-Slap (Lv 7)
-- Disable (Lv 12)
-- Sludge (Lv 15)
-- Mud Bomb (Lv 18)
-- Minimize (Lv 21)
-- Poison Fang (Lv 26)
-- Sludge Bomb (Lv 29)
-- Fire Punch (Lv 32)
-- Screech (Lv 37)
-- Gunk Shot (Lv 40)
-- Acid Armor (Lv 43)
-- Belch (Lv 46)
-- Memento (Lv 48)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 12)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 15)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 18)
+- <a href="move-lookup.html?q=minimize">Minimize</a> (Lv 21)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 26)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 29)
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 37)
+- <a href="move-lookup.html?q=gunk-shot">Gunk Shot</a> (Lv 40)
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a> (Lv 43)
+- <a href="move-lookup.html?q=belch">Belch</a> (Lv 46)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 48)
 
 **Egg Moves**
-- Haze
-- Mean Look
-- Lick
-- Imprison
-- Curse
-- Shadow Punch
-- Shadow Sneak
-- Stockpile
-- Swallow
-- Spit Up
-- Scary Face
-- Acid Spray
-- Power-Up Punch
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=imprison">Imprison</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=shadow-punch">Shadow Punch</a>
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Dynamic Punch
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Metronome
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -187,35 +187,35 @@ Types: Poison • Egg Groups: Amorphous
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Black Sludge
@@ -242,55 +242,55 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Venom Drench (Lv Evo)
-- Pound (Lv 1)
-- Poison Gas (Lv 1)
-- Harden (Lv 4)
-- Mud-Slap (Lv 7)
-- Disable (Lv 12)
-- Sludge (Lv 15)
-- Mud Bomb (Lv 18)
-- Minimize (Lv 21)
-- Poison Fang (Lv 26)
-- Sludge Bomb (Lv 29)
-- Fire Punch (Lv 32)
-- Screech (Lv 37)
-- Gunk Shot (Lv 40)
-- Acid Armor (Lv 46)
-- Belch (Lv 52)
-- Memento (Lv 57)
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a> (Lv Evo)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 12)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 15)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 18)
+- <a href="move-lookup.html?q=minimize">Minimize</a> (Lv 21)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 26)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 29)
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 37)
+- <a href="move-lookup.html?q=gunk-shot">Gunk Shot</a> (Lv 40)
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a> (Lv 46)
+- <a href="move-lookup.html?q=belch">Belch</a> (Lv 52)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 57)
 
 **Egg Moves**
-- Haze
-- Mean Look
-- Lick
-- Imprison
-- Curse
-- Shadow Punch
-- Shadow Sneak
-- Stockpile
-- Swallow
-- Spit Up
-- Scary Face
-- Acid Spray
-- Power-Up Punch
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=imprison">Imprison</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=shadow-punch">Shadow Punch</a>
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Dynamic Punch
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Metronome
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

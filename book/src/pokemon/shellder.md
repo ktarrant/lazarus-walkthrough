@@ -29,21 +29,21 @@ Types: Water • Egg Groups: Water 3
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Pearl
@@ -80,51 +80,51 @@ Pearl
 | Total | <span class="stat-value stat-low">305</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Water Gun (Lv 1)
-- Withdraw (Lv 4)
-- Supersonic (Lv 8)
-- Icicle Spear (Lv 13)
-- Protect (Lv 16)
-- Leer (Lv 20)
-- Clamp (Lv 23)
-- Ice Shard (Lv 26)
-- Razor Shell (Lv 29)
-- Spike Cannon (Lv 32)
-- Spikes (Lv 35)
-- Aurora Beam (Lv 37)
-- Whirlpool (Lv 39)
-- Icicle Spear (Lv 42)
-- Brine (Lv 44)
-- Iron Defense (Lv 47)
-- Icicle Crash (Lv 50)
-- Ice Beam (Lv 52)
-- Shell Smash (Lv 56)
-- Hydro Pump (Lv 61)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 4)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 8)
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a> (Lv 13)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 16)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 20)
+- <a href="move-lookup.html?q=clamp">Clamp</a> (Lv 23)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 26)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 29)
+- <a href="move-lookup.html?q=spike-cannon">Spike Cannon</a> (Lv 32)
+- <a href="move-lookup.html?q=spikes">Spikes</a> (Lv 35)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 37)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 39)
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a> (Lv 42)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 44)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 47)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 50)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 52)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 56)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 61)
 
 **Egg Moves**
-- Bubble Beam
-- Take Down
-- Barrier
-- Rapid Spin
-- Screech
-- Icicle Spear
-- Mud Shot
-- Rock Blast
-- Water Pulse
-- Aqua Ring
-- Avalanche
-- Twineedle
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a>
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -184,25 +184,25 @@ Types: Water / Ice • Egg Groups: Water 3
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM32 - Double Team
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM52 - Frost Breath
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Pearl
@@ -230,53 +230,53 @@ Water Stone
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Spike Cannon (Lv Evo)
-- Tackle (Lv 1)
-- Water Gun (Lv 1)
-- Withdraw (Lv 4)
-- Supersonic (Lv 8)
-- Icicle Spear (Lv 13)
-- Protect (Lv 16)
-- Leer (Lv 20)
-- Clamp (Lv 23)
-- Ice Shard (Lv 26)
-- Razor Shell (Lv 29)
-- Spike Cannon (Lv 32)
-- Spikes (Lv 35)
-- Aurora Beam (Lv 37)
-- Whirlpool (Lv 39)
-- Icicle Spear (Lv 42)
-- Brine (Lv 44)
-- Iron Defense (Lv 47)
-- Icicle Crash (Lv 50)
-- Ice Beam (Lv 52)
-- Shell Smash (Lv 56)
-- Hydro Pump (Lv 61)
+- <a href="move-lookup.html?q=spike-cannon">Spike Cannon</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 4)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 8)
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a> (Lv 13)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 16)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 20)
+- <a href="move-lookup.html?q=clamp">Clamp</a> (Lv 23)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 26)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 29)
+- <a href="move-lookup.html?q=spike-cannon">Spike Cannon</a> (Lv 32)
+- <a href="move-lookup.html?q=spikes">Spikes</a> (Lv 35)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 37)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 39)
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a> (Lv 42)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 44)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 47)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 50)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 52)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 56)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 61)
 
 **Egg Moves**
-- Bubble Beam
-- Take Down
-- Barrier
-- Rapid Spin
-- Screech
-- Icicle Spear
-- Mud Shot
-- Rock Blast
-- Water Pulse
-- Aqua Ring
-- Avalanche
-- Twineedle
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a>
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

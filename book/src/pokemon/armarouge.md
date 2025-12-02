@@ -34,13 +34,13 @@ Types: Fire • Egg Groups: Human-Like
 - Rock (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Day) (5%)
@@ -63,25 +63,25 @@ Types: Fire • Egg Groups: Human-Like
 | Total | <span class="stat-value stat-low">255</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Astonish (Lv 1)
-- Clear Smog (Lv 8)
-- Fire Spin (Lv 12)
-- Will-O-Wisp (Lv 16)
-- Night Shade (Lv 20)
-- Flame Charge (Lv 24)
-- Incinerate (Lv 28)
-- Lava Plume (Lv 32)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a> (Lv 8)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 12)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 16)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 20)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 24)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 28)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 32)
 
 **Egg Moves**
-- Destiny Bond
-- Disable
-- Spite
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -147,22 +147,22 @@ Types: Fire / Psychic • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Auspicious Armor
@@ -186,36 +186,36 @@ Auspicious Armor
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Psyshock (Lv Evo)
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Mystical Fire (Lv 1)
-- Astonish (Lv 1)
-- Wide Guard (Lv 1)
-- Clear Smog (Lv 8)
-- Fire Spin (Lv 12)
-- Will-O-Wisp (Lv 16)
-- Night Shade (Lv 20)
-- Flame Charge (Lv 24)
-- Incinerate (Lv 28)
-- Lava Plume (Lv 32)
-- Aura Sphere (Lv 34)
-- Calm Mind (Lv 37)
-- Ally Switch (Lv 39)
-- Flamethrower (Lv 41)
-- Expanding Force (Lv 45)
-- Armor Cannon (Lv 50)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv Evo)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=mystical-fire">Mystical Fire</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a> (Lv 1)
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a> (Lv 8)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 12)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 16)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 20)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 24)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 28)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 32)
+- <a href="move-lookup.html?q=aura-sphere">Aura Sphere</a> (Lv 34)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 37)
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a> (Lv 39)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 41)
+- <a href="move-lookup.html?q=expanding-force">Expanding Force</a> (Lv 45)
+- <a href="move-lookup.html?q=armor-cannon">Armor Cannon</a> (Lv 50)
 
 **Egg Moves**
-- Destiny Bond
-- Disable
-- Spite
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
 
 **Tutor Moves**
-- Acid Spray
-- Endure
-- Psych Up
-- Sleep Talk
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -283,22 +283,22 @@ Types: Fire / Ghost • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
 
 **Evolution Info**
 Malicious Armor
@@ -322,38 +322,38 @@ Malicious Armor
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Shadow Claw (Lv Evo)
-- Night Slash (Lv 1)
-- Shadow Sneak (Lv 1)
-- Quick Guard (Lv 1)
-- Solar Blade (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Astonish (Lv 1)
-- Clear Smog (Lv 8)
-- Fire Spin (Lv 12)
-- Will-O-Wisp (Lv 16)
-- Night Shade (Lv 20)
-- Flame Charge (Lv 24)
-- Incinerate (Lv 28)
-- Lava Plume (Lv 32)
-- Sacred Sword (Lv 34)
-- Swords Dance (Lv 37)
-- Ally Switch (Lv 39)
-- Bitter Blade (Lv 41)
-- Psycho Cut (Lv 45)
-- Flare Blitz (Lv 50)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv Evo)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a> (Lv 1)
+- <a href="move-lookup.html?q=solar-blade">Solar Blade</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a> (Lv 8)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 12)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 16)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 20)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 24)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 28)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 32)
+- <a href="move-lookup.html?q=sacred-sword">Sacred Sword</a> (Lv 34)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 37)
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a> (Lv 39)
+- <a href="move-lookup.html?q=bitter-blade">Bitter Blade</a> (Lv 41)
+- <a href="move-lookup.html?q=psycho-cut">Psycho Cut</a> (Lv 45)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 50)
 
 **Egg Moves**
-- Destiny Bond
-- Disable
-- Spite
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
 
 **Tutor Moves**
-- Endure
-- Psych Up
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -29,35 +29,35 @@ Types: Water • Egg Groups: Water 1 / Field
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM29 - Psychic
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM56 - Scald
-- HM03 - Surf
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Corrin Crossing — Fishing (60%)
@@ -89,58 +89,58 @@ Types: Water • Egg Groups: Water 1 / Field
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Water Sport (Lv 1)
-- Scratch (Lv 1)
-- Tail Whip (Lv 4)
-- Water Gun (Lv 7)
-- Confusion (Lv 10)
-- Fury Swipes (Lv 13)
-- Water Pulse (Lv 16)
-- Disable (Lv 19)
-- Screech (Lv 22)
-- Zen Headbutt (Lv 25)
-- Aqua Tail (Lv 28)
-- Soak (Lv 31)
-- Psych Up (Lv 34)
-- Amnesia (Lv 37)
-- Hydro Pump (Lv 40)
-- Wonder Room (Lv 43)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 7)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 16)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 19)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 22)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 25)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 28)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 31)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 34)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 37)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 40)
+- <a href="move-lookup.html?q=wonder-room">Wonder Room</a> (Lv 43)
 
 **Egg Moves**
-- Hypnosis
-- Psybeam
-- Foresight
-- Future Sight
-- Cross Chop
-- Refresh
-- Confuse Ray
-- Yawn
-- Mud Bomb
-- Encore
-- Secret Power
-- Sleep Talk
-- Synchronoise
-- Simple Beam
-- Clear Smog
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=future-sight">Future Sight</a>
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a>
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=simple-beam">Simple Beam</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -205,35 +205,35 @@ Types: Water / Psychic • Egg Groups: Water 1 / Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM29 - Psychic
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM56 - Scald
-- HM03 - Surf
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 27
@@ -261,66 +261,66 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Uproar (Lv Evo)
-- Aqua Jet (Lv 1)
-- Me First (Lv 1)
-- Water Sport (Lv 1)
-- Scratch (Lv 1)
-- Tail Whip (Lv 4)
-- Water Gun (Lv 7)
-- Confusion (Lv 10)
-- Fury Swipes (Lv 13)
-- Water Pulse (Lv 16)
-- Disable (Lv 19)
-- Screech (Lv 22)
-- Zen Headbutt (Lv 25)
-- Aqua Tail (Lv 28)
-- Aqua Jet (Lv 30)
-- Psybeam (Lv 32)
-- Psych Up (Lv 34)
-- Amnesia (Lv 37)
-- Sparkling Aria (Lv 40)
-- Hyper Voice (Lv 43)
-- Hydro Pump (Lv 45)
-- Wonder Room (Lv 46)
-- Psychic (Lv 49)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv Evo)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 1)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 1)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 7)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 16)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 19)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 22)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 25)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 28)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 30)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 32)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 34)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 37)
+- <a href="move-lookup.html?q=sparkling-aria">Sparkling Aria</a> (Lv 40)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 43)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 45)
+- <a href="move-lookup.html?q=wonder-room">Wonder Room</a> (Lv 46)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 49)
 
 **Egg Moves**
-- Hypnosis
-- Psybeam
-- Foresight
-- Future Sight
-- Cross Chop
-- Refresh
-- Confuse Ray
-- Yawn
-- Mud Bomb
-- Encore
-- Secret Power
-- Sleep Talk
-- Synchronoise
-- Simple Beam
-- Clear Smog
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=future-sight">Future Sight</a>
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a>
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=simple-beam">Simple Beam</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fury Cutter
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

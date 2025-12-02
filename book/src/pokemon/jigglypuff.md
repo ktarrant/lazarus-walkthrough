@@ -31,29 +31,29 @@ Types: Normal / Fairy • Egg Groups: -
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Kipos Town — Grass (Day) (20%)
@@ -74,46 +74,46 @@ Types: Normal / Fairy • Egg Groups: -
 | Total | <span class="stat-value stat-low">215</span> |
 
 **Level-Up Moves**
-- Sing (Lv 1)
-- Charm (Lv 1)
-- Defense Curl (Lv 3)
-- Pound (Lv 5)
-- Sweet Kiss (Lv 9)
-- Copycat (Lv 11)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 1)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 3)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 5)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 9)
+- <a href="move-lookup.html?q=copycat">Copycat</a> (Lv 11)
 
 **Egg Moves**
-- Perish Song
-- Present
-- Feint Attack
-- Wish
-- Fake Tears
-- Last Resort
-- Covet
-- Gravity
-- Sleep Talk
-- Captivate
-- Punishment
-- Misty Terrain
-- Heal Pulse
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=present">Present</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=gravity">Gravity</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dream Eater
-- Endure
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -173,43 +173,43 @@ Types: Normal / Fairy • Egg Groups: Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Moon Stone
@@ -237,64 +237,64 @@ Lv. 12
 | Total | <span class="stat-value stat-low">275</span> |
 
 **Level-Up Moves**
-- Sing (Lv 1)
-- Defense Curl (Lv 3)
-- Pound (Lv 5)
-- Play Nice (Lv 9)
-- Disarming Voice (Lv 11)
-- Disable (Lv 14)
-- Double Slap (Lv 17)
-- Rollout (Lv 20)
-- Round (Lv 22)
-- Stockpile (Lv 25)
-- Swallow (Lv 25)
-- Spit Up (Lv 25)
-- Wake-Up Slap (Lv 27)
-- Rest (Lv 30)
-- Body Slam (Lv 32)
-- Gyro Ball (Lv 35)
-- Mimic (Lv 38)
-- Hyper Voice (Lv 41)
-- Double-Edge (Lv 45)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 3)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 5)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 9)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 14)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 17)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 20)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 22)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 25)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 25)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 25)
+- <a href="move-lookup.html?q=wake-up-slap">Wake-Up Slap</a> (Lv 27)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 30)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 35)
+- <a href="move-lookup.html?q=mimic">Mimic</a> (Lv 38)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 41)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 45)
 
 **Egg Moves**
-- Perish Song
-- Present
-- Feint Attack
-- Wish
-- Fake Tears
-- Last Resort
-- Covet
-- Gravity
-- Sleep Talk
-- Captivate
-- Punishment
-- Misty Terrain
-- Heal Pulse
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=present">Present</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=gravity">Gravity</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dream Eater
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -354,43 +354,43 @@ Types: Normal / Fairy • Egg Groups: Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Moon Stone
@@ -417,65 +417,65 @@ Moon Stone
 | Total | <span class="stat-value stat-mid">435</span> |
 
 **Level-Up Moves**
-- Spirit Break (Lv Evo)
-- Sing (Lv 1)
-- Defense Curl (Lv 3)
-- Pound (Lv 5)
-- Play Nice (Lv 9)
-- Disarming Voice (Lv 11)
-- Disable (Lv 14)
-- Double Slap (Lv 17)
-- Rollout (Lv 20)
-- Round (Lv 22)
-- Stockpile (Lv 25)
-- Swallow (Lv 25)
-- Spit Up (Lv 25)
-- Wake-Up Slap (Lv 27)
-- Rest (Lv 30)
-- Body Slam (Lv 32)
-- Gyro Ball (Lv 35)
-- Mimic (Lv 38)
-- Hyper Voice (Lv 41)
-- Double-Edge (Lv 45)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv Evo)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 3)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 5)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 9)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 11)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 14)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 17)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 20)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 22)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 25)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 25)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 25)
+- <a href="move-lookup.html?q=wake-up-slap">Wake-Up Slap</a> (Lv 27)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 30)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 35)
+- <a href="move-lookup.html?q=mimic">Mimic</a> (Lv 38)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 41)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 45)
 
 **Egg Moves**
-- Perish Song
-- Present
-- Feint Attack
-- Wish
-- Fake Tears
-- Last Resort
-- Covet
-- Gravity
-- Sleep Talk
-- Captivate
-- Punishment
-- Misty Terrain
-- Heal Pulse
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=present">Present</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=gravity">Gravity</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dream Eater
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

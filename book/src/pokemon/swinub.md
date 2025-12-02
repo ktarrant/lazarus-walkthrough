@@ -32,24 +32,24 @@ Types: Ice / Ground • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Froslass Cavern BF1 — Grass (Day) (8%)
@@ -72,49 +72,49 @@ Types: Ice / Ground • Egg Groups: Field
 | Total | <span class="stat-value stat-low">260</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Odor Sleuth (Lv 1)
-- Mud Sport (Lv 5)
-- Powder Snow (Lv 8)
-- Mud-Slap (Lv 11)
-- Endure (Lv 14)
-- Mud Bomb (Lv 18)
-- Icy Wind (Lv 21)
-- Ice Shard (Lv 24)
-- Headbutt (Lv 27)
-- Mist (Lv 35)
-- Earthquake (Lv 37)
-- Flail (Lv 40)
-- Blizzard (Lv 44)
-- Amnesia (Lv 48)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 5)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 8)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 11)
+- <a href="move-lookup.html?q=endure">Endure</a> (Lv 14)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 18)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 21)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 24)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 27)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 35)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 37)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 40)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 44)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 48)
 
 **Egg Moves**
-- Take Down
-- Bite
-- Body Slam
-- Ancient Power
-- Mud Shot
-- Icicle Spear
-- Double-Edge
-- Fissure
-- Curse
-- Mud Shot
-- Avalanche
-- Stealth Rock
-- Icicle Crash
-- Freeze-Dry
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a>
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -175,24 +175,24 @@ Types: Ice / Ground • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 28
@@ -213,54 +213,54 @@ Lv. 28
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
-- Slack Off (Lv Evo)
-- Ancient Power (Lv 1)
-- Peck (Lv 1)
-- Odor Sleuth (Lv 1)
-- Mud Sport (Lv 5)
-- Powder Snow (Lv 8)
-- Mud-Slap (Lv 11)
-- Endure (Lv 14)
-- Mud Bomb (Lv 18)
-- Icy Wind (Lv 21)
-- Ice Fang (Lv 24)
-- Headbutt (Lv 27)
-- Bulldoze (Lv 30)
-- Icicle Crash (Lv 33)
-- Mist (Lv 35)
-- Ancient Power (Lv 37)
-- Thrash (Lv 40)
-- Earthquake (Lv 43)
-- Glacial Lance (Lv 50)
-- Amnesia (Lv 58)
+- <a href="move-lookup.html?q=slack-off">Slack Off</a> (Lv Evo)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 5)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 8)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 11)
+- <a href="move-lookup.html?q=endure">Endure</a> (Lv 14)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 18)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 21)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 27)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 30)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 33)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 35)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 37)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 43)
+- <a href="move-lookup.html?q=glacial-lance">Glacial Lance</a> (Lv 50)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 58)
 
 **Egg Moves**
-- Take Down
-- Bite
-- Body Slam
-- Ancient Power
-- Mud Shot
-- Icicle Spear
-- Double-Edge
-- Fissure
-- Curse
-- Mud Shot
-- Avalanche
-- Stealth Rock
-- Icicle Crash
-- Freeze-Dry
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a>
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -321,24 +321,24 @@ Types: Ice / Ground • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. knows Ancient Power
@@ -359,55 +359,55 @@ Lv. knows Ancient Power
 | Total | <span class="stat-value stat-high">555</span> |
 
 **Level-Up Moves**
-- Slack Off (Lv 1)
-- Scary Face (Lv 1)
-- Ancient Power (Lv 1)
-- Peck (Lv 1)
-- Odor Sleuth (Lv 1)
-- Mud Sport (Lv 5)
-- Powder Snow (Lv 8)
-- Mud Slap (Lv 11)
-- Endure (Lv 14)
-- Mud Bomb (Lv 18)
-- Hail (Lv 21)
-- Ice Fang (Lv 24)
-- Headbutt (Lv 27)
-- Bulldoze (Lv 30)
-- Icicle Crash (Lv 33)
-- Mist (Lv 35)
-- Ancient Power (Lv 37)
-- Thrash (Lv 40)
-- Earthquake (Lv 43)
-- Glacial Lance (Lv 50)
-- Scary Face (Lv 58)
+- <a href="move-lookup.html?q=slack-off">Slack Off</a> (Lv 1)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 1)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 5)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 8)
+- <a href="move-lookup.html?q=mud-slap">Mud Slap</a> (Lv 11)
+- <a href="move-lookup.html?q=endure">Endure</a> (Lv 14)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 18)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 21)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 27)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 30)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 33)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 35)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 37)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 43)
+- <a href="move-lookup.html?q=glacial-lance">Glacial Lance</a> (Lv 50)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 58)
 
 **Egg Moves**
-- Take Down
-- Bite
-- Body Slam
-- Ancient Power
-- Mud Shot
-- Icicle Spear
-- Double-Edge
-- Fissure
-- Curse
-- Mud Shot
-- Avalanche
-- Stealth Rock
-- Icicle Crash
-- Freeze-Dry
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a>
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

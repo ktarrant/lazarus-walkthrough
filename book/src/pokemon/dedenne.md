@@ -24,26 +24,26 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (10%)
@@ -68,39 +68,39 @@ Types: Electric / Fairy • Egg Groups: Fairy / Field
 | Total | <span class="stat-value stat-mid">471</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Thunder Shock (Lv 7)
-- Charge (Lv 11)
-- Charm (Lv 14)
-- Disarming Voice (Lv 16)
-- Parabolic Charge (Lv 19)
-- Nuzzle (Lv 21)
-- Thunder Wave (Lv 23)
-- Volt Switch (Lv 26)
-- Rest (Lv 30)
-- Snore (Lv 31)
-- Charge Beam (Lv 33)
-- Dazzling Gleam (Lv 36)
-- Entrainment (Lv 39)
-- Slack Off (Lv 42)
-- Thunder (Lv 45)
-- Discharge (Lv 50)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 7)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 11)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 14)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 16)
+- <a href="move-lookup.html?q=parabolic-charge">Parabolic Charge</a> (Lv 19)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 21)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 23)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 26)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 30)
+- <a href="move-lookup.html?q=snore">Snore</a> (Lv 31)
+- <a href="move-lookup.html?q=charge-beam">Charge Beam</a> (Lv 33)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 36)
+- <a href="move-lookup.html?q=entrainment">Entrainment</a> (Lv 39)
+- <a href="move-lookup.html?q=slack-off">Slack Off</a> (Lv 42)
+- <a href="move-lookup.html?q=thunder">Thunder</a> (Lv 45)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 50)
 
 **Egg Moves**
-- Eerie Impulse
-- Covet
-- Helping Hand
-- Natural Gift
-- Tearful Look
+- <a href="move-lookup.html?q=eerie-impulse">Eerie Impulse</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=tearful-look">Tearful Look</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

@@ -34,29 +34,29 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM59 - Dark Pulse
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Kipos Town — Grass (Night) (8%)
@@ -80,34 +80,34 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 | Total | <span class="stat-value stat-mid">340</span> |
 
 **Level-Up Moves**
-- Trick (Lv 1)
-- Astonish (Lv 1)
-- Confuse Ray (Lv 1)
-- Scary Face (Lv 4)
-- Worry Seed (Lv 11)
-- Razor Leaf (Lv 16)
-- Leech Seed (Lv 20)
-- Trick-or-Treat (Lv 23)
-- Bullet Seed (Lv 26)
-- Shadow Sneak (Lv 30)
-- Shadow Ball (Lv 36)
-- Pain Split (Lv 40)
-- Seed Bomb (Lv 42)
+- <a href="move-lookup.html?q=trick">Trick</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 1)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 4)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 11)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 16)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=trick-or-treat">Trick-or-Treat</a> (Lv 23)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 26)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 30)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 36)
+- <a href="move-lookup.html?q=pain-split">Pain Split</a> (Lv 40)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 42)
 
 **Egg Moves**
-- Disable
-- Bestow
-- Destiny Bond
-- Curse
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bestow">Bestow</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Explosion
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -172,29 +172,29 @@ Types: Ghost / Grass • Egg Groups: Amorphous
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM59 - Dark Pulse
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Linking Cord
@@ -218,38 +218,38 @@ Linking Cord
 | Total | <span class="stat-value stat-mid">504</span> |
 
 **Level-Up Moves**
-- Chloroblast (Lv Evo)
-- Phantom Force (Lv 1)
-- Trick (Lv 1)
-- Astonish (Lv 1)
-- Confuse Ray (Lv 1)
-- Scary Face (Lv 4)
-- Worry Seed (Lv 11)
-- Razor Leaf (Lv 16)
-- Leech Seed (Lv 20)
-- Bullet Seed (Lv 26)
-- Shadow Sneak (Lv 30)
-- Trick-or-Treat (Lv 33)
-- Shadow Ball (Lv 36)
-- Pain Split (Lv 40)
-- Seed Bomb (Lv 42)
-- Phantom Force (Lv 44)
-- Explosion (Lv 50)
+- <a href="move-lookup.html?q=chloroblast">Chloroblast</a> (Lv Evo)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 1)
+- <a href="move-lookup.html?q=trick">Trick</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 1)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 4)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 11)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 16)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 26)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 30)
+- <a href="move-lookup.html?q=trick-or-treat">Trick-or-Treat</a> (Lv 33)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 36)
+- <a href="move-lookup.html?q=pain-split">Pain Split</a> (Lv 40)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 42)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 44)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 50)
 
 **Egg Moves**
-- Disable
-- Bestow
-- Destiny Bond
-- Curse
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bestow">Bestow</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Explosion
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

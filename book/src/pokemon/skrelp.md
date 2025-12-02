@@ -34,24 +34,24 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Kalami City — Fishing (30%)
@@ -80,40 +80,40 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Smokescreen (Lv 1)
-- Water Gun (Lv 1)
-- Feint Attack (Lv 5)
-- Tail Whip (Lv 9)
-- Bubble (Lv 12)
-- Acid (Lv 15)
-- Camouflage (Lv 19)
-- Poison Tail (Lv 23)
-- Water Pulse (Lv 25)
-- Double Team (Lv 28)
-- Toxic (Lv 32)
-- Dragon Dance (Lv 35)
-- Aqua Tail (Lv 35)
-- Sludge Bomb (Lv 38)
-- Poison Jab (Lv 40)
-- Hydro Pump (Lv 42)
-- Dragon Pulse (Lv 46)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 9)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 12)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 15)
+- <a href="move-lookup.html?q=camouflage">Camouflage</a> (Lv 19)
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a> (Lv 23)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 25)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 28)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 32)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 35)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 35)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 38)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 40)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 46)
 
 **Egg Moves**
-- Toxic Spikes
-- Play Rough
-- Haze
-- Acid Armor
-- Venom Drench
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a>
 
 **Tutor Moves**
-- Acid Spray
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -178,25 +178,25 @@ Types: Poison / Dragon • Egg Groups: Dragon / Water 1
 - Dragon (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 37
@@ -217,43 +217,43 @@ Lv. 37
 | Total | <span class="stat-value stat-mid">494</span> |
 
 **Level-Up Moves**
-- Twister (Lv Evo)
-- Dragon Tail (Lv 1)
-- Tackle (Lv 1)
-- Smokescreen (Lv 1)
-- Water Gun (Lv 1)
-- Feint Attack (Lv 5)
-- Tail Whip (Lv 9)
-- Bubble (Lv 12)
-- Acid (Lv 15)
-- Camouflage (Lv 19)
-- Poison Tail (Lv 23)
-- Water Pulse (Lv 25)
-- Double Team (Lv 28)
-- Toxic (Lv 32)
-- Dragon Dance (Lv 35)
-- Aqua Tail (Lv 35)
-- Sludge Bomb (Lv 38)
-- Poison Jab (Lv 40)
-- Hydro Pump (Lv 42)
-- Dragon Pulse (Lv 46)
-- Dragon Tail (Lv 50)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv Evo)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 9)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 12)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 15)
+- <a href="move-lookup.html?q=camouflage">Camouflage</a> (Lv 19)
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a> (Lv 23)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 25)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 28)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 32)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 35)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 35)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 38)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 40)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 46)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 50)
 
 **Egg Moves**
-- Toxic Spikes
-- Play Rough
-- Haze
-- Acid Armor
-- Venom Drench
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a>
 
 **Tutor Moves**
-- Acid Spray
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

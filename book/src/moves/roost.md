@@ -16,47 +16,121 @@
 
 | Pokémon | How |
 | --- | --- |
+| <a href="pokemon-lookup.html?q=aerodactyl">Aerodactyl</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=aerodactyl">Aerodactyl</a> | Egg |
+| <a href="pokemon-lookup.html?q=altaria">Altaria</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=altaria">Altaria</a> | Egg |
+| <a href="pokemon-lookup.html?q=archen">Archen</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=archeops">Archeops</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=beautifly">Beautifly</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=braviary">Braviary</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=chatot">Chatot</a> | Level 38 |
+| <a href="pokemon-lookup.html?q=chatot">Chatot</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=cutiefly">Cutiefly</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=dartrix">Dartrix</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=decidueye">Decidueye</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=dodrio">Dodrio</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=doduo">Doduo</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=dragonite">Dragonite</a> | Level 1 |
+| <a href="pokemon-lookup.html?q=dragonite">Dragonite</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=ducklett">Ducklett</a> | Level 30 |
+| <a href="pokemon-lookup.html?q=ducklett">Ducklett</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=dustox">Dustox</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=espathra">Espathra</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=espathra">Espathra</a> | Egg |
+| <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | Egg |
+| <a href="pokemon-lookup.html?q=flygon">Flygon</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=gligar">Gligar</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=gliscor">Gliscor</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=hawlucha">Hawlucha</a> | Level 12 |
+| <a href="pokemon-lookup.html?q=hawlucha">Hawlucha</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=hisuian-braviary">Hisuian Braviary</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=hisuian-decidueye">Hisuian Decidueye</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=honchkrow">Honchkrow</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=honchkrow">Honchkrow</a> | Egg |
 | <a href="pokemon-lookup.html?q=hoothoot">Hoothoot</a> | Level 37 |
+| <a href="pokemon-lookup.html?q=hoothoot">Hoothoot</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=kilowattrel">Kilowattrel</a> | Level 24 |
+| <a href="pokemon-lookup.html?q=kilowattrel">Kilowattrel</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=lumineon">Lumineon</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=mandibuzz">Mandibuzz</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mandibuzz">Mandibuzz</a> | Egg |
+| <a href="pokemon-lookup.html?q=mega-aerodactyl">Mega Aerodactyl</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-aerodactyl">Mega Aerodactyl</a> | Egg |
+| <a href="pokemon-lookup.html?q=mega-altaria">Mega Altaria</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-altaria">Mega Altaria</a> | Egg |
+| <a href="pokemon-lookup.html?q=mega-archeops">Mega Archeops</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-dragonite">Mega Dragonite</a> | Level 1 |
+| <a href="pokemon-lookup.html?q=mega-dragonite">Mega Dragonite</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=mega-flygon">Mega Flygon</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-hawlucha">Mega Hawlucha</a> | Level 12 |
+| <a href="pokemon-lookup.html?q=mega-hawlucha">Mega Hawlucha</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=mega-mandibuzz">Mega Mandibuzz</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-mandibuzz">Mega Mandibuzz</a> | Egg |
 | <a href="pokemon-lookup.html?q=mega-noctowl">Mega Noctowl</a> | Level 43 |
+| <a href="pokemon-lookup.html?q=mega-noctowl">Mega Noctowl</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=mega-ribombee">Mega Ribombee</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=mega-scizor">Mega Scizor</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-toucannon">Mega Toucannon</a> | Level 21 |
+| <a href="pokemon-lookup.html?q=mega-toucannon">Mega Toucannon</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=murkrow">Murkrow</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=murkrow">Murkrow</a> | Egg |
+| <a href="pokemon-lookup.html?q=natu">Natu</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=natu">Natu</a> | Egg |
+| <a href="pokemon-lookup.html?q=ninjask">Ninjask</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=noctowl">Noctowl</a> | Level 43 |
+| <a href="pokemon-lookup.html?q=noctowl">Noctowl</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=oricorio-baile">Oricorio Baile</a> | Level 30 |
+| <a href="pokemon-lookup.html?q=oricorio-baile">Oricorio Baile</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=oricorio-pau">Oricorio Pa'u</a> | Level 30 |
+| <a href="pokemon-lookup.html?q=oricorio-pau">Oricorio Pa'u</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=oricorio-pom-pom">Oricorio Pom Pom</a> | Level 30 |
+| <a href="pokemon-lookup.html?q=oricorio-pom-pom">Oricorio Pom Pom</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=oricorio-sensu">Oricorio Sensu</a> | Level 30 |
+| <a href="pokemon-lookup.html?q=oricorio-sensu">Oricorio Sensu</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=pelipper">Pelipper</a> | Level 39 |
+| <a href="pokemon-lookup.html?q=pelipper">Pelipper</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=pelipper">Pelipper</a> | Egg |
 | <a href="pokemon-lookup.html?q=pikipek">Pikipek</a> | Level 19 |
+| <a href="pokemon-lookup.html?q=pikipek">Pikipek</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Egg |
+| <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | Egg |
+| <a href="pokemon-lookup.html?q=quaxwell">Quaxwell</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=quaxwell">Quaxwell</a> | Egg |
+| <a href="pokemon-lookup.html?q=ribombee">Ribombee</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=rowlet">Rowlet</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=rufflet">Rufflet</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=scizor">Scizor</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=scyther">Scyther</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=swablu">Swablu</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=swablu">Swablu</a> | Egg |
 | <a href="pokemon-lookup.html?q=swanna">Swanna</a> | Level 30 |
+| <a href="pokemon-lookup.html?q=swanna">Swanna</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=swoobat">Swoobat</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=swoobat">Swoobat</a> | Egg |
+| <a href="pokemon-lookup.html?q=togekiss">Togekiss</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=togetic">Togetic</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=toucannon">Toucannon</a> | Level 21 |
+| <a href="pokemon-lookup.html?q=toucannon">Toucannon</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=tropius">Tropius</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=trumbeak">Trumbeak</a> | Level 21 |
+| <a href="pokemon-lookup.html?q=trumbeak">Trumbeak</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=vibrava">Vibrava</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=vikavolt">Vikavolt</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=vullaby">Vullaby</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=vullaby">Vullaby</a> | Egg |
 | <a href="pokemon-lookup.html?q=wattrel">Wattrel</a> | Level 23 |
+| <a href="pokemon-lookup.html?q=wattrel">Wattrel</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=wingull">Wingull</a> | Level 33 |
+| <a href="pokemon-lookup.html?q=wingull">Wingull</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=wingull">Wingull</a> | Egg |
+| <a href="pokemon-lookup.html?q=woobat">Woobat</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=woobat">Woobat</a> | Egg |
+| <a href="pokemon-lookup.html?q=xatu">Xatu</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=xatu">Xatu</a> | Egg |
+| <a href="pokemon-lookup.html?q=yanma">Yanma</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=yanmega">Yanmega</a> | TM/HM |
 </details>

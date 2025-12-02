@@ -23,6 +23,7 @@
 | <a href="pokemon-lookup.html?q=arbok">Arbok</a> | Egg |
 | <a href="pokemon-lookup.html?q=arcanine">Arcanine</a> | Egg |
 | <a href="pokemon-lookup.html?q=aron">Aron</a> | Level 34 |
+| <a href="pokemon-lookup.html?q=carracosta">Carracosta</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=cranidos">Cranidos</a> | Egg |
 | <a href="pokemon-lookup.html?q=cyclizar">Cyclizar</a> | Egg |
 | <a href="pokemon-lookup.html?q=dewgong">Dewgong</a> | Egg |
@@ -59,5 +60,6 @@
 | <a href="pokemon-lookup.html?q=sliggoo">Sliggoo</a> | Egg |
 | <a href="pokemon-lookup.html?q=steelix">Steelix</a> | Level 40 |
 | <a href="pokemon-lookup.html?q=stunky">Stunky</a> | Egg |
+| <a href="pokemon-lookup.html?q=tirtouga">Tirtouga</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=tyranitar">Tyranitar</a> | Egg |
 </details>

@@ -34,21 +34,21 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Oran Berry
@@ -74,33 +74,33 @@ Oran Berry
 | Total | <span class="stat-value stat-low">265</span> |
 
 **Level-Up Moves**
-- Peck (Lv 1)
-- Growl (Lv 3)
-- Echoed Voice (Lv 7)
-- Rock Smash (Lv 9)
-- Supersonic (Lv 13)
-- Pluck (Lv 15)
-- Roost (Lv 19)
-- Fury Attack (Lv 21)
-- Screech (Lv 25)
-- Drill Peck (Lv 27)
-- Bullet Seed (Lv 31)
-- Feather Dance (Lv 33)
-- Hyper Voice (Lv 37)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 3)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 9)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 13)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 15)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 19)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 25)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 27)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 31)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 33)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 37)
 
 **Egg Moves**
-- Brave Bird
-- Boomburst
-- Mirror Move
-- Tailwind
-- Uproar
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a>
+- <a href="move-lookup.html?q=boomburst">Boomburst</a>
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -161,21 +161,21 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Sitrus Berry
@@ -205,36 +205,36 @@ Lv. 14
 | Total | <span class="stat-value stat-mid">355</span> |
 
 **Level-Up Moves**
-- Rock Blast (Lv 1)
-- Peck (Lv 1)
-- Growl (Lv 3)
-- Echoed Voice (Lv 7)
-- Rock Smash (Lv 9)
-- Supersonic (Lv 13)
-- Pluck (Lv 16)
-- Roost (Lv 21)
-- Fury Attack (Lv 24)
-- Flame Charge (Lv 27)
-- Screech (Lv 29)
-- Drill Peck (Lv 32)
-- Bullet Seed (Lv 37)
-- Feather Dance (Lv 40)
-- Hyper Voice (Lv 45)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 3)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 9)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 13)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 16)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 21)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 24)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 27)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 29)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 32)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 45)
 
 **Egg Moves**
-- Brave Bird
-- Boomburst
-- Mirror Move
-- Tailwind
-- Uproar
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a>
+- <a href="move-lookup.html?q=boomburst">Boomburst</a>
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -295,21 +295,21 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Rawst Berry
@@ -336,39 +336,39 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">485</span> |
 
 **Level-Up Moves**
-- Beak Blast (Lv Evo)
-- Rock Blast (Lv 1)
-- Peck (Lv 1)
-- Growl (Lv 3)
-- Echoed Voice (Lv 7)
-- Rock Smash (Lv 9)
-- Supersonic (Lv 13)
-- Pluck (Lv 16)
-- Roost (Lv 21)
-- Fury Attack (Lv 24)
-- Flame Charge (Lv 27)
-- Screech (Lv 30)
-- Drill Peck (Lv 32)
-- Bullet Seed (Lv 37)
-- Feather Dance (Lv 40)
-- Hyper Voice (Lv 45)
-- Flare Blitz (Lv 50)
+- <a href="move-lookup.html?q=beak-blast">Beak Blast</a> (Lv Evo)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 3)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 9)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 13)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 16)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 21)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 24)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 27)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 30)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 32)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 45)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 50)
 
 **Egg Moves**
-- Brave Bird
-- Boomburst
-- Mirror Move
-- Tailwind
-- Uproar
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a>
+- <a href="move-lookup.html?q=boomburst">Boomburst</a>
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
 
 **Tutor Moves**
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -430,21 +430,21 @@ Types: Fire / Flying • Egg Groups: Flying
 - Rock (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Rawst Berry
@@ -468,39 +468,39 @@ Toucannonite
 | Total | <span class="stat-value stat-high">585</span> |
 
 **Level-Up Moves**
-- Beak Blast (Lv Evo)
-- Rock Blast (Lv 1)
-- Peck (Lv 1)
-- Growl (Lv 3)
-- Echoed Voice (Lv 7)
-- Rock Smash (Lv 9)
-- Supersonic (Lv 13)
-- Pluck (Lv 16)
-- Roost (Lv 21)
-- Fury Attack (Lv 24)
-- Flame Charge (Lv 27)
-- Screech (Lv 30)
-- Drill Peck (Lv 32)
-- Bullet Seed (Lv 37)
-- Feather Dance (Lv 40)
-- Hyper Voice (Lv 45)
-- Flare Blitz (Lv 50)
+- <a href="move-lookup.html?q=beak-blast">Beak Blast</a> (Lv Evo)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 3)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 9)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 13)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 16)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 21)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 24)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 27)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 30)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 32)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 45)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 50)
 
 **Egg Moves**
-- Brave Bird
-- Boomburst
-- Mirror Move
-- Tailwind
-- Uproar
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a>
+- <a href="move-lookup.html?q=boomburst">Boomburst</a>
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
 
 **Tutor Moves**
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

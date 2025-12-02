@@ -36,26 +36,26 @@ Types: Fire / Normal • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Lastlight Road — Grass (Day) (20%)
@@ -78,38 +78,38 @@ Types: Fire / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">379</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 5)
-- Work Up (Lv 8)
-- Headbutt (Lv 11)
-- Noble Roar (Lv 15)
-- Take Down (Lv 20)
-- Fire Fang (Lv 23)
-- Endeavor (Lv 28)
-- Echoed Voice (Lv 33)
-- Flamethrower (Lv 36)
-- Crunch (Lv 39)
-- Hyper Voice (Lv 43)
-- Incinerate (Lv 46)
-- Overheat (Lv 50)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 8)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 15)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 28)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 33)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 36)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 39)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 43)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 46)
+- <a href="move-lookup.html?q=overheat">Overheat</a> (Lv 50)
 
 **Egg Moves**
-- Entrainment
-- Yawn
-- Snatch
-- Fire Spin
-- Flare Blitz
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -174,26 +174,26 @@ Types: Fire / Normal • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 31, Male
@@ -218,42 +218,42 @@ Lv. 31, Male
 | Total | <span class="stat-value stat-mid">527</span> |
 
 **Level-Up Moves**
-- Jaw Lock (Lv Evo)
-- Ice Fang (Lv 1)
-- Thunder Fang (Lv 1)
-- Hyper Beam (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 5)
-- Work Up (Lv 8)
-- Headbutt (Lv 11)
-- Noble Roar (Lv 15)
-- Take Down (Lv 20)
-- Fire Fang (Lv 23)
-- Endeavor (Lv 28)
-- Flame Charge (Lv 35)
-- Blaze Kick (Lv 38)
-- Crunch (Lv 42)
-- Hyper Voice (Lv 45)
-- Double-Edge (Lv 48)
-- Flare Blitz (Lv 55)
+- <a href="move-lookup.html?q=jaw-lock">Jaw Lock</a> (Lv Evo)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 8)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 15)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 28)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 35)
+- <a href="move-lookup.html?q=blaze-kick">Blaze Kick</a> (Lv 38)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 42)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 45)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 48)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 55)
 
 **Egg Moves**
-- Entrainment
-- Yawn
-- Snatch
-- Fire Spin
-- Flare Blitz
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -318,26 +318,26 @@ Types: Fire / Normal • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 31, Female
@@ -362,42 +362,42 @@ Lv. 31, Female
 | Total | <span class="stat-value stat-mid">527</span> |
 
 **Level-Up Moves**
-- Echoed Voice (Lv Evo)
-- Psychic Noise (Lv 1)
-- Energy Ball (Lv 1)
-- Hyper Beam (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 5)
-- Work Up (Lv 8)
-- Headbutt (Lv 11)
-- Noble Roar (Lv 15)
-- Take Down (Lv 20)
-- Fire Fang (Lv 23)
-- Endeavor (Lv 28)
-- Uproar (Lv 35)
-- Flamethrower (Lv 38)
-- Dark Pulse (Lv 42)
-- Hyper Voice (Lv 45)
-- Alluring Voice (Lv 48)
-- Torch Song (Lv 55)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv Evo)
+- <a href="move-lookup.html?q=psychic-noise">Psychic Noise</a> (Lv 1)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 1)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 8)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 15)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 28)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 35)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 38)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 42)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 45)
+- <a href="move-lookup.html?q=alluring-voice">Alluring Voice</a> (Lv 48)
+- <a href="move-lookup.html?q=torch-song">Torch Song</a> (Lv 55)
 
 **Egg Moves**
-- Entrainment
-- Yawn
-- Snatch
-- Fire Spin
-- Flare Blitz
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

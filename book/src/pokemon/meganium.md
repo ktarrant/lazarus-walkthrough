@@ -34,20 +34,20 @@ Types: Grass • Egg Groups: Monster / Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Day) (4%)
@@ -68,49 +68,49 @@ Types: Grass • Egg Groups: Monster / Grass
 | Total | <span class="stat-value stat-mid">323</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Razor Leaf (Lv 6)
-- Poison Powder (Lv 9)
-- Synthesis (Lv 12)
-- Reflect (Lv 17)
-- Magical Leaf (Lv 20)
-- Natural Gift (Lv 23)
-- Sweet Scent (Lv 28)
-- Light Screen (Lv 31)
-- Body Slam (Lv 34)
-- Safeguard (Lv 39)
-- Aromatherapy (Lv 42)
-- Solar Beam (Lv 45)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 6)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 9)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 12)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 17)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 20)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 23)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 28)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 31)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 34)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 39)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 42)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 45)
 
 **Egg Moves**
-- Vine Whip
-- Leech Seed
-- Counter
-- Ancient Power
-- Flail
-- Nature Power
-- Ingrain
-- Grass Whistle
-- Leaf Storm
-- Aromatherapy
-- Wring Out
-- Body Slam
-- Refresh
-- Heal Pulse
-- Grassy Terrain
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=wring-out">Wring Out</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -173,22 +173,22 @@ Types: Grass • Egg Groups: Monster / Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 16
@@ -209,55 +209,55 @@ Lv. 16
 | Total | <span class="stat-value stat-mid">415</span> |
 
 **Level-Up Moves**
-- Dragon Rage (Lv Evo)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Razor Leaf (Lv 6)
-- Poison Powder (Lv 9)
-- Synthesis (Lv 12)
-- Reflect (Lv 18)
-- Magical Leaf (Lv 20)
-- Draining Kiss (Lv 22)
-- Dragon Breath (Lv 25)
-- Natural Gift (Lv 26)
-- Dazzling Gleam (Lv 30)
-- Sweet Scent (Lv 32)
-- Light Screen (Lv 36)
-- Body Slam (Lv 40)
-- Moonblast (Lv 43)
-- Safeguard (Lv 46)
-- Fickle Beam (Lv 48)
-- Aromatherapy (Lv 50)
-- Solar Beam (Lv 54)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 6)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 9)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 12)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 18)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 20)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 22)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 25)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 26)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 30)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 32)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 36)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 40)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 43)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 46)
+- <a href="move-lookup.html?q=fickle-beam">Fickle Beam</a> (Lv 48)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 50)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 54)
 
 **Egg Moves**
-- Vine Whip
-- Leech Seed
-- Counter
-- Ancient Power
-- Flail
-- Nature Power
-- Ingrain
-- Grass Whistle
-- Leaf Storm
-- Aromatherapy
-- Wring Out
-- Body Slam
-- Refresh
-- Heal Pulse
-- Grassy Terrain
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=wring-out">Wring Out</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -323,24 +323,24 @@ Types: Grass / Fairy • Egg Groups: Monster / Grass
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 32
@@ -361,58 +361,58 @@ Lv. 32
 | Total | <span class="stat-value stat-mid">545</span> |
 
 **Level-Up Moves**
-- Petal Dance (Lv Evo)
-- Petal Blizzard (Lv 1)
-- Dragon Rage (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Razor Leaf (Lv 6)
-- Poison Powder (Lv 9)
-- Synthesis (Lv 12)
-- Reflect (Lv 18)
-- Magical Leaf (Lv 20)
-- Draining Kiss (Lv 22)
-- Dragon Breath (Lv 25)
-- Natural Gift (Lv 26)
-- Dazzling Gleam (Lv 30)
-- Sweet Scent (Lv 32)
-- Light Screen (Lv 36)
-- Body Slam (Lv 40)
-- Moonblast (Lv 43)
-- Safeguard (Lv 46)
-- Fickle Beam (Lv 48)
-- Aromatherapy (Lv 50)
-- Solar Beam (Lv 54)
-- Petal Blizzard (Lv 60)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv Evo)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 6)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 9)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 12)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 18)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 20)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 22)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 25)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 26)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 30)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 32)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 36)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 40)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 43)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 46)
+- <a href="move-lookup.html?q=fickle-beam">Fickle Beam</a> (Lv 48)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 50)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 54)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 60)
 
 **Egg Moves**
-- Vine Whip
-- Leech Seed
-- Counter
-- Ancient Power
-- Flail
-- Nature Power
-- Ingrain
-- Grass Whistle
-- Leaf Storm
-- Aromatherapy
-- Wring Out
-- Body Slam
-- Refresh
-- Heal Pulse
-- Grassy Terrain
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=wring-out">Wring Out</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

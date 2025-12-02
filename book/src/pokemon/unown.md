@@ -19,7 +19,7 @@ Types: Psychic • Egg Groups: -
 - Dark (2×)
 
 **TM/HM Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="unown" /> Caught</label>
@@ -37,14 +37,14 @@ Types: Psychic • Egg Groups: -
 | Total | <span class="stat-value stat-mid">396</span> |
 
 **Level-Up Moves**
-- Hidden Power (Lv 1)
-- Freezing Glare (Lv 30)
+- <a href="move-lookup.html?q=hidden-power">Hidden Power</a> (Lv 1)
+- <a href="move-lookup.html?q=freezing-glare">Freezing Glare</a> (Lv 30)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 </div>
 </div>
 <script>

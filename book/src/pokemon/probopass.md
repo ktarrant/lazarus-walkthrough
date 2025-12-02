@@ -28,26 +28,26 @@ Types: Rock / Steel • Egg Groups: Mineral
 - Ground (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Magnet
@@ -71,53 +71,53 @@ Thunder Stone
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Tri Attack (Lv Evo)
-- Magnetic Flux (Lv 1)
-- Magnet Rise (Lv 1)
-- Gravity (Lv 1)
-- Wide Guard (Lv 1)
-- Tackle (Lv 1)
-- Harden (Lv 4)
-- Block (Lv 7)
-- Rock Throw (Lv 10)
-- Thunder Wave (Lv 13)
-- Rest (Lv 16)
-- Spark (Lv 19)
-- Rock Slide (Lv 22)
-- Power Gem (Lv 25)
-- Rock Blast (Lv 28)
-- Discharge (Lv 31)
-- Sandstorm (Lv 34)
-- Earth Power (Lv 37)
-- Stone Edge (Lv 40)
-- Lock-On (Lv 43)
-- Zap Cannon (Lv 43)
-- Shore Up (Lv 46)
-- Electro Drift (Lv 52)
+- <a href="move-lookup.html?q=tri-attack">Tri Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=magnetic-flux">Magnetic Flux</a> (Lv 1)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 1)
+- <a href="move-lookup.html?q=gravity">Gravity</a> (Lv 1)
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 4)
+- <a href="move-lookup.html?q=block">Block</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 10)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 13)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 16)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 19)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 22)
+- <a href="move-lookup.html?q=power-gem">Power Gem</a> (Lv 25)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 28)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 31)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 34)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 37)
+- <a href="move-lookup.html?q=stone-edge">Stone Edge</a> (Lv 40)
+- <a href="move-lookup.html?q=lock-on">Lock-On</a> (Lv 43)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 43)
+- <a href="move-lookup.html?q=shore-up">Shore Up</a> (Lv 46)
+- <a href="move-lookup.html?q=electro-drift">Electro Drift</a> (Lv 52)
 
 **Egg Moves**
-- Magnitude
-- Rollout
-- Double-Edge
-- Block
-- Stealth Rock
-- Endure
-- Wide Guard
+- <a href="move-lookup.html?q=magnitude">Magnitude</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

@@ -28,22 +28,22 @@ Types: Fairy / Grass • Egg Groups: Grass
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Misty Seed
@@ -71,41 +71,41 @@ Misty Seed
 | Total | <span class="stat-value stat-mid">485</span> |
 
 **Level-Up Moves**
-- Helping Hand (Lv 1)
-- Vine Whip (Lv 1)
-- Flower Shield (Lv 1)
-- Leech Seed (Lv 4)
-- Draining Kiss (Lv 7)
-- Magical Leaf (Lv 10)
-- Growth (Lv 13)
-- Wrap (Lv 16)
-- Sweet Kiss (Lv 19)
-- Natural Gift (Lv 22)
-- Petal Blizzard (Lv 25)
-- Synthesis (Lv 28)
-- Sweet Scent (Lv 31)
-- Giga Drain (Lv 32)
-- Grass Knot (Lv 34)
-- Floral Healing (Lv 37)
-- Petal Dance (Lv 40)
-- Aromatherapy (Lv 42)
-- Grassy Terrain (Lv 44)
-- Moonblast (Lv 47)
-- Grass Whistle (Lv 50)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=flower-shield">Flower Shield</a> (Lv 1)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 4)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 7)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 10)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 13)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 16)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 19)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 22)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 25)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 28)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 31)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 32)
+- <a href="move-lookup.html?q=grass-knot">Grass Knot</a> (Lv 34)
+- <a href="move-lookup.html?q=floral-healing">Floral Healing</a> (Lv 37)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 42)
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a> (Lv 44)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 47)
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a> (Lv 50)
 
 **Egg Moves**
-- Endure
-- Amnesia
-- After You
-- Lucky Chant
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=after-you">After You</a>
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a>
 
 **Tutor Moves**
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

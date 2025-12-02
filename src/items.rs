@@ -1,3 +1,4 @@
+use crate::encounters;
 use anyhow::{Context, Result};
 use clap::ValueEnum;
 use serde::Deserialize;
@@ -151,7 +152,17 @@ fn render_table(entries: &[ItemRecord]) -> String {
         table.push_str("| ");
         for col in &ordered {
             let value = entry.get(col).map(|s| s.as_str()).unwrap_or("");
-            table.push_str(value);
+            if value.is_empty() {
+                table.push_str(value);
+            } else if col.to_lowercase() == "move" {
+                let slug = encounters::slugify(value);
+                table.push_str(&format!(
+                    "<a href=\"move-lookup.html?q={}\">{}</a>",
+                    slug, value
+                ));
+            } else {
+                table.push_str(value);
+            }
             table.push_str(" | ");
         }
         table.push('\n');

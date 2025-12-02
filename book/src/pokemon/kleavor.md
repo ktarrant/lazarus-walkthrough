@@ -36,23 +36,23 @@ Types: Bug / Flying • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Sea of Asteri (West) — Grass (Day) (8%)
@@ -80,48 +80,48 @@ Types: Bug / Flying • Egg Groups: Bug
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Vacuum Wave (Lv 1)
-- Quick Attack (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 5)
-- Pursuit (Lv 9)
-- False Swipe (Lv 13)
-- Agility (Lv 17)
-- Wing Attack (Lv 21)
-- Fury Cutter (Lv 25)
-- Slash (Lv 29)
-- Swords Dance (Lv 33)
-- Double Team (Lv 37)
-- X-Scissor (Lv 41)
-- Night Slash (Lv 45)
-- Double Hit (Lv 49)
-- Air Slash (Lv 50)
-- Swords Dance (Lv 57)
-- Feint (Lv 61)
+- <a href="move-lookup.html?q=vacuum-wave">Vacuum Wave</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 5)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 9)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 13)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 17)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 29)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 33)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 37)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 41)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 45)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 49)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 50)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 57)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 61)
 
 **Egg Moves**
-- Counter
-- Baton Pass
-- Razor Wind
-- Reversal
-- Endure
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Defog
-- Steel Wing
-- Quick Guard
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
 
 **Tutor Moves**
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -185,25 +185,25 @@ Types: Bug / Steel • Egg Groups: Bug
 - Fire (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Metal Coat
@@ -224,49 +224,49 @@ Metal Coat
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Bullet Punch (Lv Evo)
-- Feint (Lv 1)
-- Quick Attack (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 5)
-- Pursuit (Lv 9)
-- False Swipe (Lv 13)
-- Agility (Lv 17)
-- Metal Claw (Lv 21)
-- Fury Cutter (Lv 25)
-- Slash (Lv 29)
-- Swords Dance (Lv 33)
-- Iron Defense (Lv 37)
-- X-Scissor (Lv 41)
-- Night Slash (Lv 45)
-- Double Hit (Lv 49)
-- Iron Head (Lv 50)
-- Swords Dance (Lv 57)
-- Feint (Lv 61)
+- <a href="move-lookup.html?q=bullet-punch">Bullet Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 5)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 9)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 13)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 17)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 21)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 29)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 33)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 37)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 41)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 45)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 49)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 50)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 57)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 61)
 
 **Egg Moves**
-- Counter
-- Baton Pass
-- Razor Wind
-- Reversal
-- Endure
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Defog
-- Steel Wing
-- Quick Guard
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
 
 **Tutor Moves**
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -328,25 +328,25 @@ Types: Bug / Steel • Egg Groups: Bug
 - Fire (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Scizorite
@@ -367,49 +367,49 @@ Scizorite
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Bullet Punch (Lv Evo)
-- Feint (Lv 1)
-- Quick Attack (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 5)
-- Pursuit (Lv 9)
-- False Swipe (Lv 13)
-- Agility (Lv 17)
-- Metal Claw (Lv 21)
-- Fury Cutter (Lv 25)
-- Slash (Lv 29)
-- Swords Dance (Lv 33)
-- Iron Defense (Lv 37)
-- X-Scissor (Lv 41)
-- Night Slash (Lv 45)
-- Double Hit (Lv 49)
-- Iron Head (Lv 50)
-- Swords Dance (Lv 57)
-- Feint (Lv 61)
+- <a href="move-lookup.html?q=bullet-punch">Bullet Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 5)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 9)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 13)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 17)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 21)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 29)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 33)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 37)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 41)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 45)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 49)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 50)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 57)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 61)
 
 **Egg Moves**
-- Counter
-- Baton Pass
-- Razor Wind
-- Reversal
-- Endure
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Defog
-- Steel Wing
-- Quick Guard
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
 
 **Tutor Moves**
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -468,20 +468,20 @@ Types: Bug / Rock • Egg Groups: Bug
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Black Augurite
@@ -502,41 +502,41 @@ Black Augurite
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Quick Attack (Lv 1)
-- Silver Wind (Lv 6)
-- Aerial Ace (Lv 11)
-- Double Hit (Lv 14)
-- Stealth Rock (Lv 14)
-- Air Slash (Lv 18)
-- Swords Dance (Lv 25)
-- Stone Axe (Lv 29)
-- Swords Dance (Lv 33)
-- X-Scissor (Lv 34)
-- Night Slash (Lv 39)
-- Close Combat (Lv 43)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 6)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 11)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 14)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 14)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 18)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=stone-axe">Stone Axe</a> (Lv 29)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 33)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 34)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 39)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 43)
 
 **Egg Moves**
-- Counter
-- Baton Pass
-- Razor Wind
-- Reversal
-- Endure
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Defog
-- Steel Wing
-- Quick Guard
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
 
 **Tutor Moves**
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Rock Slide
-- Sleep Talk
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

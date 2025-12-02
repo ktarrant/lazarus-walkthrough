@@ -34,24 +34,24 @@ Types: Grass / Normal • Egg Groups: Field
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (5%)
@@ -73,43 +73,43 @@ Types: Grass / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">336</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Play Nice (Lv 1)
-- Leer (Lv 4)
-- Lick (Lv 7)
-- Vine Whip (Lv 10)
-- Fury Swipes (Lv 13)
-- Leech Seed (Lv 16)
-- Bite (Lv 19)
-- Seed Bomb (Lv 22)
-- Torment (Lv 25)
-- Fling (Lv 28)
-- Slam (Lv 30)
-- Acrobatics (Lv 32)
-- Grass Knot (Lv 34)
-- Recycle (Lv 37)
-- Natural Gift (Lv 40)
-- Crunch (Lv 43)
-- Spiky Shield (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 16)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 22)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 25)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 30)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=grass-knot">Grass Knot</a> (Lv 34)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 37)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 43)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 46)
 
 **Egg Moves**
-- Covet
-- Low Kick
-- Tickle
-- Nasty Plot
-- Role Play
-- Astonish
-- Grass Whistle
-- Magical Leaf
-- Bullet Seed
-- Leaf Storm
-- Disarming Voice
-- Spiky Shield
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a>
 
 **Tutor Moves**
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -174,26 +174,26 @@ Types: Grass / Normal • Egg Groups: Field
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Leaf Stone
@@ -214,44 +214,44 @@ Leaf Stone
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Play Nice (Lv 1)
-- Leer (Lv 4)
-- Lick (Lv 7)
-- Vine Whip (Lv 10)
-- Fury Swipes (Lv 13)
-- Leech Seed (Lv 16)
-- Bite (Lv 19)
-- Seed Bomb (Lv 22)
-- Torment (Lv 25)
-- Fling (Lv 28)
-- Slam (Lv 30)
-- Acrobatics (Lv 32)
-- Grass Knot (Lv 34)
-- Recycle (Lv 37)
-- Natural Gift (Lv 40)
-- Crunch (Lv 43)
-- Spiky Shield (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 16)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 22)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 25)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 30)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=grass-knot">Grass Knot</a> (Lv 34)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 37)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 43)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 46)
 
 **Egg Moves**
-- Covet
-- Low Kick
-- Tickle
-- Nasty Plot
-- Role Play
-- Astonish
-- Grass Whistle
-- Magical Leaf
-- Bullet Seed
-- Leaf Storm
-- Disarming Voice
-- Spiky Shield
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a>
 
 **Tutor Moves**
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

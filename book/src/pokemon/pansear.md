@@ -34,24 +34,24 @@ Types: Fire / Normal • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (5%)
@@ -73,45 +73,45 @@ Types: Fire / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">336</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Play Nice (Lv 1)
-- Leer (Lv 4)
-- Lick (Lv 7)
-- Incinerate (Lv 10)
-- Fury Swipes (Lv 13)
-- Yawn (Lv 16)
-- Snarl (Lv 19)
-- Flame Burst (Lv 22)
-- Amnesia (Lv 25)
-- Fling (Lv 28)
-- Chatter (Lv 30)
-- Acrobatics (Lv 32)
-- Fire Blast (Lv 34)
-- Recycle (Lv 37)
-- Natural Gift (Lv 40)
-- Hyper Voice (Lv 43)
-- Burning Bulwark (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 16)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 19)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 22)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 25)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=chatter">Chatter</a> (Lv 30)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 34)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 37)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 40)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 43)
+- <a href="move-lookup.html?q=burning-bulwark">Burning Bulwark</a> (Lv 46)
 
 **Egg Moves**
-- Covet
-- Low Kick
-- Tickle
-- Nasty Plot
-- Role Play
-- Astonish
-- Sleep Talk
-- Fire Spin
-- Fire Punch
-- Heat Wave
-- Disarming Voice
-- Belch
-- Flare Blitz
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
 
 **Tutor Moves**
-- Fire Punch
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -176,26 +176,26 @@ Types: Fire / Normal • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Fire Stone
@@ -216,46 +216,46 @@ Fire Stone
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Play Nice (Lv 1)
-- Leer (Lv 4)
-- Lick (Lv 7)
-- Incinerate (Lv 10)
-- Fury Swipes (Lv 13)
-- Yawn (Lv 16)
-- Snarl (Lv 19)
-- Flame Burst (Lv 22)
-- Amnesia (Lv 25)
-- Fling (Lv 28)
-- Chatter (Lv 30)
-- Acrobatics (Lv 32)
-- Fire Blast (Lv 34)
-- Recycle (Lv 37)
-- Natural Gift (Lv 40)
-- Hyper Voice (Lv 43)
-- Burning Bulwark (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 16)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 19)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 22)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 25)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=chatter">Chatter</a> (Lv 30)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 34)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 37)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 40)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 43)
+- <a href="move-lookup.html?q=burning-bulwark">Burning Bulwark</a> (Lv 46)
 
 **Egg Moves**
-- Covet
-- Low Kick
-- Tickle
-- Nasty Plot
-- Role Play
-- Astonish
-- Sleep Talk
-- Fire Spin
-- Fire Punch
-- Heat Wave
-- Disarming Voice
-- Belch
-- Flare Blitz
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
 
 **Tutor Moves**
-- Fire Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

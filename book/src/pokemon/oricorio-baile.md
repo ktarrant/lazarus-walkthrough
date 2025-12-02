@@ -35,21 +35,21 @@ Types: Fire / Flying • Egg Groups: Flying
 - Rock (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Held Item**
 Red Nectar
@@ -76,42 +76,42 @@ Red Nectar
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 6)
-- Helping Hand (Lv 10)
-- Air Cutter (Lv 13)
-- Baton Pass (Lv 16)
-- Feather Dance (Lv 20)
-- Double Slap (Lv 23)
-- Revelation Step (Lv 25)
-- Teeter Dance (Lv 28)
-- Roost (Lv 30)
-- Aqua Step (Lv 31)
-- Captivate (Lv 33)
-- Air Slash (Lv 35)
-- Fiery Dance (Lv 38)
-- Revelation Dance (Lv 40)
-- Mirror Move (Lv 43)
-- Petal Dance (Lv 45)
-- Quiver Dance (Lv 47)
-- Hurricane (Lv 50)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 6)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 10)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 13)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 16)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 20)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 23)
+- <a href="move-lookup.html?q=revelation-step">Revelation Step</a> (Lv 25)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 28)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 30)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv 31)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 33)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=revelation-dance">Revelation Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 43)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv 45)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 47)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 50)
 
 **Egg Moves**
-- Pluck
-- Tailwind
-- Safeguard
-- Captivate
+- <a href="move-lookup.html?q=pluck">Pluck</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=safeguard">Safeguard</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -171,21 +171,21 @@ Types: Electric / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Held Item**
 Yellow Nectar
@@ -210,42 +210,42 @@ Yellow Nectar
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 6)
-- Helping Hand (Lv 10)
-- Air Cutter (Lv 13)
-- Baton Pass (Lv 16)
-- Feather Dance (Lv 20)
-- Double Slap (Lv 23)
-- Revelation Step (Lv 25)
-- Teeter Dance (Lv 28)
-- Roost (Lv 30)
-- Aqua Step (Lv 31)
-- Captivate (Lv 33)
-- Air Slash (Lv 35)
-- Fiery Dance (Lv 38)
-- Revelation Dance (Lv 40)
-- Mirror Move (Lv 43)
-- Petal Dance (Lv 45)
-- Quiver Dance (Lv 47)
-- Hurricane (Lv 50)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 6)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 10)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 13)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 16)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 20)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 23)
+- <a href="move-lookup.html?q=revelation-step">Revelation Step</a> (Lv 25)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 28)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 30)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv 31)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 33)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=revelation-dance">Revelation Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 43)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv 45)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 47)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 50)
 
 **Egg Moves**
-- Pluck
-- Tailwind
-- Safeguard
-- Captivate
+- <a href="move-lookup.html?q=pluck">Pluck</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=safeguard">Safeguard</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -306,21 +306,21 @@ Types: Psychic / Flying • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Held Item**
 Pink Nectar
@@ -345,42 +345,42 @@ Pink Nectar
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 6)
-- Helping Hand (Lv 10)
-- Air Cutter (Lv 13)
-- Baton Pass (Lv 16)
-- Feather Dance (Lv 20)
-- Double Slap (Lv 23)
-- Revelation Step (Lv 25)
-- Teeter Dance (Lv 28)
-- Roost (Lv 30)
-- Aqua Step (Lv 31)
-- Captivate (Lv 33)
-- Air Slash (Lv 35)
-- Fiery Dance (Lv 38)
-- Revelation Dance (Lv 40)
-- Mirror Move (Lv 43)
-- Petal Dance (Lv 45)
-- Quiver Dance (Lv 47)
-- Hurricane (Lv 50)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 6)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 10)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 13)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 16)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 20)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 23)
+- <a href="move-lookup.html?q=revelation-step">Revelation Step</a> (Lv 25)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 28)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 30)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv 31)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 33)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=revelation-dance">Revelation Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 43)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv 45)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 47)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 50)
 
 **Egg Moves**
-- Pluck
-- Tailwind
-- Safeguard
-- Captivate
+- <a href="move-lookup.html?q=pluck">Pluck</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=safeguard">Safeguard</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -443,21 +443,21 @@ Types: Ghost / Flying • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Held Item**
 Purple Nectar
@@ -483,42 +483,42 @@ Purple Nectar
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 6)
-- Helping Hand (Lv 10)
-- Air Cutter (Lv 13)
-- Baton Pass (Lv 16)
-- Feather Dance (Lv 20)
-- Double Slap (Lv 23)
-- Revelation Step (Lv 25)
-- Teeter Dance (Lv 28)
-- Roost (Lv 30)
-- Aqua Step (Lv 31)
-- Captivate (Lv 33)
-- Air Slash (Lv 35)
-- Fiery Dance (Lv 38)
-- Revelation Dance (Lv 40)
-- Mirror Move (Lv 43)
-- Petal Dance (Lv 45)
-- Quiver Dance (Lv 47)
-- Hurricane (Lv 50)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 6)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 10)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 13)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 16)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 20)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 23)
+- <a href="move-lookup.html?q=revelation-step">Revelation Step</a> (Lv 25)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 28)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 30)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv 31)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 33)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=revelation-dance">Revelation Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 43)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv 45)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 47)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 50)
 
 **Egg Moves**
-- Pluck
-- Tailwind
-- Safeguard
-- Captivate
+- <a href="move-lookup.html?q=pluck">Pluck</a>
+- <a href="move-lookup.html?q=tailwind">Tailwind</a>
+- <a href="move-lookup.html?q=safeguard">Safeguard</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

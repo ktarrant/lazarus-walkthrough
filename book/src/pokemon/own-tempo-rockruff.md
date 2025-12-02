@@ -23,18 +23,18 @@ Types: Rock • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM55 - Snarl
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="own-tempo-rockruff" /> Caught</label>
@@ -52,39 +52,39 @@ Types: Rock • Egg Groups: Field
 | Total | <span class="stat-value stat-low">280</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Sand Attack (Lv 4)
-- Bite (Lv 7)
-- Howl (Lv 12)
-- Rock Throw (Lv 15)
-- Odor Sleuth (Lv 18)
-- Rock Tomb (Lv 23)
-- Roar (Lv 26)
-- Stealth Rock (Lv 29)
-- Rock Slide (Lv 34)
-- Scary Face (Lv 37)
-- Crunch (Lv 40)
-- Rock Climb (Lv 45)
-- Stone Edge (Lv 48)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 4)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 12)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 15)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 18)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 23)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 26)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 29)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 34)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 37)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 40)
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a> (Lv 45)
+- <a href="move-lookup.html?q=stone-edge">Stone Edge</a> (Lv 48)
 
 **Egg Moves**
-- Crush Claw
-- Fire Fang
-- Thunder Fang
-- Sucker Punch
-- Thrash
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

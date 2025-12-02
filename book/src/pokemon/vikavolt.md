@@ -30,19 +30,19 @@ Types: Bug • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM24 - Thunderbolt
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (10%)
@@ -66,29 +66,29 @@ Types: Bug • Egg Groups: Bug
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Vise Grip (Lv 1)
-- String Shot (Lv 4)
-- Mud-Slap (Lv 7)
-- Bite (Lv 10)
-- Bug Bite (Lv 13)
-- Spark (Lv 16)
-- Acrobatics (Lv 19)
-- Crunch (Lv 22)
-- X-Scissor (Lv 25)
-- Dig (Lv 28)
+- <a href="move-lookup.html?q=vise-grip">Vise Grip</a> (Lv 1)
+- <a href="move-lookup.html?q=string-shot">String Shot</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 13)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 16)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 19)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 22)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 25)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 28)
 
 **Egg Moves**
-- Harden
-- Electroweb
-- Mud Shot
-- Endure
+- <a href="move-lookup.html?q=harden">Harden</a>
+- <a href="move-lookup.html?q=electroweb">Electroweb</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -147,20 +147,20 @@ Types: Bug / Electric • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Held Item**
 Cell Battery
@@ -191,32 +191,32 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">400</span> |
 
 **Level-Up Moves**
-- Charge (Lv Evo)
-- Vise Grip (Lv 1)
-- String Shot (Lv 4)
-- Mud-Slap (Lv 7)
-- Bite (Lv 10)
-- Bug Bite (Lv 13)
-- Spark (Lv 16)
-- Acrobatics (Lv 19)
-- Crunch (Lv 25)
-- X-Scissor (Lv 31)
-- Dig (Lv 37)
-- Discharge (Lv 43)
-- Iron Defense (Lv 49)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv Evo)
+- <a href="move-lookup.html?q=vise-grip">Vise Grip</a> (Lv 1)
+- <a href="move-lookup.html?q=string-shot">String Shot</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 13)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 16)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 19)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 25)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 31)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 37)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 43)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 49)
 
 **Egg Moves**
-- Harden
-- Electroweb
-- Mud Shot
-- Endure
+- <a href="move-lookup.html?q=harden">Harden</a>
+- <a href="move-lookup.html?q=electroweb">Electroweb</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -275,24 +275,24 @@ Types: Bug / Electric • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM57 - Roost
-- TM58 - Thunder Wave
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Evolution Info**
 Thunder Stone
@@ -313,37 +313,37 @@ Thunder Stone
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Thunderbolt (Lv Evo)
-- Air Slash (Lv 1)
-- Charge (Lv 1)
-- Vise Grip (Lv 1)
-- String Shot (Lv 4)
-- Mud-Slap (Lv 7)
-- Bite (Lv 10)
-- Bug Bite (Lv 13)
-- Spark (Lv 16)
-- Acrobatics (Lv 19)
-- Guillotine (Lv 25)
-- Bug Buzz (Lv 31)
-- Dig (Lv 37)
-- Zap Cannon (Lv 41)
-- U-Turn (Lv 45)
-- Agility (Lv 49)
-- Supercell Slam (Lv 52)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv Evo)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 1)
+- <a href="move-lookup.html?q=vise-grip">Vise Grip</a> (Lv 1)
+- <a href="move-lookup.html?q=string-shot">String Shot</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 13)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 16)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 19)
+- <a href="move-lookup.html?q=guillotine">Guillotine</a> (Lv 25)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 31)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 37)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 41)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 45)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 49)
+- <a href="move-lookup.html?q=supercell-slam">Supercell Slam</a> (Lv 52)
 
 **Egg Moves**
-- Harden
-- Electroweb
-- Mud Shot
-- Endure
+- <a href="move-lookup.html?q=harden">Harden</a>
+- <a href="move-lookup.html?q=electroweb">Electroweb</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -22,29 +22,29 @@ Types: Fighting • Egg Groups: Human-Like / Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Mental Herb
@@ -69,45 +69,45 @@ Mental Herb
 | Total | <span class="stat-value stat-mid">348</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Arm Thrust (Lv 7)
-- Work Up (Lv 10)
-- Karate Chop (Lv 12)
-- Comet Punch (Lv 15)
-- Feint Attack (Lv 20)
-- Mega Punch (Lv 23)
-- Circle Throw (Lv 25)
-- Vital Throw (Lv 27)
-- Razor Leaf (Lv 30)
-- Body Slam (Lv 33)
-- Crunch (Lv 39)
-- Entrainment (Lv 42)
-- Parting Shot (Lv 45)
-- Sky Uppercut (Lv 48)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=arm-thrust">Arm Thrust</a> (Lv 7)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 10)
+- <a href="move-lookup.html?q=karate-chop">Karate Chop</a> (Lv 12)
+- <a href="move-lookup.html?q=comet-punch">Comet Punch</a> (Lv 15)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 20)
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a> (Lv 23)
+- <a href="move-lookup.html?q=circle-throw">Circle Throw</a> (Lv 25)
+- <a href="move-lookup.html?q=vital-throw">Vital Throw</a> (Lv 27)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 30)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 33)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 39)
+- <a href="move-lookup.html?q=entrainment">Entrainment</a> (Lv 42)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 45)
+- <a href="move-lookup.html?q=sky-uppercut">Sky Uppercut</a> (Lv 48)
 
 **Egg Moves**
-- Quash
-- Me First
-- Quick Guard
-- Foul Play
-- Storm Throw
-- Power Trip
+- <a href="move-lookup.html?q=quash">Quash</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
+- <a href="move-lookup.html?q=storm-throw">Storm Throw</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

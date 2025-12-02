@@ -29,19 +29,19 @@ Types: Ground / Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM44 - Rest
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Tiny Mushroom
@@ -69,42 +69,42 @@ Tiny Mushroom
 | Total | <span class="stat-value stat-mid">345</span> |
 
 **Level-Up Moves**
-- Wrap (Lv 1)
-- Mud-Slap (Lv 1)
-- Absorb (Lv 4)
-- Poison Powder (Lv 8)
-- Stun Spore (Lv 8)
-- Supersonic (Lv 12)
-- Tackle (Lv 15)
-- Mega Drain (Lv 16)
-- Screech (Lv 20)
-- Mud Shot (Lv 23)
-- Hex (Lv 25)
-- Sludge (Lv 28)
-- Ingrain (Lv 30)
-- Seed Bomb (Lv 32)
-- Spore (Lv 35)
-- Giga Drain (Lv 38)
-- Growth (Lv 42)
-- Earth Power (Lv 45)
-- Power Whip (Lv 50)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 4)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 8)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 8)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 12)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 15)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 16)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 20)
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a> (Lv 23)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 25)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 28)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 30)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 32)
+- <a href="move-lookup.html?q=spore">Spore</a> (Lv 35)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 38)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 42)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 45)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 50)
 
 **Egg Moves**
-- Acupressure
-- Knock Off
-- Leech Seed
-- Mirror Coat
-- Rage Powder
-- Rapid Spin
-- Tickle
-- Toxic
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=toxic">Toxic</a>
 
 **Tutor Moves**
-- Acid Spray
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -164,19 +164,19 @@ Types: Ground / Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM44 - Rest
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Tiny Mushroom
@@ -203,43 +203,43 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Reflect Type (Lv 1)
-- Wrap (Lv 1)
-- Mud-Slap (Lv 1)
-- Absorb (Lv 4)
-- Poison Powder (Lv 8)
-- Stun Spore (Lv 8)
-- Supersonic (Lv 12)
-- Tackle (Lv 15)
-- Mega Drain (Lv 16)
-- Screech (Lv 20)
-- Mud Shot (Lv 23)
-- Hex (Lv 25)
-- Sludge (Lv 28)
-- Ingrain (Lv 30)
-- Seed Bomb (Lv 32)
-- Spore (Lv 35)
-- Giga Drain (Lv 38)
-- Growth (Lv 42)
-- Earth Power (Lv 45)
-- Power Whip (Lv 50)
+- <a href="move-lookup.html?q=reflect-type">Reflect Type</a> (Lv 1)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 4)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 8)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 8)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 12)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 15)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 16)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 20)
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a> (Lv 23)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 25)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 28)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 30)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 32)
+- <a href="move-lookup.html?q=spore">Spore</a> (Lv 35)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 38)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 42)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 45)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 50)
 
 **Egg Moves**
-- Acupressure
-- Knock Off
-- Leech Seed
-- Mirror Coat
-- Rage Powder
-- Rapid Spin
-- Tickle
-- Toxic
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=toxic">Toxic</a>
 
 **Tutor Moves**
-- Acid Spray
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

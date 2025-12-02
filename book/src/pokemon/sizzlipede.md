@@ -34,12 +34,12 @@ Types: Fire / Bug • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (10%)
@@ -63,35 +63,35 @@ Types: Fire / Bug • Egg Groups: Bug
 | Total | <span class="stat-value stat-low">305</span> |
 
 **Level-Up Moves**
-- Ember (Lv 1)
-- Smokescreen (Lv 1)
-- Wrap (Lv 5)
-- Bite (Lv 10)
-- Flame Wheel (Lv 15)
-- Bug Bite (Lv 20)
-- Coil (Lv 23)
-- Slam (Lv 27)
-- Fire Spin (Lv 30)
-- Crunch (Lv 34)
-- Leech Life (Lv 37)
-- Fell Stinger (Lv 41)
-- Fire Lash (Lv 45)
-- Lunge (Lv 48)
-- Electroweb (Lv 53)
-- Burn Up (Lv 55)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 1)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 15)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=coil">Coil</a> (Lv 23)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 34)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 37)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 41)
+- <a href="move-lookup.html?q=fire-lash">Fire Lash</a> (Lv 45)
+- <a href="move-lookup.html?q=lunge">Lunge</a> (Lv 48)
+- <a href="move-lookup.html?q=electroweb">Electroweb</a> (Lv 53)
+- <a href="move-lookup.html?q=burn-up">Burn Up</a> (Lv 55)
 
 **Egg Moves**
-- Knock Off
-- Struggle Bug
-- Rollout
-- Defense Curl
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -154,16 +154,16 @@ Types: Fire / Bug • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- TM56 - Scald
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
 
 **Evolution Info**
 Lv. 28
@@ -184,38 +184,38 @@ Lv. 28
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Fire Fang (Lv Evo)
-- Inferno (Lv 1)
-- Ember (Lv 1)
-- Smokescreen (Lv 1)
-- Wrap (Lv 5)
-- Bite (Lv 10)
-- Flame Wheel (Lv 15)
-- Bug Bite (Lv 20)
-- Coil (Lv 23)
-- Slam (Lv 27)
-- Fire Spin (Lv 30)
-- Crunch (Lv 34)
-- Leech Life (Lv 37)
-- Fell Stinger (Lv 41)
-- Fire Lash (Lv 45)
-- Lunge (Lv 48)
-- Electroweb (Lv 53)
-- Burn Up (Lv 55)
-- Scald (Lv 60)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv Evo)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 1)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 15)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=coil">Coil</a> (Lv 23)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 34)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 37)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 41)
+- <a href="move-lookup.html?q=fire-lash">Fire Lash</a> (Lv 45)
+- <a href="move-lookup.html?q=lunge">Lunge</a> (Lv 48)
+- <a href="move-lookup.html?q=electroweb">Electroweb</a> (Lv 53)
+- <a href="move-lookup.html?q=burn-up">Burn Up</a> (Lv 55)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 60)
 
 **Egg Moves**
-- Knock Off
-- Struggle Bug
-- Rollout
-- Defense Curl
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -276,16 +276,16 @@ Types: Fire / Bug • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- TM56 - Scald
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
 
 **Evolution Info**
 Centiskite
@@ -306,38 +306,38 @@ Centiskite
 | Total | <span class="stat-value stat-high">625</span> |
 
 **Level-Up Moves**
-- Fire Fang (Lv Evo)
-- Inferno (Lv 1)
-- Ember (Lv 1)
-- Smokescreen (Lv 1)
-- Wrap (Lv 5)
-- Bite (Lv 10)
-- Flame Wheel (Lv 15)
-- Bug Bite (Lv 20)
-- Coil (Lv 23)
-- Slam (Lv 27)
-- Fire Spin (Lv 30)
-- Crunch (Lv 34)
-- Leech Life (Lv 37)
-- Fell Stinger (Lv 41)
-- Fire Lash (Lv 45)
-- Lunge (Lv 48)
-- Electroweb (Lv 53)
-- Burn Up (Lv 55)
-- Scald (Lv 60)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv Evo)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 1)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 15)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=coil">Coil</a> (Lv 23)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 34)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 37)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 41)
+- <a href="move-lookup.html?q=fire-lash">Fire Lash</a> (Lv 45)
+- <a href="move-lookup.html?q=lunge">Lunge</a> (Lv 48)
+- <a href="move-lookup.html?q=electroweb">Electroweb</a> (Lv 53)
+- <a href="move-lookup.html?q=burn-up">Burn Up</a> (Lv 55)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 60)
 
 **Egg Moves**
-- Knock Off
-- Struggle Bug
-- Rollout
-- Defense Curl
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>

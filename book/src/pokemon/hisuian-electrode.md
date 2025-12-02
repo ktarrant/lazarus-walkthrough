@@ -31,19 +31,19 @@ Types: Electric / Grass • Egg Groups: Mineral
 - Bug (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Encounter Locations**
 - Jusmail Town — Grass (Night) (10%)
@@ -65,29 +65,29 @@ Types: Electric / Grass • Egg Groups: Mineral
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Thunder Shock (Lv 1)
-- Tackle (Lv 5)
-- Thunder Wave (Lv 8)
-- Absorb (Lv 11)
-- Spark (Lv 15)
-- Bullet Seed (Lv 19)
-- Rollout (Lv 24)
-- Grassy Glide (Lv 27)
-- Charge Beam (Lv 31)
-- Discharge (Lv 36)
-- Energy Ball (Lv 41)
-- Self-Destruct (Lv 47)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 5)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 8)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 11)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 15)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 19)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 24)
+- <a href="move-lookup.html?q=grassy-glide">Grassy Glide</a> (Lv 27)
+- <a href="move-lookup.html?q=charge-beam">Charge Beam</a> (Lv 31)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 36)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 41)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 47)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Rollout
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -149,19 +149,19 @@ Types: Electric / Grass • Egg Groups: Mineral
 - Bug (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Leaf Stone
@@ -187,30 +187,30 @@ Leaf Stone
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
-- Chloroblast (Lv 1)
-- Thunder Shock (Lv 1)
-- Tackle (Lv 5)
-- Thunder Wave (Lv 8)
-- Absorb (Lv 11)
-- Spark (Lv 15)
-- Bullet Seed (Lv 19)
-- Rollout (Lv 24)
-- Grassy Glide (Lv 27)
-- Charge Beam (Lv 31)
-- Discharge (Lv 36)
-- Energy Ball (Lv 41)
-- Self-Destruct (Lv 47)
+- <a href="move-lookup.html?q=chloroblast">Chloroblast</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 5)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 8)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 11)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 15)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 19)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 24)
+- <a href="move-lookup.html?q=grassy-glide">Grassy Glide</a> (Lv 27)
+- <a href="move-lookup.html?q=charge-beam">Charge Beam</a> (Lv 31)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 36)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 41)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 47)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Rollout
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

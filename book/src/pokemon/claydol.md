@@ -33,30 +33,30 @@ Types: Ground / Psychic • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM54 - Dazzling Gleam
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Light Clay
@@ -84,42 +84,42 @@ Light Clay
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Level-Up Moves**
-- Harden (Lv 1)
-- Confusion (Lv 1)
-- Rapid Spin (Lv 4)
-- Mud-Slap (Lv 7)
-- Heal Block (Lv 10)
-- Rock Tomb (Lv 13)
-- Psybeam (Lv 16)
-- Ancient Power (Lv 19)
-- Cosmic Power (Lv 22)
-- Power Trick (Lv 25)
-- Self-Destruct (Lv 28)
-- Extrasensory (Lv 31)
-- Psyshield Bash (Lv 31)
-- Guard Split (Lv 34)
-- Power Split (Lv 34)
-- Body Slam (Lv 37)
-- Earth Power (Lv 40)
-- Sandstorm (Lv 46)
-- Diamond Storm (Lv 48)
-- Imprison (Lv 52)
-- Explosion (Lv 58)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 10)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 13)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 16)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 19)
+- <a href="move-lookup.html?q=cosmic-power">Cosmic Power</a> (Lv 22)
+- <a href="move-lookup.html?q=power-trick">Power Trick</a> (Lv 25)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 31)
+- <a href="move-lookup.html?q=psyshield-bash">Psyshield Bash</a> (Lv 31)
+- <a href="move-lookup.html?q=guard-split">Guard Split</a> (Lv 34)
+- <a href="move-lookup.html?q=power-split">Power Split</a> (Lv 34)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 37)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 40)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 46)
+- <a href="move-lookup.html?q=diamond-storm">Diamond Storm</a> (Lv 48)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 52)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 58)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Dream Eater
-- Endure
-- Explosion
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -183,32 +183,32 @@ Types: Ground / Psychic • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM54 - Dazzling Gleam
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Light Clay
@@ -235,45 +235,45 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Signal Beam (Lv Evo)
-- Hyper Beam (Lv 1)
-- Teleport (Lv 1)
-- Harden (Lv 1)
-- Confusion (Lv 1)
-- Rapid Spin (Lv 4)
-- Mud-Slap (Lv 7)
-- Heal Block (Lv 10)
-- Rock Tomb (Lv 13)
-- Psybeam (Lv 16)
-- Ancient Power (Lv 19)
-- Cosmic Power (Lv 22)
-- Power Trick (Lv 25)
-- Self-Destruct (Lv 28)
-- Extrasensory (Lv 31)
-- Psyshield Bash (Lv 31)
-- Guard Split (Lv 34)
-- Power Split (Lv 34)
-- Body Slam (Lv 37)
-- Earth Power (Lv 40)
-- Sandstorm (Lv 46)
-- Diamond Storm (Lv 48)
-- Imprison (Lv 52)
-- Explosion (Lv 58)
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a> (Lv Evo)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=teleport">Teleport</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 4)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 7)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 10)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 13)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 16)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 19)
+- <a href="move-lookup.html?q=cosmic-power">Cosmic Power</a> (Lv 22)
+- <a href="move-lookup.html?q=power-trick">Power Trick</a> (Lv 25)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 31)
+- <a href="move-lookup.html?q=psyshield-bash">Psyshield Bash</a> (Lv 31)
+- <a href="move-lookup.html?q=guard-split">Guard Split</a> (Lv 34)
+- <a href="move-lookup.html?q=power-split">Power Split</a> (Lv 34)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 37)
+- <a href="move-lookup.html?q=earth-power">Earth Power</a> (Lv 40)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 46)
+- <a href="move-lookup.html?q=diamond-storm">Diamond Storm</a> (Lv 48)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 52)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 58)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Dream Eater
-- Endure
-- Explosion
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

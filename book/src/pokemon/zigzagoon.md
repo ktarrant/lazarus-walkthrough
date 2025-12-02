@@ -25,28 +25,28 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM03 - Surf
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Potion
@@ -71,48 +71,48 @@ Potion
 | Total | <span class="stat-value stat-low">240</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Tail Whip (Lv 5)
-- Sand Attack (Lv 7)
-- Headbutt (Lv 11)
-- Baby-Doll Eyes (Lv 12)
-- Odor Sleuth (Lv 13)
-- Mud Sport (Lv 17)
-- Pin Missile (Lv 19)
-- Covet (Lv 23)
-- Bestow (Lv 25)
-- Flail (Lv 29)
-- Take Down (Lv 31)
-- Rest (Lv 35)
-- Belly Drum (Lv 37)
-- Fling (Lv 41)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 5)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 12)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 13)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 17)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 19)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 23)
+- <a href="move-lookup.html?q=bestow">Bestow</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 29)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 31)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 35)
+- <a href="move-lookup.html?q=belly-drum">Belly Drum</a> (Lv 37)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 41)
 
 **Egg Moves**
-- Charm
-- Pursuit
-- Tickle
-- Trick
-- Helping Hand
-- Mud-Slap
-- Sleep Talk
-- Rock Climb
-- Simple Beam
-- Extreme Speed
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=trick">Trick</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=simple-beam">Simple Beam</a>
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Fury Cutter
-- Icy Wind
-- Mud-Slap
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -168,29 +168,29 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Potion
@@ -218,52 +218,52 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">430</span> |
 
 **Level-Up Moves**
-- Work Up (Lv Evo)
-- Play Rough (Lv 1)
-- Rototiller (Lv 1)
-- Switcheroo (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Tail Whip (Lv 5)
-- Sand Attack (Lv 7)
-- Headbutt (Lv 11)
-- Odor Sleuth (Lv 13)
-- Mud Sport (Lv 17)
-- Fury Swipes (Lv 19)
-- Covet (Lv 24)
-- Bestow (Lv 27)
-- Body Slam (Lv 30)
-- Slash (Lv 32)
-- Double-Edge (Lv 35)
-- Rest (Lv 40)
-- Belly Drum (Lv 43)
-- Fling (Lv 48)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv Evo)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 1)
+- <a href="move-lookup.html?q=rototiller">Rototiller</a> (Lv 1)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 5)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 13)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 17)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 19)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 24)
+- <a href="move-lookup.html?q=bestow">Bestow</a> (Lv 27)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 30)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 35)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 40)
+- <a href="move-lookup.html?q=belly-drum">Belly Drum</a> (Lv 43)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 48)
 
 **Egg Moves**
-- Charm
-- Pursuit
-- Tickle
-- Trick
-- Helping Hand
-- Mud-Slap
-- Sleep Talk
-- Rock Climb
-- Simple Beam
-- Extreme Speed
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=trick">Trick</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=simple-beam">Simple Beam</a>
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Fury Cutter
-- Icy Wind
-- Mud-Slap
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

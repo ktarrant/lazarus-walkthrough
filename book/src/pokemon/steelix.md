@@ -37,23 +37,23 @@ Types: Rock / Ground • Egg Groups: Mineral
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM60 - Dragon Dance
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -76,55 +76,55 @@ Types: Rock / Ground • Egg Groups: Mineral
 | Total | <span class="stat-value stat-mid">400</span> |
 
 **Level-Up Moves**
-- Mud Sport (Lv 1)
-- Tackle (Lv 1)
-- Harden (Lv 1)
-- Bind (Lv 1)
-- Curse (Lv 4)
-- Rock Throw (Lv 7)
-- Rock Tomb (Lv 10)
-- Rage (Lv 13)
-- Bite (Lv 15)
-- Stealth Rock (Lv 16)
-- Rock Polish (Lv 19)
-- Gyro Ball (Lv 20)
-- Smack Down (Lv 22)
-- Dragon Breath (Lv 25)
-- Slam (Lv 28)
-- Screech (Lv 31)
-- Rock Slide (Lv 34)
-- Sand Tomb (Lv 37)
-- Iron Tail (Lv 40)
-- Dig (Lv 43)
-- Stone Edge (Lv 46)
-- Double-Edge (Lv 49)
-- Sandstorm (Lv 52)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=bind">Bind</a> (Lv 1)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 4)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 10)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 15)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 16)
+- <a href="move-lookup.html?q=rock-polish">Rock Polish</a> (Lv 19)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 20)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 22)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 28)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 31)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 34)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 37)
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a> (Lv 40)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 43)
+- <a href="move-lookup.html?q=stone-edge">Stone Edge</a> (Lv 46)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 49)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 52)
 
 **Egg Moves**
-- Flail
-- Block
-- Defense Curl
-- Rollout
-- Rock Blast
-- Rock Climb
-- Heavy Slam
-- Stealth Rock
-- Rototiller
-- Wide Guard
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -192,25 +192,25 @@ Types: Steel / Ground • Egg Groups: Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Metal Coat
@@ -234,58 +234,58 @@ Metal Coat
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Iron Head (Lv Evo)
-- Thunder Fang (Lv 1)
-- Ice Fang (Lv 1)
-- Fire Fang (Lv 1)
-- Mud Sport (Lv 1)
-- Tackle (Lv 1)
-- Harden (Lv 1)
-- Bind (Lv 1)
-- Curse (Lv 4)
-- Rock Throw (Lv 7)
-- Rock Tomb (Lv 10)
-- Rage (Lv 13)
-- Stealth Rock (Lv 16)
-- Autotomize (Lv 19)
-- Gyro Ball (Lv 20)
-- Smack Down (Lv 22)
-- Dragon Breath (Lv 25)
-- Slam (Lv 28)
-- Screech (Lv 31)
-- Rock Slide (Lv 34)
-- Crunch (Lv 37)
-- Iron Tail (Lv 40)
-- Dig (Lv 43)
-- Stone Edge (Lv 46)
-- Double-Edge (Lv 49)
-- Sandstorm (Lv 52)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv Evo)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=bind">Bind</a> (Lv 1)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 4)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 10)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 13)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 16)
+- <a href="move-lookup.html?q=autotomize">Autotomize</a> (Lv 19)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 20)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 22)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 28)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 31)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 37)
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a> (Lv 40)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 43)
+- <a href="move-lookup.html?q=stone-edge">Stone Edge</a> (Lv 46)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 49)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 52)
 
 **Egg Moves**
-- Flail
-- Block
-- Defense Curl
-- Rollout
-- Rock Blast
-- Rock Climb
-- Heavy Slam
-- Stealth Rock
-- Rototiller
-- Wide Guard
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -351,25 +351,25 @@ Types: Steel / Ground • Egg Groups: Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Metal Coat
@@ -393,58 +393,58 @@ Steelixite
 | Total | <span class="stat-value stat-high">610</span> |
 
 **Level-Up Moves**
-- Iron Head (Lv Evo)
-- Thunder Fang (Lv 1)
-- Ice Fang (Lv 1)
-- Fire Fang (Lv 1)
-- Mud Sport (Lv 1)
-- Tackle (Lv 1)
-- Harden (Lv 1)
-- Bind (Lv 1)
-- Curse (Lv 4)
-- Rock Throw (Lv 7)
-- Rock Tomb (Lv 10)
-- Rage (Lv 13)
-- Stealth Rock (Lv 16)
-- Autotomize (Lv 19)
-- Gyro Ball (Lv 20)
-- Smack Down (Lv 22)
-- Dragon Breath (Lv 25)
-- Slam (Lv 28)
-- Screech (Lv 31)
-- Rock Slide (Lv 34)
-- Crunch (Lv 37)
-- Iron Tail (Lv 40)
-- Dig (Lv 43)
-- Stone Edge (Lv 46)
-- Double-Edge (Lv 49)
-- Sandstorm (Lv 52)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv Evo)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=bind">Bind</a> (Lv 1)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 4)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 7)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 10)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 13)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 16)
+- <a href="move-lookup.html?q=autotomize">Autotomize</a> (Lv 19)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 20)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 22)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 28)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 31)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 37)
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a> (Lv 40)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 43)
+- <a href="move-lookup.html?q=stone-edge">Stone Edge</a> (Lv 46)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 49)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 52)
 
 **Egg Moves**
-- Flail
-- Block
-- Defense Curl
-- Rollout
-- Rock Blast
-- Rock Climb
-- Heavy Slam
-- Stealth Rock
-- Rototiller
-- Wide Guard
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a>
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

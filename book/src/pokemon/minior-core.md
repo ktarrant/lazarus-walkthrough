@@ -25,22 +25,22 @@ Types: Rock / Flying • Egg Groups: Mineral
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM29 - Psychic
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Star Piece
@@ -61,40 +61,40 @@ Star Piece
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Defense Curl (Lv 3)
-- Rollout (Lv 8)
-- Confuse Ray (Lv 10)
-- Gust (Lv 13)
-- Swift (Lv 16)
-- Ancient Power (Lv 17)
-- Self-Destruct (Lv 22)
-- Stealth Rock (Lv 24)
-- Acrobatics (Lv 27)
-- Take Down (Lv 29)
-- Autotomize (Lv 31)
-- Cosmic Power (Lv 34)
-- Power Gem (Lv 37)
-- Dazzling Gleam (Lv 40)
-- Double-Edge (Lv 43)
-- Shell Smash (Lv 45)
-- Explosion (Lv 50)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 3)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 8)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 10)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 13)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 16)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 17)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 22)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 24)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 27)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 29)
+- <a href="move-lookup.html?q=autotomize">Autotomize</a> (Lv 31)
+- <a href="move-lookup.html?q=cosmic-power">Cosmic Power</a> (Lv 34)
+- <a href="move-lookup.html?q=power-gem">Power Gem</a> (Lv 37)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 40)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 43)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 45)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 50)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -30,29 +30,29 @@ Types: Psychic • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Night) (20%)
@@ -73,45 +73,45 @@ Types: Psychic • Egg Groups: Human-Like
 | Total | <span class="stat-value stat-low">290</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Confusion (Lv 3)
-- Tickle (Lv 7)
-- Play Nice (Lv 8)
-- Fake Tears (Lv 10)
-- Double Slap (Lv 14)
-- Psybeam (Lv 16)
-- Embargo (Lv 19)
-- Feint Attack (Lv 24)
-- Psyshock (Lv 25)
-- Flatter (Lv 28)
-- Relic Song (Lv 30)
-- Future Sight (Lv 31)
-- Heal Block (Lv 33)
-- Psychic (Lv 36)
-- Dark Pulse (Lv 39)
-- Telekinesis (Lv 41)
-- Charm (Lv 46)
-- Magic Room (Lv 48)
-- Thunderbolt (Lv 52)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 3)
+- <a href="move-lookup.html?q=tickle">Tickle</a> (Lv 7)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 8)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 10)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 16)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 24)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 25)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 28)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 30)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 31)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 33)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 36)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 39)
+- <a href="move-lookup.html?q=telekinesis">Telekinesis</a> (Lv 41)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 46)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 48)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv 52)
 
 **Egg Moves**
-- Mirror Coat
-- Uproar
-- Miracle Eye
-- Captivate
-- Mean Look
-- Dark Pulse
-- Heal Pulse
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
+- <a href="move-lookup.html?q=miracle-eye">Miracle Eye</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -170,29 +170,29 @@ Types: Psychic • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 27
@@ -216,46 +216,46 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">390</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Confusion (Lv 3)
-- Tickle (Lv 7)
-- Play Nice (Lv 8)
-- Fake Tears (Lv 10)
-- Double Slap (Lv 14)
-- Psybeam (Lv 16)
-- Embargo (Lv 19)
-- Feint Attack (Lv 24)
-- Psyshock (Lv 25)
-- Flatter (Lv 28)
-- Relic Song (Lv 30)
-- Future Sight (Lv 31)
-- Heal Block (Lv 33)
-- Psychic (Lv 36)
-- Dark Pulse (Lv 39)
-- Telekinesis (Lv 41)
-- Charm (Lv 46)
-- Magic Room (Lv 48)
-- Thunderbolt (Lv 52)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 3)
+- <a href="move-lookup.html?q=tickle">Tickle</a> (Lv 7)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 8)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 10)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 16)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 24)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 25)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 28)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 30)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 31)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 33)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 36)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 39)
+- <a href="move-lookup.html?q=telekinesis">Telekinesis</a> (Lv 41)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 46)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 48)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv 52)
 
 **Egg Moves**
-- Mirror Coat
-- Uproar
-- Miracle Eye
-- Captivate
-- Mean Look
-- Dark Pulse
-- Heal Pulse
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
+- <a href="move-lookup.html?q=miracle-eye">Miracle Eye</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Metronome
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -314,31 +314,31 @@ Types: Psychic • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 41
@@ -362,48 +362,48 @@ Lv. 41
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Perish Song (Lv Evo)
-- Pound (Lv 1)
-- Confusion (Lv 3)
-- Tickle (Lv 7)
-- Play Nice (Lv 8)
-- Fake Tears (Lv 10)
-- Double Slap (Lv 14)
-- Psybeam (Lv 16)
-- Embargo (Lv 19)
-- Feint Attack (Lv 24)
-- Psyshock (Lv 25)
-- Flatter (Lv 28)
-- Relic Song (Lv 30)
-- Future Sight (Lv 31)
-- Heal Block (Lv 33)
-- Psychic (Lv 36)
-- Dark Pulse (Lv 39)
-- Telekinesis (Lv 41)
-- Charm (Lv 46)
-- Magic Room (Lv 48)
-- Thunderbolt (Lv 52)
+- <a href="move-lookup.html?q=perish-song">Perish Song</a> (Lv Evo)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 3)
+- <a href="move-lookup.html?q=tickle">Tickle</a> (Lv 7)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 8)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 10)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 16)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 24)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 25)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 28)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 30)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 31)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 33)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 36)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 39)
+- <a href="move-lookup.html?q=telekinesis">Telekinesis</a> (Lv 41)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 46)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 48)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv 52)
 
 **Egg Moves**
-- Mirror Coat
-- Uproar
-- Miracle Eye
-- Captivate
-- Mean Look
-- Dark Pulse
-- Heal Pulse
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
+- <a href="move-lookup.html?q=miracle-eye">Miracle Eye</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Metronome
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

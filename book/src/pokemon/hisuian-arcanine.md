@@ -34,19 +34,19 @@ Types: Fire / Rock • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM28 - Dig
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Jusmail Town — Grass (Day) (4%)
@@ -68,36 +68,36 @@ Types: Fire / Rock • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Level-Up Moves**
-- Bite (Lv 1)
-- Roar (Lv 1)
-- Ember (Lv 6)
-- Leer (Lv 8)
-- Rock Throw (Lv 10)
-- Helping Hand (Lv 12)
-- Flame Wheel (Lv 17)
-- Reversal (Lv 19)
-- Fire Fang (Lv 21)
-- Take Down (Lv 23)
-- Flame Burst (Lv 28)
-- Smack Down (Lv 30)
-- Raging Fury (Lv 32)
-- Flamethrower (Lv 34)
-- Crunch (Lv 37)
-- Rock Slide (Lv 40)
-- Outrage (Lv 43)
-- Flare Blitz (Lv 45)
-- Head Smash (Lv 50)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 6)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 8)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 10)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 12)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 17)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 19)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 21)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 23)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 28)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 30)
+- <a href="move-lookup.html?q=raging-fury">Raging Fury</a> (Lv 32)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 37)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 40)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 43)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 45)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 50)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Rock Slide
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -162,22 +162,22 @@ Types: Fire / Rock • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Fire Stone
@@ -198,37 +198,37 @@ Fire Stone
 | Total | <span class="stat-value stat-high">555</span> |
 
 **Level-Up Moves**
-- Accelerock (Lv Evo)
-- Bite (Lv 1)
-- Roar (Lv 1)
-- Ember (Lv 6)
-- Leer (Lv 8)
-- Rock Throw (Lv 10)
-- Helping Hand (Lv 12)
-- Flame Wheel (Lv 17)
-- Reversal (Lv 19)
-- Fire Fang (Lv 21)
-- Take Down (Lv 23)
-- Flame Burst (Lv 28)
-- Smack Down (Lv 30)
-- Raging Fury (Lv 32)
-- Flamethrower (Lv 34)
-- Crunch (Lv 37)
-- Rock Slide (Lv 40)
-- Outrage (Lv 43)
-- Flare Blitz (Lv 45)
-- Head Smash (Lv 50)
+- <a href="move-lookup.html?q=accelerock">Accelerock</a> (Lv Evo)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 6)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 8)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 10)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 12)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 17)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 19)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 21)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 23)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 28)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 30)
+- <a href="move-lookup.html?q=raging-fury">Raging Fury</a> (Lv 32)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 37)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 40)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 43)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 45)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 50)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Rock Slide
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

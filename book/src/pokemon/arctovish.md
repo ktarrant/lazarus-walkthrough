@@ -22,17 +22,17 @@ Types: Water / Ice • Egg Groups: -
 - Rock (2×)
 
 **TM/HM Moves**
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="arctovish" /> Caught</label>
@@ -50,34 +50,34 @@ Types: Water / Ice • Egg Groups: -
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Powder Snow (Lv 1)
-- Water Gun (Lv 1)
-- Protect (Lv 7)
-- Icy Wind (Lv 12)
-- Ancient Power (Lv 16)
-- Bite (Lv 20)
-- Aurora Veil (Lv 24)
-- Freeze-Dry (Lv 28)
-- Ice Shard (Lv 33)
-- Super Fang (Lv 35)
-- Crunch (Lv 38)
-- Slam (Lv 40)
-- Aqua Jet (Lv 44)
-- Wave Crash (Lv 48)
-- Fishious Rend (Lv 52)
-- Icicle Crash (Lv 55)
-- Blizzard (Lv 58)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 7)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 12)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 16)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=aurora-veil">Aurora Veil</a> (Lv 24)
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a> (Lv 28)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 33)
+- <a href="move-lookup.html?q=super-fang">Super Fang</a> (Lv 35)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 38)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 40)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 44)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 48)
+- <a href="move-lookup.html?q=fishious-rend">Fishious Rend</a> (Lv 52)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 55)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 58)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Rock Slide
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>

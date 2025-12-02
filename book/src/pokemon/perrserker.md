@@ -37,21 +37,21 @@ Types: Steel • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (10%)
@@ -73,41 +73,41 @@ Types: Steel • Egg Groups: Field
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Fake Out (Lv 1)
-- Growl (Lv 1)
-- Hone Claws (Lv 4)
-- Scratch (Lv 8)
-- Pay Day (Lv 12)
-- Metal Claw (Lv 16)
-- Thief (Lv 20)
-- Taunt (Lv 22)
-- Swagger (Lv 23)
-- Bite (Lv 25)
-- Fury Swipes (Lv 29)
-- Screech (Lv 32)
-- Slash (Lv 35)
-- Night Slash (Lv 35)
-- Metal Sound (Lv 38)
-- Icicle Crash (Lv 41)
-- Thrash (Lv 45)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 4)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 8)
+- <a href="move-lookup.html?q=pay-day">Pay Day</a> (Lv 12)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 16)
+- <a href="move-lookup.html?q=thief">Thief</a> (Lv 20)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 23)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 25)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 29)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 38)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 41)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 45)
 
 **Egg Moves**
-- Spite
-- Double-Edge
-- Curse
-- Flail
-- Night Slash
-- Covet
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Metronome
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -175,21 +175,21 @@ Types: Steel • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Lv. 27
@@ -216,44 +216,44 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
-- Iron Head (Lv Evo)
-- Metal Burst (Lv 1)
-- Iron Defense (Lv 1)
-- Fake Out (Lv 1)
-- Growl (Lv 1)
-- Hone Claws (Lv 1)
-- Scratch (Lv 1)
-- Pay Day (Lv 12)
-- Metal Claw (Lv 16)
-- Thief (Lv 20)
-- Taunt (Lv 22)
-- Swagger (Lv 23)
-- Bite (Lv 25)
-- Fury Swipes (Lv 29)
-- Screech (Lv 32)
-- Slash (Lv 35)
-- Night Slash (Lv 35)
-- Metal Sound (Lv 38)
-- Icicle Crash (Lv 41)
-- Thrash (Lv 45)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv Evo)
+- <a href="move-lookup.html?q=metal-burst">Metal Burst</a> (Lv 1)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=pay-day">Pay Day</a> (Lv 12)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 16)
+- <a href="move-lookup.html?q=thief">Thief</a> (Lv 20)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 23)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 25)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 29)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 38)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 41)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 45)
 
 **Egg Moves**
-- Spite
-- Double-Edge
-- Curse
-- Flail
-- Night Slash
-- Covet
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=covet">Covet</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Metronome
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

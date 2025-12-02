@@ -29,10 +29,10 @@ Types: Ice / Bug • Egg Groups: Bug
 - Steel (2×)
 
 **TM/HM Moves**
-- TM17 - Protect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Held Item**
 Snowball
@@ -57,20 +57,20 @@ Snowball
 | Total | <span class="stat-value stat-low">185</span> |
 
 **Level-Up Moves**
-- Powder Snow (Lv 1)
-- Struggle Bug (Lv 1)
-- Sticky Web (Lv 15)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 1)
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a> (Lv 15)
 
 **Egg Moves**
-- Fairy Wind
-- Mirror Coat
-- Bug Bite
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -130,17 +130,17 @@ Types: Ice / Bug • Egg Groups: Bug
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Evolution Info**
 Ice Stone
@@ -161,41 +161,41 @@ Ice Stone
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Icy Wind (Lv Evo)
-- Powder Snow (Lv 1)
-- Struggle Bug (Lv 1)
-- Helping Hand (Lv 1)
-- Attract (Lv 1)
-- Sticky Web (Lv 1)
-- Stun Spore (Lv 4)
-- Infestation (Lv 8)
-- Mist (Lv 12)
-- Defog (Lv 16)
-- Mega Drain (Lv 20)
-- Feather Dance (Lv 22)
-- Aurora Beam (Lv 24)
-- Hail (Lv 28)
-- Freeze-Dry (Lv 30)
-- Bug Buzz (Lv 32)
-- Aurora Veil (Lv 35)
-- Quiver Dance (Lv 38)
-- Blizzard (Lv 40)
-- Giga Drain (Lv 42)
-- Tailwind (Lv 45)
-- Wide Guard (Lv 48)
-- Quiver Dance (Lv 52)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv Evo)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 1)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 1)
+- <a href="move-lookup.html?q=attract">Attract</a> (Lv 1)
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a> (Lv 1)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 4)
+- <a href="move-lookup.html?q=infestation">Infestation</a> (Lv 8)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 12)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 16)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 20)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 22)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 24)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 28)
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a> (Lv 30)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 32)
+- <a href="move-lookup.html?q=aurora-veil">Aurora Veil</a> (Lv 35)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 40)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 42)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 45)
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a> (Lv 48)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 52)
 
 **Egg Moves**
-- Fairy Wind
-- Mirror Coat
-- Bug Bite
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

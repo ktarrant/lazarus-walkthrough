@@ -32,22 +32,22 @@ Types: Dragon • Egg Groups: Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM60 - Dragon Dance
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
 
 **Held Item**
 Razor Claw
@@ -74,39 +74,39 @@ Razor Claw
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 5)
-- Bide (Lv 9)
-- Protect (Lv 13)
-- Dragon Tail (Lv 17)
-- Scary Face (Lv 20)
-- Rock Smash (Lv 23)
-- Headbutt (Lv 26)
-- Work Up (Lv 29)
-- Screech (Lv 32)
-- Seismic Toss (Lv 35)
-- Iron Defense (Lv 37)
-- Dragon Claw (Lv 41)
-- Dual Chop (Lv 44)
-- Noble Roar (Lv 46)
-- Dragon Dance (Lv 49)
-- Outrage (Lv 53)
-- Close Combat (Lv 56)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 5)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 9)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 20)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 23)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 26)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 29)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a> (Lv 35)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 37)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 41)
+- <a href="move-lookup.html?q=dual-chop">Dual Chop</a> (Lv 44)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 46)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 49)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 53)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 56)
 
 **Egg Moves**
-- Counter
-- Reversal
-- Dragon Breath
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -172,23 +172,23 @@ Types: Dragon / Fighting • Egg Groups: Dragon
 - Fairy (4×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM60 - Dragon Dance
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
 
 **Held Item**
 Razor Claw
@@ -212,44 +212,44 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">430</span> |
 
 **Level-Up Moves**
-- Sky Uppercut (Lv Evo)
-- Autotomize (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 5)
-- Bide (Lv 9)
-- Protect (Lv 13)
-- Dragon Tail (Lv 17)
-- Scary Face (Lv 20)
-- Rock Smash (Lv 23)
-- Headbutt (Lv 26)
-- Work Up (Lv 29)
-- Screech (Lv 32)
-- Seismic Toss (Lv 35)
-- Iron Defense (Lv 37)
-- Dragon Claw (Lv 41)
-- Dual Chop (Lv 44)
-- Noble Roar (Lv 46)
-- Dragon Dance (Lv 49)
-- Outrage (Lv 53)
-- Close Combat (Lv 56)
+- <a href="move-lookup.html?q=sky-uppercut">Sky Uppercut</a> (Lv Evo)
+- <a href="move-lookup.html?q=autotomize">Autotomize</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 5)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 9)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 20)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 23)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 26)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 29)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a> (Lv 35)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 37)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 41)
+- <a href="move-lookup.html?q=dual-chop">Dual Chop</a> (Lv 44)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 46)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 49)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 53)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 56)
 
 **Egg Moves**
-- Counter
-- Reversal
-- Dragon Breath
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -315,28 +315,28 @@ Types: Dragon / Fighting • Egg Groups: Dragon
 - Fairy (4×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM60 - Dragon Dance
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
 
 **Held Item**
 Razor Claw
@@ -360,51 +360,51 @@ Lv. 45
 | Total | <span class="stat-value stat-high">610</span> |
 
 **Level-Up Moves**
-- Clanging Scales (Lv Evo)
-- Sky Uppercut (Lv 1)
-- Belly Drum (Lv 1)
-- Autotomize (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 5)
-- Bide (Lv 9)
-- Protect (Lv 13)
-- Dragon Tail (Lv 17)
-- Scary Face (Lv 20)
-- Rock Smash (Lv 23)
-- Headbutt (Lv 26)
-- Work Up (Lv 29)
-- Screech (Lv 32)
-- Seismic Toss (Lv 35)
-- Iron Defense (Lv 37)
-- Dragon Claw (Lv 41)
-- Dual Chop (Lv 44)
-- Noble Roar (Lv 46)
-- Calm Mind (Lv 49)
-- Dragon Dance (Lv 49)
-- Outrage (Lv 53)
-- Flash Cannon (Lv 55)
-- Close Combat (Lv 57)
+- <a href="move-lookup.html?q=clanging-scales">Clanging Scales</a> (Lv Evo)
+- <a href="move-lookup.html?q=sky-uppercut">Sky Uppercut</a> (Lv 1)
+- <a href="move-lookup.html?q=belly-drum">Belly Drum</a> (Lv 1)
+- <a href="move-lookup.html?q=autotomize">Autotomize</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 5)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 9)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 20)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 23)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 26)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 29)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a> (Lv 35)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 37)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 41)
+- <a href="move-lookup.html?q=dual-chop">Dual Chop</a> (Lv 44)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 46)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 49)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 49)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 53)
+- <a href="move-lookup.html?q=flash-cannon">Flash Cannon</a> (Lv 55)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 57)
 
 **Egg Moves**
-- Counter
-- Reversal
-- Dragon Breath
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

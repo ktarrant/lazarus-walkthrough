@@ -26,30 +26,30 @@ Types: Electric • Egg Groups: -
 - Ground (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM55 - Snarl
-- TM56 - Scald
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="raikou" /> Caught</label>
@@ -67,37 +67,37 @@ Types: Electric • Egg Groups: -
 | Total | <span class="stat-value stat-high">560</span> |
 
 **Level-Up Moves**
-- Extrasensory (Lv 1)
-- Discharge (Lv 1)
-- Bite (Lv 1)
-- Leer (Lv 1)
-- Thunder Shock (Lv 8)
-- Roar (Lv 15)
-- Quick Attack (Lv 20)
-- Spark (Lv 25)
-- Reflect (Lv 30)
-- Crunch (Lv 35)
-- Thunder Fang (Lv 40)
-- Discharge (Lv 45)
-- Extrasensory (Lv 50)
-- Rain Dance (Lv 55)
-- Dragon Energy (Lv 60)
-- Calm Mind (Lv 65)
-- Thunder (Lv 70)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 1)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 8)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 15)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 20)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 25)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 35)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 40)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 45)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 50)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 55)
+- <a href="move-lookup.html?q=dragon-energy">Dragon Energy</a> (Lv 60)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 65)
+- <a href="move-lookup.html?q=thunder">Thunder</a> (Lv 70)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -160,19 +160,19 @@ Types: Electric / Dragon • Egg Groups: -
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM55 - Snarl
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Held Item**
 Booster Energy
@@ -196,34 +196,34 @@ Lv. after using Dragon Energy 20x
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Thunderclap (Lv Evo)
-- Ancient Power (Lv 1)
-- Twister (Lv 1)
-- Sunny Day (Lv 1)
-- Shock Wave (Lv 1)
-- Stomp (Lv 1)
-- Charge (Lv 7)
-- Dragon Breath (Lv 14)
-- Electric Terrain (Lv 21)
-- Discharge (Lv 28)
-- Dragon Tail (Lv 35)
-- Calm Mind (Lv 42)
-- Thunderclap (Lv 49)
-- Dragon Hammer (Lv 56)
-- Rising Voltage (Lv 63)
-- Dragon Pulse (Lv 70)
-- Zap Cannon (Lv 77)
-- Body Press (Lv 84)
-- Thunder (Lv 91)
+- <a href="move-lookup.html?q=thunderclap">Thunderclap</a> (Lv Evo)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 1)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 1)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 1)
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a> (Lv 1)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 1)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 7)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 14)
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a> (Lv 21)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 28)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 35)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 42)
+- <a href="move-lookup.html?q=thunderclap">Thunderclap</a> (Lv 49)
+- <a href="move-lookup.html?q=dragon-hammer">Dragon Hammer</a> (Lv 56)
+- <a href="move-lookup.html?q=rising-voltage">Rising Voltage</a> (Lv 63)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 70)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 77)
+- <a href="move-lookup.html?q=body-press">Body Press</a> (Lv 84)
+- <a href="move-lookup.html?q=thunder">Thunder</a> (Lv 91)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>

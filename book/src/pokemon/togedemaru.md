@@ -31,20 +31,20 @@ Types: Electric / Steel • Egg Groups: Field / Fairy
 - Ground (4×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM06 - Toxic
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Held Item**
 Electric Seed
@@ -71,43 +71,43 @@ Electric Seed
 | Total | <span class="stat-value stat-mid">475</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Thunder Shock (Lv 1)
-- Defense Curl (Lv 5)
-- Rollout (Lv 9)
-- Charge (Lv 13)
-- Spark (Lv 17)
-- Nuzzle (Lv 21)
-- Magnet Rise (Lv 25)
-- Discharge (Lv 29)
-- Zing Zap (Lv 33)
-- Iron Head (Lv 35)
-- Electric Terrain (Lv 37)
-- Wild Charge (Lv 41)
-- Pin Missile (Lv 43)
-- Spiky Shield (Lv 46)
-- Fell Stinger (Lv 48)
-- Thunderclap (Lv 55)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 5)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 9)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 13)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 17)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 21)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 25)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 29)
+- <a href="move-lookup.html?q=zing-zap">Zing Zap</a> (Lv 33)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 35)
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a> (Lv 37)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 41)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 43)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 46)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 48)
+- <a href="move-lookup.html?q=thunderclap">Thunderclap</a> (Lv 55)
 
 **Egg Moves**
-- Reversal
-- Present
-- Encore
-- Twineedle
-- Wish
-- Fake Out
-- Tickle
-- Flail
-- Disarming Voice
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=present">Present</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

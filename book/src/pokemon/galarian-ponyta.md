@@ -28,15 +28,15 @@ Types: Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM17 - Protect
-- TM29 - Psychic
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Encounter Locations**
 - Lastlight Road — Grass (Night) (10%)
@@ -59,35 +59,35 @@ Types: Psychic • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Tail Whip (Lv 5)
-- Confusion (Lv 10)
-- Fairy Wind (Lv 15)
-- Agility (Lv 20)
-- Psybeam (Lv 25)
-- Stomp (Lv 30)
-- Heal Pulse (Lv 35)
-- Take Down (Lv 41)
-- Spirit Break (Lv 45)
-- Psychic (Lv 50)
-- Healing Wish (Lv 55)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 5)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 15)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 20)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 25)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 30)
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 41)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv 45)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 50)
+- <a href="move-lookup.html?q=healing-wish">Healing Wish</a> (Lv 55)
 
 **Egg Moves**
-- Thrash
-- Double Kick
-- Hypnosis
-- Double-Edge
-- Horn Drill
-- Morning Sun
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a>
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -147,16 +147,16 @@ Types: Psychic / Fairy • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM29 - Psychic
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Evolution Info**
 Lv. 30
@@ -180,38 +180,38 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Psycho Cut (Lv Evo)
-- Megahorn (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Tail Whip (Lv 5)
-- Confusion (Lv 10)
-- Fairy Wind (Lv 15)
-- Agility (Lv 20)
-- Psybeam (Lv 25)
-- Stomp (Lv 30)
-- Heal Pulse (Lv 35)
-- Take Down (Lv 41)
-- Spirit Break (Lv 45)
-- Psychic (Lv 50)
-- Healing Wish (Lv 55)
+- <a href="move-lookup.html?q=psycho-cut">Psycho Cut</a> (Lv Evo)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 5)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 15)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 20)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 25)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 30)
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 41)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv 45)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 50)
+- <a href="move-lookup.html?q=healing-wish">Healing Wish</a> (Lv 55)
 
 **Egg Moves**
-- Thrash
-- Double Kick
-- Hypnosis
-- Double-Edge
-- Horn Drill
-- Morning Sun
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a>
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -21,30 +21,30 @@ Types: Ghost / Dark • Egg Groups: Amorphous
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="spiritomb" /> Caught</label>
@@ -62,46 +62,46 @@ Types: Ghost / Dark • Egg Groups: Amorphous
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
-- Curse (Lv 1)
-- Pursuit (Lv 1)
-- Confuse Ray (Lv 1)
-- Spite (Lv 1)
-- Shadow Sneak (Lv 1)
-- Feint Attack (Lv 7)
-- Hypnosis (Lv 13)
-- Dream Eater (Lv 19)
-- Ominous Wind (Lv 23)
-- Crunch (Lv 27)
-- Sucker Punch (Lv 31)
-- Psybeam (Lv 34)
-- Nasty Plot (Lv 37)
-- Fiery Wrath (Lv 40)
-- Memento (Lv 43)
-- Dark Pulse (Lv 45)
-- Foul Play (Lv 48)
-- Astral Barrage (Lv 55)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 1)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 1)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 1)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 1)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 13)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 19)
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a> (Lv 23)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 27)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 31)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 34)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 37)
+- <a href="move-lookup.html?q=fiery-wrath">Fiery Wrath</a> (Lv 40)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 43)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 45)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 48)
+- <a href="move-lookup.html?q=astral-barrage">Astral Barrage</a> (Lv 55)
 
 **Egg Moves**
-- Destiny Bond
-- Pain Split
-- Smokescreen
-- Imprison
-- Grudge
-- Shadow Sneak
-- Captivate
-- Nightmare
-- Foul Play
-- Disable
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=pain-split">Pain Split</a>
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a>
+- <a href="move-lookup.html?q=imprison">Imprison</a>
+- <a href="move-lookup.html?q=grudge">Grudge</a>
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=nightmare">Nightmare</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

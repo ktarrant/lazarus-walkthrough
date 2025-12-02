@@ -524,11 +524,11 @@ fn collect_move_learners(
     for entry in dex.all_entries() {
         let name = entry.name.clone();
         for mv in &entry.level_up_moves {
-            let move_name = mv.move_name.trim();
+            let move_name = normalize_move_name(mv.move_name.trim());
             if move_name.is_empty() {
                 continue;
             }
-            let slug = encounters::slugify(move_name);
+            let slug = encounters::slugify(&move_name);
             let method = if mv.level.trim().is_empty() {
                 "Level".to_string()
             } else {
@@ -541,11 +541,11 @@ fn collect_move_learners(
                 .push((name.clone(), method));
         }
         for mv in &entry.tm_moves {
-            let move_name = mv.trim();
+            let move_name = normalize_move_name(mv.trim());
             if move_name.is_empty() {
                 continue;
             }
-            let slug = encounters::slugify(move_name);
+            let slug = encounters::slugify(&move_name);
             moves
                 .entry(slug)
                 .or_insert_with(|| (move_name.to_string(), Vec::new()))
@@ -553,11 +553,11 @@ fn collect_move_learners(
                 .push((name.clone(), "TM/HM".to_string()));
         }
         for mv in &entry.egg_moves {
-            let move_name = mv.trim();
+            let move_name = normalize_move_name(mv.trim());
             if move_name.is_empty() {
                 continue;
             }
-            let slug = encounters::slugify(move_name);
+            let slug = encounters::slugify(&move_name);
             moves
                 .entry(slug)
                 .or_insert_with(|| (move_name.to_string(), Vec::new()))
@@ -565,11 +565,11 @@ fn collect_move_learners(
                 .push((name.clone(), "Egg".to_string()));
         }
         for mv in &entry.tutor_moves {
-            let move_name = mv.trim();
+            let move_name = normalize_move_name(mv.trim());
             if move_name.is_empty() {
                 continue;
             }
-            let slug = encounters::slugify(move_name);
+            let slug = encounters::slugify(&move_name);
             moves
                 .entry(slug)
                 .or_insert_with(|| (move_name.to_string(), Vec::new()))
@@ -696,6 +696,19 @@ fn title_case(input: &str) -> String {
         })
         .collect::<Vec<_>>()
         .join(" ")
+}
+
+fn normalize_move_name(raw: &str) -> String {
+    let trimmed = raw.trim();
+    if trimmed.starts_with("TM") || trimmed.starts_with("HM") {
+        if let Some((_, rest)) = trimmed.split_once('-') {
+            return rest.trim().to_string();
+        }
+        if let Some((_, rest)) = trimmed.split_once(' ') {
+            return rest.trim().to_string();
+        }
+    }
+    trimmed.to_string()
 }
 
 fn render_ability_catalog(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {

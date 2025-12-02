@@ -34,21 +34,21 @@ Types: Fire / Fairy • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM23 - Hex
-- TM28 - Dig
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Charcoal
@@ -72,54 +72,54 @@ Charcoal
 | Total | <span class="stat-value stat-mid">309</span> |
 
 **Level-Up Moves**
-- Ember (Lv 1)
-- Tail Whip (Lv 4)
-- Roar (Lv 7)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 10)
-- Confuse Ray (Lv 12)
-- Fire Spin (Lv 15)
-- Disarming Voice (Lv 18)
-- Will-O-Wisp (Lv 20)
-- Feint Attack (Lv 23)
-- Hex (Lv 26)
-- Flame Burst (Lv 28)
-- Extrasensory (Lv 31)
-- Dazzling Gleam (Lv 33)
-- Safeguard (Lv 34)
-- Flamethrower (Lv 36)
-- Imprison (Lv 39)
-- Fire Blast (Lv 42)
-- Grudge (Lv 44)
-- Moonblast (Lv 46)
-- Captivate (Lv 47)
-- Inferno (Lv 50)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 7)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 12)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 15)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 18)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 26)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 31)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 33)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 34)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 36)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 39)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 42)
+- <a href="move-lookup.html?q=grudge">Grudge</a> (Lv 44)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 46)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 47)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 50)
 
 **Egg Moves**
-- Feint Attack
-- Hypnosis
-- Flail
-- Spite
-- Disable
-- Howl
-- Heat Wave
-- Flare Blitz
-- Extrasensory
-- Power Swap
-- Secret Power
-- Hex
-- Tail Slap
-- Captivate
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=hex">Hex</a>
+- <a href="move-lookup.html?q=tail-slap">Tail Slap</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -184,25 +184,25 @@ Types: Fire / Fairy • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Charcoal
@@ -226,55 +226,55 @@ Fire Stone
 | Total | <span class="stat-value stat-mid">521</span> |
 
 **Level-Up Moves**
-- Ember (Lv 1)
-- Tail Whip (Lv 4)
-- Roar (Lv 7)
-- Baby-Doll Eyes (Lv 9)
-- Quick Attack (Lv 10)
-- Confuse Ray (Lv 12)
-- Fire Spin (Lv 15)
-- Disarming Voice (Lv 18)
-- Will-O-Wisp (Lv 20)
-- Feint Attack (Lv 23)
-- Hex (Lv 26)
-- Flame Burst (Lv 28)
-- Extrasensory (Lv 31)
-- Dazzling Gleam (Lv 33)
-- Safeguard (Lv 34)
-- Flamethrower (Lv 36)
-- Imprison (Lv 39)
-- Fire Blast (Lv 42)
-- Grudge (Lv 44)
-- Moonblast (Lv 46)
-- Captivate (Lv 47)
-- Inferno (Lv 50)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 7)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 12)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 15)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 18)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 26)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 31)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 33)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 34)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 36)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 39)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 42)
+- <a href="move-lookup.html?q=grudge">Grudge</a> (Lv 44)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 46)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 47)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 50)
 
 **Egg Moves**
-- Feint Attack
-- Hypnosis
-- Flail
-- Spite
-- Disable
-- Howl
-- Heat Wave
-- Flare Blitz
-- Extrasensory
-- Power Swap
-- Secret Power
-- Hex
-- Tail Slap
-- Captivate
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=hex">Hex</a>
+- <a href="move-lookup.html?q=tail-slap">Tail Slap</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

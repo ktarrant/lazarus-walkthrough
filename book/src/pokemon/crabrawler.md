@@ -29,25 +29,25 @@ Types: Fighting • Egg Groups: Water 3
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM52 - Frost Breath
-- TM53 - Power-Up Punch
-- TM56 - Scald
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Aspear Berry
@@ -75,40 +75,40 @@ Aspear Berry
 | Total | <span class="stat-value stat-mid">338</span> |
 
 **Level-Up Moves**
-- Bubble (Lv 1)
-- Rock Smash (Lv 5)
-- Leer (Lv 9)
-- Pursuit (Lv 13)
-- Bubble Beam (Lv 17)
-- Power-Up Punch (Lv 22)
-- Dizzy Punch (Lv 25)
-- Payback (Lv 28)
-- Jet Punch (Lv 30)
-- Reversal (Lv 33)
-- Crabhammer (Lv 37)
-- Iron Defense (Lv 40)
-- Sky Uppercut (Lv 43)
-- Dynamic Punch (Lv 45)
-- Close Combat (Lv 49)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 5)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 9)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 13)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 17)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 22)
+- <a href="move-lookup.html?q=dizzy-punch">Dizzy Punch</a> (Lv 25)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 28)
+- <a href="move-lookup.html?q=jet-punch">Jet Punch</a> (Lv 30)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 33)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 37)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 40)
+- <a href="move-lookup.html?q=sky-uppercut">Sky Uppercut</a> (Lv 43)
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a> (Lv 45)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 49)
 
 **Egg Moves**
-- Wide Guard
-- Superpower
-- Endeavor
-- Amnesia
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=superpower">Superpower</a>
+- <a href="move-lookup.html?q=endeavor">Endeavor</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
 
 **Tutor Moves**
-- Body Slam
-- Dynamic Punch
-- Endure
-- Ice Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -171,28 +171,28 @@ Types: Fighting / Ice • Egg Groups: Water 3
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM53 - Power-Up Punch
-- TM56 - Scald
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Cheri Berry
@@ -220,44 +220,44 @@ Ice Stone
 | Total | <span class="stat-value stat-mid">493</span> |
 
 **Level-Up Moves**
-- Ice Punch (Lv Evo)
-- Deepwater Curse (Lv 1)
-- Bubble (Lv 1)
-- Rock Smash (Lv 5)
-- Leer (Lv 9)
-- Pursuit (Lv 13)
-- Bubble Beam (Lv 17)
-- Power-Up Punch (Lv 22)
-- Dizzy Punch (Lv 25)
-- Avalanche (Lv 26)
-- Payback (Lv 28)
-- Jet Punch (Lv 30)
-- Reversal (Lv 33)
-- Crabhammer (Lv 37)
-- Iron Defense (Lv 40)
-- Sky Uppercut (Lv 43)
-- Ice Hammer (Lv 45)
-- Close Combat (Lv 49)
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 5)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 9)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 13)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 17)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 22)
+- <a href="move-lookup.html?q=dizzy-punch">Dizzy Punch</a> (Lv 25)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 26)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 28)
+- <a href="move-lookup.html?q=jet-punch">Jet Punch</a> (Lv 30)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 33)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 37)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 40)
+- <a href="move-lookup.html?q=sky-uppercut">Sky Uppercut</a> (Lv 43)
+- <a href="move-lookup.html?q=ice-hammer">Ice Hammer</a> (Lv 45)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 49)
 
 **Egg Moves**
-- Wide Guard
-- Superpower
-- Endeavor
-- Amnesia
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=superpower">Superpower</a>
+- <a href="move-lookup.html?q=endeavor">Endeavor</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
 
 **Tutor Moves**
-- Body Slam
-- Dynamic Punch
-- Endure
-- Ice Punch
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

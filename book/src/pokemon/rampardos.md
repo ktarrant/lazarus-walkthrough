@@ -32,30 +32,30 @@ Types: Rock • Egg Groups: Monster
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="cranidos" /> Caught</label>
@@ -73,48 +73,48 @@ Types: Rock • Egg Groups: Monster
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Level-Up Moves**
-- Headbutt (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 6)
-- Pursuit (Lv 10)
-- Take Down (Lv 14)
-- Rock Smash (Lv 17)
-- Scary Face (Lv 20)
-- Rock Throw (Lv 22)
-- Assurance (Lv 24)
-- Chip Away (Lv 26)
-- Ancient Power (Lv 30)
-- Submission (Lv 34)
-- Zen Headbutt (Lv 37)
-- Screech (Lv 42)
-- Head Smash (Lv 46)
-- Close Combat (Lv 50)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 6)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 10)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 14)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 20)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 22)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 24)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 26)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 30)
+- <a href="move-lookup.html?q=submission">Submission</a> (Lv 34)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 37)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 42)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 46)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 50)
 
 **Egg Moves**
-- Crunch
-- Thrash
-- Double-Edge
-- Leer
-- Slam
-- Stomp
-- Whirlwind
-- Hammer Arm
-- Curse
-- Iron Tail
-- Iron Head
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=leer">Leer</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=iron-head">Iron Head</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fire Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -177,35 +177,35 @@ Types: Rock • Egg Groups: Monster
 - Steel (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM01 - Cut
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 30
@@ -226,49 +226,49 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
-- Endeavor (Lv Evo)
-- Headbutt (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 6)
-- Pursuit (Lv 10)
-- Take Down (Lv 14)
-- Rock Smash (Lv 17)
-- Scary Face (Lv 20)
-- Rock Throw (Lv 22)
-- Assurance (Lv 24)
-- Chip Away (Lv 26)
-- Ancient Power (Lv 30)
-- Submission (Lv 34)
-- Zen Headbutt (Lv 37)
-- Screech (Lv 42)
-- Head Smash (Lv 46)
-- Close Combat (Lv 50)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv Evo)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 6)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 10)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 14)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 20)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 22)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 24)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 26)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 30)
+- <a href="move-lookup.html?q=submission">Submission</a> (Lv 34)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 37)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 42)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 46)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 50)
 
 **Egg Moves**
-- Crunch
-- Thrash
-- Double-Edge
-- Leer
-- Slam
-- Stomp
-- Whirlwind
-- Hammer Arm
-- Curse
-- Iron Tail
-- Iron Head
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=leer">Leer</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=iron-head">Iron Head</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fire Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

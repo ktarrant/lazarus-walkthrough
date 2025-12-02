@@ -35,25 +35,25 @@ Types: Ice / Steel • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
 
 **Held Item**
 Blue Shard
@@ -77,56 +77,56 @@ Blue Shard
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Defense Curl (Lv 1)
-- Bide (Lv 3)
-- Powder Snow (Lv 5)
-- Ice Ball (Lv 7)
-- Rapid Spin (Lv 9)
-- Fury Cutter (Lv 11)
-- Metal Claw (Lv 14)
-- Swift (Lv 17)
-- Fury Swipes (Lv 20)
-- Iron Defense (Lv 23)
-- Slash (Lv 26)
-- Iron Head (Lv 30)
-- Gyro Ball (Lv 34)
-- Swords Dance (Lv 38)
-- Hail (Lv 42)
-- Icicle Crash (Lv 45)
-- Ceaseless Edge (Lv 49)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 3)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 5)
+- <a href="move-lookup.html?q=ice-ball">Ice Ball</a> (Lv 7)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 11)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 14)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 20)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 23)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 26)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 30)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 34)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 42)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 45)
+- <a href="move-lookup.html?q=ceaseless-edge">Ceaseless Edge</a> (Lv 49)
 
 **Egg Moves**
-- Amnesia
-- Chip Away
-- Counter
-- Crush Claw
-- Curse
-- Endure
-- Flail
-- Hone Claws
-- Icicle Crash
-- Icicle Spear
-- Metal Claw
-- Night Slash
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=chip-away">Chip Away</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a>
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Endure
-- Fury Cutter
-- Ice Punch
-- Icy Wind
-- Rock Slide
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -192,25 +192,25 @@ Types: Ice / Steel • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
 
 **Held Item**
 Grip Claw
@@ -234,61 +234,61 @@ Ice Stone
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
-- Icicle Spear (Lv Evo)
-- Metal Burst (Lv 1)
-- Icicle Crash (Lv 1)
-- Slash (Lv 1)
-- Scratch (Lv 1)
-- Defense Curl (Lv 1)
-- Bide (Lv 3)
-- Powder Snow (Lv 5)
-- Ice Ball (Lv 7)
-- Rapid Spin (Lv 9)
-- Fury Cutter (Lv 11)
-- Metal Claw (Lv 14)
-- Swift (Lv 17)
-- Fury Swipes (Lv 20)
-- Iron Defense (Lv 23)
-- Slash (Lv 26)
-- Iron Head (Lv 30)
-- Gyro Ball (Lv 34)
-- Swords Dance (Lv 38)
-- Deepwater Curse (Lv 40)
-- Hail (Lv 42)
-- Icicle Crash (Lv 45)
-- Ceaseless Edge (Lv 49)
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a> (Lv Evo)
+- <a href="move-lookup.html?q=metal-burst">Metal Burst</a> (Lv 1)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 1)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 3)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 5)
+- <a href="move-lookup.html?q=ice-ball">Ice Ball</a> (Lv 7)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 11)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 14)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 20)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 23)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 26)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 30)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 34)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 40)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 42)
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a> (Lv 45)
+- <a href="move-lookup.html?q=ceaseless-edge">Ceaseless Edge</a> (Lv 49)
 
 **Egg Moves**
-- Amnesia
-- Chip Away
-- Counter
-- Crush Claw
-- Curse
-- Endure
-- Flail
-- Hone Claws
-- Icicle Crash
-- Icicle Spear
-- Metal Claw
-- Night Slash
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=chip-away">Chip Away</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a>
+- <a href="move-lookup.html?q=icicle-crash">Icicle Crash</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Endure
-- Fury Cutter
-- Ice Punch
-- Icy Wind
-- Rock Slide
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

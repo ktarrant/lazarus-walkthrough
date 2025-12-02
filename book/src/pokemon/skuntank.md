@@ -29,28 +29,28 @@ Types: Poison / Dark • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Night) (6%)
@@ -73,51 +73,51 @@ Types: Poison / Dark • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">339</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Focus Energy (Lv 1)
-- Poison Gas (Lv 3)
-- Screech (Lv 7)
-- Fury Swipes (Lv 9)
-- Smokescreen (Lv 13)
-- Feint (Lv 15)
-- Acid Spray (Lv 19)
-- Bite (Lv 21)
-- Slash (Lv 25)
-- Toxic (Lv 27)
-- Night Slash (Lv 31)
-- Memento (Lv 33)
-- Venom Drench (Lv 37)
-- Sucker Punch (Lv 39)
-- Belch (Lv 43)
-- Explosion (Lv 45)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 3)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 7)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 9)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 13)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 15)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 19)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 21)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 25)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 27)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 31)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 33)
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a> (Lv 37)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 39)
+- <a href="move-lookup.html?q=belch">Belch</a> (Lv 43)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 45)
 
 **Egg Moves**
-- Pursuit
-- Leer
-- Smog
-- Double-Edge
-- Crunch
-- Scary Face
-- Astonish
-- Punishment
-- Haze
-- Iron Tail
-- Foul Play
-- Flame Burst
-- Play Rough
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=leer">Leer</a>
+- <a href="move-lookup.html?q=smog">Smog</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -177,29 +177,29 @@ Types: Poison / Dark • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34
@@ -223,52 +223,52 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">489</span> |
 
 **Level-Up Moves**
-- Flamethrower (Lv Evo)
-- Scratch (Lv 1)
-- Focus Energy (Lv 1)
-- Poison Gas (Lv 3)
-- Screech (Lv 7)
-- Fury Swipes (Lv 9)
-- Smokescreen (Lv 13)
-- Feint (Lv 15)
-- Acid Spray (Lv 19)
-- Bite (Lv 21)
-- Slash (Lv 25)
-- Toxic (Lv 27)
-- Night Slash (Lv 31)
-- Memento (Lv 33)
-- Venom Drench (Lv 37)
-- Sucker Punch (Lv 39)
-- Belch (Lv 43)
-- Explosion (Lv 45)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv Evo)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 3)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 7)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 9)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 13)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 15)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 19)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 21)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 25)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 27)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 31)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 33)
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a> (Lv 37)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 39)
+- <a href="move-lookup.html?q=belch">Belch</a> (Lv 43)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 45)
 
 **Egg Moves**
-- Pursuit
-- Leer
-- Smog
-- Double-Edge
-- Crunch
-- Scary Face
-- Astonish
-- Punishment
-- Haze
-- Iron Tail
-- Foul Play
-- Flame Burst
-- Play Rough
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=leer">Leer</a>
+- <a href="move-lookup.html?q=smog">Smog</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

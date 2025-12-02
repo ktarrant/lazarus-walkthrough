@@ -22,23 +22,23 @@ Types: Water • Egg Groups: Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM01 - Cut
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Deep Sea Scale
@@ -59,47 +59,47 @@ Deep Sea Scale
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Water Gun (Lv 1)
-- Uproar (Lv 3)
-- Headbutt (Lv 5)
-- Bite (Lv 7)
-- Aqua Jet (Lv 9)
-- Chip Away (Lv 11)
-- Take Down (Lv 14)
-- Crunch (Lv 17)
-- Aqua Tail (Lv 20)
-- Soak (Lv 23)
-- Double-Edge (Lv 26)
-- Scary Face (Lv 28)
-- Wave Crash (Lv 32)
-- Flail (Lv 34)
-- Final Gambit (Lv 38)
-- Zen Headbutt (Lv 40)
-- Thrash (Lv 42)
-- Head Smash (Lv 46)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 3)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 9)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 11)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 14)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 17)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 20)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 23)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 26)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 28)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 32)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 34)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 38)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 40)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 42)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 46)
 
 **Egg Moves**
-- Swift
-- Bubble Beam
-- Mud Shot
-- Muddy Water
-- Agility
-- Whirlpool
-- Rage
-- Brine
-- Revenge
-- Head Smash
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=head-smash">Head Smash</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

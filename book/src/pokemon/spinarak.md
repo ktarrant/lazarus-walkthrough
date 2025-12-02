@@ -32,22 +32,22 @@ Types: Bug / Poison • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM28 - Dig
-- TM29 - Psychic
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Night) (20%)
@@ -69,47 +69,47 @@ Types: Bug / Poison • Egg Groups: Bug
 | Total | <span class="stat-value stat-low">250</span> |
 
 **Level-Up Moves**
-- Poison Sting (Lv 1)
-- String Shot (Lv 1)
-- Constrict (Lv 1)
-- Absorb (Lv 5)
-- Infestation (Lv 8)
-- Scary Face (Lv 12)
-- Night Shade (Lv 15)
-- Shadow Sneak (Lv 19)
-- Bug Bite (Lv 22)
-- Sucker Punch (Lv 26)
-- Spider Web (Lv 29)
-- Agility (Lv 33)
-- Pin Missile (Lv 36)
-- Cross Poison (Lv 40)
-- Poison Jab (Lv 43)
-- Cross Poison (Lv 47)
-- Sticky Web (Lv 50)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=string-shot">String Shot</a> (Lv 1)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=infestation">Infestation</a> (Lv 8)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 12)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 15)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 19)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 22)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 26)
+- <a href="move-lookup.html?q=spider-web">Spider Web</a> (Lv 29)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 33)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 36)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 40)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 43)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 47)
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a> (Lv 50)
 
 **Egg Moves**
-- Psybeam
-- Disable
-- Sonic Boom
-- Baton Pass
-- Pursuit
-- Signal Beam
-- Toxic Spikes
-- Twineedle
-- Electroweb
-- Rage Powder
-- Night Slash
-- Megahorn
-- Lunge
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
+- <a href="move-lookup.html?q=electroweb">Electroweb</a>
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=megahorn">Megahorn</a>
+- <a href="move-lookup.html?q=lunge">Lunge</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -172,22 +172,22 @@ Types: Bug / Poison • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM28 - Dig
-- TM29 - Psychic
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 22
@@ -211,57 +211,57 @@ Lv. 22
 | Total | <span class="stat-value stat-mid">430</span> |
 
 **Level-Up Moves**
-- Swords Dance (Lv Evo)
-- Focus Energy (Lv 1)
-- Venom Drench (Lv 1)
-- Fell Stinger (Lv 1)
-- Bug Bite (Lv 1)
-- Poison Sting (Lv 1)
-- String Shot (Lv 1)
-- Constrict (Lv 1)
-- Absorb (Lv 5)
-- Infestation (Lv 8)
-- Scary Face (Lv 12)
-- Night Shade (Lv 15)
-- Shadow Sneak (Lv 19)
-- Bug Bite (Lv 23)
-- Sucker Punch (Lv 28)
-- X-Scissor (Lv 30)
-- Spider Web (Lv 32)
-- Night Slash (Lv 32)
-- Toxic Thread (Lv 35)
-- Agility (Lv 37)
-- Pin Missile (Lv 41)
-- Cross Poison (Lv 44)
-- Poison Jab (Lv 47)
-- Phantom Force (Lv 50)
-- Sticky Web (Lv 52)
-- Toxic Thread (Lv 55)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv Evo)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 1)
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a> (Lv 1)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 1)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=string-shot">String Shot</a> (Lv 1)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=infestation">Infestation</a> (Lv 8)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 12)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 15)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 19)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 28)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 30)
+- <a href="move-lookup.html?q=spider-web">Spider Web</a> (Lv 32)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=toxic-thread">Toxic Thread</a> (Lv 35)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 37)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 41)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 44)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 47)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 50)
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a> (Lv 52)
+- <a href="move-lookup.html?q=toxic-thread">Toxic Thread</a> (Lv 55)
 
 **Egg Moves**
-- Psybeam
-- Disable
-- Sonic Boom
-- Baton Pass
-- Pursuit
-- Signal Beam
-- Toxic Spikes
-- Twineedle
-- Electroweb
-- Rage Powder
-- Night Slash
-- Megahorn
-- Lunge
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a>
+- <a href="move-lookup.html?q=twineedle">Twineedle</a>
+- <a href="move-lookup.html?q=electroweb">Electroweb</a>
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=megahorn">Megahorn</a>
+- <a href="move-lookup.html?q=lunge">Lunge</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

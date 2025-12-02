@@ -32,31 +32,31 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM48 - Skill Swap
-- TM57 - Roost
-- TM58 - Thunder Wave
-- HM02 - Fly
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -79,45 +79,45 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 | Total | <span class="stat-value stat-mid">328</span> |
 
 **Level-Up Moves**
-- Confusion (Lv 1)
-- Odor Sleuth (Lv 4)
-- Gust (Lv 8)
-- Assurance (Lv 12)
-- Heart Stamp (Lv 15)
-- Mega Drain (Lv 18)
-- Imprison (Lv 19)
-- Air Cutter (Lv 21)
-- Attract (Lv 25)
-- Amnesia (Lv 29)
-- Calm Mind (Lv 29)
-- Air Slash (Lv 32)
-- Future Sight (Lv 36)
-- Psychic (Lv 39)
-- Giga Drain (Lv 42)
-- Endeavor (Lv 47)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 4)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 8)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 12)
+- <a href="move-lookup.html?q=heart-stamp">Heart Stamp</a> (Lv 15)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 18)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 19)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 21)
+- <a href="move-lookup.html?q=attract">Attract</a> (Lv 25)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 29)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 29)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 36)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 39)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 42)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 47)
 
 **Egg Moves**
-- Charm
-- Knock Off
-- Fake Tears
-- Supersonic
-- Synchronoise
-- Stored Power
-- Roost
-- Flatter
-- Helping Hand
-- Captivate
-- Venom Drench
-- Psycho Shift
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=flatter">Flatter</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a>
+- <a href="move-lookup.html?q=psycho-shift">Psycho Shift</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -180,31 +180,31 @@ Types: Psychic / Flying • Egg Groups: Field / Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM48 - Skill Swap
-- TM57 - Roost
-- TM58 - Thunder Wave
-- HM02 - Fly
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 24
@@ -225,46 +225,46 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
-- Leech Life (Lv Evo)
-- Confusion (Lv 1)
-- Odor Sleuth (Lv 4)
-- Gust (Lv 8)
-- Assurance (Lv 12)
-- Heart Stamp (Lv 15)
-- Mega Drain (Lv 18)
-- Imprison (Lv 19)
-- Air Cutter (Lv 21)
-- Attract (Lv 25)
-- Amnesia (Lv 29)
-- Calm Mind (Lv 29)
-- Air Slash (Lv 32)
-- Future Sight (Lv 36)
-- Psychic (Lv 39)
-- Giga Drain (Lv 42)
-- Endeavor (Lv 47)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv Evo)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 4)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 8)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 12)
+- <a href="move-lookup.html?q=heart-stamp">Heart Stamp</a> (Lv 15)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 18)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 19)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 21)
+- <a href="move-lookup.html?q=attract">Attract</a> (Lv 25)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 29)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 29)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 36)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 39)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 42)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 47)
 
 **Egg Moves**
-- Charm
-- Knock Off
-- Fake Tears
-- Supersonic
-- Synchronoise
-- Stored Power
-- Roost
-- Flatter
-- Helping Hand
-- Captivate
-- Venom Drench
-- Psycho Shift
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a>
+- <a href="move-lookup.html?q=stored-power">Stored Power</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=flatter">Flatter</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a>
+- <a href="move-lookup.html?q=psycho-shift">Psycho Shift</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -29,23 +29,23 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM50 - Deepwater Curse
-- HM03 - Surf
-- HM04 - Strength
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Erinys Path (East) — Surfing (30%)
@@ -71,52 +71,52 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Level-Up Moves**
-- Headbutt (Lv 1)
-- Growl (Lv 3)
-- Water Sport (Lv 7)
-- Icy Wind (Lv 11)
-- Encore (Lv 13)
-- Ice Shard (Lv 17)
-- Rest (Lv 21)
-- Aqua Ring (Lv 23)
-- Aurora Beam (Lv 27)
-- Aqua Jet (Lv 31)
-- Brine (Lv 33)
-- Take Down (Lv 37)
-- Dive (Lv 41)
-- Aqua Tail (Lv 43)
-- Ice Beam (Lv 47)
-- Deepwater Curse (Lv 48)
-- Safeguard (Lv 51)
-- Hail (Lv 53)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 3)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 7)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 11)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 13)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 17)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 21)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 23)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 27)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 31)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 33)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 37)
+- <a href="move-lookup.html?q=dive">Dive</a> (Lv 41)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 43)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 47)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 48)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 51)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 53)
 
 **Egg Moves**
-- Lick
-- Perish Song
-- Disable
-- Horn Drill
-- Slam
-- Encore
-- Fake Out
-- Icicle Spear
-- Signal Beam
-- Stockpile
-- Swallow
-- Spit Up
-- Water Pulse
-- Iron Tail
-- Sleep Talk
-- Belch
-- Entrainment
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -176,24 +176,24 @@ Types: Water / Ice • Egg Groups: Water 1 / Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- HM03 - Surf
-- HM04 - Strength
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 34
@@ -214,54 +214,54 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Sheer Cold (Lv Evo)
-- Headbutt (Lv 1)
-- Growl (Lv 3)
-- Signal Beam (Lv 7)
-- Icy Wind (Lv 11)
-- Encore (Lv 13)
-- Ice Shard (Lv 17)
-- Rest (Lv 21)
-- Aqua Ring (Lv 23)
-- Aurora Beam (Lv 27)
-- Aqua Jet (Lv 31)
-- Brine (Lv 33)
-- Megahorn (Lv 35)
-- Take Down (Lv 39)
-- Dive (Lv 45)
-- Aqua Tail (Lv 49)
-- Ice Beam (Lv 55)
-- Deepwater Curse (Lv 55)
-- Safeguard (Lv 61)
-- Hail (Lv 65)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv Evo)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 3)
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a> (Lv 7)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 11)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 13)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 17)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 21)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 23)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 27)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 31)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 33)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 35)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 39)
+- <a href="move-lookup.html?q=dive">Dive</a> (Lv 45)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 49)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 55)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 55)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 61)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 65)
 
 **Egg Moves**
-- Lick
-- Perish Song
-- Disable
-- Horn Drill
-- Slam
-- Encore
-- Fake Out
-- Icicle Spear
-- Signal Beam
-- Stockpile
-- Swallow
-- Spit Up
-- Water Pulse
-- Iron Tail
-- Sleep Talk
-- Belch
-- Entrainment
+- <a href="move-lookup.html?q=lick">Lick</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=icicle-spear">Icicle Spear</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

@@ -39,7 +39,7 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Held Item**
 Leftovers
@@ -68,18 +68,18 @@ Leftovers
 | Total | <span class="stat-value stat-low">260</span> |
 
 **Level-Up Moves**
-- Withdraw (Lv 1)
-- Astonish (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
 
 **Egg Moves**
-- Sucker Punch
-- Rollout
-- Defense Curl
-- Recycle
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=recycle">Recycle</a>
 
 **Tutor Moves**
-- Defense Curl
-- Rollout
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
 </div>
 </div>
 <script>
@@ -143,17 +143,17 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM60 - Dragon Dance
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Evolution Info**
 Tart Apple
@@ -178,40 +178,40 @@ Tart Apple
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Wing Attack (Lv Evo)
-- Recycle (Lv 1)
-- Withdraw (Lv 1)
-- Astonish (Lv 1)
-- Growth (Lv 1)
-- Twister (Lv 5)
-- Acid Spray (Lv 7)
-- Acrobatics (Lv 10)
-- Leech Seed (Lv 12)
-- Protect (Lv 16)
-- Dragon Breath (Lv 20)
-- Dragon Dance (Lv 24)
-- Dragon Pulse (Lv 28)
-- Grav Apple (Lv 30)
-- Iron Defense (Lv 32)
-- U-turn (Lv 35)
-- Fly (Lv 38)
-- Scale Shot (Lv 41)
-- Flying Press (Lv 45)
-- Zing Zap (Lv 50)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 1)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 5)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 7)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 10)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 12)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 16)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 20)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 24)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 28)
+- <a href="move-lookup.html?q=grav-apple">Grav Apple</a> (Lv 30)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 32)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 35)
+- <a href="move-lookup.html?q=fly">Fly</a> (Lv 38)
+- <a href="move-lookup.html?q=scale-shot">Scale Shot</a> (Lv 41)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 45)
+- <a href="move-lookup.html?q=zing-zap">Zing Zap</a> (Lv 50)
 
 **Egg Moves**
-- Sucker Punch
-- Rollout
-- Defense Curl
-- Recycle
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=recycle">Recycle</a>
 
 **Tutor Moves**
-- Acid Spray
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -275,19 +275,19 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
 
 **Evolution Info**
 Sweet Apple
@@ -312,40 +312,40 @@ Sweet Apple
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Headbutt (Lv Evo)
-- Recycle (Lv 1)
-- Withdraw (Lv 1)
-- Astonish (Lv 1)
-- Growth (Lv 1)
-- Sweet Scent (Lv 1)
-- Curse (Lv 5)
-- Stomp (Lv 10)
-- Leech Seed (Lv 12)
-- Protect (Lv 16)
-- Bullet Seed (Lv 20)
-- Recover (Lv 24)
-- Apple Acid (Lv 28)
-- Body Slam (Lv 30)
-- Iron Defense (Lv 32)
-- Slack Off (Lv 35)
-- Dragon Pulse (Lv 38)
-- Energy Ball (Lv 41)
-- Body Press (Lv 45)
-- Matcha Gotcha (Lv 50)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv Evo)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 1)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 1)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 5)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 10)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 12)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 16)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=recover">Recover</a> (Lv 24)
+- <a href="move-lookup.html?q=apple-acid">Apple Acid</a> (Lv 28)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 30)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 32)
+- <a href="move-lookup.html?q=slack-off">Slack Off</a> (Lv 35)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 38)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 41)
+- <a href="move-lookup.html?q=body-press">Body Press</a> (Lv 45)
+- <a href="move-lookup.html?q=matcha-gotcha">Matcha Gotcha</a> (Lv 50)
 
 **Egg Moves**
-- Sucker Punch
-- Rollout
-- Defense Curl
-- Recycle
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=recycle">Recycle</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -409,14 +409,14 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 
 **Evolution Info**
 Syrupy Apple
@@ -441,39 +441,39 @@ Syrupy Apple
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
-- Double Hit (Lv Evo)
-- Withdraw (Lv 1)
-- Sweet Scent (Lv 1)
-- Recycle (Lv 1)
-- Astonish (Lv 1)
-- Dragon Tail (Lv 5)
-- Growth (Lv 10)
-- Dragon Breath (Lv 12)
-- Protect (Lv 16)
-- Bullet Seed (Lv 20)
-- Syrup Bomb (Lv 28)
-- Dragon Pulse (Lv 32)
-- Recover (Lv 36)
-- Dragon Cheer (Lv 38)
-- Energy Ball (Lv 40)
-- Burning Jealousy (Lv 43)
-- U-turn (Lv 46)
-- Substitute (Lv 48)
-- Snap Trap (Lv 50)
-- Parting Shot (Lv 54)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv Evo)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 1)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 5)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 10)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 12)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 16)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=syrup-bomb">Syrup Bomb</a> (Lv 28)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 32)
+- <a href="move-lookup.html?q=recover">Recover</a> (Lv 36)
+- <a href="move-lookup.html?q=dragon-cheer">Dragon Cheer</a> (Lv 38)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 40)
+- <a href="move-lookup.html?q=burning-jealousy">Burning Jealousy</a> (Lv 43)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 46)
+- <a href="move-lookup.html?q=substitute">Substitute</a> (Lv 48)
+- <a href="move-lookup.html?q=snap-trap">Snap Trap</a> (Lv 50)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 54)
 
 **Egg Moves**
-- Sucker Punch
-- Rollout
-- Defense Curl
-- Recycle
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=recycle">Recycle</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -537,16 +537,16 @@ Types: Grass / Dragon • Egg Groups: Grass / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 
 **Evolution Info**
 Lv. 40
@@ -567,38 +567,38 @@ Lv. 40
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
-- Fickle Beam (Lv Evo)
-- Withdraw (Lv 1)
-- Sweet Scent (Lv 1)
-- Recycle (Lv 1)
-- Astonish (Lv 1)
-- Dragon Tail (Lv 4)
-- Growth (Lv 8)
-- Dragon Breath (Lv 12)
-- Protect (Lv 16)
-- Bullet Seed (Lv 20)
-- Syrup Bomb (Lv 28)
-- Dragon Pulse (Lv 32)
-- Recover (Lv 36)
-- Dragon Cheer (Lv 38)
-- Energy Ball (Lv 40)
-- Burning Jealousy (Lv 43)
-- U-turn (Lv 46)
-- Substitute (Lv 48)
-- Snap Trap (Lv 50)
-- Parting Shot (Lv 54)
+- <a href="move-lookup.html?q=fickle-beam">Fickle Beam</a> (Lv Evo)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 1)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 4)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 8)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 12)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 16)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=syrup-bomb">Syrup Bomb</a> (Lv 28)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 32)
+- <a href="move-lookup.html?q=recover">Recover</a> (Lv 36)
+- <a href="move-lookup.html?q=dragon-cheer">Dragon Cheer</a> (Lv 38)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 40)
+- <a href="move-lookup.html?q=burning-jealousy">Burning Jealousy</a> (Lv 43)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 46)
+- <a href="move-lookup.html?q=substitute">Substitute</a> (Lv 48)
+- <a href="move-lookup.html?q=snap-trap">Snap Trap</a> (Lv 50)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 54)
 
 **Egg Moves**
-- Sucker Punch
-- Rollout
-- Defense Curl
-- Recycle
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=recycle">Recycle</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>

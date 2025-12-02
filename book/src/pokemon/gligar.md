@@ -30,32 +30,32 @@ Types: Ground / Flying • Egg Groups: Bug
 - Ice (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (10%)
@@ -79,55 +79,55 @@ Types: Ground / Flying • Egg Groups: Bug
 | Total | <span class="stat-value stat-mid">420</span> |
 
 **Level-Up Moves**
-- Poison Sting (Lv 1)
-- Sand Attack (Lv 4)
-- Harden (Lv 7)
-- Knock Off (Lv 10)
-- Quick Attack (Lv 13)
-- Fury Cutter (Lv 16)
-- Feint Attack (Lv 19)
-- Acrobatics (Lv 22)
-- Sand Tomb (Lv 25)
-- Slash (Lv 27)
-- U-turn (Lv 30)
-- Bulldoze (Lv 33)
-- Screech (Lv 35)
-- X-Scissor (Lv 40)
-- Drill Run (Lv 43)
-- Poison Jab (Lv 45)
-- Toxic (Lv 48)
-- Swords Dance (Lv 50)
-- Flying Press (Lv 55)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 4)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 7)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 10)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 16)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 19)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 22)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 27)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 30)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 33)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 35)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 40)
+- <a href="move-lookup.html?q=drill-run">Drill Run</a> (Lv 43)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 45)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 48)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 50)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 55)
 
 **Egg Moves**
-- Metal Claw
-- Wing Attack
-- Razor Wind
-- Counter
-- Sand Tomb
-- Agility
-- Baton Pass
-- Double-Edge
-- Feint
-- Night Slash
-- Cross Poison
-- Power Trick
-- Rock Climb
-- Poison Tail
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=power-trick">Power Trick</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
 
 **Tutor Moves**
-- Counter
-- Double-Edge
-- Dream Eater
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -188,32 +188,32 @@ Types: Ground / Flying • Egg Groups: Bug
 - Ice (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Razor Fang
@@ -234,59 +234,59 @@ Razor Fang
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Fly (Lv Evo)
-- Guillotine (Lv 1)
-- Thunder Fang (Lv 1)
-- Ice Fang (Lv 1)
-- Fire Fang (Lv 1)
-- Poison Sting (Lv 1)
-- Sand Attack (Lv 4)
-- Harden (Lv 7)
-- Knock Off (Lv 10)
-- Quick Attack (Lv 13)
-- Fury Cutter (Lv 16)
-- Feint Attack (Lv 19)
-- Acrobatics (Lv 22)
-- Sand Tomb (Lv 25)
-- Slash (Lv 27)
-- U-turn (Lv 30)
-- Bulldoze (Lv 33)
-- Screech (Lv 35)
-- X-Scissor (Lv 40)
-- Drill Run (Lv 43)
-- Poison Jab (Lv 45)
-- Toxic (Lv 48)
-- Swords Dance (Lv 50)
-- Flying Press (Lv 55)
+- <a href="move-lookup.html?q=fly">Fly</a> (Lv Evo)
+- <a href="move-lookup.html?q=guillotine">Guillotine</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 4)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 7)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 10)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 13)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 16)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 19)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 22)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 27)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 30)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 33)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 35)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 40)
+- <a href="move-lookup.html?q=drill-run">Drill Run</a> (Lv 43)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 45)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 48)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 50)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 55)
 
 **Egg Moves**
-- Metal Claw
-- Wing Attack
-- Razor Wind
-- Counter
-- Sand Tomb
-- Agility
-- Baton Pass
-- Double-Edge
-- Feint
-- Night Slash
-- Cross Poison
-- Power Trick
-- Rock Climb
-- Poison Tail
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=power-trick">Power Trick</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
 
 **Tutor Moves**
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

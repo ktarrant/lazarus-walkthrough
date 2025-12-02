@@ -25,29 +25,29 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 - Rock (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- TM60 - Dragon Dance
-- HM01 - Cut
-- HM02 - Fly
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Port Pello — Grass (Day) (10%)
@@ -70,57 +70,57 @@ Types: Grass / Flying • Egg Groups: Monster / Grass
 | Total | <span class="stat-value stat-mid">515</span> |
 
 **Level-Up Moves**
-- Leaf Storm (Lv 1)
-- Body Slam (Lv 1)
-- Dragon Dance (Lv 1)
-- Leer (Lv 1)
-- Gust (Lv 1)
-- Growth (Lv 1)
-- Razor Leaf (Lv 1)
-- Sweet Scent (Lv 6)
-- Stomp (Lv 10)
-- Magical Leaf (Lv 16)
-- Headbutt (Lv 19)
-- Whirlwind (Lv 21)
-- Dragon Breath (Lv 24)
-- Leaf Tornado (Lv 26)
-- Natural Gift (Lv 30)
-- Air Slash (Lv 32)
-- Flower Trick (Lv 35)
-- Pollen Puff (Lv 39)
-- Hyper Voice (Lv 41)
-- Bestow (Lv 43)
-- Quiver Dance (Lv 46)
-- Synthesis (Lv 48)
-- Dragon Pulse (Lv 51)
-- Solar Beam (Lv 54)
-- Leaf Storm (Lv 57)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 1)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 1)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 6)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 10)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 16)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 19)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 21)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 24)
+- <a href="move-lookup.html?q=leaf-tornado">Leaf Tornado</a> (Lv 26)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 30)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=flower-trick">Flower Trick</a> (Lv 35)
+- <a href="move-lookup.html?q=pollen-puff">Pollen Puff</a> (Lv 39)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 41)
+- <a href="move-lookup.html?q=bestow">Bestow</a> (Lv 43)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 46)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 48)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 51)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 54)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 57)
 
 **Egg Moves**
-- Headbutt
-- Slam
-- Razor Wind
-- Leech Seed
-- Nature Power
-- Leaf Storm
-- Synthesis
-- Curse
-- Leaf Blade
-- Dragon Dance
-- Bullet Seed
-- Natural Gift
-- Dragon Hammer
+- <a href="move-lookup.html?q=headbutt">Headbutt</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=dragon-hammer">Dragon Hammer</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

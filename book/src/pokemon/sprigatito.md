@@ -34,13 +34,13 @@ Types: Grass • Egg Groups: Field / Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -61,32 +61,32 @@ Types: Grass • Egg Groups: Field / Grass
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Leafage (Lv 1)
-- Bite (Lv 7)
-- Hone Claws (Lv 10)
-- Magical Leaf (Lv 13)
-- Quick Attack (Lv 15)
-- Seed Bomb (Lv 17)
-- U-Turn (Lv 21)
-- Worry Seed (Lv 25)
-- Slash (Lv 28)
-- Energy Ball (Lv 32)
-- Play Rough (Lv 36)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 10)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 13)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 15)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 17)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 21)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 25)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 28)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 32)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 36)
 
 **Egg Moves**
-- Ally Switch
-- Copycat
-- Leech Seed
-- Petal Blizzard
-- Sucker Punch
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=copycat">Copycat</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -149,14 +149,14 @@ Types: Grass • Egg Groups: Field / Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 
 **Evolution Info**
 Lv. 16
@@ -177,34 +177,34 @@ Lv. 16
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Leafage (Lv 1)
-- Bite (Lv 7)
-- Hone Claws (Lv 10)
-- Magical Leaf (Lv 13)
-- Quick Attack (Lv 15)
-- Seed Bomb (Lv 20)
-- U-Turn (Lv 24)
-- Worry Seed (Lv 28)
-- Slash (Lv 33)
-- Energy Ball (Lv 38)
-- Play Rough (Lv 42)
-- Leaf Storm (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 10)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 13)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 15)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 20)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 24)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 28)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 33)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 38)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 42)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 46)
 
 **Egg Moves**
-- Ally Switch
-- Copycat
-- Leech Seed
-- Petal Blizzard
-- Sucker Punch
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=copycat">Copycat</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -272,20 +272,20 @@ Types: Grass / Dark • Egg Groups: Field / Grass
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM12 - Taunt
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Lv. 36
@@ -306,41 +306,41 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Flower Trick (Lv Evo)
-- Double Team (Lv 1)
-- Trick (Lv 1)
-- Leafage (Lv 1)
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Bite (Lv 7)
-- Hone Claws (Lv 10)
-- Magical Leaf (Lv 13)
-- Quick Attack (Lv 15)
-- Seed Bomb (Lv 20)
-- U-Turn (Lv 24)
-- Worry Seed (Lv 29)
-- Slash (Lv 33)
-- Night Slash (Lv 38)
-- Energy Ball (Lv 40)
-- Play Rough (Lv 43)
-- Knock Off (Lv 46)
-- Grassy Terrain (Lv 50)
-- Leaf Storm (Lv 55)
+- <a href="move-lookup.html?q=flower-trick">Flower Trick</a> (Lv Evo)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 1)
+- <a href="move-lookup.html?q=trick">Trick</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 10)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 13)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 15)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 20)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 24)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 29)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 33)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 38)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 40)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 43)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 46)
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a> (Lv 50)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 55)
 
 **Egg Moves**
-- Ally Switch
-- Copycat
-- Leech Seed
-- Petal Blizzard
-- Sucker Punch
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=copycat">Copycat</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

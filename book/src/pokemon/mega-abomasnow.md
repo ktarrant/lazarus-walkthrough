@@ -35,23 +35,23 @@ Types: Grass / Ice • Egg Groups: Grass / Monster
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM52 - Frost Breath
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Never-Melt Ice
@@ -78,47 +78,47 @@ Never-Melt Ice
 | Total | <span class="stat-value stat-mid">334</span> |
 
 **Level-Up Moves**
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Razor Leaf (Lv 5)
-- Icy Wind (Lv 9)
-- Grass Whistle (Lv 13)
-- Swagger (Lv 17)
-- Mist (Lv 21)
-- Ice Shard (Lv 24)
-- Avalanche (Lv 28)
-- Ingrain (Lv 31)
-- Wood Hammer (Lv 34)
-- Horn Leech (Lv 38)
-- Blizzard (Lv 41)
-- Power-Up Punch (Lv 44)
-- Sheer Cold (Lv 46)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 5)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 9)
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a> (Lv 13)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 17)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 21)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 24)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 28)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 31)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 34)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 38)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 41)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 44)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 46)
 
 **Egg Moves**
-- Leech Seed
-- Magical Leaf
-- Seed Bomb
-- Growth
-- Double-Edge
-- Mist
-- Stomp
-- Skull Bash
-- Avalanche
-- Natural Gift
-- Bullet Seed
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=growth">Growth</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=skull-bash">Skull Bash</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Ice Punch
-- Icy Wind
-- Mega Punch
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -182,29 +182,29 @@ Types: Grass / Ice • Egg Groups: Grass / Monster
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM52 - Frost Breath
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Never-Melt Ice
@@ -232,50 +232,50 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">524</span> |
 
 **Level-Up Moves**
-- Ice Punch (Lv 1)
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Razor Leaf (Lv 5)
-- Icy Wind (Lv 9)
-- Grass Whistle (Lv 13)
-- Swagger (Lv 17)
-- Mist (Lv 21)
-- Ice Shard (Lv 24)
-- Avalanche (Lv 28)
-- Ingrain (Lv 31)
-- Wood Hammer (Lv 34)
-- Horn Leech (Lv 38)
-- Blizzard (Lv 41)
-- Power-Up Punch (Lv 44)
-- Sheer Cold (Lv 46)
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 5)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 9)
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a> (Lv 13)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 17)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 21)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 24)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 28)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 31)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 34)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 38)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 41)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 44)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 46)
 
 **Egg Moves**
-- Leech Seed
-- Magical Leaf
-- Seed Bomb
-- Growth
-- Double-Edge
-- Mist
-- Stomp
-- Skull Bash
-- Avalanche
-- Natural Gift
-- Bullet Seed
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=growth">Growth</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=skull-bash">Skull Bash</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -338,29 +338,29 @@ Types: Grass / Ice • Egg Groups: Grass / Monster
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM52 - Frost Breath
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Never-Melt Ice
@@ -384,50 +384,50 @@ Abomasite
 | Total | <span class="stat-value stat-high">624</span> |
 
 **Level-Up Moves**
-- Ice Punch (Lv 1)
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Razor Leaf (Lv 5)
-- Icy Wind (Lv 9)
-- Grass Whistle (Lv 13)
-- Swagger (Lv 17)
-- Mist (Lv 21)
-- Ice Shard (Lv 24)
-- Avalanche (Lv 28)
-- Ingrain (Lv 31)
-- Wood Hammer (Lv 34)
-- Horn Leech (Lv 38)
-- Blizzard (Lv 41)
-- Power-Up Punch (Lv 44)
-- Sheer Cold (Lv 46)
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 5)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 9)
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a> (Lv 13)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 17)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 21)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 24)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 28)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 31)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 34)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 38)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 41)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 44)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 46)
 
 **Egg Moves**
-- Leech Seed
-- Magical Leaf
-- Seed Bomb
-- Growth
-- Double-Edge
-- Mist
-- Stomp
-- Skull Bash
-- Avalanche
-- Natural Gift
-- Bullet Seed
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=growth">Growth</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=stomp">Stomp</a>
+- <a href="move-lookup.html?q=skull-bash">Skull Bash</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

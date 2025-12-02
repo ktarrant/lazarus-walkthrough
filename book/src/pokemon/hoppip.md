@@ -34,23 +34,23 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (10%)
@@ -73,50 +73,50 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass
 | Total | <span class="stat-value stat-low">250</span> |
 
 **Level-Up Moves**
-- Absorb (Lv 1)
-- Splash (Lv 1)
-- Synthesis (Lv 4)
-- Tail Whip (Lv 6)
-- Tackle (Lv 8)
-- Fairy Wind (Lv 10)
-- Poison Powder (Lv 12)
-- Stun Spore (Lv 14)
-- Sleep Powder (Lv 16)
-- Bullet Seed (Lv 19)
-- Leech Seed (Lv 22)
-- Mega Drain (Lv 25)
-- Acrobatics (Lv 28)
-- Rage Powder (Lv 31)
-- Cotton Spore (Lv 34)
-- U-turn (Lv 37)
-- Worry Seed (Lv 40)
-- Giga Drain (Lv 43)
-- Bounce (Lv 46)
-- Memento (Lv 49)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 4)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 6)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 8)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 10)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 12)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 14)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 16)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 19)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 22)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 25)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 28)
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a> (Lv 31)
+- <a href="move-lookup.html?q=cotton-spore">Cotton Spore</a> (Lv 34)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 37)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 40)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 43)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 46)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 49)
 
 **Egg Moves**
-- Confusion
-- Encore
-- Double-Edge
-- Amnesia
-- Helping Hand
-- Aromatherapy
-- Worry Seed
-- Cotton Guard
-- Seed Bomb
-- Endure
-- Grassy Terrain
-- Strength Sap
+- <a href="move-lookup.html?q=confusion">Confusion</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=cotton-guard">Cotton Guard</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -179,23 +179,23 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 18
@@ -221,52 +221,52 @@ Lv. 18
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Level-Up Moves**
-- Absorb (Lv 1)
-- Splash (Lv 1)
-- Synthesis (Lv 4)
-- Tail Whip (Lv 6)
-- Tackle (Lv 8)
-- Fairy Wind (Lv 10)
-- Poison Powder (Lv 12)
-- Stun Spore (Lv 14)
-- Sleep Powder (Lv 16)
-- Bullet Seed (Lv 20)
-- Leech Seed (Lv 24)
-- Mega Drain (Lv 28)
-- Acrobatics (Lv 32)
-- Giga Drain (Lv 35)
-- Rage Powder (Lv 37)
-- Cotton Spore (Lv 40)
-- U-turn (Lv 44)
-- Matcha Gotcha (Lv 46)
-- Worry Seed (Lv 48)
-- Floaty Fall (Lv 52)
-- Bounce (Lv 56)
-- Memento (Lv 60)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 4)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 6)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 8)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 10)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 12)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 14)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 16)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 24)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 28)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 35)
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a> (Lv 37)
+- <a href="move-lookup.html?q=cotton-spore">Cotton Spore</a> (Lv 40)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 44)
+- <a href="move-lookup.html?q=matcha-gotcha">Matcha Gotcha</a> (Lv 46)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 48)
+- <a href="move-lookup.html?q=floaty-fall">Floaty Fall</a> (Lv 52)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 56)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 60)
 
 **Egg Moves**
-- Confusion
-- Encore
-- Double-Edge
-- Amnesia
-- Helping Hand
-- Aromatherapy
-- Worry Seed
-- Cotton Guard
-- Seed Bomb
-- Endure
-- Grassy Terrain
-- Strength Sap
+- <a href="move-lookup.html?q=confusion">Confusion</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=cotton-guard">Cotton Guard</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -329,23 +329,23 @@ Types: Grass / Flying • Egg Groups: Fairy / Grass
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 27
@@ -366,52 +366,52 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
-- Absorb (Lv 1)
-- Splash (Lv 1)
-- Synthesis (Lv 4)
-- Tail Whip (Lv 6)
-- Tackle (Lv 8)
-- Fairy Wind (Lv 10)
-- Poison Powder (Lv 12)
-- Stun Spore (Lv 14)
-- Sleep Powder (Lv 16)
-- Bullet Seed (Lv 20)
-- Leech Seed (Lv 24)
-- Mega Drain (Lv 28)
-- Acrobatics (Lv 32)
-- Giga Drain (Lv 35)
-- Rage Powder (Lv 37)
-- Cotton Spore (Lv 40)
-- U-turn (Lv 44)
-- Matcha Gotcha (Lv 46)
-- Worry Seed (Lv 48)
-- Floaty Fall (Lv 52)
-- Bounce (Lv 56)
-- Memento (Lv 60)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 4)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 6)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 8)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 10)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 12)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 14)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 16)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 20)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 24)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 28)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 35)
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a> (Lv 37)
+- <a href="move-lookup.html?q=cotton-spore">Cotton Spore</a> (Lv 40)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 44)
+- <a href="move-lookup.html?q=matcha-gotcha">Matcha Gotcha</a> (Lv 46)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 48)
+- <a href="move-lookup.html?q=floaty-fall">Floaty Fall</a> (Lv 52)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 56)
+- <a href="move-lookup.html?q=memento">Memento</a> (Lv 60)
 
 **Egg Moves**
-- Confusion
-- Encore
-- Double-Edge
-- Amnesia
-- Helping Hand
-- Aromatherapy
-- Worry Seed
-- Cotton Guard
-- Seed Bomb
-- Endure
-- Grassy Terrain
-- Strength Sap
+- <a href="move-lookup.html?q=confusion">Confusion</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=cotton-guard">Cotton Guard</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

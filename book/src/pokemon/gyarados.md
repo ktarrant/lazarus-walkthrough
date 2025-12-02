@@ -30,7 +30,7 @@ Types: Water • Egg Groups: Water 2 / Dragon
 - Grass (2×)
 
 **TM/HM Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Encounter Locations**
 - Acrisia City — Fishing (70%)
@@ -75,15 +75,15 @@ Types: Water • Egg Groups: Water 2 / Dragon
 | Total | <span class="stat-value stat-low">200</span> |
 
 **Level-Up Moves**
-- Splash (Lv 1)
-- Tackle (Lv 15)
-- Flail (Lv 30)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 15)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 30)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 </div>
 </div>
 <script>
@@ -144,38 +144,38 @@ Types: Water / Flying • Egg Groups: Water 2 / Dragon
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM56 - Scald
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 20
@@ -196,34 +196,34 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">540</span> |
 
 **Level-Up Moves**
-- Bite (Lv Evo)
-- Poison Fang (Lv 1)
-- Deepwater Curse (Lv 1)
-- Thrash (Lv 1)
-- Leer (Lv 21)
-- Twister (Lv 24)
-- Ice Fang (Lv 27)
-- Aqua Tail (Lv 30)
-- Scary Face (Lv 33)
-- Dragon Rage (Lv 36)
-- Crunch (Lv 39)
-- Hydro Pump (Lv 42)
-- Dragon Dance (Lv 45)
-- Hurricane (Lv 48)
-- Rain Dance (Lv 51)
-- Hyper Beam (Lv 54)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv Evo)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 21)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 24)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 30)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 33)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 36)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 39)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 45)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 48)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 51)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 54)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -287,38 +287,38 @@ Types: Water / Dark • Egg Groups: Water 2 / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM56 - Scald
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Gyaradosite
@@ -339,34 +339,34 @@ Gyaradosite
 | Total | <span class="stat-value stat-high">640</span> |
 
 **Level-Up Moves**
-- Bite (Lv Evo)
-- Poison Fang (Lv 1)
-- Deepwater Curse (Lv 1)
-- Thrash (Lv 1)
-- Leer (Lv 21)
-- Twister (Lv 24)
-- Ice Fang (Lv 27)
-- Aqua Tail (Lv 30)
-- Scary Face (Lv 33)
-- Dragon Rage (Lv 36)
-- Crunch (Lv 39)
-- Hydro Pump (Lv 42)
-- Dragon Dance (Lv 45)
-- Hurricane (Lv 48)
-- Rain Dance (Lv 51)
-- Hyper Beam (Lv 54)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv Evo)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 21)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 24)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 27)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 30)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 33)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 36)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 39)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 45)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 48)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 51)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 54)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

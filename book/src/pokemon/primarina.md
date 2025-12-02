@@ -31,22 +31,22 @@ Types: Water • Egg Groups: Water 1 / Field
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -67,38 +67,38 @@ Types: Water • Egg Groups: Water 1 / Field
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Water Gun (Lv 1)
-- Growl (Lv 4)
-- Disarming Voice (Lv 8)
-- Baby-Doll Eyes (Lv 11)
-- Aqua Jet (Lv 14)
-- Icy Wind (Lv 16)
-- Encore (Lv 18)
-- Bubble Beam (Lv 22)
-- Sing (Lv 25)
-- Ice Shard (Lv 29)
-- Hyper Voice (Lv 32)
-- Moonblast (Lv 36)
-- Captivate (Lv 39)
-- Hydro Pump (Lv 43)
-- Misty Terrain (Lv 46)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 8)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 11)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 14)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 18)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 22)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 25)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 29)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 32)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 36)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 39)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 43)
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a> (Lv 46)
 
 **Egg Moves**
-- Charm
-- Amnesia
-- Aqua Ring
-- Aromatic Mist
-- Perish Song
-- Wonder Room
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=aromatic-mist">Aromatic Mist</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=wonder-room">Wonder Room</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -158,22 +158,22 @@ Types: Water • Egg Groups: Water 1 / Field
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 17
@@ -194,41 +194,41 @@ Lv. 17
 | Total | <span class="stat-value stat-mid">420</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Water Gun (Lv 1)
-- Growl (Lv 4)
-- Disarming Voice (Lv 8)
-- Baby-Doll Eyes (Lv 11)
-- Aqua Jet (Lv 14)
-- Icy Wind (Lv 16)
-- Encore (Lv 19)
-- Bubble Beam (Lv 22)
-- Echoed Voice (Lv 26)
-- Sing (Lv 28)
-- Ice Shard (Lv 30)
-- Hyper Voice (Lv 34)
-- Dazzling Gleam (Lv 37)
-- Captivate (Lv 41)
-- Moonblast (Lv 44)
-- Hydro Pump (Lv 48)
-- Misty Terrain (Lv 50)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 8)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 11)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 14)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 19)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 22)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 26)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 28)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 30)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 34)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 37)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 41)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 44)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 48)
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a> (Lv 50)
 
 **Egg Moves**
-- Charm
-- Amnesia
-- Aqua Ring
-- Aromatic Mist
-- Perish Song
-- Wonder Room
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=aromatic-mist">Aromatic Mist</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=wonder-room">Wonder Room</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -292,28 +292,28 @@ Types: Water / Fairy • Egg Groups: Water 1 / Field
 - Poison (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 34
@@ -334,43 +334,43 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Sparkling Aria (Lv Evo)
-- Pound (Lv 1)
-- Water Gun (Lv 1)
-- Growl (Lv 4)
-- Disarming Voice (Lv 8)
-- Baby-Doll Eyes (Lv 11)
-- Aqua Jet (Lv 14)
-- Icy Wind (Lv 16)
-- Encore (Lv 19)
-- Bubble Beam (Lv 22)
-- Echoed Voice (Lv 26)
-- Sing (Lv 28)
-- Ice Shard (Lv 30)
-- Hyper Voice (Lv 34)
-- Dazzling Gleam (Lv 37)
-- Captivate (Lv 41)
-- Moonblast (Lv 44)
-- Hydro Pump (Lv 48)
-- Misty Terrain (Lv 50)
+- <a href="move-lookup.html?q=sparkling-aria">Sparkling Aria</a> (Lv Evo)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a> (Lv 8)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 11)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 14)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 19)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 22)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 26)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 28)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 30)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 34)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 37)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 41)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 44)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 48)
+- <a href="move-lookup.html?q=misty-terrain">Misty Terrain</a> (Lv 50)
 
 **Egg Moves**
-- Charm
-- Amnesia
-- Aqua Ring
-- Aromatic Mist
-- Perish Song
-- Wonder Room
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=aromatic-mist">Aromatic Mist</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=wonder-room">Wonder Room</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

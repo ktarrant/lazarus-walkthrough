@@ -36,21 +36,21 @@ Types: Grass / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -71,40 +71,40 @@ Types: Grass / Flying • Egg Groups: Flying
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leafage (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 8)
-- Astonish (Lv 11)
-- Razor Leaf (Lv 14)
-- Ominous Wind (Lv 16)
-- Foresight (Lv 18)
-- Pluck (Lv 22)
-- Synthesis (Lv 25)
-- Swords Dance (Lv 29)
-- Sucker Punch (Lv 32)
-- Dual Wingbeat (Lv 35)
-- Leaf Blade (Lv 37)
-- Feather Dance (Lv 39)
-- Brave Bird (Lv 43)
-- Nasty Plot (Lv 46)
-- U-Turn (Lv 49)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 8)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 11)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 14)
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 18)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 22)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 25)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 29)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 39)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 43)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 49)
 
 **Egg Moves**
-- Curse
-- Confuse Ray
-- Ominous Wind
-- Haze
-- Baton Pass
-- Defog
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -167,21 +167,21 @@ Types: Grass / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Evolution Info**
 Lv. 17
@@ -202,40 +202,40 @@ Lv. 17
 | Total | <span class="stat-value stat-mid">420</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leafage (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 8)
-- Astonish (Lv 11)
-- Razor Leaf (Lv 14)
-- Ominous Wind (Lv 16)
-- Foresight (Lv 18)
-- Pluck (Lv 22)
-- Synthesis (Lv 25)
-- Swords Dance (Lv 29)
-- Sucker Punch (Lv 32)
-- Dual Wingbeat (Lv 35)
-- Leaf Blade (Lv 37)
-- Feather Dance (Lv 39)
-- Brave Bird (Lv 43)
-- Nasty Plot (Lv 46)
-- U-Turn (Lv 49)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 8)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 11)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 14)
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 18)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 22)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 25)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 29)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 39)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 43)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 49)
 
 **Egg Moves**
-- Curse
-- Confuse Ray
-- Ominous Wind
-- Haze
-- Baton Pass
-- Defog
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -301,23 +301,23 @@ Types: Grass / Fighting • Egg Groups: Flying
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM57 - Roost
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34, Day
@@ -338,44 +338,44 @@ Lv. 34, Day
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Rock Smash (Lv Evo)
-- Jump Kick (Lv 1)
-- Leaf Storm (Lv 1)
-- U-Turn (Lv 1)
-- Mach Punch (Lv 1)
-- Tackle (Lv 1)
-- Leafage (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 8)
-- Astonish (Lv 11)
-- Razor Leaf (Lv 14)
-- Ominous Wind (Lv 16)
-- Foresight (Lv 18)
-- Pluck (Lv 22)
-- Synthesis (Lv 25)
-- Swords Dance (Lv 29)
-- Sucker Punch (Lv 32)
-- Dual Wingbeat (Lv 35)
-- Leaf Blade (Lv 37)
-- Feather Dance (Lv 39)
-- Triple Arrows (Lv 41)
-- Brave Bird (Lv 45)
-- Trop Kick (Lv 48)
-- Triple Axel (Lv 52)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv Evo)
+- <a href="move-lookup.html?q=jump-kick">Jump Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 1)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 1)
+- <a href="move-lookup.html?q=mach-punch">Mach Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 8)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 11)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 14)
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 18)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 22)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 25)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 29)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 39)
+- <a href="move-lookup.html?q=triple-arrows">Triple Arrows</a> (Lv 41)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 45)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv 48)
+- <a href="move-lookup.html?q=triple-axel">Triple Axel</a> (Lv 52)
 
 **Egg Moves**
-- Curse
-- Confuse Ray
-- Ominous Wind
-- Haze
-- Baton Pass
-- Defog
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -440,23 +440,23 @@ Types: Grass / Ghost • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Evolution Info**
 Lv. 34, Night
@@ -477,46 +477,46 @@ Lv. 34, Night
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Spirit Shackle (Lv Evo)
-- Phantom Force (Lv 1)
-- Leaf Storm (Lv 1)
-- U-Turn (Lv 1)
-- Shadow Sneak (Lv 1)
-- Tackle (Lv 1)
-- Leafage (Lv 1)
-- Growl (Lv 4)
-- Peck (Lv 8)
-- Astonish (Lv 11)
-- Razor Leaf (Lv 14)
-- Ominous Wind (Lv 16)
-- Foresight (Lv 18)
-- Pluck (Lv 22)
-- Synthesis (Lv 25)
-- Swords Dance (Lv 29)
-- Sucker Punch (Lv 32)
-- Dual Wingbeat (Lv 35)
-- Leaf Blade (Lv 37)
-- Feather Dance (Lv 39)
-- Shadow Sneak (Lv 41)
-- Brave Bird (Lv 45)
-- Nasty Plot (Lv 48)
-- U-Turn (Lv 52)
+- <a href="move-lookup.html?q=spirit-shackle">Spirit Shackle</a> (Lv Evo)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 1)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 1)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 1)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 8)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 11)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 14)
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a> (Lv 16)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 18)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 22)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 25)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 29)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 37)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 39)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 41)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 48)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 52)
 
 **Egg Moves**
-- Curse
-- Confuse Ray
-- Ominous Wind
-- Haze
-- Baton Pass
-- Defog
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

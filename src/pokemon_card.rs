@@ -252,12 +252,21 @@ fn append_level_up_moves(buf: &mut String, moves: &[LevelMove]) {
         if move_name.is_empty() && level.is_empty() {
             continue;
         }
+        let link = if move_name.is_empty() {
+            String::new()
+        } else {
+            format!(
+                "<a href=\"move-lookup.html?q={}\">{}</a>",
+                crate::encounters::slugify(move_name),
+                move_name
+            )
+        };
         if move_name.is_empty() {
             writeln!(buf, "- {}", level).unwrap();
         } else if level.is_empty() {
-            writeln!(buf, "- {}", move_name).unwrap();
+            writeln!(buf, "- {}", link).unwrap();
         } else {
-            writeln!(buf, "- {} (Lv {})", move_name, level).unwrap();
+            writeln!(buf, "- {} (Lv {})", link, level).unwrap();
         }
     }
     buf.push('\n');
@@ -274,7 +283,13 @@ fn append_move_list(buf: &mut String, heading: &str, moves: &[String]) {
     }
     writeln!(buf, "**{}**", heading).unwrap();
     for mv in entries {
-        writeln!(buf, "- {}", mv).unwrap();
+        writeln!(
+            buf,
+            "- <a href=\"move-lookup.html?q={}\">{}</a>",
+            crate::encounters::slugify(mv),
+            mv
+        )
+        .unwrap();
     }
     buf.push('\n');
 }

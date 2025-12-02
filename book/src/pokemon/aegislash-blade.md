@@ -30,21 +30,21 @@ Types: Steel / Ghost • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Dusk Stone
@@ -65,40 +65,40 @@ Dusk Stone
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- King's Shield (Lv Evo)
-- Tackle (Lv 1)
-- Swords Dance (Lv 1)
-- Fury Cutter (Lv 5)
-- Metal Sound (Lv 8)
-- Pursuit (Lv 13)
-- Autotomize (Lv 18)
-- Shadow Sneak (Lv 20)
-- Aerial Ace (Lv 22)
-- Retaliate (Lv 26)
-- Slash (Lv 29)
-- Iron Defense (Lv 32)
-- Night Slash (Lv 35)
-- Power Trick (Lv 39)
-- Iron Head (Lv 42)
-- Phantom Force (Lv 45)
-- Sacred Sword (Lv 47)
-- Bitter Blade (Lv 50)
-- Might Cleave (Lv 55)
+- <a href="move-lookup.html?q=kings-shield">King's Shield</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 5)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 8)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 13)
+- <a href="move-lookup.html?q=autotomize">Autotomize</a> (Lv 18)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 20)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 22)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 26)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 29)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 32)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=power-trick">Power Trick</a> (Lv 39)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 42)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 45)
+- <a href="move-lookup.html?q=sacred-sword">Sacred Sword</a> (Lv 47)
+- <a href="move-lookup.html?q=bitter-blade">Bitter Blade</a> (Lv 50)
+- <a href="move-lookup.html?q=might-cleave">Might Cleave</a> (Lv 55)
 
 **Egg Moves**
-- Metal Sound
-- Shadow Sneak
-- Destiny Bond
-- Wide Guard
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a>
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Endure
-- Fury Cutter
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

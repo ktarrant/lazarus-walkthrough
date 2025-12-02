@@ -17,21 +17,21 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)
@@ -54,41 +54,41 @@ Types: Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Defense Curl (Lv 1)
-- Rollout (Lv 1)
-- Stockpile (Lv 6)
-- Spit Up (Lv 6)
-- Swallow (Lv 6)
-- Rapid Spin (Lv 11)
-- Yawn (Lv 16)
-- Slam (Lv 21)
-- Bulldoze (Lv 25)
-- Flail (Lv 28)
-- Rock Smash (Lv 30)
-- Sucker Punch (Lv 31)
-- Body Slam (Lv 35)
-- Wood Hammer (Lv 38)
-- Psych Up (Lv 43)
-- Play Rough (Lv 45)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 1)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 6)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 6)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 6)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 11)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 16)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 21)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 28)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 30)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 31)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 35)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 38)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 43)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 45)
 
 **Egg Moves**
-- Charm
-- Wish
-- Play Rough
-- Sing
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
+- <a href="move-lookup.html?q=sing">Sing</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

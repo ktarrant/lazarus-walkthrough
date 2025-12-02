@@ -31,15 +31,15 @@ Types: Electric / Flying • Egg Groups: Water 1 / Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM17 - Protect
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM57 - Roost
-- TM58 - Thunder Wave
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Encounter Locations**
 - Pythios Cemetery — Grass (Day) (20%)
@@ -63,35 +63,35 @@ Types: Electric / Flying • Egg Groups: Water 1 / Flying
 | Total | <span class="stat-value stat-low">280</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Peck (Lv 1)
-- Thunder Shock (Lv 4)
-- Quick Attack (Lv 7)
-- Pluck (Lv 11)
-- Spark (Lv 15)
-- Uproar (Lv 19)
-- Double Team (Lv 21)
-- Roost (Lv 23)
-- Dual Wingbeat (Lv 28)
-- Agility (Lv 32)
-- Volt Switch (Lv 35)
-- Air Slash (Lv 39)
-- Flying Press (Lv 43)
-- Discharge (Lv 45)
-- Hurricane (Lv 50)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 4)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 11)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 15)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 19)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 21)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 23)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 28)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 32)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 35)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 39)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 43)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 45)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 50)
 
 **Egg Moves**
-- Endeavor
-- Feather Dance
-- Spit Up
-- Stockpile
-- Swallow
-- Weather Ball
+- <a href="move-lookup.html?q=endeavor">Endeavor</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -153,15 +153,15 @@ Types: Electric / Flying • Egg Groups: Water 1 / Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM17 - Protect
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM57 - Roost
-- TM58 - Thunder Wave
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Evolution Info**
 Lv. 25
@@ -186,36 +186,36 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
-- Electro Ball (Lv Evo)
-- Growl (Lv 1)
-- Peck (Lv 1)
-- Thunder Shock (Lv 4)
-- Quick Attack (Lv 7)
-- Pluck (Lv 11)
-- Spark (Lv 15)
-- Uproar (Lv 19)
-- Double Team (Lv 21)
-- Roost (Lv 24)
-- Dual Wingbeat (Lv 28)
-- Agility (Lv 32)
-- Volt Switch (Lv 35)
-- Air Slash (Lv 39)
-- Flying Press (Lv 43)
-- Discharge (Lv 45)
-- Hurricane (Lv 50)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv Evo)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 4)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 11)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 15)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 19)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 21)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 24)
+- <a href="move-lookup.html?q=dual-wingbeat">Dual Wingbeat</a> (Lv 28)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 32)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 35)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 39)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 43)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 45)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 50)
 
 **Egg Moves**
-- Endeavor
-- Feather Dance
-- Spit Up
-- Stockpile
-- Swallow
-- Weather Ball
+- <a href="move-lookup.html?q=endeavor">Endeavor</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=spit-up">Spit Up</a>
+- <a href="move-lookup.html?q=stockpile">Stockpile</a>
+- <a href="move-lookup.html?q=swallow">Swallow</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

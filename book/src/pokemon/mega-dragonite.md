@@ -33,29 +33,29 @@ Types: Dragon • Egg Groups: Water 1 / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM58 - Thunder Wave
-- TM60 - Dragon Dance
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Dragon Scale
@@ -83,43 +83,43 @@ Dragon Scale
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Wrap (Lv 1)
-- Leer (Lv 1)
-- Thunder Wave (Lv 5)
-- Twister (Lv 11)
-- Dragon Rage (Lv 15)
-- Slam (Lv 21)
-- Agility (Lv 25)
-- Dragon Tail (Lv 31)
-- Aqua Tail (Lv 35)
-- Dragon Rush (Lv 41)
-- Safeguard (Lv 45)
-- Dragon Dance (Lv 51)
-- Outrage (Lv 55)
-- Hyper Beam (Lv 61)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 5)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 11)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 15)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 21)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 25)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 31)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 35)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 41)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 45)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 51)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 55)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 61)
 
 **Egg Moves**
-- Mist
-- Haze
-- Supersonic
-- Dragon Breath
-- Dragon Dance
-- Dragon Rush
-- Extreme Speed
-- Water Pulse
-- Aqua Jet
-- Dragon Pulse
-- Iron Tail
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -177,29 +177,29 @@ Types: Dragon / Water • Egg Groups: Water 1 / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM58 - Thunder Wave
-- TM60 - Dragon Dance
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Dragon Scale
@@ -228,47 +228,47 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Water Pulse (Lv Evo)
-- Wrap (Lv 1)
-- Leer (Lv 1)
-- Thunder Wave (Lv 5)
-- Twister (Lv 11)
-- Dragon Rage (Lv 15)
-- Slam (Lv 21)
-- Agility (Lv 25)
-- Dragon Breath (Lv 33)
-- Air Cutter (Lv 35)
-- Aqua Tail (Lv 39)
-- Power Gem (Lv 42)
-- Dragon Rush (Lv 47)
-- Dragon Dance (Lv 50)
-- Safeguard (Lv 53)
-- Hydro Pump (Lv 57)
-- Outrage (Lv 63)
-- Hyper Beam (Lv 65)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv Evo)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 5)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 11)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 15)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 21)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 25)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 33)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 35)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 39)
+- <a href="move-lookup.html?q=power-gem">Power Gem</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 47)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 50)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 53)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 57)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 63)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 65)
 
 **Egg Moves**
-- Mist
-- Haze
-- Supersonic
-- Dragon Breath
-- Dragon Dance
-- Dragon Rush
-- Extreme Speed
-- Water Pulse
-- Aqua Jet
-- Dragon Pulse
-- Iron Tail
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -331,44 +331,44 @@ Types: Dragon / Flying • Egg Groups: Water 1 / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM57 - Roost
-- TM58 - Thunder Wave
-- TM60 - Dragon Dance
-- HM01 - Cut
-- HM02 - Fly
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Dragon Scale
@@ -392,59 +392,59 @@ Lv. 55
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Wing Attack (Lv Evo)
-- Hurricane (Lv 1)
-- Fire Punch (Lv 1)
-- Thunder Punch (Lv 1)
-- Roost (Lv 1)
-- Wrap (Lv 1)
-- Leer (Lv 1)
-- Thunder Wave (Lv 5)
-- Twister (Lv 11)
-- Dragon Rage (Lv 15)
-- Slam (Lv 21)
-- Agility (Lv 25)
-- Dragon Tail (Lv 33)
-- Aqua Tail (Lv 39)
-- Dragon Rush (Lv 47)
-- Safeguard (Lv 53)
-- Dragon Dance (Lv 61)
-- Outrage (Lv 67)
-- Hyper Beam (Lv 75)
-- Hurricane (Lv 81)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 1)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 5)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 11)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 15)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 21)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 25)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 33)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 39)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 47)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 53)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 61)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 67)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 75)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 81)
 
 **Egg Moves**
-- Mist
-- Haze
-- Supersonic
-- Dragon Breath
-- Dragon Dance
-- Dragon Rush
-- Extreme Speed
-- Water Pulse
-- Aqua Jet
-- Dragon Pulse
-- Iron Tail
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Fury Cutter
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -506,44 +506,44 @@ Types: Dragon / Flying • Egg Groups: Water 1 / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM57 - Roost
-- TM58 - Thunder Wave
-- TM60 - Dragon Dance
-- HM01 - Cut
-- HM02 - Fly
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Dragon Scale
@@ -567,59 +567,59 @@ Dragonite-ite
 | Total | <span class="stat-value stat-high">700</span> |
 
 **Level-Up Moves**
-- Wing Attack (Lv Evo)
-- Hurricane (Lv 1)
-- Fire Punch (Lv 1)
-- Thunder Punch (Lv 1)
-- Roost (Lv 1)
-- Wrap (Lv 1)
-- Leer (Lv 1)
-- Thunder Wave (Lv 5)
-- Twister (Lv 11)
-- Dragon Rage (Lv 15)
-- Slam (Lv 21)
-- Agility (Lv 25)
-- Dragon Tail (Lv 33)
-- Aqua Tail (Lv 39)
-- Dragon Rush (Lv 47)
-- Safeguard (Lv 53)
-- Dragon Dance (Lv 61)
-- Outrage (Lv 67)
-- Hyper Beam (Lv 75)
-- Hurricane (Lv 81)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 1)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 5)
+- <a href="move-lookup.html?q=twister">Twister</a> (Lv 11)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 15)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 21)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 25)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 33)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 39)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 47)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 53)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 61)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 67)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 75)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 81)
 
 **Egg Moves**
-- Mist
-- Haze
-- Supersonic
-- Dragon Breath
-- Dragon Dance
-- Dragon Rush
-- Extreme Speed
-- Water Pulse
-- Aqua Jet
-- Dragon Pulse
-- Iron Tail
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a>
+- <a href="move-lookup.html?q=extreme-speed">Extreme Speed</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Fury Cutter
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

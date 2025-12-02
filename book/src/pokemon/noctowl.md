@@ -32,27 +32,27 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM48 - Skill Swap
-- TM50 - Deepwater Curse
-- TM51 - Will-O-Wisp
-- TM57 - Roost
-- HM02 - Fly
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Acrisia City — Grass (Night) (20%)
@@ -75,49 +75,49 @@ Types: Normal / Flying • Egg Groups: Flying
 | Total | <span class="stat-value stat-low">267</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Foresight (Lv 1)
-- Hypnosis (Lv 4)
-- Peck (Lv 7)
-- Confusion (Lv 10)
-- Echoed Voice (Lv 13)
-- Night Shade (Lv 16)
-- Psycho Shift (Lv 19)
-- Extrasensory (Lv 22)
-- Relic Song (Lv 25)
-- Reflect (Lv 28)
-- Air Slash (Lv 31)
-- Uproar (Lv 34)
-- Roost (Lv 37)
-- Moonblast (Lv 40)
-- Synchronoise (Lv 43)
-- Dream Eater (Lv 46)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 1)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 7)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 13)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 16)
+- <a href="move-lookup.html?q=psycho-shift">Psycho Shift</a> (Lv 19)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 22)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 25)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 28)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 31)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 34)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 37)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 40)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 43)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 46)
 
 **Egg Moves**
-- Mirror Move
-- Supersonic
-- Feint Attack
-- Wing Attack
-- Whirlwind
-- Sky Attack
-- Feather Dance
-- Agility
-- Night Shade
-- Defog
-- Mean Look
-- Hurricane
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=night-shade">Night Shade</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=hurricane">Hurricane</a>
 
 **Tutor Moves**
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -182,27 +182,27 @@ Types: Ghost / Flying • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM48 - Skill Swap
-- TM50 - Deepwater Curse
-- TM51 - Will-O-Wisp
-- TM57 - Roost
-- HM02 - Fly
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 20
@@ -227,55 +227,55 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">457</span> |
 
 **Level-Up Moves**
-- Hex (Lv Evo)
-- Dream Eater (Lv 1)
-- Sky Attack (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Foresight (Lv 1)
-- Hypnosis (Lv 4)
-- Peck (Lv 7)
-- Confusion (Lv 10)
-- Echoed Voice (Lv 13)
-- Night Shade (Lv 16)
-- Psycho Shift (Lv 19)
-- Psybeam (Lv 23)
-- Relic Song (Lv 27)
-- Extrasensory (Lv 30)
-- Reflect (Lv 32)
-- Air Slash (Lv 35)
-- Bitter Malice (Lv 38)
-- Uproar (Lv 41)
-- Roost (Lv 43)
-- Moonblast (Lv 47)
-- Synchronoise (Lv 51)
-- Dream Eater (Lv 55)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv Evo)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 1)
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 1)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 7)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 13)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 16)
+- <a href="move-lookup.html?q=psycho-shift">Psycho Shift</a> (Lv 19)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 23)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 27)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 30)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 32)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=bitter-malice">Bitter Malice</a> (Lv 38)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 41)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 43)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 47)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 51)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 55)
 
 **Egg Moves**
-- Mirror Move
-- Supersonic
-- Feint Attack
-- Wing Attack
-- Whirlwind
-- Sky Attack
-- Feather Dance
-- Agility
-- Night Shade
-- Defog
-- Mean Look
-- Hurricane
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=night-shade">Night Shade</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=hurricane">Hurricane</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -338,27 +338,27 @@ Types: Ghost / Flying • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM48 - Skill Swap
-- TM50 - Deepwater Curse
-- TM51 - Will-O-Wisp
-- TM57 - Roost
-- HM02 - Fly
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Noctowlite
@@ -379,55 +379,55 @@ Noctowlite
 | Total | <span class="stat-value stat-high">557</span> |
 
 **Level-Up Moves**
-- Hex (Lv Evo)
-- Dream Eater (Lv 1)
-- Sky Attack (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Foresight (Lv 1)
-- Hypnosis (Lv 4)
-- Peck (Lv 7)
-- Confusion (Lv 10)
-- Echoed Voice (Lv 13)
-- Night Shade (Lv 16)
-- Psycho Shift (Lv 19)
-- Psybeam (Lv 23)
-- Relic Song (Lv 27)
-- Extrasensory (Lv 30)
-- Reflect (Lv 32)
-- Air Slash (Lv 35)
-- Bitter Malice (Lv 38)
-- Uproar (Lv 41)
-- Roost (Lv 43)
-- Moonblast (Lv 47)
-- Synchronoise (Lv 51)
-- Dream Eater (Lv 55)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv Evo)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 1)
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 1)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 4)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 7)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 10)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 13)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 16)
+- <a href="move-lookup.html?q=psycho-shift">Psycho Shift</a> (Lv 19)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 23)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 27)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 30)
+- <a href="move-lookup.html?q=reflect">Reflect</a> (Lv 32)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 35)
+- <a href="move-lookup.html?q=bitter-malice">Bitter Malice</a> (Lv 38)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 41)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 43)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 47)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 51)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 55)
 
 **Egg Moves**
-- Mirror Move
-- Supersonic
-- Feint Attack
-- Wing Attack
-- Whirlwind
-- Sky Attack
-- Feather Dance
-- Agility
-- Night Shade
-- Defog
-- Mean Look
-- Hurricane
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a>
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=night-shade">Night Shade</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=hurricane">Hurricane</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

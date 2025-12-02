@@ -27,15 +27,15 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM17 - Protect
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM55 - Snarl
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (10%)
@@ -59,38 +59,38 @@ Types: Electric • Egg Groups: Field
 | Total | <span class="stat-value stat-low">270</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Nuzzle (Lv 5)
-- Bite (Lv 10)
-- Roar (Lv 14)
-- Spark (Lv 18)
-- Charm (Lv 21)
-- Dig (Lv 24)
-- Slam (Lv 27)
-- Snarl (Lv 30)
-- Crunch (Lv 32)
-- Charge (Lv 35)
-- Play Rough (Lv 38)
-- Wild Charge (Lv 40)
-- Fire Fang (Lv 43)
-- Volt Switch (Lv 46)
-- Mirror Shot (Lv 50)
-- Electric Terrain (Lv 54)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 14)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 18)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 21)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 24)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 32)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 35)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 38)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 40)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 43)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 46)
+- <a href="move-lookup.html?q=mirror-shot">Mirror Shot</a> (Lv 50)
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a> (Lv 54)
 
 **Egg Moves**
-- Double-Edge
-- Sand Attack
-- Flame Charge
-- Discharge
-- Howl
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a>
+- <a href="move-lookup.html?q=discharge">Discharge</a>
+- <a href="move-lookup.html?q=howl">Howl</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -148,16 +148,16 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM17 - Protect
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM55 - Snarl
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. 25
@@ -182,40 +182,40 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Thunder Fang (Lv Evo)
-- Electrify (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Nuzzle (Lv 5)
-- Bite (Lv 10)
-- Roar (Lv 14)
-- Spark (Lv 18)
-- Charm (Lv 21)
-- Dig (Lv 24)
-- Slam (Lv 27)
-- Snarl (Lv 30)
-- Crunch (Lv 32)
-- Charge (Lv 35)
-- Play Rough (Lv 38)
-- Wild Charge (Lv 40)
-- Fire Fang (Lv 43)
-- Volt Switch (Lv 46)
-- Mirror Shot (Lv 50)
-- Electric Terrain (Lv 54)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv Evo)
+- <a href="move-lookup.html?q=electrify">Electrify</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 14)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 18)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 21)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 24)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 32)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 35)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 38)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 40)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 43)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 46)
+- <a href="move-lookup.html?q=mirror-shot">Mirror Shot</a> (Lv 50)
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a> (Lv 54)
 
 **Egg Moves**
-- Double-Edge
-- Sand Attack
-- Flame Charge
-- Discharge
-- Howl
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a>
+- <a href="move-lookup.html?q=discharge">Discharge</a>
+- <a href="move-lookup.html?q=howl">Howl</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

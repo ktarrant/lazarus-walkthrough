@@ -20,29 +20,29 @@ Types: Ghost / Fairy • Egg Groups: Amorphous
 - Steel (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Chesto Berry
@@ -68,41 +68,41 @@ Chesto Berry
 | Total | <span class="stat-value stat-mid">486</span> |
 
 **Level-Up Moves**
-- Wood Hammer (Lv 1)
-- Splash (Lv 1)
-- Scratch (Lv 1)
-- Astonish (Lv 1)
-- Copycat (Lv 1)
-- Double Team (Lv 5)
-- Baby-Doll Eyes (Lv 10)
-- Shadow Sneak (Lv 14)
-- Mimic (Lv 18)
-- Feint Attack (Lv 21)
-- Covet (Lv 24)
-- Charm (Lv 28)
-- Slash (Lv 32)
-- Shadow Claw (Lv 35)
-- Crush Claw (Lv 38)
-- Hone Claws (Lv 41)
-- Play Rough (Lv 44)
-- Pain Split (Lv 47)
-- Spirit Shackle (Lv 50)
-- Dire Claw (Lv 60)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 1)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=copycat">Copycat</a> (Lv 1)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 10)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 14)
+- <a href="move-lookup.html?q=mimic">Mimic</a> (Lv 18)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 24)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 28)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 35)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 38)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 41)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 44)
+- <a href="move-lookup.html?q=pain-split">Pain Split</a> (Lv 47)
+- <a href="move-lookup.html?q=spirit-shackle">Spirit Shackle</a> (Lv 50)
+- <a href="move-lookup.html?q=dire-claw">Dire Claw</a> (Lv 60)
 
 **Egg Moves**
-- Grudge
-- Destiny Bond
-- Curse
-- Nightmare
+- <a href="move-lookup.html?q=grudge">Grudge</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=nightmare">Nightmare</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

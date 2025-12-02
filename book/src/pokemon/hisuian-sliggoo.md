@@ -36,18 +36,18 @@ Types: Dragon • Egg Groups: Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Held Item**
 Shed Shell
@@ -79,36 +79,36 @@ Shed Shell
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Bubble (Lv 1)
-- Absorb (Lv 5)
-- Protect (Lv 9)
-- Bide (Lv 13)
-- Dragon Breath (Lv 18)
-- Mega Drain (Lv 20)
-- Rain Dance (Lv 25)
-- Flail (Lv 28)
-- Body Slam (Lv 32)
-- Muddy Water (Lv 38)
-- Dragon Pulse (Lv 42)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 9)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 18)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 20)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 28)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a> (Lv 38)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 42)
 
 **Egg Moves**
-- Acid Armor
-- Curse
-- Iron Tail
-- Poison Tail
-- Counter
-- Endure
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -169,21 +169,21 @@ Types: Dragon • Egg Groups: Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Held Item**
 Shed Shell
@@ -207,40 +207,40 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">452</span> |
 
 **Level-Up Moves**
-- Acid Spray (Lv Evo)
-- Tackle (Lv 1)
-- Bubble (Lv 1)
-- Absorb (Lv 5)
-- Protect (Lv 9)
-- Bide (Lv 13)
-- Dragon Breath (Lv 18)
-- Mega Drain (Lv 20)
-- Rain Dance (Lv 25)
-- Flail (Lv 28)
-- Body Slam (Lv 32)
-- Muddy Water (Lv 38)
-- Dragon Pulse (Lv 42)
-- Sludge Bomb (Lv 45)
-- Power Whip (Lv 50)
-- Outrage (Lv 55)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 9)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 18)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 20)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 28)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a> (Lv 38)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 42)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 45)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 50)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 55)
 
 **Egg Moves**
-- Acid Armor
-- Curse
-- Iron Tail
-- Poison Tail
-- Counter
-- Endure
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -301,30 +301,30 @@ Types: Dragon • Egg Groups: Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM56 - Scald
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 50, Overworld Rain
@@ -345,47 +345,47 @@ Lv. 50, Overworld Rain
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Aqua Tail (Lv Evo)
-- Acid Spray (Lv 1)
-- Outrage (Lv 1)
-- Feint (Lv 1)
-- Tackle (Lv 1)
-- Bubble (Lv 1)
-- Absorb (Lv 5)
-- Protect (Lv 9)
-- Bide (Lv 13)
-- Dragon Breath (Lv 18)
-- Mega Drain (Lv 20)
-- Rain Dance (Lv 25)
-- Flail (Lv 28)
-- Body Slam (Lv 32)
-- Muddy Water (Lv 38)
-- Dragon Pulse (Lv 42)
-- Sludge Bomb (Lv 45)
-- Power Whip (Lv 50)
-- Outrage (Lv 55)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv Evo)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 1)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 1)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 9)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 18)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 20)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 28)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a> (Lv 38)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 42)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 45)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 50)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 55)
 
 **Egg Moves**
-- Acid Armor
-- Curse
-- Iron Tail
-- Poison Tail
-- Counter
-- Endure
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Endure
-- Fire Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -451,19 +451,19 @@ Types: Dragon / Steel • Egg Groups: Dragon
 - Ground (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 
 **Held Item**
 Shed Shell
@@ -487,40 +487,40 @@ Metal Coat?
 | Total | <span class="stat-value stat-mid">452</span> |
 
 **Level-Up Moves**
-- Shelter (Lv Evo)
-- Acid Spray (Lv 1)
-- Acid Armor (Lv 1)
-- Tackle (Lv 1)
-- Bubble (Lv 1)
-- Absorb (Lv 5)
-- Protect (Lv 9)
-- Bide (Lv 13)
-- Dragon Breath (Lv 18)
-- Mega Drain (Lv 20)
-- Rain Dance (Lv 25)
-- Flail (Lv 28)
-- Body Slam (Lv 32)
-- Iron Head (Lv 36)
-- Dragon Pulse (Lv 42)
-- Sludge Bomb (Lv 45)
-- Hydro Pump (Lv 50)
-- Outrage (Lv 55)
+- <a href="move-lookup.html?q=shelter">Shelter</a> (Lv Evo)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 1)
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 9)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 18)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 20)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 28)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 36)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 42)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 45)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 55)
 
 **Egg Moves**
-- Acid Armor
-- Curse
-- Iron Tail
-- Poison Tail
-- Counter
-- Endure
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Endure
-- Rock Slide
-- Sleep Talk
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -586,26 +586,26 @@ Types: Dragon / Steel • Egg Groups: Dragon
 - Ground (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM03 - Water Pulse
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- HM03 - Surf
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 50, Overworld Rain?
@@ -626,42 +626,42 @@ Lv. 50, Overworld Rain?
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Shelter (Lv Evo)
-- Acid Spray (Lv 1)
-- Acid Armor (Lv 1)
-- Tackle (Lv 1)
-- Bubble (Lv 1)
-- Absorb (Lv 5)
-- Protect (Lv 9)
-- Bide (Lv 13)
-- Dragon Breath (Lv 18)
-- Mega Drain (Lv 20)
-- Rain Dance (Lv 25)
-- Flail (Lv 28)
-- Body Slam (Lv 32)
-- Iron Head (Lv 36)
-- Dragon Pulse (Lv 42)
-- Sludge Bomb (Lv 45)
-- Hydro Pump (Lv 50)
-- Outrage (Lv 55)
+- <a href="move-lookup.html?q=shelter">Shelter</a> (Lv Evo)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 1)
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 9)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 13)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 18)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 20)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 28)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 36)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 42)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 45)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 55)
 
 **Egg Moves**
-- Acid Armor
-- Curse
-- Iron Tail
-- Poison Tail
-- Counter
-- Endure
+- <a href="move-lookup.html?q=acid-armor">Acid Armor</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=poison-tail">Poison Tail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Endure
-- Fire Punch
-- Rock Slide
-- Sleep Talk
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

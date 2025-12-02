@@ -32,26 +32,26 @@ Types: Poison / Fighting • Egg Groups: Field
 - Psychic (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Quick Claw
@@ -75,36 +75,36 @@ Quick Claw
 | Total | <span class="stat-value stat-mid">430</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Taunt (Lv 1)
-- Quick Attack (Lv 8)
-- Poison Sting (Lv 10)
-- Rock Smash (Lv 14)
-- Fury Swipes (Lv 16)
-- Ice Shard (Lv 19)
-- Agility (Lv 20)
-- Metal Claw (Lv 22)
-- Hone Claws (Lv 25)
-- Poison Jab (Lv 27)
-- Knock Off (Lv 28)
-- Screech (Lv 32)
-- Slash (Lv 34)
-- Swords Dance (Lv 37)
-- Snatch (Lv 40)
-- Dire Claw (Lv 44)
-- Close Combat (Lv 47)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 8)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 10)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 14)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 16)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 19)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 20)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 22)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 25)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 27)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 28)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 34)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 37)
+- <a href="move-lookup.html?q=snatch">Snatch</a> (Lv 40)
+- <a href="move-lookup.html?q=dire-claw">Dire Claw</a> (Lv 44)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 47)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Acid Spray
-- Counter
-- Endure
-- Sleep Talk
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -167,27 +167,27 @@ Types: Fighting / Poison • Egg Groups: Field
 - Psychic (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Razor Claw
@@ -208,38 +208,38 @@ Razor Claw
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Taunt (Lv 1)
-- Quick Attack (Lv 8)
-- Poison Sting (Lv 10)
-- Rock Smash (Lv 14)
-- Fury Swipes (Lv 16)
-- Ice Shard (Lv 19)
-- Agility (Lv 20)
-- Metal Claw (Lv 22)
-- Hone Claws (Lv 25)
-- Poison Jab (Lv 27)
-- Knock Off (Lv 28)
-- Screech (Lv 32)
-- Slash (Lv 34)
-- Swords Dance (Lv 37)
-- Snatch (Lv 40)
-- Dire Claw (Lv 44)
-- Close Combat (Lv 47)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 8)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 10)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 14)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 16)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 19)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 20)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 22)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 25)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 27)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 28)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 32)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 34)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 37)
+- <a href="move-lookup.html?q=snatch">Snatch</a> (Lv 40)
+- <a href="move-lookup.html?q=dire-claw">Dire Claw</a> (Lv 44)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 47)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Acid Spray
-- Counter
-- Endure
-- Fire Punch
-- Rock Slide
-- Sleep Talk
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -35,18 +35,18 @@ Types: Grass • Egg Groups: -
 - Bug (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon" /> Caught</label>
@@ -64,34 +64,34 @@ Types: Grass • Egg Groups: -
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
-- Double Kick (Lv 1)
-- Counter (Lv 1)
-- Retaliate (Lv 1)
-- Horn Leech (Lv 1)
-- Vine Whip (Lv 1)
-- Leech Seed (Lv 1)
-- Quick Attack (Lv 1)
-- Follow Me (Lv 1)
-- Focus Energy (Lv 6)
-- Growth (Lv 12)
-- Slam (Lv 18)
-- Low Sweep (Lv 24)
-- Ivy Cudgel (Lv 30)
-- Throat Chop (Lv 36)
-- Synthesis (Lv 42)
-- Spiky Shield (Lv 48)
-- Power Whip (Lv 54)
-- Superpower (Lv 60)
-- Wood Hammer (Lv 66)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 1)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 1)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=follow-me">Follow Me</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 6)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 12)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 18)
+- <a href="move-lookup.html?q=low-sweep">Low Sweep</a> (Lv 24)
+- <a href="move-lookup.html?q=ivy-cudgel">Ivy Cudgel</a> (Lv 30)
+- <a href="move-lookup.html?q=throat-chop">Throat Chop</a> (Lv 36)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 42)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 48)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 54)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 60)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 66)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -150,18 +150,18 @@ Types: Grass / Rock • Egg Groups: -
 - Steel (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon-cornerstone" /> Caught</label>
@@ -179,34 +179,34 @@ Types: Grass / Rock • Egg Groups: -
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
-- Double Kick (Lv 1)
-- Counter (Lv 1)
-- Retaliate (Lv 1)
-- Horn Leech (Lv 1)
-- Vine Whip (Lv 1)
-- Leech Seed (Lv 1)
-- Quick Attack (Lv 1)
-- Follow Me (Lv 1)
-- Focus Energy (Lv 6)
-- Growth (Lv 12)
-- Slam (Lv 18)
-- Low Sweep (Lv 24)
-- Ivy Cudgel (Lv 30)
-- Throat Chop (Lv 36)
-- Synthesis (Lv 42)
-- Spiky Shield (Lv 48)
-- Power Whip (Lv 54)
-- Superpower (Lv 60)
-- Wood Hammer (Lv 66)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 1)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 1)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=follow-me">Follow Me</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 6)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 12)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 18)
+- <a href="move-lookup.html?q=low-sweep">Low Sweep</a> (Lv 24)
+- <a href="move-lookup.html?q=ivy-cudgel">Ivy Cudgel</a> (Lv 30)
+- <a href="move-lookup.html?q=throat-chop">Throat Chop</a> (Lv 36)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 42)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 48)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 54)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 60)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 66)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -266,18 +266,18 @@ Types: Grass / Fire • Egg Groups: -
 - Rock (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon-hearthflame" /> Caught</label>
@@ -295,34 +295,34 @@ Types: Grass / Fire • Egg Groups: -
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
-- Double Kick (Lv 1)
-- Counter (Lv 1)
-- Retaliate (Lv 1)
-- Horn Leech (Lv 1)
-- Vine Whip (Lv 1)
-- Leech Seed (Lv 1)
-- Quick Attack (Lv 1)
-- Follow Me (Lv 1)
-- Focus Energy (Lv 6)
-- Growth (Lv 12)
-- Slam (Lv 18)
-- Low Sweep (Lv 24)
-- Ivy Cudgel (Lv 30)
-- Throat Chop (Lv 36)
-- Synthesis (Lv 42)
-- Spiky Shield (Lv 48)
-- Power Whip (Lv 54)
-- Superpower (Lv 60)
-- Wood Hammer (Lv 66)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 1)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 1)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=follow-me">Follow Me</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 6)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 12)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 18)
+- <a href="move-lookup.html?q=low-sweep">Low Sweep</a> (Lv 24)
+- <a href="move-lookup.html?q=ivy-cudgel">Ivy Cudgel</a> (Lv 30)
+- <a href="move-lookup.html?q=throat-chop">Throat Chop</a> (Lv 36)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 42)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 48)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 54)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 60)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 66)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -381,18 +381,18 @@ Types: Grass / Water • Egg Groups: -
 - Bug (2×)
 
 **TM/HM Moves**
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon-wellspring" /> Caught</label>
@@ -410,34 +410,34 @@ Types: Grass / Water • Egg Groups: -
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
-- Double Kick (Lv 1)
-- Counter (Lv 1)
-- Retaliate (Lv 1)
-- Horn Leech (Lv 1)
-- Vine Whip (Lv 1)
-- Leech Seed (Lv 1)
-- Quick Attack (Lv 1)
-- Follow Me (Lv 1)
-- Focus Energy (Lv 6)
-- Growth (Lv 12)
-- Slam (Lv 18)
-- Low Sweep (Lv 24)
-- Ivy Cudgel (Lv 30)
-- Throat Chop (Lv 36)
-- Synthesis (Lv 42)
-- Spiky Shield (Lv 48)
-- Power Whip (Lv 54)
-- Superpower (Lv 60)
-- Wood Hammer (Lv 66)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 1)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 1)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=follow-me">Follow Me</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 6)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 12)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 18)
+- <a href="move-lookup.html?q=low-sweep">Low Sweep</a> (Lv 24)
+- <a href="move-lookup.html?q=ivy-cudgel">Ivy Cudgel</a> (Lv 30)
+- <a href="move-lookup.html?q=throat-chop">Throat Chop</a> (Lv 36)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 42)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 48)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 54)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 60)
+- <a href="move-lookup.html?q=wood-hammer">Wood Hammer</a> (Lv 66)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -34,24 +34,24 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon
 - Rock (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Held Item**
 Smoke Ball
@@ -78,38 +78,38 @@ Smoke Ball
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Poison Gas (Lv 1)
-- Ember (Lv 5)
-- Sweet Scent (Lv 8)
-- Dragon Rage (Lv 13)
-- Smog (Lv 16)
-- Double Slap (Lv 19)
-- Sludge (Lv 22)
-- Flame Burst (Lv 24)
-- Toxic (Lv 29)
-- Nasty Plot (Lv 32)
-- Fiery Wrath (Lv 35)
-- Venoshock (Lv 37)
-- Flamethrower (Lv 40)
-- Venom Drench (Lv 45)
-- Dragon Pulse (Lv 48)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 8)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 13)
+- <a href="move-lookup.html?q=smog">Smog</a> (Lv 16)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 19)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 22)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 24)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 29)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 32)
+- <a href="move-lookup.html?q=fiery-wrath">Fiery Wrath</a> (Lv 35)
+- <a href="move-lookup.html?q=venoshock">Venoshock</a> (Lv 37)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 40)
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a> (Lv 45)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 48)
 
 **Egg Moves**
-- Belch
-- Knock Off
-- Sand Attack
-- Snatch
-- Fake Out
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
 
 **Tutor Moves**
-- Acid Spray
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -174,25 +174,25 @@ Types: Poison / Fire • Egg Groups: Monster / Dragon
 - Rock (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM58 - Thunder Wave
-- TM60 - Dragon Dance
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
 
 **Held Item**
 Smoke Ball
@@ -216,44 +216,44 @@ Lv. 33, Female
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
-- Captivate (Lv Evo)
-- Disable (Lv 1)
-- Encore (Lv 1)
-- Torment (Lv 1)
-- Swagger (Lv 1)
-- Scratch (Lv 1)
-- Poison Gas (Lv 1)
-- Ember (Lv 5)
-- Sweet Scent (Lv 8)
-- Dragon Rage (Lv 13)
-- Smog (Lv 16)
-- Double Slap (Lv 19)
-- Sludge (Lv 22)
-- Flame Burst (Lv 24)
-- Toxic (Lv 29)
-- Nasty Plot (Lv 32)
-- Fiery Wrath (Lv 35)
-- Venoshock (Lv 37)
-- Flamethrower (Lv 40)
-- Venom Drench (Lv 45)
-- Dragon Pulse (Lv 48)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv Evo)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 1)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 1)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 1)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 8)
+- <a href="move-lookup.html?q=dragon-rage">Dragon Rage</a> (Lv 13)
+- <a href="move-lookup.html?q=smog">Smog</a> (Lv 16)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 19)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 22)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 24)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 29)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 32)
+- <a href="move-lookup.html?q=fiery-wrath">Fiery Wrath</a> (Lv 35)
+- <a href="move-lookup.html?q=venoshock">Venoshock</a> (Lv 37)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 40)
+- <a href="move-lookup.html?q=venom-drench">Venom Drench</a> (Lv 45)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 48)
 
 **Egg Moves**
-- Belch
-- Knock Off
-- Sand Attack
-- Snatch
-- Fake Out
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

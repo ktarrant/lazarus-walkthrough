@@ -32,19 +32,19 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- HM04 - Strength
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
 
 **Encounter Locations**
 - Lastlight Road — Grass (Day) (10%)
@@ -67,43 +67,43 @@ Types: Fire • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Tackle (Lv 1)
-- Tail Whip (Lv 4)
-- Ember (Lv 9)
-- Flame Wheel (Lv 13)
-- Stomp (Lv 17)
-- Flame Charge (Lv 21)
-- Fire Spin (Lv 25)
-- Take Down (Lv 29)
-- Inferno (Lv 33)
-- Agility (Lv 37)
-- Fire Blast (Lv 41)
-- Bounce (Lv 45)
-- Flare Blitz (Lv 49)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 9)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 13)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 17)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 21)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 25)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 29)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 33)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 37)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 41)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 45)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 49)
 
 **Egg Moves**
-- Flame Wheel
-- Thrash
-- Double Kick
-- Hypnosis
-- Charm
-- Double-Edge
-- Horn Drill
-- Morning Sun
-- Low Kick
-- Captivate
-- Ally Switch
-- High Horsepower
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a>
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -166,20 +166,20 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
-- HM04 - Strength
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
 
 **Evolution Info**
 Lv. 30
@@ -203,47 +203,47 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Megahorn (Lv Evo)
-- Fury Attack (Lv 1)
-- Poison Jab (Lv 1)
-- Growl (Lv 1)
-- Quick Attack (Lv 1)
-- Tail Whip (Lv 4)
-- Ember (Lv 9)
-- Flame Wheel (Lv 13)
-- Stomp (Lv 17)
-- Flame Charge (Lv 21)
-- Fire Spin (Lv 25)
-- Take Down (Lv 29)
-- Inferno (Lv 33)
-- Agility (Lv 37)
-- Fire Blast (Lv 41)
-- Bounce (Lv 45)
-- Flare Blitz (Lv 49)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv Evo)
+- <a href="move-lookup.html?q=fury-attack">Fury Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 9)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 13)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 17)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 21)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 25)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 29)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 33)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 37)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 41)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 45)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 49)
 
 **Egg Moves**
-- Flame Wheel
-- Thrash
-- Double Kick
-- Hypnosis
-- Charm
-- Double-Edge
-- Horn Drill
-- Morning Sun
-- Low Kick
-- Captivate
-- Ally Switch
-- High Horsepower
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a>
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -28,26 +28,26 @@ Types: Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Acrisia City — Grass (Night) (10%)
@@ -71,48 +71,48 @@ Types: Psychic • Egg Groups: Field
 | Total | <span class="stat-value stat-low">292</span> |
 
 **Level-Up Moves**
-- Psywave (Lv 1)
-- Defense Curl (Lv 1)
-- Lucky Chant (Lv 5)
-- Yawn (Lv 7)
-- Psybeam (Lv 11)
-- Imprison (Lv 13)
-- Moonlight (Lv 17)
-- Hypnosis (Lv 19)
-- Clear Smog (Lv 23)
-- Synchronoise (Lv 25)
-- Nightmare (Lv 29)
-- Future Sight (Lv 31)
-- Calm Mind (Lv 34)
-- Psychic (Lv 36)
-- Strange Steam (Lv 39)
-- Dream Eater (Lv 41)
-- Telekinesis (Lv 43)
-- Stored Power (Lv 47)
-- Hydro Steam (Lv 50)
+- <a href="move-lookup.html?q=psywave">Psywave</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 5)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 7)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 11)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 13)
+- <a href="move-lookup.html?q=moonlight">Moonlight</a> (Lv 17)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 19)
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a> (Lv 23)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 25)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 29)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 31)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 34)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 36)
+- <a href="move-lookup.html?q=strange-steam">Strange Steam</a> (Lv 39)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 41)
+- <a href="move-lookup.html?q=telekinesis">Telekinesis</a> (Lv 43)
+- <a href="move-lookup.html?q=stored-power">Stored Power</a> (Lv 47)
+- <a href="move-lookup.html?q=hydro-steam">Hydro Steam</a> (Lv 50)
 
 **Egg Moves**
-- Sleep Talk
-- Secret Power
-- Barrier
-- Magic Coat
-- Helping Hand
-- Baton Pass
-- Swift
-- Curse
-- Sonic Boom
-- Healing Wish
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a>
+- <a href="move-lookup.html?q=healing-wish">Healing Wish</a>
 
 **Tutor Moves**
-- Defense Curl
-- Dream Eater
-- Endure
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -171,26 +171,26 @@ Types: Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Moon Stone
@@ -214,49 +214,49 @@ Moon Stone
 | Total | <span class="stat-value stat-mid">487</span> |
 
 **Level-Up Moves**
-- Psychic Terrain (Lv Evo)
-- Psywave (Lv 1)
-- Defense Curl (Lv 1)
-- Lucky Chant (Lv 5)
-- Yawn (Lv 7)
-- Psybeam (Lv 11)
-- Imprison (Lv 13)
-- Moonlight (Lv 17)
-- Hypnosis (Lv 19)
-- Clear Smog (Lv 23)
-- Synchronoise (Lv 25)
-- Nightmare (Lv 29)
-- Future Sight (Lv 31)
-- Calm Mind (Lv 34)
-- Psychic (Lv 36)
-- Strange Steam (Lv 39)
-- Dream Eater (Lv 41)
-- Telekinesis (Lv 43)
-- Stored Power (Lv 47)
-- Hydro Steam (Lv 50)
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a> (Lv Evo)
+- <a href="move-lookup.html?q=psywave">Psywave</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 5)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 7)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 11)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 13)
+- <a href="move-lookup.html?q=moonlight">Moonlight</a> (Lv 17)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 19)
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a> (Lv 23)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 25)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 29)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 31)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 34)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 36)
+- <a href="move-lookup.html?q=strange-steam">Strange Steam</a> (Lv 39)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 41)
+- <a href="move-lookup.html?q=telekinesis">Telekinesis</a> (Lv 43)
+- <a href="move-lookup.html?q=stored-power">Stored Power</a> (Lv 47)
+- <a href="move-lookup.html?q=hydro-steam">Hydro Steam</a> (Lv 50)
 
 **Egg Moves**
-- Sleep Talk
-- Secret Power
-- Barrier
-- Magic Coat
-- Helping Hand
-- Baton Pass
-- Swift
-- Curse
-- Sonic Boom
-- Healing Wish
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a>
+- <a href="move-lookup.html?q=healing-wish">Healing Wish</a>
 
 **Tutor Moves**
-- Defense Curl
-- Dream Eater
-- Endure
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

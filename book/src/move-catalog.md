@@ -240,6 +240,8 @@ All move cards generated for Lazarus.
 
 {{#include ./moves/curse.md}}
 
+{{#include ./moves/cut.md}}
+
 {{#include ./moves/dark-pulse.md}}
 
 {{#include ./moves/darkest-lariat.md}}
@@ -565,22 +567,6 @@ All move cards generated for Lazarus.
 {{#include ./moves/high-horsepower.md}}
 
 {{#include ./moves/high-jump-kick.md}}
-
-{{#include ./moves/hm01-cut.md}}
-
-{{#include ./moves/hm02-fly.md}}
-
-{{#include ./moves/hm03-surf.md}}
-
-{{#include ./moves/hm04-strength.md}}
-
-{{#include ./moves/hm05-flash.md}}
-
-{{#include ./moves/hm06-rock-smash.md}}
-
-{{#include ./moves/hm07-waterfall.md}}
-
-{{#include ./moves/hm08-dive.md}}
 
 {{#include ./moves/hone-claws.md}}
 
@@ -1301,124 +1287,6 @@ All move cards generated for Lazarus.
 {{#include ./moves/thundershock.md}}
 
 {{#include ./moves/tickle.md}}
-
-{{#include ./moves/tm01-wish.md}}
-
-{{#include ./moves/tm02-dragon-claw.md}}
-
-{{#include ./moves/tm03-water-pulse.md}}
-
-{{#include ./moves/tm04-calm-mind.md}}
-
-{{#include ./moves/tm05-psyshock.md}}
-
-{{#include ./moves/tm06-toxic.md}}
-
-{{#include ./moves/tm07-whirlpool.md}}
-
-{{#include ./moves/tm08-bulk-up.md}}
-
-{{#include ./moves/tm09-bullet-seed.md}}
-
-{{#include ./moves/tm11-sunny-day.md}}
-
-{{#include ./moves/tm12-taunt.md}}
-
-{{#include ./moves/tm13-ice-beam.md}}
-
-{{#include ./moves/tm14-blizzard.md}}
-
-{{#include ./moves/tm15-draining-kiss.md}}
-
-{{#include ./moves/tm15-hyper-beam.md}}
-
-{{#include ./moves/tm16-light-screen.md}}
-
-{{#include ./moves/tm17-protect.md}}
-
-{{#include ./moves/tm18-rain-dance.md}}
-
-{{#include ./moves/tm19-giga-drain.md}}
-
-{{#include ./moves/tm20-poison-jab.md}}
-
-{{#include ./moves/tm22-solar-beam.md}}
-
-{{#include ./moves/tm23-hex.md}}
-
-{{#include ./moves/tm23-iron-tail.md}}
-
-{{#include ./moves/tm24-thunderbolt.md}}
-
-{{#include ./moves/tm25-thunder.md}}
-
-{{#include ./moves/tm26-earthquake.md}}
-
-{{#include ./moves/tm28-dig.md}}
-
-{{#include ./moves/tm29-psychic.md}}
-
-{{#include ./moves/tm30-shadow-ball.md}}
-
-{{#include ./moves/tm31-brick-break.md}}
-
-{{#include ./moves/tm32-double-team.md}}
-
-{{#include ./moves/tm33-reflect.md}}
-
-{{#include ./moves/tm34-shock-wave.md}}
-
-{{#include ./moves/tm35-flamethrower.md}}
-
-{{#include ./moves/tm36-sludge-bomb.md}}
-
-{{#include ./moves/tm37-sandstorm.md}}
-
-{{#include ./moves/tm38-fire-blast.md}}
-
-{{#include ./moves/tm39-rock-tomb.md}}
-
-{{#include ./moves/tm40-aerial-ace.md}}
-
-{{#include ./moves/tm41-torment.md}}
-
-{{#include ./moves/tm42-facade.md}}
-
-{{#include ./moves/tm43-poison-fang.md}}
-
-{{#include ./moves/tm44-rest.md}}
-
-{{#include ./moves/tm45-attract.md}}
-
-{{#include ./moves/tm46-thief.md}}
-
-{{#include ./moves/tm47-steel-wing.md}}
-
-{{#include ./moves/tm48-skill-swap.md}}
-
-{{#include ./moves/tm49-bulldoze.md}}
-
-{{#include ./moves/tm50-deepwater-curse.md}}
-
-{{#include ./moves/tm51-will-o-wisp.md}}
-
-{{#include ./moves/tm52-frost-breath.md}}
-
-{{#include ./moves/tm53-power-up-punch.md}}
-
-{{#include ./moves/tm54-dazzling-gleam.md}}
-
-{{#include ./moves/tm55-snarl.md}}
-
-{{#include ./moves/tm56-scald.md}}
-
-{{#include ./moves/tm57-roost.md}}
-
-{{#include ./moves/tm58-thunder-wave.md}}
-
-{{#include ./moves/tm59-dark-pulse.md}}
-
-{{#include ./moves/tm60-dragon-dance.md}}
 
 {{#include ./moves/torch-song.md}}
 

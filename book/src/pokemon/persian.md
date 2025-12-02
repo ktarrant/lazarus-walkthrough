@@ -25,29 +25,29 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Quick Claw
@@ -72,51 +72,51 @@ Quick Claw
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Growl (Lv 1)
-- Bite (Lv 6)
-- Fake Out (Lv 9)
-- Fury Swipes (Lv 14)
-- Screech (Lv 17)
-- Thief (Lv 20)
-- Feint Attack (Lv 22)
-- Taunt (Lv 25)
-- Pay Day (Lv 30)
-- Slash (Lv 33)
-- Nasty Plot (Lv 38)
-- Assurance (Lv 41)
-- Captivate (Lv 46)
-- Night Slash (Lv 49)
-- Feint (Lv 50)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 6)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 14)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 17)
+- <a href="move-lookup.html?q=thief">Thief</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 22)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=pay-day">Pay Day</a> (Lv 30)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 33)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 38)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 41)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 46)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 49)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 50)
 
 **Egg Moves**
-- Spite
-- Charm
-- Hypnosis
-- Amnesia
-- Assist
-- Odor Sleuth
-- Flail
-- Last Resort
-- Punishment
-- Tail Whip
-- Snatch
-- Iron Tail
-- Foul Play
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=assist">Assist</a>
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Dream Eater
-- Endure
-- Icy Wind
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -172,29 +172,29 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Quick Claw
@@ -221,54 +221,54 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
-- Slash (Lv Evo)
-- Play Rough (Lv 1)
-- Switcheroo (Lv 1)
-- Scratch (Lv 1)
-- Growl (Lv 1)
-- Bite (Lv 6)
-- Fake Out (Lv 9)
-- Fury Swipes (Lv 14)
-- Screech (Lv 17)
-- Thief (Lv 20)
-- Feint Attack (Lv 22)
-- Taunt (Lv 25)
-- Power Gem (Lv 32)
-- Snarl (Lv 37)
-- Nasty Plot (Lv 41)
-- Assurance (Lv 49)
-- Captivate (Lv 56)
-- Night Slash (Lv 61)
-- Feint (Lv 65)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv Evo)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 1)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 6)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 14)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 17)
+- <a href="move-lookup.html?q=thief">Thief</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 22)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=power-gem">Power Gem</a> (Lv 32)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 37)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 41)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 49)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 56)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 61)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 65)
 
 **Egg Moves**
-- Spite
-- Charm
-- Hypnosis
-- Amnesia
-- Assist
-- Odor Sleuth
-- Flail
-- Last Resort
-- Punishment
-- Tail Whip
-- Snatch
-- Iron Tail
-- Foul Play
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=assist">Assist</a>
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Dream Eater
-- Endure
-- Icy Wind
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

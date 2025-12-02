@@ -32,17 +32,17 @@ Types: Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Held Item**
 Miracle Seed
@@ -71,34 +71,34 @@ Miracle Seed
 | Total | <span class="stat-value stat-low">270</span> |
 
 **Level-Up Moves**
-- Fury Cutter (Lv 1)
-- Leafage (Lv 5)
-- Razor Leaf (Lv 10)
-- Growth (Lv 14)
-- Ingrain (Lv 19)
-- Leaf Blade (Lv 23)
-- Bug Bite (Lv 25)
-- Synthesis (Lv 28)
-- Slash (Lv 32)
-- Cross Poison (Lv 35)
-- Sweet Scent (Lv 37)
-- Solar Beam (Lv 41)
-- Sunny Day (Lv 46)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 5)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 10)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 14)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 19)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 23)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 25)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 28)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 35)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 37)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 41)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 46)
 
 **Egg Moves**
-- Weather Ball
-- Giga Drain
-- Aromatherapy
-- Defog
-- Leaf Storm
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
 
 **Tutor Moves**
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -161,20 +161,20 @@ Types: Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
 
 **Held Item**
 Miracle Seed
@@ -204,38 +204,38 @@ Lv. 29, Day
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Petal Blizzard (Lv Evo)
-- X-Scissor (Lv 1)
-- Night Slash (Lv 1)
-- Fury Cutter (Lv 1)
-- Leafage (Lv 5)
-- Razor Leaf (Lv 10)
-- Growth (Lv 14)
-- Ingrain (Lv 19)
-- Leaf Blade (Lv 23)
-- Bug Bite (Lv 25)
-- Synthesis (Lv 28)
-- Slash (Lv 32)
-- Cross Poison (Lv 35)
-- Sweet Scent (Lv 37)
-- Leech Life (Lv 42)
-- Solar Blade (Lv 45)
-- Sunny Day (Lv 47)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv Evo)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 1)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 1)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 5)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 10)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 14)
+- <a href="move-lookup.html?q=ingrain">Ingrain</a> (Lv 19)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 23)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 25)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 28)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 32)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 35)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 37)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 42)
+- <a href="move-lookup.html?q=solar-blade">Solar Blade</a> (Lv 45)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 47)
 
 **Egg Moves**
-- Weather Ball
-- Giga Drain
-- Aromatherapy
-- Defog
-- Leaf Storm
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a>
 
 **Tutor Moves**
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

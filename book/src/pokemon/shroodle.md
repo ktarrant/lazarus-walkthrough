@@ -30,18 +30,18 @@ Types: Poison / Normal • Egg Groups: Field
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM46 - Thief
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Night) (5%)
@@ -64,42 +64,42 @@ Types: Poison / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-low">290</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Acid Spray (Lv 5)
-- Bite (Lv 8)
-- Fury Swipes (Lv 8)
-- Switcheroo (Lv 11)
-- Poison Fang (Lv 14)
-- Pounce (Lv 16)
-- Flatter (Lv 18)
-- Slash (Lv 21)
-- U-Turn (Lv 25)
-- Poison Jab (Lv 29)
-- Taunt (Lv 33)
-- Jungle Healing (Lv 35)
-- Substitute (Lv 37)
-- Knock Off (Lv 40)
-- Gunk Shot (Lv 45)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 8)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 8)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 11)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 14)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 16)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 18)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 21)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 25)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 29)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 33)
+- <a href="move-lookup.html?q=jungle-healing">Jungle Healing</a> (Lv 35)
+- <a href="move-lookup.html?q=substitute">Substitute</a> (Lv 37)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 40)
+- <a href="move-lookup.html?q=gunk-shot">Gunk Shot</a> (Lv 45)
 
 **Egg Moves**
-- Copycat
-- Cross Poison
-- Parting Shot
-- Super Fang
-- Swagger
-- Toxic
+- <a href="move-lookup.html?q=copycat">Copycat</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a>
+- <a href="move-lookup.html?q=super-fang">Super Fang</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=toxic">Toxic</a>
 
 **Tutor Moves**
-- Acid Spray
-- Double-Edge
-- Endure
-- Metronome
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -160,18 +160,18 @@ Types: Poison / Normal • Egg Groups: Field
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM46 - Thief
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
 
 **Evolution Info**
 Lv. 28
@@ -195,44 +195,44 @@ Lv. 28
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Doodle (Lv Evo)
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Acid Spray (Lv 5)
-- Fury Swipes (Lv 8)
-- Switcheroo (Lv 11)
-- Poison Fang (Lv 14)
-- Pounce (Lv 16)
-- Flatter (Lv 18)
-- Slash (Lv 21)
-- U-Turn (Lv 25)
-- Poison Jab (Lv 29)
-- Taunt (Lv 33)
-- Jungle Healing (Lv 35)
-- Substitute (Lv 37)
-- Knock Off (Lv 40)
-- Gunk Shot (Lv 43)
-- Flower Trick (Lv 46)
-- Barb Barrage (Lv 50)
+- <a href="move-lookup.html?q=doodle">Doodle</a> (Lv Evo)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 5)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 8)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 11)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 14)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 16)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 18)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 21)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 25)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 29)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 33)
+- <a href="move-lookup.html?q=jungle-healing">Jungle Healing</a> (Lv 35)
+- <a href="move-lookup.html?q=substitute">Substitute</a> (Lv 37)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 40)
+- <a href="move-lookup.html?q=gunk-shot">Gunk Shot</a> (Lv 43)
+- <a href="move-lookup.html?q=flower-trick">Flower Trick</a> (Lv 46)
+- <a href="move-lookup.html?q=barb-barrage">Barb Barrage</a> (Lv 50)
 
 **Egg Moves**
-- Copycat
-- Cross Poison
-- Parting Shot
-- Super Fang
-- Swagger
-- Toxic
+- <a href="move-lookup.html?q=copycat">Copycat</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a>
+- <a href="move-lookup.html?q=super-fang">Super Fang</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=toxic">Toxic</a>
 
 **Tutor Moves**
-- Acid Spray
-- Double-Edge
-- Endure
-- Metronome
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

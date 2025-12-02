@@ -19,6 +19,7 @@
 | Pokémon | How |
 | --- | --- |
 | <a href="pokemon-lookup.html?q=aerodactyl">Aerodactyl</a> | Level 65 |
+| <a href="pokemon-lookup.html?q=carracosta">Carracosta</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=claydol">Claydol</a> | Level 1 |
 | <a href="pokemon-lookup.html?q=dragonair">Dragonair</a> | Level 65 |
 | <a href="pokemon-lookup.html?q=dragonite">Dragonite</a> | Level 75 |

@@ -34,7 +34,7 @@ Types: Bug • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Held Item**
 Pecha Berry
@@ -61,16 +61,16 @@ Pecha Berry
 | Total | <span class="stat-value stat-low">195</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- String Shot (Lv 1)
-- Poison Sting (Lv 5)
-- Bug Bite (Lv 15)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=string-shot">String Shot</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 5)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 15)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Snore
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>
@@ -128,7 +128,7 @@ Types: Bug • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Evolution Info**
 Lv. 7
@@ -152,10 +152,10 @@ Lv. 7
 | Total | <span class="stat-value stat-low">205</span> |
 
 **Level-Up Moves**
-- Harden (Lv Evo)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv Evo)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 </div>
 </div>
 <script>
@@ -217,21 +217,21 @@ Types: Bug / Flying • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM57 - Roost
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Shed Shell
@@ -259,30 +259,30 @@ Lv. 10
 | Total | <span class="stat-value stat-mid">440</span> |
 
 **Level-Up Moves**
-- Gust (Lv Evo)
-- Absorb (Lv 12)
-- Stun Spore (Lv 15)
-- Morning Sun (Lv 17)
-- Air Cutter (Lv 20)
-- Mega Drain (Lv 22)
-- Silver Wind (Lv 25)
-- Attract (Lv 27)
-- Whirlwind (Lv 30)
-- Giga Drain (Lv 32)
-- Bug Buzz (Lv 35)
-- Rage (Lv 37)
-- Quiver Dance (Lv 40)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv Evo)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 12)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 15)
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a> (Lv 17)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 20)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 22)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 25)
+- <a href="move-lookup.html?q=attract">Attract</a> (Lv 27)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 30)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 32)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 35)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 37)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 40)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -340,7 +340,7 @@ Types: Bug • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Evolution Info**
 Lv. 7
@@ -364,10 +364,10 @@ Lv. 7
 | Total | <span class="stat-value stat-low">205</span> |
 
 **Level-Up Moves**
-- Harden (Lv Evo)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv Evo)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 </div>
 </div>
 <script>
@@ -429,23 +429,23 @@ Types: Bug / Poison • Egg Groups: Bug
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM57 - Roost
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Shed Shell
@@ -473,30 +473,30 @@ Lv. 10
 | Total | <span class="stat-value stat-mid">440</span> |
 
 **Level-Up Moves**
-- Gust (Lv Evo)
-- Confusion (Lv 12)
-- Poison Powder (Lv 15)
-- Moonlight (Lv 17)
-- Venoshock (Lv 20)
-- Psybeam (Lv 22)
-- U-Turn (Lv 25)
-- Light Screen (Lv 27)
-- Whirlwind (Lv 30)
-- Toxic (Lv 32)
-- Bug Buzz (Lv 35)
-- Protect (Lv 37)
-- Quiver Dance (Lv 40)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv Evo)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 12)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 15)
+- <a href="move-lookup.html?q=moonlight">Moonlight</a> (Lv 17)
+- <a href="move-lookup.html?q=venoshock">Venoshock</a> (Lv 20)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 22)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 25)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 27)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 30)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 32)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 35)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 37)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 40)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

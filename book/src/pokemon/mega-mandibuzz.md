@@ -34,27 +34,27 @@ Types: Dark / Flying • Egg Groups: Flying
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM55 - Snarl
-- TM57 - Roost
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (10%)
@@ -79,43 +79,43 @@ Types: Dark / Flying • Egg Groups: Flying
 | Total | <span class="stat-value stat-mid">370</span> |
 
 **Level-Up Moves**
-- Gust (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Pluck (Lv 10)
-- Work Up (Lv 14)
-- Flatter (Lv 19)
-- Feint Attack (Lv 23)
-- Bone Club (Lv 25)
-- U-Turn (Lv 28)
-- Defog (Lv 32)
-- Tailwind (Lv 37)
-- Shadow Bone (Lv 39)
-- Drill Peck (Lv 41)
-- False Surrender (Lv 46)
-- Leech Life (Lv 50)
-- Embargo (Lv 52)
-- Whirlwind (Lv 55)
-- Brave Bird (Lv 59)
-- Mirror Move (Lv 64)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 10)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 14)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=bone-club">Bone Club</a> (Lv 25)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 28)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 32)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 37)
+- <a href="move-lookup.html?q=shadow-bone">Shadow Bone</a> (Lv 39)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 41)
+- <a href="move-lookup.html?q=false-surrender">False Surrender</a> (Lv 46)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 50)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 52)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 55)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 59)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 64)
 
 **Egg Moves**
-- Steel Wing
-- Mean Look
-- Roost
-- Scary Face
-- Knock Off
-- Fake Tears
-- Foul Play
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -178,28 +178,28 @@ Types: Dark / Flying • Egg Groups: Flying
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM55 - Snarl
-- TM57 - Roost
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34
@@ -220,48 +220,48 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Bone Rush (Lv Evo)
-- Bonemerang (Lv 1)
-- Mirror Move (Lv 1)
-- Brave Bird (Lv 1)
-- Whirlwind (Lv 1)
-- Gust (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Pluck (Lv 10)
-- Work Up (Lv 14)
-- Flatter (Lv 19)
-- Feint Attack (Lv 23)
-- Bone Club (Lv 25)
-- U-Turn (Lv 28)
-- Defog (Lv 32)
-- Tailwind (Lv 37)
-- Shadow Bone (Lv 39)
-- Drill Peck (Lv 41)
-- False Surrender (Lv 46)
-- Leech Life (Lv 50)
-- Embargo (Lv 52)
-- Whirlwind (Lv 55)
-- Brave Bird (Lv 59)
-- Mirror Move (Lv 64)
+- <a href="move-lookup.html?q=bone-rush">Bone Rush</a> (Lv Evo)
+- <a href="move-lookup.html?q=bonemerang">Bonemerang</a> (Lv 1)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 1)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 1)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 1)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 10)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 14)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=bone-club">Bone Club</a> (Lv 25)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 28)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 32)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 37)
+- <a href="move-lookup.html?q=shadow-bone">Shadow Bone</a> (Lv 39)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 41)
+- <a href="move-lookup.html?q=false-surrender">False Surrender</a> (Lv 46)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 50)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 52)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 55)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 59)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 64)
 
 **Egg Moves**
-- Steel Wing
-- Mean Look
-- Roost
-- Scary Face
-- Knock Off
-- Fake Tears
-- Foul Play
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -322,28 +322,28 @@ Types: Dark / Flying • Egg Groups: Flying
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM55 - Snarl
-- TM57 - Roost
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Mandibite
@@ -364,48 +364,48 @@ Mandibite
 | Total | <span class="stat-value stat-high">610</span> |
 
 **Level-Up Moves**
-- Bone Rush (Lv Evo)
-- Bonemerang (Lv 1)
-- Mirror Move (Lv 1)
-- Brave Bird (Lv 1)
-- Whirlwind (Lv 1)
-- Gust (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Pluck (Lv 10)
-- Work Up (Lv 14)
-- Flatter (Lv 19)
-- Feint Attack (Lv 23)
-- Bone Club (Lv 25)
-- U-Turn (Lv 28)
-- Defog (Lv 32)
-- Tailwind (Lv 37)
-- Shadow Bone (Lv 39)
-- Drill Peck (Lv 41)
-- False Surrender (Lv 46)
-- Leech Life (Lv 50)
-- Embargo (Lv 52)
-- Whirlwind (Lv 55)
-- Brave Bird (Lv 59)
-- Mirror Move (Lv 64)
+- <a href="move-lookup.html?q=bone-rush">Bone Rush</a> (Lv Evo)
+- <a href="move-lookup.html?q=bonemerang">Bonemerang</a> (Lv 1)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 1)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 1)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 1)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 10)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 14)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=bone-club">Bone Club</a> (Lv 25)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 28)
+- <a href="move-lookup.html?q=defog">Defog</a> (Lv 32)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 37)
+- <a href="move-lookup.html?q=shadow-bone">Shadow Bone</a> (Lv 39)
+- <a href="move-lookup.html?q=drill-peck">Drill Peck</a> (Lv 41)
+- <a href="move-lookup.html?q=false-surrender">False Surrender</a> (Lv 46)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 50)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 52)
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a> (Lv 55)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 59)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 64)
 
 **Egg Moves**
-- Steel Wing
-- Mean Look
-- Roost
-- Scary Face
-- Knock Off
-- Fake Tears
-- Foul Play
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=foul-play">Foul Play</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

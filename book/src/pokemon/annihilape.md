@@ -31,29 +31,29 @@ Types: Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (5%)
@@ -75,62 +75,62 @@ Types: Fighting • Egg Groups: Field
 | Total | <span class="stat-value stat-low">305</span> |
 
 **Level-Up Moves**
-- Covet (Lv 1)
-- Scratch (Lv 1)
-- Low Kick (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 1)
-- Fury Swipes (Lv 5)
-- Karate Chop (Lv 8)
-- Pursuit (Lv 12)
-- Seismic Toss (Lv 15)
-- Swagger (Lv 19)
-- Cross Chop (Lv 22)
-- Assurance (Lv 26)
-- Punishment (Lv 29)
-- Thrash (Lv 33)
-- Close Combat (Lv 36)
-- Screech (Lv 40)
-- Stomping Tantrum (Lv 43)
-- Outrage (Lv 47)
-- Final Gambit (Lv 50)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=low-kick">Low Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 5)
+- <a href="move-lookup.html?q=karate-chop">Karate Chop</a> (Lv 8)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 12)
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a> (Lv 15)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 19)
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a> (Lv 22)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 26)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 29)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 33)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 36)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 40)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 43)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 47)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 50)
 
 **Egg Moves**
-- Foresight
-- Meditate
-- Counter
-- Reversal
-- Beat Up
-- Revenge
-- Smelling Salts
-- Close Combat
-- Encore
-- Focus Punch
-- Sleep Talk
-- Night Slash
-- Power Trip
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=meditate">Meditate</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=smelling-salts">Smelling Salts</a>
+- <a href="move-lookup.html?q=close-combat">Close Combat</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -190,29 +190,29 @@ Types: Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 28
@@ -237,66 +237,66 @@ Lv. 28
 | Total | <span class="stat-value stat-mid">455</span> |
 
 **Level-Up Moves**
-- Rage (Lv Evo)
-- Revenge (Lv 1)
-- Final Gambit (Lv 1)
-- Fling (Lv 1)
-- Scratch (Lv 1)
-- Low Kick (Lv 1)
-- Leer (Lv 1)
-- Focus Energy (Lv 1)
-- Fury Swipes (Lv 5)
-- Karate Chop (Lv 8)
-- Pursuit (Lv 12)
-- Seismic Toss (Lv 15)
-- Swagger (Lv 19)
-- Cross Chop (Lv 22)
-- Assurance (Lv 26)
-- Punishment (Lv 30)
-- Thrash (Lv 32)
-- Rage Fist (Lv 35)
-- Close Combat (Lv 39)
-- Screech (Lv 44)
-- Stomping Tantrum (Lv 48)
-- Outrage (Lv 53)
-- Final Gambit (Lv 57)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv Evo)
+- <a href="move-lookup.html?q=revenge">Revenge</a> (Lv 1)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 1)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=low-kick">Low Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 5)
+- <a href="move-lookup.html?q=karate-chop">Karate Chop</a> (Lv 8)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 12)
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a> (Lv 15)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 19)
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a> (Lv 22)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 26)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 30)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 32)
+- <a href="move-lookup.html?q=rage-fist">Rage Fist</a> (Lv 35)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 39)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 44)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 48)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 53)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 57)
 
 **Egg Moves**
-- Foresight
-- Meditate
-- Counter
-- Reversal
-- Beat Up
-- Revenge
-- Smelling Salts
-- Close Combat
-- Encore
-- Focus Punch
-- Sleep Talk
-- Night Slash
-- Power Trip
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=meditate">Meditate</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=smelling-salts">Smelling Salts</a>
+- <a href="move-lookup.html?q=close-combat">Close Combat</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -359,23 +359,23 @@ Types: Fighting / Ghost • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM49 - Bulldoze
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
 
 **Evolution Info**
 Lv. after using Rage Fist 20x
@@ -399,56 +399,56 @@ Lv. after using Rage Fist 20x
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Shadow Punch (Lv Evo)
-- Revenge (Lv 1)
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Counter (Lv 1)
-- Fling (Lv 1)
-- Focus Energy (Lv 1)
-- Fury Swipes (Lv 5)
-- Low Kick (Lv 8)
-- Seismic Toss (Lv 12)
-- Swagger (Lv 17)
-- Cross Chop (Lv 22)
-- Assurance (Lv 26)
-- Thrash (Lv 30)
-- Rage Fist (Lv 35)
-- Close Combat (Lv 39)
-- Screech (Lv 44)
-- Stomping Tantrum (Lv 48)
-- Outrage (Lv 53)
-- Final Gambit (Lv 57)
+- <a href="move-lookup.html?q=shadow-punch">Shadow Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=revenge">Revenge</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 1)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 1)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 5)
+- <a href="move-lookup.html?q=low-kick">Low Kick</a> (Lv 8)
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a> (Lv 12)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 17)
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a> (Lv 22)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 26)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 30)
+- <a href="move-lookup.html?q=rage-fist">Rage Fist</a> (Lv 35)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 39)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 44)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 48)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 53)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 57)
 
 **Egg Moves**
-- Foresight
-- Meditate
-- Counter
-- Reversal
-- Beat Up
-- Revenge
-- Smelling Salts
-- Close Combat
-- Encore
-- Focus Punch
-- Sleep Talk
-- Night Slash
-- Power Trip
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=meditate">Meditate</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=smelling-salts">Smelling Salts</a>
+- <a href="move-lookup.html?q=close-combat">Close Combat</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Metronome
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

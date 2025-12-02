@@ -33,30 +33,30 @@ Types: Fighting / Flying • Egg Groups: Flying / Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM53 - Power-Up Punch
-- TM57 - Roost
-- HM01 - Cut
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 King`s Rock
@@ -85,47 +85,47 @@ King`s Rock
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Detect (Lv 1)
-- Tackle (Lv 1)
-- Hone Claws (Lv 1)
-- Karate Chop (Lv 4)
-- Wing Attack (Lv 8)
-- Roost (Lv 12)
-- Aerial Ace (Lv 16)
-- Encore (Lv 20)
-- Trailblaze (Lv 24)
-- Flying Press (Lv 28)
-- Bounce (Lv 32)
-- Poison Jab (Lv 36)
-- Feather Dance (Lv 40)
-- High Jump Kick (Lv 44)
-- Sky Attack (Lv 48)
-- Sky Drop (Lv 55)
-- Swords Dance (Lv 60)
+- <a href="move-lookup.html?q=detect">Detect</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 1)
+- <a href="move-lookup.html?q=karate-chop">Karate Chop</a> (Lv 4)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 8)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 12)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 16)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 20)
+- <a href="move-lookup.html?q=trailblaze">Trailblaze</a> (Lv 24)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 28)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 32)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 36)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=high-jump-kick">High Jump Kick</a> (Lv 44)
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a> (Lv 48)
+- <a href="move-lookup.html?q=sky-drop">Sky Drop</a> (Lv 55)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 60)
 
 **Egg Moves**
-- Agility
-- Me First
-- Ally Switch
-- Entrainment
-- Mud Sport
-- Baton Pass
-- Quick Guard
-- Feint
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Fire Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -187,30 +187,30 @@ Types: Fighting / Flying • Egg Groups: Flying / Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM53 - Power-Up Punch
-- TM57 - Roost
-- HM01 - Cut
-- HM02 - Fly
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 King`s Rock
@@ -234,47 +234,47 @@ Hawluchite
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Detect (Lv 1)
-- Tackle (Lv 1)
-- Hone Claws (Lv 1)
-- Karate Chop (Lv 4)
-- Wing Attack (Lv 8)
-- Roost (Lv 12)
-- Aerial Ace (Lv 16)
-- Encore (Lv 20)
-- Trailblaze (Lv 24)
-- Flying Press (Lv 28)
-- Bounce (Lv 32)
-- Poison Jab (Lv 36)
-- Feather Dance (Lv 40)
-- High Jump Kick (Lv 44)
-- Sky Attack (Lv 48)
-- Sky Drop (Lv 55)
-- Swords Dance (Lv 60)
+- <a href="move-lookup.html?q=detect">Detect</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 1)
+- <a href="move-lookup.html?q=karate-chop">Karate Chop</a> (Lv 4)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 8)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 12)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 16)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 20)
+- <a href="move-lookup.html?q=trailblaze">Trailblaze</a> (Lv 24)
+- <a href="move-lookup.html?q=flying-press">Flying Press</a> (Lv 28)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 32)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 36)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 40)
+- <a href="move-lookup.html?q=high-jump-kick">High Jump Kick</a> (Lv 44)
+- <a href="move-lookup.html?q=sky-attack">Sky Attack</a> (Lv 48)
+- <a href="move-lookup.html?q=sky-drop">Sky Drop</a> (Lv 55)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 60)
 
 **Egg Moves**
-- Agility
-- Me First
-- Ally Switch
-- Entrainment
-- Mud Sport
-- Baton Pass
-- Quick Guard
-- Feint
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Fire Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

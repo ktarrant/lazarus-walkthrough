@@ -25,24 +25,24 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Charcoal
@@ -67,48 +67,48 @@ Charcoal
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
-- Ember (Lv 1)
-- Smog (Lv 4)
-- Withdraw (Lv 7)
-- Rapid Spin (Lv 10)
-- Fire Spin (Lv 13)
-- Smokescreen (Lv 15)
-- Flame Wheel (Lv 18)
-- Rollout (Lv 20)
-- Curse (Lv 22)
-- Lava Plume (Lv 25)
-- Body Slam (Lv 27)
-- Protect (Lv 30)
-- Flamethrower (Lv 34)
-- Iron Defense (Lv 38)
-- Amnesia (Lv 40)
-- Flail (Lv 42)
-- Heat Wave (Lv 45)
-- Shell Smash (Lv 47)
-- Inferno (Lv 50)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=smog">Smog</a> (Lv 4)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 7)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 10)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 13)
+- <a href="move-lookup.html?q=smokescreen">Smokescreen</a> (Lv 15)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 18)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 20)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 22)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 25)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 30)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 34)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 38)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 40)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 42)
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a> (Lv 45)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 47)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 50)
 
 **Egg Moves**
-- Eruption
-- Endure
-- Sleep Talk
-- Yawn
-- Fissure
-- Skull Bash
-- Flame Burst
-- Clear Smog
-- Superpower
+- <a href="move-lookup.html?q=eruption">Eruption</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=yawn">Yawn</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=skull-bash">Skull Bash</a>
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=superpower">Superpower</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

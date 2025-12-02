@@ -40,17 +40,17 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM33 - Reflect
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM58 - Thunder Wave
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (10%)
@@ -72,37 +72,37 @@ Types: Fairy / Steel • Egg Groups: Fairy
 | Total | <span class="stat-value stat-low">297</span> |
 
 **Level-Up Moves**
-- Fairy Wind (Lv 1)
-- Astonish (Lv 1)
-- Baby-Doll Eyes (Lv 5)
-- Metal Claw (Lv 8)
-- Covet (Lv 11)
-- Rock Smash (Lv 14)
-- Draining Kiss (Lv 17)
-- Sweet Kiss (Lv 21)
-- Brutal Swing (Lv 23)
-- Spikes (Lv 25)
-- Slam (Lv 27)
-- Iron Head (Lv 31)
-- Spirit Break (Lv 35)
-- Fake Out (Lv 39)
-- Flatter (Lv 43)
-- Mortal Spin (Lv 45)
-- Baton Pass (Lv 45)
-- Skitter Smack (Lv 47)
-- Knock Off (Lv 52)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 5)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 8)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 11)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 14)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 17)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 21)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 23)
+- <a href="move-lookup.html?q=spikes">Spikes</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 31)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv 35)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 39)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 43)
+- <a href="move-lookup.html?q=mortal-spin">Mortal Spin</a> (Lv 45)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 45)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 47)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 52)
 
 **Egg Moves**
-- Feint
-- Ice Hammer
-- Quash
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=ice-hammer">Ice Hammer</a>
+- <a href="move-lookup.html?q=quash">Quash</a>
 
 **Tutor Moves**
-- Endure
-- Metronome
-- Rock Slide
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -169,18 +169,18 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM31 - Brick Break
-- TM33 - Reflect
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM58 - Thunder Wave
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 22
@@ -206,37 +206,37 @@ Lv. 22
 | Total | <span class="stat-value stat-mid">400</span> |
 
 **Level-Up Moves**
-- Fairy Wind (Lv 1)
-- Astonish (Lv 1)
-- Baby-Doll Eyes (Lv 5)
-- Metal Claw (Lv 8)
-- Covet (Lv 11)
-- Rock Smash (Lv 14)
-- Draining Kiss (Lv 17)
-- Sweet Kiss (Lv 21)
-- Brutal Swing (Lv 23)
-- Spikes (Lv 25)
-- Slam (Lv 27)
-- Iron Head (Lv 31)
-- Spirit Break (Lv 35)
-- Fake Out (Lv 39)
-- Flatter (Lv 43)
-- Mortal Spin (Lv 45)
-- Baton Pass (Lv 45)
-- Skitter Smack (Lv 47)
-- Knock Off (Lv 52)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 5)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 8)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 11)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 14)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 17)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 21)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 23)
+- <a href="move-lookup.html?q=spikes">Spikes</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 31)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv 35)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 39)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 43)
+- <a href="move-lookup.html?q=mortal-spin">Mortal Spin</a> (Lv 45)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 45)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 47)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 52)
 
 **Egg Moves**
-- Feint
-- Ice Hammer
-- Quash
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=ice-hammer">Ice Hammer</a>
+- <a href="move-lookup.html?q=quash">Quash</a>
 
 **Tutor Moves**
-- Endure
-- Metronome
-- Rock Slide
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -303,19 +303,19 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM31 - Brick Break
-- TM33 - Reflect
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 38
@@ -336,38 +336,38 @@ Lv. 38
 | Total | <span class="stat-value stat-mid">516</span> |
 
 **Level-Up Moves**
-- Gigaton Hammer (Lv Evo)
-- Fairy Wind (Lv 1)
-- Astonish (Lv 1)
-- Baby-Doll Eyes (Lv 5)
-- Metal Claw (Lv 8)
-- Covet (Lv 11)
-- Rock Smash (Lv 14)
-- Draining Kiss (Lv 17)
-- Sweet Kiss (Lv 21)
-- Brutal Swing (Lv 23)
-- Spikes (Lv 25)
-- Slam (Lv 27)
-- Iron Head (Lv 31)
-- Spirit Break (Lv 35)
-- Fake Out (Lv 39)
-- Flatter (Lv 43)
-- Mortal Spin (Lv 45)
-- Baton Pass (Lv 45)
-- Skitter Smack (Lv 47)
-- Knock Off (Lv 52)
+- <a href="move-lookup.html?q=gigaton-hammer">Gigaton Hammer</a> (Lv Evo)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 5)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 8)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 11)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 14)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 17)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 21)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 23)
+- <a href="move-lookup.html?q=spikes">Spikes</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 31)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv 35)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 39)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 43)
+- <a href="move-lookup.html?q=mortal-spin">Mortal Spin</a> (Lv 45)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 45)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 47)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 52)
 
 **Egg Moves**
-- Feint
-- Ice Hammer
-- Quash
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=ice-hammer">Ice Hammer</a>
+- <a href="move-lookup.html?q=quash">Quash</a>
 
 **Tutor Moves**
-- Endure
-- Metronome
-- Rock Slide
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -432,19 +432,19 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM31 - Brick Break
-- TM33 - Reflect
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Tinkatite
@@ -465,39 +465,39 @@ Tinkatite
 | Total | <span class="stat-value stat-high">616</span> |
 
 **Level-Up Moves**
-- Gigaton Hammer (Lv Evo)
-- Fairy Wind (Lv 1)
-- Astonish (Lv 1)
-- Baby-Doll Eyes (Lv 5)
-- Metal Claw (Lv 8)
-- Covet (Lv 11)
-- Rock Smash (Lv 14)
-- Draining Kiss (Lv 17)
-- Sweet Kiss (Lv 21)
-- Brutal Swing (Lv 23)
-- Spikes (Lv 25)
-- Slam (Lv 27)
-- Iron Head (Lv 31)
-- Spirit Break (Lv 35)
-- Fake Out (Lv 39)
-- Flatter (Lv 43)
-- Mortal Spin (Lv 45)
-- Baton Pass (Lv 45)
-- Skitter Smack (Lv 47)
-- Knock Off (Lv 52)
+- <a href="move-lookup.html?q=gigaton-hammer">Gigaton Hammer</a> (Lv Evo)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 5)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 8)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 11)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 14)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 17)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 21)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 23)
+- <a href="move-lookup.html?q=spikes">Spikes</a> (Lv 25)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 31)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv 35)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 39)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 43)
+- <a href="move-lookup.html?q=mortal-spin">Mortal Spin</a> (Lv 45)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 45)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 47)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 52)
 
 **Egg Moves**
-- Feint
-- Ice Hammer
-- Quash
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=ice-hammer">Ice Hammer</a>
+- <a href="move-lookup.html?q=quash">Quash</a>
 
 **Tutor Moves**
-- Endure
-- Metronome
-- Rock Slide
-- Sleep Talk
-- Swords Dance
-- Thunder Wave
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a>
 </div>
 </div>
 <script>

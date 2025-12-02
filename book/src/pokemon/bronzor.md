@@ -37,27 +37,27 @@ Types: Steel / Psychic • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM26 - Earthquake
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Metal Coat
@@ -83,39 +83,39 @@ Metal Coat
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Confusion (Lv 1)
-- Hypnosis (Lv 5)
-- Imprison (Lv 9)
-- Confuse Ray (Lv 11)
-- Psywave (Lv 15)
-- Iron Defense (Lv 19)
-- Feint Attack (Lv 21)
-- Psybeam (Lv 23)
-- Safeguard (Lv 26)
-- Future Sight (Lv 29)
-- Metal Sound (Lv 31)
-- Gyro Ball (Lv 33)
-- Relic Song (Lv 37)
-- Extrasensory (Lv 39)
-- Payback (Lv 41)
-- Heal Block (Lv 45)
-- Heavy Slam (Lv 49)
-- Clangorous Soul (Lv 54)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 5)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 9)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 11)
+- <a href="move-lookup.html?q=psywave">Psywave</a> (Lv 15)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 23)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 26)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 29)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 31)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 33)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 37)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 39)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 41)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 45)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv 49)
+- <a href="move-lookup.html?q=clangorous-soul">Clangorous Soul</a> (Lv 54)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -183,29 +183,29 @@ Types: Steel / Psychic • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM26 - Earthquake
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Metal Coat
@@ -229,43 +229,43 @@ Lv. 33
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Block (Lv Evo)
-- Sunny Day (Lv 1)
-- Rain Dance (Lv 1)
-- Tackle (Lv 1)
-- Confusion (Lv 1)
-- Hypnosis (Lv 5)
-- Imprison (Lv 9)
-- Confuse Ray (Lv 11)
-- Psywave (Lv 15)
-- Iron Defense (Lv 19)
-- Feint Attack (Lv 21)
-- Psybeam (Lv 23)
-- Safeguard (Lv 26)
-- Future Sight (Lv 29)
-- Metal Sound (Lv 31)
-- Gyro Ball (Lv 33)
-- Relic Song (Lv 37)
-- Extrasensory (Lv 39)
-- Payback (Lv 41)
-- Heal Block (Lv 45)
-- Heavy Slam (Lv 49)
-- Clangorous Soul (Lv 54)
+- <a href="move-lookup.html?q=block">Block</a> (Lv Evo)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 1)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 5)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 9)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 11)
+- <a href="move-lookup.html?q=psywave">Psywave</a> (Lv 15)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 19)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 21)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 23)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 26)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 29)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 31)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 33)
+- <a href="move-lookup.html?q=relic-song">Relic Song</a> (Lv 37)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 39)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 41)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 45)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv 49)
+- <a href="move-lookup.html?q=clangorous-soul">Clangorous Soul</a> (Lv 54)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Explosion
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

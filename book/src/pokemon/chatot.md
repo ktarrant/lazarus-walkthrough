@@ -23,22 +23,22 @@ Types: Normal / Flying • Egg Groups: Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM55 - Snarl
-- TM57 - Roost
-- HM02 - Fly
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
 
 **Held Item**
 Metronome
@@ -63,46 +63,46 @@ Metronome
 | Total | <span class="stat-value stat-mid">451</span> |
 
 **Level-Up Moves**
-- Hyper Voice (Lv 1)
-- Chatter (Lv 1)
-- Confide (Lv 1)
-- Taunt (Lv 1)
-- Peck (Lv 1)
-- Growl (Lv 5)
-- Mirror Move (Lv 9)
-- Sing (Lv 13)
-- Snarl (Lv 17)
-- Chatter (Lv 21)
-- Taunt (Lv 25)
-- Round (Lv 29)
-- Mimic (Lv 33)
-- Echoed Voice (Lv 35)
-- Roost (Lv 38)
-- Uproar (Lv 41)
-- Synchronoise (Lv 44)
-- Torch Song (Lv 47)
-- Feather Dance (Lv 50)
-- Hyper Voice (Lv 57)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 1)
+- <a href="move-lookup.html?q=chatter">Chatter</a> (Lv 1)
+- <a href="move-lookup.html?q=confide">Confide</a> (Lv 1)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 1)
+- <a href="move-lookup.html?q=peck">Peck</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 5)
+- <a href="move-lookup.html?q=mirror-move">Mirror Move</a> (Lv 9)
+- <a href="move-lookup.html?q=sing">Sing</a> (Lv 13)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 17)
+- <a href="move-lookup.html?q=chatter">Chatter</a> (Lv 21)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 29)
+- <a href="move-lookup.html?q=mimic">Mimic</a> (Lv 33)
+- <a href="move-lookup.html?q=echoed-voice">Echoed Voice</a> (Lv 35)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 38)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 41)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 44)
+- <a href="move-lookup.html?q=torch-song">Torch Song</a> (Lv 47)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 50)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 57)
 
 **Egg Moves**
-- Encore
-- Night Shade
-- Agility
-- Nasty Plot
-- Supersonic
-- Steel Wing
-- Sleep Talk
-- Defog
-- Air Cutter
-- Boomburst
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=night-shade">Night Shade</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a>
+- <a href="move-lookup.html?q=boomburst">Boomburst</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

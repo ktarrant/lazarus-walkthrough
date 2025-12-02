@@ -32,19 +32,19 @@ Types: Grass • Egg Groups: Fairy / Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Tiny Mushroom
@@ -71,41 +71,41 @@ Tiny Mushroom
 | Total | <span class="stat-value stat-low">295</span> |
 
 **Level-Up Moves**
-- Absorb (Lv 1)
-- Tackle (Lv 1)
-- Stun Spore (Lv 5)
-- Leech Seed (Lv 8)
-- Mega Drain (Lv 12)
-- Headbutt (Lv 15)
-- Poison Powder (Lv 19)
-- Worry Seed (Lv 22)
-- Giga Drain (Lv 26)
-- Growth (Lv 29)
-- Toxic (Lv 33)
-- Seeb Bomb (Lv 36)
-- Spore (Lv 40)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 5)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 8)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 12)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 15)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 19)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 22)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 26)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 29)
+- <a href="move-lookup.html?q=toxic">Toxic</a> (Lv 33)
+- <a href="move-lookup.html?q=seeb-bomb">Seeb Bomb</a> (Lv 36)
+- <a href="move-lookup.html?q=spore">Spore</a> (Lv 40)
 
 **Egg Moves**
-- Fake Tears
-- Charm
-- Helping Hand
-- Worry Seed
-- Wake-Up Slap
-- Seed Bomb
-- Bullet Seed
-- Focus Punch
-- Natural Gift
-- Drain Punch
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=wake-up-slap">Wake-Up Slap</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -171,30 +171,30 @@ Types: Grass / Fighting • Egg Groups: Fairy / Grass
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Tiny Mushroom
@@ -223,56 +223,56 @@ Lv. 23
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
-- Mach Punch (Lv Evo)
-- Absorb (Lv 1)
-- Tackle (Lv 1)
-- Stun Spore (Lv 5)
-- Leech Seed (Lv 8)
-- Mega Drain (Lv 12)
-- Headbutt (Lv 15)
-- Feint (Lv 19)
-- Counter (Lv 22)
-- Dizzy Punch (Lv 25)
-- Force Palm (Lv 28)
-- Power-Up Punch (Lv 30)
-- Trop Kick (Lv 33)
-- False Swipe (Lv 35)
-- Mind Reader (Lv 37)
-- Sky Uppercut (Lv 39)
-- Spore (Lv 42)
-- Seed Bomb (Lv 44)
-- Dynamic Punch (Lv 50)
+- <a href="move-lookup.html?q=mach-punch">Mach Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 5)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 8)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 12)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 15)
+- <a href="move-lookup.html?q=feint">Feint</a> (Lv 19)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 22)
+- <a href="move-lookup.html?q=dizzy-punch">Dizzy Punch</a> (Lv 25)
+- <a href="move-lookup.html?q=force-palm">Force Palm</a> (Lv 28)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 30)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv 33)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 35)
+- <a href="move-lookup.html?q=mind-reader">Mind Reader</a> (Lv 37)
+- <a href="move-lookup.html?q=sky-uppercut">Sky Uppercut</a> (Lv 39)
+- <a href="move-lookup.html?q=spore">Spore</a> (Lv 42)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 44)
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a> (Lv 50)
 
 **Egg Moves**
-- Fake Tears
-- Charm
-- Helping Hand
-- Worry Seed
-- Wake-Up Slap
-- Seed Bomb
-- Bullet Seed
-- Focus Punch
-- Natural Gift
-- Drain Punch
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=wake-up-slap">Wake-Up Slap</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fury Cutter
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

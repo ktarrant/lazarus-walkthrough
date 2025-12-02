@@ -36,23 +36,23 @@ Types: Bug / Fairy • Egg Groups: Bug / Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM29 - Psychic
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Held Item**
 Honey
@@ -78,38 +78,38 @@ Honey
 | Total | <span class="stat-value stat-low">304</span> |
 
 **Level-Up Moves**
-- Absorb (Lv 1)
-- Fairy Wind (Lv 4)
-- Stun Spore (Lv 7)
-- Struggle Bug (Lv 10)
-- Silver Wind (Lv 13)
-- Draining Kiss (Lv 16)
-- Sweet Scent (Lv 21)
-- Bug Buzz (Lv 26)
-- U-Turn (Lv 29)
-- Dazzling Gleam (Lv 31)
-- Aromatherapy (Lv 34)
-- Syrup Bomb (Lv 38)
-- Quiver Dance (Lv 41)
-- Petal Blizzard (Lv 46)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 4)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 7)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 10)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 13)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 16)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 21)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 26)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 29)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 31)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 34)
+- <a href="move-lookup.html?q=syrup-bomb">Syrup Bomb</a> (Lv 38)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 41)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 46)
 
 **Egg Moves**
-- Baton Pass
-- Skill Swap
-- Speed Swap
-- Bestow
-- Moonblast
-- Powder
-- Sticky Web
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=speed-swap">Speed Swap</a>
+- <a href="move-lookup.html?q=bestow">Bestow</a>
+- <a href="move-lookup.html?q=moonblast">Moonblast</a>
+- <a href="move-lookup.html?q=powder">Powder</a>
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -174,24 +174,24 @@ Types: Bug / Fairy • Egg Groups: Bug / Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Held Item**
 Honey
@@ -219,40 +219,40 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">464</span> |
 
 **Level-Up Moves**
-- Pollen Puff (Lv Evo)
-- Absorb (Lv 1)
-- Fairy Wind (Lv 4)
-- Stun Spore (Lv 7)
-- Struggle Bug (Lv 10)
-- Silver Wind (Lv 13)
-- Draining Kiss (Lv 16)
-- Sweet Scent (Lv 21)
-- Bug Buzz (Lv 27)
-- U-Turn (Lv 29)
-- Dazzling Gleam (Lv 31)
-- Aromatherapy (Lv 34)
-- Syrup Bomb (Lv 38)
-- Quiver Dance (Lv 43)
-- Petal Blizzard (Lv 46)
-- Moonblast (Lv 50)
+- <a href="move-lookup.html?q=pollen-puff">Pollen Puff</a> (Lv Evo)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 4)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 7)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 10)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 13)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 16)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 21)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 27)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 29)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 31)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 34)
+- <a href="move-lookup.html?q=syrup-bomb">Syrup Bomb</a> (Lv 38)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 43)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 46)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 50)
 
 **Egg Moves**
-- Baton Pass
-- Skill Swap
-- Speed Swap
-- Bestow
-- Moonblast
-- Powder
-- Sticky Web
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=speed-swap">Speed Swap</a>
+- <a href="move-lookup.html?q=bestow">Bestow</a>
+- <a href="move-lookup.html?q=moonblast">Moonblast</a>
+- <a href="move-lookup.html?q=powder">Powder</a>
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -315,24 +315,24 @@ Types: Bug / Fairy • Egg Groups: Bug / Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM54 - Dazzling Gleam
-- TM57 - Roost
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
 
 **Evolution Info**
 Ribombite
@@ -353,40 +353,40 @@ Ribombite
 | Total | <span class="stat-value stat-high">564</span> |
 
 **Level-Up Moves**
-- Pollen Puff (Lv Evo)
-- Absorb (Lv 1)
-- Fairy Wind (Lv 4)
-- Stun Spore (Lv 7)
-- Struggle Bug (Lv 10)
-- Silver Wind (Lv 13)
-- Draining Kiss (Lv 16)
-- Sweet Scent (Lv 21)
-- Bug Buzz (Lv 27)
-- U-Turn (Lv 29)
-- Dazzling Gleam (Lv 31)
-- Aromatherapy (Lv 34)
-- Syrup Bomb (Lv 38)
-- Quiver Dance (Lv 43)
-- Petal Blizzard (Lv 46)
-- Moonblast (Lv 50)
+- <a href="move-lookup.html?q=pollen-puff">Pollen Puff</a> (Lv Evo)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=fairy-wind">Fairy Wind</a> (Lv 4)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 7)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 10)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 13)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 16)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 21)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 27)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 29)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 31)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 34)
+- <a href="move-lookup.html?q=syrup-bomb">Syrup Bomb</a> (Lv 38)
+- <a href="move-lookup.html?q=quiver-dance">Quiver Dance</a> (Lv 43)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 46)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 50)
 
 **Egg Moves**
-- Baton Pass
-- Skill Swap
-- Speed Swap
-- Bestow
-- Moonblast
-- Powder
-- Sticky Web
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=speed-swap">Speed Swap</a>
+- <a href="move-lookup.html?q=bestow">Bestow</a>
+- <a href="move-lookup.html?q=moonblast">Moonblast</a>
+- <a href="move-lookup.html?q=powder">Powder</a>
+- <a href="move-lookup.html?q=sticky-web">Sticky Web</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

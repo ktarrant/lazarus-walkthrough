@@ -27,20 +27,20 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Day) (2%)
@@ -62,45 +62,45 @@ Types: Electric • Egg Groups: Field
 | Total | <span class="stat-value stat-low">305</span> |
 
 **Level-Up Moves**
-- Quick Attack (Lv 1)
-- Tail Whip (Lv 4)
-- Charge (Lv 8)
-- Shock Wave (Lv 11)
-- Thunder Wave (Lv 15)
-- Flame Charge (Lv 18)
-- Pursuit (Lv 22)
-- Spark (Lv 24)
-- Stomp (Lv 27)
-- Blaze Kick (Lv 31)
-- Discharge (Lv 34)
-- Agility (Lv 36)
-- Wild Charge (Lv 39)
-- Trop Kick (Lv 41)
-- Stomping Tantrum (Lv 44)
-- Thunderous Kick (Lv 48)
-- Thrash (Lv 52)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 8)
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a> (Lv 11)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 15)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 18)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 22)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 24)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 27)
+- <a href="move-lookup.html?q=blaze-kick">Blaze Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 34)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 36)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 39)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv 41)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 44)
+- <a href="move-lookup.html?q=thunderous-kick">Thunderous Kick</a> (Lv 48)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 52)
 
 **Egg Moves**
-- Me First
-- Take Down
-- Sand Attack
-- Double Kick
-- Screech
-- Rage
-- Endure
-- Double-Edge
-- Shock Wave
-- Snatch
-- Feint
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -158,23 +158,23 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 27
@@ -195,46 +195,46 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">517</span> |
 
 **Level-Up Moves**
-- Quick Attack (Lv 1)
-- Tail Whip (Lv 4)
-- Charge (Lv 8)
-- Shock Wave (Lv 11)
-- Thunder Wave (Lv 15)
-- Flame Charge (Lv 18)
-- Pursuit (Lv 22)
-- Spark (Lv 24)
-- Stomp (Lv 27)
-- Blaze Kick (Lv 31)
-- Discharge (Lv 34)
-- Agility (Lv 36)
-- Wild Charge (Lv 39)
-- Trop Kick (Lv 41)
-- Stomping Tantrum (Lv 44)
-- Thunderous Kick (Lv 48)
-- Thrash (Lv 52)
-- Ion Deluge (Lv 55)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 8)
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a> (Lv 11)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 15)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 18)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 22)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 24)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 27)
+- <a href="move-lookup.html?q=blaze-kick">Blaze Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 34)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 36)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 39)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv 41)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 44)
+- <a href="move-lookup.html?q=thunderous-kick">Thunderous Kick</a> (Lv 48)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 52)
+- <a href="move-lookup.html?q=ion-deluge">Ion Deluge</a> (Lv 55)
 
 **Egg Moves**
-- Me First
-- Take Down
-- Sand Attack
-- Double Kick
-- Screech
-- Rage
-- Endure
-- Double-Edge
-- Shock Wave
-- Snatch
-- Feint
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

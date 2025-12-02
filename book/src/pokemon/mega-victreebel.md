@@ -36,22 +36,22 @@ Types: Grass / Poison • Egg Groups: Grass
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Bronze Fields (North) — Grass (Day) (5%)
@@ -75,49 +75,49 @@ Types: Grass / Poison • Egg Groups: Grass
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Vine Whip (Lv 1)
-- Growth (Lv 7)
-- Wrap (Lv 11)
-- Sleep Powder (Lv 13)
-- Poison Powder (Lv 15)
-- Stun Spore (Lv 17)
-- Acid (Lv 23)
-- Razor Leaf (Lv 25)
-- Knock Off (Lv 27)
-- Sludge (Lv 29)
-- Sweet Scent (Lv 32)
-- Gastro Acid (Lv 35)
-- Leaf Blade (Lv 38)
-- Poison Jab (Lv 41)
-- Barb Barrage (Lv 47)
-- Wring Out (Lv 50)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 7)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 11)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 13)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 15)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 17)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 23)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 27)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 29)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 32)
+- <a href="move-lookup.html?q=gastro-acid">Gastro Acid</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 38)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 41)
+- <a href="move-lookup.html?q=barb-barrage">Barb Barrage</a> (Lv 47)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 50)
 
 **Egg Moves**
-- Encore
-- Synthesis
-- Leech Life
-- Ingrain
-- Magical Leaf
-- Worry Seed
-- Tickle
-- Weather Ball
-- Bullet Seed
-- Natural Gift
-- Giga Drain
-- Clear Smog
-- Power Whip
-- Acid Spray
-- Belch
-- Strength Sap
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=leech-life">Leech Life</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Acid Spray
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -180,22 +180,22 @@ Types: Grass / Poison • Egg Groups: Grass
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 21
@@ -221,51 +221,51 @@ Lv. 21
 | Total | <span class="stat-value stat-mid">390</span> |
 
 **Level-Up Moves**
-- Vine Whip (Lv 1)
-- Growth (Lv 7)
-- Wrap (Lv 11)
-- Sleep Powder (Lv 13)
-- Poison Powder (Lv 15)
-- Stun Spore (Lv 17)
-- Acid (Lv 23)
-- Razor Leaf (Lv 25)
-- Knock Off (Lv 27)
-- Sludge (Lv 29)
-- Sweet Scent (Lv 32)
-- Gastro Acid (Lv 35)
-- Leaf Blade (Lv 38)
-- Poison Jab (Lv 41)
-- Barb Barrage (Lv 47)
-- Wring Out (Lv 50)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 7)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 11)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 13)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 15)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 17)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 23)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 27)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 29)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 32)
+- <a href="move-lookup.html?q=gastro-acid">Gastro Acid</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 38)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 41)
+- <a href="move-lookup.html?q=barb-barrage">Barb Barrage</a> (Lv 47)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 50)
 
 **Egg Moves**
-- Encore
-- Synthesis
-- Leech Life
-- Ingrain
-- Magical Leaf
-- Worry Seed
-- Tickle
-- Weather Ball
-- Bullet Seed
-- Natural Gift
-- Giga Drain
-- Clear Smog
-- Power Whip
-- Acid Spray
-- Belch
-- Strength Sap
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=leech-life">Leech Life</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -328,22 +328,22 @@ Types: Grass / Poison • Egg Groups: Grass
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Leaf Stone
@@ -368,55 +368,55 @@ Leaf Stone
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
-- Leaf Tornado (Lv Evo)
-- Stockpile (Lv 1)
-- Swallow (Lv 1)
-- Spit Up (Lv 1)
-- Vine Whip (Lv 1)
-- Growth (Lv 7)
-- Wrap (Lv 11)
-- Sleep Powder (Lv 13)
-- Poison Powder (Lv 15)
-- Stun Spore (Lv 17)
-- Acid (Lv 23)
-- Razor Leaf (Lv 25)
-- Knock Off (Lv 27)
-- Sludge (Lv 29)
-- Sweet Scent (Lv 32)
-- Gastro Acid (Lv 35)
-- Leaf Blade (Lv 38)
-- Poison Jab (Lv 41)
-- Barb Barrage (Lv 47)
-- Wring Out (Lv 50)
+- <a href="move-lookup.html?q=leaf-tornado">Leaf Tornado</a> (Lv Evo)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 1)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 1)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 7)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 11)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 13)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 15)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 17)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 23)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 27)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 29)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 32)
+- <a href="move-lookup.html?q=gastro-acid">Gastro Acid</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 38)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 41)
+- <a href="move-lookup.html?q=barb-barrage">Barb Barrage</a> (Lv 47)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 50)
 
 **Egg Moves**
-- Encore
-- Synthesis
-- Leech Life
-- Ingrain
-- Magical Leaf
-- Worry Seed
-- Tickle
-- Weather Ball
-- Bullet Seed
-- Natural Gift
-- Giga Drain
-- Clear Smog
-- Power Whip
-- Acid Spray
-- Belch
-- Strength Sap
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=leech-life">Leech Life</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -477,22 +477,22 @@ Types: Grass / Poison • Egg Groups: Grass
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Victreebite
@@ -513,55 +513,55 @@ Victreebite
 | Total | <span class="stat-value stat-high">590</span> |
 
 **Level-Up Moves**
-- Leaf Tornado (Lv Evo)
-- Stockpile (Lv 1)
-- Swallow (Lv 1)
-- Spit Up (Lv 1)
-- Vine Whip (Lv 1)
-- Growth (Lv 7)
-- Wrap (Lv 11)
-- Sleep Powder (Lv 13)
-- Poison Powder (Lv 15)
-- Stun Spore (Lv 17)
-- Acid (Lv 23)
-- Razor Leaf (Lv 25)
-- Knock Off (Lv 27)
-- Sludge (Lv 29)
-- Sweet Scent (Lv 32)
-- Gastro Acid (Lv 35)
-- Leaf Blade (Lv 38)
-- Poison Jab (Lv 41)
-- Barb Barrage (Lv 47)
-- Wring Out (Lv 50)
+- <a href="move-lookup.html?q=leaf-tornado">Leaf Tornado</a> (Lv Evo)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 1)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 1)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 1)
+- <a href="move-lookup.html?q=vine-whip">Vine Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 7)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 11)
+- <a href="move-lookup.html?q=sleep-powder">Sleep Powder</a> (Lv 13)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 15)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 17)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 23)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 27)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 29)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 32)
+- <a href="move-lookup.html?q=gastro-acid">Gastro Acid</a> (Lv 35)
+- <a href="move-lookup.html?q=leaf-blade">Leaf Blade</a> (Lv 38)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 41)
+- <a href="move-lookup.html?q=barb-barrage">Barb Barrage</a> (Lv 47)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 50)
 
 **Egg Moves**
-- Encore
-- Synthesis
-- Leech Life
-- Ingrain
-- Magical Leaf
-- Worry Seed
-- Tickle
-- Weather Ball
-- Bullet Seed
-- Natural Gift
-- Giga Drain
-- Clear Smog
-- Power Whip
-- Acid Spray
-- Belch
-- Strength Sap
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=leech-life">Leech Life</a>
+- <a href="move-lookup.html?q=ingrain">Ingrain</a>
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a>
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=strength-sap">Strength Sap</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

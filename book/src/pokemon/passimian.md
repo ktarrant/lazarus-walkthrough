@@ -24,25 +24,25 @@ Types: Normal / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Kalami City — Grass (Day) (2%)
@@ -65,44 +65,44 @@ Types: Normal / Fighting • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 4)
-- Rock Smash (Lv 8)
-- Focus Energy (Lv 11)
-- Beat Up (Lv 15)
-- Scary Face (Lv 18)
-- Headbutt (Lv 20)
-- Bestow (Lv 22)
-- Thrash (Lv 25)
-- Seed Bomb (Lv 29)
-- Bulk Up (Lv 32)
-- Double-Edge (Lv 36)
-- Fling (Lv 38)
-- Close Combat (Lv 40)
-- Iron Head (Lv 43)
-- Reversal (Lv 46)
-- Giga Impact (Lv 50)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 8)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 11)
+- <a href="move-lookup.html?q=beat-up">Beat Up</a> (Lv 15)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 18)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 20)
+- <a href="move-lookup.html?q=bestow">Bestow</a> (Lv 22)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 25)
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a> (Lv 29)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 32)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 36)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 38)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 40)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 43)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 46)
+- <a href="move-lookup.html?q=giga-impact">Giga Impact</a> (Lv 50)
 
 **Egg Moves**
-- Seismic Toss
-- Vital Throw
-- Quick Guard
-- Iron Head
-- Quick Attack
-- Feint
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=vital-throw">Vital Throw</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=iron-head">Iron Head</a>
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

@@ -31,16 +31,16 @@ Types: Fighting / Bug • Egg Groups: Fairy / Mineral
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM31 - Brick Break
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -62,40 +62,40 @@ Types: Fighting / Bug • Egg Groups: Fairy / Mineral
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Protect (Lv 1)
-- Rock Smash (Lv 5)
-- Focus Energy (Lv 10)
-- Headbutt (Lv 14)
-- Bug Bite (Lv 17)
-- Metal Claw (Lv 19)
-- Bulk Up (Lv 22)
-- Endure (Lv 24)
-- Spiky Shield (Lv 27)
-- Reversal (Lv 30)
-- Body Press (Lv 34)
-- First Impression (Lv 36)
-- Iron Head (Lv 38)
-- No Retreat (Lv 40)
-- Iron Defense (Lv 42)
-- Bullet Seed (Lv 46)
-- Close Combat (Lv 50)
-- Population Bomb (Lv 53)
-- Megahorn (Lv 56)
-- Counter (Lv 60)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 5)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 10)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 14)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 19)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 22)
+- <a href="move-lookup.html?q=endure">Endure</a> (Lv 24)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 27)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 30)
+- <a href="move-lookup.html?q=body-press">Body Press</a> (Lv 34)
+- <a href="move-lookup.html?q=first-impression">First Impression</a> (Lv 36)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 38)
+- <a href="move-lookup.html?q=no-retreat">No Retreat</a> (Lv 40)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 42)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 46)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 50)
+- <a href="move-lookup.html?q=population-bomb">Population Bomb</a> (Lv 53)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 56)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 60)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Endure
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -159,16 +159,16 @@ Types: Fighting / Steel • Egg Groups: Fairy / Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM31 - Brick Break
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Falinksite
@@ -189,40 +189,40 @@ Falinksite
 | Total | <span class="stat-value stat-high">570</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Protect (Lv 1)
-- Rock Smash (Lv 5)
-- Focus Energy (Lv 10)
-- Headbutt (Lv 14)
-- Bug Bite (Lv 17)
-- Metal Claw (Lv 19)
-- Bulk Up (Lv 22)
-- Endure (Lv 24)
-- Spiky Shield (Lv 27)
-- Reversal (Lv 30)
-- Body Press (Lv 34)
-- First Impression (Lv 36)
-- Iron Head (Lv 38)
-- No Retreat (Lv 40)
-- Iron Defense (Lv 42)
-- Bullet Seed (Lv 46)
-- Close Combat (Lv 50)
-- Population Bomb (Lv 53)
-- Megahorn (Lv 56)
-- Counter (Lv 60)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 5)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 10)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 14)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 19)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 22)
+- <a href="move-lookup.html?q=endure">Endure</a> (Lv 24)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 27)
+- <a href="move-lookup.html?q=reversal">Reversal</a> (Lv 30)
+- <a href="move-lookup.html?q=body-press">Body Press</a> (Lv 34)
+- <a href="move-lookup.html?q=first-impression">First Impression</a> (Lv 36)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 38)
+- <a href="move-lookup.html?q=no-retreat">No Retreat</a> (Lv 40)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 42)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 46)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 50)
+- <a href="move-lookup.html?q=population-bomb">Population Bomb</a> (Lv 53)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 56)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 60)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Endure
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

@@ -33,26 +33,26 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Areios Hideout — Grass (Day) (2%)
@@ -74,39 +74,39 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 | Total | <span class="stat-value stat-mid">362</span> |
 
 **Level-Up Moves**
-- Tail Whip (Lv 1)
-- Tackle (Lv 1)
-- Roar (Lv 6)
-- Stomp (Lv 10)
-- Bide (Lv 12)
-- Stealth Rock (Lv 15)
-- Bite (Lv 17)
-- Glare (Lv 20)
-- Poison Fang (Lv 24)
-- Ancient Power (Lv 26)
-- Dragon Tail (Lv 30)
-- Crunch (Lv 34)
-- Dragon Claw (Lv 37)
-- Thrash (Lv 40)
-- Earthquake (Lv 44)
-- Horn Drill (Lv 49)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 6)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 10)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 12)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 15)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=glare">Glare</a> (Lv 20)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 34)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 44)
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a> (Lv 49)
 
 **Egg Moves**
-- Dragon Dance
-- Thunder Fang
-- Ice Fang
-- Poison Fang
-- Rock Polish
-- Fire Fang
-- Curse
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a>
+- <a href="move-lookup.html?q=rock-polish">Rock Polish</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -170,26 +170,26 @@ Types: Rock / Dragon • Egg Groups: Dragon / Monster
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34, Day
@@ -210,43 +210,43 @@ Lv. 34, Day
 | Total | <span class="stat-value stat-mid">521</span> |
 
 **Level-Up Moves**
-- Rock Slide (Lv Evo)
-- Head Smash (Lv 1)
-- Tail Whip (Lv 1)
-- Tackle (Lv 1)
-- Roar (Lv 6)
-- Stomp (Lv 10)
-- Bide (Lv 12)
-- Stealth Rock (Lv 15)
-- Bite (Lv 17)
-- Glare (Lv 20)
-- Poison Fang (Lv 24)
-- Ancient Power (Lv 26)
-- Dragon Tail (Lv 30)
-- Crunch (Lv 34)
-- Dragon Claw (Lv 37)
-- Thrash (Lv 40)
-- Earthquake (Lv 44)
-- Horn Drill (Lv 49)
-- Head Smash (Lv 54)
-- Dragon Energy (Lv 60)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv Evo)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 6)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 10)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 12)
+- <a href="move-lookup.html?q=stealth-rock">Stealth Rock</a> (Lv 15)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 17)
+- <a href="move-lookup.html?q=glare">Glare</a> (Lv 20)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-tail">Dragon Tail</a> (Lv 30)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 34)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 44)
+- <a href="move-lookup.html?q=horn-drill">Horn Drill</a> (Lv 49)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 54)
+- <a href="move-lookup.html?q=dragon-energy">Dragon Energy</a> (Lv 60)
 
 **Egg Moves**
-- Dragon Dance
-- Thunder Fang
-- Ice Fang
-- Poison Fang
-- Rock Polish
-- Fire Fang
-- Curse
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a>
+- <a href="move-lookup.html?q=rock-polish">Rock Polish</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

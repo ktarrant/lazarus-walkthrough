@@ -27,31 +27,31 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Night) (20%)
@@ -74,49 +74,49 @@ Types: Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">465</span> |
 
 **Level-Up Moves**
-- Me First (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 3)
-- Astonish (Lv 7)
-- Hypnosis (Lv 10)
-- Stomp (Lv 13)
-- Sand Attack (Lv 16)
-- Confusion (Lv 18)
-- Take Down (Lv 21)
-- Confuse Ray (Lv 23)
-- Calm Mind (Lv 27)
-- Psyshield Bash (Lv 30)
-- Role Play (Lv 33)
-- Zen Headbutt (Lv 38)
-- Jump Kick (Lv 43)
-- Imprison (Lv 49)
-- Captivate (Lv 50)
-- Me First (Lv 55)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 3)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 7)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 10)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 13)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 16)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 18)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 21)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 23)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshield-bash">Psyshield Bash</a> (Lv 30)
+- <a href="move-lookup.html?q=role-play">Role Play</a> (Lv 33)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 38)
+- <a href="move-lookup.html?q=jump-kick">Jump Kick</a> (Lv 43)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 49)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 50)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 55)
 
 **Egg Moves**
-- Spite
-- Disable
-- Bite
-- Extrasensory
-- Thrash
-- Double Kick
-- Zen Headbutt
-- Megahorn
-- Mud Sport
-- Rage
-- Me First
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a>
+- <a href="move-lookup.html?q=megahorn">Megahorn</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -174,26 +174,26 @@ Types: Normal / Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. after using Psyshield Bash 20x
@@ -214,45 +214,45 @@ Lv. after using Psyshield Bash 20x
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Me First (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 3)
-- Astonish (Lv 7)
-- Hypnosis (Lv 10)
-- Stomp (Lv 13)
-- Sand Attack (Lv 16)
-- Take Down (Lv 21)
-- Confuse Ray (Lv 23)
-- Calm Mind (Lv 27)
-- Psyshield Bash (Lv 30)
-- Role Play (Lv 33)
-- Horn Leech (Lv 36)
-- Psychic (Lv 38)
-- Jump Kick (Lv 43)
-- Imprison (Lv 49)
-- Captivate (Lv 50)
-- Me First (Lv 55)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 3)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 7)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 10)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 13)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 16)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 21)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 23)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshield-bash">Psyshield Bash</a> (Lv 30)
+- <a href="move-lookup.html?q=role-play">Role Play</a> (Lv 33)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 36)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 38)
+- <a href="move-lookup.html?q=jump-kick">Jump Kick</a> (Lv 43)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 49)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 50)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 55)
 
 **Egg Moves**
-- Spite
-- Disable
-- Bite
-- Extrasensory
-- Thrash
-- Double Kick
-- Zen Headbutt
-- Megahorn
-- Mud Sport
-- Rage
-- Me First
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a>
+- <a href="move-lookup.html?q=megahorn">Megahorn</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -308,26 +308,26 @@ Types: Normal / Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Wyrdeerite
@@ -348,45 +348,45 @@ Wyrdeerite
 | Total | <span class="stat-value stat-high">625</span> |
 
 **Level-Up Moves**
-- Me First (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 3)
-- Astonish (Lv 7)
-- Hypnosis (Lv 10)
-- Stomp (Lv 13)
-- Sand Attack (Lv 16)
-- Take Down (Lv 21)
-- Confuse Ray (Lv 23)
-- Calm Mind (Lv 27)
-- Psyshield Bash (Lv 30)
-- Role Play (Lv 33)
-- Horn Leech (Lv 36)
-- Psychic (Lv 38)
-- Jump Kick (Lv 43)
-- Imprison (Lv 49)
-- Captivate (Lv 50)
-- Me First (Lv 55)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 3)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 7)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 10)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 13)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 16)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 21)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 23)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshield-bash">Psyshield Bash</a> (Lv 30)
+- <a href="move-lookup.html?q=role-play">Role Play</a> (Lv 33)
+- <a href="move-lookup.html?q=horn-leech">Horn Leech</a> (Lv 36)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 38)
+- <a href="move-lookup.html?q=jump-kick">Jump Kick</a> (Lv 43)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 49)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 50)
+- <a href="move-lookup.html?q=me-first">Me First</a> (Lv 55)
 
 **Egg Moves**
-- Spite
-- Disable
-- Bite
-- Extrasensory
-- Thrash
-- Double Kick
-- Zen Headbutt
-- Megahorn
-- Mud Sport
-- Rage
-- Me First
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a>
+- <a href="move-lookup.html?q=megahorn">Megahorn</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

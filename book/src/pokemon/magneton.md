@@ -40,21 +40,21 @@ Types: Electric / Steel • Egg Groups: Mineral
 - Ground (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM42 - Facade
-- TM44 - Rest
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Metal Coat
@@ -81,38 +81,38 @@ Metal Coat
 | Total | <span class="stat-value stat-mid">325</span> |
 
 **Level-Up Moves**
-- Supersonic (Lv 1)
-- Tackle (Lv 1)
-- Thunder Shock (Lv 5)
-- Thunder Wave (Lv 7)
-- Magnet Bomb (Lv 11)
-- Light Screen (Lv 13)
-- Sonic Boom (Lv 17)
-- Spark (Lv 19)
-- Mirror Shot (Lv 23)
-- Metal Sound (Lv 25)
-- Electro Ball (Lv 29)
-- Flash Cannon (Lv 31)
-- Screech (Lv 35)
-- Discharge (Lv 37)
-- Lock-On (Lv 41)
-- Magnet Rise (Lv 43)
-- Gyro Ball (Lv 47)
-- Zap Cannon (Lv 49)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 5)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 7)
+- <a href="move-lookup.html?q=magnet-bomb">Magnet Bomb</a> (Lv 11)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 13)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 17)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 19)
+- <a href="move-lookup.html?q=mirror-shot">Mirror Shot</a> (Lv 23)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 25)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 29)
+- <a href="move-lookup.html?q=flash-cannon">Flash Cannon</a> (Lv 31)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 35)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 37)
+- <a href="move-lookup.html?q=lock-on">Lock-On</a> (Lv 41)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 43)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 47)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 49)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Psych Up
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -181,21 +181,21 @@ Types: Electric / Steel • Egg Groups: Mineral
 - Ground (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM42 - Facade
-- TM44 - Rest
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Metal Coat
@@ -219,41 +219,41 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">465</span> |
 
 **Level-Up Moves**
-- Tri Attack (Lv Evo)
-- Zap Cannon (Lv 1)
-- Electric Terrain (Lv 1)
-- Supersonic (Lv 1)
-- Tackle (Lv 1)
-- Thunder Shock (Lv 5)
-- Thunder Wave (Lv 7)
-- Magnet Bomb (Lv 11)
-- Light Screen (Lv 13)
-- Sonic Boom (Lv 17)
-- Spark (Lv 19)
-- Mirror Shot (Lv 23)
-- Metal Sound (Lv 25)
-- Electro Ball (Lv 29)
-- Flash Cannon (Lv 33)
-- Screech (Lv 39)
-- Discharge (Lv 43)
-- Lock-On (Lv 49)
-- Magnet Rise (Lv 53)
-- Gyro Ball (Lv 59)
-- Zap Cannon (Lv 63)
+- <a href="move-lookup.html?q=tri-attack">Tri Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 1)
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 5)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 7)
+- <a href="move-lookup.html?q=magnet-bomb">Magnet Bomb</a> (Lv 11)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 13)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 17)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 19)
+- <a href="move-lookup.html?q=mirror-shot">Mirror Shot</a> (Lv 23)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 25)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 29)
+- <a href="move-lookup.html?q=flash-cannon">Flash Cannon</a> (Lv 33)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 39)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 43)
+- <a href="move-lookup.html?q=lock-on">Lock-On</a> (Lv 49)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 53)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 59)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 63)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Psych Up
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -322,21 +322,21 @@ Types: Electric / Steel • Egg Groups: Mineral
 - Ground (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM42 - Facade
-- TM44 - Rest
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Metal Coat
@@ -360,45 +360,45 @@ Thunder Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Tri Attack (Lv 1)
-- Zap Cannon (Lv 1)
-- Barrier (Lv 1)
-- Electric Terrain (Lv 1)
-- Magnetic Flux (Lv 1)
-- Mirror Coat (Lv 1)
-- Supersonic (Lv 1)
-- Tackle (Lv 1)
-- Thunder Shock (Lv 5)
-- Thunder Wave (Lv 7)
-- Magnet Bomb (Lv 11)
-- Light Screen (Lv 13)
-- Sonic Boom (Lv 17)
-- Spark (Lv 19)
-- Mirror Shot (Lv 23)
-- Metal Sound (Lv 25)
-- Electro Ball (Lv 29)
-- Flash Cannon (Lv 33)
-- Screech (Lv 39)
-- Discharge (Lv 43)
-- Lock-On (Lv 49)
-- Magnet Rise (Lv 53)
-- Gyro Ball (Lv 59)
-- Zap Cannon (Lv 63)
+- <a href="move-lookup.html?q=tri-attack">Tri Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 1)
+- <a href="move-lookup.html?q=barrier">Barrier</a> (Lv 1)
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a> (Lv 1)
+- <a href="move-lookup.html?q=magnetic-flux">Magnetic Flux</a> (Lv 1)
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 5)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 7)
+- <a href="move-lookup.html?q=magnet-bomb">Magnet Bomb</a> (Lv 11)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 13)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 17)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 19)
+- <a href="move-lookup.html?q=mirror-shot">Mirror Shot</a> (Lv 23)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 25)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 29)
+- <a href="move-lookup.html?q=flash-cannon">Flash Cannon</a> (Lv 33)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 39)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 43)
+- <a href="move-lookup.html?q=lock-on">Lock-On</a> (Lv 49)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 53)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 59)
+- <a href="move-lookup.html?q=zap-cannon">Zap Cannon</a> (Lv 63)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Explosion
-- Psych Up
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -34,30 +34,30 @@ Types: Water / Poison • Egg Groups: Water 3
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM50 - Deepwater Curse
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- HM01 - Cut
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Poison Barb
@@ -99,48 +99,48 @@ Poison Barb
 | Total | <span class="stat-value stat-mid">335</span> |
 
 **Level-Up Moves**
-- Poison Sting (Lv 1)
-- Supersonic (Lv 4)
-- Constrict (Lv 7)
-- Acid (Lv 10)
-- Toxic Spikes (Lv 13)
-- Water Pulse (Lv 16)
-- Wrap (Lv 19)
-- Acid Spray (Lv 22)
-- Bubble Beam (Lv 25)
-- Barrier (Lv 28)
-- Deepwater Curse (Lv 31)
-- Poison Jab (Lv 32)
-- Brine (Lv 34)
-- Screech (Lv 37)
-- Hex (Lv 40)
-- Sludge Wave (Lv 43)
-- Hydro Pump (Lv 46)
-- Wring Out (Lv 49)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 4)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 7)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 10)
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a> (Lv 13)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 16)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 19)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 22)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 25)
+- <a href="move-lookup.html?q=barrier">Barrier</a> (Lv 28)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 31)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 32)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 34)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 37)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 40)
+- <a href="move-lookup.html?q=sludge-wave">Sludge Wave</a> (Lv 43)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 46)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 49)
 
 **Egg Moves**
-- Aurora Beam
-- Mirror Coat
-- Rapid Spin
-- Haze
-- Confuse Ray
-- Knock Off
-- Acupressure
-- Muddy Water
-- Bubble
-- Aqua Ring
-- Tickle
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
+- <a href="move-lookup.html?q=bubble">Bubble</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
 
 **Tutor Moves**
-- Acid Spray
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -205,30 +205,30 @@ Types: Water / Poison • Egg Groups: Water 3
 - Psychic (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM50 - Deepwater Curse
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- HM01 - Cut
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Poison Barb
@@ -257,50 +257,50 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Reflect Type (Lv 1)
-- Wring Out (Lv 1)
-- Poison Sting (Lv 1)
-- Supersonic (Lv 4)
-- Constrict (Lv 7)
-- Acid (Lv 10)
-- Toxic Spikes (Lv 13)
-- Water Pulse (Lv 16)
-- Wrap (Lv 19)
-- Acid Spray (Lv 22)
-- Bubble Beam (Lv 25)
-- Barrier (Lv 28)
-- Deepwater Curse (Lv 31)
-- Poison Jab (Lv 33)
-- Brine (Lv 36)
-- Screech (Lv 40)
-- Hex (Lv 44)
-- Sludge Wave (Lv 48)
-- Hydro Pump (Lv 52)
-- Wring Out (Lv 56)
+- <a href="move-lookup.html?q=reflect-type">Reflect Type</a> (Lv 1)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 4)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 7)
+- <a href="move-lookup.html?q=acid">Acid</a> (Lv 10)
+- <a href="move-lookup.html?q=toxic-spikes">Toxic Spikes</a> (Lv 13)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 16)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 19)
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a> (Lv 22)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 25)
+- <a href="move-lookup.html?q=barrier">Barrier</a> (Lv 28)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 31)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 33)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 36)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 40)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 44)
+- <a href="move-lookup.html?q=sludge-wave">Sludge Wave</a> (Lv 48)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 52)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 56)
 
 **Egg Moves**
-- Aurora Beam
-- Mirror Coat
-- Rapid Spin
-- Haze
-- Confuse Ray
-- Knock Off
-- Acupressure
-- Muddy Water
-- Bubble
-- Aqua Ring
-- Tickle
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
+- <a href="move-lookup.html?q=bubble">Bubble</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
 
 **Tutor Moves**
-- Acid Spray
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

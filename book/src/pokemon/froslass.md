@@ -32,21 +32,21 @@ Types: Ice • Egg Groups: Fairy / Mineral
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM52 - Frost Breath
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Snowball
@@ -72,41 +72,41 @@ Snowball
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Double Team (Lv 5)
-- Ice Shard (Lv 10)
-- Icy Wind (Lv 14)
-- Bite (Lv 19)
-- Ice Fang (Lv 23)
-- Headbutt (Lv 28)
-- Protect (Lv 32)
-- Frost Breath (Lv 37)
-- Crunch (Lv 41)
-- Blizzard (Lv 46)
-- Hail (Lv 50)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 5)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 10)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 14)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 28)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 32)
+- <a href="move-lookup.html?q=frost-breath">Frost Breath</a> (Lv 37)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 41)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 46)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 50)
 
 **Egg Moves**
-- Block
-- Spikes
-- Rollout
-- Disable
-- Bide
-- Weather Ball
-- Avalanche
-- Hex
-- Fake Tears
-- Switcheroo
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bide">Bide</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=hex">Hex</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -165,27 +165,27 @@ Types: Ice • Egg Groups: Fairy / Mineral
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM26 - Earthquake
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM59 - Dark Pulse
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 32
@@ -206,49 +206,49 @@ Lv. 32
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Freeze-Dry (Lv Evo)
-- Deepwater Curse (Lv 1)
-- Sheer Cold (Lv 1)
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Double Team (Lv 5)
-- Ice Shard (Lv 10)
-- Icy Wind (Lv 14)
-- Bite (Lv 19)
-- Ice Fang (Lv 23)
-- Headbutt (Lv 28)
-- Protect (Lv 32)
-- Rock Slide (Lv 35)
-- Frost Breath (Lv 37)
-- Crunch (Lv 41)
-- Avalanche (Lv 45)
-- Blizzard (Lv 48)
-- Hail (Lv 54)
-- Sheer Cold (Lv 61)
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a> (Lv Evo)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 5)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 10)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 14)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 28)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 32)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 35)
+- <a href="move-lookup.html?q=frost-breath">Frost Breath</a> (Lv 37)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 41)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 45)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 48)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 54)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 61)
 
 **Egg Moves**
-- Block
-- Spikes
-- Rollout
-- Disable
-- Bide
-- Weather Ball
-- Avalanche
-- Hex
-- Fake Tears
-- Switcheroo
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bide">Bide</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=hex">Hex</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Icy Wind
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -305,27 +305,27 @@ Types: Ice • Egg Groups: Fairy / Mineral
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM26 - Earthquake
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM59 - Dark Pulse
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Glalitite
@@ -346,49 +346,49 @@ Glalitite
 | Total | <span class="stat-value stat-high">620</span> |
 
 **Level-Up Moves**
-- Freeze-Dry (Lv Evo)
-- Deepwater Curse (Lv 1)
-- Sheer Cold (Lv 1)
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Double Team (Lv 5)
-- Ice Shard (Lv 10)
-- Icy Wind (Lv 14)
-- Bite (Lv 19)
-- Ice Fang (Lv 23)
-- Headbutt (Lv 28)
-- Protect (Lv 32)
-- Rock Slide (Lv 35)
-- Frost Breath (Lv 37)
-- Crunch (Lv 41)
-- Avalanche (Lv 45)
-- Blizzard (Lv 48)
-- Hail (Lv 54)
-- Sheer Cold (Lv 61)
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a> (Lv Evo)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 5)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 10)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 14)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 23)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 28)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 32)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 35)
+- <a href="move-lookup.html?q=frost-breath">Frost Breath</a> (Lv 37)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 41)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 45)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 48)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 54)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 61)
 
 **Egg Moves**
-- Block
-- Spikes
-- Rollout
-- Disable
-- Bide
-- Weather Ball
-- Avalanche
-- Hex
-- Fake Tears
-- Switcheroo
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bide">Bide</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=hex">Hex</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Explosion
-- Icy Wind
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -452,32 +452,32 @@ Types: Ice / Ghost • Egg Groups: Fairy / Mineral
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM50 - Deepwater Curse
-- TM51 - Will-O-Wisp
-- TM52 - Frost Breath
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Dawn Stone
@@ -498,54 +498,54 @@ Dawn Stone
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Ominous Wind (Lv Evo)
-- Deepwater Curse (Lv 1)
-- Destiny Bond (Lv 1)
-- Powder Snow (Lv 1)
-- Leer (Lv 1)
-- Double Team (Lv 5)
-- Ice Shard (Lv 10)
-- Icy Wind (Lv 14)
-- Astonish (Lv 19)
-- Draining Kiss (Lv 23)
-- Aurora Beam (Lv 25)
-- Shadow Claw (Lv 26)
-- Will-O-Wisp (Lv 28)
-- Confuse Ray (Lv 32)
-- Infernal Parade (Lv 35)
-- Wake-Up Slap (Lv 37)
-- Captivate (Lv 41)
-- Shadow Ball (Lv 42)
-- Ice Beam (Lv 44)
-- Blizzard (Lv 48)
-- Energy Ball (Lv 50)
-- Hail (Lv 54)
-- Destiny Bond (Lv 61)
+- <a href="move-lookup.html?q=ominous-wind">Ominous Wind</a> (Lv Evo)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 5)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 10)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 14)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 19)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 23)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 25)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 26)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 28)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 32)
+- <a href="move-lookup.html?q=infernal-parade">Infernal Parade</a> (Lv 35)
+- <a href="move-lookup.html?q=wake-up-slap">Wake-Up Slap</a> (Lv 37)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 41)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 42)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 44)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 48)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 50)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 54)
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a> (Lv 61)
 
 **Egg Moves**
-- Block
-- Spikes
-- Rollout
-- Disable
-- Bide
-- Weather Ball
-- Avalanche
-- Hex
-- Fake Tears
-- Switcheroo
+- <a href="move-lookup.html?q=block">Block</a>
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=bide">Bide</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=avalanche">Avalanche</a>
+- <a href="move-lookup.html?q=hex">Hex</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Ice Punch
-- Icy Wind
-- Mud-Slap
-- Psych Up
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

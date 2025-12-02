@@ -32,26 +32,26 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1
 - Ground (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-iron-tail">TM23 - Iron Tail</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Palati City — Fishing (60%)
@@ -74,48 +74,48 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1
 | Total | <span class="stat-value stat-mid">355</span> |
 
 **Level-Up Moves**
-- Bide (Lv 1)
-- Withdraw (Lv 1)
-- Water Gun (Lv 1)
-- Rollout (Lv 5)
-- Bite (Lv 8)
-- Protect (Lv 11)
-- Aqua Jet (Lv 15)
-- Ancient Power (Lv 18)
-- Crunch (Lv 21)
-- Wide Guard (Lv 25)
-- Brine (Lv 28)
-- Smack Down (Lv 31)
-- Curse (Lv 35)
-- Shell Smash (Lv 38)
-- Liquidation (Lv 40)
-- Accelerock (Lv 42)
-- Rock Slide (Lv 45)
-- Rain Dance (Lv 48)
-- Hydro Pump (Lv 50)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 8)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 11)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 15)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 18)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 21)
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a> (Lv 25)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 28)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 31)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 35)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 38)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 40)
+- <a href="move-lookup.html?q=accelerock">Accelerock</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 45)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 48)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
 
 **Egg Moves**
-- Water Pulse
-- Knock Off
-- Rock Throw
-- Slam
-- Iron Defense
-- Flail
-- Whirlpool
-- Body Slam
-- Bide
-- Guard Swap
-- Liquidation
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=bide">Bide</a>
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a>
+- <a href="move-lookup.html?q=liquidation">Liquidation</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -178,27 +178,27 @@ Types: Water / Rock • Egg Groups: Water 3 / Water 1
 - Ground (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Hyper Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Iron Tail
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-hyper-beam">TM15 - Hyper Beam</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-iron-tail">TM23 - Iron Tail</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 33
@@ -219,49 +219,49 @@ Lv. 33
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
-- Bide (Lv 1)
-- Withdraw (Lv 1)
-- Water Gun (Lv 1)
-- Rollout (Lv 5)
-- Bite (Lv 8)
-- Protect (Lv 11)
-- Aqua Jet (Lv 15)
-- Ancient Power (Lv 18)
-- Crunch (Lv 21)
-- Wide Guard (Lv 25)
-- Brine (Lv 28)
-- Smack Down (Lv 31)
-- Shell Smash (Lv Evo)
-- Curse (Lv 35)
-- Shell Smash (Lv 38)
-- Liquidation (Lv 40)
-- Accelerock (Lv 42)
-- Rock Slide (Lv 45)
-- Rain Dance (Lv 48)
-- Hydro Pump (Lv 50)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=withdraw">Withdraw</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 8)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 11)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 15)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 18)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 21)
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a> (Lv 25)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 28)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 31)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv Evo)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 35)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 38)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 40)
+- <a href="move-lookup.html?q=accelerock">Accelerock</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 45)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 48)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
 
 **Egg Moves**
-- Water Pulse
-- Knock Off
-- Rock Throw
-- Slam
-- Iron Defense
-- Flail
-- Whirlpool
-- Body Slam
-- Bide
-- Guard Swap
-- Liquidation
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=bide">Bide</a>
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a>
+- <a href="move-lookup.html?q=liquidation">Liquidation</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

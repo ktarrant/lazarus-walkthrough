@@ -36,27 +36,27 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- HM01 - Cut
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Night) (5%)
@@ -77,40 +77,40 @@ Types: Fire • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">307</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Ember (Lv 5)
-- Howl (Lv 11)
-- Flame Charge (Lv 14)
-- Psybeam (Lv 17)
-- Fire Spin (Lv 20)
-- Nuzzle (Lv 23)
-- Lucky Chant (Lv 25)
-- Light Screen (Lv 27)
-- Psyshock (Lv 31)
-- Flamethrower (Lv 35)
-- Will-O-Wisp (Lv 38)
-- Psychic (Lv 41)
-- Sunny Day (Lv 43)
-- Magic Room (Lv 46)
-- Fire Blast (Lv 48)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 11)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 17)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 20)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 23)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 25)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 31)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 38)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 41)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 43)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 46)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 48)
 
 **Egg Moves**
-- Wish
-- Hypnosis
-- Heat Wave
-- Magic Coat
-- Psychic Terrain
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -173,28 +173,28 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- HM01 - Cut
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
 
 **Evolution Info**
 Lv. 16
@@ -215,43 +215,43 @@ Lv. 16
 | Total | <span class="stat-value stat-mid">409</span> |
 
 **Level-Up Moves**
-- Magical Leaf (Lv Evo)
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Ember (Lv 5)
-- Howl (Lv 11)
-- Flame Charge (Lv 14)
-- Psybeam (Lv 17)
-- Fire Spin (Lv 20)
-- Nuzzle (Lv 23)
-- Lucky Chant (Lv 25)
-- Light Screen (Lv 27)
-- Psyshock (Lv 31)
-- Flamethrower (Lv 35)
-- Will-O-Wisp (Lv 38)
-- Psychic (Lv 41)
-- Sunny Day (Lv 43)
-- Magic Room (Lv 46)
-- Fire Blast (Lv 48)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv Evo)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 11)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 17)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 20)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 23)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 25)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 31)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 38)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 41)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 43)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 46)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 48)
 
 **Egg Moves**
-- Wish
-- Hypnosis
-- Heat Wave
-- Magic Coat
-- Psychic Terrain
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Fire Punch
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -317,32 +317,32 @@ Types: Fire / Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- HM01 - Cut
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
 
 **Evolution Info**
 Lv. 36
@@ -363,49 +363,49 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">534</span> |
 
 **Level-Up Moves**
-- Mystical Fire (Lv Evo)
-- Moongeist Beam (Lv 1)
-- Magical Leaf (Lv 1)
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Ember (Lv 5)
-- Howl (Lv 11)
-- Flame Charge (Lv 14)
-- Psybeam (Lv 17)
-- Fire Spin (Lv 20)
-- Nuzzle (Lv 23)
-- Lucky Chant (Lv 25)
-- Light Screen (Lv 27)
-- Psyshock (Lv 31)
-- Flamethrower (Lv 35)
-- Will-O-Wisp (Lv 38)
-- Psychic (Lv 41)
-- Sunny Day (Lv 43)
-- Magic Room (Lv 46)
-- Fire Blast (Lv 48)
-- Moongeist Beam (Lv 52)
-- Moonblast (Lv 55)
-- Future Sight (Lv 58)
+- <a href="move-lookup.html?q=mystical-fire">Mystical Fire</a> (Lv Evo)
+- <a href="move-lookup.html?q=moongeist-beam">Moongeist Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 11)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 17)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 20)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 23)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 25)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 31)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 38)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 41)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 43)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 46)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 48)
+- <a href="move-lookup.html?q=moongeist-beam">Moongeist Beam</a> (Lv 52)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 55)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 58)
 
 **Egg Moves**
-- Wish
-- Hypnosis
-- Heat Wave
-- Magic Coat
-- Psychic Terrain
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Fire Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -469,32 +469,32 @@ Types: Fire / Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- HM01 - Cut
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
 
 **Evolution Info**
 Delphoxite
@@ -515,49 +515,49 @@ Delphoxite
 | Total | <span class="stat-value stat-high">624</span> |
 
 **Level-Up Moves**
-- Mystical Fire (Lv Evo)
-- Moongeist Beam (Lv 1)
-- Magical Leaf (Lv 1)
-- Scratch (Lv 1)
-- Tail Whip (Lv 1)
-- Ember (Lv 5)
-- Howl (Lv 11)
-- Flame Charge (Lv 14)
-- Psybeam (Lv 17)
-- Fire Spin (Lv 20)
-- Nuzzle (Lv 23)
-- Lucky Chant (Lv 25)
-- Light Screen (Lv 27)
-- Psyshock (Lv 31)
-- Flamethrower (Lv 35)
-- Will-O-Wisp (Lv 38)
-- Psychic (Lv 41)
-- Sunny Day (Lv 43)
-- Magic Room (Lv 46)
-- Fire Blast (Lv 48)
-- Moongeist Beam (Lv 52)
-- Moonblast (Lv 55)
-- Future Sight (Lv 58)
+- <a href="move-lookup.html?q=mystical-fire">Mystical Fire</a> (Lv Evo)
+- <a href="move-lookup.html?q=moongeist-beam">Moongeist Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 5)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 11)
+- <a href="move-lookup.html?q=flame-charge">Flame Charge</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 17)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 20)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 23)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 25)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 27)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 31)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 38)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 41)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 43)
+- <a href="move-lookup.html?q=magic-room">Magic Room</a> (Lv 46)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 48)
+- <a href="move-lookup.html?q=moongeist-beam">Moongeist Beam</a> (Lv 52)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 55)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 58)
 
 **Egg Moves**
-- Wish
-- Hypnosis
-- Heat Wave
-- Magic Coat
-- Psychic Terrain
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Fire Punch
-- Metronome
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

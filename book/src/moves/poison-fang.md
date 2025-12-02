@@ -19,28 +19,46 @@
 | Pokémon | How |
 | --- | --- |
 | <a href="pokemon-lookup.html?q=alolan-grimer">Alolan Grimer</a> | Level 18 |
+| <a href="pokemon-lookup.html?q=alolan-grimer">Alolan Grimer</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=alolan-muk">Alolan Muk</a> | Level 18 |
+| <a href="pokemon-lookup.html?q=alolan-muk">Alolan Muk</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=arbok">Arbok</a> | Level 26 |
+| <a href="pokemon-lookup.html?q=arbok">Arbok</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=arbok">Arbok</a> | Egg |
 | <a href="pokemon-lookup.html?q=bruxish">Bruxish</a> | Level 41 |
+| <a href="pokemon-lookup.html?q=bruxish">Bruxish</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=bruxish">Bruxish</a> | Egg |
 | <a href="pokemon-lookup.html?q=croconaw">Croconaw</a> | Level 36 |
 | <a href="pokemon-lookup.html?q=drapion">Drapion</a> | Level 23 |
+| <a href="pokemon-lookup.html?q=drapion">Drapion</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=ekans">Ekans</a> | Level 26 |
+| <a href="pokemon-lookup.html?q=ekans">Ekans</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=ekans">Ekans</a> | Egg |
 | <a href="pokemon-lookup.html?q=feraligatr">Feraligatr</a> | Level 36 |
 | <a href="pokemon-lookup.html?q=grafaiai">Grafaiai</a> | Level 14 |
+| <a href="pokemon-lookup.html?q=grafaiai">Grafaiai</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=grimer">Grimer</a> | Level 26 |
 | <a href="pokemon-lookup.html?q=gyarados">Gyarados</a> | Level 1 |
+| <a href="pokemon-lookup.html?q=hisuian-sneasel">Hisuian Sneasel</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=mawile">Mawile</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mawile">Mawile</a> | Egg |
 | <a href="pokemon-lookup.html?q=mega-gyarados">Mega Gyarados</a> | Level 1 |
+| <a href="pokemon-lookup.html?q=mega-mawile">Mega Mawile</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=mega-mawile">Mega Mawile</a> | Egg |
 | <a href="pokemon-lookup.html?q=muk">Muk</a> | Level 26 |
+| <a href="pokemon-lookup.html?q=salandit">Salandit</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=salazzle">Salazzle</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=shroodle">Shroodle</a> | Level 14 |
+| <a href="pokemon-lookup.html?q=shroodle">Shroodle</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=silvally">Silvally</a> | Level 1 |
+| <a href="pokemon-lookup.html?q=silvally">Silvally</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=skorupi">Skorupi</a> | Level 23 |
+| <a href="pokemon-lookup.html?q=skorupi">Skorupi</a> | TM/HM |
+| <a href="pokemon-lookup.html?q=sneasler">Sneasler</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=tyrantrum">Tyrantrum</a> | Level 24 |
+| <a href="pokemon-lookup.html?q=tyrantrum">Tyrantrum</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=tyrantrum">Tyrantrum</a> | Egg |
 | <a href="pokemon-lookup.html?q=tyrunt">Tyrunt</a> | Level 24 |
+| <a href="pokemon-lookup.html?q=tyrunt">Tyrunt</a> | TM/HM |
 | <a href="pokemon-lookup.html?q=tyrunt">Tyrunt</a> | Egg |
 </details>

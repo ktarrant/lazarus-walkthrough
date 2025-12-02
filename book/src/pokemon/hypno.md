@@ -28,30 +28,30 @@ Types: Psychic • Egg Groups: Human-Like
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Myrrini Island — Grass (Night) (20%)
@@ -74,61 +74,61 @@ Types: Psychic • Egg Groups: Human-Like
 | Total | <span class="stat-value stat-mid">328</span> |
 
 **Level-Up Moves**
-- Hypnosis (Lv 1)
-- Pursuit (Lv 1)
-- Disable (Lv 5)
-- Confusion (Lv 9)
-- Headbutt (Lv 13)
-- Poison Gas (Lv 17)
-- Meditate (Lv 21)
-- Psybeam (Lv 23)
-- Knock Off (Lv 26)
-- Poison Jab (Lv 29)
-- Psych Up (Lv 33)
-- Body Slam (Lv 35)
-- Synchronoise (Lv 37)
-- Dark Pulse (Lv 41)
-- Malignant Chain (Lv 45)
-- Psychic (Lv 49)
-- Nasty Plot (Lv 53)
-- Psyshock (Lv 57)
-- Future Sight (Lv 61)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 1)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 5)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 9)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 13)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 17)
+- <a href="move-lookup.html?q=meditate">Meditate</a> (Lv 21)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 23)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 26)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 29)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 33)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 35)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 37)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 41)
+- <a href="move-lookup.html?q=malignant-chain">Malignant Chain</a> (Lv 45)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 49)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 53)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 57)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 61)
 
 **Egg Moves**
-- Barrier
-- Assist
-- Role Play
-- Fire Punch
-- Thunder Punch
-- Ice Punch
-- Nasty Plot
-- Flatter
-- Psycho Cut
-- Guard Swap
-- Secret Power
-- Skill Swap
-- Power Split
-- Psychic Terrain
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=assist">Assist</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=flatter">Flatter</a>
+- <a href="move-lookup.html?q=psycho-cut">Psycho Cut</a>
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=power-split">Power Split</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Psych Up
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -185,31 +185,31 @@ Types: Psychic / Dark • Egg Groups: Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 26
@@ -230,65 +230,65 @@ Lv. 26
 | Total | <span class="stat-value stat-mid">488</span> |
 
 **Level-Up Moves**
-- Nasty Plot (Lv Evo)
-- Future Sight (Lv 1)
-- Nightmare (Lv 1)
-- Switcheroo (Lv 1)
-- Pursuit (Lv 1)
-- Hypnosis (Lv 1)
-- Disable (Lv 5)
-- Confusion (Lv 9)
-- Headbutt (Lv 13)
-- Poison Gas (Lv 17)
-- Meditate (Lv 21)
-- Psybeam (Lv 23)
-- Knock Off (Lv 26)
-- Poison Jab (Lv 29)
-- Psych Up (Lv 33)
-- Body Slam (Lv 35)
-- Synchronoise (Lv 37)
-- Dark Pulse (Lv 41)
-- Malignant Chain (Lv 45)
-- Psychic (Lv 49)
-- Nasty Plot (Lv 53)
-- Psyshock (Lv 57)
-- Future Sight (Lv 61)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv Evo)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 1)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 1)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 1)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 1)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 5)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 9)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 13)
+- <a href="move-lookup.html?q=poison-gas">Poison Gas</a> (Lv 17)
+- <a href="move-lookup.html?q=meditate">Meditate</a> (Lv 21)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 23)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 26)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 29)
+- <a href="move-lookup.html?q=psych-up">Psych Up</a> (Lv 33)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 35)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 37)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 41)
+- <a href="move-lookup.html?q=malignant-chain">Malignant Chain</a> (Lv 45)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 49)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 53)
+- <a href="move-lookup.html?q=psyshock">Psyshock</a> (Lv 57)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 61)
 
 **Egg Moves**
-- Barrier
-- Assist
-- Role Play
-- Fire Punch
-- Thunder Punch
-- Ice Punch
-- Nasty Plot
-- Flatter
-- Psycho Cut
-- Guard Swap
-- Secret Power
-- Skill Swap
-- Power Split
-- Psychic Terrain
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=assist">Assist</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=flatter">Flatter</a>
+- <a href="move-lookup.html?q=psycho-cut">Psycho Cut</a>
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=power-split">Power Split</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Psych Up
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

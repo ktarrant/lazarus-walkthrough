@@ -29,27 +29,27 @@ Types: Water / Ground • Egg Groups: Water 2
 - Grass (4×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM56 - Scald
-- TM60 - Dragon Dance
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Kalami City — Fishing (40%)
@@ -74,45 +74,45 @@ Types: Water / Ground • Egg Groups: Water 2
 | Total | <span class="stat-value stat-low">288</span> |
 
 **Level-Up Moves**
-- Mud-Slap (Lv 1)
-- Mud Sport (Lv 6)
-- Water Sport (Lv 6)
-- Water Gun (Lv 9)
-- Mud Bomb (Lv 13)
-- Amnesia (Lv 15)
-- Water Pulse (Lv 17)
-- Magnitude (Lv 20)
-- Flip Turn (Lv 23)
-- Rest (Lv 25)
-- Snore (Lv 25)
-- Aqua Tail (Lv 28)
-- Earthquake (Lv 32)
-- Muddy Water (Lv 25)
-- Future Sight (Lv 39)
-- Fissure (Lv 44)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 6)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 6)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 9)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 13)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 15)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 17)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 20)
+- <a href="move-lookup.html?q=flip-turn">Flip Turn</a> (Lv 23)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 25)
+- <a href="move-lookup.html?q=snore">Snore</a> (Lv 25)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 28)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 32)
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a> (Lv 25)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 39)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 44)
 
 **Egg Moves**
-- Thrash
-- Whirlpool
-- Spark
-- Hydro Pump
-- Flail
-- Take Down
-- Dragon Dance
-- Earth Power
-- Mud Shot
-- Muddy Water
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=spark">Spark</a>
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -172,30 +172,30 @@ Types: Water / Ground • Egg Groups: Water 2
 - Grass (4×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM56 - Scald
-- TM60 - Dragon Dance
-- HM03 - Surf
-- HM04 - Strength
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 30
@@ -219,52 +219,52 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">468</span> |
 
 **Level-Up Moves**
-- Thrash (Lv Evo)
-- Belch (Lv 1)
-- Dragon Dance (Lv 1)
-- Zen Headbutt (Lv 1)
-- Tickle (Lv 1)
-- Mud-Slap (Lv 1)
-- Mud Sport (Lv 6)
-- Water Sport (Lv 6)
-- Water Gun (Lv 9)
-- Mud Bomb (Lv 13)
-- Amnesia (Lv 15)
-- Water Pulse (Lv 17)
-- Magnitude (Lv 20)
-- Flip Turn (Lv 23)
-- Rest (Lv 25)
-- Snore (Lv 25)
-- Aqua Tail (Lv 28)
-- Earthquake (Lv 34)
-- Muddy Water (Lv 39)
-- Dragon Dance (Lv 42)
-- Future Sight (Lv 45)
-- Fissure (Lv 52)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv Evo)
+- <a href="move-lookup.html?q=belch">Belch</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 1)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=tickle">Tickle</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 6)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 6)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 9)
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a> (Lv 13)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 15)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 17)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 20)
+- <a href="move-lookup.html?q=flip-turn">Flip Turn</a> (Lv 23)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 25)
+- <a href="move-lookup.html?q=snore">Snore</a> (Lv 25)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 28)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 34)
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a> (Lv 39)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 42)
+- <a href="move-lookup.html?q=future-sight">Future Sight</a> (Lv 45)
+- <a href="move-lookup.html?q=fissure">Fissure</a> (Lv 52)
 
 **Egg Moves**
-- Thrash
-- Whirlpool
-- Spark
-- Hydro Pump
-- Flail
-- Take Down
-- Dragon Dance
-- Earth Power
-- Mud Shot
-- Muddy Water
+- <a href="move-lookup.html?q=thrash">Thrash</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=spark">Spark</a>
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -40,18 +40,18 @@ Types: Steel / Normal • Egg Groups: Field / Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Lagging Tail
@@ -78,45 +78,45 @@ Lagging Tail
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Rollout (Lv 5)
-- Rock Smash (Lv 10)
-- Water Gun (Lv 13)
-- Bulldoze (Lv 16)
-- Stomp (Lv 20)
-- Iron Defense (Lv 23)
-- Body Slam (Lv 27)
-- Dig (Lv 30)
-- Strength (Lv 34)
-- Iron Head (Lv 38)
-- Play Rough (Lv 42)
-- Liquidation (Lv 45)
-- High Horsepower (Lv 49)
-- Megahorn (Lv 53)
-- Superpower (Lv 55)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 5)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 10)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 13)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 16)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 20)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 23)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 30)
+- <a href="move-lookup.html?q=strength">Strength</a> (Lv 34)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 38)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 42)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 45)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 49)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 53)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 55)
 
 **Egg Moves**
-- Double-Edge
-- Belch
-- Curse
-- Slam
-- Fissure
-- Swagger
-- Whirlwind
-- Defense Curl
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Mega Kick
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -185,20 +185,20 @@ Types: Steel / Normal • Egg Groups: Field / Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM55 - Snarl
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Lagging Tail
@@ -222,47 +222,47 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Heavy Slam (Lv Evo)
-- Body Press (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Rollout (Lv 5)
-- Rock Smash (Lv 10)
-- Water Gun (Lv 13)
-- Bulldoze (Lv 16)
-- Stomp (Lv 20)
-- Iron Defense (Lv 23)
-- Body Slam (Lv 27)
-- Dig (Lv 30)
-- Strength (Lv 34)
-- Iron Head (Lv 38)
-- Play Rough (Lv 42)
-- Liquidation (Lv 45)
-- High Horsepower (Lv 49)
-- Megahorn (Lv 53)
-- Superpower (Lv 55)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv Evo)
+- <a href="move-lookup.html?q=body-press">Body Press</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 5)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 10)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 13)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 16)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 20)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 23)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 30)
+- <a href="move-lookup.html?q=strength">Strength</a> (Lv 34)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 38)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 42)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 45)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 49)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 53)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 55)
 
 **Egg Moves**
-- Double-Edge
-- Belch
-- Curse
-- Slam
-- Fissure
-- Swagger
-- Whirlwind
-- Defense Curl
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Mega Kick
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -329,20 +329,20 @@ Types: Steel / Normal • Egg Groups: Field / Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM55 - Snarl
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Lagging Tail
@@ -366,47 +366,47 @@ Copperajite
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Heavy Slam (Lv Evo)
-- Body Press (Lv 1)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Rollout (Lv 5)
-- Rock Smash (Lv 10)
-- Water Gun (Lv 13)
-- Bulldoze (Lv 16)
-- Stomp (Lv 20)
-- Iron Defense (Lv 23)
-- Body Slam (Lv 27)
-- Dig (Lv 30)
-- Strength (Lv 34)
-- Iron Head (Lv 38)
-- Play Rough (Lv 42)
-- Liquidation (Lv 45)
-- High Horsepower (Lv 49)
-- Megahorn (Lv 53)
-- Superpower (Lv 55)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv Evo)
+- <a href="move-lookup.html?q=body-press">Body Press</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 5)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 10)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 13)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 16)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 20)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 23)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 27)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 30)
+- <a href="move-lookup.html?q=strength">Strength</a> (Lv 34)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 38)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 42)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 45)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 49)
+- <a href="move-lookup.html?q=megahorn">Megahorn</a> (Lv 53)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 55)
 
 **Egg Moves**
-- Double-Edge
-- Belch
-- Curse
-- Slam
-- Fissure
-- Swagger
-- Whirlwind
-- Defense Curl
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=belch">Belch</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=slam">Slam</a>
+- <a href="move-lookup.html?q=fissure">Fissure</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Mega Kick
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

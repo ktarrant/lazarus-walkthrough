@@ -21,18 +21,18 @@ Types: Water / Dragon • Egg Groups: -
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM07 - Whirlpool
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM26 - Earthquake
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="dracovish" /> Caught</label>
@@ -50,34 +50,34 @@ Types: Water / Dragon • Egg Groups: -
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Water Gun (Lv 1)
-- Protect (Lv 7)
-- Brutal Swing (Lv 12)
-- Ancient Power (Lv 16)
-- Bite (Lv 20)
-- Dragon Breath (Lv 24)
-- Ice Fang (Lv 28)
-- Stomp (Lv 33)
-- Super Fang (Lv 35)
-- Stomping Tantrum (Lv 38)
-- Slam (Lv 40)
-- Crunch (Lv 44)
-- Aqua Jet (Lv 48)
-- Fishious Rend (Lv 52)
-- Dragon Pulse (Lv 55)
-- Dragon Rush (Lv 58)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 7)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 12)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 16)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 20)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 24)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 28)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 33)
+- <a href="move-lookup.html?q=super-fang">Super Fang</a> (Lv 35)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 38)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 44)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 48)
+- <a href="move-lookup.html?q=fishious-rend">Fishious Rend</a> (Lv 52)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 55)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 58)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Mega Kick
-- Rock Slide
-- Sleep Talk
-- Snore
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
 </div>
 </div>
 <script>

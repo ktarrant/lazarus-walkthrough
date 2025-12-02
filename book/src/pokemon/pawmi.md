@@ -29,17 +29,17 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (15%)
@@ -61,32 +61,32 @@ Types: Electric • Egg Groups: Field
 | Total | <span class="stat-value stat-low">240</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Growl (Lv 1)
-- Thunder Shock (Lv 3)
-- Quick Attack (Lv 6)
-- Charge (Lv 8)
-- Nuzzle (Lv 12)
-- Dig (Lv 15)
-- Bite (Lv 19)
-- Spark (Lv 23)
-- Thunder Wave (Lv 27)
-- Entrainment (Lv 31)
-- Slam (Lv 35)
-- Discharge (Lv 38)
-- Agility (Lv 40)
-- Wild Charge (Lv 44)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 3)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 6)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 8)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 12)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 15)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 23)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 27)
+- <a href="move-lookup.html?q=entrainment">Entrainment</a> (Lv 31)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 35)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 38)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 40)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 44)
 
 **Egg Moves**
-- Fake Out
-- Mach Punch
-- Sweet Kiss
-- Wish
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=mach-punch">Mach Punch</a>
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -148,17 +148,17 @@ Types: Electric / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. 20
@@ -183,35 +183,35 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">350</span> |
 
 **Level-Up Moves**
-- Arm Thrust (Lv Evo)
-- Scratch (Lv 1)
-- Growl (Lv 1)
-- Thunder Shock (Lv 3)
-- Quick Attack (Lv 6)
-- Charge (Lv 8)
-- Nuzzle (Lv 12)
-- Dig (Lv 15)
-- Bite (Lv 19)
-- Spark (Lv 23)
-- Thunder Wave (Lv 27)
-- Slam (Lv 32)
-- Power-Up Punch (Lv 35)
-- Entrainment (Lv 38)
-- Discharge (Lv 42)
-- Agility (Lv 46)
-- Wild Charge (Lv 52)
+- <a href="move-lookup.html?q=arm-thrust">Arm Thrust</a> (Lv Evo)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 3)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 6)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 8)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 12)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 15)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 23)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 27)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 32)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 35)
+- <a href="move-lookup.html?q=entrainment">Entrainment</a> (Lv 38)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 42)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 46)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 52)
 
 **Egg Moves**
-- Fake Out
-- Mach Punch
-- Sweet Kiss
-- Wish
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=mach-punch">Mach Punch</a>
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -273,20 +273,20 @@ Types: Electric / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM31 - Brick Break
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. after 1000 Steps as Follower
@@ -307,46 +307,46 @@ Lv. after 1000 Steps as Follower
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
-- Revival Blessing (Lv Evo)
-- Ice Punch (Lv 1)
-- Fire Punch (Lv 1)
-- Rage Fist (Lv 1)
-- Scratch (Lv 1)
-- Growl (Lv 1)
-- Wild Charge (Lv 1)
-- Thunder Shock (Lv 3)
-- Quick Attack (Lv 6)
-- Charge (Lv 8)
-- Nuzzle (Lv 12)
-- Dig (Lv 15)
-- Bite (Lv 19)
-- Spark (Lv 23)
-- Arm Thrust (Lv 25)
-- Thunder Wave (Lv 29)
-- Thunder Punch (Lv 32)
-- Power-Up Punch (Lv 35)
-- Entrainment (Lv 38)
-- Close Combat (Lv 40)
-- Discharge (Lv 42)
-- Double Iron Bash (Lv 45)
-- Agility (Lv 47)
-- Plasma Fists (Lv 55)
+- <a href="move-lookup.html?q=revival-blessing">Revival Blessing</a> (Lv Evo)
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=rage-fist">Rage Fist</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 3)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 6)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 8)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 12)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 15)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 23)
+- <a href="move-lookup.html?q=arm-thrust">Arm Thrust</a> (Lv 25)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 29)
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a> (Lv 32)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 35)
+- <a href="move-lookup.html?q=entrainment">Entrainment</a> (Lv 38)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 40)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 42)
+- <a href="move-lookup.html?q=double-iron-bash">Double Iron Bash</a> (Lv 45)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 47)
+- <a href="move-lookup.html?q=plasma-fists">Plasma Fists</a> (Lv 55)
 
 **Egg Moves**
-- Fake Out
-- Mach Punch
-- Sweet Kiss
-- Wish
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=mach-punch">Mach Punch</a>
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Metronome
-- Sleep Talk
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

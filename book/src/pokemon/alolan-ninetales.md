@@ -30,23 +30,23 @@ Types: Ice / Fairy • Egg Groups: Field
 - Steel (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM28 - Dig
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM54 - Dazzling Gleam
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Snowball
@@ -71,54 +71,54 @@ Snowball
 | Total | <span class="stat-value stat-mid">309</span> |
 
 **Level-Up Moves**
-- Powder Snow (Lv 1)
-- Tail Whip (Lv 4)
-- Roar (Lv 7)
-- Baby-Doll Eyes (Lv 9)
-- Ice Shard (Lv 10)
-- Confuse Ray (Lv 12)
-- Icy Wind (Lv 15)
-- Payback (Lv 18)
-- Deepwater Curse (Lv 20)
-- Feint Attack (Lv 23)
-- Hex (Lv 26)
-- Aurora Beam (Lv 28)
-- Extrasensory (Lv 31)
-- Safeguard (Lv 34)
-- Ice Beam (Lv 36)
-- Imprison (Lv 39)
-- Blizzard (Lv 42)
-- Aqua Step (Lv 44)
-- Captivate (Lv 47)
-- Sheer Cold (Lv 50)
-- Moonblast (Lv 52)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 7)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 10)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 12)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 15)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 18)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 26)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 31)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 34)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 36)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 39)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 42)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv 44)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 47)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 50)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 52)
 
 **Egg Moves**
-- Agility
-- Charm
-- Disable
-- Encore
-- Extrasensory
-- Flail
-- Freeze-Dry
-- Howl
-- Hypnosis
-- Moonblast
-- Power Swap
-- Spite
-- Secret Power
-- Tail Slap
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a>
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=moonblast">Moonblast</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=tail-slap">Tail Slap</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -179,26 +179,26 @@ Types: Ice / Fairy • Egg Groups: Field
 - Steel (4×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM28 - Dig
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM54 - Dazzling Gleam
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Snowball
@@ -222,60 +222,60 @@ Ice Stone
 | Total | <span class="stat-value stat-mid">535</span> |
 
 **Level-Up Moves**
-- Dazzling Gleam (Lv Evo)
-- Imprison (Lv 1)
-- Nasty Plot (Lv 1)
-- Ice Beam (Lv 1)
-- Ice Shard (Lv 1)
-- Powder Snow (Lv 1)
-- Tail Whip (Lv 4)
-- Roar (Lv 7)
-- Baby-Doll Eyes (Lv 9)
-- Ice Shard (Lv 10)
-- Confuse Ray (Lv 12)
-- Icy Wind (Lv 15)
-- Payback (Lv 18)
-- Deepwater Curse (Lv 20)
-- Feint Attack (Lv 23)
-- Hex (Lv 26)
-- Aurora Beam (Lv 28)
-- Extrasensory (Lv 31)
-- Safeguard (Lv 34)
-- Ice Beam (Lv 36)
-- Imprison (Lv 39)
-- Blizzard (Lv 42)
-- Aqua Step (Lv 44)
-- Captivate (Lv 47)
-- Sheer Cold (Lv 50)
-- Moonblast (Lv 52)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv Evo)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 1)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 4)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 7)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 9)
+- <a href="move-lookup.html?q=ice-shard">Ice Shard</a> (Lv 10)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 12)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 15)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 18)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 20)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 23)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 26)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 31)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 34)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 36)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 39)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 42)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv 44)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 47)
+- <a href="move-lookup.html?q=sheer-cold">Sheer Cold</a> (Lv 50)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 52)
 
 **Egg Moves**
-- Agility
-- Charm
-- Disable
-- Encore
-- Extrasensory
-- Flail
-- Freeze-Dry
-- Howl
-- Hypnosis
-- Moonblast
-- Power Swap
-- Spite
-- Secret Power
-- Tail Slap
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=encore">Encore</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a>
+- <a href="move-lookup.html?q=howl">Howl</a>
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a>
+- <a href="move-lookup.html?q=moonblast">Moonblast</a>
+- <a href="move-lookup.html?q=power-swap">Power Swap</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=tail-slap">Tail Slap</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

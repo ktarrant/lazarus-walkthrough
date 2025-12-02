@@ -30,17 +30,17 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Encounter Locations**
 - Acrisia City — Fishing (30%)
@@ -68,26 +68,26 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 | Total | <span class="stat-value stat-low">230</span> |
 
 **Level-Up Moves**
-- Struggle Bug (Lv 1)
-- Sand Attack (Lv 1)
-- Bug Bite (Lv 15)
-- Razor Shell (Lv 25)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 15)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 25)
 
 **Egg Moves**
-- Spikes
-- Metal Claw
-- Wide Guard
-- Harden
-- Aqua Jet
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=harden">Harden</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -148,31 +148,31 @@ Types: Bug / Water • Egg Groups: Bug / Water 3
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM52 - Frost Breath
-- TM55 - Snarl
-- TM56 - Scald
-- TM59 - Dark Pulse
-- HM03 - Surf
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 30
@@ -193,44 +193,44 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- First Impression (Lv Evo)
-- Struggle Bug (Lv 1)
-- Sand Attack (Lv 1)
-- Fury Cutter (Lv 4)
-- Rock Smash (Lv 7)
-- Bug Bite (Lv 10)
-- Spite (Lv 13)
-- Swords Dance (Lv 16)
-- Slash (Lv 21)
-- Razor Shell (Lv 26)
-- Sucker Punch (Lv 31)
-- Pounce (Lv 34)
-- Iron Defense (Lv 36)
-- Flip Turn (Lv 39)
-- Pin Missile (Lv 41)
-- Spiky Shield (Lv 45)
-- Liquidation (Lv 48)
+- <a href="move-lookup.html?q=first-impression">First Impression</a> (Lv Evo)
+- <a href="move-lookup.html?q=struggle-bug">Struggle Bug</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 4)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 7)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 10)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 13)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 16)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 21)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 26)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 31)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 34)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 36)
+- <a href="move-lookup.html?q=flip-turn">Flip Turn</a> (Lv 39)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 41)
+- <a href="move-lookup.html?q=spiky-shield">Spiky Shield</a> (Lv 45)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 48)
 
 **Egg Moves**
-- Spikes
-- Metal Claw
-- Wide Guard
-- Harden
-- Aqua Jet
+- <a href="move-lookup.html?q=spikes">Spikes</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=harden">Harden</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Fury Cutter
-- Icy Wind
-- Psych Up
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

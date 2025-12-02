@@ -25,18 +25,18 @@ Types: Rock • Egg Groups: Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM31 - Brick Break
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM49 - Bulldoze
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Acrisia Mountains — Grass (Day) (2%)
@@ -60,39 +60,39 @@ Types: Rock • Egg Groups: Water 3
 | Total | <span class="stat-value stat-mid">450</span> |
 
 **Level-Up Moves**
-- Vise Grip (Lv 1)
-- Rock Throw (Lv 1)
-- Harden (Lv 6)
-- Rock Smash (Lv 9)
-- Rock Tomb (Lv 13)
-- Fury Cutter (Lv 15)
-- Metal Claw (Lv 17)
-- Protect (Lv 21)
-- Rock Blast (Lv 24)
-- Crush Claw (Lv 27)
-- X-Scissor (Lv 29)
-- Swords Dance (Lv 33)
-- Crabhammer (Lv 35)
-- Flail (Lv 37)
-- Rock Slide (Lv 42)
-- High Horsepower (Lv 45)
-- Strength (Lv 48)
-- Iron Defense (Lv 51)
-- Guillotine (Lv 56)
+- <a href="move-lookup.html?q=vise-grip">Vise Grip</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 6)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 9)
+- <a href="move-lookup.html?q=rock-tomb">Rock Tomb</a> (Lv 13)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 15)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 17)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 21)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 24)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 27)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 29)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 33)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 35)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 37)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 42)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 45)
+- <a href="move-lookup.html?q=strength">Strength</a> (Lv 48)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 51)
+- <a href="move-lookup.html?q=guillotine">Guillotine</a> (Lv 56)
 
 **Egg Moves**
-- Ancient Power
-- Crabhammer
-- Endeavor
-- Knock Off
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a>
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a>
+- <a href="move-lookup.html?q=endeavor">Endeavor</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

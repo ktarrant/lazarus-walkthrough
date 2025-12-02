@@ -34,20 +34,20 @@ Types: Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Grassy Seed
@@ -72,31 +72,31 @@ Grassy Seed
 | Total | <span class="stat-value stat-low">210</span> |
 
 **Level-Up Moves**
-- Splash (Lv 1)
-- Play Nice (Lv 5)
-- Rapid Spin (Lv 9)
-- Razor Leaf (Lv 13)
-- Synthesis (Lv 15)
-- Sweet Scent (Lv 17)
-- Magical Leaf (Lv 21)
-- Teeter Dance (Lv 25)
-- Stomp (Lv 29)
-- Aromatic Mist (Lv 33)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 5)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 13)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 15)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 17)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 21)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 29)
+- <a href="move-lookup.html?q=aromatic-mist">Aromatic Mist</a> (Lv 33)
 
 **Egg Moves**
-- Grass Whistle
-- Synthesis
-- Play Rough
-- Feint
-- Charm
-- Acupressure
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -159,20 +159,20 @@ Types: Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Grassy Seed
@@ -202,35 +202,35 @@ Lv. 18
 | Total | <span class="stat-value stat-low">295</span> |
 
 **Level-Up Moves**
-- Double Slap (Lv Evo)
-- Splash (Lv 1)
-- Play Nice (Lv 5)
-- Rapid Spin (Lv 9)
-- Razor Leaf (Lv 13)
-- Synthesis (Lv 15)
-- Sweet Scent (Lv 17)
-- Magical Leaf (Lv 21)
-- Teeter Dance (Lv 25)
-- Stomp (Lv 29)
-- Aromatic Mist (Lv 33)
-- Captivate (Lv 37)
-- Aromatherapy (Lv 41)
-- Leaf Storm (Lv 45)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv Evo)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 5)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 13)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 15)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 17)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 21)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 29)
+- <a href="move-lookup.html?q=aromatic-mist">Aromatic Mist</a> (Lv 33)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 37)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 41)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 45)
 
 **Egg Moves**
-- Grass Whistle
-- Synthesis
-- Play Rough
-- Feint
-- Charm
-- Acupressure
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
 
 **Tutor Moves**
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -293,21 +293,21 @@ Types: Grass • Egg Groups: Grass
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Held Item**
 Grassy Seed
@@ -331,42 +331,42 @@ Lv. knows Stomp
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Trop Kick (Lv Evo)
-- Punishment (Lv 1)
-- Double Slap (Lv 1)
-- Splash (Lv 1)
-- Swagger (Lv 5)
-- Rapid Spin (Lv 9)
-- Razor Leaf (Lv 13)
-- Synthesis (Lv 15)
-- Sweet Scent (Lv 17)
-- Magical Leaf (Lv 21)
-- Teeter Dance (Lv 25)
-- Stomp (Lv 29)
-- Aromatic Mist (Lv 33)
-- Stomping Tantrum (Lv 35)
-- Captivate (Lv 37)
-- Aromatherapy (Lv 41)
-- High Jump Kick (Lv 43)
-- Leaf Storm (Lv 45)
-- Thunderous Kick (Lv 49)
-- Power Whip (Lv 53)
+- <a href="move-lookup.html?q=trop-kick">Trop Kick</a> (Lv Evo)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 1)
+- <a href="move-lookup.html?q=double-slap">Double Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 5)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a> (Lv 13)
+- <a href="move-lookup.html?q=synthesis">Synthesis</a> (Lv 15)
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a> (Lv 17)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 21)
+- <a href="move-lookup.html?q=teeter-dance">Teeter Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 29)
+- <a href="move-lookup.html?q=aromatic-mist">Aromatic Mist</a> (Lv 33)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 35)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 37)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 41)
+- <a href="move-lookup.html?q=high-jump-kick">High Jump Kick</a> (Lv 43)
+- <a href="move-lookup.html?q=leaf-storm">Leaf Storm</a> (Lv 45)
+- <a href="move-lookup.html?q=thunderous-kick">Thunderous Kick</a> (Lv 49)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 53)
 
 **Egg Moves**
-- Grass Whistle
-- Synthesis
-- Play Rough
-- Feint
-- Charm
-- Acupressure
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=synthesis">Synthesis</a>
+- <a href="move-lookup.html?q=play-rough">Play Rough</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=acupressure">Acupressure</a>
 
 **Tutor Moves**
-- Endure
-- Mega Kick
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -1,9 +1,18 @@
 <details class="pokemon-card-container move-card">
-<summary>Hm01 Cut</summary>
+<summary>Cut</summary>
 
 **Move Info**
 
-_Details unavailable from cache._
+| Field | Value |
+| --- | --- |
+| Type | Normal |
+| Category | Physical |
+| Power | 50 |
+| Accuracy | 95 |
+| PP | 30 |
+| Priority | 0 |
+| Target | Selected Pokemon |
+| Effect | Inflicts regular damage with no additional effect. |
 
 **Learned By**
 

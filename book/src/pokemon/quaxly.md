@@ -31,14 +31,14 @@ Types: Water • Egg Groups: Flying / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM07 - Whirlpool
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM57 - Roost
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -59,30 +59,30 @@ Types: Water • Egg Groups: Flying / Water 1
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Growl (Lv 1)
-- Water Gun (Lv 1)
-- Work Up (Lv 7)
-- Wing Attack (Lv 10)
-- Aqua Jet (Lv 13)
-- Double Hit (Lv 17)
-- Aqua Cutter (Lv 21)
-- Air Slash (Lv 24)
-- Focus Energy (Lv 28)
-- Acrobatics (Lv 31)
-- Liquidation (Lv 35)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 7)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 13)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 17)
+- <a href="move-lookup.html?q=aqua-cutter">Aqua Cutter</a> (Lv 21)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 24)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 28)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 31)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 35)
 
 **Egg Moves**
-- Detect
-- Last Resort
-- Rapid Spin
-- Roost
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
 
 **Tutor Moves**
-- Endure
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -142,15 +142,15 @@ Types: Water • Egg Groups: Flying / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM07 - Whirlpool
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM57 - Roost
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 16
@@ -171,33 +171,33 @@ Lv. 16
 | Total | <span class="stat-value stat-mid">410</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Growl (Lv 1)
-- Water Gun (Lv 1)
-- Double Hit (Lv 1)
-- Work Up (Lv 7)
-- Wing Attack (Lv 10)
-- Aqua Jet (Lv 13)
-- Water Pulse (Lv 17)
-- Low Sweep (Lv 19)
-- Aqua Cutter (Lv 23)
-- Air Slash (Lv 27)
-- Focus Energy (Lv 32)
-- Acrobatics (Lv 38)
-- Liquidation (Lv 43)
-- Feather Dance (Lv 48)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 1)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 7)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 13)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 17)
+- <a href="move-lookup.html?q=low-sweep">Low Sweep</a> (Lv 19)
+- <a href="move-lookup.html?q=aqua-cutter">Aqua Cutter</a> (Lv 23)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 27)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 32)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 38)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 43)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 48)
 
 **Egg Moves**
-- Detect
-- Last Resort
-- Rapid Spin
-- Roost
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
 
 **Tutor Moves**
-- Endure
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -263,18 +263,18 @@ Types: Water / Fighting • Egg Groups: Flying / Water 1
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM07 - Whirlpool
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM31 - Brick Break
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM57 - Roost
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 36
@@ -295,42 +295,42 @@ Lv. 36
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Aqua Step (Lv Evo)
-- Counter (Lv 1)
-- Pound (Lv 1)
-- Growl (Lv 1)
-- Water Gun (Lv 1)
-- Double Hit (Lv 1)
-- Work Up (Lv 7)
-- Wing Attack (Lv 10)
-- Aqua Jet (Lv 13)
-- Low Sweep (Lv 17)
-- Water Pulse (Lv 17)
-- Aqua Cutter (Lv 21)
-- Air Slash (Lv 27)
-- Focus Energy (Lv 32)
-- Mega Kick (Lv 38)
-- Acrobatics (Lv 40)
-- Liquidation (Lv 43)
-- Feather Dance (Lv 46)
-- Close Combat (Lv 50)
-- Wave Crash (Lv 55)
+- <a href="move-lookup.html?q=aqua-step">Aqua Step</a> (Lv Evo)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 1)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 1)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 7)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 10)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 13)
+- <a href="move-lookup.html?q=low-sweep">Low Sweep</a> (Lv 17)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 17)
+- <a href="move-lookup.html?q=aqua-cutter">Aqua Cutter</a> (Lv 21)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 27)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 32)
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a> (Lv 38)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 40)
+- <a href="move-lookup.html?q=liquidation">Liquidation</a> (Lv 43)
+- <a href="move-lookup.html?q=feather-dance">Feather Dance</a> (Lv 46)
+- <a href="move-lookup.html?q=close-combat">Close Combat</a> (Lv 50)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 55)
 
 **Egg Moves**
-- Detect
-- Last Resort
-- Rapid Spin
-- Roost
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=last-resort">Last Resort</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Icy Wind
-- Mega Kick
-- Psych Up
-- Sleep Talk
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

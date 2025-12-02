@@ -31,26 +31,26 @@ Types: Water / Flying • Egg Groups: Water 1 / Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM56 - Scald
-- TM57 - Roost
-- HM02 - Fly
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Pretty Feather
@@ -80,43 +80,43 @@ Pretty Feather
 | Total | <span class="stat-value stat-low">270</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Water Gun (Lv 1)
-- Supersonic (Lv 5)
-- Wing Attack (Lv 8)
-- Mist (Lv 12)
-- Water Pulse (Lv 15)
-- Quick Attack (Lv 19)
-- Air Cutter (Lv 22)
-- Pursuit (Lv 26)
-- Aerial Ace (Lv 29)
-- Roost (Lv 33)
-- Agility (Lv 36)
-- Air Slash (Lv 40)
-- Hurricane (Lv 43)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 5)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 8)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 12)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 15)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 19)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 22)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 26)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 29)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 33)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 36)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 40)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 43)
 
 **Egg Moves**
-- Mist
-- Twister
-- Agility
-- Gust
-- Water Sport
-- Aqua Ring
-- Knock Off
-- Brine
-- Roost
-- Soak
-- Wide Guard
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=twister">Twister</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=water-sport">Water Sport</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=soak">Soak</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -178,26 +178,26 @@ Types: Water / Flying • Egg Groups: Water 1 / Flying
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM56 - Scald
-- TM57 - Roost
-- HM02 - Fly
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Pretty Feather
@@ -224,54 +224,54 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
-- Protect (Lv Evo)
-- Hurricane (Lv 1)
-- Hydro Pump (Lv 1)
-- Tailwind (Lv 1)
-- Soak (Lv 1)
-- Growl (Lv 1)
-- Water Gun (Lv 1)
-- Water Sport (Lv 1)
-- Supersonic (Lv 5)
-- Wing Attack (Lv 8)
-- Mist (Lv 12)
-- Water Pulse (Lv 15)
-- Payback (Lv 19)
-- Brine (Lv 22)
-- Fling (Lv 28)
-- Stockpile (Lv 33)
-- Swallow (Lv 33)
-- Spit Up (Lv 33)
-- Hyper Voice (Lv 37)
-- Roost (Lv 39)
-- Thunder (Lv 42)
-- Tailwind (Lv 44)
-- Hydro Pump (Lv 50)
-- Hurricane (Lv 55)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv Evo)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 1)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 1)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 1)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 5)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 8)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 12)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 15)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 19)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 22)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 33)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 33)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 33)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 37)
+- <a href="move-lookup.html?q=roost">Roost</a> (Lv 39)
+- <a href="move-lookup.html?q=thunder">Thunder</a> (Lv 42)
+- <a href="move-lookup.html?q=tailwind">Tailwind</a> (Lv 44)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
+- <a href="move-lookup.html?q=hurricane">Hurricane</a> (Lv 55)
 
 **Egg Moves**
-- Mist
-- Twister
-- Agility
-- Gust
-- Water Sport
-- Aqua Ring
-- Knock Off
-- Brine
-- Roost
-- Soak
-- Wide Guard
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=twister">Twister</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=water-sport">Water Sport</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=roost">Roost</a>
+- <a href="move-lookup.html?q=soak">Soak</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

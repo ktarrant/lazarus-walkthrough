@@ -31,20 +31,20 @@ Types: Normal / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
 
 **Encounter Locations**
 - Sea of Asteri (East) — Grass (Day) (10%)
@@ -66,44 +66,44 @@ Types: Normal / Fighting • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">340</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Bide (Lv 5)
-- Baby-Doll Eyes (Lv 10)
-- Brutal Swing (Lv 14)
-- Flail (Lv 19)
-- Payback (Lv 23)
-- Take Down (Lv 28)
-- Hammer Arm (Lv 32)
-- Slack Off (Lv 35)
-- Thrash (Lv 37)
-- Pain Split (Lv 41)
-- Double-Edge (Lv 46)
-- Superpower (Lv 50)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 10)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 14)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 19)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 23)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 28)
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a> (Lv 32)
+- <a href="move-lookup.html?q=slack-off">Slack Off</a> (Lv 35)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 37)
+- <a href="move-lookup.html?q=pain-split">Pain Split</a> (Lv 41)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 46)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 50)
 
 **Egg Moves**
-- Ice Punch
-- Thunder Punch
-- Force Palm
-- Endure
-- Wide Guard
-- Mega Kick
-- Stomping Tantrum
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=force-palm">Force Palm</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -165,21 +165,21 @@ Types: Normal / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
 
 **Evolution Info**
 Lv. 27
@@ -204,46 +204,46 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Bind (Lv Evo)
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Bide (Lv 5)
-- Baby-Doll Eyes (Lv 10)
-- Brutal Swing (Lv 14)
-- Flail (Lv 19)
-- Payback (Lv 23)
-- Take Down (Lv 28)
-- Hammer Arm (Lv 32)
-- Slack Off (Lv 35)
-- Thrash (Lv 37)
-- Pain Split (Lv 41)
-- Double-Edge (Lv 46)
-- Superpower (Lv 50)
+- <a href="move-lookup.html?q=bind">Bind</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 5)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 10)
+- <a href="move-lookup.html?q=brutal-swing">Brutal Swing</a> (Lv 14)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 19)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 23)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 28)
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a> (Lv 32)
+- <a href="move-lookup.html?q=slack-off">Slack Off</a> (Lv 35)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 37)
+- <a href="move-lookup.html?q=pain-split">Pain Split</a> (Lv 41)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 46)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 50)
 
 **Egg Moves**
-- Ice Punch
-- Thunder Punch
-- Force Palm
-- Endure
-- Wide Guard
-- Mega Kick
-- Stomping Tantrum
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=force-palm">Force Palm</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a>
 
 **Tutor Moves**
-- Body Slam
-- Defense Curl
-- Double-Edge
-- Endure
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

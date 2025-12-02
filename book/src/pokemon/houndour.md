@@ -36,26 +36,26 @@ Types: Dark / Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (10%)
@@ -76,52 +76,52 @@ Types: Dark / Fire • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">335</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Howl (Lv 4)
-- Smog (Lv 8)
-- Roar (Lv 13)
-- Bite (Lv 16)
-- Pounce (Lv 18)
-- Odor Sleuth (Lv 20)
-- Fire Fang (Lv 24)
-- Work Up (Lv 26)
-- Beat Up (Lv 28)
-- Crunch (Lv 32)
-- Embargo (Lv 36)
-- Flamethrower (Lv 39)
-- Foul Play (Lv 42)
-- Dark Pulse (Lv 45)
-- Nasty Plot (Lv 46)
-- Inferno (Lv 56)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 4)
+- <a href="move-lookup.html?q=smog">Smog</a> (Lv 8)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 16)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 18)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 26)
+- <a href="move-lookup.html?q=beat-up">Beat Up</a> (Lv 28)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 32)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 36)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 39)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 42)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 56)
 
 **Egg Moves**
-- Fire Spin
-- Rage
-- Pursuit
-- Counter
-- Spite
-- Reversal
-- Beat Up
-- Fire Fang
-- Thunder Fang
-- Nasty Plot
-- Punishment
-- Feint
-- Sucker Punch
-- Destiny Bond
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -186,27 +186,27 @@ Types: Dark / Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 24
@@ -231,55 +231,55 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Nasty Plot (Lv Evo)
-- Inferno (Lv 1)
-- Thunder Fang (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Howl (Lv 4)
-- Smog (Lv 8)
-- Roar (Lv 13)
-- Bite (Lv 16)
-- Pounce (Lv 18)
-- Odor Sleuth (Lv 20)
-- Fire Fang (Lv 24)
-- Work Up (Lv 26)
-- Beat Up (Lv 28)
-- Crunch (Lv 32)
-- Embargo (Lv 36)
-- Flamethrower (Lv 39)
-- Foul Play (Lv 42)
-- Dark Pulse (Lv 45)
-- Nasty Plot (Lv 46)
-- Inferno (Lv 56)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv Evo)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 4)
+- <a href="move-lookup.html?q=smog">Smog</a> (Lv 8)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 16)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 18)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 26)
+- <a href="move-lookup.html?q=beat-up">Beat Up</a> (Lv 28)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 32)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 36)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 39)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 42)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 56)
 
 **Egg Moves**
-- Fire Spin
-- Rage
-- Pursuit
-- Counter
-- Spite
-- Reversal
-- Beat Up
-- Fire Fang
-- Thunder Fang
-- Nasty Plot
-- Punishment
-- Feint
-- Sucker Punch
-- Destiny Bond
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -342,27 +342,27 @@ Types: Dark / Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Houndoominite
@@ -383,55 +383,55 @@ Houndoominite
 | Total | <span class="stat-value stat-high">605</span> |
 
 **Level-Up Moves**
-- Nasty Plot (Lv Evo)
-- Inferno (Lv 1)
-- Thunder Fang (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 1)
-- Howl (Lv 4)
-- Smog (Lv 8)
-- Roar (Lv 13)
-- Bite (Lv 16)
-- Pounce (Lv 18)
-- Odor Sleuth (Lv 20)
-- Fire Fang (Lv 24)
-- Work Up (Lv 26)
-- Beat Up (Lv 28)
-- Crunch (Lv 32)
-- Embargo (Lv 36)
-- Flamethrower (Lv 39)
-- Foul Play (Lv 42)
-- Dark Pulse (Lv 45)
-- Nasty Plot (Lv 46)
-- Inferno (Lv 56)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv Evo)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 4)
+- <a href="move-lookup.html?q=smog">Smog</a> (Lv 8)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 13)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 16)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 18)
+- <a href="move-lookup.html?q=odor-sleuth">Odor Sleuth</a> (Lv 20)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=work-up">Work Up</a> (Lv 26)
+- <a href="move-lookup.html?q=beat-up">Beat Up</a> (Lv 28)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 32)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 36)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 39)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 42)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=inferno">Inferno</a> (Lv 56)
 
 **Egg Moves**
-- Fire Spin
-- Rage
-- Pursuit
-- Counter
-- Spite
-- Reversal
-- Beat Up
-- Fire Fang
-- Thunder Fang
-- Nasty Plot
-- Punishment
-- Feint
-- Sucker Punch
-- Destiny Bond
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=spite">Spite</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=punishment">Punishment</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

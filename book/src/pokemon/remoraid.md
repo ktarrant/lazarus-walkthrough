@@ -29,28 +29,28 @@ Types: Water • Egg Groups: Water 1 / Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- TM58 - Thunder Wave
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Acrisia City — Fishing (40%)
@@ -90,47 +90,47 @@ Types: Water • Egg Groups: Water 1 / Water 2
 | Total | <span class="stat-value stat-low">305</span> |
 
 **Level-Up Moves**
-- Water Gun (Lv 1)
-- Lock-On (Lv 6)
-- Psybeam (Lv 10)
-- Aurora Beam (Lv 14)
-- Bubble Beam (Lv 18)
-- Focus Energy (Lv 22)
-- Water Pulse (Lv 26)
-- Signal Beam (Lv 30)
-- Ice Beam (Lv 34)
-- Bullet Seed (Lv 38)
-- Hydro Pump (Lv 42)
-- Hyper Beam (Lv 46)
-- Soak (Lv 50)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=lock-on">Lock-On</a> (Lv 6)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 10)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 14)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 18)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 22)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 26)
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a> (Lv 30)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 34)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 38)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 42)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 46)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 50)
 
 **Egg Moves**
-- Aurora Beam
-- Octazooka
-- Supersonic
-- Haze
-- Screech
-- Rock Blast
-- Snore
-- Flail
-- Water Spout
-- Mud Shot
-- Swift
-- Acid Spray
-- Water Pulse
-- Entrainment
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a>
+- <a href="move-lookup.html?q=octazooka">Octazooka</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=water-spout">Water Spout</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
 
 **Tutor Moves**
-- Acid Spray
-- Defense Curl
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -192,29 +192,29 @@ Types: Water / Fire • Egg Groups: Water 1 / Water 2
 - Rock (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- TM58 - Thunder Wave
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 27
@@ -240,56 +240,56 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">495</span> |
 
 **Level-Up Moves**
-- Oktazooka (Lv Evo)
-- Gunk Shot (Lv 1)
-- Rock Blast (Lv 1)
-- Water Gun (Lv 1)
-- Constrict (Lv 6)
-- Psybeam (Lv 10)
-- Aurora Beam (Lv 14)
-- Bubble Beam (Lv 18)
-- Focus Energy (Lv 22)
-- Wring Out (Lv 28)
-- Flame Burst (Lv 32)
-- Signal Beam (Lv 34)
-- Rock Blast (Lv 37)
-- Ice Beam (Lv 40)
-- Aura Sphere (Lv 43)
-- Bullet Seed (Lv 46)
-- Flamethrower (Lv 47)
-- Dragon Pulse (Lv 52)
-- Hydro Pump (Lv 55)
-- Hyper Beam (Lv 58)
-- Soak (Lv 64)
+- <a href="move-lookup.html?q=oktazooka">Oktazooka</a> (Lv Evo)
+- <a href="move-lookup.html?q=gunk-shot">Gunk Shot</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=constrict">Constrict</a> (Lv 6)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 10)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 14)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 18)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 22)
+- <a href="move-lookup.html?q=wring-out">Wring Out</a> (Lv 28)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 32)
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a> (Lv 34)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 37)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 40)
+- <a href="move-lookup.html?q=aura-sphere">Aura Sphere</a> (Lv 43)
+- <a href="move-lookup.html?q=bullet-seed">Bullet Seed</a> (Lv 46)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 47)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 52)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 55)
+- <a href="move-lookup.html?q=hyper-beam">Hyper Beam</a> (Lv 58)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 64)
 
 **Egg Moves**
-- Aurora Beam
-- Octazooka
-- Supersonic
-- Haze
-- Screech
-- Rock Blast
-- Snore
-- Flail
-- Water Spout
-- Mud Shot
-- Swift
-- Acid Spray
-- Water Pulse
-- Entrainment
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a>
+- <a href="move-lookup.html?q=octazooka">Octazooka</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=water-spout">Water Spout</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
 
 **Tutor Moves**
-- Acid Spray
-- Defense Curl
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

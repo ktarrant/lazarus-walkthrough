@@ -27,21 +27,21 @@ Types: Rock / Bug • Egg Groups: Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (6%)
@@ -64,47 +64,47 @@ Types: Rock / Bug • Egg Groups: Water 3
 | Total | <span class="stat-value stat-mid">360</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Harden (Lv 1)
-- Mud Sport (Lv 4)
-- Bubble (Lv 7)
-- Fury Cutter (Lv 10)
-- Smack Down (Lv 13)
-- Water Gun (Lv 15)
-- Metal Claw (Lv 17)
-- Ancient Power (Lv 21)
-- Bug Bite (Lv 25)
-- Razor Shell (Lv 29)
-- Slash (Lv 34)
-- Crush Claw (Lv 37)
-- X-Scissor (Lv 40)
-- Surging Strikes (Lv 44)
-- Protect (Lv 49)
-- Rock Blast (Lv 53)
-- Stone Axe (Lv 55)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 4)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 7)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 10)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 13)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 15)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 17)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 21)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 25)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 29)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 34)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 40)
+- <a href="move-lookup.html?q=surging-strikes">Surging Strikes</a> (Lv 44)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 49)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 53)
+- <a href="move-lookup.html?q=stone-axe">Stone Axe</a> (Lv 55)
 
 **Egg Moves**
-- Rapid Spin
-- Knock Off
-- Screech
-- Sand Attack
-- Cross Poison
-- Curse
-- Iron Defense
-- Water Pulse
-- Aqua Jet
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -162,24 +162,24 @@ Types: Rock / Bug • Egg Groups: Water 3
 - Steel (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 40
@@ -200,47 +200,47 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Harden (Lv 1)
-- Mud Sport (Lv 4)
-- Water Gun (Lv 7)
-- Fury Cutter (Lv 10)
-- Smack Down (Lv 13)
-- Metal Claw (Lv 17)
-- Ancient Power (Lv 21)
-- Bug Bite (Lv 25)
-- Razor Shell (Lv 29)
-- Slash (Lv 34)
-- Crush Claw (Lv 37)
-- X-Scissor (Lv 40)
-- Surging Strikes (Lv 44)
-- Protect (Lv 49)
-- Rock Blast (Lv 53)
-- Stone Axe (Lv 55)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 4)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 7)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 10)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 13)
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a> (Lv 17)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 21)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 25)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 29)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 34)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 40)
+- <a href="move-lookup.html?q=surging-strikes">Surging Strikes</a> (Lv 44)
+- <a href="move-lookup.html?q=protect">Protect</a> (Lv 49)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 53)
+- <a href="move-lookup.html?q=stone-axe">Stone Axe</a> (Lv 55)
 
 **Egg Moves**
-- Rapid Spin
-- Knock Off
-- Screech
-- Sand Attack
-- Cross Poison
-- Curse
-- Iron Defense
-- Water Pulse
-- Aqua Jet
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=curse">Curse</a>
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

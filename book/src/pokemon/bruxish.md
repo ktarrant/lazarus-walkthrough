@@ -27,31 +27,31 @@ Types: Water / Psychic • Egg Groups: Water 2
 - Dark (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM32 - Double Team
-- TM33 - Reflect
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM45 - Attract
-- TM52 - Frost Breath
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Razor Fang
@@ -82,37 +82,37 @@ Razor Fang
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
-- Water Gun (Lv 1)
-- Astonish (Lv 4)
-- Confusion (Lv 9)
-- Bite (Lv 12)
-- Aqua Jet (Lv 17)
-- Disable (Lv 20)
-- Draining Kiss (Lv 22)
-- Ice Fang (Lv 24)
-- Psywave (Lv 26)
-- Crunch (Lv 28)
-- Covet (Lv 30)
-- Aqua Tail (Lv 33)
-- Screech (Lv 36)
-- Psychic Fangs (Lv 39)
-- Poison Fang (Lv 41)
-- Synchronoise (Lv 44)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 4)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 9)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 12)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 17)
+- <a href="move-lookup.html?q=disable">Disable</a> (Lv 20)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 22)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 24)
+- <a href="move-lookup.html?q=psywave">Psywave</a> (Lv 26)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 28)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 30)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 33)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 36)
+- <a href="move-lookup.html?q=psychic-fangs">Psychic Fangs</a> (Lv 39)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 41)
+- <a href="move-lookup.html?q=synchronoise">Synchronoise</a> (Lv 44)
 
 **Egg Moves**
-- Water Pulse
-- Poison Fang
-- Ice Fang
-- Rage
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a>
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a>
+- <a href="move-lookup.html?q=rage">Rage</a>
 
 **Tutor Moves**
-- Dream Eater
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

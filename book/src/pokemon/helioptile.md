@@ -31,28 +31,28 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM03 - Surf
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Sun Stone
@@ -73,47 +73,47 @@ Sun Stone
 | Total | <span class="stat-value stat-mid">491</span> |
 
 **Level-Up Moves**
-- Snarl (Lv Evo)
-- Eerie Impulse (Lv Evo)
-- Pound (Lv 1)
-- Tail Whip (Lv 1)
-- Thunder Shock (Lv 6)
-- Charge (Lv 11)
-- Mud-Slap (Lv 13)
-- Quick Attack (Lv 17)
-- Dig (Lv 20)
-- Uproar (Lv 22)
-- Parabolic Charge (Lv 25)
-- Nuzzle (Lv 27)
-- Flame Burst (Lv 29)
-- Thunder Wave (Lv 31)
-- Bulldoze (Lv 34)
-- Volt Switch (Lv 36)
-- Discharge (Lv 38)
-- Flamethrower (Lv 41)
-- Electrify (Lv 43)
-- Thunderbolt (Lv 46)
-- Hyper Voice (Lv 50)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv Evo)
+- <a href="move-lookup.html?q=eerie-impulse">Eerie Impulse</a> (Lv Evo)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 6)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 11)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 13)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 17)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 20)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 22)
+- <a href="move-lookup.html?q=parabolic-charge">Parabolic Charge</a> (Lv 25)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 27)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 29)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 31)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 34)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 36)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 38)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 41)
+- <a href="move-lookup.html?q=electrify">Electrify</a> (Lv 43)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv 46)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 50)
 
 **Egg Moves**
-- Agility
-- Glare
-- Camouflage
-- Electric Terrain
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=glare">Glare</a>
+- <a href="move-lookup.html?q=camouflage">Camouflage</a>
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a>
 
 **Tutor Moves**
-- Endure
-- Fire Punch
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -173,26 +173,26 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM03 - Surf
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (5%)
@@ -216,41 +216,41 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster
 | Total | <span class="stat-value stat-low">289</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Tail Whip (Lv 1)
-- Thunder Shock (Lv 6)
-- Charge (Lv 11)
-- Mud-Slap (Lv 13)
-- Quick Attack (Lv 17)
-- Dig (Lv 20)
-- Uproar (Lv 22)
-- Parabolic Charge (Lv 25)
-- Nuzzle (Lv 27)
-- Flame Burst (Lv 29)
-- Thunder Wave (Lv 31)
-- Bulldoze (Lv 34)
-- Volt Switch (Lv 36)
-- Discharge (Lv 38)
-- Flamethrower (Lv 41)
-- Electrify (Lv 43)
-- Thunderbolt (Lv 46)
-- Hyper Voice (Lv 50)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 6)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 11)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 13)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 17)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 20)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 22)
+- <a href="move-lookup.html?q=parabolic-charge">Parabolic Charge</a> (Lv 25)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 27)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 29)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 31)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 34)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 36)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 38)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 41)
+- <a href="move-lookup.html?q=electrify">Electrify</a> (Lv 43)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv 46)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 50)
 
 **Egg Moves**
-- Agility
-- Glare
-- Camouflage
-- Electric Terrain
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=glare">Glare</a>
+- <a href="move-lookup.html?q=camouflage">Camouflage</a>
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a>
 
 **Tutor Moves**
-- Endure
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -308,28 +308,28 @@ Types: Electric / Normal • Egg Groups: Dragon / Monster
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM03 - Surf
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Heliolite
@@ -350,47 +350,47 @@ Heliolite
 | Total | <span class="stat-value stat-high">591</span> |
 
 **Level-Up Moves**
-- Snarl (Lv Evo)
-- Eerie Impulse (Lv Evo)
-- Pound (Lv 1)
-- Tail Whip (Lv 1)
-- Thunder Shock (Lv 6)
-- Charge (Lv 11)
-- Mud-Slap (Lv 13)
-- Quick Attack (Lv 17)
-- Dig (Lv 20)
-- Uproar (Lv 22)
-- Parabolic Charge (Lv 25)
-- Nuzzle (Lv 27)
-- Flame Burst (Lv 29)
-- Thunder Wave (Lv 31)
-- Bulldoze (Lv 34)
-- Volt Switch (Lv 36)
-- Discharge (Lv 38)
-- Flamethrower (Lv 41)
-- Electrify (Lv 43)
-- Thunderbolt (Lv 46)
-- Hyper Voice (Lv 50)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv Evo)
+- <a href="move-lookup.html?q=eerie-impulse">Eerie Impulse</a> (Lv Evo)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-shock">Thunder Shock</a> (Lv 6)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 11)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 13)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 17)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 20)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 22)
+- <a href="move-lookup.html?q=parabolic-charge">Parabolic Charge</a> (Lv 25)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 27)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 29)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 31)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 34)
+- <a href="move-lookup.html?q=volt-switch">Volt Switch</a> (Lv 36)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 38)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 41)
+- <a href="move-lookup.html?q=electrify">Electrify</a> (Lv 43)
+- <a href="move-lookup.html?q=thunderbolt">Thunderbolt</a> (Lv 46)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 50)
 
 **Egg Moves**
-- Agility
-- Glare
-- Camouflage
-- Electric Terrain
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=glare">Glare</a>
+- <a href="move-lookup.html?q=camouflage">Camouflage</a>
+- <a href="move-lookup.html?q=electric-terrain">Electric Terrain</a>
 
 **Tutor Moves**
-- Endure
-- Fire Punch
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

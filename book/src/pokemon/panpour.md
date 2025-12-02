@@ -31,27 +31,27 @@ Types: Water / Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- HM01 - Cut
-- HM03 - Surf
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Acrisia City — Grass (Day) (5%)
@@ -73,44 +73,44 @@ Types: Water / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">336</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Play Nice (Lv 1)
-- Leer (Lv 4)
-- Lick (Lv 7)
-- Water Gun (Lv 10)
-- Fury Swipes (Lv 13)
-- Water Sport (Lv 16)
-- Bite (Lv 19)
-- Bubble Beam (Lv 22)
-- Taunt (Lv 25)
-- Fling (Lv 28)
-- Extrasensory (Lv 30)
-- Acrobatics (Lv 32)
-- Scald (Lv 34)
-- Recycle (Lv 37)
-- Natural Gift (Lv 40)
-- Crunch (Lv 43)
-- Take Heart (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 16)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 22)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 30)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 34)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 37)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 43)
+- <a href="move-lookup.html?q=take-heart">Take Heart</a> (Lv 46)
 
 **Egg Moves**
-- Covet
-- Low Kick
-- Tickle
-- Nasty Plot
-- Role Play
-- Astonish
-- Aqua Ring
-- Aqua Tail
-- Mud Sport
-- Hydro Pump
-- Disarming Voice
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
 
 **Tutor Moves**
-- Ice Punch
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -172,29 +172,29 @@ Types: Water / Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM56 - Scald
-- HM01 - Cut
-- HM03 - Surf
-- HM06 - Rock Smash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Water Stone
@@ -215,45 +215,45 @@ Water Stone
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Play Nice (Lv 1)
-- Leer (Lv 4)
-- Lick (Lv 7)
-- Water Gun (Lv 10)
-- Fury Swipes (Lv 13)
-- Water Sport (Lv 16)
-- Bite (Lv 19)
-- Bubble Beam (Lv 22)
-- Taunt (Lv 25)
-- Fling (Lv 28)
-- Extrasensory (Lv 30)
-- Acrobatics (Lv 32)
-- Scald (Lv 34)
-- Recycle (Lv 37)
-- Natural Gift (Lv 40)
-- Crunch (Lv 43)
-- Take Heart (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=play-nice">Play Nice</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 7)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 10)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 16)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 22)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 28)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 30)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 32)
+- <a href="move-lookup.html?q=scald">Scald</a> (Lv 34)
+- <a href="move-lookup.html?q=recycle">Recycle</a> (Lv 37)
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 43)
+- <a href="move-lookup.html?q=take-heart">Take Heart</a> (Lv 46)
 
 **Egg Moves**
-- Covet
-- Low Kick
-- Tickle
-- Nasty Plot
-- Role Play
-- Astonish
-- Aqua Ring
-- Aqua Tail
-- Mud Sport
-- Hydro Pump
-- Disarming Voice
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=low-kick">Low Kick</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=role-play">Role Play</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a>
+- <a href="move-lookup.html?q=disarming-voice">Disarming Voice</a>
 
 **Tutor Moves**
-- Ice Punch
-- Icy Wind
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

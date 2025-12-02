@@ -20,24 +20,24 @@ Types: Electric • Egg Groups: Fairy / Field
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM58 - Thunder Wave
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (10%)
@@ -60,48 +60,48 @@ Types: Electric • Egg Groups: Fairy / Field
 | Total | <span class="stat-value stat-mid">455</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Bide (Lv 1)
-- Quick Attack (Lv 5)
-- Charm (Lv 9)
-- Spark (Lv 13)
-- Endure (Lv 17)
-- Nuzzle (Lv 19)
-- Swift (Lv 21)
-- Electro Ball (Lv 25)
-- Sweet Kiss (Lv 29)
-- Thunder Wave (Lv 33)
-- Super Fang (Lv 37)
-- Discharge (Lv 41)
-- Last Resort (Lv 45)
-- Hyper Fang (Lv 49)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 9)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 13)
+- <a href="move-lookup.html?q=endure">Endure</a> (Lv 17)
+- <a href="move-lookup.html?q=nuzzle">Nuzzle</a> (Lv 19)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 21)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 25)
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a> (Lv 29)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 33)
+- <a href="move-lookup.html?q=super-fang">Super Fang</a> (Lv 37)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 41)
+- <a href="move-lookup.html?q=last-resort">Last Resort</a> (Lv 45)
+- <a href="move-lookup.html?q=hyper-fang">Hyper Fang</a> (Lv 49)
 
 **Egg Moves**
-- Covet
-- Bite
-- Fake Tears
-- Defense Curl
-- Rollout
-- Flatter
-- Flail
-- Iron Tail
-- Tail Whip
-- Follow Me
-- Charge
-- Bestow
-- Ion Deluge
-- Baby-Doll Eyes
+- <a href="move-lookup.html?q=covet">Covet</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=flatter">Flatter</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a>
+- <a href="move-lookup.html?q=follow-me">Follow Me</a>
+- <a href="move-lookup.html?q=charge">Charge</a>
+- <a href="move-lookup.html?q=bestow">Bestow</a>
+- <a href="move-lookup.html?q=ion-deluge">Ion Deluge</a>
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a>
 
 **Tutor Moves**
-- Defense Curl
-- Endure
-- Mud-Slap
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

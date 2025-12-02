@@ -35,29 +35,29 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM54 - Dazzling Gleam
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Encounter Locations**
 - Erinys Path (East) — Grass (Day) (20%)
@@ -79,52 +79,52 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 | Total | <span class="stat-value stat-mid">310</span> |
 
 **Level-Up Moves**
-- Hypnosis (Lv 1)
-- Lick (Lv 1)
-- Spite (Lv 5)
-- Mean Look (Lv 8)
-- Curse (Lv 12)
-- Night Shade (Lv 15)
-- Sludge (Lv 17)
-- Confuse Ray (Lv 19)
-- Sucker Punch (Lv 22)
-- Payback (Lv 26)
-- Shadow Ball (Lv 29)
-- Sludge Bomb (Lv 36?)
-- Dream Eater (Lv 33)
-- Dark Pulse (Lv 36)
-- Destiny Bond (Lv 40)
-- Hex (Lv 43)
-- Nightmare (Lv 47)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 1)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 5)
+- <a href="move-lookup.html?q=mean-look">Mean Look</a> (Lv 8)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 12)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 15)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 17)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 19)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 22)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 26)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 29)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 36?)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 33)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 36)
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a> (Lv 40)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 43)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 47)
 
 **Egg Moves**
-- Psywave
-- Perish Song
-- Haze
-- Astonish
-- Grudge
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Disable
-- Scary Face
-- Clear Smog
-- Smog
-- Reflect Type
+- <a href="move-lookup.html?q=psywave">Psywave</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=grudge">Grudge</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=smog">Smog</a>
+- <a href="move-lookup.html?q=reflect-type">Reflect Type</a>
 
 **Tutor Moves**
-- Acid Spray
-- Dream Eater
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -186,29 +186,29 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM54 - Dazzling Gleam
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Lv. 25
@@ -229,54 +229,54 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">405</span> |
 
 **Level-Up Moves**
-- Shadow Punch (Lv Evo)
-- Hypnosis (Lv 1)
-- Lick (Lv 1)
-- Spite (Lv 5)
-- Mean Look (Lv 8)
-- Curse (Lv 12)
-- Night Shade (Lv 15)
-- Sludge (Lv 17)
-- Confuse Ray (Lv 19)
-- Sucker Punch (Lv 22)
-- Payback (Lv 28)
-- Shadow Ball (Lv 33)
-- Sludge Bomb (Lv 36)
-- Dream Eater (Lv 39)
-- Dark Pulse (Lv 44)
-- Destiny Bond (Lv 50)
-- Hex (Lv 55)
-- Nightmare (Lv 61)
+- <a href="move-lookup.html?q=shadow-punch">Shadow Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 1)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 5)
+- <a href="move-lookup.html?q=mean-look">Mean Look</a> (Lv 8)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 12)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 15)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 17)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 19)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 22)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 28)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 33)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 36)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 39)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 44)
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a> (Lv 50)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 55)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 61)
 
 **Egg Moves**
-- Psywave
-- Perish Song
-- Haze
-- Astonish
-- Grudge
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Disable
-- Scary Face
-- Clear Smog
-- Smog
-- Reflect Type
+- <a href="move-lookup.html?q=psywave">Psywave</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=grudge">Grudge</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=smog">Smog</a>
+- <a href="move-lookup.html?q=reflect-type">Reflect Type</a>
 
 **Tutor Moves**
-- Acid Spray
-- Dream Eater
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Metronome
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -338,34 +338,34 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Linking Cord
@@ -386,61 +386,61 @@ Linking Cord
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Shadow Punch (Lv Evo)
-- Hypnosis (Lv 1)
-- Lick (Lv 1)
-- Spite (Lv 5)
-- Mean Look (Lv 8)
-- Curse (Lv 12)
-- Night Shade (Lv 15)
-- Sludge (Lv 17)
-- Confuse Ray (Lv 19)
-- Sucker Punch (Lv 22)
-- Payback (Lv 28)
-- Shadow Ball (Lv 33)
-- Sludge Bomb (Lv 36)
-- Dream Eater (Lv 39)
-- Dark Pulse (Lv 44)
-- Destiny Bond (Lv 50)
-- Hex (Lv 55)
-- Nightmare (Lv 61)
+- <a href="move-lookup.html?q=shadow-punch">Shadow Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 1)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 5)
+- <a href="move-lookup.html?q=mean-look">Mean Look</a> (Lv 8)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 12)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 15)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 17)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 19)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 22)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 28)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 33)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 36)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 39)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 44)
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a> (Lv 50)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 55)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 61)
 
 **Egg Moves**
-- Psywave
-- Perish Song
-- Haze
-- Astonish
-- Grudge
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Disable
-- Scary Face
-- Clear Smog
-- Smog
-- Reflect Type
+- <a href="move-lookup.html?q=psywave">Psywave</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=grudge">Grudge</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=smog">Smog</a>
+- <a href="move-lookup.html?q=reflect-type">Reflect Type</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Dynamic Punch
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Psych Up
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -502,34 +502,34 @@ Types: Ghost / Poison • Egg Groups: Amorphous
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM20 - Poison Jab
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM51 - Will-O-Wisp
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Gengarite
@@ -550,61 +550,61 @@ Gengarite
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Shadow Punch (Lv Evo)
-- Hypnosis (Lv 1)
-- Lick (Lv 1)
-- Spite (Lv 5)
-- Mean Look (Lv 8)
-- Curse (Lv 12)
-- Night Shade (Lv 15)
-- Sludge (Lv 17)
-- Confuse Ray (Lv 19)
-- Sucker Punch (Lv 22)
-- Payback (Lv 28)
-- Shadow Ball (Lv 33)
-- Sludge Bomb (Lv 36)
-- Dream Eater (Lv 39)
-- Dark Pulse (Lv 44)
-- Destiny Bond (Lv 50)
-- Hex (Lv 55)
-- Nightmare (Lv 61)
+- <a href="move-lookup.html?q=shadow-punch">Shadow Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=hypnosis">Hypnosis</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 1)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 5)
+- <a href="move-lookup.html?q=mean-look">Mean Look</a> (Lv 8)
+- <a href="move-lookup.html?q=curse">Curse</a> (Lv 12)
+- <a href="move-lookup.html?q=night-shade">Night Shade</a> (Lv 15)
+- <a href="move-lookup.html?q=sludge">Sludge</a> (Lv 17)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 19)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 22)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 28)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 33)
+- <a href="move-lookup.html?q=sludge-bomb">Sludge Bomb</a> (Lv 36)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 39)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 44)
+- <a href="move-lookup.html?q=destiny-bond">Destiny Bond</a> (Lv 50)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 55)
+- <a href="move-lookup.html?q=nightmare">Nightmare</a> (Lv 61)
 
 **Egg Moves**
-- Psywave
-- Perish Song
-- Haze
-- Astonish
-- Grudge
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Disable
-- Scary Face
-- Clear Smog
-- Smog
-- Reflect Type
+- <a href="move-lookup.html?q=psywave">Psywave</a>
+- <a href="move-lookup.html?q=perish-song">Perish Song</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=astonish">Astonish</a>
+- <a href="move-lookup.html?q=grudge">Grudge</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=disable">Disable</a>
+- <a href="move-lookup.html?q=scary-face">Scary Face</a>
+- <a href="move-lookup.html?q=clear-smog">Clear Smog</a>
+- <a href="move-lookup.html?q=smog">Smog</a>
+- <a href="move-lookup.html?q=reflect-type">Reflect Type</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Double-Edge
-- Dream Eater
-- Dynamic Punch
-- Endure
-- Explosion
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Metronome
-- Psych Up
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

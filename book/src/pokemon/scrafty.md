@@ -32,30 +32,30 @@ Types: Dark / Fighting • Egg Groups: Dragon / Field
 - Fairy (4×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Shed Shell
@@ -81,56 +81,56 @@ Shed Shell
 | Total | <span class="stat-value stat-mid">348</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Headbutt (Lv 1)
-- Sand Attack (Lv 5)
-- Feint Attack (Lv 9)
-- Swagger (Lv 12)
-- Low Kick (Lv 16)
-- Payback (Lv 19)
-- Brick Break (Lv 21)
-- Poison Jab (Lv 25)
-- Chip Away (Lv 27)
-- High Jump Kick (Lv 31)
-- Scary Face (Lv 34)
-- Crunch (Lv 38)
-- Facade (Lv 42)
-- Rock Climb (Lv 45)
-- Focus Punch (Lv 48)
-- Head Smash (Lv 50)
-- Stomping Tantrum (Lv 53)
-- Wild Charge (Lv 55)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 9)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 12)
+- <a href="move-lookup.html?q=low-kick">Low Kick</a> (Lv 16)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 19)
+- <a href="move-lookup.html?q=brick-break">Brick Break</a> (Lv 21)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 25)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 27)
+- <a href="move-lookup.html?q=high-jump-kick">High Jump Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 38)
+- <a href="move-lookup.html?q=facade">Facade</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a> (Lv 45)
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a> (Lv 48)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 50)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 53)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 55)
 
 **Egg Moves**
-- Drain Punch
-- Counter
-- Dragon Dance
-- Detect
-- Fake Out
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Amnesia
-- Feint Attack
-- Zen Headbutt
-- Quick Guard
-- Power-Up Punch
-- Acid Spray
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
 
 **Tutor Moves**
-- Acid Spray
-- Counter
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -191,30 +191,30 @@ Types: Dark / Fighting • Egg Groups: Dragon / Field
 - Fairy (4×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Shed Shell
@@ -241,60 +241,60 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Drain Punch (Lv Evo)
-- Leer (Lv 1)
-- Headbutt (Lv 1)
-- Sand Attack (Lv 5)
-- Feint Attack (Lv 9)
-- Swagger (Lv 12)
-- Low Kick (Lv 16)
-- Payback (Lv 19)
-- Brick Break (Lv 21)
-- Poison Jab (Lv 25)
-- Chip Away (Lv 27)
-- High Jump Kick (Lv 31)
-- Scary Face (Lv 34)
-- Crunch (Lv 38)
-- Facade (Lv 42)
-- Rock Climb (Lv 45)
-- Focus Punch (Lv 48)
-- Head Smash (Lv 50)
-- Stomping Tantrum (Lv 53)
-- Wild Charge (Lv 55)
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 9)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 12)
+- <a href="move-lookup.html?q=low-kick">Low Kick</a> (Lv 16)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 19)
+- <a href="move-lookup.html?q=brick-break">Brick Break</a> (Lv 21)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 25)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 27)
+- <a href="move-lookup.html?q=high-jump-kick">High Jump Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 38)
+- <a href="move-lookup.html?q=facade">Facade</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a> (Lv 45)
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a> (Lv 48)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 50)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 53)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 55)
 
 **Egg Moves**
-- Drain Punch
-- Counter
-- Dragon Dance
-- Detect
-- Fake Out
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Amnesia
-- Feint Attack
-- Zen Headbutt
-- Quick Guard
-- Power-Up Punch
-- Acid Spray
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -353,30 +353,30 @@ Types: Dark / Fighting • Egg Groups: Dragon / Field
 - Fairy (4×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM20 - Poison Jab
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- TM60 - Dragon Dance
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Shed Shell
@@ -400,60 +400,60 @@ Scraftite
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Drain Punch (Lv Evo)
-- Leer (Lv 1)
-- Headbutt (Lv 1)
-- Sand Attack (Lv 5)
-- Feint Attack (Lv 9)
-- Swagger (Lv 12)
-- Low Kick (Lv 16)
-- Payback (Lv 19)
-- Brick Break (Lv 21)
-- Poison Jab (Lv 25)
-- Chip Away (Lv 27)
-- High Jump Kick (Lv 31)
-- Scary Face (Lv 34)
-- Crunch (Lv 38)
-- Facade (Lv 42)
-- Rock Climb (Lv 45)
-- Focus Punch (Lv 48)
-- Head Smash (Lv 50)
-- Stomping Tantrum (Lv 53)
-- Wild Charge (Lv 55)
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a> (Lv Evo)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 5)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 9)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 12)
+- <a href="move-lookup.html?q=low-kick">Low Kick</a> (Lv 16)
+- <a href="move-lookup.html?q=payback">Payback</a> (Lv 19)
+- <a href="move-lookup.html?q=brick-break">Brick Break</a> (Lv 21)
+- <a href="move-lookup.html?q=poison-jab">Poison Jab</a> (Lv 25)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 27)
+- <a href="move-lookup.html?q=high-jump-kick">High Jump Kick</a> (Lv 31)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 34)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 38)
+- <a href="move-lookup.html?q=facade">Facade</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a> (Lv 45)
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a> (Lv 48)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 50)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 53)
+- <a href="move-lookup.html?q=wild-charge">Wild Charge</a> (Lv 55)
 
 **Egg Moves**
-- Drain Punch
-- Counter
-- Dragon Dance
-- Detect
-- Fake Out
-- Fire Punch
-- Ice Punch
-- Thunder Punch
-- Amnesia
-- Feint Attack
-- Zen Headbutt
-- Quick Guard
-- Power-Up Punch
-- Acid Spray
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a>
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a>
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
 
 **Tutor Moves**
-- Acid Spray
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=acid-spray">Acid Spray</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

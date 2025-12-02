@@ -30,27 +30,27 @@ Types: Water / Electric • Egg Groups: Water 2
 - Ground (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- TM58 - Thunder Wave
-- HM03 - Surf
-- HM05 - Flash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Deep Sea Scale
@@ -79,44 +79,44 @@ Deep Sea Scale
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Bubble (Lv 1)
-- Supersonic (Lv 1)
-- Thunder Wave (Lv 6)
-- Electro Ball (Lv 9)
-- Water Gun (Lv 12)
-- Confuse Ray (Lv 17)
-- Bubble Beam (Lv 20)
-- Spark (Lv 23)
-- Signal Beam (Lv 28)
-- Flail (Lv 31)
-- Discharge (Lv 34)
-- Yawn (Lv 37)
-- Surf (Lv 39)
-- Aqua Ring (Lv 42)
-- Hydro Pump (Lv 45)
-- Ion Deluge (Lv 47)
-- Glitzy Glow (Lv 50)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 6)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 9)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 12)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 17)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 23)
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a> (Lv 28)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 31)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 34)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 37)
+- <a href="move-lookup.html?q=surf">Surf</a> (Lv 39)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 42)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 45)
+- <a href="move-lookup.html?q=ion-deluge">Ion Deluge</a> (Lv 47)
+- <a href="move-lookup.html?q=glitzy-glow">Glitzy Glow</a> (Lv 50)
 
 **Egg Moves**
-- Flail
-- Screech
-- Amnesia
-- Psybeam
-- Whirlpool
-- Agility
-- Mist
-- Shock Wave
-- Brine
-- Water Pulse
-- Soak
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=soak">Soak</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -177,27 +177,27 @@ Types: Water / Electric • Egg Groups: Water 2
 - Ground (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- TM58 - Thunder Wave
-- HM03 - Surf
-- HM05 - Flash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Deep Sea Scale
@@ -227,51 +227,51 @@ Lv. 27
 | Total | <span class="stat-value stat-mid">465</span> |
 
 **Level-Up Moves**
-- Tail Glow (Lv Evo)
-- Stockpile (Lv 1)
-- Swallow (Lv 1)
-- Spit Up (Lv 1)
-- Charge (Lv 1)
-- Eerie Impulse (Lv 1)
-- Spotlight (Lv 1)
-- Bubble (Lv 1)
-- Supersonic (Lv 1)
-- Thunder Wave (Lv 6)
-- Electro Ball (Lv 9)
-- Water Gun (Lv 12)
-- Confuse Ray (Lv 17)
-- Bubble Beam (Lv 20)
-- Spark (Lv 23)
-- Signal Beam (Lv 28)
-- Flail (Lv 31)
-- Discharge (Lv 34)
-- Yawn (Lv 37)
-- Surf (Lv 39)
-- Aqua Ring (Lv 42)
-- Hydro Pump (Lv 45)
-- Ion Deluge (Lv 47)
-- Glitzy Glow (Lv 50)
+- <a href="move-lookup.html?q=tail-glow">Tail Glow</a> (Lv Evo)
+- <a href="move-lookup.html?q=stockpile">Stockpile</a> (Lv 1)
+- <a href="move-lookup.html?q=swallow">Swallow</a> (Lv 1)
+- <a href="move-lookup.html?q=spit-up">Spit Up</a> (Lv 1)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 1)
+- <a href="move-lookup.html?q=eerie-impulse">Eerie Impulse</a> (Lv 1)
+- <a href="move-lookup.html?q=spotlight">Spotlight</a> (Lv 1)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 6)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 9)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 12)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 17)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 23)
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a> (Lv 28)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 31)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 34)
+- <a href="move-lookup.html?q=yawn">Yawn</a> (Lv 37)
+- <a href="move-lookup.html?q=surf">Surf</a> (Lv 39)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 42)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 45)
+- <a href="move-lookup.html?q=ion-deluge">Ion Deluge</a> (Lv 47)
+- <a href="move-lookup.html?q=glitzy-glow">Glitzy Glow</a> (Lv 50)
 
 **Egg Moves**
-- Flail
-- Screech
-- Amnesia
-- Psybeam
-- Whirlpool
-- Agility
-- Mist
-- Shock Wave
-- Brine
-- Water Pulse
-- Soak
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=mist">Mist</a>
+- <a href="move-lookup.html?q=shock-wave">Shock Wave</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=soak">Soak</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

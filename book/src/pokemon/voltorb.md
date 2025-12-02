@@ -27,22 +27,22 @@ Types: Electric • Egg Groups: Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Encounter Locations**
 - Jusmail Town — Grass (Night) (10%)
@@ -64,36 +64,36 @@ Types: Electric • Egg Groups: Mineral
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Charge (Lv 1)
-- Tackle (Lv 1)
-- Sonic Boom (Lv 4)
-- Eerie Impulse (Lv 6)
-- Spark (Lv 9)
-- Rollout (Lv 11)
-- Screech (Lv 13)
-- Charge Beam (Lv 16)
-- Swift (Lv 20)
-- Electro Ball (Lv 22)
-- Self-Destruct (Lv 26)
-- Light Screen (Lv 29)
-- Magnet Rise (Lv 34)
-- Discharge (Lv 37)
-- Explosion (Lv 41)
-- Gyro Ball (Lv 46)
-- Mirror Coat (Lv 48)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 4)
+- <a href="move-lookup.html?q=eerie-impulse">Eerie Impulse</a> (Lv 6)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 9)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 11)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 13)
+- <a href="move-lookup.html?q=charge-beam">Charge Beam</a> (Lv 16)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 20)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 22)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 26)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 29)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 34)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 37)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 41)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 46)
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a> (Lv 48)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -151,22 +151,22 @@ Types: Electric • Egg Groups: Mineral
 - Ground (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM12 - Taunt
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM58 - Thunder Wave
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 30
@@ -187,37 +187,37 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">490</span> |
 
 **Level-Up Moves**
-- Magnetic Flux (Lv 1)
-- Charge (Lv 1)
-- Tackle (Lv 1)
-- Sonic Boom (Lv 4)
-- Eerie Impulse (Lv 6)
-- Spark (Lv 9)
-- Rollout (Lv 11)
-- Screech (Lv 13)
-- Charge Beam (Lv 16)
-- Swift (Lv 20)
-- Electro Ball (Lv 22)
-- Self-Destruct (Lv 26)
-- Light Screen (Lv 29)
-- Magnet Rise (Lv 36)
-- Discharge (Lv 41)
-- Explosion (Lv 47)
-- Gyro Ball (Lv 54)
-- Mirror Coat (Lv 58)
+- <a href="move-lookup.html?q=magnetic-flux">Magnetic Flux</a> (Lv 1)
+- <a href="move-lookup.html?q=charge">Charge</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 4)
+- <a href="move-lookup.html?q=eerie-impulse">Eerie Impulse</a> (Lv 6)
+- <a href="move-lookup.html?q=spark">Spark</a> (Lv 9)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 11)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 13)
+- <a href="move-lookup.html?q=charge-beam">Charge Beam</a> (Lv 16)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 20)
+- <a href="move-lookup.html?q=electro-ball">Electro Ball</a> (Lv 22)
+- <a href="move-lookup.html?q=self-destruct">Self-Destruct</a> (Lv 26)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 29)
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a> (Lv 36)
+- <a href="move-lookup.html?q=discharge">Discharge</a> (Lv 41)
+- <a href="move-lookup.html?q=explosion">Explosion</a> (Lv 47)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 54)
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a> (Lv 58)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -23,17 +23,17 @@ Types: Normal • Egg Groups: -
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="type-null" /> Caught</label>
@@ -51,40 +51,40 @@ Types: Normal • Egg Groups: -
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Rage (Lv 5)
-- Pursuit (Lv 10)
-- Bite (Lv 13)
-- Imprison (Lv 15)
-- Aerial Ace (Lv 16)
-- Crush Claw (Lv 20)
-- Scary Face (Lv 23)
-- X-Scissor (Lv 26)
-- Take Down (Lv 30)
-- Metal Sound (Lv 33)
-- Iron Head (Lv 36)
-- Double Hit (Lv 40)
-- Air Slash (Lv 43)
-- Punishment (Lv 46)
-- Razor Wind (Lv 50)
-- Tri Attack (Lv 53)
-- Double-Edge (Lv 56)
-- Heal Block (Lv 60)
-- Parting Shot (Lv 65)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 5)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 10)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 13)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 15)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 16)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 20)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 23)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 26)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 30)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 33)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 36)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 40)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 43)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 46)
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a> (Lv 50)
+- <a href="move-lookup.html?q=tri-attack">Tri Attack</a> (Lv 53)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 56)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 60)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 65)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -138,25 +138,25 @@ Types: Normal • Egg Groups: -
 - Fighting (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM43 - Poison Fang
-- TM44 - Rest
-- TM47 - Steel Wing
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. w/ High Friendship?
@@ -177,48 +177,48 @@ Lv. w/ High Friendship?
 | Total | <span class="stat-value stat-high">570</span> |
 
 **Level-Up Moves**
-- Multi-Attack (Lv Evo)
-- Heal Block (Lv 1)
-- Imprison (Lv 1)
-- Iron Head (Lv 1)
-- Poison Fang (Lv 1)
-- Fire Fang (Lv 1)
-- Ice Fang (Lv 1)
-- Thunder Fang (Lv 1)
-- Tackle (Lv 1)
-- Rage (Lv 5)
-- Pursuit (Lv 10)
-- Bite (Lv 13)
-- Aerial Ace (Lv 16)
-- Crush Claw (Lv 20)
-- Scary Face (Lv 23)
-- X-Scissor (Lv 26)
-- Take Down (Lv 30)
-- Metal Sound (Lv 33)
-- Iron Head (Lv 36)
-- Double Hit (Lv 40)
-- Air Slash (Lv 43)
-- Punishment (Lv 46)
-- Razor Wind (Lv 50)
-- Tri Attack (Lv 53)
-- Double-Edge (Lv 56)
-- Heal Block (Lv 60)
-- Parting Shot (Lv 65)
+- <a href="move-lookup.html?q=multi-attack">Multi-Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 1)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 1)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 1)
+- <a href="move-lookup.html?q=poison-fang">Poison Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 5)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 10)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 13)
+- <a href="move-lookup.html?q=aerial-ace">Aerial Ace</a> (Lv 16)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 20)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 23)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 26)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 30)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 33)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 36)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 40)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 43)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 46)
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a> (Lv 50)
+- <a href="move-lookup.html?q=tri-attack">Tri Attack</a> (Lv 53)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 56)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 60)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 65)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Explosion
-- Icy Wind
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=explosion">Explosion</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

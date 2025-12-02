@@ -33,17 +33,17 @@ Types: Dragon / Normal • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM35 - Flamethrower
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
 
 **Encounter Locations**
 - Fresco Isles — Grass (Day) (4%)
@@ -67,41 +67,41 @@ Types: Dragon / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">511</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Rapid Spin (Lv 7)
-- Taunt (Lv 11)
-- Breaking Swipe (Lv 14)
-- Quick Attack (Lv 18)
-- Rock Smash (Lv 20)
-- Bite (Lv 23)
-- U-Turn (Lv 25)
-- Uproar (Lv 28)
-- Shed Tail (Lv 31)
-- Body Slam (Lv 33)
-- Drain Punch (Lv 35)
-- Dragon Claw (Lv 37)
-- Shift Gear (Lv 40)
-- Crunch (Lv 42)
-- Dragon Pulse (Lv 44)
-- Terrain Pulse (Lv 47)
-- Double-Edge (Lv 51)
-- Dragon Rush (Lv 55)
-- Collision Course (Lv 60)
-- Electro Drift (Lv 60)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 7)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 11)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv 14)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 18)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 20)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 25)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 28)
+- <a href="move-lookup.html?q=shed-tail">Shed Tail</a> (Lv 31)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 33)
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a> (Lv 35)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=shift-gear">Shift Gear</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 44)
+- <a href="move-lookup.html?q=terrain-pulse">Terrain Pulse</a> (Lv 47)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 51)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 55)
+- <a href="move-lookup.html?q=collision-course">Collision Course</a> (Lv 60)
+- <a href="move-lookup.html?q=electro-drift">Electro Drift</a> (Lv 60)
 
 **Egg Moves**
-- Aqua Tail
-- Iron Tail
-- Knock Off
-- Power Whip
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -165,17 +165,17 @@ Types: Dragon / Fighting • Egg Groups: Field
 - Fairy (4×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM35 - Flamethrower
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
 
 **Evolution Info**
 Cyclizite S
@@ -196,41 +196,41 @@ Cyclizite S
 | Total | <span class="stat-value stat-high">611</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Rapid Spin (Lv 7)
-- Taunt (Lv 11)
-- Breaking Swipe (Lv 14)
-- Quick Attack (Lv 18)
-- Rock Smash (Lv 20)
-- Bite (Lv 23)
-- U-Turn (Lv 25)
-- Uproar (Lv 28)
-- Shed Tail (Lv 31)
-- Body Slam (Lv 33)
-- Drain Punch (Lv 35)
-- Dragon Claw (Lv 37)
-- Shift Gear (Lv 40)
-- Crunch (Lv 42)
-- Dragon Pulse (Lv 44)
-- Terrain Pulse (Lv 47)
-- Double-Edge (Lv 51)
-- Dragon Rush (Lv 55)
-- Collision Course (Lv 60)
-- Electro Drift (Lv 60)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 7)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 11)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv 14)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 18)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 20)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 25)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 28)
+- <a href="move-lookup.html?q=shed-tail">Shed Tail</a> (Lv 31)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 33)
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a> (Lv 35)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=shift-gear">Shift Gear</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 44)
+- <a href="move-lookup.html?q=terrain-pulse">Terrain Pulse</a> (Lv 47)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 51)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 55)
+- <a href="move-lookup.html?q=collision-course">Collision Course</a> (Lv 60)
+- <a href="move-lookup.html?q=electro-drift">Electro Drift</a> (Lv 60)
 
 **Egg Moves**
-- Aqua Tail
-- Iron Tail
-- Knock Off
-- Power Whip
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>
@@ -292,17 +292,17 @@ Types: Dragon / Electric • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM35 - Flamethrower
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
 
 **Evolution Info**
 Cyclizite V
@@ -323,41 +323,41 @@ Cyclizite V
 | Total | <span class="stat-value stat-high">611</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Rapid Spin (Lv 7)
-- Taunt (Lv 11)
-- Breaking Swipe (Lv 14)
-- Quick Attack (Lv 18)
-- Rock Smash (Lv 20)
-- Bite (Lv 23)
-- U-Turn (Lv 25)
-- Uproar (Lv 28)
-- Shed Tail (Lv 31)
-- Body Slam (Lv 33)
-- Drain Punch (Lv 35)
-- Dragon Claw (Lv 37)
-- Shift Gear (Lv 40)
-- Crunch (Lv 42)
-- Dragon Pulse (Lv 44)
-- Terrain Pulse (Lv 47)
-- Double-Edge (Lv 51)
-- Dragon Rush (Lv 55)
-- Collision Course (Lv 60)
-- Electro Drift (Lv 60)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 7)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 11)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv 14)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 18)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 20)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 25)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 28)
+- <a href="move-lookup.html?q=shed-tail">Shed Tail</a> (Lv 31)
+- <a href="move-lookup.html?q=body-slam">Body Slam</a> (Lv 33)
+- <a href="move-lookup.html?q=drain-punch">Drain Punch</a> (Lv 35)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=shift-gear">Shift Gear</a> (Lv 40)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 42)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 44)
+- <a href="move-lookup.html?q=terrain-pulse">Terrain Pulse</a> (Lv 47)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 51)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 55)
+- <a href="move-lookup.html?q=collision-course">Collision Course</a> (Lv 60)
+- <a href="move-lookup.html?q=electro-drift">Electro Drift</a> (Lv 60)
 
 **Egg Moves**
-- Aqua Tail
-- Iron Tail
-- Knock Off
-- Power Whip
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=iron-tail">Iron Tail</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=power-whip">Power Whip</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>

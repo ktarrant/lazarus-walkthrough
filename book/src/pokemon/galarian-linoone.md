@@ -31,24 +31,24 @@ Types: Dark / Normal • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Night) (10%)
@@ -70,35 +70,35 @@ Types: Dark / Normal • Egg Groups: Field
 | Total | <span class="stat-value stat-low">240</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Sand Attack (Lv 3)
-- Lick (Lv 6)
-- Snarl (Lv 9)
-- Headbutt (Lv 12)
-- Baby-Doll Eyes (Lv 15)
-- Pin Missile (Lv 18)
-- Rest (Lv 21)
-- Take Down (Lv 24)
-- Scary Face (Lv 27)
-- Counter (Lv 30)
-- Taunt (Lv 33)
-- Double-Edge (Lv 36)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 3)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 6)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 9)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 12)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 15)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 18)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 21)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 24)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 27)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 30)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 33)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 36)
 
 **Egg Moves**
-- Parting Shot
-- Quick Guard
-- Knock Off
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -158,24 +158,24 @@ Types: Dark / Normal • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 20
@@ -201,39 +201,39 @@ Lv. 20
 | Total | <span class="stat-value stat-mid">420</span> |
 
 **Level-Up Moves**
-- Night Slash (Lv Evo)
-- Switcheroo (Lv 1)
-- Pin Missile (Lv 1)
-- Baby-Doll Eyes (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Sand Attack (Lv 1)
-- Lick (Lv 1)
-- Snarl (Lv 9)
-- Headbutt (Lv 12)
-- Hone Claws (Lv 15)
-- Fury Swipes (Lv 18)
-- Rest (Lv 23)
-- Take Down (Lv 28)
-- Scary Face (Lv 33)
-- Counter (Lv 38)
-- Taunt (Lv 43)
-- Double-Edge (Lv 48)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv Evo)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 1)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 1)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 1)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 9)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 12)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 15)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 18)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 23)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 28)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 33)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 38)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 43)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 48)
 
 **Egg Moves**
-- Parting Shot
-- Quick Guard
-- Knock Off
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -293,26 +293,26 @@ Types: Dark / Normal • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM58 - Thunder Wave
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 35, Night
@@ -337,47 +337,47 @@ Lv. 35, Night
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Obstruct (Lv Evo)
-- Cross Chop (Lv 1)
-- Submission (Lv 1)
-- Night Slash (Lv 1)
-- Switcheroo (Lv 1)
-- Pin Missile (Lv 1)
-- Baby-Doll Eyes (Lv 1)
-- Tackle (Lv 1)
-- Leer (Lv 1)
-- Sand Attack (Lv 1)
-- Lick (Lv 1)
-- Snarl (Lv 9)
-- Headbutt (Lv 12)
-- Hone Claws (Lv 15)
-- Fury Swipes (Lv 18)
-- Rest (Lv 23)
-- Take Down (Lv 28)
-- Scary Face (Lv 35)
-- Counter (Lv 42)
-- Taunt (Lv 49)
-- Double-Edge (Lv 56)
+- <a href="move-lookup.html?q=obstruct">Obstruct</a> (Lv Evo)
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a> (Lv 1)
+- <a href="move-lookup.html?q=submission">Submission</a> (Lv 1)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 1)
+- <a href="move-lookup.html?q=pin-missile">Pin Missile</a> (Lv 1)
+- <a href="move-lookup.html?q=baby-doll-eyes">Baby-Doll Eyes</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 1)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 9)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 12)
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a> (Lv 15)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 18)
+- <a href="move-lookup.html?q=rest">Rest</a> (Lv 23)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 28)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 35)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 42)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 49)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 56)
 
 **Egg Moves**
-- Parting Shot
-- Quick Guard
-- Knock Off
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a>
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fire Punch
-- Ice Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Sleep Talk
-- Snore
-- Swift
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

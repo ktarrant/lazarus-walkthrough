@@ -25,25 +25,25 @@ Types: Ghost / Grass • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM26 - Earthquake
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- HM03 - Surf
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
 
 **Encounter Locations**
 - Davosi Straits — Surfing (5%)
@@ -66,37 +66,37 @@ Types: Ghost / Grass • Egg Groups: Mineral
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Switcheroo (Lv 1)
-- Absorb (Lv 1)
-- Growth (Lv 1)
-- Rapid Spin (Lv 1)
-- Astonish (Lv 1)
-- Mega Drain (Lv 5)
-- Wrap (Lv 9)
-- Gyro Ball (Lv 14)
-- Metal Sound (Lv 18)
-- Giga Drain (Lv 23)
-- Razor Shell (Lv 25)
-- Whirlpool (Lv 27)
-- Anchor Shot (Lv 30)
-- Shadow Ball (Lv 34)
-- Flip Turn (Lv 37)
-- Energy Ball (Lv 41)
-- Slam (Lv 43)
-- Heavy Slam (Lv 47)
-- Phantom Force (Lv 50)
-- Power Whip (Lv 55)
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 1)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=mega-drain">Mega Drain</a> (Lv 5)
+- <a href="move-lookup.html?q=wrap">Wrap</a> (Lv 9)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 14)
+- <a href="move-lookup.html?q=metal-sound">Metal Sound</a> (Lv 18)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 23)
+- <a href="move-lookup.html?q=razor-shell">Razor Shell</a> (Lv 25)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 27)
+- <a href="move-lookup.html?q=anchor-shot">Anchor Shot</a> (Lv 30)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 34)
+- <a href="move-lookup.html?q=flip-turn">Flip Turn</a> (Lv 37)
+- <a href="move-lookup.html?q=energy-ball">Energy Ball</a> (Lv 41)
+- <a href="move-lookup.html?q=slam">Slam</a> (Lv 43)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv 47)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 50)
+- <a href="move-lookup.html?q=power-whip">Power Whip</a> (Lv 55)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

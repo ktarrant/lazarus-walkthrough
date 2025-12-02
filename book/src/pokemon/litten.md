@@ -34,19 +34,19 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Night) (5%)
@@ -67,40 +67,40 @@ Types: Fire • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Ember (Lv 1)
-- Growl (Lv 4)
-- Lick (Lv 8)
-- Leer (Lv 11)
-- Fire Fang (Lv 14)
-- Double Kick (Lv 16)
-- Roar (Lv 18)
-- Bite (Lv 22)
-- Swagger (Lv 25)
-- Fury Swipes (Lv 29)
-- Thrash (Lv 32)
-- Flamethrower (Lv 35)
-- Parting Shot (Lv 39)
-- Flare Blitz (Lv 43)
-- Outrage (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 8)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 11)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 14)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 16)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 18)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 25)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 29)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 32)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 39)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 43)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 46)
 
 **Egg Moves**
-- Nasty Plot
-- Body Slam
-- Crunch
-- Fake Out
-- Revenge
-- Heat Wave
-- Power Trip
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -163,19 +163,19 @@ Types: Fire • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM51 - Will-O-Wisp
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
 
 **Evolution Info**
 Lv. 17
@@ -196,41 +196,41 @@ Lv. 17
 | Total | <span class="stat-value stat-mid">420</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Ember (Lv 1)
-- Growl (Lv 4)
-- Lick (Lv 8)
-- Leer (Lv 11)
-- Fire Fang (Lv 14)
-- Double Kick (Lv 16)
-- Roar (Lv 18)
-- Bite (Lv 22)
-- Swagger (Lv 25)
-- Fury Swipes (Lv 29)
-- Thrash (Lv 32)
-- Flamethrower (Lv 35)
-- Parting Shot (Lv 39)
-- Crush Claw (Lv 42)
-- Flare Blitz (Lv 46)
-- Outrage (Lv 50)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 8)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 11)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 14)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 16)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 18)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 25)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 29)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 32)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 39)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 42)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 46)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 50)
 
 **Egg Moves**
-- Nasty Plot
-- Body Slam
-- Crunch
-- Fake Out
-- Revenge
-- Heat Wave
-- Power Trip
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -295,26 +295,26 @@ Types: Fire / Dark • Egg Groups: Field
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Lv. 34
@@ -335,49 +335,49 @@ Lv. 34
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Darkest Lariat (Lv Evo)
-- Bulk Up (Lv 1)
-- Throat Chop (Lv 1)
-- Scratch (Lv 1)
-- Ember (Lv 1)
-- Growl (Lv 4)
-- Lick (Lv 8)
-- Leer (Lv 11)
-- Fire Fang (Lv 14)
-- Double Kick (Lv 16)
-- Roar (Lv 18)
-- Bite (Lv 22)
-- Swagger (Lv 25)
-- Fury Swipes (Lv 29)
-- Thrash (Lv 32)
-- Flamethrower (Lv 35)
-- Parting Shot (Lv 39)
-- Crush Claw (Lv 42)
-- Flare Blitz (Lv 46)
-- Outrage (Lv 50)
-- Cross Chop (Lv 55)
+- <a href="move-lookup.html?q=darkest-lariat">Darkest Lariat</a> (Lv Evo)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 1)
+- <a href="move-lookup.html?q=throat-chop">Throat Chop</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 4)
+- <a href="move-lookup.html?q=lick">Lick</a> (Lv 8)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 11)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 14)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 16)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 18)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 25)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 29)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 32)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 35)
+- <a href="move-lookup.html?q=parting-shot">Parting Shot</a> (Lv 39)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 42)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 46)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 50)
+- <a href="move-lookup.html?q=cross-chop">Cross Chop</a> (Lv 55)
 
 **Egg Moves**
-- Nasty Plot
-- Body Slam
-- Crunch
-- Fake Out
-- Revenge
-- Heat Wave
-- Power Trip
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=crunch">Crunch</a>
+- <a href="move-lookup.html?q=fake-out">Fake Out</a>
+- <a href="move-lookup.html?q=revenge">Revenge</a>
+- <a href="move-lookup.html?q=heat-wave">Heat Wave</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Fire Punch
-- Mega Kick
-- Mega Punch
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

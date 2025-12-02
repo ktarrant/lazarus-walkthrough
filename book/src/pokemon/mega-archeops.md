@@ -35,25 +35,25 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying
 - Steel (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Palati City — Grass (Day) (10%)
@@ -75,44 +75,44 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying
 | Total | <span class="stat-value stat-mid">401</span> |
 
 **Level-Up Moves**
-- Quick Attack (Lv 1)
-- Leer (Lv 1)
-- Wing Attack (Lv 1)
-- Rock Throw (Lv 5)
-- Double Team (Lv 8)
-- Bite (Lv 11)
-- Pluck (Lv 15)
-- Ancient Power (Lv 18)
-- Agility (Lv 21)
-- Quick Guard (Lv 25)
-- Acrobatics (Lv 28)
-- Dragon Breath (Lv 31)
-- Crunch (Lv 35)
-- Endeavor (Lv 38)
-- U-Turn (Lv 40)
-- Knock Off (Lv 42)
-- Rock Slide (Lv 45)
-- Dragon Claw (Lv 48)
-- Thrash (Lv 50)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 5)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 8)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 11)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 15)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 18)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 21)
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a> (Lv 25)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 28)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 31)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 35)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 38)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 40)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 45)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 48)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 50)
 
 **Egg Moves**
-- Steel Wing
-- Defog
-- Dragon Pulse
-- Head Smash
-- Knock Off
-- Earth Power
-- Bite
-- Ally Switch
-- Switcheroo
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=head-smash">Head Smash</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -176,26 +176,26 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying
 - Steel (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- HM01 - Cut
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 33
@@ -216,47 +216,47 @@ Lv. 33
 | Total | <span class="stat-value stat-high">550</span> |
 
 **Level-Up Moves**
-- Crunch (Lv Evo)
-- Iron Head (Lv 1)
-- Quick Attack (Lv 1)
-- Leer (Lv 1)
-- Wing Attack (Lv 1)
-- Rock Throw (Lv 5)
-- Double Team (Lv 8)
-- Bite (Lv 11)
-- Pluck (Lv 15)
-- Ancient Power (Lv 18)
-- Agility (Lv 21)
-- Quick Guard (Lv 25)
-- Acrobatics (Lv 28)
-- Dragon Breath (Lv 31)
-- Pounce (Lv 35)
-- Endeavor (Lv 38)
-- U-Turn (Lv 40)
-- Knock Off (Lv 42)
-- Rock Slide (Lv 45)
-- Dragon Claw (Lv 48)
-- Thrash (Lv 50)
-- Brave Bird (Lv 55)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv Evo)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 5)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 8)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 11)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 15)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 18)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 21)
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a> (Lv 25)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 28)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 31)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 35)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 38)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 40)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 45)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 48)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 50)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 55)
 
 **Egg Moves**
-- Steel Wing
-- Defog
-- Dragon Pulse
-- Head Smash
-- Knock Off
-- Earth Power
-- Bite
-- Ally Switch
-- Switcheroo
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=head-smash">Head Smash</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -319,26 +319,26 @@ Types: Rock / Flying • Egg Groups: Water 3 / Flying
 - Steel (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM47 - Steel Wing
-- TM49 - Bulldoze
-- TM57 - Roost
-- HM01 - Cut
-- HM02 - Fly
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Archeopsite
@@ -359,47 +359,47 @@ Archeopsite
 | Total | <span class="stat-value stat-high">650</span> |
 
 **Level-Up Moves**
-- Crunch (Lv Evo)
-- Iron Head (Lv 1)
-- Quick Attack (Lv 1)
-- Leer (Lv 1)
-- Wing Attack (Lv 1)
-- Rock Throw (Lv 5)
-- Double Team (Lv 8)
-- Bite (Lv 11)
-- Pluck (Lv 15)
-- Ancient Power (Lv 18)
-- Agility (Lv 21)
-- Quick Guard (Lv 25)
-- Acrobatics (Lv 28)
-- Dragon Breath (Lv 31)
-- Pounce (Lv 35)
-- Endeavor (Lv 38)
-- U-Turn (Lv 40)
-- Knock Off (Lv 42)
-- Rock Slide (Lv 45)
-- Dragon Claw (Lv 48)
-- Thrash (Lv 50)
-- Brave Bird (Lv 55)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv Evo)
+- <a href="move-lookup.html?q=iron-head">Iron Head</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=wing-attack">Wing Attack</a> (Lv 1)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 5)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 8)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 11)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 15)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 18)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 21)
+- <a href="move-lookup.html?q=quick-guard">Quick Guard</a> (Lv 25)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 28)
+- <a href="move-lookup.html?q=dragon-breath">Dragon Breath</a> (Lv 31)
+- <a href="move-lookup.html?q=pounce">Pounce</a> (Lv 35)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 38)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 40)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 42)
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a> (Lv 45)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 48)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 50)
+- <a href="move-lookup.html?q=brave-bird">Brave Bird</a> (Lv 55)
 
 **Egg Moves**
-- Steel Wing
-- Defog
-- Dragon Pulse
-- Head Smash
-- Knock Off
-- Earth Power
-- Bite
-- Ally Switch
-- Switcheroo
+- <a href="move-lookup.html?q=steel-wing">Steel Wing</a>
+- <a href="move-lookup.html?q=defog">Defog</a>
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a>
+- <a href="move-lookup.html?q=head-smash">Head Smash</a>
+- <a href="move-lookup.html?q=knock-off">Knock Off</a>
+- <a href="move-lookup.html?q=earth-power">Earth Power</a>
+- <a href="move-lookup.html?q=bite">Bite</a>
+- <a href="move-lookup.html?q=ally-switch">Ally Switch</a>
+- <a href="move-lookup.html?q=switcheroo">Switcheroo</a>
 
 **Tutor Moves**
-- Endure
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

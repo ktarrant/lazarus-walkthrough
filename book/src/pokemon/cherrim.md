@@ -30,19 +30,19 @@ Types: Grass • Egg Groups: Grass / Fairy
 - Bug (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Miracle Seed
@@ -67,45 +67,45 @@ Miracle Seed
 | Total | <span class="stat-value stat-low">275</span> |
 
 **Level-Up Moves**
-- Morning Sun (Lv 1)
-- Tackle (Lv 1)
-- Growth (Lv 7)
-- Leech Seed (Lv 10)
-- Helping Hand (Lv 13)
-- Magical Leaf (Lv 19)
-- Sunny Day (Lv 22)
-- Worry Seed (Lv 28)
-- Take Down (Lv 31)
-- Solar Beam (Lv 37)
-- Lucky Chant (Lv 40)
-- Petal Blizzard (Lv 47)
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 7)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 10)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 13)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 19)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 22)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 28)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 31)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 37)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 40)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 47)
 
 **Egg Moves**
-- Razor Leaf
-- Sweet Scent
-- Tickle
-- Nature Power
-- Grass Whistle
-- Aromatherapy
-- Weather Ball
-- Heal Pulse
-- Healing Wish
-- Seed Bomb
-- Natural Gift
-- Defense Curl
-- Rollout
-- Flower Shield
-- Grassy Terrain
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a>
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
+- <a href="move-lookup.html?q=healing-wish">Healing Wish</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=flower-shield">Flower Shield</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -165,19 +165,19 @@ Types: Grass / Fire • Egg Groups: Grass / Fairy
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM54 - Dazzling Gleam
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Miracle Seed
@@ -206,49 +206,49 @@ Lv. 25
 | Total | <span class="stat-value stat-mid">480</span> |
 
 **Level-Up Moves**
-- Petal Dance (Lv Evo)
-- Sunny Day (Lv Evo)
-- Morning Sun (Lv 1)
-- Tackle (Lv 1)
-- Growth (Lv 7)
-- Leech Seed (Lv 10)
-- Helping Hand (Lv 13)
-- Magical Leaf (Lv 19)
-- Sunny Day (Lv 22)
-- Flame Burst (Lv 27)
-- Worry Seed (Lv 30)
-- Flame Burst (Lv 35)
-- Solar Beam (Lv 38)
-- Fiery Dance (Lv 43)
-- Lucky Chant (Lv 48)
-- Petal Blizzard (Lv 50)
+- <a href="move-lookup.html?q=petal-dance">Petal Dance</a> (Lv Evo)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv Evo)
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 7)
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a> (Lv 10)
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a> (Lv 13)
+- <a href="move-lookup.html?q=magical-leaf">Magical Leaf</a> (Lv 19)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 22)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 27)
+- <a href="move-lookup.html?q=worry-seed">Worry Seed</a> (Lv 30)
+- <a href="move-lookup.html?q=flame-burst">Flame Burst</a> (Lv 35)
+- <a href="move-lookup.html?q=solar-beam">Solar Beam</a> (Lv 38)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 43)
+- <a href="move-lookup.html?q=lucky-chant">Lucky Chant</a> (Lv 48)
+- <a href="move-lookup.html?q=petal-blizzard">Petal Blizzard</a> (Lv 50)
 
 **Egg Moves**
-- Razor Leaf
-- Sweet Scent
-- Tickle
-- Nature Power
-- Grass Whistle
-- Aromatherapy
-- Weather Ball
-- Heal Pulse
-- Healing Wish
-- Seed Bomb
-- Natural Gift
-- Defense Curl
-- Rollout
-- Flower Shield
-- Grassy Terrain
+- <a href="move-lookup.html?q=razor-leaf">Razor Leaf</a>
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=nature-power">Nature Power</a>
+- <a href="move-lookup.html?q=grass-whistle">Grass Whistle</a>
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a>
+- <a href="move-lookup.html?q=weather-ball">Weather Ball</a>
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a>
+- <a href="move-lookup.html?q=healing-wish">Healing Wish</a>
+- <a href="move-lookup.html?q=seed-bomb">Seed Bomb</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=flower-shield">Flower Shield</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Defense Curl
-- Double-Edge
-- Endure
-- Rollout
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

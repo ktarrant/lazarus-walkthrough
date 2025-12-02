@@ -25,23 +25,23 @@ Types: Bug / Ghost • Egg Groups: Mineral
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM23 - Hex
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- HM01 - Cut
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Evolution Info**
 Lv. 20, empty party slot, PokéBall
@@ -65,42 +65,42 @@ Lv. 20, empty party slot, PokéBall
 | Total | <span class="stat-value stat-low">236</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Harden (Lv 1)
-- Absorb (Lv 5)
-- Sand Attack (Lv 9)
-- Fury Swipes (Lv 13)
-- Spite (Lv 17)
-- Shadow Sneak (Lv 21)
-- Mind Reader (Lv 25)
-- Confuse Ray (Lv 29)
-- Shadow Claw (Lv 33)
-- Fell Stinger (Lv 35)
-- Grudge (Lv 37)
-- Heal Block (Lv 41)
-- Phantom Force (Lv 45)
-- Attack Order (Lv 47)
-- Defend Order (Lv 47)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=harden">Harden</a> (Lv 1)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 5)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=spite">Spite</a> (Lv 17)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 21)
+- <a href="move-lookup.html?q=mind-reader">Mind Reader</a> (Lv 25)
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a> (Lv 29)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 33)
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a> (Lv 35)
+- <a href="move-lookup.html?q=grudge">Grudge</a> (Lv 37)
+- <a href="move-lookup.html?q=heal-block">Heal Block</a> (Lv 41)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 45)
+- <a href="move-lookup.html?q=attack-order">Attack Order</a> (Lv 47)
+- <a href="move-lookup.html?q=defend-order">Defend Order</a> (Lv 47)
 
 **Egg Moves**
-- Endure
-- Feint Attack
-- Gust
-- Silver Wind
-- Bug Buzz
-- Night Slash
-- Bug Bite
-- Final Gambit
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=gust">Gust</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a>
 
 **Tutor Moves**
-- Double-Edge
-- Dream Eater
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

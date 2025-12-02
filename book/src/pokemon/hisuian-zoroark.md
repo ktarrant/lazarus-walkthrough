@@ -28,22 +28,22 @@ Types: Normal / Ghost • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="hisuian-zorua" /> Caught</label>
@@ -61,32 +61,32 @@ Types: Normal / Ghost • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Fake Tears (Lv 9)
-- Shadow Sneak (Lv 13)
-- Skitter Smack (Lv 15)
-- Snarl (Lv 17)
-- Scary Face (Lv 21)
-- Hex (Lv 25)
-- Knock Off (Lv 28)
-- Will-O-Wisp (Lv 32)
-- Shadow Ball (Lv 35)
-- Shadow Claw (Lv 37)
-- Uproar (Lv 40)
-- Embargo (Lv 42)
-- Infernal Parade (Lv 45)
-- Nasty Plot (Lv 49)
-- Extrasensory (Lv 53)
-- Night Daze (Lv 57)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 9)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 13)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 15)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 21)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 28)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 32)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 35)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 40)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 42)
+- <a href="move-lookup.html?q=infernal-parade">Infernal Parade</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 49)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 53)
+- <a href="move-lookup.html?q=night-daze">Night Daze</a> (Lv 57)
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -145,26 +145,26 @@ Types: Normal / Ghost • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 30
@@ -185,36 +185,36 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Bitter Malice (Lv Evo)
-- Shadow Sneak (Lv 1)
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Fake Tears (Lv 9)
-- Shadow Sneak (Lv 13)
-- Skitter Smack (Lv 15)
-- Snarl (Lv 17)
-- Scary Face (Lv 21)
-- Hex (Lv 25)
-- Knock Off (Lv 28)
-- Will-O-Wisp (Lv 32)
-- Shadow Ball (Lv 35)
-- Shadow Claw (Lv 37)
-- Uproar (Lv 40)
-- Embargo (Lv 42)
-- Infernal Parade (Lv 45)
-- Nasty Plot (Lv 49)
-- Extrasensory (Lv 53)
-- Night Daze (Lv 57)
+- <a href="move-lookup.html?q=bitter-malice">Bitter Malice</a> (Lv Evo)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 9)
+- <a href="move-lookup.html?q=shadow-sneak">Shadow Sneak</a> (Lv 13)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 15)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 21)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 28)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 32)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 35)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 37)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 40)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 42)
+- <a href="move-lookup.html?q=infernal-parade">Infernal Parade</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 49)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 53)
+- <a href="move-lookup.html?q=night-daze">Night Daze</a> (Lv 57)
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

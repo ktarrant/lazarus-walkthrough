@@ -28,26 +28,26 @@ Types: Dark • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)
@@ -68,46 +68,46 @@ Types: Dark • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Fake Tears (Lv 9)
-- Fury Swipes (Lv 13)
-- Skitter Smack (Lv 15)
-- Snarl (Lv 17)
-- Scary Face (Lv 21)
-- Taunt (Lv 25)
-- Knock Off (Lv 28)
-- Torment (Lv 32)
-- Dark Pulse (Lv 35)
-- Agility (Lv 37)
-- Extrasensory (Lv 40)
-- Embargo (Lv 42)
-- Punishment (Lv 45)
-- Nasty Plot (Lv 49)
-- Imprison (Lv 53)
-- Night Daze (Lv 57)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 15)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 21)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 28)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 32)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 37)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 40)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 42)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 49)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 53)
+- <a href="move-lookup.html?q=night-daze">Night Daze</a> (Lv 57)
 
 **Egg Moves**
-- Detect
-- Captivate
-- Dark Pulse
-- Snatch
-- Memento
-- Sucker Punch
-- Extrasensory
-- Counter
-- Copycat
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=memento">Memento</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=copycat">Copycat</a>
 
 **Tutor Moves**
-- Counter
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -166,30 +166,30 @@ Types: Dark • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM12 - Taunt
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM28 - Dig
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 30
@@ -210,54 +210,54 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Foul Play (Lv Evo)
-- Night Slash (Lv 1)
-- Night Daze (Lv 1)
-- Imprison (Lv 1)
-- U-Turn (Lv 1)
-- Scratch (Lv 1)
-- Leer (Lv 1)
-- Pursuit (Lv 5)
-- Fake Tears (Lv 9)
-- Fury Swipes (Lv 13)
-- Skitter Smack (Lv 15)
-- Snarl (Lv 17)
-- Scary Face (Lv 21)
-- Taunt (Lv 25)
-- Knock Off (Lv 28)
-- Torment (Lv 32)
-- Dark Pulse (Lv 35)
-- Agility (Lv 37)
-- Extrasensory (Lv 40)
-- Embargo (Lv 42)
-- Punishment (Lv 45)
-- Nasty Plot (Lv 49)
-- Imprison (Lv 53)
-- Night Daze (Lv 57)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv Evo)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=night-daze">Night Daze</a> (Lv 1)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 1)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 5)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 13)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 15)
+- <a href="move-lookup.html?q=snarl">Snarl</a> (Lv 17)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 21)
+- <a href="move-lookup.html?q=taunt">Taunt</a> (Lv 25)
+- <a href="move-lookup.html?q=knock-off">Knock Off</a> (Lv 28)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 32)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 37)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 40)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 42)
+- <a href="move-lookup.html?q=punishment">Punishment</a> (Lv 45)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 49)
+- <a href="move-lookup.html?q=imprison">Imprison</a> (Lv 53)
+- <a href="move-lookup.html?q=night-daze">Night Daze</a> (Lv 57)
 
 **Egg Moves**
-- Detect
-- Captivate
-- Dark Pulse
-- Snatch
-- Memento
-- Sucker Punch
-- Extrasensory
-- Counter
-- Copycat
+- <a href="move-lookup.html?q=detect">Detect</a>
+- <a href="move-lookup.html?q=captivate">Captivate</a>
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a>
+- <a href="move-lookup.html?q=snatch">Snatch</a>
+- <a href="move-lookup.html?q=memento">Memento</a>
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a>
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=copycat">Copycat</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Endure
-- Mega Kick
-- Mega Punch
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

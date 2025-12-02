@@ -32,29 +32,29 @@ Types: Rock / Ice • Egg Groups: Monster
 - Steel (4×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Froslass Cavern BF1 — Grass (Day) (2%)
@@ -77,42 +77,42 @@ Types: Rock / Ice • Egg Groups: Monster
 | Total | <span class="stat-value stat-mid">362</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Powder Snow (Lv 1)
-- Thunder Wave (Lv 5)
-- Rock Throw (Lv 10)
-- Icy Wind (Lv 13)
-- Take Down (Lv 15)
-- Mist (Lv 18)
-- Aurora Beam (Lv 20)
-- Ancient Power (Lv 23)
-- Round (Lv 27)
-- Avalanche (Lv 30)
-- Hail (Lv 34)
-- Nature Power (Lv 38)
-- Encore (Lv 40)
-- Light Screen (Lv 42)
-- Ice Beam (Lv 46)
-- Mystical Power (Lv 50)
-- Blizzard (Lv 55)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 5)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 10)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 13)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 15)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 18)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 23)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 27)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 30)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 34)
+- <a href="move-lookup.html?q=nature-power">Nature Power</a> (Lv 38)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 40)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 42)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 46)
+- <a href="move-lookup.html?q=mystical-power">Mystical Power</a> (Lv 50)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 55)
 
 **Egg Moves**
-- Haze
-- Barrier
-- Mirror Coat
-- Magnet Rise
-- Discharge
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a>
+- <a href="move-lookup.html?q=discharge">Discharge</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Icy Wind
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -175,32 +175,32 @@ Types: Rock / Ice • Egg Groups: Monster
 - Steel (4×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM29 - Psychic
-- TM32 - Double Team
-- TM33 - Reflect
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- TM50 - Deepwater Curse
-- TM52 - Frost Breath
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 34, Night
@@ -221,44 +221,44 @@ Lv. 34, Night
 | Total | <span class="stat-value stat-mid">521</span> |
 
 **Level-Up Moves**
-- Freeze-Dry (Lv Evo)
-- Deepwater Curse (Lv 1)
-- Growl (Lv 1)
-- Powder Snow (Lv 1)
-- Thunder Wave (Lv 5)
-- Rock Throw (Lv 10)
-- Icy Wind (Lv 13)
-- Take Down (Lv 15)
-- Mist (Lv 18)
-- Aurora Beam (Lv 20)
-- Ancient Power (Lv 23)
-- Round (Lv 27)
-- Avalanche (Lv 30)
-- Hail (Lv 34)
-- Nature Power (Lv 38)
-- Encore (Lv 40)
-- Light Screen (Lv 42)
-- Ice Beam (Lv 46)
-- Mystical Power (Lv 50)
-- Blizzard (Lv 55)
+- <a href="move-lookup.html?q=freeze-dry">Freeze-Dry</a> (Lv Evo)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=powder-snow">Powder Snow</a> (Lv 1)
+- <a href="move-lookup.html?q=thunder-wave">Thunder Wave</a> (Lv 5)
+- <a href="move-lookup.html?q=rock-throw">Rock Throw</a> (Lv 10)
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a> (Lv 13)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 15)
+- <a href="move-lookup.html?q=mist">Mist</a> (Lv 18)
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 23)
+- <a href="move-lookup.html?q=round">Round</a> (Lv 27)
+- <a href="move-lookup.html?q=avalanche">Avalanche</a> (Lv 30)
+- <a href="move-lookup.html?q=hail">Hail</a> (Lv 34)
+- <a href="move-lookup.html?q=nature-power">Nature Power</a> (Lv 38)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 40)
+- <a href="move-lookup.html?q=light-screen">Light Screen</a> (Lv 42)
+- <a href="move-lookup.html?q=ice-beam">Ice Beam</a> (Lv 46)
+- <a href="move-lookup.html?q=mystical-power">Mystical Power</a> (Lv 50)
+- <a href="move-lookup.html?q=blizzard">Blizzard</a> (Lv 55)
 
 **Egg Moves**
-- Haze
-- Barrier
-- Mirror Coat
-- Magnet Rise
-- Discharge
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=magnet-rise">Magnet Rise</a>
+- <a href="move-lookup.html?q=discharge">Discharge</a>
 
 **Tutor Moves**
-- Body Slam
-- Dream Eater
-- Endure
-- Icy Wind
-- Psych Up
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

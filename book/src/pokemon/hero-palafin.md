@@ -20,21 +20,21 @@ Types: Water • Egg Groups: Field / Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM07 - Whirlpool
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM42 - Facade
-- TM44 - Rest
-- TM50 - Deepwater Curse
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="hero-palafin" /> Caught</label>
@@ -52,45 +52,45 @@ Types: Water • Egg Groups: Field / Water 2
 | Total | <span class="stat-value stat-high">650</span> |
 
 **Level-Up Moves**
-- Flip Turn (Lv Evo)
-- Jet Punch (Lv 1)
-- Supersonic (Lv 1)
-- Water Gun (Lv 1)
-- Astonish (Lv 7)
-- Focus Energy (Lv 10)
-- Aqua Jet (Lv 13)
-- Pluck (Lv 15)
-- Double Hit (Lv 17)
-- Dive (Lv 21)
-- Charm (Lv 23)
-- Covet (Lv 26)
-- Acrobatics (Lv 29)
-- Encore (Lv 34)
-- Aqua Tail (Lv 39)
-- Jet Punch (Lv 42)
-- Deepwater Curse (Lv 44)
-- Ice Hammer (Lv 47)
-- Hydro Pump (Lv 50)
-- Meteor Mash (Lv 53)
-- Focus Punch (Lv 55)
-- Wave Crash (Lv 61)
+- <a href="move-lookup.html?q=flip-turn">Flip Turn</a> (Lv Evo)
+- <a href="move-lookup.html?q=jet-punch">Jet Punch</a> (Lv 1)
+- <a href="move-lookup.html?q=supersonic">Supersonic</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 7)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 10)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 13)
+- <a href="move-lookup.html?q=pluck">Pluck</a> (Lv 15)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 17)
+- <a href="move-lookup.html?q=dive">Dive</a> (Lv 21)
+- <a href="move-lookup.html?q=charm">Charm</a> (Lv 23)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 26)
+- <a href="move-lookup.html?q=acrobatics">Acrobatics</a> (Lv 29)
+- <a href="move-lookup.html?q=encore">Encore</a> (Lv 34)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 39)
+- <a href="move-lookup.html?q=jet-punch">Jet Punch</a> (Lv 42)
+- <a href="move-lookup.html?q=deepwater-curse">Deepwater Curse</a> (Lv 44)
+- <a href="move-lookup.html?q=ice-hammer">Ice Hammer</a> (Lv 47)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
+- <a href="move-lookup.html?q=meteor-mash">Meteor Mash</a> (Lv 53)
+- <a href="move-lookup.html?q=focus-punch">Focus Punch</a> (Lv 55)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 61)
 
 **Egg Moves**
-- Boomburst
-- Bounce
-- Counter
-- Haze
-- Tickle
+- <a href="move-lookup.html?q=boomburst">Boomburst</a>
+- <a href="move-lookup.html?q=bounce">Bounce</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=haze">Haze</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Endure
-- Ice Punch
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

@@ -29,25 +29,25 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Yellow Shard
@@ -74,56 +74,56 @@ Yellow Shard
 | Total | <span class="stat-value stat-low">300</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Defense Curl (Lv 1)
-- Sand Attack (Lv 3)
-- Poison Sting (Lv 5)
-- Rollout (Lv 7)
-- Rapid Spin (Lv 9)
-- Fury Cutter (Lv 11)
-- Magnitude (Lv 14)
-- Swift (Lv 17)
-- Fury Swipes (Lv 20)
-- Sand Tomb (Lv 23)
-- Cross Poison (Lv 26)
-- Night Slash (Lv 26)
-- Dig (Lv 30)
-- Gyro Ball (Lv 34)
-- Swords Dance (Lv 38)
-- Dire Claw (Lv 42)
-- Earthquake (Lv 46)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 3)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 5)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 7)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 11)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 14)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 20)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 23)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 26)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 26)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 30)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 34)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 38)
+- <a href="move-lookup.html?q=dire-claw">Dire Claw</a> (Lv 42)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 46)
 
 **Egg Moves**
-- Flail
-- Counter
-- Rapid Spin
-- Metal Claw
-- Crush Claw
-- Night Slash
-- Mud Shot
-- Endure
-- Chip Away
-- Rock Climb
-- Rototiller
-- Hone Claws
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=chip-away">Chip Away</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -183,25 +183,25 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM20 - Poison Jab
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Grip Claw
@@ -225,57 +225,57 @@ Lv. 22
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
-- Crush Claw (Lv Evo)
-- Scratch (Lv 1)
-- Defense Curl (Lv 1)
-- Sand Attack (Lv 3)
-- Poison Sting (Lv 5)
-- Rollout (Lv 7)
-- Rapid Spin (Lv 9)
-- Fury Cutter (Lv 11)
-- Magnitude (Lv 14)
-- Swift (Lv 17)
-- Fury Swipes (Lv 20)
-- Sand Tomb (Lv 24)
-- Cross Poison (Lv 28)
-- Night Slash (Lv 28)
-- Dig (Lv 33)
-- Gyro Ball (Lv 38)
-- Swords Dance (Lv 43)
-- Dire Claw (Lv 48)
-- Earthquake (Lv 53)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv Evo)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a> (Lv 1)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 3)
+- <a href="move-lookup.html?q=poison-sting">Poison Sting</a> (Lv 5)
+- <a href="move-lookup.html?q=rollout">Rollout</a> (Lv 7)
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a> (Lv 9)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 11)
+- <a href="move-lookup.html?q=magnitude">Magnitude</a> (Lv 14)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 17)
+- <a href="move-lookup.html?q=fury-swipes">Fury Swipes</a> (Lv 20)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 24)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 28)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 28)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 33)
+- <a href="move-lookup.html?q=gyro-ball">Gyro Ball</a> (Lv 38)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 43)
+- <a href="move-lookup.html?q=dire-claw">Dire Claw</a> (Lv 48)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 53)
 
 **Egg Moves**
-- Flail
-- Counter
-- Rapid Spin
-- Metal Claw
-- Crush Claw
-- Night Slash
-- Mud Shot
-- Endure
-- Chip Away
-- Rock Climb
-- Rototiller
-- Hone Claws
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=rapid-spin">Rapid Spin</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a>
+- <a href="move-lookup.html?q=night-slash">Night Slash</a>
+- <a href="move-lookup.html?q=mud-shot">Mud Shot</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=chip-away">Chip Away</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=hone-claws">Hone Claws</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Defense Curl
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fury Cutter
-- Mud-Slap
-- Rock Slide
-- Rollout
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=defense-curl">Defense Curl</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=rollout">Rollout</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

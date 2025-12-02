@@ -34,19 +34,19 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Encounter Locations**
 - Wanderer's Woods (North) — Grass (Night) (20%)
@@ -68,32 +68,32 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 | Total | <span class="stat-value stat-low">265</span> |
 
 **Level-Up Moves**
-- Fake Out (Lv 1)
-- Confide (Lv 1)
-- Bite (Lv 4)
-- Flatter (Lv 8)
-- Fake Tears (Lv 12)
-- Covet (Lv 15)
-- Assurance (Lv 17)
-- Swagger (Lv 20)
-- Sucker Punch (Lv 24)
-- Torment (Lv 28)
-- Dark Pulse (Lv 33)
-- Nasty Plot (Lv 36)
-- Play Rough (Lv 40)
-- Foul Play (Lv 44)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 1)
+- <a href="move-lookup.html?q=confide">Confide</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 4)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 8)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 12)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 15)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 17)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 20)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 24)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 28)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 33)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 36)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 40)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 44)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Endure
-- Mega Kick
-- Mega Punch
-- Metronome
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -154,19 +154,19 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Lv. 24
@@ -192,35 +192,35 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">380</span> |
 
 **Level-Up Moves**
-- False Surrender (Lv Evo)
-- Fake Out (Lv 1)
-- Confide (Lv 1)
-- Bite (Lv 1)
-- Flatter (Lv 1)
-- Fake Tears (Lv 12)
-- Covet (Lv 15)
-- Assurance (Lv 17)
-- Swagger (Lv 20)
-- Sucker Punch (Lv 24)
-- Torment (Lv 26)
-- Glare (Lv 30)
-- Shadow Claw (Lv 32)
-- Dark Pulse (Lv 35)
-- Bulk Up (Lv 40)
-- Play Rough (Lv 45)
-- Foul Play (Lv 50)
+- <a href="move-lookup.html?q=false-surrender">False Surrender</a> (Lv Evo)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 1)
+- <a href="move-lookup.html?q=confide">Confide</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 12)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 15)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 17)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 20)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 24)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 26)
+- <a href="move-lookup.html?q=glare">Glare</a> (Lv 30)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 32)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 40)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 45)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 50)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Endure
-- Mega Kick
-- Mega Punch
-- Metronome
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -281,22 +281,22 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM31 - Brick Break
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Lv. 42
@@ -320,42 +320,42 @@ Lv. 42
 | Total | <span class="stat-value stat-mid">510</span> |
 
 **Level-Up Moves**
-- Spirit Break (Lv Evo)
-- False Surrender (Lv 1)
-- Fake Out (Lv 1)
-- Confide (Lv 1)
-- Bite (Lv 1)
-- Flatter (Lv 1)
-- Fake Tears (Lv 12)
-- Covet (Lv 15)
-- Assurance (Lv 17)
-- Swagger (Lv 20)
-- Sucker Punch (Lv 24)
-- Torment (Lv 26)
-- Glare (Lv 30)
-- Shadow Claw (Lv 32)
-- Dark Pulse (Lv 35)
-- Bulk Up (Lv 40)
-- Play Rough (Lv 43)
-- Power-Up Punch (Lv 46)
-- Foul Play (Lv 50)
-- Hammer Arm (Lv 55)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv Evo)
+- <a href="move-lookup.html?q=false-surrender">False Surrender</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 1)
+- <a href="move-lookup.html?q=confide">Confide</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 12)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 15)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 17)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 20)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 24)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 26)
+- <a href="move-lookup.html?q=glare">Glare</a> (Lv 30)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 32)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 40)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 43)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 46)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 50)
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a> (Lv 55)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -414,22 +414,22 @@ Types: Dark / Fairy • Egg Groups: Fairy / Human-Like
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM15 - Draining Kiss
-- TM16 - Light Screen
-- TM17 - Protect
-- TM31 - Brick Break
-- TM33 - Reflect
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM53 - Power-Up Punch
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Evolution Info**
 Grimmsnarlite
@@ -450,42 +450,42 @@ Grimmsnarlite
 | Total | <span class="stat-value stat-high">610</span> |
 
 **Level-Up Moves**
-- Spirit Break (Lv Evo)
-- False Surrender (Lv 1)
-- Fake Out (Lv 1)
-- Confide (Lv 1)
-- Bite (Lv 1)
-- Flatter (Lv 1)
-- Fake Tears (Lv 12)
-- Covet (Lv 15)
-- Assurance (Lv 17)
-- Swagger (Lv 20)
-- Sucker Punch (Lv 24)
-- Torment (Lv 26)
-- Glare (Lv 30)
-- Shadow Claw (Lv 32)
-- Dark Pulse (Lv 35)
-- Bulk Up (Lv 40)
-- Play Rough (Lv 43)
-- Power-Up Punch (Lv 46)
-- Foul Play (Lv 50)
-- Hammer Arm (Lv 55)
+- <a href="move-lookup.html?q=spirit-break">Spirit Break</a> (Lv Evo)
+- <a href="move-lookup.html?q=false-surrender">False Surrender</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-out">Fake Out</a> (Lv 1)
+- <a href="move-lookup.html?q=confide">Confide</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=flatter">Flatter</a> (Lv 1)
+- <a href="move-lookup.html?q=fake-tears">Fake Tears</a> (Lv 12)
+- <a href="move-lookup.html?q=covet">Covet</a> (Lv 15)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 17)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 20)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 24)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 26)
+- <a href="move-lookup.html?q=glare">Glare</a> (Lv 30)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv 32)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 35)
+- <a href="move-lookup.html?q=bulk-up">Bulk Up</a> (Lv 40)
+- <a href="move-lookup.html?q=play-rough">Play Rough</a> (Lv 43)
+- <a href="move-lookup.html?q=power-up-punch">Power-Up Punch</a> (Lv 46)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 50)
+- <a href="move-lookup.html?q=hammer-arm">Hammer Arm</a> (Lv 55)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Fire Punch
-- Ice Punch
-- Mega Kick
-- Mega Punch
-- Metronome
-- Sleep Talk
-- Snore
-- Swagger
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=ice-punch">Ice Punch</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=metronome">Metronome</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

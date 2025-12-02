@@ -27,33 +27,33 @@ Types: Normal / Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM34 - Shock Wave
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Corrin Crossing — Grass (Night) (10%)
@@ -77,51 +77,51 @@ Types: Normal / Psychic • Egg Groups: Field
 | Total | <span class="stat-value stat-mid">455</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Astonish (Lv 1)
-- Power Swap (Lv 1)
-- Guard Swap (Lv 1)
-- Confusion (Lv 5)
-- Assurance (Lv 10)
-- Stomp (Lv 14)
-- Psybeam (Lv 19)
-- Agility (Lv 23)
-- Double Hit (Lv 28)
-- Twin Beam (Lv 32)
-- Crunch (Lv 37)
-- Baton Pass (Lv 41)
-- Nasty Plot (Lv 46)
-- Psychic (Lv 50)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=power-swap">Power Swap</a> (Lv 1)
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 5)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 10)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 19)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 23)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 28)
+- <a href="move-lookup.html?q=twin-beam">Twin Beam</a> (Lv 32)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 37)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 41)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 50)
 
 **Egg Moves**
-- Take Down
-- Amnesia
-- Foresight
-- Future Sight
-- Beat Up
-- Wish
-- Magic Coat
-- Double Kick
-- Mirror Coat
-- Razor Wind
-- Skill Swap
-- Secret Power
-- Mean Look
-- Psychic Terrain
-- Psychic Fangs
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=future-sight">Future Sight</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
+- <a href="move-lookup.html?q=psychic-fangs">Psychic Fangs</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -179,26 +179,26 @@ Types: Normal / Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- TM01 - Wish
-- TM04 - Calm Mind
-- TM05 - Psyshock
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM33 - Reflect
-- TM42 - Facade
-- TM44 - Rest
-- TM46 - Thief
-- TM48 - Skill Swap
-- TM49 - Bulldoze
-- TM54 - Dazzling Gleam
-- TM58 - Thunder Wave
+- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. knows Twin Beam
@@ -223,49 +223,49 @@ Lv. knows Twin Beam
 | Total | <span class="stat-value stat-mid">520</span> |
 
 **Level-Up Moves**
-- Tri Attack (Lv Evo)
-- Tackle (Lv 1)
-- Growl (Lv 1)
-- Astonish (Lv 1)
-- Power Swap (Lv 1)
-- Guard Swap (Lv 1)
-- Confusion (Lv 5)
-- Assurance (Lv 10)
-- Stomp (Lv 14)
-- Psybeam (Lv 19)
-- Agility (Lv 23)
-- Double Hit (Lv 28)
-- Twin Beam (Lv 32)
-- Crunch (Lv 37)
-- Baton Pass (Lv 41)
-- Nasty Plot (Lv 46)
-- Psychic (Lv 50)
-- Hyper Voice (Lv 53)
+- <a href="move-lookup.html?q=tri-attack">Tri Attack</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=astonish">Astonish</a> (Lv 1)
+- <a href="move-lookup.html?q=power-swap">Power Swap</a> (Lv 1)
+- <a href="move-lookup.html?q=guard-swap">Guard Swap</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 5)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 10)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 14)
+- <a href="move-lookup.html?q=psybeam">Psybeam</a> (Lv 19)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 23)
+- <a href="move-lookup.html?q=double-hit">Double Hit</a> (Lv 28)
+- <a href="move-lookup.html?q=twin-beam">Twin Beam</a> (Lv 32)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 37)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 41)
+- <a href="move-lookup.html?q=nasty-plot">Nasty Plot</a> (Lv 46)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 50)
+- <a href="move-lookup.html?q=hyper-voice">Hyper Voice</a> (Lv 53)
 
 **Egg Moves**
-- Take Down
-- Amnesia
-- Foresight
-- Future Sight
-- Beat Up
-- Wish
-- Magic Coat
-- Double Kick
-- Mirror Coat
-- Razor Wind
-- Skill Swap
-- Secret Power
-- Mean Look
-- Psychic Terrain
-- Psychic Fangs
+- <a href="move-lookup.html?q=take-down">Take Down</a>
+- <a href="move-lookup.html?q=amnesia">Amnesia</a>
+- <a href="move-lookup.html?q=foresight">Foresight</a>
+- <a href="move-lookup.html?q=future-sight">Future Sight</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=wish">Wish</a>
+- <a href="move-lookup.html?q=magic-coat">Magic Coat</a>
+- <a href="move-lookup.html?q=double-kick">Double Kick</a>
+- <a href="move-lookup.html?q=mirror-coat">Mirror Coat</a>
+- <a href="move-lookup.html?q=razor-wind">Razor Wind</a>
+- <a href="move-lookup.html?q=skill-swap">Skill Swap</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=psychic-terrain">Psychic Terrain</a>
+- <a href="move-lookup.html?q=psychic-fangs">Psychic Fangs</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Psych Up
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

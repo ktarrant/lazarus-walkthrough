@@ -32,22 +32,22 @@ Types: Bug / Flying • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Wide Lens
@@ -75,47 +75,47 @@ Wide Lens
 | Total | <span class="stat-value stat-mid">395</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Foresight (Lv 1)
-- Quick Attack (Lv 6)
-- Double Team (Lv 11)
-- Infestation (Lv 13)
-- Sonic Boom (Lv 15)
-- Detect (Lv 17)
-- Bug Bite (Lv 19)
-- Uproar (Lv 25)
-- Pursuit (Lv 28)
-- Ancient Power (Lv 30)
-- Dragon Pulse (Lv 34)
-- Fly (Lv 36)
-- U-turn (Lv 40)
-- Fiery Dance (Lv 43)
-- Bug Buzz (Lv 46)
-- Dragon Energy (Lv 52)
-- Draco Meteor (Lv 57)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 6)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 11)
+- <a href="move-lookup.html?q=infestation">Infestation</a> (Lv 13)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 15)
+- <a href="move-lookup.html?q=detect">Detect</a> (Lv 17)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 25)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 28)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 30)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 34)
+- <a href="move-lookup.html?q=fly">Fly</a> (Lv 36)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 40)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 43)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 46)
+- <a href="move-lookup.html?q=dragon-energy">Dragon Energy</a> (Lv 52)
+- <a href="move-lookup.html?q=draco-meteor">Draco Meteor</a> (Lv 57)
 
 **Egg Moves**
-- Whirlwind
-- Reversal
-- Leech Life
-- Signal Beam
-- Silver Wind
-- Feint
-- Feint Attack
-- Pursuit
-- Double-Edge
-- Secret Power
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=leech-life">Leech Life</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
 
 **Tutor Moves**
-- Double-Edge
-- Dream Eater
-- Endure
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -179,22 +179,22 @@ Types: Bug / Dragon • Egg Groups: Bug
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM47 - Steel Wing
-- TM57 - Roost
-- HM05 - Flash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
 
 **Held Item**
 Wide Lens
@@ -223,52 +223,52 @@ Lv. knows Ancient Power
 | Total | <span class="stat-value stat-mid">525</span> |
 
 **Level-Up Moves**
-- Scale Shot (Lv Evo)
-- Bug Buzz (Lv 1)
-- Night Slash (Lv 1)
-- Bug Bite (Lv 1)
-- Tackle (Lv 1)
-- Foresight (Lv 1)
-- Quick Attack (Lv 6)
-- Double Team (Lv 11)
-- Infestation (Lv 13)
-- Sonic Boom (Lv 15)
-- Detect (Lv 17)
-- Bug Bite (Lv 19)
-- Uproar (Lv 25)
-- Pursuit (Lv 28)
-- Ancient Power (Lv 30)
-- Dragon Pulse (Lv 34)
-- Fly (Lv 36)
-- U-turn (Lv 40)
-- Fiery Dance (Lv 43)
-- Bug Buzz (Lv 46)
-- Dragon Energy (Lv 52)
-- Draco Meteor (Lv 57)
+- <a href="move-lookup.html?q=scale-shot">Scale Shot</a> (Lv Evo)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 1)
+- <a href="move-lookup.html?q=night-slash">Night Slash</a> (Lv 1)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=foresight">Foresight</a> (Lv 1)
+- <a href="move-lookup.html?q=quick-attack">Quick Attack</a> (Lv 6)
+- <a href="move-lookup.html?q=double-team">Double Team</a> (Lv 11)
+- <a href="move-lookup.html?q=infestation">Infestation</a> (Lv 13)
+- <a href="move-lookup.html?q=sonic-boom">Sonic Boom</a> (Lv 15)
+- <a href="move-lookup.html?q=detect">Detect</a> (Lv 17)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 19)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 25)
+- <a href="move-lookup.html?q=pursuit">Pursuit</a> (Lv 28)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 30)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 34)
+- <a href="move-lookup.html?q=fly">Fly</a> (Lv 36)
+- <a href="move-lookup.html?q=u-turn">U-turn</a> (Lv 40)
+- <a href="move-lookup.html?q=fiery-dance">Fiery Dance</a> (Lv 43)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 46)
+- <a href="move-lookup.html?q=dragon-energy">Dragon Energy</a> (Lv 52)
+- <a href="move-lookup.html?q=draco-meteor">Draco Meteor</a> (Lv 57)
 
 **Egg Moves**
-- Whirlwind
-- Reversal
-- Leech Life
-- Signal Beam
-- Silver Wind
-- Feint
-- Feint Attack
-- Pursuit
-- Double-Edge
-- Secret Power
+- <a href="move-lookup.html?q=whirlwind">Whirlwind</a>
+- <a href="move-lookup.html?q=reversal">Reversal</a>
+- <a href="move-lookup.html?q=leech-life">Leech Life</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a>
+- <a href="move-lookup.html?q=feint">Feint</a>
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=secret-power">Secret Power</a>
 
 **Tutor Moves**
-- Double-Edge
-- Dream Eater
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

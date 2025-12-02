@@ -364,6 +364,9 @@ Type to filter and reveal a matching move card.
 <div class="lookup-card" data-name="curse curse">
 {{#include ./moves/curse.md}}
 </div>
+<div class="lookup-card" data-name="cut cut">
+{{#include ./moves/cut.md}}
+</div>
 <div class="lookup-card" data-name="dark pulse dark-pulse">
 {{#include ./moves/dark-pulse.md}}
 </div>
@@ -852,30 +855,6 @@ Type to filter and reveal a matching move card.
 </div>
 <div class="lookup-card" data-name="high jump kick high-jump-kick">
 {{#include ./moves/high-jump-kick.md}}
-</div>
-<div class="lookup-card" data-name="hm01 - cut hm01-cut">
-{{#include ./moves/hm01-cut.md}}
-</div>
-<div class="lookup-card" data-name="hm02 - fly hm02-fly">
-{{#include ./moves/hm02-fly.md}}
-</div>
-<div class="lookup-card" data-name="hm03 - surf hm03-surf">
-{{#include ./moves/hm03-surf.md}}
-</div>
-<div class="lookup-card" data-name="hm04 - strength hm04-strength">
-{{#include ./moves/hm04-strength.md}}
-</div>
-<div class="lookup-card" data-name="hm05 - flash hm05-flash">
-{{#include ./moves/hm05-flash.md}}
-</div>
-<div class="lookup-card" data-name="hm06 - rock smash hm06-rock-smash">
-{{#include ./moves/hm06-rock-smash.md}}
-</div>
-<div class="lookup-card" data-name="hm07 - waterfall hm07-waterfall">
-{{#include ./moves/hm07-waterfall.md}}
-</div>
-<div class="lookup-card" data-name="hm08 - dive hm08-dive">
-{{#include ./moves/hm08-dive.md}}
 </div>
 <div class="lookup-card" data-name="hone claws hone-claws">
 {{#include ./moves/hone-claws.md}}
@@ -1956,183 +1935,6 @@ Type to filter and reveal a matching move card.
 </div>
 <div class="lookup-card" data-name="tickle tickle">
 {{#include ./moves/tickle.md}}
-</div>
-<div class="lookup-card" data-name="tm01 - wish tm01-wish">
-{{#include ./moves/tm01-wish.md}}
-</div>
-<div class="lookup-card" data-name="tm02 - dragon claw tm02-dragon-claw">
-{{#include ./moves/tm02-dragon-claw.md}}
-</div>
-<div class="lookup-card" data-name="tm03 - water pulse tm03-water-pulse">
-{{#include ./moves/tm03-water-pulse.md}}
-</div>
-<div class="lookup-card" data-name="tm04 - calm mind tm04-calm-mind">
-{{#include ./moves/tm04-calm-mind.md}}
-</div>
-<div class="lookup-card" data-name="tm05 - psyshock tm05-psyshock">
-{{#include ./moves/tm05-psyshock.md}}
-</div>
-<div class="lookup-card" data-name="tm06 - toxic tm06-toxic">
-{{#include ./moves/tm06-toxic.md}}
-</div>
-<div class="lookup-card" data-name="tm07 - whirlpool tm07-whirlpool">
-{{#include ./moves/tm07-whirlpool.md}}
-</div>
-<div class="lookup-card" data-name="tm08 - bulk up tm08-bulk-up">
-{{#include ./moves/tm08-bulk-up.md}}
-</div>
-<div class="lookup-card" data-name="tm09 - bullet seed tm09-bullet-seed">
-{{#include ./moves/tm09-bullet-seed.md}}
-</div>
-<div class="lookup-card" data-name="tm11 - sunny day tm11-sunny-day">
-{{#include ./moves/tm11-sunny-day.md}}
-</div>
-<div class="lookup-card" data-name="tm12 - taunt tm12-taunt">
-{{#include ./moves/tm12-taunt.md}}
-</div>
-<div class="lookup-card" data-name="tm13 - ice beam tm13-ice-beam">
-{{#include ./moves/tm13-ice-beam.md}}
-</div>
-<div class="lookup-card" data-name="tm14 - blizzard tm14-blizzard">
-{{#include ./moves/tm14-blizzard.md}}
-</div>
-<div class="lookup-card" data-name="tm15 - draining kiss tm15-draining-kiss">
-{{#include ./moves/tm15-draining-kiss.md}}
-</div>
-<div class="lookup-card" data-name="tm15 - hyper beam tm15-hyper-beam">
-{{#include ./moves/tm15-hyper-beam.md}}
-</div>
-<div class="lookup-card" data-name="tm16 - light screen tm16-light-screen">
-{{#include ./moves/tm16-light-screen.md}}
-</div>
-<div class="lookup-card" data-name="tm17 - protect tm17-protect">
-{{#include ./moves/tm17-protect.md}}
-</div>
-<div class="lookup-card" data-name="tm18 - rain dance tm18-rain-dance">
-{{#include ./moves/tm18-rain-dance.md}}
-</div>
-<div class="lookup-card" data-name="tm19 - giga drain tm19-giga-drain">
-{{#include ./moves/tm19-giga-drain.md}}
-</div>
-<div class="lookup-card" data-name="tm20 - poison jab tm20-poison-jab">
-{{#include ./moves/tm20-poison-jab.md}}
-</div>
-<div class="lookup-card" data-name="tm22 - solar beam tm22-solar-beam">
-{{#include ./moves/tm22-solar-beam.md}}
-</div>
-<div class="lookup-card" data-name="tm23 - hex tm23-hex">
-{{#include ./moves/tm23-hex.md}}
-</div>
-<div class="lookup-card" data-name="tm23 - iron tail tm23-iron-tail">
-{{#include ./moves/tm23-iron-tail.md}}
-</div>
-<div class="lookup-card" data-name="tm24 - thunderbolt tm24-thunderbolt">
-{{#include ./moves/tm24-thunderbolt.md}}
-</div>
-<div class="lookup-card" data-name="tm25 - thunder tm25-thunder">
-{{#include ./moves/tm25-thunder.md}}
-</div>
-<div class="lookup-card" data-name="tm26 - earthquake tm26-earthquake">
-{{#include ./moves/tm26-earthquake.md}}
-</div>
-<div class="lookup-card" data-name="tm28 - dig tm28-dig">
-{{#include ./moves/tm28-dig.md}}
-</div>
-<div class="lookup-card" data-name="tm29 - psychic tm29-psychic">
-{{#include ./moves/tm29-psychic.md}}
-</div>
-<div class="lookup-card" data-name="tm30 - shadow ball tm30-shadow-ball">
-{{#include ./moves/tm30-shadow-ball.md}}
-</div>
-<div class="lookup-card" data-name="tm31 - brick break tm31-brick-break">
-{{#include ./moves/tm31-brick-break.md}}
-</div>
-<div class="lookup-card" data-name="tm32 - double team tm32-double-team">
-{{#include ./moves/tm32-double-team.md}}
-</div>
-<div class="lookup-card" data-name="tm33 - reflect tm33-reflect">
-{{#include ./moves/tm33-reflect.md}}
-</div>
-<div class="lookup-card" data-name="tm34 - shock wave tm34-shock-wave">
-{{#include ./moves/tm34-shock-wave.md}}
-</div>
-<div class="lookup-card" data-name="tm35 - flamethrower tm35-flamethrower">
-{{#include ./moves/tm35-flamethrower.md}}
-</div>
-<div class="lookup-card" data-name="tm36 - sludge bomb tm36-sludge-bomb">
-{{#include ./moves/tm36-sludge-bomb.md}}
-</div>
-<div class="lookup-card" data-name="tm37 - sandstorm tm37-sandstorm">
-{{#include ./moves/tm37-sandstorm.md}}
-</div>
-<div class="lookup-card" data-name="tm38 - fire blast tm38-fire-blast">
-{{#include ./moves/tm38-fire-blast.md}}
-</div>
-<div class="lookup-card" data-name="tm39 - rock tomb tm39-rock-tomb">
-{{#include ./moves/tm39-rock-tomb.md}}
-</div>
-<div class="lookup-card" data-name="tm40 - aerial ace tm40-aerial-ace">
-{{#include ./moves/tm40-aerial-ace.md}}
-</div>
-<div class="lookup-card" data-name="tm41 - torment tm41-torment">
-{{#include ./moves/tm41-torment.md}}
-</div>
-<div class="lookup-card" data-name="tm42 - facade tm42-facade">
-{{#include ./moves/tm42-facade.md}}
-</div>
-<div class="lookup-card" data-name="tm43 - poison fang tm43-poison-fang">
-{{#include ./moves/tm43-poison-fang.md}}
-</div>
-<div class="lookup-card" data-name="tm44 - rest tm44-rest">
-{{#include ./moves/tm44-rest.md}}
-</div>
-<div class="lookup-card" data-name="tm45 - attract tm45-attract">
-{{#include ./moves/tm45-attract.md}}
-</div>
-<div class="lookup-card" data-name="tm46 - thief tm46-thief">
-{{#include ./moves/tm46-thief.md}}
-</div>
-<div class="lookup-card" data-name="tm47 - steel wing tm47-steel-wing">
-{{#include ./moves/tm47-steel-wing.md}}
-</div>
-<div class="lookup-card" data-name="tm48 - skill swap tm48-skill-swap">
-{{#include ./moves/tm48-skill-swap.md}}
-</div>
-<div class="lookup-card" data-name="tm49 - bulldoze tm49-bulldoze">
-{{#include ./moves/tm49-bulldoze.md}}
-</div>
-<div class="lookup-card" data-name="tm50 - deepwater curse tm50-deepwater-curse">
-{{#include ./moves/tm50-deepwater-curse.md}}
-</div>
-<div class="lookup-card" data-name="tm51 - will-o-wisp tm51-will-o-wisp">
-{{#include ./moves/tm51-will-o-wisp.md}}
-</div>
-<div class="lookup-card" data-name="tm52 - frost breath tm52-frost-breath">
-{{#include ./moves/tm52-frost-breath.md}}
-</div>
-<div class="lookup-card" data-name="tm53 - power-up punch tm53-power-up-punch">
-{{#include ./moves/tm53-power-up-punch.md}}
-</div>
-<div class="lookup-card" data-name="tm54 - dazzling gleam tm54-dazzling-gleam">
-{{#include ./moves/tm54-dazzling-gleam.md}}
-</div>
-<div class="lookup-card" data-name="tm55 - snarl tm55-snarl">
-{{#include ./moves/tm55-snarl.md}}
-</div>
-<div class="lookup-card" data-name="tm56 - scald tm56-scald">
-{{#include ./moves/tm56-scald.md}}
-</div>
-<div class="lookup-card" data-name="tm57 - roost tm57-roost">
-{{#include ./moves/tm57-roost.md}}
-</div>
-<div class="lookup-card" data-name="tm58 - thunder wave tm58-thunder-wave">
-{{#include ./moves/tm58-thunder-wave.md}}
-</div>
-<div class="lookup-card" data-name="tm59 - dark pulse tm59-dark-pulse">
-{{#include ./moves/tm59-dark-pulse.md}}
-</div>
-<div class="lookup-card" data-name="tm60 - dragon dance tm60-dragon-dance">
-{{#include ./moves/tm60-dragon-dance.md}}
 </div>
 <div class="lookup-card" data-name="torch song torch-song">
 {{#include ./moves/torch-song.md}}

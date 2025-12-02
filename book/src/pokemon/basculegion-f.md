@@ -31,16 +31,16 @@ Types: Water • Egg Groups: Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM42 - Facade
-- TM44 - Rest
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Deep Sea Scale
@@ -61,36 +61,36 @@ Deep Sea Scale
 | Total | <span class="stat-value stat-mid">460</span> |
 
 **Level-Up Moves**
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Water Gun (Lv 1)
-- Uproar (Lv 3)
-- Headbutt (Lv 5)
-- Bite (Lv 7)
-- Aqua Jet (Lv 9)
-- Chip Away (Lv 11)
-- Take Down (Lv 14)
-- Crunch (Lv 17)
-- Aqua Tail (Lv 20)
-- Soak (Lv 23)
-- Double-Edge (Lv 26)
-- Scary Face (Lv 28)
-- Wave Crash (Lv 32)
-- Flail (Lv 34)
-- Final Gambit (Lv 38)
-- Zen Headbutt (Lv 40)
-- Thrash (Lv 42)
-- Head Smash (Lv 46)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 3)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 9)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 11)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 14)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 17)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 20)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 23)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 26)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 28)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 32)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 34)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 38)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 40)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 42)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 46)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -156,20 +156,20 @@ Types: Water / Ghost • Egg Groups: Water 2
 - Dark (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM42 - Facade
-- TM44 - Rest
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Evolution Info**
 Lv. after 294 Recoil Dmg, Male
@@ -190,40 +190,40 @@ Lv. after 294 Recoil Dmg, Male
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Bitter Malice (Lv Evo)
-- Shadow Force (Lv Evo)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Water Gun (Lv 1)
-- Uproar (Lv 3)
-- Headbutt (Lv 5)
-- Bite (Lv 7)
-- Aqua Jet (Lv 9)
-- Chip Away (Lv 11)
-- Take Down (Lv 14)
-- Crunch (Lv 17)
-- Aqua Tail (Lv 20)
-- Soak (Lv 23)
-- Double-Edge (Lv 26)
-- Scary Face (Lv 28)
-- Wave Crash (Lv 32)
-- Flail (Lv 34)
-- Final Gambit (Lv 38)
-- Phantom Force (Lv 40)
-- Zen Headbutt (Lv 42)
-- Shadow Ball (Lv 45)
-- Thrash (Lv 48)
-- Head Smash (Lv 53)
+- <a href="move-lookup.html?q=bitter-malice">Bitter Malice</a> (Lv Evo)
+- <a href="move-lookup.html?q=shadow-force">Shadow Force</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 3)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 9)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 11)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 14)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 17)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 20)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 23)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 26)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 28)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 32)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 34)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 38)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 40)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 42)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 45)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 48)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 53)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -289,20 +289,20 @@ Types: Water / Ghost • Egg Groups: Water 2
 - Dark (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM04 - Calm Mind
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM42 - Facade
-- TM44 - Rest
-- HM03 - Surf
-- HM07 - Waterfall
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
 
 **Evolution Info**
 Lv. after 294 Recoil Dmg, Female
@@ -323,40 +323,40 @@ Lv. after 294 Recoil Dmg, Female
 | Total | <span class="stat-value stat-mid">530</span> |
 
 **Level-Up Moves**
-- Bitter Malice (Lv Evo)
-- Shadow Force (Lv Evo)
-- Tackle (Lv 1)
-- Tail Whip (Lv 1)
-- Water Gun (Lv 1)
-- Uproar (Lv 3)
-- Headbutt (Lv 5)
-- Bite (Lv 7)
-- Aqua Jet (Lv 9)
-- Chip Away (Lv 11)
-- Take Down (Lv 14)
-- Crunch (Lv 17)
-- Aqua Tail (Lv 20)
-- Soak (Lv 23)
-- Double-Edge (Lv 26)
-- Scary Face (Lv 28)
-- Wave Crash (Lv 32)
-- Flail (Lv 34)
-- Final Gambit (Lv 38)
-- Phantom Force (Lv 40)
-- Zen Headbutt (Lv 42)
-- Shadow Ball (Lv 45)
-- Thrash (Lv 48)
-- Head Smash (Lv 53)
+- <a href="move-lookup.html?q=bitter-malice">Bitter Malice</a> (Lv Evo)
+- <a href="move-lookup.html?q=shadow-force">Shadow Force</a> (Lv Evo)
+- <a href="move-lookup.html?q=tackle">Tackle</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=uproar">Uproar</a> (Lv 3)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 5)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 7)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 9)
+- <a href="move-lookup.html?q=chip-away">Chip Away</a> (Lv 11)
+- <a href="move-lookup.html?q=take-down">Take Down</a> (Lv 14)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 17)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 20)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 23)
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a> (Lv 26)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 28)
+- <a href="move-lookup.html?q=wave-crash">Wave Crash</a> (Lv 32)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 34)
+- <a href="move-lookup.html?q=final-gambit">Final Gambit</a> (Lv 38)
+- <a href="move-lookup.html?q=phantom-force">Phantom Force</a> (Lv 40)
+- <a href="move-lookup.html?q=zen-headbutt">Zen Headbutt</a> (Lv 42)
+- <a href="move-lookup.html?q=shadow-ball">Shadow Ball</a> (Lv 45)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 48)
+- <a href="move-lookup.html?q=head-smash">Head Smash</a> (Lv 53)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Swift
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

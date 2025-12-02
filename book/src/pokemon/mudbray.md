@@ -29,19 +29,19 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Light Clay
@@ -70,40 +70,40 @@ Light Clay
 | Total | <span class="stat-value stat-mid">385</span> |
 
 **Level-Up Moves**
-- Mud-Slap (Lv 1)
-- Mud Sport (Lv 3)
-- Rototiller (Lv 8)
-- Bulldoze (Lv 10)
-- Double Kick (Lv 15)
-- Stomp (Lv 17)
-- Bide (Lv 22)
-- High Horsepower (Lv 24)
-- Rock Smash (Lv 27)
-- Iron Defense (Lv 29)
-- Heavy Slam (Lv 31)
-- Counter (Lv 36)
-- Earthquake (Lv 38)
-- Mega Kick (Lv 43)
-- Superpower (Lv 45)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 3)
+- <a href="move-lookup.html?q=rototiller">Rototiller</a> (Lv 8)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 10)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 15)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 17)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 22)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 24)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 27)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 29)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv 31)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 36)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 38)
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a> (Lv 43)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 45)
 
 **Egg Moves**
-- Body Slam
-- Double-Edge
-- Magnitude
-- Close Combat
-- Mud Bomb
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=magnitude">Magnitude</a>
+- <a href="move-lookup.html?q=close-combat">Close Combat</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mega Kick
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -163,19 +163,19 @@ Types: Ground • Egg Groups: Field
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM26 - Earthquake
-- TM32 - Double Team
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM49 - Bulldoze
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Light Clay
@@ -199,40 +199,40 @@ Lv. 30
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Mud-Slap (Lv 1)
-- Mud Sport (Lv 3)
-- Rototiller (Lv 8)
-- Bulldoze (Lv 10)
-- Double Kick (Lv 15)
-- Stomp (Lv 17)
-- Bide (Lv 22)
-- High Horsepower (Lv 24)
-- Rock Smash (Lv 27)
-- Iron Defense (Lv 29)
-- Heavy Slam (Lv 31)
-- Counter (Lv 36)
-- Earthquake (Lv 40)
-- Mega Kick (Lv 44)
-- Superpower (Lv 50)
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a> (Lv 1)
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a> (Lv 3)
+- <a href="move-lookup.html?q=rototiller">Rototiller</a> (Lv 8)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 10)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 15)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 17)
+- <a href="move-lookup.html?q=bide">Bide</a> (Lv 22)
+- <a href="move-lookup.html?q=high-horsepower">High Horsepower</a> (Lv 24)
+- <a href="move-lookup.html?q=rock-smash">Rock Smash</a> (Lv 27)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 29)
+- <a href="move-lookup.html?q=heavy-slam">Heavy Slam</a> (Lv 31)
+- <a href="move-lookup.html?q=counter">Counter</a> (Lv 36)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 40)
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a> (Lv 44)
+- <a href="move-lookup.html?q=superpower">Superpower</a> (Lv 50)
 
 **Egg Moves**
-- Body Slam
-- Double-Edge
-- Magnitude
-- Close Combat
-- Mud Bomb
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=magnitude">Magnitude</a>
+- <a href="move-lookup.html?q=close-combat">Close Combat</a>
+- <a href="move-lookup.html?q=mud-bomb">Mud Bomb</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mega Kick
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

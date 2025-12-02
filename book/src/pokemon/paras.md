@@ -34,26 +34,26 @@ Types: Bug / Grass • Egg Groups: Bug / Grass
 - Rock (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Tiny Mushroom
@@ -80,51 +80,51 @@ Tiny Mushroom
 | Total | <span class="stat-value stat-low">285</span> |
 
 **Level-Up Moves**
-- Scratch (Lv 1)
-- Stun Spore (Lv 6)
-- Poison Powder (Lv 6)
-- Absorb (Lv 11)
-- Fury Cutter (Lv 14)
-- Leafage (Lv 18)
-- Spore (Lv 22)
-- Slash (Lv 25)
-- False Swipe (Lv 28)
-- Leech Life (Lv 30)
-- Growth (Lv 33)
-- Giga Drain (Lv 38)
-- Aromatherapy (Lv 43)
-- Rage Powder (Lv 49)
-- X-Scissor (Lv 54)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 6)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 6)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 11)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 14)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 18)
+- <a href="move-lookup.html?q=spore">Spore</a> (Lv 22)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 25)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 28)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 30)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 33)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 38)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 43)
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a> (Lv 49)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 54)
 
 **Egg Moves**
-- Screech
-- Counter
-- Psybeam
-- Flail
-- Sweet Scent
-- Pursuit
-- Metal Claw
-- Bug Bite
-- Cross Poison
-- Agility
-- Endure
-- Natural Gift
-- Leech Seed
-- Wide Guard
-- Rototiller
-- Fell Stinger
-- Grassy Terrain
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -189,26 +189,26 @@ Types: Bug / Ghost • Egg Groups: Bug / Grass
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM09 - Bullet Seed
-- TM11 - Sunny Day
-- TM16 - Light Screen
-- TM17 - Protect
-- TM19 - Giga Drain
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM33 - Reflect
-- TM36 - Sludge Bomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- HM01 - Cut
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Tiny Mushroom
@@ -232,54 +232,54 @@ Lv. 24
 | Total | <span class="stat-value stat-mid">435</span> |
 
 **Level-Up Moves**
-- Shadow Claw (Lv Evo)
-- Cross Poison (Lv 1)
-- Scratch (Lv 1)
-- Stun Spore (Lv 6)
-- Poison Powder (Lv 6)
-- Absorb (Lv 11)
-- Fury Cutter (Lv 14)
-- Leafage (Lv 18)
-- Spore (Lv 22)
-- Slash (Lv 25)
-- False Swipe (Lv 28)
-- Leech Life (Lv 30)
-- Dream Eater (Lv 32)
-- Growth (Lv 34)
-- Giga Drain (Lv 38)
-- Aromatherapy (Lv 43)
-- Rage Powder (Lv 49)
-- X-Scissor (Lv 54)
+- <a href="move-lookup.html?q=shadow-claw">Shadow Claw</a> (Lv Evo)
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a> (Lv 1)
+- <a href="move-lookup.html?q=scratch">Scratch</a> (Lv 1)
+- <a href="move-lookup.html?q=stun-spore">Stun Spore</a> (Lv 6)
+- <a href="move-lookup.html?q=poison-powder">Poison Powder</a> (Lv 6)
+- <a href="move-lookup.html?q=absorb">Absorb</a> (Lv 11)
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a> (Lv 14)
+- <a href="move-lookup.html?q=leafage">Leafage</a> (Lv 18)
+- <a href="move-lookup.html?q=spore">Spore</a> (Lv 22)
+- <a href="move-lookup.html?q=slash">Slash</a> (Lv 25)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 28)
+- <a href="move-lookup.html?q=leech-life">Leech Life</a> (Lv 30)
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a> (Lv 32)
+- <a href="move-lookup.html?q=growth">Growth</a> (Lv 34)
+- <a href="move-lookup.html?q=giga-drain">Giga Drain</a> (Lv 38)
+- <a href="move-lookup.html?q=aromatherapy">Aromatherapy</a> (Lv 43)
+- <a href="move-lookup.html?q=rage-powder">Rage Powder</a> (Lv 49)
+- <a href="move-lookup.html?q=x-scissor">X-Scissor</a> (Lv 54)
 
 **Egg Moves**
-- Screech
-- Counter
-- Psybeam
-- Flail
-- Sweet Scent
-- Pursuit
-- Metal Claw
-- Bug Bite
-- Cross Poison
-- Agility
-- Endure
-- Natural Gift
-- Leech Seed
-- Wide Guard
-- Rototiller
-- Fell Stinger
-- Grassy Terrain
+- <a href="move-lookup.html?q=screech">Screech</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=sweet-scent">Sweet Scent</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=metal-claw">Metal Claw</a>
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a>
+- <a href="move-lookup.html?q=cross-poison">Cross Poison</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=natural-gift">Natural Gift</a>
+- <a href="move-lookup.html?q=leech-seed">Leech Seed</a>
+- <a href="move-lookup.html?q=wide-guard">Wide Guard</a>
+- <a href="move-lookup.html?q=rototiller">Rototiller</a>
+- <a href="move-lookup.html?q=fell-stinger">Fell Stinger</a>
+- <a href="move-lookup.html?q=grassy-terrain">Grassy Terrain</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Fury Cutter
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

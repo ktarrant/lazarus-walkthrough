@@ -27,24 +27,24 @@ Types: Water • Egg Groups: Water 3 / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Kalami City — Fishing (60%)
@@ -75,38 +75,38 @@ Types: Water • Egg Groups: Water 3 / Water 1
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Splash (Lv 1)
-- Water Gun (Lv 1)
-- Water Sport (Lv 7)
-- Vise Grip (Lv 9)
-- Bubble (Lv 12)
-- Flail (Lv 16)
-- Bubble Beam (Lv 20)
-- Bug Bite (Lv 23)
-- Swords Dance (Lv 25)
-- Crabhammer (Lv 30)
-- Water Pulse (Lv 32)
-- Bug Buzz (Lv 35)
-- Smack Down (Lv 39)
-- Aqua Jet (Lv 43)
-- Octazooka (Lv 50)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 7)
+- <a href="move-lookup.html?q=vise-grip">Vise Grip</a> (Lv 9)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 12)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 16)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 30)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 32)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 35)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 39)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 43)
+- <a href="move-lookup.html?q=octazooka">Octazooka</a> (Lv 50)
 
 **Egg Moves**
-- Aqua Jet
-- Entrainment
-- Endure
-- Crabhammer
-- Helping Hand
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>
@@ -164,25 +164,25 @@ Types: Water • Egg Groups: Water 3 / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM56 - Scald
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 37
@@ -206,44 +206,44 @@ Lv. 37
 | Total | <span class="stat-value stat-mid">500</span> |
 
 **Level-Up Moves**
-- Aura Sphere (Lv Evo)
-- Dark Pulse (Lv 1)
-- Dragon Pulse (Lv 1)
-- Heal Pulse (Lv 1)
-- Splash (Lv 1)
-- Water Gun (Lv 1)
-- Water Sport (Lv 7)
-- Vise Grip (Lv 9)
-- Bubble (Lv 12)
-- Flail (Lv 16)
-- Bubble Beam (Lv 20)
-- Bug Bite (Lv 23)
-- Swords Dance (Lv 25)
-- Crabhammer (Lv 30)
-- Water Pulse (Lv 32)
-- Bug Buzz (Lv 35)
-- Smack Down (Lv 39)
-- Aqua Jet (Lv 43)
-- Dragon Pulse (Lv 45)
-- Octazooka (Lv 50)
+- <a href="move-lookup.html?q=aura-sphere">Aura Sphere</a> (Lv Evo)
+- <a href="move-lookup.html?q=dark-pulse">Dark Pulse</a> (Lv 1)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 1)
+- <a href="move-lookup.html?q=heal-pulse">Heal Pulse</a> (Lv 1)
+- <a href="move-lookup.html?q=splash">Splash</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 7)
+- <a href="move-lookup.html?q=vise-grip">Vise Grip</a> (Lv 9)
+- <a href="move-lookup.html?q=bubble">Bubble</a> (Lv 12)
+- <a href="move-lookup.html?q=flail">Flail</a> (Lv 16)
+- <a href="move-lookup.html?q=bubble-beam">Bubble Beam</a> (Lv 20)
+- <a href="move-lookup.html?q=bug-bite">Bug Bite</a> (Lv 23)
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a> (Lv 25)
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a> (Lv 30)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 32)
+- <a href="move-lookup.html?q=bug-buzz">Bug Buzz</a> (Lv 35)
+- <a href="move-lookup.html?q=smack-down">Smack Down</a> (Lv 39)
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a> (Lv 43)
+- <a href="move-lookup.html?q=dragon-pulse">Dragon Pulse</a> (Lv 45)
+- <a href="move-lookup.html?q=octazooka">Octazooka</a> (Lv 50)
 
 **Egg Moves**
-- Aqua Jet
-- Entrainment
-- Endure
-- Crabhammer
-- Helping Hand
+- <a href="move-lookup.html?q=aqua-jet">Aqua Jet</a>
+- <a href="move-lookup.html?q=entrainment">Entrainment</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=crabhammer">Crabhammer</a>
+- <a href="move-lookup.html?q=helping-hand">Helping Hand</a>
 
 **Tutor Moves**
-- Body Slam
-- Endure
-- Icy Wind
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
-- Swords Dance
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
 </div>
 </div>
 <script>

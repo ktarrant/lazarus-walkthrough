@@ -37,25 +37,25 @@ Types: Ground / Dark • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
 
 **Held Item**
 Black Glasses
@@ -81,49 +81,49 @@ Black Glasses
 | Total | <span class="stat-value stat-low">292</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Rage (Lv 1)
-- Bite (Lv 4)
-- Sand Attack (Lv 7)
-- Torment (Lv 10)
-- Sand Tomb (Lv 13)
-- Assurance (Lv 16)
-- Bulldoze (Lv 19)
-- Embargo (Lv 22)
-- Swagger (Lv 24)
-- Skitter Smack (Lv 27)
-- Crunch (Lv 30)
-- Dig (Lv 31)
-- Scary Face (Lv 34)
-- Foul Play (Lv 37)
-- Sandstorm (Lv 40)
-- Earthquake (Lv 43)
-- Thrash (Lv 46)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 4)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 10)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 13)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 16)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 19)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 24)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 27)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 30)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 31)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 34)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 37)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 43)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 46)
 
 **Egg Moves**
-- Double-Edge
-- Rock Climb
-- Pursuit
-- Uproar
-- Fire Fang
-- Thunder Fang
-- Beat Up
-- Focus Energy
-- Counter
-- Mean Look
-- Me First
-- Power Trip
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -189,30 +189,30 @@ Types: Ground / Dark • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Black Glasses
@@ -239,51 +239,51 @@ Lv. 29
 | Total | <span class="stat-value stat-mid">351</span> |
 
 **Level-Up Moves**
-- Leer (Lv 1)
-- Rage (Lv 1)
-- Bite (Lv 4)
-- Sand Attack (Lv 7)
-- Torment (Lv 10)
-- Sand Tomb (Lv 13)
-- Assurance (Lv 16)
-- Bulldoze (Lv 19)
-- Embargo (Lv 22)
-- Swagger (Lv 24)
-- Skitter Smack (Lv 27)
-- Crunch (Lv 30)
-- Dig (Lv 31)
-- Scary Face (Lv 34)
-- Foul Play (Lv 37)
-- Sandstorm (Lv 40)
-- Earthquake (Lv 43)
-- Thrash (Lv 46)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 4)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 10)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 13)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 16)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 19)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 24)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 27)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 30)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 31)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 34)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 37)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 43)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 46)
 
 **Egg Moves**
-- Double-Edge
-- Rock Climb
-- Pursuit
-- Uproar
-- Fire Fang
-- Thunder Fang
-- Beat Up
-- Focus Energy
-- Counter
-- Mean Look
-- Me First
-- Power Trip
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -349,31 +349,31 @@ Types: Ground / Dark • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM06 - Toxic
-- TM08 - Bulk Up
-- TM12 - Taunt
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM36 - Sludge Bomb
-- TM37 - Sandstorm
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM41 - Torment
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- TM55 - Snarl
-- TM59 - Dark Pulse
-- HM01 - Cut
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Black Glasses
@@ -397,54 +397,54 @@ Lv. 40
 | Total | <span class="stat-value stat-mid">529</span> |
 
 **Level-Up Moves**
-- Power Trip (Lv 1)
-- Leer (Lv 1)
-- Rage (Lv 1)
-- Bite (Lv 4)
-- Sand Attack (Lv 7)
-- Torment (Lv 10)
-- Sand Tomb (Lv 13)
-- Assurance (Lv 16)
-- Bulldoze (Lv 19)
-- Embargo (Lv 22)
-- Swagger (Lv 24)
-- Skitter Smack (Lv 27)
-- Crunch (Lv 30)
-- Dig (Lv 31)
-- Scary Face (Lv 34)
-- Foul Play (Lv 37)
-- Sandstorm (Lv 40)
-- Earthquake (Lv 43)
-- Thrash (Lv 46)
-- Jaw Lock (Lv 50)
-- Outrage (Lv 54)
+- <a href="move-lookup.html?q=power-trip">Power Trip</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 4)
+- <a href="move-lookup.html?q=sand-attack">Sand Attack</a> (Lv 7)
+- <a href="move-lookup.html?q=torment">Torment</a> (Lv 10)
+- <a href="move-lookup.html?q=sand-tomb">Sand Tomb</a> (Lv 13)
+- <a href="move-lookup.html?q=assurance">Assurance</a> (Lv 16)
+- <a href="move-lookup.html?q=bulldoze">Bulldoze</a> (Lv 19)
+- <a href="move-lookup.html?q=embargo">Embargo</a> (Lv 22)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 24)
+- <a href="move-lookup.html?q=skitter-smack">Skitter Smack</a> (Lv 27)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 30)
+- <a href="move-lookup.html?q=dig">Dig</a> (Lv 31)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 34)
+- <a href="move-lookup.html?q=foul-play">Foul Play</a> (Lv 37)
+- <a href="move-lookup.html?q=sandstorm">Sandstorm</a> (Lv 40)
+- <a href="move-lookup.html?q=earthquake">Earthquake</a> (Lv 43)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 46)
+- <a href="move-lookup.html?q=jaw-lock">Jaw Lock</a> (Lv 50)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 54)
 
 **Egg Moves**
-- Double-Edge
-- Rock Climb
-- Pursuit
-- Uproar
-- Fire Fang
-- Thunder Fang
-- Beat Up
-- Focus Energy
-- Counter
-- Mean Look
-- Me First
-- Power Trip
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=rock-climb">Rock Climb</a>
+- <a href="move-lookup.html?q=pursuit">Pursuit</a>
+- <a href="move-lookup.html?q=uproar">Uproar</a>
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a>
+- <a href="move-lookup.html?q=thunder-fang">Thunder Fang</a>
+- <a href="move-lookup.html?q=beat-up">Beat Up</a>
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=mean-look">Mean Look</a>
+- <a href="move-lookup.html?q=me-first">Me First</a>
+- <a href="move-lookup.html?q=power-trip">Power Trip</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Endure
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>

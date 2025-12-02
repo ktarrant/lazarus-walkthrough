@@ -33,25 +33,25 @@ Types: Water / Fairy • Egg Groups: Water 2
 - Poison (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- TM57 - Roost
-- HM03 - Surf
-- HM05 - Flash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Heart Scale
@@ -99,47 +99,47 @@ Heart Scale
 | Total | <span class="stat-value stat-mid">330</span> |
 
 **Level-Up Moves**
-- Pound (Lv 1)
-- Water Gun (Lv 6)
-- Attract (Lv 10)
-- Rain Dance (Lv 13)
-- Gust (Lv 17)
-- Draining Kiss (Lv 20)
-- Water Pulse (Lv 22)
-- Captivate (Lv 26)
-- Safeguard (Lv 29)
-- Aqua Ring (Lv 31)
-- Dazzling Gleam (Lv 34)
-- Whirlpool (Lv 37)
-- Air Cutter (Lv 40)
-- U-Turn (Lv 43)
-- Bounce (Lv 45)
-- Silver Wind (Lv 49)
-- Moonblast (Lv 52)
-- Soak (Lv 54)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 6)
+- <a href="move-lookup.html?q=attract">Attract</a> (Lv 10)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 13)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 17)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 20)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 22)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 26)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 29)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 31)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 34)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 37)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv 40)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 43)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 45)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 49)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 52)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 54)
 
 **Egg Moves**
-- Sweet Kiss
-- Charm
-- Flail
-- Aqua Tail
-- Splash
-- Psybeam
-- Tickle
-- Agility
-- Brine
-- Aurora Beam
-- Signal Beam
-- Confuse Ray
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=splash">Splash</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -203,26 +203,26 @@ Types: Water / Fairy • Egg Groups: Water 2
 - Poison (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM54 - Dazzling Gleam
-- TM56 - Scald
-- TM57 - Roost
-- HM03 - Surf
-- HM05 - Flash
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 26
@@ -248,48 +248,48 @@ Lv. 26
 | Total | <span class="stat-value stat-mid">470</span> |
 
 **Level-Up Moves**
-- Air Cutter (Lv Evo)
-- Pound (Lv 1)
-- Water Gun (Lv 6)
-- Attract (Lv 10)
-- Rain Dance (Lv 13)
-- Gust (Lv 17)
-- Draining Kiss (Lv 20)
-- Water Pulse (Lv 22)
-- Captivate (Lv 26)
-- Safeguard (Lv 29)
-- Aqua Ring (Lv 31)
-- Dazzling Gleam (Lv 34)
-- Whirlpool (Lv 37)
-- Air Slash (Lv 40)
-- U-Turn (Lv 43)
-- Bounce (Lv 45)
-- Silver Wind (Lv 49)
-- Moonblast (Lv 52)
-- Soak (Lv 54)
+- <a href="move-lookup.html?q=air-cutter">Air Cutter</a> (Lv Evo)
+- <a href="move-lookup.html?q=pound">Pound</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 6)
+- <a href="move-lookup.html?q=attract">Attract</a> (Lv 10)
+- <a href="move-lookup.html?q=rain-dance">Rain Dance</a> (Lv 13)
+- <a href="move-lookup.html?q=gust">Gust</a> (Lv 17)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv 20)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 22)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 26)
+- <a href="move-lookup.html?q=safeguard">Safeguard</a> (Lv 29)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 31)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 34)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 37)
+- <a href="move-lookup.html?q=air-slash">Air Slash</a> (Lv 40)
+- <a href="move-lookup.html?q=u-turn">U-Turn</a> (Lv 43)
+- <a href="move-lookup.html?q=bounce">Bounce</a> (Lv 45)
+- <a href="move-lookup.html?q=silver-wind">Silver Wind</a> (Lv 49)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 52)
+- <a href="move-lookup.html?q=soak">Soak</a> (Lv 54)
 
 **Egg Moves**
-- Sweet Kiss
-- Charm
-- Flail
-- Aqua Tail
-- Splash
-- Psybeam
-- Tickle
-- Agility
-- Brine
-- Aurora Beam
-- Signal Beam
-- Confuse Ray
+- <a href="move-lookup.html?q=sweet-kiss">Sweet Kiss</a>
+- <a href="move-lookup.html?q=charm">Charm</a>
+- <a href="move-lookup.html?q=flail">Flail</a>
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a>
+- <a href="move-lookup.html?q=splash">Splash</a>
+- <a href="move-lookup.html?q=psybeam">Psybeam</a>
+- <a href="move-lookup.html?q=tickle">Tickle</a>
+- <a href="move-lookup.html?q=agility">Agility</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=aurora-beam">Aurora Beam</a>
+- <a href="move-lookup.html?q=signal-beam">Signal Beam</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
 
 **Tutor Moves**
-- Endure
-- Icy Wind
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>

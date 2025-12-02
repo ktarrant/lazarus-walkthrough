@@ -31,28 +31,28 @@ Types: Ground • Egg Groups: Monster
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Thick Club
@@ -79,49 +79,49 @@ Thick Club
 | Total | <span class="stat-value stat-mid">320</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Tail Whip (Lv 3)
-- Bone Club (Lv 7)
-- Headbutt (Lv 11)
-- Leer (Lv 13)
-- Focus Energy (Lv 17)
-- Bonemarang (Lv 21)
-- Rage (Lv 23)
-- Rock Blast (Lv 25)
-- False Swipe (Lv 27)
-- Shadow Bone (Lv 29)
-- Thrash (Lv 31)
-- Fling (Lv 33)
-- Spike Cannon (Lv 35)
-- Stomping Tantrum (Lv 37)
-- Endeavor (Lv 41)
-- Bone Rush (Lv 43)
-- Retaliate (Lv 47)
-- Double Edge (Lv 51)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 3)
+- <a href="move-lookup.html?q=bone-club">Bone Club</a> (Lv 7)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 13)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 17)
+- <a href="move-lookup.html?q=bonemarang">Bonemarang</a> (Lv 21)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 25)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 27)
+- <a href="move-lookup.html?q=shadow-bone">Shadow Bone</a> (Lv 29)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 31)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 33)
+- <a href="move-lookup.html?q=spike-cannon">Spike Cannon</a> (Lv 35)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 37)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 41)
+- <a href="move-lookup.html?q=bone-rush">Bone Rush</a> (Lv 43)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 47)
+- <a href="move-lookup.html?q=double-edge">Double Edge</a> (Lv 51)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Fury Cutter
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -181,28 +181,28 @@ Types: Ground • Egg Groups: Monster
 - Ice (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM26 - Earthquake
-- TM28 - Dig
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM53 - Power-Up Punch
-- HM04 - Strength
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm53-power-up-punch">TM53 - Power-Up Punch</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 
 **Held Item**
 Thick Club
@@ -226,49 +226,49 @@ Lv. 28, Day
 | Total | <span class="stat-value stat-mid">445</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Tail Whip (Lv 3)
-- Bone Club (Lv 7)
-- Headbutt (Lv 11)
-- Leer (Lv 13)
-- Focus Energy (Lv 17)
-- Bonemarang (Lv 21)
-- Rage (Lv 23)
-- Rock Blast (Lv 25)
-- False Swipe (Lv 27)
-- Shadow Bone (Lv 29)
-- Thrash (Lv 31)
-- Fling (Lv 33)
-- Spike Cannon (Lv 35)
-- Stomping Tantrum (Lv 37)
-- Endeavor (Lv 41)
-- Bone Rush (Lv 43)
-- Retaliate (Lv 47)
-- Double Edge (Lv 51)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 3)
+- <a href="move-lookup.html?q=bone-club">Bone Club</a> (Lv 7)
+- <a href="move-lookup.html?q=headbutt">Headbutt</a> (Lv 11)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 13)
+- <a href="move-lookup.html?q=focus-energy">Focus Energy</a> (Lv 17)
+- <a href="move-lookup.html?q=bonemarang">Bonemarang</a> (Lv 21)
+- <a href="move-lookup.html?q=rage">Rage</a> (Lv 23)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 25)
+- <a href="move-lookup.html?q=false-swipe">False Swipe</a> (Lv 27)
+- <a href="move-lookup.html?q=shadow-bone">Shadow Bone</a> (Lv 29)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 31)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 33)
+- <a href="move-lookup.html?q=spike-cannon">Spike Cannon</a> (Lv 35)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 37)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 41)
+- <a href="move-lookup.html?q=bone-rush">Bone Rush</a> (Lv 43)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 47)
+- <a href="move-lookup.html?q=double-edge">Double Edge</a> (Lv 51)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Counter
-- Double-Edge
-- Dynamic Punch
-- Endure
-- Fire Punch
-- Fury Cutter
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=counter">Counter</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dynamic-punch">Dynamic Punch</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=fury-cutter">Fury Cutter</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>
@@ -336,32 +336,32 @@ Types: Fire / Ghost • Egg Groups: Monster
 - Dark (2×)
 
 **TM/HM Moves**
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM23 - Hex
-- TM24 - Thunderbolt
-- TM25 - Thunder
-- TM26 - Earthquake
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM31 - Brick Break
-- TM32 - Double Team
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM39 - Rock Tomb
-- TM40 - Aerial Ace
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM46 - Thief
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM59 - Dark Pulse
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Thick Club
@@ -385,46 +385,46 @@ Lv. 28, Night
 | Total | <span class="stat-value stat-mid">450</span> |
 
 **Level-Up Moves**
-- Growl (Lv 1)
-- Tail Whip (Lv 3)
-- Bone Club (Lv 7)
-- Flame Wheel (Lv 11)
-- Leer (Lv 13)
-- Hex (Lv 17)
-- Bonemerang (Lv 21)
-- Will-O-Wisp (Lv 23)
-- Shadow Bone (Lv 27)
-- Thrash (Lv 33)
-- Rock Blast (Lv 35)
-- Fling (Lv 37)
-- Stomping Tantrum (Lv 43)
-- Endeavor (Lv 45)
-- Raging Fury (Lv 48)
-- Flare Blitz (Lv 53)
-- Retaliate (Lv 59)
-- Bone Rush (Lv 65)
+- <a href="move-lookup.html?q=growl">Growl</a> (Lv 1)
+- <a href="move-lookup.html?q=tail-whip">Tail Whip</a> (Lv 3)
+- <a href="move-lookup.html?q=bone-club">Bone Club</a> (Lv 7)
+- <a href="move-lookup.html?q=flame-wheel">Flame Wheel</a> (Lv 11)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 13)
+- <a href="move-lookup.html?q=hex">Hex</a> (Lv 17)
+- <a href="move-lookup.html?q=bonemerang">Bonemerang</a> (Lv 21)
+- <a href="move-lookup.html?q=will-o-wisp">Will-O-Wisp</a> (Lv 23)
+- <a href="move-lookup.html?q=shadow-bone">Shadow Bone</a> (Lv 27)
+- <a href="move-lookup.html?q=thrash">Thrash</a> (Lv 33)
+- <a href="move-lookup.html?q=rock-blast">Rock Blast</a> (Lv 35)
+- <a href="move-lookup.html?q=fling">Fling</a> (Lv 37)
+- <a href="move-lookup.html?q=stomping-tantrum">Stomping Tantrum</a> (Lv 43)
+- <a href="move-lookup.html?q=endeavor">Endeavor</a> (Lv 45)
+- <a href="move-lookup.html?q=raging-fury">Raging Fury</a> (Lv 48)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 53)
+- <a href="move-lookup.html?q=retaliate">Retaliate</a> (Lv 59)
+- <a href="move-lookup.html?q=bone-rush">Bone Rush</a> (Lv 65)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Dream Eater
-- Endure
-- Fire Punch
-- Icy Wind
-- Mega Kick
-- Mega Punch
-- Mud-Slap
-- Rock Slide
-- Seismic Toss
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
-- Swords Dance
-- Thunder Punch
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=dream-eater">Dream Eater</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=fire-punch">Fire Punch</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mega-kick">Mega Kick</a>
+- <a href="move-lookup.html?q=mega-punch">Mega Punch</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=rock-slide">Rock Slide</a>
+- <a href="move-lookup.html?q=seismic-toss">Seismic Toss</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
+- <a href="move-lookup.html?q=swords-dance">Swords Dance</a>
+- <a href="move-lookup.html?q=thunder-punch">Thunder Punch</a>
 </div>
 </div>
 <script>

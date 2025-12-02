@@ -31,28 +31,28 @@ Types: Fire • Egg Groups: -
 - Rock (2×)
 
 **TM/HM Moves**
-- TM04 - Calm Mind
-- TM06 - Toxic
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM22 - Solar Beam
-- TM28 - Dig
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM33 - Reflect
-- TM35 - Flamethrower
-- TM37 - Sandstorm
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM51 - Will-O-Wisp
-- TM55 - Snarl
-- HM01 - Cut
-- HM04 - Strength
-- HM05 - Flash
-- HM06 - Rock Smash
+- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=hm01-cut">HM01 - Cut</a>
+- <a href="move-lookup.html?q=hm04-strength">HM04 - Strength</a>
+- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="entei" /> Caught</label>
@@ -70,39 +70,39 @@ Types: Fire • Egg Groups: -
 | Total | <span class="stat-value stat-high">560</span> |
 
 **Level-Up Moves**
-- Sacred Fire (Lv 1)
-- Eruption (Lv 1)
-- Extrasensory (Lv 1)
-- Lava Plume (Lv 1)
-- Bite (Lv 1)
-- Leer (Lv 1)
-- Ember (Lv 8)
-- Roar (Lv 15)
-- Fire Spin (Lv 20)
-- Stomp (Lv 25)
-- Flamethrower (Lv 30)
-- Swagger (Lv 35)
-- Fire Fang (Lv 40)
-- Lava Plume (Lv 45)
-- Extrasensory (Lv 50)
-- Fire Blast (Lv 55)
-- Dragon Energy (Lv 60)
-- Calm Mind (Lv 65)
-- Eruption (Lv 70)
+- <a href="move-lookup.html?q=sacred-fire">Sacred Fire</a> (Lv 1)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 1)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 1)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=ember">Ember</a> (Lv 8)
+- <a href="move-lookup.html?q=roar">Roar</a> (Lv 15)
+- <a href="move-lookup.html?q=fire-spin">Fire Spin</a> (Lv 20)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 25)
+- <a href="move-lookup.html?q=flamethrower">Flamethrower</a> (Lv 30)
+- <a href="move-lookup.html?q=swagger">Swagger</a> (Lv 35)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 40)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 45)
+- <a href="move-lookup.html?q=extrasensory">Extrasensory</a> (Lv 50)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 55)
+- <a href="move-lookup.html?q=dragon-energy">Dragon Energy</a> (Lv 60)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 65)
+- <a href="move-lookup.html?q=eruption">Eruption</a> (Lv 70)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -163,17 +163,17 @@ Types: Fire / Dragon • Egg Groups: -
 - Dragon (2×)
 
 **TM/HM Moves**
-- TM02 - Dragon Claw
-- TM11 - Sunny Day
-- TM17 - Protect
-- TM26 - Earthquake
-- TM35 - Flamethrower
-- TM38 - Fire Blast
-- TM42 - Facade
-- TM44 - Rest
-- TM49 - Bulldoze
-- TM55 - Snarl
-- TM60 - Dragon Dance
+- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
 
 **Held Item**
 Booster Energy
@@ -197,36 +197,36 @@ Lv. after using Dragon Energy 20x
 | Total | <span class="stat-value stat-high">600</span> |
 
 **Level-Up Moves**
-- Burning Bulwark (Lv Evo)
-- Double Kick (Lv 1)
-- Ancient Power (Lv 1)
-- Noble Roar (Lv 1)
-- Stomp (Lv 1)
-- Leer (Lv 1)
-- Incinerate (Lv 1)
-- Sunny Day (Lv 1)
-- Fire Fang (Lv 7)
-- Howl (Lv 14)
-- Bite (Lv 21)
-- Dragon Claw (Lv 28)
-- Crush Claw (Lv 35)
-- Morning Sun (Lv 42)
-- Burning Bulwark (Lv 49)
-- Dragon Rush (Lv 56)
-- Fire Blast (Lv 63)
-- Lava Plume (Lv 70)
-- Outrage (Lv 77)
-- Flare Blitz (Lv 84)
-- Raging Fury (Lv 91)
+- <a href="move-lookup.html?q=burning-bulwark">Burning Bulwark</a> (Lv Evo)
+- <a href="move-lookup.html?q=double-kick">Double Kick</a> (Lv 1)
+- <a href="move-lookup.html?q=ancient-power">Ancient Power</a> (Lv 1)
+- <a href="move-lookup.html?q=noble-roar">Noble Roar</a> (Lv 1)
+- <a href="move-lookup.html?q=stomp">Stomp</a> (Lv 1)
+- <a href="move-lookup.html?q=leer">Leer</a> (Lv 1)
+- <a href="move-lookup.html?q=incinerate">Incinerate</a> (Lv 1)
+- <a href="move-lookup.html?q=sunny-day">Sunny Day</a> (Lv 1)
+- <a href="move-lookup.html?q=fire-fang">Fire Fang</a> (Lv 7)
+- <a href="move-lookup.html?q=howl">Howl</a> (Lv 14)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 21)
+- <a href="move-lookup.html?q=dragon-claw">Dragon Claw</a> (Lv 28)
+- <a href="move-lookup.html?q=crush-claw">Crush Claw</a> (Lv 35)
+- <a href="move-lookup.html?q=morning-sun">Morning Sun</a> (Lv 42)
+- <a href="move-lookup.html?q=burning-bulwark">Burning Bulwark</a> (Lv 49)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 56)
+- <a href="move-lookup.html?q=fire-blast">Fire Blast</a> (Lv 63)
+- <a href="move-lookup.html?q=lava-plume">Lava Plume</a> (Lv 70)
+- <a href="move-lookup.html?q=outrage">Outrage</a> (Lv 77)
+- <a href="move-lookup.html?q=flare-blitz">Flare Blitz</a> (Lv 84)
+- <a href="move-lookup.html?q=raging-fury">Raging Fury</a> (Lv 91)
 
 **Egg Moves**
-- Incompatible
+- <a href="move-lookup.html?q=incompatible">Incompatible</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Sleep Talk
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
 </div>
 </div>
 <script>

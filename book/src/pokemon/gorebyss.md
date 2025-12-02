@@ -30,21 +30,21 @@ Types: Water • Egg Groups: Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Pearl
@@ -85,33 +85,33 @@ Pearl
 | Total | <span class="stat-value stat-mid">345</span> |
 
 **Level-Up Moves**
-- Clamp (Lv 1)
-- Water Gun (Lv 1)
-- Whirlpool (Lv 1)
-- Iron Defense (Lv 1)
-- Shell Smash (Lv 50)
+- <a href="move-lookup.html?q=clamp">Clamp</a> (Lv 1)
+- <a href="move-lookup.html?q=water-gun">Water Gun</a> (Lv 1)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 1)
+- <a href="move-lookup.html?q=iron-defense">Iron Defense</a> (Lv 1)
+- <a href="move-lookup.html?q=shell-smash">Shell Smash</a> (Lv 50)
 
 **Egg Moves**
-- Refresh
-- Mud Sport
-- Body Slam
-- Supersonic
-- Barrier
-- Confuse Ray
-- Aqua Ring
-- Muddy Water
-- Water Pulse
-- Brine
-- Endure
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Sleep Talk
-- Snore
-- Swagger
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
 </div>
 </div>
 <script>
@@ -169,22 +169,22 @@ Types: Water / Dragon • Egg Groups: Water 1
 - Fairy (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM32 - Double Team
-- TM39 - Rock Tomb
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Deep Sea Tooth
@@ -211,49 +211,49 @@ Deep Sea Tooth
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Breaking Swipe (Lv Evo)
-- Whirlpool (Lv 1)
-- Bite (Lv 1)
-- Screech (Lv 5)
-- Scary Face (Lv 9)
-- Feint Attack (Lv 11)
-- Water Pulse (Lv 14)
-- Ice Fang (Lv 16)
-- Brine (Lv 19)
-- Sucker Punch (Lv 23)
-- Dive (Lv 26)
-- Dragon Dance (Lv 29)
-- Baton Pass (Lv 29)
-- Crunch (Lv 32)
-- Dragon Rush (Lv 35)
-- Aqua Tail (Lv 39)
-- Wicked Blow (Lv 43)
-- Coil (Lv 45)
-- Hydro Pump (Lv 50)
+- <a href="move-lookup.html?q=breaking-swipe">Breaking Swipe</a> (Lv Evo)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 1)
+- <a href="move-lookup.html?q=bite">Bite</a> (Lv 1)
+- <a href="move-lookup.html?q=screech">Screech</a> (Lv 5)
+- <a href="move-lookup.html?q=scary-face">Scary Face</a> (Lv 9)
+- <a href="move-lookup.html?q=feint-attack">Feint Attack</a> (Lv 11)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 14)
+- <a href="move-lookup.html?q=ice-fang">Ice Fang</a> (Lv 16)
+- <a href="move-lookup.html?q=brine">Brine</a> (Lv 19)
+- <a href="move-lookup.html?q=sucker-punch">Sucker Punch</a> (Lv 23)
+- <a href="move-lookup.html?q=dive">Dive</a> (Lv 26)
+- <a href="move-lookup.html?q=dragon-dance">Dragon Dance</a> (Lv 29)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 29)
+- <a href="move-lookup.html?q=crunch">Crunch</a> (Lv 32)
+- <a href="move-lookup.html?q=dragon-rush">Dragon Rush</a> (Lv 35)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 39)
+- <a href="move-lookup.html?q=wicked-blow">Wicked Blow</a> (Lv 43)
+- <a href="move-lookup.html?q=coil">Coil</a> (Lv 45)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
 
 **Egg Moves**
-- Refresh
-- Mud Sport
-- Body Slam
-- Supersonic
-- Barrier
-- Confuse Ray
-- Aqua Ring
-- Muddy Water
-- Water Pulse
-- Brine
-- Endure
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
@@ -316,24 +316,24 @@ Types: Water / Fairy • Egg Groups: Water 1
 - Poison (2×)
 
 **TM/HM Moves**
-- TM03 - Water Pulse
-- TM06 - Toxic
-- TM07 - Whirlpool
-- TM13 - Ice Beam
-- TM14 - Blizzard
-- TM15 - Draining Kiss
-- TM17 - Protect
-- TM18 - Rain Dance
-- TM29 - Psychic
-- TM30 - Shadow Ball
-- TM32 - Double Team
-- TM42 - Facade
-- TM44 - Rest
-- TM45 - Attract
-- TM56 - Scald
-- HM03 - Surf
-- HM07 - Waterfall
-- HM08 - Dive
+- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
 
 **Held Item**
 Deep Sea Scale
@@ -360,50 +360,50 @@ Deep Sea Scale
 | Total | <span class="stat-value stat-mid">505</span> |
 
 **Level-Up Moves**
-- Draining Kiss (Lv Evo)
-- Whirlpool (Lv 1)
-- Confusion (Lv 1)
-- Water Sport (Lv 5)
-- Agility (Lv 9)
-- Swift (Lv 11)
-- Water Pulse (Lv 14)
-- Amnesia (Lv 16)
-- Aqua Ring (Lv 19)
-- Captivate (Lv 23)
-- Dive (Lv 26)
-- Calm Mind (Lv 29)
-- Baton Pass (Lv 29)
-- Psychic (Lv 32)
-- Dazzling Gleam (Lv 35)
-- Aqua Tail (Lv 39)
-- Moonblast (Lv 43)
-- Coil (Lv 45)
-- Hydro Pump (Lv 50)
+- <a href="move-lookup.html?q=draining-kiss">Draining Kiss</a> (Lv Evo)
+- <a href="move-lookup.html?q=whirlpool">Whirlpool</a> (Lv 1)
+- <a href="move-lookup.html?q=confusion">Confusion</a> (Lv 1)
+- <a href="move-lookup.html?q=water-sport">Water Sport</a> (Lv 5)
+- <a href="move-lookup.html?q=agility">Agility</a> (Lv 9)
+- <a href="move-lookup.html?q=swift">Swift</a> (Lv 11)
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a> (Lv 14)
+- <a href="move-lookup.html?q=amnesia">Amnesia</a> (Lv 16)
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a> (Lv 19)
+- <a href="move-lookup.html?q=captivate">Captivate</a> (Lv 23)
+- <a href="move-lookup.html?q=dive">Dive</a> (Lv 26)
+- <a href="move-lookup.html?q=calm-mind">Calm Mind</a> (Lv 29)
+- <a href="move-lookup.html?q=baton-pass">Baton Pass</a> (Lv 29)
+- <a href="move-lookup.html?q=psychic">Psychic</a> (Lv 32)
+- <a href="move-lookup.html?q=dazzling-gleam">Dazzling Gleam</a> (Lv 35)
+- <a href="move-lookup.html?q=aqua-tail">Aqua Tail</a> (Lv 39)
+- <a href="move-lookup.html?q=moonblast">Moonblast</a> (Lv 43)
+- <a href="move-lookup.html?q=coil">Coil</a> (Lv 45)
+- <a href="move-lookup.html?q=hydro-pump">Hydro Pump</a> (Lv 50)
 
 **Egg Moves**
-- Refresh
-- Mud Sport
-- Body Slam
-- Supersonic
-- Barrier
-- Confuse Ray
-- Aqua Ring
-- Muddy Water
-- Water Pulse
-- Brine
-- Endure
+- <a href="move-lookup.html?q=refresh">Refresh</a>
+- <a href="move-lookup.html?q=mud-sport">Mud Sport</a>
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=supersonic">Supersonic</a>
+- <a href="move-lookup.html?q=barrier">Barrier</a>
+- <a href="move-lookup.html?q=confuse-ray">Confuse Ray</a>
+- <a href="move-lookup.html?q=aqua-ring">Aqua Ring</a>
+- <a href="move-lookup.html?q=muddy-water">Muddy Water</a>
+- <a href="move-lookup.html?q=water-pulse">Water Pulse</a>
+- <a href="move-lookup.html?q=brine">Brine</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
 
 **Tutor Moves**
-- Body Slam
-- Double-Edge
-- Endure
-- Icy Wind
-- Mud-Slap
-- Psych Up
-- Sleep Talk
-- Snore
-- Swagger
-- Swift
+- <a href="move-lookup.html?q=body-slam">Body Slam</a>
+- <a href="move-lookup.html?q=double-edge">Double-Edge</a>
+- <a href="move-lookup.html?q=endure">Endure</a>
+- <a href="move-lookup.html?q=icy-wind">Icy Wind</a>
+- <a href="move-lookup.html?q=mud-slap">Mud-Slap</a>
+- <a href="move-lookup.html?q=psych-up">Psych Up</a>
+- <a href="move-lookup.html?q=sleep-talk">Sleep Talk</a>
+- <a href="move-lookup.html?q=snore">Snore</a>
+- <a href="move-lookup.html?q=swagger">Swagger</a>
+- <a href="move-lookup.html?q=swift">Swift</a>
 </div>
 </div>
 <script>
