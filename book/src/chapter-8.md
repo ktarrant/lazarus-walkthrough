@@ -4,6 +4,9 @@
 - Sofos City is home to the fourth gym. She uses Fighting and Psychic types.
 This gym uses a Gauntlet style, where you have to fight all the trainers and the
 leader without returning to the PokeCenter.
+This Gauntlet style can actually be very useful for training up new Pokemon,
+since you can fight all the trainers in there and then leave and then fight
+them again.
 - The street vendor sells apples to evolve Applin.
 - There is an Arcade/Game Corner. You can play pinball to win points
 to buy rare items and EV items.
