@@ -34,12 +34,12 @@ Regenerate the file whenever `src/type_chart.rs` changes.
 
 ### Pokémon cards
 
-1. Convert the official CSV (`Lazarus Data - Pokemon Data.csv`) into the structured
+1. Convert the official CSV (`sources/Lazarus Data - Pokemon Data.csv`) into the structured
    JSON used by the helper CLI:
    ```sh
    cd parsers
    uv run python convert_lazarus_pokedex.py \
-     "../Lazarus Data - Pokemon Data.csv" \
+     "../sources/Lazarus Data - Pokemon Data.csv" \
      --json ../data/pokedex/lazarus_pokedex.json
    ```
 2. Generate a card (replace `sprigatito` with any species name or dex number):
@@ -60,8 +60,8 @@ cargo run -- pokedex-page --out book/src/pokedex.md
 1. Convert the PDF via the uv parser:
    ```sh
    cd parsers
-   uv run python convert_lazarus_encounters.py \
-     "../Pokemon Lazarus Documentation - Encounters.pdf" \
+uv run python convert_lazarus_encounters.py \
+     "../sources/Pokemon Lazarus Documentation - Encounters.pdf" \
      --out ../data/encounters/encounters.json
    ```
 2. Generate Markdown for a single location (slug or full name):
@@ -85,7 +85,7 @@ Parse the “Important Item Locations” PDF into a structured JSON manifest:
 ```sh
 cd parsers
 uv run python convert_lazarus_items.py \
-  "../Pokemon Lazarus Documentation - Important Item Locations.pdf" \
+  "../sources/Pokemon Lazarus Documentation - Important Item Locations.pdf" \
   --json ../data/items/important-items.json
 ```
 
