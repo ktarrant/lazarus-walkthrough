@@ -20,6 +20,10 @@ which is good for nature/IV hunting.
 These are my favorites.
 Compare to the 2x catchrate of an Ultra Ball.
 
+### Quests
+- **Understanding Eeveelution** — Register Eevee in the Pokédex (house SW of Mart) _(Reward: Exp. Candy S x3; Split: Ourani Lvl 19)_.
+- **Eye of the Beholder** — Get Heart Scale for Artist in SE of City _(Reward: Opal Fish Poster; Split: Ourani Lvl 19)_.
+
 ### Encounters
 {{#include ./encounters/kalami-city.md}}
 **University Student Reward (Kalami City):** TM Whirlpool & East Blue Ilios Outfit (if not already unlocked).

@@ -27,6 +27,9 @@ Bronzor is a sturdy Steel/Psychic wall that shrugs off many early threats. With 
 
 {{#include ./pokemon/bronzor.md}}
 
+### Quests
+- **Archaic Pokémon** — Register Baltoy in the Pokédex _(Reward: Dusk Stone; Split: Ourani Lvl 19)_.
+
 {{#include ./encounters/acrisia-mountains-peak.md}}
 
 ## Riverwalk Trail
@@ -48,4 +51,3 @@ To get on the trail you walk along the tracks that start on the edge of the moun
 
 {{#include ./encounters/riverwalk-trail-south.md}}
 **University Student Reward (Riverwalk Trail):** Eviolite.
-

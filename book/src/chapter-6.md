@@ -12,6 +12,10 @@ If you want to look at what can be caught there, see Chapter 7.
 - The Name Rater lives in one of the houses.
 - On the beach in the south, a Move Relearner is available if you have 20 Pokemon registered.
 
+### Quests
+- **Impatience is a Virtue** — Get 3 Quick Balls for Athlete _(Reward: Ultra Ball x3; Split: Kleio Lvl 22)_.
+- **Save our Sails!** — Defeat Team Chimera Admin east of town _(Reward: Unlock Delphis transport ship; Split: Terpsikore Lvl 27)_.
+
 ### Encounters
 {{#include ./encounters/pythios-town.md}}
 **University Student Reward (Pythios Town):** Traditional Outfit.
@@ -21,5 +25,8 @@ If you want to look at what can be caught there, see Chapter 7.
 - There are also some Chimera grunts who will give you HM05 Flash when you beat them.
 - There is an old lady looking at a gravestone in the north that wants to see a Snom.
 She will give you an Ice Stone if you talk to her with one in your party.
+
+### Quests
+- **Snom Infestation** — Show Snom in party to the old lady in the north _(Reward: Ice Stone; Split: Kleio Lvl 22)_.
 
 {{#include ./encounters/pythios-cemetery.md}}

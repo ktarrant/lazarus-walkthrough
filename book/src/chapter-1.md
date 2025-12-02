@@ -40,6 +40,22 @@ Sleep offers the highest catch rate increase of all status effects.
 
 {{#include ./pokemon/munna.md}}
 
+### Quests
+- **Find Pokédex** — Return Parcel to the Professor _(Reward: Rotom Phone, Exp. Share, Outfit Box; Split: Polymnia Lvl 12)_.
+- **A Girlypop Dream** — Register Togepi in the Pokédex _(Reward: Eviolite; Split: Polymnia Lvl 12)_.
+- **Rock'n'Roll Pokémon** — Show Blitzle in party to the lady in SW house _(Reward: Rare Candy; Split: Polymnia Lvl 12)_.
+- **Species Quest milestones** — Reach unique species counts _(Split: Kleio Lvl 22)_:
+  - 10: Nugget
+  - 25: Loaded Dice
+  - 50: TM27 Return
+  - 100: Rowlet, Litleo, Popplio
+  - 135: Chespin, Fennekin, Froakie
+  - 170: Sprigatito, Fuecoco, Quaxly
+  - 200: Oval Charm
+  - 250: Leftovers x3
+  - 300: Shiny Charm
+  - 430: Trainer Card Gold Star
+
 ### Encounters
 {{#include ./encounters/acrisia-city.md}}
 **University Student Reward (Acrisia City):** 15 Nest Balls.
