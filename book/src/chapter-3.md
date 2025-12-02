@@ -28,7 +28,29 @@ Bronzor is a sturdy Steel/Psychic wall that shrugs off many early threats. With 
 {{#include ./pokemon/bronzor.md}}
 
 ### Quests
-- **Archaic Pokémon** — Register Baltoy in the Pokédex _(Reward: Dusk Stone; Split: Ourani Lvl 19)_.
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-mountains-archaic-pokemon"> **Archaic Pokémon** — Register Baltoy in the Pokédex _(Reward: Dusk Stone; Split: Ourani Lvl 19)_.</label>
+  - Encounter routes: Erinys Path (West), Palati City, Sofos City
+
+<script>
+(function() {
+  if (window.__lazarusQuestInit) return; window.__lazarusQuestInit = true;
+  const KEY = 'lazarusQuests';
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (_) { return {}; } }
+  function save(state) { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {} }
+  function apply() {
+    const state = load();
+    document.querySelectorAll('.quest-check').forEach(cb => {
+      const key = cb.dataset.quest;
+      cb.checked = !!state[key];
+      cb.addEventListener('change', () => {
+        if (cb.checked) state[key] = true; else delete state[key];
+        save(state);
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
+})();
+</script>
 
 {{#include ./encounters/acrisia-mountains-peak.md}}
 

@@ -21,9 +21,30 @@ These are my favorites.
 Compare to the 2x catchrate of an Ultra Ball.
 
 ### Quests
-- **Understanding Eeveelution** — Register Eevee in the Pokédex (house SW of Mart) _(Reward: Exp. Candy S x3; Split: Ourani Lvl 19)_.
+- <label><input type="checkbox" class="quest-check" data-quest="kalami-city-understanding-eeveelution"> **Understanding Eeveelution** — Register Eevee in the Pokédex (house SW of Mart) _(Reward: Exp. Candy S x3; Split: Ourani Lvl 19)_.</label>
   - Encounter routes: Jusmail Town, Kipos Town
-- **Eye of the Beholder** — Get Heart Scale for Artist in SE of City _(Reward: Opal Fish Poster; Split: Ourani Lvl 19)_.
+- <label><input type="checkbox" class="quest-check" data-quest="kalami-city-eye-of-the-beholder"> **Eye of the Beholder** — Get Heart Scale for Artist in SE of City _(Reward: Opal Fish Poster; Split: Ourani Lvl 19)_.</label>
+
+<script>
+(function() {
+  if (window.__lazarusQuestInit) return; window.__lazarusQuestInit = true;
+  const KEY = 'lazarusQuests';
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (_) { return {}; } }
+  function save(state) { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {} }
+  function apply() {
+    const state = load();
+    document.querySelectorAll('.quest-check').forEach(cb => {
+      const key = cb.dataset.quest;
+      cb.checked = !!state[key];
+      cb.addEventListener('change', () => {
+        if (cb.checked) state[key] = true; else delete state[key];
+        save(state);
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
+})();
+</script>
 
 ### Encounters
 {{#include ./encounters/kalami-city.md}}

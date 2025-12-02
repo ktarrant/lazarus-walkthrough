@@ -8,6 +8,7 @@ use crate::pokemon_card::non_empty;
 use anyhow::Result;
 use clap::{Parser, Subcommand};
 use std::collections::BTreeMap;
+use std::fs;
 use std::path::PathBuf;
 
 #[derive(Parser)]
@@ -127,6 +128,19 @@ enum Command {
         #[arg(long, default_value = "book/src")]
         out_dir: PathBuf,
     },
+    /// Generate a quest table from the CSV manifest
+    Quests {
+        /// Path to the quests CSV
+        #[arg(
+            long,
+            default_value = "sources/Lazarus Data - Quests.csv",
+            env = "POKEMON_LAZARUS_QUESTS_CSV"
+        )]
+        csv: PathBuf,
+        /// Output path for the generated Markdown
+        #[arg(long, default_value = "book/src/quests.md")]
+        out: PathBuf,
+    },
 }
 
 fn main() -> Result<()> {
@@ -150,6 +164,7 @@ fn main() -> Result<()> {
         Command::PokemonLookup { out } => render_pokemon_lookup(cli.pokedex_json.clone(), out)?,
         Command::Items { page, out } => items::render_page(cli.items_json, page, out)?,
         Command::ItemsAll { out_dir } => items::render_all_pages(cli.items_json, out_dir)?,
+        Command::Quests { csv, out } => render_quests(csv, out)?,
         Command::All {
             cards_out,
             encounters_out,
@@ -170,6 +185,10 @@ fn main() -> Result<()> {
             render_egg_groups(cli.pokedex_json.clone(), eggs_out)?;
             render_pokedex_page(cli.pokedex_json.clone(), pokedex_out)?;
             render_pokemon_lookup(cli.pokedex_json.clone(), lookup_out)?;
+            render_quests(
+                PathBuf::from("sources/Lazarus Data - Quests.csv"),
+                PathBuf::from("book/src/quests.md"),
+            )?;
         }
     }
     Ok(())
@@ -500,6 +519,78 @@ fn render_pokemon_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()>
     }
     std::fs::write(out_path, buf)?;
     println!("Generated Pokémon lookup with {} entries", total_entries);
+    Ok(())
+}
+
+fn render_quests(csv_path: PathBuf, out_path: PathBuf) -> Result<()> {
+    let mut rdr = csv::Reader::from_path(&csv_path)?;
+    let mut rows: Vec<(String, String, String, String)> = Vec::new(); // (key, quest, info, reward)
+    let mut key_counts: BTreeMap<String, usize> = BTreeMap::new();
+    for result in rdr.records() {
+        let record = result?;
+        if record.len() < 5 {
+            continue;
+        }
+        let split = record.get(0).unwrap_or("").trim();
+        if split.is_empty() || split.eq_ignore_ascii_case("split") {
+            continue;
+        }
+        let quest = record.get(1).unwrap_or("").trim();
+        let info = record.get(2).unwrap_or("").trim();
+        let location = record.get(3).unwrap_or("").trim();
+        let reward = record.get(4).unwrap_or("").trim();
+        if quest.is_empty() {
+            continue;
+        }
+        let mut key = format!(
+            "{}-{}",
+            encounters::slugify(location),
+            encounters::slugify(quest)
+        );
+        let count = key_counts.entry(key.clone()).or_insert(0);
+        if *count > 0 {
+            key = format!("{}-{}", key, *count + 1);
+        }
+        *count += 1;
+        let mut full = quest.to_string();
+        if !info.is_empty() {
+            full.push_str(": ");
+            full.push_str(info);
+        }
+        let reward_text = if reward.is_empty() {
+            "Reward: —".to_string()
+        } else {
+            format!("Reward: {}", reward)
+        };
+        let split_text = if split.is_empty() {
+            String::new()
+        } else {
+            format!(" (Split: {})", split)
+        };
+        rows.push((key, full, reward_text, split_text));
+    }
+
+    let mut buf = String::new();
+    buf.push_str("# Quests\n\n");
+    buf.push_str("| Quest | Reward | Split | Done |\n| --- | --- | --- | --- |\n");
+    for (key, desc, reward, split) in rows {
+        buf.push_str(&format!(
+            "| {} | {} | {} | <input type=\"checkbox\" class=\"quest-check\" data-quest=\"{}\" /> |\n",
+            desc,
+            reward,
+            split,
+            key
+        ));
+    }
+    buf.push_str(
+        "\n<script>\n(function() {\n  if (window.__lazarusQuestInit) return; window.__lazarusQuestInit = true;\n  const KEY = 'lazarusQuests';\n  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (_) { return {}; } }\n  function save(state) { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {} }\n  function apply() {\n    const state = load();\n    document.querySelectorAll('.quest-check').forEach(cb => {\n      const key = cb.dataset.quest;\n      cb.checked = !!state[key];\n      cb.addEventListener('change', () => {\n        if (cb.checked) state[key] = true; else delete state[key];\n        save(state);\n      });\n    });\n  }\n  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();\n})();\n</script>\n",
+    );
+
+    if let Some(parent) = out_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+    fs::write(out_path, buf)?;
+    println!("Generated quests table from {}", csv_path.display());
     Ok(())
 }
 

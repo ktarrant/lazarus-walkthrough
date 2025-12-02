@@ -40,23 +40,44 @@ Sleep offers the highest catch rate increase of all status effects.
 
 {{#include ./pokemon/munna.md}}
 
--### Quests
-- **Find Pokédex** — Return Parcel to the Professor _(Reward: Rotom Phone, Exp. Share, Outfit Box; Split: Polymnia Lvl 12)_.
-- **A Girlypop Dream** — Register Togepi in the Pokédex _(Reward: Eviolite; Split: Polymnia Lvl 12)_.
+### Quests
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-find-pokedex"> **Find Pokédex** — Return Parcel to the Professor _(Reward: Rotom Phone, Exp. Share, Outfit Box; Split: Polymnia Lvl 12)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-a-girlypop-dream"> **A Girlypop Dream** — Register Togepi in the Pokédex _(Reward: Eviolite; Split: Polymnia Lvl 12)_.</label>
   - Encounter routes: Erinys Path (West), Sea of Asteri (East)
-- **Rock'n'Roll Pokémon** — Show Blitzle in party to the lady in SW house _(Reward: Rare Candy; Split: Polymnia Lvl 12)_.
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-rocknroll-pokemon"> **Rock'n'Roll Pokémon** — Show Blitzle in party to the lady in SW house _(Reward: Rare Candy; Split: Polymnia Lvl 12)_.</label>
   - Encounter routes: Wanderer's Woods (North)
-- **Species Quest milestones** — Reach unique species counts _(Split: Kleio Lvl 22)_:
-  - 10: Nugget
-  - 25: Loaded Dice
-  - 50: TM27 Return
-  - 100: Rowlet, Litleo, Popplio
-  - 135: Chespin, Fennekin, Froakie
-  - 170: Sprigatito, Fuecoco, Quaxly
-  - 200: Oval Charm
-  - 250: Leftovers x3
-  - 300: Shiny Charm
-  - 430: Trainer Card Gold Star
+- **Species Quest milestones** _(Split: Kleio Lvl 22)_:
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest">10: Nugget</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-2">25: Loaded Dice</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-3">50: TM27 Return</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-4">100: Rowlet, Litleo, Popplio</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-5">135: Chespin, Fennekin, Froakie</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-6">170: Sprigatito, Fuecoco, Quaxly</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-7">200: Oval Charm</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-8">250: Leftovers x3</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-9">300: Shiny Charm</label>
+  - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-complete-the-pokedex">430: Trainer Card Gold Star</label>
+
+<script>
+(function() {
+  if (window.__lazarusQuestInit) return; window.__lazarusQuestInit = true;
+  const KEY = 'lazarusQuests';
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (_) { return {}; } }
+  function save(state) { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {} }
+  function apply() {
+    const state = load();
+    document.querySelectorAll('.quest-check').forEach(cb => {
+      const key = cb.dataset.quest;
+      cb.checked = !!state[key];
+      cb.addEventListener('change', () => {
+        if (cb.checked) state[key] = true; else delete state[key];
+        save(state);
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
+})();
+</script>
 
 ### Encounters
 {{#include ./encounters/acrisia-city.md}}

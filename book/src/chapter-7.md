@@ -14,7 +14,28 @@ if you can afford it as it is a long way to go back and forth to the
 PokeCenter.
 
 ### Quests
-- **Chimera's Mega Plan** — Defeat Team Chimera in Sofos City, return to Niko _(Reward: HM03 Surf; Split: Terpsikore Lvl 27)_.
+- <label><input type="checkbox" class="quest-check" data-quest="erinys-path-chimeras-mega-plan"> **Chimera's Mega Plan** — Defeat Team Chimera in Sofos City, return to Niko _(Reward: HM03 Surf; Split: Terpsikore Lvl 27)_.</label>
+
+<script>
+(function() {
+  if (window.__lazarusQuestInit) return; window.__lazarusQuestInit = true;
+  const KEY = 'lazarusQuests';
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (_) { return {}; } }
+  function save(state) { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {} }
+  function apply() {
+    const state = load();
+    document.querySelectorAll('.quest-check').forEach(cb => {
+      const key = cb.dataset.quest;
+      cb.checked = !!state[key];
+      cb.addEventListener('change', () => {
+        if (cb.checked) state[key] = true; else delete state[key];
+        save(state);
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
+})();
+</script>
 
 ### Encounters
 {{#include ./encounters/erinys-path-west.md}}
@@ -28,7 +49,7 @@ At the end of Froslass Cavern is a king of tough double battle.
 Something resistant to electricity will help.
 
 ### Quests
-- **Keeper of the Cave** — Catch the Froslass in Froslass Cavern _(Reward: Exp. Candy M x3; Split: Terpsikore Lvl 27)_.
+- <label><input type="checkbox" class="quest-check" data-quest="froslass-cavern-keeper-of-the-cave"> **Keeper of the Cave** — Catch the Froslass in Froslass Cavern _(Reward: Exp. Candy M x3; Split: Terpsikore Lvl 27)_.</label>
 
 {{#include ./encounters/froslass-cavern-f1.md}}
 
@@ -43,7 +64,7 @@ Niko will fight you on this route, then ask him to get the Key Stone
 from Team Chimera in Sofos City.
 
 ### Quests
-- **A Tall Order** — Register Girafarig in the Pokédex for the boy in the house _(Reward: TM34 Shock Wave; Split: Terpsikore Lvl 27)_.
+- <label><input type="checkbox" class="quest-check" data-quest="asfal-hills-a-tall-order"> **A Tall Order** — Register Girafarig in the Pokédex for the boy in the house _(Reward: TM34 Shock Wave; Split: Terpsikore Lvl 27)_.</label>
   - Encounter routes: Corrin Crossing, Palati City, Sofos City
 
 ### Encounters

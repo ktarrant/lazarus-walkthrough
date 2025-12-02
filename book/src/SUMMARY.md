@@ -15,6 +15,7 @@
 # Resources
 - [Pokemon Lookup](<pokemon-lookup.md>)
 - [Pokédex](<pokedex.md>)
+- [Quests](<quests.md>)
 - [Natures](<natures.md>)
 - [Items - TMs / HMs](<items-tms-hms.md>)
 - [Items - Evolution & Key Items](<items-evolution-key.md>)

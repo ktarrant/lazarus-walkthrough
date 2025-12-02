@@ -353,6 +353,7 @@ fn format_rate(rate: f32) -> String {
 }
 
 pub fn slugify(input: &str) -> String {
+    let input = deunicode::deunicode(input);
     let mut slug = String::new();
     for ch in input.chars() {
         if ch.is_ascii_alphanumeric() {

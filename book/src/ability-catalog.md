@@ -4,8 +4,8 @@ Abilities available in Lazarus with the Pokémon that can have them.
 
 | Ability | Pokémon | Slot |
 | --- | --- | --- |
-| Adaptability | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Secondary |
-| Adaptability | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Secondary |
+| Adaptability | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Secondary |
+| Adaptability | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Secondary |
 | Adaptability | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Secondary |
 | Adaptability | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Secondary |
 | Adaptability | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Secondary |
@@ -20,8 +20,8 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Adaptability | <a href="pokemon-lookup.html?q=jolteon">Jolteon</a> | Secondary |
 | Adaptability | <a href="pokemon-lookup.html?q=leafeon">Leafeon</a> | Secondary |
 | Adaptability | <a href="pokemon-lookup.html?q=litleo">Litleo</a> | Hidden |
-| Adaptability | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Hidden |
-| Adaptability | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Hidden |
+| Adaptability | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Hidden |
+| Adaptability | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Hidden |
 | Adaptability | <a href="pokemon-lookup.html?q=skrelp">Skrelp</a> | Hidden |
 | Adaptability | <a href="pokemon-lookup.html?q=sylveon">Sylveon</a> | Secondary |
 | Adaptability | <a href="pokemon-lookup.html?q=umbreon">Umbreon</a> | Secondary |
@@ -271,7 +271,7 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Flower Gift | <a href="pokemon-lookup.html?q=cherrim-sunny">Cherrim Sunny</a> | Primary |
 | Flower Veil | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Primary |
 | Flower Veil | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Primary |
-| Flower Veil | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Primary |
+| Flower Veil | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Primary |
 | Flower Veil | <a href="pokemon-lookup.html?q=floette">Floette</a> | Primary |
 | Flower Veil | <a href="pokemon-lookup.html?q=florges">Florges</a> | Primary |
 | Fluffy | <a href="pokemon-lookup.html?q=altaria">Altaria</a> | Hidden |
@@ -591,8 +591,8 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Mega Launcher | <a href="pokemon-lookup.html?q=clawitzer">Clawitzer</a> | Primary |
 | Mega Launcher | <a href="pokemon-lookup.html?q=octillery">Octillery</a> | Primary |
 | Mega Launcher | <a href="pokemon-lookup.html?q=remoraid">Remoraid</a> | Primary |
-| Mold Breaker | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Hidden |
-| Mold Breaker | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Hidden |
+| Mold Breaker | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Hidden |
+| Mold Breaker | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Hidden |
 | Mold Breaker | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Hidden |
 | Mold Breaker | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Hidden |
 | Mold Breaker | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Hidden |
@@ -621,8 +621,8 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Moxie | <a href="pokemon-lookup.html?q=litleo">Litleo</a> | Primary |
 | Moxie | <a href="pokemon-lookup.html?q=mega-cyclizar-s">Mega Cyclizar S</a> | Primary |
 | Moxie | <a href="pokemon-lookup.html?q=mega-hawlucha">Mega Hawlucha</a> | Primary |
-| Moxie | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Primary |
-| Moxie | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Primary |
+| Moxie | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Primary |
+| Moxie | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Primary |
 | Moxie | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Hidden |
 | Moxie | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | Hidden |
 | Moxie | <a href="pokemon-lookup.html?q=quaxwell">Quaxwell</a> | Hidden |
@@ -1147,8 +1147,8 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Sweet Veil | <a href="pokemon-lookup.html?q=cutiefly">Cutiefly</a> | Hidden |
 | Sweet Veil | <a href="pokemon-lookup.html?q=ribombee">Ribombee</a> | Hidden |
 | Sweet Veil | <a href="pokemon-lookup.html?q=steenee">Steenee</a> | Hidden |
-| Swift Swim | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Primary |
-| Swift Swim | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Primary |
+| Swift Swim | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Primary |
+| Swift Swim | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Primary |
 | Swift Swim | <a href="pokemon-lookup.html?q=buizel">Buizel</a> | Primary |
 | Swift Swim | <a href="pokemon-lookup.html?q=carracosta">Carracosta</a> | Hidden |
 | Swift Swim | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Primary |
@@ -1161,7 +1161,7 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Swift Swim | <a href="pokemon-lookup.html?q=relicanth">Relicanth</a> | Primary |
 | Swift Swim | <a href="pokemon-lookup.html?q=tirtouga">Tirtouga</a> | Hidden |
 | Symbiosis | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Hidden |
-| Symbiosis | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Hidden |
+| Symbiosis | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Hidden |
 | Symbiosis | <a href="pokemon-lookup.html?q=floette">Floette</a> | Hidden |
 | Symbiosis | <a href="pokemon-lookup.html?q=florges">Florges</a> | Hidden |
 | Symbiosis | <a href="pokemon-lookup.html?q=oranguru">Oranguru</a> | Hidden |
@@ -1274,8 +1274,8 @@ Abilities available in Lazarus with the Pokémon that can have them.
 | Unnerve | <a href="pokemon-lookup.html?q=meowscarada">Meowscarada</a> | Secondary |
 | Unnerve | <a href="pokemon-lookup.html?q=meowth">Meowth</a> | Hidden |
 | Unnerve | <a href="pokemon-lookup.html?q=persian">Persian</a> | Hidden |
-| Unnerve | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Secondary |
-| Unnerve | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Secondary |
+| Unnerve | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Secondary |
+| Unnerve | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Secondary |
 | Unnerve | <a href="pokemon-lookup.html?q=sprigatito">Sprigatito</a> | Secondary |
 | Unseen Fist | <a href="pokemon-lookup.html?q=mega-grimmsnarl">Mega Grimmsnarl</a> | Primary |
 | Vital Spirit | <a href="pokemon-lookup.html?q=annihilape">Annihilape</a> | Primary |

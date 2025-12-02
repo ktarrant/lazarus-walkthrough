@@ -55,6 +55,12 @@ Generate a full Pokédex page (includes every card in dex order):
 cargo run -- pokedex-page --out book/src/pokedex.md
 ```
 
+Generate a quests table (includes persistent checkboxes shared with chapter quests):
+
+```sh
+cargo run -- quests --csv "sources/Lazarus Data - Quests.csv" --out book/src/quests.md
+```
+
 ### Encounter tables
 
 1. Convert the PDF via the uv parser:

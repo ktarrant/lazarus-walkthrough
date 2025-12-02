@@ -13,8 +13,29 @@ If you want to look at what can be caught there, see Chapter 7.
 - On the beach in the south, a Move Relearner is available if you have 20 Pokemon registered.
 
 ### Quests
-- **Impatience is a Virtue** — Get 3 Quick Balls for Athlete _(Reward: Ultra Ball x3; Split: Kleio Lvl 22)_.
-- **Save our Sails!** — Defeat Team Chimera Admin east of town _(Reward: Unlock Delphis transport ship; Split: Terpsikore Lvl 27)_.
+- <label><input type="checkbox" class="quest-check" data-quest="pythios-town-impatience-is-a-virtue"> **Impatience is a Virtue** — Get 3 Quick Balls for Athlete _(Reward: Ultra Ball x3; Split: Kleio Lvl 22)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="pythios-town-save-our-sails"> **Save our Sails!** — Defeat Team Chimera Admin east of town _(Reward: Unlock Delphis transport ship; Split: Terpsikore Lvl 27)_.</label>
+
+<script>
+(function() {
+  if (window.__lazarusQuestInit) return; window.__lazarusQuestInit = true;
+  const KEY = 'lazarusQuests';
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (_) { return {}; } }
+  function save(state) { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (_) {} }
+  function apply() {
+    const state = load();
+    document.querySelectorAll('.quest-check').forEach(cb => {
+      const key = cb.dataset.quest;
+      cb.checked = !!state[key];
+      cb.addEventListener('change', () => {
+        if (cb.checked) state[key] = true; else delete state[key];
+        save(state);
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
+})();
+</script>
 
 ### Encounters
 {{#include ./encounters/pythios-town.md}}
@@ -27,6 +48,6 @@ If you want to look at what can be caught there, see Chapter 7.
 She will give you an Ice Stone if you talk to her with one in your party.
 
 ### Quests
-- **Snom Infestation** — Show Snom in party to the old lady in the north _(Reward: Ice Stone; Split: Kleio Lvl 22)_.
+- <label><input type="checkbox" class="quest-check" data-quest="pythios-cemetery-snom-infestation"> **Snom Infestation** — Show Snom in party to the old lady in the north _(Reward: Ice Stone; Split: Kleio Lvl 22)_.</label>
 
 {{#include ./encounters/pythios-cemetery.md}}

@@ -559,7 +559,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Air Slash | <a href="pokemon-lookup.html?q=wingull">Wingull</a> | Level 40 |
 | Air Slash | <a href="pokemon-lookup.html?q=woobat">Woobat</a> | Level 32 |
 | Air Slash | <a href="pokemon-lookup.html?q=xatu">Xatu</a> | Level Evo |
-| Alluring Voice | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 48 |
+| Alluring Voice | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 48 |
 | Ally Switch | <a href="pokemon-lookup.html?q=archen">Archen</a> | Egg |
 | Ally Switch | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Egg |
 | Ally Switch | <a href="pokemon-lookup.html?q=armarouge">Armarouge</a> | Level 39 |
@@ -727,8 +727,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Aqua Jet | <a href="pokemon-lookup.html?q=anorith">Anorith</a> | Egg |
 | Aqua Jet | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | Level 44 |
 | Aqua Jet | <a href="pokemon-lookup.html?q=armaldo">Armaldo</a> | Egg |
-| Aqua Jet | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 9 |
-| Aqua Jet | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 9 |
+| Aqua Jet | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 9 |
+| Aqua Jet | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 9 |
 | Aqua Jet | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 9 |
 | Aqua Jet | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 9 |
 | Aqua Jet | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 9 |
@@ -817,8 +817,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Aqua Step | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Level Evo |
 | Aqua Tail | <a href="pokemon-lookup.html?q=arctozolt">Arctozolt</a> | Level 38 |
 | Aqua Tail | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Level 28 |
-| Aqua Tail | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 20 |
-| Aqua Tail | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 20 |
+| Aqua Tail | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 20 |
+| Aqua Tail | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 20 |
 | Aqua Tail | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 20 |
 | Aqua Tail | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 20 |
 | Aqua Tail | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 20 |
@@ -876,7 +876,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Aromatherapy | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Level 42 |
 | Aromatherapy | <a href="pokemon-lookup.html?q=cutiefly">Cutiefly</a> | Level 34 |
 | Aromatherapy | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 35 |
-| Aromatherapy | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 33 |
+| Aromatherapy | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 33 |
 | Aromatherapy | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 35 |
 | Aromatherapy | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 35 |
 | Aromatherapy | <a href="pokemon-lookup.html?q=fomantis">Fomantis</a> | Egg |
@@ -1153,7 +1153,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Attract | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Level 10 |
 | Attract | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Attract | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Attract | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | TM/HM |
@@ -1354,8 +1354,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Attract | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Attract | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Attract | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Attract | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Attract | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Attract | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
@@ -1802,8 +1802,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Bite | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Level 11 |
 | Bite | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Egg |
 | Bite | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | Level 20 |
-| Bite | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 7 |
-| Bite | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 7 |
+| Bite | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 7 |
+| Bite | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 7 |
 | Bite | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 7 |
 | Bite | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 7 |
 | Bite | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 7 |
@@ -1927,8 +1927,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Bitter Blade | <a href="pokemon-lookup.html?q=honedge">Honedge</a> | Level 50 |
 | Bitter Blade | <a href="pokemon-lookup.html?q=mega-banette">Mega Banette</a> | Level 52 |
 | Bitter Blade | <a href="pokemon-lookup.html?q=shuppet">Shuppet</a> | Level 52 |
-| Bitter Malice | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level Evo |
-| Bitter Malice | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level Evo |
+| Bitter Malice | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level Evo |
+| Bitter Malice | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level Evo |
 | Bitter Malice | <a href="pokemon-lookup.html?q=hisuian-zoroark">Hisuian Zoroark</a> | Level Evo |
 | Bitter Malice | <a href="pokemon-lookup.html?q=mega-noctowl">Mega Noctowl</a> | Level 38 |
 | Bitter Malice | <a href="pokemon-lookup.html?q=noctowl">Noctowl</a> | Level 38 |
@@ -1939,7 +1939,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Blaze Kick | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Level 33 |
 | Blaze Kick | <a href="pokemon-lookup.html?q=medicham">Medicham</a> | Level Evo |
 | Blaze Kick | <a href="pokemon-lookup.html?q=mega-medicham">Mega Medicham</a> | Level Evo |
-| Blaze Kick | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 38 |
+| Blaze Kick | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 38 |
 | Blaze Kick | <a href="pokemon-lookup.html?q=zebstrika">Zebstrika</a> | Level 31 |
 | Bleakwind Storm | <a href="pokemon-lookup.html?q=altaria">Altaria</a> | Level 59 |
 | Bleakwind Storm | <a href="pokemon-lookup.html?q=ducklett">Ducklett</a> | Level 50 |
@@ -1964,8 +1964,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Blizzard | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | Level 55 |
 | Blizzard | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | TM/HM |
 | Blizzard | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Blizzard | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Blizzard | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Blizzard | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Blizzard | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Blizzard | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Blizzard | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Blizzard | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -2460,8 +2460,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Body Slam | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | Tutor |
 | Body Slam | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Body Slam | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Body Slam | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Body Slam | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Body Slam | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Body Slam | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Body Slam | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Level 27 |
 | Body Slam | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Egg |
 | Body Slam | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
@@ -3264,8 +3264,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Bulldoze | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | TM/HM |
 | Bulldoze | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | TM/HM |
 | Bulldoze | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Bulldoze | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Bulldoze | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Bulldoze | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Bulldoze | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Bulldoze | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Bulldoze | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
 | Bulldoze | <a href="pokemon-lookup.html?q=raikou">Raikou</a> | TM/HM |
@@ -3440,8 +3440,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Calm Mind | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
-| Calm Mind | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Calm Mind | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Calm Mind | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Calm Mind | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=braixen">Braixen</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=bronzong">Bronzong</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=bronzor">Bronzor</a> | TM/HM |
@@ -3466,7 +3466,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Calm Mind | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=farigiraf">Farigiraf</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | TM/HM |
-| Calm Mind | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Calm Mind | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
 | Calm Mind | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
@@ -3595,7 +3595,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Calm Mind | <a href="pokemon-lookup.html?q=zorua">Zorua</a> | TM/HM |
 | Camouflage | <a href="pokemon-lookup.html?q=corsola">Corsola</a> | Egg |
 | Camouflage | <a href="pokemon-lookup.html?q=dragalge">Dragalge</a> | Level 19 |
-| Camouflage | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Egg |
+| Camouflage | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Egg |
 | Camouflage | <a href="pokemon-lookup.html?q=floette">Floette</a> | Egg |
 | Camouflage | <a href="pokemon-lookup.html?q=florges">Florges</a> | Egg |
 | Camouflage | <a href="pokemon-lookup.html?q=froakie">Froakie</a> | Egg |
@@ -3617,7 +3617,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Captivate | <a href="pokemon-lookup.html?q=eevee">Eevee</a> | Egg |
 | Captivate | <a href="pokemon-lookup.html?q=espeon">Espeon</a> | Egg |
 | Captivate | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Level 26 |
-| Captivate | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Egg |
+| Captivate | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Egg |
 | Captivate | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Egg |
 | Captivate | <a href="pokemon-lookup.html?q=floette">Floette</a> | Egg |
 | Captivate | <a href="pokemon-lookup.html?q=florges">Florges</a> | Egg |
@@ -3787,8 +3787,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Chilling Water | <a href="pokemon-lookup.html?q=glaceon">Glaceon</a> | Level 31 |
 | Chip Away | <a href="pokemon-lookup.html?q=alolan-sandshrew">Alolan Sandshrew</a> | Egg |
 | Chip Away | <a href="pokemon-lookup.html?q=alolan-sandslash">Alolan Sandslash</a> | Egg |
-| Chip Away | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 11 |
-| Chip Away | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 11 |
+| Chip Away | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 11 |
+| Chip Away | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 11 |
 | Chip Away | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 11 |
 | Chip Away | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 11 |
 | Chip Away | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 11 |
@@ -4034,7 +4034,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Constrict | <a href="pokemon-lookup.html?q=spinarak">Spinarak</a> | Level 1 |
 | Constrict | <a href="pokemon-lookup.html?q=tentacool">Tentacool</a> | Level 7 |
 | Constrict | <a href="pokemon-lookup.html?q=tentacruel">Tentacruel</a> | Level 7 |
-| Copycat | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Egg |
+| Copycat | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Egg |
 | Copycat | <a href="pokemon-lookup.html?q=floette">Floette</a> | Egg |
 | Copycat | <a href="pokemon-lookup.html?q=floragato">Floragato</a> | Egg |
 | Copycat | <a href="pokemon-lookup.html?q=florges">Florges</a> | Egg |
@@ -4369,8 +4369,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Crunch | <a href="pokemon-lookup.html?q=archen">Archen</a> | Level 35 |
 | Crunch | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Level Evo |
 | Crunch | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | Level 38 |
-| Crunch | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 17 |
-| Crunch | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 17 |
+| Crunch | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 17 |
+| Crunch | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 17 |
 | Crunch | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 17 |
 | Crunch | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 17 |
 | Crunch | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 17 |
@@ -4434,7 +4434,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Crunch | <a href="pokemon-lookup.html?q=panpour">Panpour</a> | Level 43 |
 | Crunch | <a href="pokemon-lookup.html?q=pansage">Pansage</a> | Level 43 |
 | Crunch | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Level 47 |
-| Crunch | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 42 |
+| Crunch | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 42 |
 | Crunch | <a href="pokemon-lookup.html?q=raikou">Raikou</a> | Level 35 |
 | Crunch | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | Egg |
 | Crunch | <a href="pokemon-lookup.html?q=rayquaza">Rayquaza</a> | Level 20 |
@@ -4844,9 +4844,9 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Dark Pulse | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Dark Pulse | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Level 34 |
 | Dark Pulse | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Dark Pulse | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 42 |
-| Dark Pulse | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Dark Pulse | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Dark Pulse | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 42 |
+| Dark Pulse | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Dark Pulse | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Dark Pulse | <a href="pokemon-lookup.html?q=sandile">Sandile</a> | TM/HM |
 | Dark Pulse | <a href="pokemon-lookup.html?q=scrafty">Scrafty</a> | TM/HM |
 | Dark Pulse | <a href="pokemon-lookup.html?q=scraggy">Scraggy</a> | TM/HM |
@@ -4910,7 +4910,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Dazzling Gleam | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Level 34 |
 | Dazzling Gleam | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Dazzling Gleam | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Dazzling Gleam | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Dazzling Gleam | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Dazzling Gleam | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
 | Dazzling Gleam | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
 | Dazzling Gleam | <a href="pokemon-lookup.html?q=florges">Florges</a> | TM/HM |
@@ -5487,8 +5487,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Dig | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | TM/HM |
 | Dig | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Dig | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Dig | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Dig | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Dig | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Dig | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Dig | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Dig | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 27 |
 | Dig | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
@@ -6015,7 +6015,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Double Team | <a href="pokemon-lookup.html?q=feraligatr">Feraligatr</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Double Team | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Double Team | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
@@ -6230,8 +6230,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Double Team | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Double Team | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Double Team | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Double Team | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Double Team | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Double Team | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
@@ -6377,10 +6377,10 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Double-Edge | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=banette">Banette</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Tutor |
-| Double-Edge | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 26 |
-| Double-Edge | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Tutor |
-| Double-Edge | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 26 |
-| Double-Edge | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Tutor |
+| Double-Edge | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 26 |
+| Double-Edge | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Tutor |
+| Double-Edge | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 26 |
+| Double-Edge | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 26 |
 | Double-Edge | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 26 |
@@ -6661,9 +6661,9 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Double-Edge | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Double-Edge | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Double-Edge | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 48 |
-| Double-Edge | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Double-Edge | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Double-Edge | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 48 |
+| Double-Edge | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
 | Double-Edge | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 64 |
 | Double-Edge | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Egg |
@@ -7139,7 +7139,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Draining Kiss | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | TM/HM |
 | Draining Kiss | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | TM/HM |
 | Draining Kiss | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Level 20 |
-| Draining Kiss | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Draining Kiss | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Draining Kiss | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level Evo |
 | Draining Kiss | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
 | Draining Kiss | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 1 |
@@ -7633,7 +7633,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Echoed Voice | <a href="pokemon-lookup.html?q=noctowl">Noctowl</a> | Level 13 |
 | Echoed Voice | <a href="pokemon-lookup.html?q=pikipek">Pikipek</a> | Level 7 |
 | Echoed Voice | <a href="pokemon-lookup.html?q=primarina">Primarina</a> | Level 26 |
-| Echoed Voice | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level Evo |
+| Echoed Voice | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level Evo |
 | Echoed Voice | <a href="pokemon-lookup.html?q=toucannon">Toucannon</a> | Level 7 |
 | Echoed Voice | <a href="pokemon-lookup.html?q=trumbeak">Trumbeak</a> | Level 7 |
 | Echoed Voice | <a href="pokemon-lookup.html?q=wailmer">Wailmer</a> | Level 22 |
@@ -7759,8 +7759,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Ember | <a href="pokemon-lookup.html?q=ninetales">Ninetales</a> | Level 1 |
 | Ember | <a href="pokemon-lookup.html?q=numel">Numel</a> | Level 5 |
 | Ember | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | Level 9 |
-| Ember | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 5 |
-| Ember | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 5 |
+| Ember | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 5 |
+| Ember | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 5 |
 | Ember | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 10 |
 | Ember | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | Level 9 |
 | Ember | <a href="pokemon-lookup.html?q=salandit">Salandit</a> | Level 5 |
@@ -7863,8 +7863,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Endeavor | <a href="pokemon-lookup.html?q=poliwag">Poliwag</a> | Egg |
 | Endeavor | <a href="pokemon-lookup.html?q=poliwhirl">Poliwhirl</a> | Egg |
 | Endeavor | <a href="pokemon-lookup.html?q=poliwrath">Poliwrath</a> | Egg |
-| Endeavor | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 28 |
-| Endeavor | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 28 |
+| Endeavor | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 28 |
+| Endeavor | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 28 |
 | Endeavor | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | Level Evo |
 | Endeavor | <a href="pokemon-lookup.html?q=reuniclus">Reuniclus</a> | Level 28 |
 | Endeavor | <a href="pokemon-lookup.html?q=solosis">Solosis</a> | Level 28 |
@@ -7911,8 +7911,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Endure | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=banette">Banette</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Tutor |
-| Endure | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Tutor |
-| Endure | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Tutor |
+| Endure | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Tutor |
+| Endure | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Tutor |
@@ -8036,7 +8036,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Endure | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Tutor |
-| Endure | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Tutor |
+| Endure | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Egg |
 | Endure | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Tutor |
@@ -8334,8 +8334,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Endure | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Endure | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Endure | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Endure | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Endure | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Tutor |
 | Endure | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | Tutor |
@@ -8495,7 +8495,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Energy Ball | <a href="pokemon-lookup.html?q=hydrapple">Hydrapple</a> | Level 40 |
 | Energy Ball | <a href="pokemon-lookup.html?q=lileep">Lileep</a> | Level 41 |
 | Energy Ball | <a href="pokemon-lookup.html?q=meowscarada">Meowscarada</a> | Level 40 |
-| Energy Ball | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 1 |
+| Energy Ball | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 1 |
 | Energy Ball | <a href="pokemon-lookup.html?q=sprigatito">Sprigatito</a> | Level 32 |
 | Entrainment | <a href="pokemon-lookup.html?q=clauncher">Clauncher</a> | Egg |
 | Entrainment | <a href="pokemon-lookup.html?q=clawitzer">Clawitzer</a> | Egg |
@@ -8513,8 +8513,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Entrainment | <a href="pokemon-lookup.html?q=pawmi">Pawmi</a> | Level 31 |
 | Entrainment | <a href="pokemon-lookup.html?q=pawmo">Pawmo</a> | Level 38 |
 | Entrainment | <a href="pokemon-lookup.html?q=pawmott">Pawmott</a> | Level 38 |
-| Entrainment | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Egg |
-| Entrainment | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Egg |
+| Entrainment | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Egg |
+| Entrainment | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Egg |
 | Entrainment | <a href="pokemon-lookup.html?q=remoraid">Remoraid</a> | Egg |
 | Entrainment | <a href="pokemon-lookup.html?q=seel">Seel</a> | Egg |
 | Eruption | <a href="pokemon-lookup.html?q=camerupt">Camerupt</a> | Level 1 |
@@ -8682,8 +8682,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Facade | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Facade | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Facade | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Facade | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Facade | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -8789,7 +8789,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Facade | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Facade | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Facade | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
@@ -9038,8 +9038,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Facade | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Facade | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Facade | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Facade | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Facade | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | TM/HM |
 | Facade | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | TM/HM |
@@ -9171,7 +9171,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Facade | <a href="pokemon-lookup.html?q=zorua">Zorua</a> | TM/HM |
 | Fairy Wind | <a href="pokemon-lookup.html?q=cutiefly">Cutiefly</a> | Level 4 |
 | Fairy Wind | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 6 |
-| Fairy Wind | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 6 |
+| Fairy Wind | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 6 |
 | Fairy Wind | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 6 |
 | Fairy Wind | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 6 |
 | Fairy Wind | <a href="pokemon-lookup.html?q=frosmoth">Frosmoth</a> | Egg |
@@ -9482,8 +9482,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Fiery Wrath | <a href="pokemon-lookup.html?q=salazzle">Salazzle</a> | Level 35 |
 | Fiery Wrath | <a href="pokemon-lookup.html?q=spiritomb">Spiritomb</a> | Level 40 |
 | Final Gambit | <a href="pokemon-lookup.html?q=annihilape">Annihilape</a> | Level 57 |
-| Final Gambit | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 38 |
-| Final Gambit | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 38 |
+| Final Gambit | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 38 |
+| Final Gambit | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 38 |
 | Final Gambit | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 38 |
 | Final Gambit | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 38 |
 | Final Gambit | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 38 |
@@ -9584,8 +9584,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Fire Blast | <a href="pokemon-lookup.html?q=primal-groudon">Primal Groudon</a> | Level 75 |
 | Fire Blast | <a href="pokemon-lookup.html?q=primal-groudon">Primal Groudon</a> | TM/HM |
 | Fire Blast | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
-| Fire Blast | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Fire Blast | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Fire Blast | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Fire Blast | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Fire Blast | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Fire Blast | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | TM/HM |
 | Fire Blast | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | Level 41 |
@@ -9654,8 +9654,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Fire Fang | <a href="pokemon-lookup.html?q=mega-tyranitar">Mega Tyranitar</a> | Level 1 |
 | Fire Fang | <a href="pokemon-lookup.html?q=midnight-lycanroc">Midnight Lycanroc</a> | Egg |
 | Fire Fang | <a href="pokemon-lookup.html?q=own-tempo-rockruff">Own Tempo Rockruff</a> | Egg |
-| Fire Fang | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 23 |
-| Fire Fang | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 23 |
+| Fire Fang | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 23 |
+| Fire Fang | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 23 |
 | Fire Fang | <a href="pokemon-lookup.html?q=rockruff">Rockruff</a> | Egg |
 | Fire Fang | <a href="pokemon-lookup.html?q=sandile">Sandile</a> | Egg |
 | Fire Fang | <a href="pokemon-lookup.html?q=silvally">Silvally</a> | Level 1 |
@@ -9800,8 +9800,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Fire Spin | <a href="pokemon-lookup.html?q=ninetales">Ninetales</a> | Level 15 |
 | Fire Spin | <a href="pokemon-lookup.html?q=pansear">Pansear</a> | Egg |
 | Fire Spin | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | Level 25 |
-| Fire Spin | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Egg |
-| Fire Spin | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Egg |
+| Fire Spin | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Egg |
+| Fire Spin | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Egg |
 | Fire Spin | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | Level 25 |
 | Fire Spin | <a href="pokemon-lookup.html?q=simisear">Simisear</a> | Egg |
 | Fire Spin | <a href="pokemon-lookup.html?q=sizzlipede">Sizzlipede</a> | Level 30 |
@@ -9851,8 +9851,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Flail | <a href="pokemon-lookup.html?q=alolan-sandslash">Alolan Sandslash</a> | Egg |
 | Flail | <a href="pokemon-lookup.html?q=alolan-vulpix">Alolan Vulpix</a> | Egg |
 | Flail | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Egg |
-| Flail | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 34 |
-| Flail | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 34 |
+| Flail | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 34 |
+| Flail | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 34 |
 | Flail | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 34 |
 | Flail | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 34 |
 | Flail | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 34 |
@@ -9981,7 +9981,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Flame Charge | <a href="pokemon-lookup.html?q=mega-toucannon">Mega Toucannon</a> | Level 27 |
 | Flame Charge | <a href="pokemon-lookup.html?q=paldean-tauros-b">Paldean Tauros-B</a> | Level 15 |
 | Flame Charge | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | Level 21 |
-| Flame Charge | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 35 |
+| Flame Charge | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 35 |
 | Flame Charge | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 35 |
 | Flame Charge | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | Level 21 |
 | Flame Charge | <a href="pokemon-lookup.html?q=toucannon">Toucannon</a> | Level 27 |
@@ -10115,9 +10115,9 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Flamethrower | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | TM/HM |
 | Flamethrower | <a href="pokemon-lookup.html?q=primal-groudon">Primal Groudon</a> | TM/HM |
 | Flamethrower | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
-| Flamethrower | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 38 |
-| Flamethrower | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Flamethrower | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Flamethrower | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 38 |
+| Flamethrower | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Flamethrower | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Flamethrower | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 46 |
 | Flamethrower | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Flamethrower | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | TM/HM |
@@ -10173,9 +10173,9 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Flare Blitz | <a href="pokemon-lookup.html?q=paldean-tauros-b">Paldean Tauros-B</a> | Level 55 |
 | Flare Blitz | <a href="pokemon-lookup.html?q=pansear">Pansear</a> | Egg |
 | Flare Blitz | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | Level 49 |
-| Flare Blitz | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Egg |
-| Flare Blitz | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 55 |
-| Flare Blitz | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Egg |
+| Flare Blitz | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Egg |
+| Flare Blitz | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 55 |
+| Flare Blitz | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Egg |
 | Flare Blitz | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Egg |
 | Flare Blitz | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | Level 49 |
 | Flare Blitz | <a href="pokemon-lookup.html?q=simisear">Simisear</a> | Egg |
@@ -10222,7 +10222,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Flash | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | TM/HM |
 | Flash | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Flash | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Flash | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Flash | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Flash | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
 | Flash | <a href="pokemon-lookup.html?q=florges">Florges</a> | TM/HM |
 | Flash | <a href="pokemon-lookup.html?q=froslass">Froslass</a> | TM/HM |
@@ -10941,7 +10941,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Giga Drain | <a href="pokemon-lookup.html?q=dustox">Dustox</a> | TM/HM |
 | Giga Drain | <a href="pokemon-lookup.html?q=ekans">Ekans</a> | TM/HM |
 | Giga Drain | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | TM/HM |
-| Giga Drain | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Giga Drain | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Giga Drain | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Giga Drain | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
 | Giga Drain | <a href="pokemon-lookup.html?q=floragato">Floragato</a> | TM/HM |
@@ -11100,7 +11100,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Grassy Terrain | <a href="pokemon-lookup.html?q=chikorita">Chikorita</a> | Egg |
 | Grassy Terrain | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Level 44 |
 | Grassy Terrain | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 25 |
-| Grassy Terrain | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 24 |
+| Grassy Terrain | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 24 |
 | Grassy Terrain | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 25 |
 | Grassy Terrain | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 25 |
 | Grassy Terrain | <a href="pokemon-lookup.html?q=gogoat">Gogoat</a> | Egg |
@@ -11517,8 +11517,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Head Smash | <a href="pokemon-lookup.html?q=archen">Archen</a> | Egg |
 | Head Smash | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Egg |
 | Head Smash | <a href="pokemon-lookup.html?q=aron">Aron</a> | Egg |
-| Head Smash | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 53 |
-| Head Smash | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 53 |
+| Head Smash | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 53 |
+| Head Smash | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 53 |
 | Head Smash | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 46 |
 | Head Smash | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Egg |
 | Head Smash | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 46 |
@@ -11547,8 +11547,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Headbutt | <a href="pokemon-lookup.html?q=appletun">Appletun</a> | Level Evo |
 | Headbutt | <a href="pokemon-lookup.html?q=aron">Aron</a> | Level 7 |
 | Headbutt | <a href="pokemon-lookup.html?q=banette">Banette</a> | Level 21 |
-| Headbutt | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 5 |
-| Headbutt | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 5 |
+| Headbutt | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 5 |
+| Headbutt | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 5 |
 | Headbutt | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 5 |
 | Headbutt | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 5 |
 | Headbutt | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 5 |
@@ -11591,8 +11591,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Headbutt | <a href="pokemon-lookup.html?q=paldean-tauros-c">Paldean Tauros-C</a> | Level 20 |
 | Headbutt | <a href="pokemon-lookup.html?q=passimian">Passimian</a> | Level 20 |
 | Headbutt | <a href="pokemon-lookup.html?q=piloswine">Piloswine</a> | Level 27 |
-| Headbutt | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 11 |
-| Headbutt | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 11 |
+| Headbutt | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 11 |
+| Headbutt | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 11 |
 | Headbutt | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | Level 1 |
 | Headbutt | <a href="pokemon-lookup.html?q=scrafty">Scrafty</a> | Level 1 |
 | Headbutt | <a href="pokemon-lookup.html?q=scraggy">Scraggy</a> | Level 1 |
@@ -11755,8 +11755,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Hex | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Hex | <a href="pokemon-lookup.html?q=banette">Banette</a> | Level 22 |
 | Hex | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
-| Hex | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Hex | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Hex | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Hex | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Hex | <a href="pokemon-lookup.html?q=bronzong">Bronzong</a> | TM/HM |
 | Hex | <a href="pokemon-lookup.html?q=bronzor">Bronzor</a> | TM/HM |
 | Hex | <a href="pokemon-lookup.html?q=ceruledge">Ceruledge</a> | TM/HM |
@@ -12061,8 +12061,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Hyper Beam | <a href="pokemon-lookup.html?q=mega-tyranitar">Mega Tyranitar</a> | Level 73 |
 | Hyper Beam | <a href="pokemon-lookup.html?q=octillery">Octillery</a> | Level 58 |
 | Hyper Beam | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Level 67 |
-| Hyper Beam | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 1 |
-| Hyper Beam | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 1 |
+| Hyper Beam | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 1 |
+| Hyper Beam | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 1 |
 | Hyper Beam | <a href="pokemon-lookup.html?q=rayquaza">Rayquaza</a> | Level 90 |
 | Hyper Beam | <a href="pokemon-lookup.html?q=remoraid">Remoraid</a> | Level 46 |
 | Hyper Beam | <a href="pokemon-lookup.html?q=tyranitar">Tyranitar</a> | Level 73 |
@@ -12093,8 +12093,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Hyper Voice | <a href="pokemon-lookup.html?q=politoed">Politoed</a> | Level 47 |
 | Hyper Voice | <a href="pokemon-lookup.html?q=popplio">Popplio</a> | Level 32 |
 | Hyper Voice | <a href="pokemon-lookup.html?q=primarina">Primarina</a> | Level 34 |
-| Hyper Voice | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 45 |
-| Hyper Voice | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 45 |
+| Hyper Voice | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 45 |
+| Hyper Voice | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 45 |
 | Hyper Voice | <a href="pokemon-lookup.html?q=rayquaza">Rayquaza</a> | Level 75 |
 | Hyper Voice | <a href="pokemon-lookup.html?q=simisear">Simisear</a> | Level 43 |
 | Hyper Voice | <a href="pokemon-lookup.html?q=skeledirge">Skeledirge</a> | Level 40 |
@@ -12179,8 +12179,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Ice Beam | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | TM/HM |
 | Ice Beam | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Ice Beam | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Ice Beam | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Ice Beam | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Ice Beam | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Ice Beam | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Ice Beam | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Ice Beam | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Ice Beam | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -12362,7 +12362,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Ice Fang | <a href="pokemon-lookup.html?q=mega-steelix">Mega Steelix</a> | Level 1 |
 | Ice Fang | <a href="pokemon-lookup.html?q=mega-tyranitar">Mega Tyranitar</a> | Level 1 |
 | Ice Fang | <a href="pokemon-lookup.html?q=piloswine">Piloswine</a> | Level 24 |
-| Ice Fang | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 1 |
+| Ice Fang | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 1 |
 | Ice Fang | <a href="pokemon-lookup.html?q=sealeo">Sealeo</a> | Level Evo |
 | Ice Fang | <a href="pokemon-lookup.html?q=silvally">Silvally</a> | Level 1 |
 | Ice Fang | <a href="pokemon-lookup.html?q=sneasel">Sneasel</a> | Level 27 |
@@ -12595,8 +12595,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Icy Wind | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | Tutor |
 | Icy Wind | <a href="pokemon-lookup.html?q=banette">Banette</a> | Tutor |
 | Icy Wind | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Tutor |
-| Icy Wind | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Tutor |
-| Icy Wind | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Tutor |
+| Icy Wind | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Tutor |
+| Icy Wind | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Tutor |
 | Icy Wind | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Tutor |
 | Icy Wind | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Tutor |
 | Icy Wind | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Tutor |
@@ -12825,8 +12825,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Incompatible | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | Egg |
 | Incompatible | <a href="pokemon-lookup.html?q=arctozolt">Arctozolt</a> | Egg |
 | Incompatible | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | Egg |
-| Incompatible | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Egg |
-| Incompatible | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Egg |
+| Incompatible | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Egg |
+| Incompatible | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Egg |
 | Incompatible | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Egg |
 | Incompatible | <a href="pokemon-lookup.html?q=beautifly">Beautifly</a> | Egg |
 | Incompatible | <a href="pokemon-lookup.html?q=braviary">Braviary</a> | Egg |
@@ -13115,7 +13115,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Ivy Cudgel | <a href="pokemon-lookup.html?q=ogerpon-wellspring">Ogerpon Wellspring</a> | Level 30 |
 | Jaw Lock | <a href="pokemon-lookup.html?q=feraligatr">Feraligatr</a> | Level Evo |
 | Jaw Lock | <a href="pokemon-lookup.html?q=krookodile">Krookodile</a> | Level 50 |
-| Jaw Lock | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level Evo |
+| Jaw Lock | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level Evo |
 | Jet Punch | <a href="pokemon-lookup.html?q=buizel">Buizel</a> | Level 35 |
 | Jet Punch | <a href="pokemon-lookup.html?q=crabominable">Crabominable</a> | Level 30 |
 | Jet Punch | <a href="pokemon-lookup.html?q=crabrawler">Crabrawler</a> | Level 30 |
@@ -13475,8 +13475,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Leer | <a href="pokemon-lookup.html?q=passimian">Passimian</a> | Level 4 |
 | Leer | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | Level 1 |
 | Leer | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Level 1 |
-| Leer | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 1 |
-| Leer | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 1 |
+| Leer | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 1 |
+| Leer | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 1 |
 | Leer | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 1 |
 | Leer | <a href="pokemon-lookup.html?q=raikou">Raikou</a> | Level 1 |
 | Leer | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | Level 1 |
@@ -13604,7 +13604,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Light Screen | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | TM/HM |
 | Light Screen | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Level 52 |
 | Light Screen | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Light Screen | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Light Screen | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Light Screen | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
 | Light Screen | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
 | Light Screen | <a href="pokemon-lookup.html?q=florges">Florges</a> | TM/HM |
@@ -13789,7 +13789,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Lucky Chant | <a href="pokemon-lookup.html?q=ducklett">Ducklett</a> | Egg |
 | Lucky Chant | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 10 |
 | Lucky Chant | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | Level 25 |
-| Lucky Chant | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 10 |
+| Lucky Chant | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 10 |
 | Lucky Chant | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 10 |
 | Lucky Chant | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 10 |
 | Lucky Chant | <a href="pokemon-lookup.html?q=kirlia">Kirlia</a> | Level 14 |
@@ -13853,7 +13853,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Magical Leaf | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Level 10 |
 | Magical Leaf | <a href="pokemon-lookup.html?q=delphox">Delphox</a> | Level 1 |
 | Magical Leaf | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 23 |
-| Magical Leaf | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 22 |
+| Magical Leaf | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 22 |
 | Magical Leaf | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 23 |
 | Magical Leaf | <a href="pokemon-lookup.html?q=floragato">Floragato</a> | Level 13 |
 | Magical Leaf | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 23 |
@@ -14560,7 +14560,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Mist | <a href="pokemon-lookup.html?q=wooper">Wooper</a> | Level 43 |
 | Misty Terrain | <a href="pokemon-lookup.html?q=brionne">Brionne</a> | Level 50 |
 | Misty Terrain | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 43 |
-| Misty Terrain | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 37 |
+| Misty Terrain | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 37 |
 | Misty Terrain | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 43 |
 | Misty Terrain | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 43 |
 | Misty Terrain | <a href="pokemon-lookup.html?q=gallade">Gallade</a> | Egg |
@@ -14591,7 +14591,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Moonblast | <a href="pokemon-lookup.html?q=delphox">Delphox</a> | Level 55 |
 | Moonblast | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 46 |
 | Moonblast | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Level 52 |
-| Moonblast | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 41 |
+| Moonblast | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 41 |
 | Moonblast | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 46 |
 | Moonblast | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 46 |
 | Moonblast | <a href="pokemon-lookup.html?q=gardevoir">Gardevoir</a> | Level 1 |
@@ -14963,8 +14963,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Mud-Slap | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | Tutor |
 | Mud-Slap | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Mud-Slap | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Mud-Slap | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Mud-Slap | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Mud-Slap | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Mud-Slap | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Mud-Slap | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
 | Mud-Slap | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 17 |
 | Mud-Slap | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Tutor |
@@ -15305,8 +15305,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Noble Roar | <a href="pokemon-lookup.html?q=jangmo-o">Jangmo-o</a> | Level 46 |
 | Noble Roar | <a href="pokemon-lookup.html?q=kommo-o">Kommo-o</a> | Level 46 |
 | Noble Roar | <a href="pokemon-lookup.html?q=litleo">Litleo</a> | Level 15 |
-| Noble Roar | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 15 |
-| Noble Roar | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 15 |
+| Noble Roar | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 15 |
+| Noble Roar | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 15 |
 | Noble Roar | <a href="pokemon-lookup.html?q=walking-wake">Walking Wake</a> | Level 21 |
 | Nuzzle | <a href="pokemon-lookup.html?q=alolan-raichu">Alolan Raichu</a> | Level 29 |
 | Nuzzle | <a href="pokemon-lookup.html?q=boltund">Boltund</a> | Level 5 |
@@ -15556,7 +15556,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Petal Blizzard | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Level 25 |
 | Petal Blizzard | <a href="pokemon-lookup.html?q=cutiefly">Cutiefly</a> | Level 46 |
 | Petal Blizzard | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 33 |
-| Petal Blizzard | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 28 |
+| Petal Blizzard | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 28 |
 | Petal Blizzard | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 33 |
 | Petal Blizzard | <a href="pokemon-lookup.html?q=floragato">Floragato</a> | Egg |
 | Petal Blizzard | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 33 |
@@ -15571,7 +15571,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Petal Dance | <a href="pokemon-lookup.html?q=cherrim-sunny">Cherrim Sunny</a> | Level Evo |
 | Petal Dance | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Level 40 |
 | Petal Dance | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 51 |
-| Petal Dance | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 45 |
+| Petal Dance | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 45 |
 | Petal Dance | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 51 |
 | Petal Dance | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 51 |
 | Petal Dance | <a href="pokemon-lookup.html?q=meganium">Meganium</a> | Level Evo |
@@ -15585,8 +15585,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Phantom Force | <a href="pokemon-lookup.html?q=banette">Banette</a> | Level 1 |
 | Phantom Force | <a href="pokemon-lookup.html?q=banette">Banette</a> | Level 54 |
 | Phantom Force | <a href="pokemon-lookup.html?q=banette">Banette</a> | Egg |
-| Phantom Force | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 40 |
-| Phantom Force | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 40 |
+| Phantom Force | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 40 |
+| Phantom Force | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 40 |
 | Phantom Force | <a href="pokemon-lookup.html?q=decidueye">Decidueye</a> | Level 1 |
 | Phantom Force | <a href="pokemon-lookup.html?q=dhelmise">Dhelmise</a> | Level 50 |
 | Phantom Force | <a href="pokemon-lookup.html?q=doublade">Doublade</a> | Level 45 |
@@ -16266,8 +16266,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Protect | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Protect | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Protect | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Protect | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Protect | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -16382,7 +16382,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Protect | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Protect | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Protect | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | Level 16 |
 | Protect | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
@@ -16650,8 +16650,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Protect | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Protect | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Protect | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Protect | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Protect | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | TM/HM |
 | Protect | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | TM/HM |
@@ -17005,8 +17005,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Psychic | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
-| Psychic | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Psychic | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Psychic | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Psychic | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=beautifly">Beautifly</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=braixen">Braixen</a> | Level 41 |
 | Psychic | <a href="pokemon-lookup.html?q=braixen">Braixen</a> | TM/HM |
@@ -17037,7 +17037,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Psychic | <a href="pokemon-lookup.html?q=farigiraf">Farigiraf</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | Level 41 |
 | Psychic | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | TM/HM |
-| Psychic | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Psychic | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
 | Psychic | <a href="pokemon-lookup.html?q=florges">Florges</a> | TM/HM |
@@ -17154,7 +17154,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Psychic Fangs | <a href="pokemon-lookup.html?q=herdier">Herdier</a> | Egg |
 | Psychic Fangs | <a href="pokemon-lookup.html?q=lillipup">Lillipup</a> | Egg |
 | Psychic Fangs | <a href="pokemon-lookup.html?q=stoutland">Stoutland</a> | Egg |
-| Psychic Noise | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 1 |
+| Psychic Noise | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 1 |
 | Psychic Terrain | <a href="pokemon-lookup.html?q=braixen">Braixen</a> | Egg |
 | Psychic Terrain | <a href="pokemon-lookup.html?q=delphox">Delphox</a> | Egg |
 | Psychic Terrain | <a href="pokemon-lookup.html?q=drowzee">Drowzee</a> | Egg |
@@ -17612,8 +17612,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rain Dance | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Rain Dance | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Rain Dance | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Rain Dance | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Rain Dance | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -17693,7 +17693,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rain Dance | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Level 13 |
 | Rain Dance | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Rain Dance | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Rain Dance | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | TM/HM |
@@ -17892,8 +17892,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rain Dance | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Rain Dance | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Rain Dance | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Rain Dance | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Rain Dance | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Level 41 |
 | Rain Dance | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Rain Dance | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | TM/HM |
@@ -18031,7 +18031,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Razor Leaf | <a href="pokemon-lookup.html?q=dartrix">Dartrix</a> | Level 14 |
 | Razor Leaf | <a href="pokemon-lookup.html?q=decidueye">Decidueye</a> | Level 14 |
 | Razor Leaf | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 15 |
-| Razor Leaf | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 15 |
+| Razor Leaf | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 15 |
 | Razor Leaf | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 15 |
 | Razor Leaf | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 15 |
 | Razor Leaf | <a href="pokemon-lookup.html?q=fomantis">Fomantis</a> | Level 10 |
@@ -18361,8 +18361,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rest | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Level 25 |
 | Rest | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Rest | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Rest | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Rest | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Rest | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -18472,7 +18472,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rest | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Rest | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Rest | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
@@ -18732,8 +18732,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rest | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Rest | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Rest | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Rest | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Rest | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | TM/HM |
 | Rest | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | TM/HM |
@@ -19542,8 +19542,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Rock Smash | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Rock Smash | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Rock Smash | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Rock Smash | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Rock Smash | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Rock Smash | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Rock Smash | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Rock Smash | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Rock Smash | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Rock Smash | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
@@ -20592,8 +20592,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Scary Face | <a href="pokemon-lookup.html?q=alolan-muk">Alolan Muk</a> | Egg |
 | Scary Face | <a href="pokemon-lookup.html?q=arbok">Arbok</a> | Egg |
 | Scary Face | <a href="pokemon-lookup.html?q=ariados">Ariados</a> | Level 12 |
-| Scary Face | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 28 |
-| Scary Face | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 28 |
+| Scary Face | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 28 |
+| Scary Face | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 28 |
 | Scary Face | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 28 |
 | Scary Face | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 28 |
 | Scary Face | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 28 |
@@ -20986,10 +20986,10 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Shadow Ball | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | TM/HM |
 | Shadow Ball | <a href="pokemon-lookup.html?q=banette">Banette</a> | Level 30 |
 | Shadow Ball | <a href="pokemon-lookup.html?q=banette">Banette</a> | TM/HM |
-| Shadow Ball | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 45 |
-| Shadow Ball | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Shadow Ball | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 45 |
-| Shadow Ball | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Shadow Ball | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 45 |
+| Shadow Ball | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Shadow Ball | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 45 |
+| Shadow Ball | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Shadow Ball | <a href="pokemon-lookup.html?q=beautifly">Beautifly</a> | TM/HM |
 | Shadow Ball | <a href="pokemon-lookup.html?q=bronzong">Bronzong</a> | TM/HM |
 | Shadow Ball | <a href="pokemon-lookup.html?q=bronzor">Bronzor</a> | TM/HM |
@@ -21173,8 +21173,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Shadow Claw | <a href="pokemon-lookup.html?q=morgrem">Morgrem</a> | Level 32 |
 | Shadow Claw | <a href="pokemon-lookup.html?q=parasect">Parasect</a> | Level Evo |
 | Shadow Claw | <a href="pokemon-lookup.html?q=shedinja">Shedinja</a> | Level 33 |
-| Shadow Force | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level Evo |
-| Shadow Force | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level Evo |
+| Shadow Force | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level Evo |
+| Shadow Force | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level Evo |
 | Shadow Punch | <a href="pokemon-lookup.html?q=annihilape">Annihilape</a> | Level Evo |
 | Shadow Punch | <a href="pokemon-lookup.html?q=dusclops">Dusclops</a> | Level Evo |
 | Shadow Punch | <a href="pokemon-lookup.html?q=dusknoir">Dusknoir</a> | Level 1 |
@@ -21784,8 +21784,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Sleep Talk | <a href="pokemon-lookup.html?q=baltoy">Baltoy</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=banette">Banette</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Tutor |
-| Sleep Talk | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Tutor |
-| Sleep Talk | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Tutor |
+| Sleep Talk | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Tutor |
+| Sleep Talk | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Tutor |
@@ -21895,7 +21895,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Sleep Talk | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Tutor |
-| Sleep Talk | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Tutor |
+| Sleep Talk | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | Tutor |
@@ -22155,8 +22155,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Sleep Talk | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Sleep Talk | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Sleep Talk | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Sleep Talk | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Sleep Talk | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Egg |
 | Sleep Talk | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
 | Sleep Talk | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Tutor |
@@ -22547,8 +22547,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Snarl | <a href="pokemon-lookup.html?q=persian">Persian</a> | Level 37 |
 | Snarl | <a href="pokemon-lookup.html?q=persian">Persian</a> | TM/HM |
 | Snarl | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Snarl | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Snarl | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Snarl | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Snarl | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Snarl | <a href="pokemon-lookup.html?q=raging-bolt">Raging Bolt</a> | TM/HM |
 | Snarl | <a href="pokemon-lookup.html?q=raikou">Raikou</a> | TM/HM |
 | Snarl | <a href="pokemon-lookup.html?q=rayquaza">Rayquaza</a> | Level 40 |
@@ -22592,8 +22592,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Snatch | <a href="pokemon-lookup.html?q=mega-banette">Mega Banette</a> | Level 42 |
 | Snatch | <a href="pokemon-lookup.html?q=meowth">Meowth</a> | Egg |
 | Snatch | <a href="pokemon-lookup.html?q=persian">Persian</a> | Egg |
-| Snatch | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Egg |
-| Snatch | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Egg |
+| Snatch | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Egg |
+| Snatch | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Egg |
 | Snatch | <a href="pokemon-lookup.html?q=reuniclus">Reuniclus</a> | Level 10 |
 | Snatch | <a href="pokemon-lookup.html?q=salandit">Salandit</a> | Egg |
 | Snatch | <a href="pokemon-lookup.html?q=salazzle">Salazzle</a> | Egg |
@@ -22738,7 +22738,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Snore | <a href="pokemon-lookup.html?q=feraligatr">Feraligatr</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Tutor |
-| Snore | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Tutor |
+| Snore | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | Tutor |
@@ -22949,8 +22949,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Snore | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Snore | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Snore | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Snore | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Snore | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | Tutor |
@@ -23073,8 +23073,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Snore | <a href="pokemon-lookup.html?q=zigzagoon">Zigzagoon</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=zoroark">Zoroark</a> | Tutor |
 | Snore | <a href="pokemon-lookup.html?q=zorua">Zorua</a> | Tutor |
-| Soak | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 23 |
-| Soak | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 23 |
+| Soak | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 23 |
+| Soak | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 23 |
 | Soak | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 23 |
 | Soak | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 23 |
 | Soak | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 23 |
@@ -23144,8 +23144,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Solar Beam | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 58 |
 | Solar Beam | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | TM/HM |
-| Solar Beam | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 48 |
-| Solar Beam | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Solar Beam | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 48 |
+| Solar Beam | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 58 |
 | Solar Beam | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
@@ -23219,8 +23219,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Solar Beam | <a href="pokemon-lookup.html?q=primal-groudon">Primal Groudon</a> | Level 60 |
 | Solar Beam | <a href="pokemon-lookup.html?q=primal-groudon">Primal Groudon</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
-| Solar Beam | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Solar Beam | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Solar Beam | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Solar Beam | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=raging-bolt">Raging Bolt</a> | TM/HM |
 | Solar Beam | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | TM/HM |
@@ -23900,8 +23900,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Strength | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | TM/HM |
 | Strength | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | TM/HM |
 | Strength | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
-| Strength | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Strength | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Strength | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Strength | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Strength | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Strength | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Strength | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
@@ -24163,7 +24163,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Sunny Day | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | Level 43 |
 | Sunny Day | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Sunny Day | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Sunny Day | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=flapple">Flapple</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | TM/HM |
@@ -24343,8 +24343,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Sunny Day | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Sunny Day | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Sunny Day | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Sunny Day | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Sunny Day | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
 | Sunny Day | <a href="pokemon-lookup.html?q=raging-bolt">Raging Bolt</a> | Level 1 |
@@ -24516,8 +24516,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Surf | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | TM/HM |
 | Surf | <a href="pokemon-lookup.html?q=arctozolt">Arctozolt</a> | TM/HM |
 | Surf | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Surf | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Surf | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Surf | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Surf | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Surf | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Surf | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Surf | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -24781,7 +24781,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Swagger | <a href="pokemon-lookup.html?q=feraligatr">Feraligatr</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Tutor |
-| Swagger | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Tutor |
+| Swagger | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=floette">Floette</a> | Tutor |
@@ -25003,8 +25003,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Swagger | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | Tutor |
-| Swagger | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Swagger | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Swagger | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Swagger | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Tutor |
 | Swagger | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | Tutor |
@@ -25227,8 +25227,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Swift | <a href="pokemon-lookup.html?q=archen">Archen</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Tutor |
-| Swift | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Tutor |
-| Swift | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Tutor |
+| Swift | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Tutor |
+| Swift | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Egg |
 | Swift | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Egg |
@@ -25288,7 +25288,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Swift | <a href="pokemon-lookup.html?q=finizen">Finizen</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Tutor |
-| Swift | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Tutor |
+| Swift | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=flittle">Flittle</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | Level 21 |
@@ -25437,8 +25437,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Swift | <a href="pokemon-lookup.html?q=primarina">Primarina</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Tutor |
-| Swift | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Tutor |
-| Swift | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Tutor |
+| Swift | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Tutor |
+| Swift | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | Tutor |
 | Swift | <a href="pokemon-lookup.html?q=quaxwell">Quaxwell</a> | Tutor |
@@ -25823,8 +25823,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Tackle | <a href="pokemon-lookup.html?q=aggron">Aggron</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=ampharos">Ampharos</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=aron">Aron</a> | Level 1 |
-| Tackle | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 1 |
-| Tackle | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 1 |
+| Tackle | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 1 |
+| Tackle | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 1 |
@@ -25865,7 +25865,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Tackle | <a href="pokemon-lookup.html?q=falinks">Falinks</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=farigiraf">Farigiraf</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | Level 1 |
-| Tackle | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 1 |
+| Tackle | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 1 |
@@ -25943,8 +25943,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Tackle | <a href="pokemon-lookup.html?q=phanpy">Phanpy</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | Level 1 |
-| Tackle | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 1 |
-| Tackle | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 1 |
+| Tackle | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 1 |
+| Tackle | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | Level 1 |
 | Tackle | <a href="pokemon-lookup.html?q=relicanth">Relicanth</a> | Level 1 |
@@ -25997,8 +25997,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Tail Whip | <a href="pokemon-lookup.html?q=alolan-raichu">Alolan Raichu</a> | Level 1 |
 | Tail Whip | <a href="pokemon-lookup.html?q=alolan-vulpix">Alolan Vulpix</a> | Level 4 |
 | Tail Whip | <a href="pokemon-lookup.html?q=ambipom">Ambipom</a> | Level 1 |
-| Tail Whip | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 1 |
-| Tail Whip | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 1 |
+| Tail Whip | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 1 |
+| Tail Whip | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 1 |
 | Tail Whip | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 1 |
 | Tail Whip | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 1 |
 | Tail Whip | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 1 |
@@ -26100,8 +26100,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Take Down | <a href="pokemon-lookup.html?q=aron">Aron</a> | Level 28 |
 | Take Down | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | Level 15 |
 | Take Down | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Egg |
-| Take Down | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 14 |
-| Take Down | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 14 |
+| Take Down | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 14 |
+| Take Down | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 14 |
 | Take Down | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 14 |
 | Take Down | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 14 |
 | Take Down | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 14 |
@@ -26144,8 +26144,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Take Down | <a href="pokemon-lookup.html?q=phanpy">Phanpy</a> | Level 28 |
 | Take Down | <a href="pokemon-lookup.html?q=piloswine">Piloswine</a> | Egg |
 | Take Down | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | Level 29 |
-| Take Down | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 20 |
-| Take Down | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 20 |
+| Take Down | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 20 |
+| Take Down | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 20 |
 | Take Down | <a href="pokemon-lookup.html?q=rampardos">Rampardos</a> | Level 14 |
 | Take Down | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | Level 29 |
 | Take Down | <a href="pokemon-lookup.html?q=seel">Seel</a> | Level 37 |
@@ -26352,8 +26352,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Taunt | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | TM/HM |
 | Taunt | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Taunt | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Taunt | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Taunt | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Taunt | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Taunt | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Taunt | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | TM/HM |
 | Taunt | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
 | Taunt | <a href="pokemon-lookup.html?q=raging-bolt">Raging Bolt</a> | TM/HM |
@@ -26405,7 +26405,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Taunt | <a href="pokemon-lookup.html?q=zorua">Zorua</a> | Level 25 |
 | Taunt | <a href="pokemon-lookup.html?q=zorua">Zorua</a> | TM/HM |
 | Tearful Look | <a href="pokemon-lookup.html?q=dedenne">Dedenne</a> | Egg |
-| Tearful Look | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Egg |
+| Tearful Look | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Egg |
 | Tearful Look | <a href="pokemon-lookup.html?q=floette">Floette</a> | Egg |
 | Tearful Look | <a href="pokemon-lookup.html?q=florges">Florges</a> | Egg |
 | Teeter Dance | <a href="pokemon-lookup.html?q=bounsweet">Bounsweet</a> | Level 25 |
@@ -26634,8 +26634,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Thief | <a href="pokemon-lookup.html?q=primeape">Primeape</a> | TM/HM |
 | Thief | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Thief | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
-| Thief | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Thief | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Thief | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Thief | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Thief | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Thief | <a href="pokemon-lookup.html?q=raichu">Raichu</a> | TM/HM |
 | Thief | <a href="pokemon-lookup.html?q=ralts">Ralts</a> | TM/HM |
@@ -26703,8 +26703,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Thrash | <a href="pokemon-lookup.html?q=archen">Archen</a> | Level 50 |
 | Thrash | <a href="pokemon-lookup.html?q=archeops">Archeops</a> | Level 50 |
 | Thrash | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Egg |
-| Thrash | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 48 |
-| Thrash | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 48 |
+| Thrash | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 48 |
+| Thrash | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 48 |
 | Thrash | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 42 |
 | Thrash | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 42 |
 | Thrash | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 42 |
@@ -26950,7 +26950,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Thunder Fang | <a href="pokemon-lookup.html?q=mega-tyranitar">Mega Tyranitar</a> | Level 1 |
 | Thunder Fang | <a href="pokemon-lookup.html?q=midnight-lycanroc">Midnight Lycanroc</a> | Egg |
 | Thunder Fang | <a href="pokemon-lookup.html?q=own-tempo-rockruff">Own Tempo Rockruff</a> | Egg |
-| Thunder Fang | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 1 |
+| Thunder Fang | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 1 |
 | Thunder Fang | <a href="pokemon-lookup.html?q=raikou">Raikou</a> | Level 40 |
 | Thunder Fang | <a href="pokemon-lookup.html?q=rockruff">Rockruff</a> | Egg |
 | Thunder Fang | <a href="pokemon-lookup.html?q=sandile">Sandile</a> | Egg |
@@ -27512,7 +27512,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Torch Song | <a href="pokemon-lookup.html?q=altaria">Altaria</a> | Level 44 |
 | Torch Song | <a href="pokemon-lookup.html?q=chatot">Chatot</a> | Level 47 |
 | Torch Song | <a href="pokemon-lookup.html?q=mega-altaria">Mega Altaria</a> | Level 44 |
-| Torch Song | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 55 |
+| Torch Song | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 55 |
 | Torch Song | <a href="pokemon-lookup.html?q=skeledirge">Skeledirge</a> | Level Evo |
 | Torment | <a href="pokemon-lookup.html?q=aerodactyl">Aerodactyl</a> | TM/HM |
 | Torment | <a href="pokemon-lookup.html?q=alolan-grimer">Alolan Grimer</a> | TM/HM |
@@ -27761,7 +27761,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Toxic | <a href="pokemon-lookup.html?q=feraligatr">Feraligatr</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=finneon">Finneon</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=flaaffy">Flaaffy</a> | TM/HM |
-| Toxic | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Toxic | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=floatzel">Floatzel</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=floette">Floette</a> | TM/HM |
@@ -27960,8 +27960,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Toxic | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=pupitar">Pupitar</a> | TM/HM |
-| Toxic | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Toxic | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Toxic | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Toxic | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Toxic | <a href="pokemon-lookup.html?q=quilladin">Quilladin</a> | TM/HM |
@@ -28213,8 +28213,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | U-turn | <a href="pokemon-lookup.html?q=skiploom">Skiploom</a> | Level 44 |
 | U-turn | <a href="pokemon-lookup.html?q=yanma">Yanma</a> | Level 40 |
 | U-turn | <a href="pokemon-lookup.html?q=yanmega">Yanmega</a> | Level 40 |
-| Uproar | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 3 |
-| Uproar | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 3 |
+| Uproar | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 3 |
+| Uproar | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 3 |
 | Uproar | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 3 |
 | Uproar | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 3 |
 | Uproar | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 3 |
@@ -28249,7 +28249,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Uproar | <a href="pokemon-lookup.html?q=oranguru">Oranguru</a> | Level 43 |
 | Uproar | <a href="pokemon-lookup.html?q=pikipek">Pikipek</a> | Egg |
 | Uproar | <a href="pokemon-lookup.html?q=politoed">Politoed</a> | Level 41 |
-| Uproar | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 35 |
+| Uproar | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 35 |
 | Uproar | <a href="pokemon-lookup.html?q=sandile">Sandile</a> | Egg |
 | Uproar | <a href="pokemon-lookup.html?q=toucannon">Toucannon</a> | Egg |
 | Uproar | <a href="pokemon-lookup.html?q=trumbeak">Trumbeak</a> | Egg |
@@ -28286,7 +28286,7 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Vine Whip | <a href="pokemon-lookup.html?q=chikorita">Chikorita</a> | Egg |
 | Vine Whip | <a href="pokemon-lookup.html?q=comfey">Comfey</a> | Level 1 |
 | Vine Whip | <a href="pokemon-lookup.html?q=eternal-flower-floette">Eternal Flower Floette</a> | Level 1 |
-| Vine Whip | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 1 |
+| Vine Whip | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 1 |
 | Vine Whip | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 1 |
 | Vine Whip | <a href="pokemon-lookup.html?q=florges">Florges</a> | Level 1 |
 | Vine Whip | <a href="pokemon-lookup.html?q=gogoat">Gogoat</a> | Level 7 |
@@ -28344,8 +28344,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Water Gun | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | Level 1 |
 | Water Gun | <a href="pokemon-lookup.html?q=armaldo">Armaldo</a> | Level 7 |
 | Water Gun | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Level 9 |
-| Water Gun | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 1 |
-| Water Gun | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 1 |
+| Water Gun | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 1 |
+| Water Gun | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 1 |
 | Water Gun | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 1 |
 | Water Gun | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 1 |
 | Water Gun | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 1 |
@@ -28425,8 +28425,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Water Pulse | <a href="pokemon-lookup.html?q=aurorus">Aurorus</a> | TM/HM |
 | Water Pulse | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Level 17 |
 | Water Pulse | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Water Pulse | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Water Pulse | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Water Pulse | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Water Pulse | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Water Pulse | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Water Pulse | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Water Pulse | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -28664,8 +28664,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Water Spout | <a href="pokemon-lookup.html?q=wailord">Wailord</a> | Level 33 |
 | Waterfall | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | TM/HM |
 | Waterfall | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Waterfall | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Waterfall | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Waterfall | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Waterfall | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Waterfall | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Waterfall | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | TM/HM |
 | Waterfall | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | TM/HM |
@@ -28754,8 +28754,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Waterfall | <a href="pokemon-lookup.html?q=wingull">Wingull</a> | TM/HM |
 | Waterfall | <a href="pokemon-lookup.html?q=wooper">Wooper</a> | TM/HM |
 | Wave Crash | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | Level 48 |
-| Wave Crash | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 32 |
-| Wave Crash | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 32 |
+| Wave Crash | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 32 |
+| Wave Crash | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 32 |
 | Wave Crash | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 32 |
 | Wave Crash | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 32 |
 | Wave Crash | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 32 |
@@ -28782,8 +28782,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Whirlpool | <a href="pokemon-lookup.html?q=arctovish">Arctovish</a> | TM/HM |
 | Whirlpool | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | Egg |
 | Whirlpool | <a href="pokemon-lookup.html?q=barboach">Barboach</a> | TM/HM |
-| Whirlpool | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | TM/HM |
-| Whirlpool | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | TM/HM |
+| Whirlpool | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | TM/HM |
+| Whirlpool | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | TM/HM |
 | Whirlpool | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Egg |
 | Whirlpool | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | TM/HM |
 | Whirlpool | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Egg |
@@ -29072,8 +29072,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Will-O-Wisp | <a href="pokemon-lookup.html?q=ponyta">Ponyta</a> | TM/HM |
 | Will-O-Wisp | <a href="pokemon-lookup.html?q=primal-groudon">Primal Groudon</a> | TM/HM |
 | Will-O-Wisp | <a href="pokemon-lookup.html?q=pumpkaboo">Pumpkaboo</a> | TM/HM |
-| Will-O-Wisp | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | TM/HM |
-| Will-O-Wisp | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | TM/HM |
+| Will-O-Wisp | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | TM/HM |
+| Will-O-Wisp | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | TM/HM |
 | Will-O-Wisp | <a href="pokemon-lookup.html?q=quilava">Quilava</a> | TM/HM |
 | Will-O-Wisp | <a href="pokemon-lookup.html?q=ralts">Ralts</a> | TM/HM |
 | Will-O-Wisp | <a href="pokemon-lookup.html?q=rapidash">Rapidash</a> | TM/HM |
@@ -29139,8 +29139,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Wish | <a href="pokemon-lookup.html?q=farigiraf">Farigiraf</a> | TM/HM |
 | Wish | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | Egg |
 | Wish | <a href="pokemon-lookup.html?q=fennekin">Fennekin</a> | TM/HM |
-| Wish | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | Level 20 |
-| Wish | <a href="pokemon-lookup.html?q=flabb">Flabébé</a> | TM/HM |
+| Wish | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | Level 20 |
+| Wish | <a href="pokemon-lookup.html?q=flabebe">Flabébé</a> | TM/HM |
 | Wish | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | Egg |
 | Wish | <a href="pokemon-lookup.html?q=flareon">Flareon</a> | TM/HM |
 | Wish | <a href="pokemon-lookup.html?q=floette">Floette</a> | Level 20 |
@@ -29259,8 +29259,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Work Up | <a href="pokemon-lookup.html?q=paldean-tauros-c">Paldean Tauros-C</a> | Level 5 |
 | Work Up | <a href="pokemon-lookup.html?q=pancham">Pancham</a> | Level 10 |
 | Work Up | <a href="pokemon-lookup.html?q=pangoro">Pangoro</a> | Level 10 |
-| Work Up | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Level 8 |
-| Work Up | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Level 8 |
+| Work Up | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Level 8 |
+| Work Up | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Level 8 |
 | Work Up | <a href="pokemon-lookup.html?q=quaquaval">Quaquaval</a> | Level 7 |
 | Work Up | <a href="pokemon-lookup.html?q=quaxly">Quaxly</a> | Level 7 |
 | Work Up | <a href="pokemon-lookup.html?q=quaxwell">Quaxwell</a> | Level 7 |
@@ -29381,8 +29381,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Yawn | <a href="pokemon-lookup.html?q=paldean-wooper">Paldean Wooper</a> | Level 21 |
 | Yawn | <a href="pokemon-lookup.html?q=pansear">Pansear</a> | Level 16 |
 | Yawn | <a href="pokemon-lookup.html?q=psyduck">Psyduck</a> | Egg |
-| Yawn | <a href="pokemon-lookup.html?q=pyroar">Pyroar♀</a> | Egg |
-| Yawn | <a href="pokemon-lookup.html?q=pyroar">Pyroar♂</a> | Egg |
+| Yawn | <a href="pokemon-lookup.html?q=pyroarfemale-sign">Pyroar♀</a> | Egg |
+| Yawn | <a href="pokemon-lookup.html?q=pyroarmale-sign">Pyroar♂</a> | Egg |
 | Yawn | <a href="pokemon-lookup.html?q=quagsire">Quagsire</a> | Level 31 |
 | Yawn | <a href="pokemon-lookup.html?q=relicanth">Relicanth</a> | Level 35 |
 | Yawn | <a href="pokemon-lookup.html?q=sealeo">Sealeo</a> | Egg |
@@ -29410,8 +29410,8 @@ Moves available in Lazarus with the Pokémon that learn them and the acquisition
 | Zap Cannon | <a href="pokemon-lookup.html?q=probopass">Probopass</a> | Level 43 |
 | Zap Cannon | <a href="pokemon-lookup.html?q=raging-bolt">Raging Bolt</a> | Level 77 |
 | Zap Cannon | <a href="pokemon-lookup.html?q=vikavolt">Vikavolt</a> | Level 41 |
-| Zen Headbutt | <a href="pokemon-lookup.html?q=basculegion">Basculegion♀</a> | Level 42 |
-| Zen Headbutt | <a href="pokemon-lookup.html?q=basculegion">Basculegion♂</a> | Level 42 |
+| Zen Headbutt | <a href="pokemon-lookup.html?q=basculegionfemale-sign">Basculegion♀</a> | Level 42 |
+| Zen Headbutt | <a href="pokemon-lookup.html?q=basculegionmale-sign">Basculegion♂</a> | Level 42 |
 | Zen Headbutt | <a href="pokemon-lookup.html?q=basculin-blue">Basculin Blue?</a> | Level 40 |
 | Zen Headbutt | <a href="pokemon-lookup.html?q=basculin-red">Basculin Red</a> | Level 40 |
 | Zen Headbutt | <a href="pokemon-lookup.html?q=basculin-white">Basculin White</a> | Level 40 |
