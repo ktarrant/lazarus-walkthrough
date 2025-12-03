@@ -3,7 +3,7 @@
 
 _Source: Pokemon Lazarus Encounters PDF_
 
-| Pokémon | Grass (Day) | Grass (Night) | Surfing | Old Rod | Good Rod | Super Rod | Underwater | ☑ |
+| Pokémon | Grass (Day) | Grass (Night) | Surfing | Old Rod | Good Rod | Super Rod | Dive | ☑ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <a href="../pokemon-lookup.html?q=charcadet">Charcadet</a> | 10% | 10% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="charcadet" /> |
 | <a href="../pokemon-lookup.html?q=fuecoco">Fuecoco</a> | 5% | — | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="fuecoco" /> |

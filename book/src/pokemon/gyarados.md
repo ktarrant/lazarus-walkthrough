@@ -54,7 +54,7 @@ Types: Water • Egg Groups: Water 2 / Dragon
 - Riverwalk Trail (West) — Fishing (70%)
 - Sea of Asteri (East) — Fishing (70%)
 - Sea of Asteri (West) — Fishing (70%)
-- Sea of Asteri (West) — Underwater (10%)
+- Sea of Asteri (West) — Dive (10%)
 - Sea of Vulcai — Fishing (70%)
 - Sofos City — Fishing (70%)
 - Wanderer's Woods (North) — Fishing (70%)

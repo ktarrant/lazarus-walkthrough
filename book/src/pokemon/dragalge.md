@@ -62,7 +62,7 @@ Types: Poison / Water • Egg Groups: Dragon / Water 1
 - Riverwalk Trail (South) — Fishing (30%)
 - Riverwalk Trail (South) — Surfing (30%)
 - Sea of Asteri (East) — Surfing (10%)
-- Sea of Vulcai — Underwater (10%)
+- Sea of Vulcai — Dive (10%)
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="skrelp" /> Caught</label>

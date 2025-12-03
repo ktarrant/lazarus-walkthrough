@@ -325,7 +325,7 @@ const METHOD_ORDER: [(&str, &str); 9] = [
     ("good_rod", "Good Rod"),
     ("super_rod", "Super Rod"),
     ("fishing", "Fishing"),
-    ("underwater", "Underwater"),
+    ("underwater", "Dive"),
     ("special", "Special Encounters"),
 ];
 

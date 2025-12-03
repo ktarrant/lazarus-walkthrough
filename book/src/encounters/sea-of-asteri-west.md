@@ -3,7 +3,7 @@
 
 _Source: Pokemon Lazarus Encounters PDF_
 
-| Pokémon | Grass (Day) | Grass (Night) | Surfing | Old Rod | Good Rod | Super Rod | Underwater | ☑ |
+| Pokémon | Grass (Day) | Grass (Night) | Surfing | Old Rod | Good Rod | Super Rod | Dive | ☑ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <a href="../pokemon-lookup.html?q=bellsprout">Bellsprout</a> | 10% | 10% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="bellsprout" /> |
 | <a href="../pokemon-lookup.html?q=chatot">Chatot</a> | 10% | — | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="chatot" /> |

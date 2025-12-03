@@ -71,7 +71,7 @@ Types: Water • Egg Groups: Water 1 / Water 2
 - Riverwalk Trail (West) — Fishing (40%)
 - Riverwalk Trail (West) — Surfing (10%)
 - Sea of Vulcai — Surfing (5%)
-- Sea of Vulcai — Underwater (20%)
+- Sea of Vulcai — Dive (20%)
 - Wanderer's Woods (North) — Fishing (40%)
 </div>
 <div class="card-column">

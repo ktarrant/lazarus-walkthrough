@@ -58,7 +58,7 @@ Types: Water • Egg Groups: Water 1 / Water 3
 **Encounter Locations**
 - Erinys Path (East) — Fishing (20%)
 - Pythios Town — Fishing (30%)
-- Sea of Asteri (East) — Underwater (10%)
+- Sea of Asteri (East) — Dive (10%)
 - Sofos City — Grass (Day) (8%)
 - Sofos City — Grass (Night) (8%)
 </div>
