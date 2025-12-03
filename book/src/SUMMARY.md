@@ -10,7 +10,7 @@
 - [Pythios Town](<chapter-6.md>)
 - [Erinys Path, Froslass Cavern, & Asfal Hills](<chapter-7.md>)
 - [Sofos City](<chapter-8.md>)
-- [Backtracking - New Areas With Surf](<surf-scratch.md>)
+- [Sea of Asteri](<chapter-9.md>)
 
 # Resources
 - [Pokemon Lookup](<pokemon-lookup.md>)
