@@ -47,6 +47,7 @@ PokeCenter.
 ## Froslass Cavern
 At the end of Froslass Cavern is a king of tough double battle.
 Something resistant to electricity will help.
+You can't complete the Froslass Quest until you get Surf.
 
 ### Quests
 - <label><input type="checkbox" class="quest-check" data-quest="froslass-cavern-keeper-of-the-cave"> **Keeper of the Cave** — Catch the Froslass in Froslass Cavern _(Reward: Exp. Candy M x3; Split: Terpsikore Lvl 27)_.</label>
