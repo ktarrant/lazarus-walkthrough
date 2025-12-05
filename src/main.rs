@@ -792,7 +792,7 @@ fn render_pokemon_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()>
 
 fn render_quests(csv_path: PathBuf, out_path: PathBuf) -> Result<()> {
     let mut rdr = csv::Reader::from_path(&csv_path)?;
-    let mut rows: Vec<(String, String, String, String)> = Vec::new(); // (key, quest, info, reward)
+    let mut rows: Vec<(String, String, String, String)> = Vec::new(); // (key, quest, reward, area)
     let mut key_counts: BTreeMap<String, usize> = BTreeMap::new();
     for result in rdr.records() {
         let record = result?;
@@ -830,24 +830,21 @@ fn render_quests(csv_path: PathBuf, out_path: PathBuf) -> Result<()> {
         } else {
             format!("Reward: {}", reward)
         };
-        let split_text = if split.is_empty() {
-            String::new()
+        let area = if location.is_empty() {
+            "Unknown".to_string()
         } else {
-            format!(" (Split: {})", split)
+            location.to_string()
         };
-        rows.push((key, full, reward_text, split_text));
+        rows.push((key, full, reward_text, area));
     }
 
     let mut buf = String::new();
     buf.push_str("# Quests\n\n");
-    buf.push_str("| Quest | Reward | Split | Done |\n| --- | --- | --- | --- |\n");
-    for (key, desc, reward, split) in rows {
+    buf.push_str("| Quest | Area | Reward | Done |\n| --- | --- | --- | --- |\n");
+    for (key, desc, reward, area) in rows {
         buf.push_str(&format!(
             "| {} | {} | {} | <input type=\"checkbox\" class=\"quest-check\" data-quest=\"{}\" /> |\n",
-            desc,
-            reward,
-            split,
-            key
+            desc, area, reward, key
         ));
     }
     buf.push_str(
