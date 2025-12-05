@@ -25,6 +25,7 @@
 - [Ability Catalog](ability-catalog.md)
 - [Move Catalog](<move-catalog.md>)
 - [Move Lookup](<move-lookup.md>)
+- [Conservation Donation Guide](<conservation.md>)
 - [Egg Groups](<egg-groups.md>)
 - [Berry System](<berry-system.md>)
 - [Important Game Tips](<important-game-tips.md>)

@@ -84,6 +84,12 @@ enum Command {
         #[arg(long, default_value = "book/src/move-lookup.md")]
         out: PathBuf,
     },
+    /// Generate a conservation helper page for donation-safe Pokémon
+    ConservationGuide {
+        /// Output file for the generated Markdown
+        #[arg(long, default_value = "book/src/conservation.md")]
+        out: PathBuf,
+    },
     /// Generate an ability catalog (ability -> Pokémon -> slot info)
     AbilityCatalog {
         /// Output file for the generated Markdown
@@ -131,6 +137,9 @@ enum Command {
         /// Output path for lookup page
         #[arg(long, default_value = "book/src/pokemon-lookup.md")]
         lookup_out: PathBuf,
+        /// Output path for conservation guide
+        #[arg(long, default_value = "book/src/conservation.md")]
+        conservation_out: PathBuf,
     },
     /// Generate item reference pages from the items manifest
     Items {
@@ -181,6 +190,7 @@ fn main() -> Result<()> {
             render_move_cards_all(cli.pokedex_json.clone(), out_dir)?
         }
         Command::MoveLookup { out } => render_move_lookup(cli.pokedex_json.clone(), out)?,
+        Command::ConservationGuide { out } => render_conservation(cli.pokedex_json.clone(), out)?,
         Command::AbilityCatalog { out } => render_ability_catalog(cli.pokedex_json.clone(), out)?,
         Command::PokedexPage { out } => render_pokedex_page(cli.pokedex_json.clone(), out)?,
         Command::PokemonLookup { out } => render_pokemon_lookup(cli.pokedex_json.clone(), out)?,
@@ -197,6 +207,7 @@ fn main() -> Result<()> {
             eggs_out,
             pokedex_out,
             lookup_out,
+            conservation_out,
         } => {
             render_all_pokemon_cards(
                 cli.pokedex_json.clone(),
@@ -211,6 +222,7 @@ fn main() -> Result<()> {
             render_egg_groups(cli.pokedex_json.clone(), eggs_out)?;
             render_pokedex_page(cli.pokedex_json.clone(), pokedex_out)?;
             render_pokemon_lookup(cli.pokedex_json.clone(), lookup_out)?;
+            render_conservation(cli.pokedex_json.clone(), conservation_out)?;
             render_quests(
                 PathBuf::from("sources/Lazarus Data - Quests.csv"),
                 PathBuf::from("book/src/quests.md"),
@@ -682,6 +694,63 @@ fn render_move_lookup(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()> {
     fs::write(out_path, buf)?;
     println!("Generated move lookup with {} entries", moves.len());
     Ok(())
+}
+
+fn render_conservation(pokedex_path: PathBuf, out_path: PathBuf) -> Result<()> {
+    let dex = pokedex::LazarusPokedex::load(pokedex_path)?;
+    let singles: Vec<&pokedex::PokemonEntry> = dex
+        .all_entries()
+        .into_iter()
+        .filter(|e| is_single_stage(e))
+        .collect();
+
+    let mut buf = String::new();
+    buf.push_str("# Conservation Donation Guide\n\n");
+    buf.push_str(
+        "Use this list to find safe donation candidates (no evolutions before or after).\n\n",
+    );
+
+    buf.push_str("## Single-Stage Pokémon\n\n");
+    for entry in singles {
+        buf.push_str(&format!(
+            "- <a href=\"pokemon-lookup.html?q={slug}\">{name}</a>\n",
+            slug = entry.slug,
+            name = entry.name
+        ));
+    }
+    buf.push('\n');
+
+    if let Some(parent) = out_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+    fs::write(&out_path, buf)?;
+    println!("Generated conservation guide at {}", out_path.display());
+    Ok(())
+}
+
+fn is_single_stage(entry: &pokedex::PokemonEntry) -> bool {
+    let growth_placeholders = [
+        "slow",
+        "medium",
+        "medium-slow",
+        "medium-fast",
+        "fast",
+        "fluctuating",
+        "erratic",
+    ];
+    let has_parent = entry
+        .evolves_from
+        .as_ref()
+        .map(|s| {
+            let s = s.trim().to_lowercase();
+            if s.is_empty() {
+                false
+            } else {
+                !growth_placeholders.contains(&s.as_str())
+            }
+        })
+        .unwrap_or(false);
+    !has_parent && entry.evolves_to.is_empty()
 }
 
 fn title_case(input: &str) -> String {
