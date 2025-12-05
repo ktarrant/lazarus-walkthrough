@@ -11,7 +11,8 @@
 - [Erinys Path, Froslass Cavern, & Asfal Hills](<chapter-7.md>)
 - [Sofos City](<chapter-8.md>)
 - [Kipos Town](<chapter-9.md>)
-- [Sea of Asteri](<chapter-10.md>)
+- [Backtracking - New Areas With Surf](<chapter-10.md>)
+- [Sea of Asteri](<chapter-11.md>)
 
 # Resources
 - [Pokemon Lookup](<pokemon-lookup.md>)
