@@ -2,6 +2,10 @@
 
 ## Sea of Asteri
 
+There are several islands and trainers on your way.
+The first island has three items and a quest to pick up.
+South of that island is a smaller island with an item and two trainers.
+
 ### Quests
 - <label><input type="checkbox" class="quest-check" data-quest="sea-of-asteri-west-lost-at-sea"> **Lost at Sea** — Find Pearl String for the old man on the NE island _(Reward: Exp. Candy L; Split: Euterpe Lvl 31)_.</label>
 - <label><input type="checkbox" class="quest-check" data-quest="sea-of-asteri-east-another-chance"> **Another Chance** — Get a Revive for the diver (requires Dive) _(Reward: TM18 Rain Dance; Split: Thalia & Melpomene Lvl 36)_.</label>
