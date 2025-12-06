@@ -35,18 +35,18 @@ Types: Grass • Egg Groups: -
 - Bug (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon" /> Caught</label>
@@ -150,18 +150,18 @@ Types: Grass / Rock • Egg Groups: -
 - Steel (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon-cornerstone" /> Caught</label>
@@ -266,18 +266,18 @@ Types: Grass / Fire • Egg Groups: -
 - Rock (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon-hearthflame" /> Caught</label>
@@ -381,18 +381,18 @@ Types: Grass / Water • Egg Groups: -
 - Bug (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="ogerpon-wellspring" /> Caught</label>

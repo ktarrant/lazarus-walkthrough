@@ -31,20 +31,20 @@ Types: Electric / Steel • Egg Groups: Field / Fairy
 - Ground (4×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 
 **Held Item**
 Electric Seed

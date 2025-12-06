@@ -31,14 +31,14 @@ Types: Water • Egg Groups: Flying / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
 
 **Encounter Locations**
 - Sea of Vulcai — Grass (Day) (5%)
@@ -142,15 +142,15 @@ Types: Water • Egg Groups: Flying / Water 1
 - Grass (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 16
@@ -263,18 +263,18 @@ Types: Water / Fighting • Egg Groups: Flying / Water 1
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. 36

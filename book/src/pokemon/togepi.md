@@ -30,32 +30,32 @@ Types: Fairy • Egg Groups: -
 - Steel (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (2%)
@@ -190,36 +190,36 @@ Types: Fairy / Flying • Egg Groups: Flying / Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
-- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 20
@@ -361,36 +361,36 @@ Types: Fairy / Flying • Egg Groups: Flying / Fairy
 - Steel (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm34-shock-wave">TM34 - Shock Wave</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
-- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=shock-wave">TM34 - Shock Wave</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Shiny Stone

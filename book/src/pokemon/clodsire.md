@@ -33,21 +33,21 @@ Types: Poison / Ground • Egg Groups: Water 1 / Field
 - Psychic (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
-- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
 
 **Encounter Locations**
 - Fresco Isles — Grass (Night) (5%)
@@ -171,21 +171,21 @@ Types: Poison / Ground • Egg Groups: Water 1 / Field
 - Psychic (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
-- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
 
 **Evolution Info**
 Lv. 20

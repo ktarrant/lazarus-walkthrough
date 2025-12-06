@@ -29,17 +29,17 @@ Types: Electric • Egg Groups: Field
 - Ground (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 
 **Encounter Locations**
 - Asfal Hills — Grass (Day) (15%)
@@ -148,17 +148,17 @@ Types: Electric / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. 20
@@ -273,20 +273,20 @@ Types: Electric / Fighting • Egg Groups: Field
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 
 **Evolution Info**
 Lv. after 1000 Steps as Follower

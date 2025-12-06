@@ -36,22 +36,22 @@ Types: Flying / Fairy • Egg Groups: Flying / Dragon
 - Steel (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=fly">HM02 - Fly</a>
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (20%)
@@ -183,30 +183,30 @@ Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
-- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 35
@@ -343,30 +343,30 @@ Types: Dragon / Fairy • Egg Groups: Flying / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
-- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Altarianite

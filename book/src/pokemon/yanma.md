@@ -32,22 +32,22 @@ Types: Bug / Flying • Egg Groups: Bug
 - Rock (4×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=flash">HM05 - Flash</a>
 
 **Held Item**
 Wide Lens
@@ -179,22 +179,22 @@ Types: Bug / Dragon • Egg Groups: Bug
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm19-giga-drain">TM19 - Giga Drain</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
-- <a href="move-lookup.html?q=hm05-flash">HM05 - Flash</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=giga-drain">TM19 - Giga Drain</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=flash">HM05 - Flash</a>
 
 **Held Item**
 Wide Lens

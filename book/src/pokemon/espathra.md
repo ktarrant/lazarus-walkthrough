@@ -28,20 +28,20 @@ Types: Psychic • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Encounter Locations**
 - Acrisia Mountains (Peak) — Grass (Day) (20%)
@@ -145,24 +145,24 @@ Types: Psychic • Egg Groups: Flying
 - Dark (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm57-roost">TM57 - Roost</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=roost">TM57 - Roost</a>
 
 **Evolution Info**
 Lv. 30

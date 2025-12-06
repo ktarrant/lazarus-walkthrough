@@ -27,31 +27,31 @@ Types: Water / Psychic • Egg Groups: Water 2
 - Dark (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm41-torment">TM41 - Torment</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
-- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=torment">TM41 - Torment</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Razor Fang

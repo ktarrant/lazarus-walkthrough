@@ -257,7 +257,7 @@ fn append_level_up_moves(buf: &mut String, moves: &[LevelMove]) {
         } else {
             format!(
                 "<a href=\"move-lookup.html?q={}\">{}</a>",
-                crate::encounters::slugify(move_name),
+                move_slug(move_name),
                 move_name
             )
         };
@@ -286,12 +286,30 @@ fn append_move_list(buf: &mut String, heading: &str, moves: &[String]) {
         writeln!(
             buf,
             "- <a href=\"move-lookup.html?q={}\">{}</a>",
-            crate::encounters::slugify(mv),
+            move_slug(mv),
             mv
         )
         .unwrap();
     }
     buf.push('\n');
+}
+
+fn move_slug(raw: &str) -> String {
+    let normalized = normalize_move_name(raw);
+    crate::encounters::slugify(&normalized)
+}
+
+fn normalize_move_name(raw: &str) -> String {
+    let trimmed = raw.trim();
+    if trimmed.starts_with("TM") || trimmed.starts_with("HM") {
+        if let Some((_, rest)) = trimmed.split_once('-') {
+            return rest.trim().to_string();
+        }
+        if let Some((_, rest)) = trimmed.split_once(' ') {
+            return rest.trim().to_string();
+        }
+    }
+    trimmed.to_string()
 }
 
 #[derive(Debug, Clone, Default)]

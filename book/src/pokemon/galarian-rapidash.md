@@ -28,15 +28,15 @@ Types: Psychic • Egg Groups: Field
 - Dark (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Encounter Locations**
 - Lastlight Road — Grass (Night) (10%)
@@ -147,16 +147,16 @@ Types: Psychic / Fairy • Egg Groups: Field
 - Steel (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm20-poison-jab">TM20 - Poison Jab</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=poison-jab">TM20 - Poison Jab</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
 
 **Evolution Info**
 Lv. 30

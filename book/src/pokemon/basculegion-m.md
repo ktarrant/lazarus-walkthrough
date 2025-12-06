@@ -31,16 +31,16 @@ Types: Water • Egg Groups: Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
 
 **Held Item**
 Deep Sea Scale
@@ -156,20 +156,20 @@ Types: Water / Ghost • Egg Groups: Water 2
 - Dark (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
 
 **Evolution Info**
 Lv. after 294 Recoil Dmg, Male
@@ -289,20 +289,20 @@ Types: Water / Ghost • Egg Groups: Water 2
 - Dark (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
 
 **Evolution Info**
 Lv. after 294 Recoil Dmg, Female

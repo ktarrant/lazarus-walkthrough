@@ -23,17 +23,17 @@ Types: Normal • Egg Groups: -
 - Fighting (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="type-null" /> Caught</label>
@@ -138,25 +138,25 @@ Types: Normal • Egg Groups: -
 - Fighting (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm37-sandstorm">TM37 - Sandstorm</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm43-poison-fang">TM43 - Poison Fang</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm55-snarl">TM55 - Snarl</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=sandstorm">TM37 - Sandstorm</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=poison-fang">TM43 - Poison Fang</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=snarl">TM55 - Snarl</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
 
 **Evolution Info**
 Lv. w/ High Friendship?

@@ -17,21 +17,21 @@ Types: Normal • Egg Groups: Field
 - Fighting (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm01-wish">TM01 - Wish</a>
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm08-bulk-up">TM08 - Bulk Up</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=wish">TM01 - Wish</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=bulk-up">TM08 - Bulk Up</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
 
 **Encounter Locations**
 - Erinys Path (West) — Grass (Day) (10%)

@@ -40,17 +40,17 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Encounter Locations**
 - Marmaro Island — Grass (Day) (10%)
@@ -169,18 +169,18 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 22
@@ -303,19 +303,19 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Lv. 38
@@ -432,19 +432,19 @@ Types: Fairy / Steel • Egg Groups: Fairy
 - Ground (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm31-brick-break">TM31 - Brick Break</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm48-skill-swap">TM48 - Skill Swap</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm06-rock-smash">HM06 - Rock Smash</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=brick-break">TM31 - Brick Break</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=skill-swap">TM48 - Skill Swap</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=rock-smash">HM06 - Rock Smash</a>
 
 **Evolution Info**
 Tinkatite

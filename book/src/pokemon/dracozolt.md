@@ -26,22 +26,22 @@ Types: Electric / Dragon • Egg Groups: -
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm12-taunt">TM12 - Taunt</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm26-earthquake">TM26 - Earthquake</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm39-rock-tomb">TM39 - Rock Tomb</a>
-- <a href="move-lookup.html?q=tm40-aerial-ace">TM40 - Aerial Ace</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm49-bulldoze">TM49 - Bulldoze</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=taunt">TM12 - Taunt</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=earthquake">TM26 - Earthquake</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=rock-tomb">TM39 - Rock Tomb</a>
+- <a href="move-lookup.html?q=aerial-ace">TM40 - Aerial Ace</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=bulldoze">TM49 - Bulldoze</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 </div>
 <div class="card-column">
 <label><input type="checkbox" class="caught-check" data-species="dracozolt" /> Caught</label>

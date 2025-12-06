@@ -30,23 +30,23 @@ Types: Ice / Fairy • Egg Groups: Field
 - Steel (4×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
-- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Snowball
@@ -179,26 +179,26 @@ Types: Ice / Fairy • Egg Groups: Field
 - Steel (4×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm04-calm-mind">TM04 - Calm Mind</a>
-- <a href="move-lookup.html?q=tm05-psyshock">TM05 - Psyshock</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm15-draining-kiss">TM15 - Draining Kiss</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm28-dig">TM28 - Dig</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm50-deepwater-curse">TM50 - Deepwater Curse</a>
-- <a href="move-lookup.html?q=tm52-frost-breath">TM52 - Frost Breath</a>
-- <a href="move-lookup.html?q=tm54-dazzling-gleam">TM54 - Dazzling Gleam</a>
-- <a href="move-lookup.html?q=tm59-dark-pulse">TM59 - Dark Pulse</a>
+- <a href="move-lookup.html?q=calm-mind">TM04 - Calm Mind</a>
+- <a href="move-lookup.html?q=psyshock">TM05 - Psyshock</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=draining-kiss">TM15 - Draining Kiss</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=dig">TM28 - Dig</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=deepwater-curse">TM50 - Deepwater Curse</a>
+- <a href="move-lookup.html?q=frost-breath">TM52 - Frost Breath</a>
+- <a href="move-lookup.html?q=dazzling-gleam">TM54 - Dazzling Gleam</a>
+- <a href="move-lookup.html?q=dark-pulse">TM59 - Dark Pulse</a>
 
 **Held Item**
 Snowball

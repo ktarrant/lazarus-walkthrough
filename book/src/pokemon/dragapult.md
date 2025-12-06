@@ -38,12 +38,12 @@ Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
 
 **Encounter Locations**
 - Fresco Isles — Grass (Night) (5%)
@@ -156,28 +156,28 @@ Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
-- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 28
@@ -302,31 +302,31 @@ Types: Dragon / Ghost • Egg Groups: Amorphous / Dragon
 - Fairy (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm02-dragon-claw">TM02 - Dragon Claw</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm16-light-screen">TM16 - Light Screen</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm22-solar-beam">TM22 - Solar Beam</a>
-- <a href="move-lookup.html?q=tm23-hex">TM23 - Hex</a>
-- <a href="move-lookup.html?q=tm24-thunderbolt">TM24 - Thunderbolt</a>
-- <a href="move-lookup.html?q=tm25-thunder">TM25 - Thunder</a>
-- <a href="move-lookup.html?q=tm30-shadow-ball">TM30 - Shadow Ball</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm33-reflect">TM33 - Reflect</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm47-steel-wing">TM47 - Steel Wing</a>
-- <a href="move-lookup.html?q=tm51-will-o-wisp">TM51 - Will-O-Wisp</a>
-- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=tm60-dragon-dance">TM60 - Dragon Dance</a>
-- <a href="move-lookup.html?q=hm02-fly">HM02 - Fly</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
+- <a href="move-lookup.html?q=dragon-claw">TM02 - Dragon Claw</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=light-screen">TM16 - Light Screen</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=solar-beam">TM22 - Solar Beam</a>
+- <a href="move-lookup.html?q=hex">TM23 - Hex</a>
+- <a href="move-lookup.html?q=thunderbolt">TM24 - Thunderbolt</a>
+- <a href="move-lookup.html?q=thunder">TM25 - Thunder</a>
+- <a href="move-lookup.html?q=shadow-ball">TM30 - Shadow Ball</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=reflect">TM33 - Reflect</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=steel-wing">TM47 - Steel Wing</a>
+- <a href="move-lookup.html?q=will-o-wisp">TM51 - Will-O-Wisp</a>
+- <a href="move-lookup.html?q=scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=dragon-dance">TM60 - Dragon Dance</a>
+- <a href="move-lookup.html?q=fly">HM02 - Fly</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 60

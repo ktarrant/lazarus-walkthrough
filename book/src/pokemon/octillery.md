@@ -29,28 +29,28 @@ Types: Water • Egg Groups: Water 1 / Water 2
 - Grass (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
-- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=dive">HM08 - Dive</a>
 
 **Encounter Locations**
 - Acrisia City — Fishing (40%)
@@ -192,29 +192,29 @@ Types: Water / Fire • Egg Groups: Water 1 / Water 2
 - Rock (2×)
 
 **TM/HM Moves**
-- <a href="move-lookup.html?q=tm03-water-pulse">TM03 - Water Pulse</a>
-- <a href="move-lookup.html?q=tm06-toxic">TM06 - Toxic</a>
-- <a href="move-lookup.html?q=tm07-whirlpool">TM07 - Whirlpool</a>
-- <a href="move-lookup.html?q=tm09-bullet-seed">TM09 - Bullet Seed</a>
-- <a href="move-lookup.html?q=tm11-sunny-day">TM11 - Sunny Day</a>
-- <a href="move-lookup.html?q=tm13-ice-beam">TM13 - Ice Beam</a>
-- <a href="move-lookup.html?q=tm14-blizzard">TM14 - Blizzard</a>
-- <a href="move-lookup.html?q=tm17-protect">TM17 - Protect</a>
-- <a href="move-lookup.html?q=tm18-rain-dance">TM18 - Rain Dance</a>
-- <a href="move-lookup.html?q=tm29-psychic">TM29 - Psychic</a>
-- <a href="move-lookup.html?q=tm32-double-team">TM32 - Double Team</a>
-- <a href="move-lookup.html?q=tm35-flamethrower">TM35 - Flamethrower</a>
-- <a href="move-lookup.html?q=tm36-sludge-bomb">TM36 - Sludge Bomb</a>
-- <a href="move-lookup.html?q=tm38-fire-blast">TM38 - Fire Blast</a>
-- <a href="move-lookup.html?q=tm42-facade">TM42 - Facade</a>
-- <a href="move-lookup.html?q=tm44-rest">TM44 - Rest</a>
-- <a href="move-lookup.html?q=tm45-attract">TM45 - Attract</a>
-- <a href="move-lookup.html?q=tm46-thief">TM46 - Thief</a>
-- <a href="move-lookup.html?q=tm56-scald">TM56 - Scald</a>
-- <a href="move-lookup.html?q=tm58-thunder-wave">TM58 - Thunder Wave</a>
-- <a href="move-lookup.html?q=hm03-surf">HM03 - Surf</a>
-- <a href="move-lookup.html?q=hm07-waterfall">HM07 - Waterfall</a>
-- <a href="move-lookup.html?q=hm08-dive">HM08 - Dive</a>
+- <a href="move-lookup.html?q=water-pulse">TM03 - Water Pulse</a>
+- <a href="move-lookup.html?q=toxic">TM06 - Toxic</a>
+- <a href="move-lookup.html?q=whirlpool">TM07 - Whirlpool</a>
+- <a href="move-lookup.html?q=bullet-seed">TM09 - Bullet Seed</a>
+- <a href="move-lookup.html?q=sunny-day">TM11 - Sunny Day</a>
+- <a href="move-lookup.html?q=ice-beam">TM13 - Ice Beam</a>
+- <a href="move-lookup.html?q=blizzard">TM14 - Blizzard</a>
+- <a href="move-lookup.html?q=protect">TM17 - Protect</a>
+- <a href="move-lookup.html?q=rain-dance">TM18 - Rain Dance</a>
+- <a href="move-lookup.html?q=psychic">TM29 - Psychic</a>
+- <a href="move-lookup.html?q=double-team">TM32 - Double Team</a>
+- <a href="move-lookup.html?q=flamethrower">TM35 - Flamethrower</a>
+- <a href="move-lookup.html?q=sludge-bomb">TM36 - Sludge Bomb</a>
+- <a href="move-lookup.html?q=fire-blast">TM38 - Fire Blast</a>
+- <a href="move-lookup.html?q=facade">TM42 - Facade</a>
+- <a href="move-lookup.html?q=rest">TM44 - Rest</a>
+- <a href="move-lookup.html?q=attract">TM45 - Attract</a>
+- <a href="move-lookup.html?q=thief">TM46 - Thief</a>
+- <a href="move-lookup.html?q=scald">TM56 - Scald</a>
+- <a href="move-lookup.html?q=thunder-wave">TM58 - Thunder Wave</a>
+- <a href="move-lookup.html?q=surf">HM03 - Surf</a>
+- <a href="move-lookup.html?q=waterfall">HM07 - Waterfall</a>
+- <a href="move-lookup.html?q=dive">HM08 - Dive</a>
 
 **Evolution Info**
 Lv. 27
