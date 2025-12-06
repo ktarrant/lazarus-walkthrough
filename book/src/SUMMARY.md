@@ -14,6 +14,7 @@
 - [Backtracking - New Areas With Surf](<chapter-10.md>)
 - [Sea of Asteri & Marmaro Island](<chapter-11.md>)
 - [Myrrini Island](<chapter-12.md>)
+- [Pentepetal City](<chapter-13.md>)
 
 # Resources
 - [Pokemon Lookup](<pokemon-lookup.md>)

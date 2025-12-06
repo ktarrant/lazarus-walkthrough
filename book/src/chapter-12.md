@@ -1,12 +1,19 @@
 # Myrrini Island
 
 ## Myrrini Island
+- Here you find the fifth gym, which uses Poison and Water type Pokemon.
 - In one of the houses is TM05.
 - The lady with the bee sells nectars.
 - The artist will give you TM43.
 - The daycare is on this island.
 - North of the daycare is a Carbos.
 - East of the daycare is TM17 Protect.
+
+### After The Gym
+After the gym you will get pulled into a confrontation with Team Chimera (no battling).
+Then you will get a quest to go fight them back at Marmaro Island.
+You will also gain access to Pentepetal City via the old sailor, but we will take the long way later.
+First, we want to beat Team Chimera so we can use Dive.
 
 ### Quests
 - <label><input type="checkbox" class="quest-check" data-quest="myrrini-island-rift-in-the-heart"> **Rift in the Heart** — Get Heart Scale for Punk Rocker in NW house _(Reward: TM36 Sludge Bomb)_.</label>
@@ -40,3 +47,9 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
 })();
 </script>
+
+## Back to Marmaro Island
+It's time to go back to Marmaro Island to fight Team Chimera.
+Go back to the hill with the mine and fight the grunts in the mine.
+Defeating the admin unlocks mining to get items, and also gets you
+HM08 Dive.
