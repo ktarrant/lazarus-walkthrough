@@ -137,13 +137,13 @@ This produces:
 Include these pages anywhere in the walkthrough via
 `{{#include ./items-evolution-key.md}}` (or the respective filename).
 
-### Egg group reference
+### Pokemon breeding reference
 
-Generate a Markdown index that lists every egg group in the custom Pokédex and
+Generate a Markdown page covering breeding basics plus an egg-group index that
 links to the Pokémon cards for each species:
 
 ```sh
-cargo run -- egg-groups --out book/src/egg-groups.md
+cargo run -- egg-groups --out book/src/pokemon-breeding.md
 ```
 
 The file is safe to commit and can be linked wherever needed in the book.

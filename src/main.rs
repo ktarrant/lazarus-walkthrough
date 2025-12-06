@@ -63,7 +63,7 @@ enum Command {
     /// Render a reference list of egg groups -> encountered Pokémon
     EggGroups {
         /// Output file for the generated Markdown
-        #[arg(long, default_value = "book/src/egg-groups.md")]
+        #[arg(long, default_value = "book/src/pokemon-breeding.md")]
         out: PathBuf,
     },
     /// Generate a move catalog (move -> Pokémon -> method)

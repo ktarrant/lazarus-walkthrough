@@ -27,7 +27,7 @@
 - [Move Catalog](<move-catalog.md>)
 - [Move Lookup](<move-lookup.md>)
 - [Conservation Donation Guide](<conservation.md>)
-- [Egg Groups](<egg-groups.md>)
+- [Pokemon Breeding](<pokemon-breeding.md>)
 - [Berry System](<berry-system.md>)
 - [Important Game Tips](<important-game-tips.md>)
 - [Acrisia University Progress Rewards](<acrisia-university-rewards.md>)
