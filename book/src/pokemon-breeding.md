@@ -2,10 +2,10 @@
 
 ## Breeding basics
 - Compatible parents: Either two in the same egg group (opposite genders) or any breedable Pokemon with Ditto. Baby forms and most legendaries/mythicals are not breedable.
-- IV inheritance: Without items, three IVs are chosen at random from either parent and the other three are random. With a Destiny Knot, five IVs are inherited from the parents (best for passing high IVs). Power items force one specific IV from the holder.
+- IV inheritance: Without items, three IVs are chosen at random from either parent and the other three are random. With a Destiny Knot, five IVs are inherited from the parents. Power items force one specific IV from the holder.
 - Nature inheritance: An Everstone on a parent locks that parent’s Nature on the offspring. Without an Everstone, the Nature is random.
-- Egg Moves: In modern rules (Gen 6+), any move in either parent’s “egg move” list can pass down if the parent currently knows it. You can also re-teach egg moves from another parent of the same species in the nursery. Chain-breeding still works for spreading moves across species in the same egg group.
-- Ability inheritance: Standard rules apply—non-hidden abilities pass from either parent, and Hidden Abilities pass from the mother (or from either parent when breeding with Ditto) at ~60% in modern rules. If the Hidden Ability fails to pass, the offspring rolls one of the regular abilities. No held item changes the Hidden Ability odds.
+- Egg Moves: In modern rules (Gen 6+), any move in either parent’s egg-move list can pass down if the parent knows it; parents of the same species can also share egg moves in the nursery.
+- Ability inheritance: Hidden Abilities pass from the mother (or either parent when breeding with Ditto) at roughly a 60% chance; otherwise the offspring rolls a regular ability. No held item boosts this HA chance.
 - Other items: Destiny Knot and Everstone are the key helpers (assumed available in Lazarus); Power items help target specific IVs.
 
 ## Egg group reference

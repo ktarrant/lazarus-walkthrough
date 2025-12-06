@@ -128,8 +128,8 @@ enum Command {
         /// Output path for ability catalog
         #[arg(long, default_value = "book/src/ability-catalog.md")]
         ability_out: PathBuf,
-        /// Output path for egg groups index
-        #[arg(long, default_value = "book/src/egg-groups.md")]
+        /// Output path for breeding guide / egg groups index
+        #[arg(long, default_value = "book/src/pokemon-breeding.md")]
         eggs_out: PathBuf,
         /// Output path for Pokédex page
         #[arg(long, default_value = "book/src/pokedex.md")]
@@ -973,8 +973,16 @@ fn render_egg_groups(pokedex_path: PathBuf, out: PathBuf) -> Result<()> {
     let group_count = groups.len();
 
     let mut buf = String::new();
-    buf.push_str("# Egg Groups\n\n");
-    buf.push_str("Pokémon available in Lazarus grouped by egg group.\n\n");
+    buf.push_str("# Pokemon Breeding\n\n");
+    buf.push_str("## Breeding basics\n");
+    buf.push_str("- Compatible parents: Either two in the same egg group (opposite genders) or any breedable Pokemon with Ditto. Baby forms and most legendaries/mythicals are not breedable.\n");
+    buf.push_str("- IV inheritance: Without items, three IVs are chosen at random from either parent and the other three are random. With a Destiny Knot, five IVs are inherited from the parents. Power items force one specific IV from the holder.\n");
+    buf.push_str("- Nature inheritance: An Everstone on a parent locks that parent’s Nature on the offspring. Without an Everstone, the Nature is random.\n");
+    buf.push_str("- Egg Moves: In modern rules (Gen 6+), any move in either parent’s egg-move list can pass down if the parent knows it; parents of the same species can also share egg moves in the nursery.\n");
+    buf.push_str("- Ability inheritance: Hidden Abilities pass from the mother (or either parent when breeding with Ditto) at roughly a 60% chance; otherwise the offspring rolls a regular ability. No held item boosts this HA chance.\n");
+    buf.push_str("- Other items: Destiny Knot and Everstone are the key helpers (assumed available in Lazarus); Power items help target specific IVs.\n\n");
+    buf.push_str("## Egg group reference\n\n");
+    buf.push_str("Pokemon available in Lazarus grouped by egg group.\n\n");
     buf.push_str("<div class=\"egg-group-grid\">\n");
     for (group, entries) in groups {
         buf.push_str("<div class=\"egg-group-section\">\n");
