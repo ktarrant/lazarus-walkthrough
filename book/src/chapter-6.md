@@ -13,8 +13,8 @@ If you want to look at what can be caught there, see Chapter 7.
 - On the beach in the south, a Move Relearner is available if you have 20 Pokemon registered.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="pythios-town-impatience-is-a-virtue"> **Impatience is a Virtue** — Get 3 Quick Balls for Athlete _(Reward: Ultra Ball x3; Split: Kleio Lvl 22)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="pythios-town-save-our-sails"> **Save our Sails!** — Defeat Team Chimera Admin east of town _(Reward: Unlock Delphis transport ship; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="pythios-town-impatience-is-a-virtue"> **Impatience is a Virtue** — Get 3 Quick Balls for Athlete _(Reward: Ultra Ball x3)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="pythios-town-save-our-sails"> **Save our Sails!** — Defeat Team Chimera Admin east of town _(Reward: Unlock Delphis transport ship)_.</label>
 
 <script>
 (function() {
@@ -48,6 +48,6 @@ If you want to look at what can be caught there, see Chapter 7.
 She will give you an Ice Stone if you talk to her with one in your party.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="pythios-cemetery-snom-infestation"> **Snom Infestation** — Show Snom in party to the old lady in the north _(Reward: Ice Stone; Split: Kleio Lvl 22)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="pythios-cemetery-snom-infestation"> **Snom Infestation** — Show Snom in party to the old lady in the north _(Reward: Ice Stone)_.</label>
 
 {{#include ./encounters/pythios-cemetery.md}}

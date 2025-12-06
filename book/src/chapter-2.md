@@ -7,9 +7,9 @@ The gym leader specializes in Grass and Bug type Pokemon.
 Winning allows you to use HM01 Cut outside of battle.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-lovestruck-biker"> **Lovestruck Biker** — Get Heart Scale for Cycling Man in north of town _(Reward: Love Ball x5; Split: Polymnia Lvl 12)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-talk-to-prof-elia"> **Talk to Prof. Elia** — Go back to Acrisia City _(Reward: Ability Capsule; Split: Ourani Lvl 19)_.</label>
-- **Berry milestones** _(Split: Ourani Lvl 19)_:
+- <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-lovestruck-biker"> **Lovestruck Biker** — Get Heart Scale for Cycling Man in north of town _(Reward: Love Ball x5)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-talk-to-prof-elia"> **Talk to Prof. Elia** — Go back to Acrisia City _(Reward: Ability Capsule)_.</label>
+- **Berry milestones**:
   - <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-berry-20">Berry Novice (20 berries): Chilan/Haban/Roseli Berries</label>
   - <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-berry-50">Berry Enthusiast (50 berries): Level 20 Woobat with special moves</label>
   - <label><input type="checkbox" class="quest-check" data-quest="jusmail-town-berry-100">Berry Expert (100 berries): Amaze Mulch x10, Shiny Charm</label>

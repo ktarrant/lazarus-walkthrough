@@ -10,15 +10,15 @@ You can't proceed south through Lastlight Road yet.
 - On the east side of the North area of the conservation center you can find a Nugget.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zookeeper"> **Zookeeper** — Fill all exhibits with Pokémon _(Reward: Ogerpon; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations"> **Zoo Donations** — Donate 5 Pokémon _(Reward: Zookeeper Outfit; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations-2"> **Zoo Donations** — Donate 10 Pokémon _(Reward: Nest Ball x5, Repeat Ball x5; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations-3"> **Zoo Donations** — Donate 20 Pokémon _(Reward: Master Ball; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations-4"> **Zoo Donations** — Donate 30 Pokémon _(Reward: Cornerstone/Wellspring/Hearthflame Masks; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-domestic-pokemon"> **Domestic Pokémon** — Donate 3 Pokémon to the Suburbs Enclosure _(Reward: TM01 Wish; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-a-paleo-nerds-dream"> **A Paleo Nerd's Dream** — Donate a Lazarus Taxa Pokémon _(Reward: Exp. Candy L; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-cross-species-crossing"> **Cross-Species Crossing** — Register Braviary in the Pokédex for the zoo scientist _(Reward: Thick Club; Split: Euterpe Lvl 31)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-kalos-curiosity"> **Kalos Curiosity** — Show Tyrunt in party to the scientist in Kipos Town _(Reward: Protein; Split: Euterpe Lvl 31)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zookeeper"> **Zookeeper** — Fill all exhibits with Pokémon _(Reward: Ogerpon)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations"> **Zoo Donations** — Donate 5 Pokémon _(Reward: Zookeeper Outfit)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations-2"> **Zoo Donations** — Donate 10 Pokémon _(Reward: Nest Ball x5, Repeat Ball x5)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations-3"> **Zoo Donations** — Donate 20 Pokémon _(Reward: Master Ball)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-zoo-donations-4"> **Zoo Donations** — Donate 30 Pokémon _(Reward: Cornerstone/Wellspring/Hearthflame Masks)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-domestic-pokemon"> **Domestic Pokémon** — Donate 3 Pokémon to the Suburbs Enclosure _(Reward: TM01 Wish)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-a-paleo-nerds-dream"> **A Paleo Nerd's Dream** — Donate a Lazarus Taxa Pokémon _(Reward: Exp. Candy L)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-cross-species-crossing"> **Cross-Species Crossing** — Register Braviary in the Pokédex for the zoo scientist _(Reward: Thick Club)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="kipos-town-kalos-curiosity"> **Kalos Curiosity** — Show Tyrunt in party to the scientist in Kipos Town _(Reward: Protein)_.</label>
 
 ### Encounters
 

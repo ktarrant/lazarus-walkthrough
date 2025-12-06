@@ -12,7 +12,8 @@
 - [Sofos City](<chapter-8.md>)
 - [Kipos Town](<chapter-9.md>)
 - [Backtracking - New Areas With Surf](<chapter-10.md>)
-- [Sea of Asteri](<chapter-11.md>)
+- [Sea of Asteri & Marmaro Island](<chapter-11.md>)
+- [Myrrini Island](<chapter-12.md>)
 
 # Resources
 - [Pokemon Lookup](<pokemon-lookup.md>)

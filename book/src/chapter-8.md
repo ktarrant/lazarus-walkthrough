@@ -21,14 +21,14 @@ north of the city to fight Team Chimera. They will give you the
 Key Stone to show to Niko. Niko will give you HM03 Surf.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-no-nodding-off"> **No Nodding Off!** — Bring an Awakening to the old lady west of the gym _(Reward: Rare Candy; Split: Terpsikore Lvl 27)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-arcade-escapade"> **Arcade Escapade** — Bring 5 Pinball Points to the computer guy in the west of the city _(Reward: Covert Cloak; Split: Terpsikore Lvl 27)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-master-of-terrain"> **Master of Terrain** — Show Alolan Raichu to the man by the grass _(Reward: Raichu Doll; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-no-nodding-off"> **No Nodding Off!** — Bring an Awakening to the old lady west of the gym _(Reward: Rare Candy)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-arcade-escapade"> **Arcade Escapade** — Bring 5 Pinball Points to the computer guy in the west of the city _(Reward: Covert Cloak)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-master-of-terrain"> **Master of Terrain** — Show Alolan Raichu to the man by the grass _(Reward: Raichu Doll)_.</label>
   - Encounter routes: Port Pello, Wakewater Isle
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-bird-brained"> **Bird-Brained** — Register Noctowl and Xatu for the bird lady _(Reward: Wise Glasses; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-bird-brained"> **Bird-Brained** — Register Noctowl and Xatu for the bird lady _(Reward: Wise Glasses)_.</label>
   - Encounter routes (Noctowl): Sofos City, Sea of Vulcai
   - Encounter routes (Xatu): Nyx Trails
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-nemos-birds"> **Nemo's Birds** — Show all 4 Oricorio forms to Nemo in the SE house _(Reward: Glimmering Charm, Oricorio Doll; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-nemos-birds"> **Nemo's Birds** — Show all 4 Oricorio forms to Nemo in the SE house _(Reward: Glimmering Charm, Oricorio Doll)_.</label>
   - Oricorio Baile: Jusmail Town, Myrrini Island
   - Oricorio Pom-Pom: Myrrini Island
   - Oricorio Pa'u: Myrrini Island
@@ -54,10 +54,10 @@ Key Stone to show to Niko. Niko will give you HM03 Surf.
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
 })();
 </script>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-first-battle-pavilion"> **First Battle Pavilion** — Participate in the Sofos Battle Pavilion _(Reward: Exp. Candy M x2; Split: Terpsikore Lvl 27)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-the-legend-of-kyogre"> **The Legend of Kyogre** — Find Kyogre and show your strength _(Reward: Unlock Kyogre encounter; Split: Gym 8 Lvl 50)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-the-legend-of-groudon"> **The Legend of Groudon** — Find Groudon and show your strength _(Reward: Unlock Groudon encounter; Split: Gym 8 Lvl 50)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-the-legend-of-rayquaza"> **The Legend of Rayquaza** — Find Rayquaza and show your strength _(Reward: Unlock Rayquaza encounter; Split: Gym 8 Lvl 50)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-first-battle-pavilion"> **First Battle Pavilion** — Participate in the Sofos Battle Pavilion _(Reward: Exp. Candy M x2)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-the-legend-of-kyogre"> **The Legend of Kyogre** — Find Kyogre and show your strength _(Reward: Unlock Kyogre encounter)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-the-legend-of-groudon"> **The Legend of Groudon** — Find Groudon and show your strength _(Reward: Unlock Groudon encounter)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="sofos-city-the-legend-of-rayquaza"> **The Legend of Rayquaza** — Find Rayquaza and show your strength _(Reward: Unlock Rayquaza encounter)_.</label>
 
 ### Battle Pavilion
 In the Battle Pavilion you take three rental Pokemon and then fight

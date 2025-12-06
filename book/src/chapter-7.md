@@ -14,7 +14,7 @@ if you can afford it as it is a long way to go back and forth to the
 PokeCenter.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="erinys-path-chimeras-mega-plan"> **Chimera's Mega Plan** — Defeat Team Chimera in Sofos City, return to Niko _(Reward: HM03 Surf; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="erinys-path-chimeras-mega-plan"> **Chimera's Mega Plan** — Defeat Team Chimera in Sofos City, return to Niko _(Reward: HM03 Surf)_.</label>
 
 <script>
 (function() {
@@ -50,7 +50,7 @@ Something resistant to electricity will help.
 You can't complete the Froslass Quest until you get Surf.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="froslass-cavern-b2f-keeper-of-the-cave"> **Keeper of the Cave** — Catch the Froslass in Froslass Cavern _(Reward: Exp. Candy M x3; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="froslass-cavern-b2f-keeper-of-the-cave"> **Keeper of the Cave** — Catch the Froslass in Froslass Cavern _(Reward: Exp. Candy M x3)_.</label>
 
 {{#include ./encounters/froslass-cavern-f1.md}}
 
@@ -65,7 +65,7 @@ Niko will fight you on this route, then ask him to get the Key Stone
 from Team Chimera in Sofos City.
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="asfal-hills-a-tall-order"> **A Tall Order** — Register Girafarig in the Pokédex for the boy in the house _(Reward: TM34 Shock Wave; Split: Terpsikore Lvl 27)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="asfal-hills-a-tall-order"> **A Tall Order** — Register Girafarig in the Pokédex for the boy in the house _(Reward: TM34 Shock Wave)_.</label>
   - Encounter routes: Corrin Crossing, Palati City, Sofos City
 
 ### Encounters

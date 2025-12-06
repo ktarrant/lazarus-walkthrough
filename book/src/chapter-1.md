@@ -41,12 +41,12 @@ Sleep offers the highest catch rate increase of all status effects.
 {{#include ./pokemon/munna.md}}
 
 ### Quests
-- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-find-pokedex"> **Find Pokédex** — Return Parcel to the Professor _(Reward: Rotom Phone, Exp. Share, Outfit Box; Split: Polymnia Lvl 12)_.</label>
-- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-a-girlypop-dream"> **A Girlypop Dream** — Register Togepi in the Pokédex _(Reward: Eviolite; Split: Polymnia Lvl 12)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-find-pokedex"> **Find Pokédex** — Return Parcel to the Professor _(Reward: Rotom Phone, Exp. Share, Outfit Box)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-a-girlypop-dream"> **A Girlypop Dream** — Register Togepi in the Pokédex _(Reward: Eviolite)_.</label>
   - Encounter routes: Erinys Path (West), Sea of Asteri (East)
-- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-rocknroll-pokemon"> **Rock'n'Roll Pokémon** — Show Blitzle in party to the lady in SW house _(Reward: Rare Candy; Split: Polymnia Lvl 12)_.</label>
+- <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-rocknroll-pokemon"> **Rock'n'Roll Pokémon** — Show Blitzle in party to the lady in SW house _(Reward: Rare Candy)_.</label>
   - Encounter routes: Wanderer's Woods (North)
-- **Species Quest milestones** _(Split: Kleio Lvl 22)_:
+- **Species Quest milestones**:
   - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest">10: Nugget</label>
   - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-2">25: Loaded Dice</label>
   - <label><input type="checkbox" class="quest-check" data-quest="acrisia-city-species-quest-3">50: TM27 Return</label>
