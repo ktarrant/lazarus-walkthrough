@@ -14,13 +14,13 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=skiploom">Skiploom</a> | 20% | — | <input type="checkbox" class="caught-check" data-species="skiploom" /> |
 | <a href="../pokemon-lookup.html?q=sligoo">Sligoo</a> | 5% | — | <input type="checkbox" class="caught-check" data-species="sligoo" /> |
 | <a href="../pokemon-lookup.html?q=tauros">Tauros</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="tauros" /> |
-| <a href="../pokemon-lookup.html?q=tauros-combat-breed">Tauros Combat Breed</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="tauros-combat-breed" /> |
+| <a href="../pokemon-lookup.html?q=paldean-tauros-c">Tauros Combat Breed</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="paldean-tauros-c" /> |
 | <a href="../pokemon-lookup.html?q=weepinbell">Weepinbell</a> | 10% | 10% | <input type="checkbox" class="caught-check" data-species="weepinbell" /> |
 | <a href="../pokemon-lookup.html?q=arbok">Arbok</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="arbok" /> |
 | <a href="../pokemon-lookup.html?q=hisuian-sligoo">Hisuian Sligoo</a> | — | 5% | <input type="checkbox" class="caught-check" data-species="hisuian-sligoo" /> |
 | <a href="../pokemon-lookup.html?q=skuntank">Skuntank</a> | — | 4% | <input type="checkbox" class="caught-check" data-species="skuntank" /> |
-| <a href="../pokemon-lookup.html?q=tauros-aqua-breed">Tauros Aqua Breed</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="tauros-aqua-breed" /> |
-| <a href="../pokemon-lookup.html?q=tauros-blaze-breed">Tauros Blaze Breed</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="tauros-blaze-breed" /> |
+| <a href="../pokemon-lookup.html?q=paldean-tauros-b">Tauros Aqua Breed</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="paldean-tauros-b" /> |
+| <a href="../pokemon-lookup.html?q=paldean-tauros-a">Tauros Blaze Breed</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="paldean-tauros-a" /> |
 | <a href="../pokemon-lookup.html?q=togedemaru">Togedemaru</a> | — | 4% | <input type="checkbox" class="caught-check" data-species="togedemaru" /> |
 
 <script>

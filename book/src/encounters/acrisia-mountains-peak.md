@@ -5,11 +5,11 @@ _Source: Pokemon Lazarus Encounters PDF_
 
 | Pokémon | Grass (Day) | Grass (Night) | ☑ |
 | --- | --- | --- | --- |
-| <a href="../pokemon-lookup.html?q=flabebe-blue-flower">Flabebe Blue Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe-blue-flower" /> |
-| <a href="../pokemon-lookup.html?q=flabebe-orange-flower">Flabebe Orange Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe-orange-flower" /> |
-| <a href="../pokemon-lookup.html?q=flabebe-red-flower">Flabebe Red Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe-red-flower" /> |
-| <a href="../pokemon-lookup.html?q=flabebe-white-flower">Flabebe White Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe-white-flower" /> |
-| <a href="../pokemon-lookup.html?q=flabebe-yellow-flower">Flabebe Yellow Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe-yellow-flower" /> |
+| <a href="../pokemon-lookup.html?q=flabebe">Flabebe Blue Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe" /> |
+| <a href="../pokemon-lookup.html?q=flabebe">Flabebe Orange Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe" /> |
+| <a href="../pokemon-lookup.html?q=flabebe">Flabebe Red Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe" /> |
+| <a href="../pokemon-lookup.html?q=flabebe">Flabebe White Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe" /> |
+| <a href="../pokemon-lookup.html?q=flabebe">Flabebe Yellow Flower</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="flabebe" /> |
 | <a href="../pokemon-lookup.html?q=flittle">Flittle</a> | 20% | 20% | <input type="checkbox" class="caught-check" data-species="flittle" /> |
 | <a href="../pokemon-lookup.html?q=pichu">Pichu</a> | 20% | 10% | <input type="checkbox" class="caught-check" data-species="pichu" /> |
 | <a href="../pokemon-lookup.html?q=snover">Snover</a> | 10% | 10% | <input type="checkbox" class="caught-check" data-species="snover" /> |

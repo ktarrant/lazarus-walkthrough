@@ -11,12 +11,12 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=houndour">Houndour</a> | 10% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="houndour" /> |
 | <a href="../pokemon-lookup.html?q=kabuto">Kabuto</a> | 10% | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="kabuto" /> |
 | <a href="../pokemon-lookup.html?q=mimikyu">Mimikyu</a> | 2% | 2% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="mimikyu" /> |
-| <a href="../pokemon-lookup.html?q=minior-green-core">Minior Green Core</a> | 4% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="minior-green-core" /> |
-| <a href="../pokemon-lookup.html?q=minior-yellow-core">Minior Yellow Core</a> | 4% | 4% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="minior-yellow-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Green Core</a> | 4% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Yellow Core</a> | 4% | 4% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
 | <a href="../pokemon-lookup.html?q=onix">Onix</a> | 10% | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="onix" /> |
 | <a href="../pokemon-lookup.html?q=spinarak">Spinarak</a> | 10% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="spinarak" /> |
 | <a href="../pokemon-lookup.html?q=fomantis">Fomantis</a> | — | 20% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="fomantis" /> |
-| <a href="../pokemon-lookup.html?q=minior-violet-core">Minior Violet Core</a> | — | 4% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="minior-violet-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Violet Core</a> | — | 4% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
 | <a href="../pokemon-lookup.html?q=salandit">Salandit</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="salandit" /> |
 | <a href="../pokemon-lookup.html?q=skorupi">Skorupi</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="skorupi" /> |
 | <a href="../pokemon-lookup.html?q=seel">Seel</a> | — | — | 30% | — | — | — | <input type="checkbox" class="caught-check" data-species="seel" /> |

@@ -12,13 +12,13 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=pachirisu">Pachirisu</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="pachirisu" /> |
 | <a href="../pokemon-lookup.html?q=pawmi">Pawmi</a> | 15% | 15% | <input type="checkbox" class="caught-check" data-species="pawmi" /> |
 | <a href="../pokemon-lookup.html?q=tauros">Tauros</a> | 20% | — | <input type="checkbox" class="caught-check" data-species="tauros" /> |
-| <a href="../pokemon-lookup.html?q=tauros-combat-breed">Tauros Combat Breed</a> | 20% | — | <input type="checkbox" class="caught-check" data-species="tauros-combat-breed" /> |
+| <a href="../pokemon-lookup.html?q=paldean-tauros-c">Tauros Combat Breed</a> | 20% | — | <input type="checkbox" class="caught-check" data-species="paldean-tauros-c" /> |
 | <a href="../pokemon-lookup.html?q=yamper">Yamper</a> | 10% | 10% | <input type="checkbox" class="caught-check" data-species="yamper" /> |
 | <a href="../pokemon-lookup.html?q=dedenne">Dedenne</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="dedenne" /> |
 | <a href="../pokemon-lookup.html?q=shroodle">Shroodle</a> | — | 5% | <input type="checkbox" class="caught-check" data-species="shroodle" /> |
 | <a href="../pokemon-lookup.html?q=stunky">Stunky</a> | — | 6% | <input type="checkbox" class="caught-check" data-species="stunky" /> |
-| <a href="../pokemon-lookup.html?q=tauros-aqua-breed">Tauros Aqua Breed</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="tauros-aqua-breed" /> |
-| <a href="../pokemon-lookup.html?q=tauros-blaze-breed">Tauros Blaze Breed</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="tauros-blaze-breed" /> |
+| <a href="../pokemon-lookup.html?q=paldean-tauros-b">Tauros Aqua Breed</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="paldean-tauros-b" /> |
+| <a href="../pokemon-lookup.html?q=paldean-tauros-a">Tauros Blaze Breed</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="paldean-tauros-a" /> |
 
 <script>
 (function() {

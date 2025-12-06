@@ -16,7 +16,7 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=pancham">Pancham</a> | 10% | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="pancham" /> |
 | <a href="../pokemon-lookup.html?q=steenee">Steenee</a> | 20% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="steenee" /> |
 | <a href="../pokemon-lookup.html?q=drowzee">Drowzee</a> | — | 20% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="drowzee" /> |
-| <a href="../pokemon-lookup.html?q=floette-blue-flower">Floette Blue Flower</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="floette-blue-flower" /> |
+| <a href="../pokemon-lookup.html?q=floette">Floette Blue Flower</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="floette" /> |
 | <a href="../pokemon-lookup.html?q=goomy">Goomy</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="goomy" /> |
 | <a href="../pokemon-lookup.html?q=finizen">Finizen</a> | — | — | 10% | — | — | — | <input type="checkbox" class="caught-check" data-species="finizen" /> |
 | <a href="../pokemon-lookup.html?q=unovan-basculin">Unovan Basculin</a> | — | — | 30% | — | — | — | <input type="checkbox" class="caught-check" data-species="unovan-basculin" /> |

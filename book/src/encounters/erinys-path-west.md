@@ -7,8 +7,8 @@ _Source: Pokemon Lazarus Encounters PDF_
 | --- | --- | --- | --- |
 | <a href="../pokemon-lookup.html?q=baltoy">Baltoy</a> | 10% | 20% | <input type="checkbox" class="caught-check" data-species="baltoy" /> |
 | <a href="../pokemon-lookup.html?q=komala">Komala</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="komala" /> |
-| <a href="../pokemon-lookup.html?q=minior-blue-core">Minior Blue Core</a> | 4% | — | <input type="checkbox" class="caught-check" data-species="minior-blue-core" /> |
-| <a href="../pokemon-lookup.html?q=minior-indigo-core">Minior Indigo Core</a> | 4% | — | <input type="checkbox" class="caught-check" data-species="minior-indigo-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Blue Core</a> | 4% | — | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Indigo Core</a> | 4% | — | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
 | <a href="../pokemon-lookup.html?q=omanyte">Omanyte</a> | 10% | 10% | <input type="checkbox" class="caught-check" data-species="omanyte" /> |
 | <a href="../pokemon-lookup.html?q=sandile">Sandile</a> | 20% | — | <input type="checkbox" class="caught-check" data-species="sandile" /> |
 | <a href="../pokemon-lookup.html?q=solosis">Solosis</a> | 20% | — | <input type="checkbox" class="caught-check" data-species="solosis" /> |
@@ -17,10 +17,10 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=zorua">Zorua</a> | 10% | — | <input type="checkbox" class="caught-check" data-species="zorua" /> |
 | <a href="../pokemon-lookup.html?q=galarian-zigzagoon">Galarian Zigzagoon</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="galarian-zigzagoon" /> |
 | <a href="../pokemon-lookup.html?q=gothita">Gothita</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="gothita" /> |
-| <a href="../pokemon-lookup.html?q=minior-orange-core">Minior Orange Core</a> | — | 4% | <input type="checkbox" class="caught-check" data-species="minior-orange-core" /> |
-| <a href="../pokemon-lookup.html?q=minior-red-core">Minior Red Core</a> | — | 4% | <input type="checkbox" class="caught-check" data-species="minior-red-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Orange Core</a> | — | 4% | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
+| <a href="../pokemon-lookup.html?q=minior-core">Minior Red Core</a> | — | 4% | <input type="checkbox" class="caught-check" data-species="minior-core" /> |
 | <a href="../pokemon-lookup.html?q=stantler">Stantler</a> | — | 20% | <input type="checkbox" class="caught-check" data-species="stantler" /> |
-| <a href="../pokemon-lookup.html?q=zorua-hisuian">Zorua Hisuian</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="zorua-hisuian" /> |
+| <a href="../pokemon-lookup.html?q=hisuian-zorua">Zorua Hisuian</a> | — | 10% | <input type="checkbox" class="caught-check" data-species="hisuian-zorua" /> |
 
 <script>
 (function() {

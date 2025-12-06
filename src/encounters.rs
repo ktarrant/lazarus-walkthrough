@@ -175,7 +175,7 @@ impl EncounterArea {
         for (species, methods) in rows {
             let link = format!(
                 "<a href=\"../pokemon-lookup.html?q={}\">{}</a>",
-                slugify(&species),
+                normalize_species_slug(&species),
                 species
             );
             buf.push_str(&format!("| {} |", link));
@@ -195,7 +195,7 @@ impl EncounterArea {
                     .unwrap_or_else(|| "—".to_string());
                 buf.push_str(&format!(" {} |", cell));
             }
-            let species_slug = slugify(species);
+            let species_slug = normalize_species_slug(species);
             buf.push_str(&format!(
                 " <input type=\"checkbox\" class=\"caught-check\" data-species=\"{}\" /> |\n",
                 species_slug
@@ -365,6 +365,48 @@ pub fn slugify(input: &str) -> String {
         }
     }
     slug.trim_matches('-').to_string()
+}
+
+pub fn normalize_species_slug(name: &str) -> String {
+    let slug = slugify(name);
+
+    // Normalize regional suffixes written after the name
+    for (suffix, prefix) in [
+        ("-hisuian", "hisuian-"),
+        ("-galarian", "galarian-"),
+        ("-alolan", "alolan-"),
+        ("-paldean", "paldean-"),
+    ] {
+        if slug.ends_with(suffix) && !slug.starts_with(prefix) {
+            let base = slug.trim_end_matches(suffix).trim_matches('-');
+            return format!("{prefix}{base}");
+        }
+    }
+
+    // Minior color cores all map to the core form
+    if slug.starts_with("minior-") && slug.ends_with("-core") {
+        return "minior-core".to_string();
+    }
+
+    // Floette flower colors map to base floette entry
+    if slug.starts_with("floette-") && slug.ends_with("-flower") {
+        return "floette".to_string();
+    }
+
+    // Flabebe flower colors map to base flabebe entry
+    if slug.starts_with("flabebe-") && slug.ends_with("-flower") {
+        return "flabebe".to_string();
+    }
+
+    // Tauros (Paldean) breed aliases
+    match slug.as_str() {
+        "tauros-combat-breed" => return "paldean-tauros-c".to_string(),
+        "tauros-aqua-breed" => return "paldean-tauros-b".to_string(),
+        "tauros-blaze-breed" => return "paldean-tauros-a".to_string(),
+        _ => {}
+    }
+
+    slug
 }
 
 pub fn list_locations(path: &PathBuf) -> Result<Vec<String>> {

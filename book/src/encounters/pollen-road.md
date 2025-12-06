@@ -8,7 +8,7 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=braviary">Braviary</a> | 5% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="braviary" /> |
 | <a href="../pokemon-lookup.html?q=comfey">Comfey</a> | 10% | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="comfey" /> |
 | <a href="../pokemon-lookup.html?q=dodrio">Dodrio</a> | 5% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="dodrio" /> |
-| <a href="../pokemon-lookup.html?q=floette-red-flower">Floette Red Flower</a> | 20% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="floette-red-flower" /> |
+| <a href="../pokemon-lookup.html?q=floette">Floette Red Flower</a> | 20% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="floette" /> |
 | <a href="../pokemon-lookup.html?q=hawlucha">Hawlucha</a> | 8% | 8% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="hawlucha" /> |
 | <a href="../pokemon-lookup.html?q=hisuian-electrode">Hisuian Electrode</a> | 10% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="hisuian-electrode" /> |
 | <a href="../pokemon-lookup.html?q=pachirisu">Pachirisu</a> | 10% | — | — | — | — | — | <input type="checkbox" class="caught-check" data-species="pachirisu" /> |
@@ -18,7 +18,7 @@ _Source: Pokemon Lazarus Encounters PDF_
 | <a href="../pokemon-lookup.html?q=charjabug">Charjabug</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="charjabug" /> |
 | <a href="../pokemon-lookup.html?q=dedenne">Dedenne</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="dedenne" /> |
 | <a href="../pokemon-lookup.html?q=espathra">Espathra</a> | — | 5% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="espathra" /> |
-| <a href="../pokemon-lookup.html?q=floette-yellow-flower">Floette Yellow Flower</a> | — | 20% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="floette-yellow-flower" /> |
+| <a href="../pokemon-lookup.html?q=floette">Floette Yellow Flower</a> | — | 20% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="floette" /> |
 | <a href="../pokemon-lookup.html?q=hisuian-braviary">Hisuian Braviary</a> | — | 5% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="hisuian-braviary" /> |
 | <a href="../pokemon-lookup.html?q=togedemaru">Togedemaru</a> | — | 10% | — | — | — | — | <input type="checkbox" class="caught-check" data-species="togedemaru" /> |
 | <a href="../pokemon-lookup.html?q=dhelmise">Dhelmise</a> | — | — | 5% | — | — | — | <input type="checkbox" class="caught-check" data-species="dhelmise" /> |
